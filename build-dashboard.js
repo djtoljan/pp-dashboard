@@ -174,15 +174,13 @@ tr:hover td { background: #fafafa; }
 <title>ПП-дашборд</title><style>${CSS}</style></head>
 <body>
 <h1>📊 ПП-дашборд</h1>
-<div class="ts">🔄 ${ts()} МСК · ${stats.total} строк</div>
+<div class="ts">🔄 ${ts()} МСК</div>
 
 <div class="grid">
-  <div class="card card-dark"><div class="lbl">Всего</div><div class="val">${stats.total}</div><div class="sub"></div></div>
-  <div class="card card-green"><div class="lbl">🟢 Выполнено</div><div class="val">${stats.green}</div><div class="sub">${Math.round(stats.green/stats.total*100)}%</div></div>
-  <div class="card card-yellow"><div class="lbl">🟡 Ждут зелёнку</div><div class="val">${waitGreen.length}</div><div class="sub"></div></div>
-  <div class="card card-red"><div class="lbl">🔴 Ждут ПП</div><div class="val">${waitPP.length}</div><div class="sub"></div></div>
-  <div class="card card-blue"><div class="lbl">⚪ Без заявки</div><div class="val">${waitApp.length}</div><div class="sub"></div></div>
-  <div class="card card-dark"><div class="lbl">🔵 Только рубли</div><div class="val">${stats.blue}</div><div class="sub">без USDT</div></div>
+  <div class="card card-green"><div class="lbl">🟢 Выполнено</div><div class="val">${stats.green}</div></div>
+  <div class="card card-yellow"><div class="lbl">🟡 Подвешено</div><div class="val">${waitGreen.length}</div></div>
+  <div class="card card-red"><div class="lbl">🔴 В работе</div><div class="val">${waitPP.length}</div></div>
+  <div class="card card-blue"><div class="lbl">⚪ Без заявки</div><div class="val">${waitApp.length}</div></div>
 </div>`;
 
   // ===== TODAY SECTION =====
