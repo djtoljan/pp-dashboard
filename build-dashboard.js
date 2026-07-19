@@ -62,6 +62,7 @@ function build() {
   const waitPP = []; // 🔴 ждёт ПП (есть компания+расчёт)
   const waitApp = []; // ⚪ без заявки/компании
 
+  const dailyCount = {};
   let total = 0, green = 0, yellow = 0, blue = 0, white = 0, red = 0;
   let totalUsdtSent = 0, totalUsdtRecv = 0, totalRubRecv = 0;
 
@@ -89,6 +90,16 @@ function build() {
       if (r.sent_usdt) totalUsdtSent += parseFloat(r.sent_usdt) || 0;
       if (r.rubles_received) {
         String(r.rubles_received).split('/').forEach(p => { totalRubRecv += parseFloat(p) || 0; });
+      }
+
+      // Daily count (current month only)
+      if (dt && dt.length >= 7) {
+        const ym = dt.slice(0, 7);
+        const nowYM = td.slice(0, 7);
+        if (ym === nowYM) {
+          const day = dt.slice(8, 10);
+          dailyCount[day] = (dailyCount[day] || 0) + 1;
+        }
       }
 
       const entry = {
@@ -126,12 +137,12 @@ function build() {
       pending: waitGreen.length + waitPP.length + waitApp.length,
       usdtSent: Math.round(totalUsdtSent), usdtRecv: Math.round(totalUsdtRecv),
       rubRecv: Math.round(totalRubRecv) },
-    todayRows, waitGreen, waitPP, waitApp
+    todayRows, waitGreen, waitPP, waitApp, dailyCount
   };
 }
 
 function render(d) {
-  const { stats, todayRows, waitGreen, waitPP, waitApp } = d;
+  const { stats, todayRows, waitGreen, waitPP, waitApp, dailyCount } = d;
   const N = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
 
   const CSS = `*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -246,6 +257,27 @@ tr:hover td { background: #2a2d48; }
       </tr>`;
     }
     h += `</tbody></table>`;
+  }
+
+  // ===== DAILY RATING CHART 📊 =====
+  const days = Object.keys(dailyCount).sort((a,b)=>parseInt(a)-parseInt(b));
+  const maxDay = Math.max(...Object.values(dailyCount), 1);
+  if (days.length > 0) {
+    const monthNames = ['','январь','февраль','март','апрель','май','июнь','июль','август','сентябрь','октябрь','ноябрь','декабрь'];
+    const curMonth = new Date().getMonth() + 1;
+    h += `<h2><span class="section-label">📊</span> Дневной рейтинг заявок за ${monthNames[curMonth]}</h2>`;
+    h += `<div style="background:#242740;border-radius:10px;padding:16px;margin-bottom:16px;">`;
+    h += `<div style="display:flex;align-items:flex-end;gap:3px;min-height:160px;overflow-x:auto;">`;
+    for (const day of days) {
+      const cnt = dailyCount[day];
+      const hh = Math.max(4, (cnt / maxDay) * 130);
+      h += `<div style="display:flex;flex-direction:column;align-items:center;min-width:28px;">`;
+      h += `<div style="font-size:10px;color:#999;margin-bottom:4px;">${cnt}</div>`;
+      h += `<div style="width:22px;height:${hh}px;background:linear-gradient(180deg,#4FC3F7,#3bb3f6);border-radius:4px 4px 0 0;opacity:${0.5+(cnt/maxDay)*0.5};transition:height 0.3s;"></div>`;
+      h += `<div style="font-size:9px;color:#666;margin-top:4px;">${day}</div>`;
+      h += `</div>`;
+    }
+    h += `</div></div>`;
   }
 
   h += `<div class="footer">ПП-дашборд · ${stats.total} сделок · ${stats.green} 🟢 · ${waitGreen.length} 🟡 · ${waitPP.length} 🔴 · ${waitApp.length} ⚪ · ${ts()} МСК</div></body></html>`;
