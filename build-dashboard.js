@@ -63,6 +63,7 @@ function build() {
   const waitApp = []; // ⚪ без заявки/компании
 
   const dailyCount = {};
+  const companyDealCount = {}; // for pie chart
   let total = 0, green = 0, yellow = 0, blue = 0, white = 0, red = 0;
   let totalUsdtSent = 0, totalUsdtRecv = 0, totalRubRecv = 0;
 
@@ -90,6 +91,11 @@ function build() {
       if (r.sent_usdt) totalUsdtSent += parseFloat(r.sent_usdt) || 0;
       if (r.rubles_received) {
         String(r.rubles_received).split('/').forEach(p => { totalRubRecv += parseFloat(p) || 0; });
+      }
+
+      // Company pie — count non-blue deals
+      if (company && col !== 'blue') {
+        companyDealCount[company.toUpperCase()] = (companyDealCount[company.toUpperCase()] || 0) + 1;
       }
 
       // Daily count (current month only, valyutnie zayavki only — skip RUB and blue)
@@ -137,7 +143,7 @@ function build() {
       pending: waitGreen.length + waitPP.length + waitApp.length,
       usdtSent: Math.round(totalUsdtSent), usdtRecv: Math.round(totalUsdtRecv),
       rubRecv: Math.round(totalRubRecv) },
-    todayRows, waitGreen, waitPP, waitApp, dailyCount
+    todayRows, waitGreen, waitPP, waitApp, dailyCount, companyDealCount
   };
 }
 

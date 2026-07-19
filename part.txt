@@ -1,0 +1,22 @@
+// ===== DAILY RATING CHART 📊 =====
+  const days = Object.keys(dailyCount).sort((a,b)=>parseInt(a)-parseInt(b));
+  const maxDay = Math.max(...Object.values(dailyCount), 1);
+  if (days.length > 0) {
+    const monthNames = ['','январь','февраль','март','апрель','май','июнь','июль','август','сентябрь','октябрь','ноябрь','декабрь'];
+    const curMonth = new Date().getMonth() + 1;
+    h += `<h2><span class="section-label">📊</span> Дневной рейтинг заявок за ${monthNames[curMonth]}</h2>`;
+    h += `<div style="background:#242740;border-radius:10px;padding:16px;margin-bottom:16px;">`;
+    h += `<div style="display:flex;align-items:flex-end;gap:3px;min-height:160px;overflow-x:auto;">`;
+    for (const day of days) {
+      const cnt = dailyCount[day];
+      const hh = Math.max(4, (cnt / maxDay) * 130);
+      h += `<div style="display:flex;flex-direction:column;align-items:center;min-width:28px;">`;
+      h += `<div style="font-size:10px;color:#999;margin-bottom:4px;">${cnt}</div>`;
+      h += `<div style="width:22px;height:${hh}px;background:linear-gradient(180deg,#4FC3F7,#3bb3f6);border-radius:4px 4px 0 0;opacity:${0.5+(cnt/maxDay)*0.5};transition:height 0.3s;"></div>`;
+      h += `<div style="font-size:9px;color:#666;margin-top:4px;">${day}</div>`;
+      h += `</div>`;
+    }
+    h += `</div></div>`;
+  }
+
+  
