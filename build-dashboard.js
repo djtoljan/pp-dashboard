@@ -135,37 +135,30 @@ function render(d) {
   const N = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
 
   const CSS = `*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: 'Segoe UI', -apple-system, sans-serif; background: #f5f5f5; color: #333; padding: 24px; max-width: 1200px; margin: 0 auto; }
-h1 { font-size: 24px; margin-bottom: 2px; color: #1a1a2e; }
+body { font-family: 'Segoe UI', -apple-system, sans-serif; background: #1a1d2e; color: #e0e0e0; padding: 24px; max-width: 1200px; margin: 0 auto; }
+h1 { font-size: 24px; margin-bottom: 2px; color: #fff; }
 .ts { color: #888; font-size: 13px; margin-bottom: 20px; }
 .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 20px; }
-.card { background: #fff; border-radius: 10px; padding: 14px 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
-.card .lbl { font-size: 10px; text-transform: uppercase; letter-spacing: 0.8px; color: #888; margin-bottom: 2px; }
-.card .val { font-size: 22px; font-weight: 700; color: #1a1a2e; }
-.card .sub { font-size: 11px; color: #888; margin-top: 2px; }
+.card { background: #242740; border-radius: 10px; padding: 14px 16px; }
+.card .lbl { font-size: 10px; text-transform: uppercase; letter-spacing: 0.8px; color: #999; margin-bottom: 2px; }
+.card .val { font-size: 22px; font-weight: 700; color: #fff; }
 .card.card-green { border-left: 4px solid #92D050; }
 .card.card-red { border-left: 4px solid #e74c3c; }
 .card.card-blue { border-left: 4px solid #4FC3F7; }
 .card.card-yellow { border-left: 4px solid #FFD700; }
-.card.card-dark { border-left: 4px solid #1a1a2e; }
-h2 { font-size: 16px; margin: 20px 0 10px; color: #1a1a2e; }
-h2 span { font-weight: 400; color: #888; font-size: 13px; }
+h2 { font-size: 16px; margin: 20px 0 10px; color: #ddd; }
+h2 span { font-weight: 400; color: #777; font-size: 13px; }
 .section-label { font-size: 20px; margin-right: 6px; vertical-align: middle; }
-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 16px; }
-th { background: #f0f0f5; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: #666; font-weight: 600; white-space: nowrap; }
-td { padding: 10px 12px; border-top: 1px solid #eee; font-size: 13px; vertical-align: middle; }
-tr:hover td { background: #fafafa; }
-.n { font-family: 'Consolas', monospace; white-space: nowrap; text-align: right; }
-.sm { font-size: 11px; color: #999; }
+table { width: 100%; border-collapse: collapse; background: #242740; border-radius: 10px; overflow: hidden; margin-bottom: 16px; }
+th { background: #1e2138; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: #888; font-weight: 600; white-space: nowrap; }
+td { padding: 10px 12px; border-top: 1px solid #2a2d48; font-size: 13px; vertical-align: middle; color: #ccc; }
+tr:hover td { background: #2a2d48; }
+.n { font-family: 'Consolas', monospace; white-space: nowrap; text-align: right; color: #e0e0e0; }
+.sm { font-size: 11px; color: #777; }
 .ta { text-align: center; }
-.status-badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; white-space: nowrap; }
-.status-badge.green { background: #e8f8e8; color: #2e7d32; }
-.status-badge.yellow { background: #fff8e1; color: #f57f17; }
-.status-badge.red { background: #ffe8e8; color: #c62828; }
-.status-badge.gray { background: #f0f0f0; color: #666; }
 .emoji-lg { font-size: 28px; display: block; margin-bottom: 2px; }
-.footer { text-align: center; color: #aaa; font-size: 11px; margin-top: 24px; padding-top: 12px; border-top: 1px solid #eee; }
-.empty { text-align: center; padding: 30px; color: #999; font-size: 14px; }`;
+.footer { text-align: center; color: #555; font-size: 11px; margin-top: 24px; padding-top: 12px; border-top: 1px solid #2a2d48; }
+.empty { text-align: center; padding: 30px; color: #666; font-size: 14px; }`;
 
   let h = `<!DOCTYPE html>
 <html lang="ru">
