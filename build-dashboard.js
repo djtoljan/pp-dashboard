@@ -181,10 +181,11 @@ tr:hover td { background: #2a2d48; }
   if (todayRows.length === 0) {
     h += `<div class="empty">🌙 Сегодня сделок нет</div>`;
   } else {
-    h += `<table><thead><tr><th>Статус</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Пришло ₽</th><th>Ушло ₽</th></tr></thead><tbody>`;
+    h += `<table><thead><tr><th></th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Пришло ₽</th><th>Ушло ₽</th></tr></thead><tbody>`;
     for (const r of todayRows) {
+      const ec = r.color === 'green' ? '🟢' : r.color === 'yellow' ? '🟡' : r.color === 'red' ? '🔴' : r.color === 'blue' ? '🔵' : '⚪';
       h += `<tr>
-        <td><span class="status-badge ${r.color}">${r.color === 'green' ? '🟢' : r.color === 'yellow' ? '🟡' : r.color === 'red' ? '🔴' : r.color === 'blue' ? '🔵' : '⚪'}</span></td>
+        <td class="ta"><div class="emoji-lg">${ec}</div></td>
         <td class="n">${r.sum ? N(r.sum) : '-'}</td>
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
@@ -196,18 +197,18 @@ tr:hover td { background: #2a2d48; }
     h += `</tbody></table>`;
   }
 
-  // ===== PAST DAYS — WAITING FOR GREEN 🟡 =====
-  if (waitGreen.length > 0) {
-    h += `<h2><span class="section-label">🟡</span> Ждут зелёнку <span>${waitGreen.length}</span></h2>`;
-    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th></tr></thead><tbody>`;
-    for (const r of waitGreen) {
+  // ===== PAST DAYS — NO APPLICATION ⚪ =====
+  if (waitApp.length > 0) {
+    h += `<h2><span class="section-label">⚪</span> Без заявки (нет компании) <span>${waitApp.length}</span></h2>`;
+    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Группа</th></tr></thead><tbody>`;
+    for (const r of waitApp) {
       h += `<tr>
-        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td class="ta"><div class="emoji-lg">⚪</div></td>
         <td>${esc(r.date)}</td>
         <td class="n">${r.sum ? N(r.sum) : '-'}</td>
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
-        <td class="sm">${esc(r.company||'-')}</td>
+        <td class="sm">${r.group}</td>
       </tr>`;
     }
     h += `</tbody></table>`;
@@ -230,18 +231,18 @@ tr:hover td { background: #2a2d48; }
     h += `</tbody></table>`;
   }
 
-  // ===== PAST DAYS — NO APPLICATION ⚪ =====
-  if (waitApp.length > 0) {
-    h += `<h2><span class="section-label">⚪</span> Без заявки (нет компании) <span>${waitApp.length}</span></h2>`;
-    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Группа</th></tr></thead><tbody>`;
-    for (const r of waitApp) {
+  // ===== PAST DAYS — WAITING FOR GREEN 🟡 =====
+  if (waitGreen.length > 0) {
+    h += `<h2><span class="section-label">🟡</span> Ждут зелёнку <span>${waitGreen.length}</span></h2>`;
+    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th></tr></thead><tbody>`;
+    for (const r of waitGreen) {
       h += `<tr>
-        <td class="ta"><div class="emoji-lg">⚪</div></td>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
         <td>${esc(r.date)}</td>
         <td class="n">${r.sum ? N(r.sum) : '-'}</td>
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
-        <td class="sm">${r.group}</td>
+        <td class="sm">${esc(r.company||'-')}</td>
       </tr>`;
     }
     h += `</tbody></table>`;
