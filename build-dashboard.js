@@ -147,27 +147,28 @@ function render(d) {
 
   const CSS = `*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: 'Segoe UI', -apple-system, sans-serif; background: #1a1d2e; color: #e0e0e0; padding: 24px; max-width: 1200px; margin: 0 auto; }
-h1 { font-size: 24px; margin-bottom: 2px; color: #fff; }
-.ts { color: #888; font-size: 13px; margin-bottom: 20px; }
+h1 { font-size: 28px; margin-bottom: 2px; color: #fff; }
+.ts { color: #888; font-size: 14px; margin-bottom: 20px; }
 .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 20px; }
-.card { background: #242740; border-radius: 10px; padding: 14px 16px; }
-.card .lbl { font-size: 10px; text-transform: uppercase; letter-spacing: 0.8px; color: #999; margin-bottom: 2px; }
-.card .val { font-size: 22px; font-weight: 700; color: #fff; }
+.card { background: #242740; border-radius: 12px; padding: 16px 20px; }
+.card .lbl { font-size: 11px; text-transform: uppercase; letter-spacing: 0.8px; color: #999; margin-bottom: 2px; }
+.card .val { font-size: 26px; font-weight: 700; color: #fff; }
 .card.card-green { border-left: 4px solid #92D050; }
 .card.card-red { border-left: 4px solid #e74c3c; }
 .card.card-blue { border-left: 4px solid #4FC3F7; }
 .card.card-yellow { border-left: 4px solid #FFD700; }
-h2 { font-size: 16px; margin: 20px 0 10px; color: #ddd; }
-h2 span { font-weight: 400; color: #777; font-size: 13px; }
+h2 { font-size: 18px; margin: 20px 0 10px; color: #ddd; }
+h2 span { font-weight: 400; color: #777; font-size: 14px; }
 .section-label { font-size: 20px; margin-right: 6px; vertical-align: middle; }
 table { width: 100%; border-collapse: collapse; background: #242740; border-radius: 10px; overflow: hidden; margin-bottom: 16px; }
 th { background: #1e2138; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: #888; font-weight: 600; white-space: nowrap; }
-td { padding: 10px 12px; border-top: 1px solid #2a2d48; font-size: 13px; vertical-align: middle; color: #ccc; }
+td { padding: 11px 14px; border-top: 1px solid #2a2d48; font-size: 14px; vertical-align: middle; color: #ccc; }
 tr:hover td { background: #2a2d48; }
-.n { font-family: 'Consolas', monospace; white-space: nowrap; text-align: right; color: #e0e0e0; }
-.sm { font-size: 11px; color: #777; }
+th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: #888; font-weight: 600; white-space: nowrap; }
+.n { font-family: 'Consolas', monospace; white-space: nowrap; text-align: right; color: #e0e0e0; font-size: 14px; }
+.sm { font-size: 12px; color: #777; }
 .ta { text-align: center; }
-.emoji-lg { font-size: 28px; display: block; margin-bottom: 2px; }
+.emoji-lg { font-size: 32px; display: block; margin-bottom: 2px; }
 .footer { text-align: center; color: #555; font-size: 11px; margin-top: 24px; padding-top: 12px; border-top: 1px solid #2a2d48; }
 .empty { text-align: center; padding: 30px; color: #666; font-size: 14px; }`;
 
