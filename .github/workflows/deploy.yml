@@ -1,0 +1,48 @@
+name: Deploy Dashboard
+
+on:
+  schedule:
+    # Every 30 minutes on weekdays (Mon-Fri), 06:00-21:00 MSK
+    - cron: '*/30 3-18 * * 1-5'
+  workflow_dispatch:  # manual trigger
+  push:
+    branches: [main]
+    paths:
+      - 'data-*.json'
+      - 'build-dashboard.js'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      
+      - name: Build Dashboard
+        run: node build-dashboard.js
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
