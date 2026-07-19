@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>ПП-дашборд 2026-07-19</title>
+<style>
+/* PP-Dashboard Glassmorphism Theme — pixel-matched from Nano Banana design */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', 'SF Pro Display', -apple-system, sans-serif;
+  background: #151a35;
+  color: #fff;
+  min-height: 100vh;
+}
+
+/* ===== DASHBOARD CONTAINER ===== */
+.dashboard {
+  position: relative; width: 100%; min-height: 100vh;
+  overflow: hidden; background: #151a35;
+  padding: 24px;
+}
+
+/* ===== DECORATIVE ORB LAYER ===== */
+.orbs-layer {
+  position: absolute; inset: 0; pointer-events: none; z-index: 0;
+}
+.orb {
+  position: absolute; border-radius: 50%; filter: blur(120px);
+}
+.orb-pink   { width:250px; height:250px; top:18%; right:12%;
+              background: radial-gradient(circle, rgba(236,107,157,0.6), transparent); opacity:0.25; }
+.orb-cyan-1 { width:300px; height:280px; top:38%; right:5%;
+              background: radial-gradient(circle, rgba(59,179,246,0.5), transparent); opacity:0.3; }
+.orb-cyan-2 { width:280px; height:260px; top:35%; right:28%;
+              background: radial-gradient(circle, rgba(59,179,246,0.4), transparent); opacity:0.25; }
+.orb-green-1{ width:200px; height:200px; top:62%; right:15%;
+              background: radial-gradient(circle, rgba(78,213,138,0.5), transparent); opacity:0.2; }
+.orb-blue-1 { width:280px; height:260px; top:35%; left:20%;
+              background: radial-gradient(circle, rgba(74,130,189,0.4), transparent); opacity:0.22; }
+.orb-yellow { width:180px; height:140px; top:42%; left:12%;
+              background: radial-gradient(circle, rgba(252,228,101,0.4), transparent); opacity:0.2; }
+.orb-cyan-3 { width:240px; height:200px; top:60%; left:28%;
+              background: radial-gradient(circle, rgba(59,179,246,0.35), transparent); opacity:0.2; }
+.orb-green-2{ width:140px; height:140px; top:65%; left:10%;
+              background: radial-gradient(circle, rgba(79,206,144,0.45), transparent); opacity:0.18; }
+.orb-blue-2 { width:180px; height:160px; top:78%; left:8%;
+              background: radial-gradient(circle, rgba(72,131,240,0.35), transparent); opacity:0.18; }
+.orb-purple { width:200px; height:220px; top:75%; left:2%;
+              background: radial-gradient(circle, rgba(139,92,246,0.3), transparent); opacity:0.15; }
+
+/* ===== CONTENT LAYER ===== */
+.content { position: relative; z-index: 1; display: flex; flex-direction: column; gap: 20px; }
+
+/* ===== HEADER ===== */
+.hd {
+  display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;
+  gap: 16px; margin-bottom: 4px;
+  padding: 19px 24px;
+  background: rgba(22, 26, 53, 0.45);
+  backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  font-size: 20px; font-weight: 700;
+  background: linear-gradient(135deg, #3bb3f6, #a78bfa);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.m { color: rgba(255, 255, 255, 0.45); font-size: 12px; margin-top: 2px; }
+.ts { color: rgba(255, 255, 255, 0.3); font-size: 12px; }
+
+/* ===== KPI CARDS ROW ===== */
+.kpi-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+.kpi-card {
+  background: rgba(22, 26, 53, 0.45);
+  backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 18px;
+  padding: 20px 24px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.kpi-card .v {
+  font-size: 28px; font-weight: 700; color: #fff;
+  line-height: 1.2;
+}
+
+.kpi-card .l {
+  font-size: 11px; font-weight: 500; color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase; letter-spacing: 0.05em; margin-top: 4px;
+}
+
+.kpi-card .sub {
+  font-size: 13px; font-weight: 600; margin-top: 6px;
+}
+
+/* Card #1: Standard glass */
+.kpi-card.card-standard { }
+
+/* Card #2: Blue bleed from below */
+.kpi-card.card-blue {
+  background: linear-gradient(180deg, rgba(22, 26, 53, 0.45) 0%, rgba(22, 26, 53, 0.45) 60%, rgba(33, 81, 124, 0.25) 100%);
+  border-color: rgba(59, 179, 246, 0.12);
+}
+
+/* Card #3: Purple tint */
+.kpi-card.card-purple {
+  background: linear-gradient(135deg, rgba(31, 34, 75, 0.55) 0%, rgba(40, 41, 97, 0.5) 50%, rgba(52, 53, 131, 0.4) 100%);
+  border-color: rgba(139, 92, 246, 0.15);
+}
+
+/* ===== CHARTS ROW ===== */
+.charts-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+@media (max-width: 800px) { .charts-row { grid-template-columns: 1fr; } }
+
+.chart-panel {
+  background: rgba(22, 26, 53, 0.38);
+  backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+.chart-panel h3 {
+  font-size: 15px; font-weight: 600; color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 16px;
+}
+
+.chart-panel .chart-body {
+  display: flex; justify-content: center; align-items: flex-end;
+}
+
+/* ===== TABLE PANEL ===== */
+.table-panel {
+  background: rgba(22, 26, 53, 0.30);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-size: 16px; font-weight: 600; color: rgba(255, 255, 255, 0.8);
+  padding: 18px 24px 0;
+}
+
+h2 .t {
+  background: rgba(59, 179, 246, 0.15); color: #3bb3f6;
+  font-size: 12px; padding: 3px 12px; border-radius: 20px; font-weight: 600;
+}
+
+table {
+  width: 100%; border-collapse: collapse;
+}
+
+th {
+  text-align: left; padding: 12px 20px;
+  font-size: 11px; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.05em; color: rgba(255, 255, 255, 0.45);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+td {
+  padding: 11px 20px; font-size: 13px;
+  color: rgba(255, 255, 255, 0.75);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+  vertical-align: middle;
+}
+
+tr:last-child td { border-bottom: none; }
+
+tr:hover td { background: rgba(255, 255, 255, 0.03); }
+
+/* Status dots */
+.dot {
+  display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+  margin-right: 8px; vertical-align: middle;
+}
+.dot.green  { background: #4ed58a; box-shadow: 0 0 8px rgba(78, 213, 138, 0.4); }
+.dot.yellow { background: #fce465; box-shadow: 0 0 8px rgba(252, 228, 101, 0.4); }
+.dot.red    { background: #ec6b9d; box-shadow: 0 0 8px rgba(236, 107, 157, 0.4); }
+.dot.blue   { background: #3bb3f6; box-shadow: 0 0 8px rgba(59, 179, 246, 0.4); }
+.dot.white  { background: rgba(255, 255, 255, 0.4); box-shadow: 0 0 8px rgba(255, 255, 255, 0.15); }
+
+/* Style helpers */
+.n { font-family: 'SF Mono', Consolas, monospace; white-space: nowrap; text-align: right; font-size: 13px; color: #a78bfa; font-weight: 500; }
+.c1 { font-weight: 500; max-width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.c2 { color: rgba(255, 255, 255, 0.45); max-width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.st { font-size: 18px; text-align: center; }
+
+/* Empty state */
+.e { text-align: center; padding: 40px; color: rgba(255, 255, 255, 0.3); }
+.ee { font-size: 28px; margin-bottom: 8px; }
+
+/* Footer */
+.ft {
+  margin-top: 8px; text-align: center; color: rgba(255, 255, 255, 0.2);
+  font-size: 12px; padding: 16px 24px; letter-spacing: 0.5px;
+}
+
+/* Bar chart specific */
+.bar-wrapper { display: flex; align-items: flex-end; gap: 4px; height: 200px; padding: 0 10px; }
+.bar-item { flex: 1; display: flex; flex-direction: column; align-items: center; min-width: 20px; }
+.bar-fill { width: 100%; border-radius: 4px 4px 0 0; transition: height 0.5s ease; min-height: 2px; }
+.bar-label { font-size: 9px; color: rgba(255, 255, 255, 0.4); margin-top: 4px; text-align: center; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 100%; }
+
+/* Donut chart specific */
+.donut-wrap { position: relative; width: 200px; height: 200px; margin: 0 auto; }
+.donut-wrap svg { transform: rotate(-90deg); }
+.donut-center { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; }
+.donut-center .dc-val { font-size: 24px; font-weight: 700; color: #fff; }
+.donut-center .dc-lbl { font-size: 11px; color: rgba(255, 255, 255, 0.5); text-transform: uppercase; margin-top: 2px; }
+.donut-legend { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 12px; }
+.donut-legend .dl-item { display: flex; align-items: center; gap: 6px; font-size: 11px; color: rgba(255, 255, 255, 0.6); }
+.donut-legend .dl-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+</style>
+</head>
+<body>
+<div class="dashboard">
+<div class="orbs-layer">
+<div class="orb orb-pink"></div>
+<div class="orb orb-cyan-1"></div>
+<div class="orb orb-cyan-2"></div>
+<div class="orb orb-green-1"></div>
+<div class="orb orb-blue-1"></div>
+<div class="orb orb-yellow"></div>
+<div class="orb orb-cyan-3"></div>
+<div class="orb orb-green-2"></div>
+<div class="orb orb-blue-2"></div>
+<div class="orb orb-purple"></div>
+</div>
+<div class="content">
+<div class="hd"><div><h1>📊 ПП-дашборд</h1><div class="m">обновление каждые 30 мин</div></div><div class="ts">🔄 19.07.2026, 19:22:29 МСК</div></div>
+<div class="kpi-row">
+<div class="kpi-card card-standard"><div class="l">Всего строк</div><div class="v">186</div><div class="sub" style="color:#3bb3f6">2 сегодня</div></div>
+<div class="kpi-card card-blue"><div class="l">Выполнено</div><div class="v">117</div><div class="sub" style="color:#4ed58a">✅ 63% завершено</div></div>
+<div class="kpi-card card-purple"><div class="l">В работе</div><div class="v">15</div><div class="sub" style="color:#ec6b9d">9 жёлтых · 2 красных · 4 без заявки</div></div>
+</div>
+<div class="charts-row">
+<div class="chart-panel"><h3>🏢 Топ компаний</h3><div class="chart-body"><svg viewBox="0 0 600 180" width="100%" height="180"><rect x="8" y="8" width="45" height="152" rx="3" fill="#3bb3f6" opacity="1"><title>Q8: 81</title></rect>
+<text x="30.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">Q8</text><rect x="57" y="137.48148148148147" width="45" height="22.51851851851852" rx="3" fill="#3bb3f6" opacity="0.5740740740740741"><title>TRANSPATH: 12</title></rect>
+<text x="79.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">TRANSPA</text><rect x="106" y="150.6172839506173" width="45" height="9.382716049382715" rx="3" fill="#3bb3f6" opacity="0.5308641975308642"><title>LEO: 5</title></rect>
+<text x="128.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">LEO</text><rect x="155" y="152.49382716049382" width="45" height="7.506172839506172" rx="3" fill="#3bb3f6" opacity="0.5246913580246914"><title>INTEGRA: 4</title></rect>
+<text x="177.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">INTEGRA</text><rect x="204" y="152.49382716049382" width="45" height="7.506172839506172" rx="3" fill="#3bb3f6" opacity="0.5246913580246914"><title>SUMMIT: 4</title></rect>
+<text x="226.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">SUMMIT</text><rect x="253" y="154.37037037037038" width="45" height="5.62962962962963" rx="3" fill="#3bb3f6" opacity="0.5185185185185185"><title>LUXORA: 3</title></rect>
+<text x="275.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">LUXORA</text><rect x="302" y="154.37037037037038" width="45" height="5.62962962962963" rx="3" fill="#3bb3f6" opacity="0.5185185185185185"><title>INFINITE: 3</title></rect>
+<text x="324.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">INFINIT</text><rect x="351" y="156.2469135802469" width="45" height="3.753086419753086" rx="3" fill="#4a82bd" opacity="0.5123456790123457"><title>OPTIMA: 2</title></rect>
+<text x="373.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">OPTIMA</text><rect x="400" y="156.2469135802469" width="45" height="3.753086419753086" rx="3" fill="#4a82bd" opacity="0.5123456790123457"><title>NKT: 2</title></rect>
+<text x="422.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">NKT</text><rect x="449" y="156.2469135802469" width="45" height="3.753086419753086" rx="3" fill="#4a82bd" opacity="0.5123456790123457"><title>WAPA: 2</title></rect>
+<text x="471.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">WAPA</text><rect x="498" y="156.2469135802469" width="45" height="3.753086419753086" rx="3" fill="#4a82bd" opacity="0.5123456790123457"><title>OPTIMA FOOD: 2</title></rect>
+<text x="520.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">OPTIMA </text><rect x="547" y="156.2469135802469" width="45" height="3.753086419753086" rx="3" fill="#4a82bd" opacity="0.5123456790123457"><title>OMNEX: 2</title></rect>
+<text x="569.5" y="176" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">OMNEX</text></svg></div></div>
+<div class="chart-panel"><h3>🎨 Статусы</h3><div class="chart-body"><div class="donut-wrap"><svg viewBox="0 0 200 200" width="200" height="200"><path d="M 100 100 L 100 20 A 80 80 0 1 1 42.016577021670415 155.11735352605496 Z" fill="#4ed58a" opacity="0.85"/><path d="M 100 100 L 42.016577021670415 155.11735352605496 A 80 80 0 0 1 56.54226236156642 32.832857442428946 Z" fill="#3bb3f6" opacity="0.85"/><path d="M 100 100 L 56.54226236156642 32.832857442428946 A 80 80 0 0 1 65.98656935714868 27.59083941997433 Z" fill="#a78bfa" opacity="0.85"/><path d="M 100 100 L 65.98656935714868 27.59083941997433 A 80 80 0 0 1 89.22308302193109 20.729210547340898 Z" fill="#fce465" opacity="0.85"/><path d="M 100 100 L 89.22308302193109 20.729210547340898 A 80 80 0 0 1 99.99999999999999 20 Z" fill="#ec6b9d" opacity="0.85"/><circle cx="100" cy="100" r="50" fill="#151a35"/></svg><div class="donut-center"><div class="dc-val">186</div><div class="dc-lbl">всего</div></div></div></div><div class="donut-legend"><div class="dl-item"><span class="dl-dot" style="background:#4ed58a"></span>Зелёные: 117</div><div class="dl-item"><span class="dl-dot" style="background:#3bb3f6"></span>Синие: 52</div><div class="dl-item"><span class="dl-dot" style="background:#a78bfa"></span>Белые: 4</div><div class="dl-item"><span class="dl-dot" style="background:#fce465"></span>Жёлтые: 9</div><div class="dl-item"><span class="dl-dot" style="background:#ec6b9d"></span>Красные: 4</div></div></div>
+</div>
+<div class="table-panel">
+<h2>📋 Сегодня <span class="t">2</span></h2>
+<table><thead><tr><th>Статус</th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Детали</th></tr></thead><tbody><tr><td><span class="dot white"></span>⚪</td><td>2026-07-19</td><td class="n">20 000</td><td>USD</td><td class="c1">IFC (Цветы)</td><td class="c2">Q8</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">-20090 USDT</td></tr><tr><td><span class="dot white"></span>⚪</td><td>2026-07-19</td><td class="n">118 694,83</td><td>USD</td><td class="c1">ALIANZA LOGISTICS (Цветы)</td><td class="c2">Q8</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">-119080.91 USDT</td></tr></tbody></table></div>
+<div class="table-panel">
+<h2>⚠️ В работе <span class="t">15</span></h2>
+<table><thead><tr><th>Статус</th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Детали</th></tr></thead><tbody><tr><td><span class="dot white"></span>⚪ Без заявки</td><td>2026-07-16</td><td class="n">27 118,22</td><td>USD</td><td class="c1">ВТС (Flow)</td><td class="c2">-</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot white"></span>⚪ Без заявки</td><td>2026-07-17</td><td class="n">98 880</td><td>EUR</td><td class="c1">ВТС (FININVEST)</td><td class="c2">-</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot white"></span>⚪ Без заявки</td><td>2026-07-17</td><td class="n">6 790</td><td>USD</td><td class="c1">ВТС (Henan Wancheng)</td><td class="c2">-</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot white"></span>⚪ Без заявки</td><td>2026-07-17</td><td class="n">41 670,89</td><td>USD</td><td class="c1">ВТС (Itrix 73240)</td><td class="c2">-</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot red"></span>🔴 Ждёт ПП</td><td>2026-07-16</td><td class="n">38 820,68</td><td>EUR</td><td class="c1">ВТС (Itrix)</td><td class="c2">Q8</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot red"></span>🔴 Ждёт ПП</td><td>2026-07-17</td><td class="n">27 731,95</td><td>EUR</td><td class="c1">Дре Русланд</td><td class="c2">LUXORA</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot yellow"></span>🟡 Ждёт зелёнку</td><td>2026-07-09</td><td class="n">27 300</td><td>USD</td><td class="c1">КГ бр (Аренда)</td><td class="c2">KRAFT</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot yellow"></span>🟡 Ждёт зелёнку</td><td>2026-07-09</td><td class="n">130 000</td><td>USD</td><td class="c1">Виктор Авто (Lexus LX600 через NKT)</td><td class="c2">NKT</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot yellow"></span>🟡 Ждёт зелёнку</td><td>2026-07-15</td><td class="n">27 757,94</td><td>EUR</td><td class="c1">Агротрэйд 3</td><td class="c2">OPTIMA FOOD</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot yellow"></span>🟡 Ждёт зелёнку</td><td>2026-07-17</td><td class="n">26 204,95</td><td>EUR</td><td class="c1">ГК Джей Си Хаус</td><td class="c2">TRANSPATH</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Main</td></tr><tr><td><span class="dot yellow"></span>🟡 Ждёт зелёнку</td><td>2026-07-17</td><td class="n">49 386,56</td><td>EUR</td><td class="c1">Константин (Просто группа)</td><td class="c2">TRANSPATH</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Konst</td></tr><tr><td><span class="dot yellow"></span>🟡 Ждёт зелёнку</td><td>2026-07-17</td><td class="n">21 022,6</td><td>EUR</td><td class="c1">Константин (Просто группа)</td><td class="c2">TRANSPATH</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Konst</td></tr><tr><td><span class="dot yellow"></span>🟡 Ждёт зелёнку</td><td>2026-07-15</td><td class="n">11 560,67</td><td>USD</td><td class="c1">Фри Лайнс Компани</td><td class="c2">LEO</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Molod</td></tr><tr><td><span class="dot yellow"></span>🟡 Ждёт зелёнку</td><td>2026-07-16</td><td class="n">1 592</td><td>EUR</td><td class="c1">Фри Лайнс Компани</td><td class="c2">TRANSPATH</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Molod</td></tr><tr><td><span class="dot yellow"></span>🟡 Ждёт зелёнку</td><td>2026-07-15</td><td class="n">4 380,74</td><td>EUR</td><td class="c1">ОНИКС</td><td class="c2">OMNEX</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">Dv78</td></tr></tbody></table></div>
+<div class="ft">ПП-дашборд • 186 сделок • 117 ✅ • обновление 30 мин (будни) • Nano Banana design</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,45 +1,140 @@
-﻿const fs=require('fs'),path=require('path');
+const fs=require('fs'),path=require('path');
 const F=[
   {f:'data.json',l:'Main'},{f:'data_konstantin.json',l:'Konst'},
   {f:'data_molodezh.json',l:'Molod'},{f:'data_dvizhenie78.json',l:'Dv78'},
   {f:'data_flowers.json',l:'Flowers'}
 ];
 const CM={'FF92D050':'green','FFFFFF00':'yellow','FFFFFC00':'yellow','FFFF0000':'red','FF4FC3F7':'blue','FFFFFFFF':'white','FF00B050':'green','FFE2EFDA':'white'};
-function ts(){const d=new Date();return d.getDate().toString().padStart(2,'0')+'.'+(d.getMonth()+1).toString().padStart(2,'0')+'.'+d.getFullYear();}
+function ts(){const d=new Date();return d.getFullYear()+'-'+(d.getMonth()+1).toString().padStart(2,'0')+'-'+d.getDate().toString().padStart(2,'0');}
 function rd(fn){try{if(!fs.existsSync(fn))return[];const p=JSON.parse(fs.readFileSync(fn,'utf8'));if(Array.isArray(p))return p;if(p&&Array.isArray(p.rows))return p.rows;return[];}catch(e){return[];}}
 function mc(h){return CM[(h||'').toUpperCase()]||'white';}
 function cl(r){return r.clientName||r.extra||r.client||'';}
 function gv(r,f){const x=r[f];return(x===null||x===undefined)?'':String(x);}
 function E(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
-const EM={'red':'\uD83D\uDD34','blue':'\uD83D\uDD35','white':'\u2B1C','yellow':'\uD83D\uDFE1','green':'\uD83D\uDFE2'};
+const EM={'red':'🔴','blue':'🔵','white':'⚪','yellow':'🟡','green':'🟢'};
+
 function build(){
-  const T=ts(),td=[],pg=[],pp=[],nc=[];let tot=0,grn=0;
+  const T=ts(),td=[],pg=[],pp=[],nc=[];let tot=0,grn=0,ylw=0,blu=0,wht=0,redC=0;
+  const coMap={};
   for(const x of F){const rows=rd(path.join(__dirname,x.f));if(!rows.length)continue;tot+=rows.length;
     for(const r of rows){const c=mc(r.color),d=gv(r,'date'),cln=cl(r),co=gv(r,'company');
     const s=gv(r,'sum'),sf=s?Number(s).toLocaleString('ru-RU'):'',cu=gv(r,'currency');
     const cf=gv(r,'costFormula'),rb=gv(r,'rubles_received'),sv=gv(r,'sent_rubles_vdx');
     const ui=gv(r,'received_usdt'),uo=gv(r,'sent_usdt'),ex=gv(r,'exchange_to');
-    const hc=!!co,hf=!!cf;if(c==='green')grn++;
+    const hc=!!co,hf=!!cf;
+    if(c==='green')grn++; else if(c==='yellow')ylw++; else if(c==='blue')blu++; else if(c==='white')wht++; else if(c==='red')redC++;
+    if(co){const k=co.toUpperCase();coMap[k]=(coMap[k]||0)+1;}
     const e={d,cln,co,s:sf,cu,rb,sv,ui,uo,ex,cf,tb:x.l,c};
     if(d===T){td.push(e);continue;}if(!d)continue;
     if(c==='red'&&!hc)nc.push(e);else if(c==='yellow')pg.push(e);else if(c==='white'&&hc&&hf)pp.push(e);else if(c==='red'&&hc&&hf)pp.push(e);
   }}
   const sa=(a,b)=>{const p=(d)=>{if(!d)return 0;const x=d.split('.');return new Date(x[2],x[1]-1,x[0]);};return p(a.d)-p(b.d);};
   td.sort((a,b)=>{const p=(d)=>{if(!d)return 0;const x=d.split('.');return new Date(x[2],x[1]-1,x[0]);};return p(b.d)-p(a.d);});
-  pg.sort(sa);pp.sort(sa);nc.sort(sa);return{T,td,pg,pp,nc,tot,grn};
+  pg.sort(sa);pp.sort(sa);nc.sort(sa);
+  // Bar chart data: top companies by count
+  const barData=Object.entries(coMap).sort((a,b)=>b[1]-a[1]).slice(0,12).map(([n,cnt])=>({name:n,count:cnt}));
+  // Donut data: color distribution
+  const donutData=[
+    {label:'Зелёные',value:grn,color:'#4ed58a'},
+    {label:'Синие',value:blu,color:'#3bb3f6'},
+    {label:'Белые',value:wht,color:'#a78bfa'},
+    {label:'Жёлтые',value:ylw,color:'#fce465'},
+    {label:'Красные',value:redC,color:'#ec6b9d'}
+  ].filter(d=>d.value>0);
+  const totalPending=pg.length+pp.length+nc.length;
+  return{T,td,pg,pp,nc,tot,grn,barData,donutData,totalPending};
 }
-function render(d){const{T,td,pg,pp,nc,tot,grn}=d;
+
+function render(d){
+  const css=fs.readFileSync(path.join(__dirname,'dashboard.css'),'utf8');
+  const{T,td,pg,pp,nc,tot,grn,barData,donutData,totalPending}=d;
   const now=new Date().toLocaleString('ru-RU',{timeZone:'Europe/Moscow'});
-  const S=(l,em)=>l.map(e=>'<tr class="r-'+e.c+'"><td>'+E(e.d)+'</td><td class="n">'+(e.s||'')+'</td><td>'+E(e.cu)+'</td><td class="c1">'+E(e.cln||'-')+'</td><td class="c2">'+E(e.co||'-')+'</td><td class="sc"><span class="sb">'+em+'</span></td></tr>').join('');
-  return '<!DOCTYPE html>\n<html lang="ru">\n<head>\n<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">\n<title>\u041F\u041F-\u0434\u0430\u0448\u0431\u043E\u0440\u0434 '+T+'</title>\n<style>\n*{margin:0;padding:0;box-sizing:border-box}\nbody{font-family:-apple-system,BlinkMacSystemFont,\'Segoe UI\',Roboto,sans-serif;background:#0d1117;color:#e6edf3;padding:16px}\n.w{max-width:1440px;margin:0 auto}\n.hd{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:24px}\nh1{font-size:22px;color:#58a6ff}\n.m{color:#8b949e;font-size:13px}.ts{color:#484f58;font-size:12px}\n.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:24px}\n.s{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 16px}\n.s .v{font-size:26px;font-weight:700}.s .l{color:#8b949e;font-size:11px;text-transform:uppercase;margin-top:2px}\n.s.b .v{color:#58a6ff}.s.g .v{color:#3fb950}.s.y .v{color:#d29922}.s.r .v{color:#f85149}.s.nc .v{color:#8b949e}\nh2{font-size:17px;margin:24px 0 10px;color:#f0f6fc;display:flex;align-items:center;gap:8px}\nh2 .t{background:#21262d;color:#8b949e;font-size:11px;padding:2px 10px;border-radius:10px}\n.n{color:#8b949e;font-size:13px;margin-bottom:10px}\ntable{width:100%;border-collapse:collapse;background:#161b22;border:1px solid #30363d;border-radius:8px;overflow:hidden;margin-bottom:4px}\nth{background:#21262d;padding:9px 10px;text-align:left;font-size:11px;text-transform:uppercase;color:#8b949e;border-bottom:1px solid #30363d;white-space:nowrap}\ntd{padding:9px 10px;border-bottom:1px solid #21262d;font-size:13px;vertical-align:middle}\ntr:last-child td{border-bottom:none}\n.r-r{border-left:3px solid #f85149}.r-b{border-left:3px solid #58a6ff}.r-w{border-left:3px solid #8b949e}.r-y{border-left:3px solid #d29922}.r-g{border-left:3px solid #3fb950}\n.n{font-family:monospace;white-space:nowrap;text-align:right;font-size:13px}\n.c1{font-weight:500;max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px}\n.c2{color:#8b949e;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px}\n.rbl{font-size:12px;color:#8b949e;white-space:nowrap}\n.st{font-size:18px;text-align:center}\n.sc{text-align:center}.sb{display:inline-block;font-size:32px;line-height:1}\n.sh{font-size:14px;margin:14px 0 8px;color:#e6edf3;display:flex;align-items:center;gap:6px}\n.e{text-align:center;padding:32px;color:#8b949e;background:#161b22;border:1px solid #30363d;border-radius:8px}\n.ee{font-size:28px;margin-bottom:6px}.ft{margin-top:40px;text-align:center;color:#484f58;font-size:12px}\ntr:hover td{background:#1c2128}\n</style>\n</head>\n<body>\n<div class="w">\n<div class="hd">\n<div><h1>\u041F\u041F-\u0434\u0430\u0448\u0431\u043E\u0440\u0434</h1><div class="m">\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 \u043A\u0430\u0436\u0434\u044B\u0435 30 \u043C\u0438\u043D</div></div>\n<div class="ts">\uD83D\uDD04 '+now+' \u041C\u0421\u041A</div>\n</div>\n<div class="sg">\n<div class="s b"><div class="v">'+td.length+'</div><div class="l">\uD83D\uDCCB \u0421\u0435\u0433\u043E\u0434\u043D\u044F</div></div>\n<div class="s g"><div class="v">'+grn+'</div><div class="l">\u2705 \u0418\u0441\u043F\u043E\u043B\u043D\u0435\u043D\u043E</div></div>\n<div class="s y"><div class="v">'+pg.length+'</div><div class="l">\uD83D\uDFE1 \u0416\u0434\u0443\u0442 \u0437\u0435\u043B\u0451\u043D\u043A\u0443</div></div>\n<div class="s r"><div class="v">'+pp.length+'</div><div class="l">\uD83D\uDD34 \u0416\u0434\u0443\u0442 \u041F\u041F</div></div>\n<div class="s nc"><div class="v">'+nc.length+'</div><div class="l">\u26AA \u0411\u0435\u0437 \u0437\u0430\u044F\u0432\u043A\u0438</div></div>\n</div>\n<h2>\uD83D\uDCCB \u0421\u0435\u0433\u043E\u0434\u043D\u044F <span class="t">'+td.length+'</span></h2>\n'+(td.length?'<table><thead><tr><th>\u0414\u0430\u0442\u0430</th><th>\u0421\u0443\u043C\u043C\u0430</th><th>\u0412\u0430\u043B</th><th>\u041A\u043B\u0438\u0435\u043D\u0442</th><th>\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F</th><th>\u041F\u0440\u0438\u0448\u043B\u0438 / \u0443\u0448\u043B\u0438 \u0440\u0443\u0431\u043B\u0438</th><th>\uD83D\uDCB3</th></tr></thead><tbody>'+
-td.map(e=>{const ri=[];if(e.rb)ri.push('\uD83D\uDCB0 '+E(e.rb)+' \u20BD');if(e.sv)ri.push('\uD83D\uDCE4\u2192'+E(e.ex||'VDX')+':'+E(e.sv)+' \u20BD');if(e.ui)ri.push('+'+E(e.ui)+' USDT');if(e.uo)ri.push('-'+E(e.uo)+' USDT');return '<tr><td>'+E(e.d)+'</td><td class="n">'+(e.s||'')+'</td><td>'+E(e.cu)+'</td><td class="c1">'+E(e.cln||'-')+'</td><td class="c2">'+E(e.co||'-')+'</td><td class="rbl">'+(ri.length?ri.join('<br>'):'-')+'</td><td class="st">'+(EM[e.c]||'')+'</td></tr>';}).join('')
-+'</tbody></table>':'<div class="e"><div class="ee">\uD83C\uDF19</div><div>\u0421\u0435\u0433\u043E\u0434\u043D\u044F \u0441\u0434\u0435\u043B\u043E\u043A \u043D\u0435\u0442</div></div>')+
-'\n<h2>\u26A0\uFE0F \u041F\u0440\u043E\u0448\u043B\u044B\u0435 \u0441\u0434\u0435\u043B\u043A\u0438 <span class="t">'+(pg.length+pp.length+nc.length)+'</span></h2>\n'+
-(nc.length?'<div class="sh">\u26AA \u041E\u0436\u0438\u0434\u0430\u044E\u0442 \u0437\u0430\u044F\u0432\u043A\u0443 (\u043D\u0435\u0442 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438)</div><table><thead><tr><th>\u0414\u0430\u0442\u0430</th><th>\u0421\u0443\u043C\u043C\u0430</th><th>\u0412\u0430\u043B</th><th>\u041A\u043B\u0438\u0435\u043D\u0442</th><th>\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F</th><th>\u0421\u0442\u0430\u0442\u0443\u0441</th></tr></thead><tbody>'+S(nc,'\u26AA')+'</tbody></table>':'')+
-(pp.length?'<div class="sh">\uD83D\uDD34 \u041E\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u043F\u043E\u0434\u0432\u0435\u0448\u0435\u043D\u043D\u0430\u044F \u041F\u041F</div><table><thead><tr><th>\u0414\u0430\u0442\u0430</th><th>\u0421\u0443\u043C\u043C\u0430</th><th>\u0412\u0430\u043B</th><th>\u041A\u043B\u0438\u0435\u043D\u0442</th><th>\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F</th><th>\u0421\u0442\u0430\u0442\u0443\u0441</th></tr></thead><tbody>'+S(pp,'\uD83D\uDD34')+'</tbody></table>':'')+
-(pg.length?'<div class="sh">\uD83D\uDFE1 \u041E\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0437\u0435\u043B\u0451\u043D\u043A\u0430</div><table><thead><tr><th>\u0414\u0430\u0442\u0430</th><th>\u0421\u0443\u043C\u043C\u0430</th><th>\u0412\u0430\u043B</th><th>\u041A\u043B\u0438\u0435\u043D\u0442</th><th>\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F</th><th>\u0421\u0442\u0430\u0442\u0443\u0441</th></tr></thead><tbody>'+S(pg,'\uD83D\uDFE1')+'</tbody></table>':'')+
-(!pg.length&&!pp.length&&!nc.length?'<div class="e"><div class="ee">\u2705</div><div>\u0412\u0441\u0435 \u0441\u0434\u0435\u043B\u043A\u0438 \u0432 \u043F\u043E\u0440\u044F\u0434\u043A\u0435</div></div>':'')+
-'\n<div class="ft">\u041F\u041F-\u0434\u0430\u0448\u0431\u043E\u0440\u0434 \u2022 '+tot+' \u0441\u0434\u0435\u043B\u043E\u043A \u2022 '+grn+' \u2705 \u2022 \u0430\u0432\u0442\u043E\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 30 \u043C\u0438\u043D (\u0431\u0443\u0434\u043D\u0438)</div>\n</div>\n</body>\n</html>';
+
+  // --- Bar chart SVG ---
+  const barMax=Math.max(...barData.map(b=>b.count),1);
+  const barW=600,barH=180,barPad=8;
+  const barGap=4,barTotalW=(barW-barPad*2),barCount=barData.length;
+  const barW2=Math.max(6,Math.floor((barTotalW-barGap*(barCount-1))/barCount));
+  const bars=barData.map((b,i)=>{
+    const hh=Math.max(3,(b.count/barMax)*(barH-28));
+    const x=barPad+i*(barW2+barGap);
+    const y=barH-hh-20;
+    return `<rect x="${x}" y="${y}" width="${barW2}" height="${hh}" rx="3" fill="${barCount>8&&i>6?'#4a82bd':'#3bb3f6'}" opacity="${0.5+(b.count/barMax)*0.5}"><title>${E(b.name)}: ${b.count}</title></rect>
+<text x="${x+barW2/2}" y="${barH-4}" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)">${E(b.name.length>7?b.name.slice(0,7):b.name)}</text>`;
+  }).join('');
+
+  // --- Donut chart SVG ---
+  const donutTotal=donutData.reduce((s,d)=>s+d.value,0);
+  const donutR=80,r2=50,center=100;
+  let donutAngle=-90;
+  const donutSlices=donutData.map(s=>{
+    const pct=s.value/donutTotal;
+    const sliceAngle=pct*360;
+    const startAngle=donutAngle;
+    donutAngle+=sliceAngle;
+    const startRad=startAngle*Math.PI/180;
+    const endRad=donutAngle*Math.PI/180;
+    const x1=center+donutR*Math.cos(startRad);
+    const y1=center+donutR*Math.sin(startRad);
+    const x2=center+donutR*Math.cos(endRad);
+    const y2=center+donutR*Math.sin(endRad);
+    const large=sliceAngle>180?1:0;
+    const path=`M ${center} ${center} L ${x1} ${y1} A ${donutR} ${donutR} 0 ${large} 1 ${x2} ${y2} Z`;
+    return `<path d="${path}" fill="${s.color}" opacity="0.85"/>`;
+  }).join('');
+  const donutHole=`<circle cx="${center}" cy="${center}" r="${r2}" fill="#151a35"/>`;
+  const donutLegend=donutData.map(s=>`<div class="dl-item"><span class="dl-dot" style="background:${s.color}"></span>${E(s.label)}: ${s.value}</div>`).join('');
+
+  const H='<!DOCTYPE html>\n<html lang="ru">\n<head>\n<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">\n<title>ПП-дашборд '+T+'</title>\n<style>\n'+css+'\n</style>\n</head>\n<body>\n'+
+'<div class="dashboard">\n'+
+'<div class="orbs-layer">\n'+
+'<div class="orb orb-pink"></div>\n<div class="orb orb-cyan-1"></div>\n<div class="orb orb-cyan-2"></div>\n'+
+'<div class="orb orb-green-1"></div>\n<div class="orb orb-blue-1"></div>\n<div class="orb orb-yellow"></div>\n'+
+'<div class="orb orb-cyan-3"></div>\n<div class="orb orb-green-2"></div>\n<div class="orb orb-blue-2"></div>\n'+
+'<div class="orb orb-purple"></div>\n</div>\n'+
+'<div class="content">\n'+
+
+// --- Header ---
+'<div class="hd"><div><h1>📊 ПП-дашборд</h1><div class="m">обновление каждые 30 мин</div></div><div class="ts">🔄 '+now+' МСК</div></div>\n'+
+
+// --- KPI Row ---
+'<div class="kpi-row">\n'+
+'<div class="kpi-card card-standard"><div class="l">Всего строк</div><div class="v">'+tot+'</div><div class="sub" style="color:#3bb3f6">'+td.length+' сегодня</div></div>\n'+
+'<div class="kpi-card card-blue"><div class="l">Выполнено</div><div class="v">'+grn+'</div><div class="sub" style="color:#4ed58a">✅ '+Math.round(grn/tot*100)+'% завершено</div></div>\n'+
+'<div class="kpi-card card-purple"><div class="l">В работе</div><div class="v">'+(totalPending)+'</div><div class="sub" style="color:#ec6b9d">'+pg.length+' жёлтых · '+pp.length+' красных · '+nc.length+' без заявки</div></div>\n'+
+'</div>\n'+
+
+// --- Charts Row ---
+'<div class="charts-row">\n'+
+'<div class="chart-panel"><h3>🏢 Топ компаний</h3><div class="chart-body"><svg viewBox="0 0 '+barW+' '+barH+'" width="100%" height="'+barH+'">'+bars+'</svg></div></div>\n'+
+'<div class="chart-panel"><h3>🎨 Статусы</h3><div class="chart-body"><div class="donut-wrap"><svg viewBox="0 0 200 200" width="200" height="200">'+donutSlices+donutHole+'</svg><div class="donut-center"><div class="dc-val">'+tot+'</div><div class="dc-lbl">всего</div></div></div></div><div class="donut-legend">'+donutLegend+'</div></div>\n'+
+'</div>\n'+
+
+// --- Today's Table ---
+'<div class="table-panel">\n<h2>📋 Сегодня <span class="t">'+td.length+'</span></h2>\n'+
+(td.length?'<table><thead><tr><th>Статус</th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Детали</th></tr></thead><tbody>'+
+td.map(e=>{const ri=[];if(e.rb)ri.push('💰 '+E(e.rb)+' ₽');if(e.sv)ri.push('📤 '+E(e.sv)+' ₽');if(e.ui)ri.push('+'+E(e.ui)+' USDT');if(e.uo)ri.push('-'+E(e.uo)+' USDT');
+return '<tr><td><span class="dot '+e.c+'"></span>'+EM[e.c]+'</td><td>'+E(e.d)+'</td><td class="n">'+(e.s||'')+'</td><td>'+E(e.cu)+'</td><td class="c1">'+E(e.cln||'-')+'</td><td class="c2">'+E(e.co||'-')+'</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">'+(ri.length?ri.join(' · '):'-')+'</td></tr>';}).join('')+
+'</tbody></table>':'<div class="e"><div class="ee">🌙</div><div>Сегодня сделок нет</div></div>')+
+'</div>\n'+
+
+// --- Pending Table ---
+(totalPending?'<div class="table-panel">\n<h2>⚠️ В работе <span class="t">'+totalPending+'</span></h2>\n'+
+'<table><thead><tr><th>Статус</th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Детали</th></tr></thead><tbody>'+
+[...nc.map(e=>({...e,status:'white',label:'⚪ Без заявки'})),
+ ...pp.map(e=>({...e,status:'red',label:'🔴 Ждёт ПП'})),
+ ...pg.map(e=>({...e,status:'yellow',label:'🟡 Ждёт зелёнку'})),
+].slice(0,30).map(e=>'<tr><td><span class="dot '+e.status+'"></span>'+e.label+'</td><td>'+E(e.d)+'</td><td class="n">'+(e.s||'')+'</td><td>'+E(e.cu)+'</td><td class="c1">'+E(e.cln||'-')+'</td><td class="c2">'+E(e.co||'-')+'</td><td style="font-size:12px;color:rgba(255,255,255,0.4)">'+E(e.tb||'')+'</td></tr>').join('')+
+'</tbody></table></div>\n':'')+
+
+// --- Footer ---
+'<div class="ft">ПП-дашборд • '+tot+' сделок • '+grn+' ✅ • обновление 30 мин (будни) • Nano Banana design</div>\n'+
+
+'</div>\n</div>\n</body>\n</html>';
+  return H;
 }
-const d=build();const h=render(d);fs.writeFileSync(path.join(__dirname,'index.html'),h,'utf8');
-console.log('OK: T='+d.td.length+' Y='+d.pg.length+' R='+d.pp.length+' N='+d.nc.length+' TOT='+d.tot);
+
+const d=build();
+const h=render(d);
+fs.writeFileSync(path.join(__dirname,'index.html'),h,'utf8');
+console.log('OK: T='+d.td.length+' Y='+d.pg.length+' R='+d.pp.length+' N='+d.nc.length+' TOT='+d.tot+' BARS='+d.barData.length+' DONUT='+d.donutData.length);
