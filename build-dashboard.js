@@ -1,214 +1,45 @@
-const fs = require('fs');
-const path = require('path');
-
-const DATA_FILES = [
-  { file: 'data.json', label: 'Main' },
-  { file: 'data_konstantin.json', label: 'ÐšÐ¾Ð½ÑÑ‚Ð°Ð½Ñ‚Ð¸Ð½' },
-  { file: 'data_molodezh.json', label: 'ÐœÐ¾Ð»Ð¾Ð´Ñ‘Ð¶ÑŒ' },
-  { file: 'data_dvizhenie78.json', label: 'Ð”Ð²Ð¸Ð¶ÐµÐ½Ð¸Ðµ 78' },
-  { file: 'data_flowers.json', label: 'Ð¦Ð²ÐµÑ‚Ñ‹' },
+﻿const fs=require('fs'),path=require('path');
+const F=[
+  {f:'data.json',l:'Main'},{f:'data_konstantin.json',l:'Konst'},
+  {f:'data_molodezh.json',l:'Molod'},{f:'data_dvizhenie78.json',l:'Dv78'},
+  {f:'data_flowers.json',l:'Flowers'}
 ];
-
-const COLOR_MAP = {
-  'FF92D050': 'green', 'FFFFFF00': 'yellow', 'FFFFFC00': 'yellow',
-  'FFFF0000': 'red', 'FF4FC3F7': 'blue', 'FFFFFFFF': 'white',
-  'FF00B050': 'green', 'FFE2EFDA': 'white',
-};
-
-function todayStr() {
-  const d = new Date();
-  return `${String(d.getDate()).padStart(2,'0')}.${String(d.getMonth()+1).padStart(2,'0')}.${d.getFullYear()}`;
+const CM={'FF92D050':'green','FFFFFF00':'yellow','FFFFFC00':'yellow','FFFF0000':'red','FF4FC3F7':'blue','FFFFFFFF':'white','FF00B050':'green','FFE2EFDA':'white'};
+function ts(){const d=new Date();return d.getDate().toString().padStart(2,'0')+'.'+(d.getMonth()+1).toString().padStart(2,'0')+'.'+d.getFullYear();}
+function rd(fn){try{if(!fs.existsSync(fn))return[];const p=JSON.parse(fs.readFileSync(fn,'utf8'));if(Array.isArray(p))return p;if(p&&Array.isArray(p.rows))return p.rows;return[];}catch(e){return[];}}
+function mc(h){return CM[(h||'').toUpperCase()]||'white';}
+function cl(r){return r.clientName||r.extra||r.client||'';}
+function gv(r,f){const x=r[f];return(x===null||x===undefined)?'':String(x);}
+function E(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+const EM={'red':'\uD83D\uDD34','blue':'\uD83D\uDD35','white':'\u2B1C','yellow':'\uD83D\uDFE1','green':'\uD83D\uDFE2'};
+function build(){
+  const T=ts(),td=[],pg=[],pp=[],nc=[];let tot=0,grn=0;
+  for(const x of F){const rows=rd(path.join(__dirname,x.f));if(!rows.length)continue;tot+=rows.length;
+    for(const r of rows){const c=mc(r.color),d=gv(r,'date'),cln=cl(r),co=gv(r,'company');
+    const s=gv(r,'sum'),sf=s?Number(s).toLocaleString('ru-RU'):'',cu=gv(r,'currency');
+    const cf=gv(r,'costFormula'),rb=gv(r,'rubles_received'),sv=gv(r,'sent_rubles_vdx');
+    const ui=gv(r,'received_usdt'),uo=gv(r,'sent_usdt'),ex=gv(r,'exchange_to');
+    const hc=!!co,hf=!!cf;if(c==='green')grn++;
+    const e={d,cln,co,s:sf,cu,rb,sv,ui,uo,ex,cf,tb:x.l,c};
+    if(d===T){td.push(e);continue;}if(!d)continue;
+    if(c==='red'&&!hc)nc.push(e);else if(c==='yellow')pg.push(e);else if(c==='white'&&hc&&hf)pp.push(e);else if(c==='red'&&hc&&hf)pp.push(e);
+  }}
+  const sa=(a,b)=>{const p=(d)=>{if(!d)return 0;const x=d.split('.');return new Date(x[2],x[1]-1,x[0]);};return p(a.d)-p(b.d);};
+  td.sort((a,b)=>{const p=(d)=>{if(!d)return 0;const x=d.split('.');return new Date(x[2],x[1]-1,x[0]);};return p(b.d)-p(a.d);});
+  pg.sort(sa);pp.sort(sa);nc.sort(sa);return{T,td,pg,pp,nc,tot,grn};
 }
-
-function readJSON(filePath) {
-  try {
-    if (!fs.existsSync(filePath)) return [];
-    const parsed = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-    if (Array.isArray(parsed)) return parsed;
-    if (parsed && Array.isArray(parsed.rows)) return parsed.rows;
-    return [];
-  } catch (e) { return []; }
+function render(d){const{T,td,pg,pp,nc,tot,grn}=d;
+  const now=new Date().toLocaleString('ru-RU',{timeZone:'Europe/Moscow'});
+  const S=(l,em)=>l.map(e=>'<tr class="r-'+e.c+'"><td>'+E(e.d)+'</td><td class="n">'+(e.s||'')+'</td><td>'+E(e.cu)+'</td><td class="c1">'+E(e.cln||'-')+'</td><td class="c2">'+E(e.co||'-')+'</td><td class="sc"><span class="sb">'+em+'</span></td></tr>').join('');
+  return '<!DOCTYPE html>\n<html lang="ru">\n<head>\n<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">\n<title>\u041F\u041F-\u0434\u0430\u0448\u0431\u043E\u0440\u0434 '+T+'</title>\n<style>\n*{margin:0;padding:0;box-sizing:border-box}\nbody{font-family:-apple-system,BlinkMacSystemFont,\'Segoe UI\',Roboto,sans-serif;background:#0d1117;color:#e6edf3;padding:16px}\n.w{max-width:1440px;margin:0 auto}\n.hd{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:24px}\nh1{font-size:22px;color:#58a6ff}\n.m{color:#8b949e;font-size:13px}.ts{color:#484f58;font-size:12px}\n.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:24px}\n.s{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 16px}\n.s .v{font-size:26px;font-weight:700}.s .l{color:#8b949e;font-size:11px;text-transform:uppercase;margin-top:2px}\n.s.b .v{color:#58a6ff}.s.g .v{color:#3fb950}.s.y .v{color:#d29922}.s.r .v{color:#f85149}.s.nc .v{color:#8b949e}\nh2{font-size:17px;margin:24px 0 10px;color:#f0f6fc;display:flex;align-items:center;gap:8px}\nh2 .t{background:#21262d;color:#8b949e;font-size:11px;padding:2px 10px;border-radius:10px}\n.n{color:#8b949e;font-size:13px;margin-bottom:10px}\ntable{width:100%;border-collapse:collapse;background:#161b22;border:1px solid #30363d;border-radius:8px;overflow:hidden;margin-bottom:4px}\nth{background:#21262d;padding:9px 10px;text-align:left;font-size:11px;text-transform:uppercase;color:#8b949e;border-bottom:1px solid #30363d;white-space:nowrap}\ntd{padding:9px 10px;border-bottom:1px solid #21262d;font-size:13px;vertical-align:middle}\ntr:last-child td{border-bottom:none}\n.r-r{border-left:3px solid #f85149}.r-b{border-left:3px solid #58a6ff}.r-w{border-left:3px solid #8b949e}.r-y{border-left:3px solid #d29922}.r-g{border-left:3px solid #3fb950}\n.n{font-family:monospace;white-space:nowrap;text-align:right;font-size:13px}\n.c1{font-weight:500;max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px}\n.c2{color:#8b949e;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px}\n.rbl{font-size:12px;color:#8b949e;white-space:nowrap}\n.st{font-size:18px;text-align:center}\n.sc{text-align:center}.sb{display:inline-block;font-size:32px;line-height:1}\n.sh{font-size:14px;margin:14px 0 8px;color:#e6edf3;display:flex;align-items:center;gap:6px}\n.e{text-align:center;padding:32px;color:#8b949e;background:#161b22;border:1px solid #30363d;border-radius:8px}\n.ee{font-size:28px;margin-bottom:6px}.ft{margin-top:40px;text-align:center;color:#484f58;font-size:12px}\ntr:hover td{background:#1c2128}\n</style>\n</head>\n<body>\n<div class="w">\n<div class="hd">\n<div><h1>\u041F\u041F-\u0434\u0430\u0448\u0431\u043E\u0440\u0434</h1><div class="m">\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 \u043A\u0430\u0436\u0434\u044B\u0435 30 \u043C\u0438\u043D</div></div>\n<div class="ts">\uD83D\uDD04 '+now+' \u041C\u0421\u041A</div>\n</div>\n<div class="sg">\n<div class="s b"><div class="v">'+td.length+'</div><div class="l">\uD83D\uDCCB \u0421\u0435\u0433\u043E\u0434\u043D\u044F</div></div>\n<div class="s g"><div class="v">'+grn+'</div><div class="l">\u2705 \u0418\u0441\u043F\u043E\u043B\u043D\u0435\u043D\u043E</div></div>\n<div class="s y"><div class="v">'+pg.length+'</div><div class="l">\uD83D\uDFE1 \u0416\u0434\u0443\u0442 \u0437\u0435\u043B\u0451\u043D\u043A\u0443</div></div>\n<div class="s r"><div class="v">'+pp.length+'</div><div class="l">\uD83D\uDD34 \u0416\u0434\u0443\u0442 \u041F\u041F</div></div>\n<div class="s nc"><div class="v">'+nc.length+'</div><div class="l">\u26AA \u0411\u0435\u0437 \u0437\u0430\u044F\u0432\u043A\u0438</div></div>\n</div>\n<h2>\uD83D\uDCCB \u0421\u0435\u0433\u043E\u0434\u043D\u044F <span class="t">'+td.length+'</span></h2>\n'+(td.length?'<table><thead><tr><th>\u0414\u0430\u0442\u0430</th><th>\u0421\u0443\u043C\u043C\u0430</th><th>\u0412\u0430\u043B</th><th>\u041A\u043B\u0438\u0435\u043D\u0442</th><th>\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F</th><th>\u041F\u0440\u0438\u0448\u043B\u0438 / \u0443\u0448\u043B\u0438 \u0440\u0443\u0431\u043B\u0438</th><th>\uD83D\uDCB3</th></tr></thead><tbody>'+
+td.map(e=>{const ri=[];if(e.rb)ri.push('\uD83D\uDCB0 '+E(e.rb)+' \u20BD');if(e.sv)ri.push('\uD83D\uDCE4\u2192'+E(e.ex||'VDX')+':'+E(e.sv)+' \u20BD');if(e.ui)ri.push('+'+E(e.ui)+' USDT');if(e.uo)ri.push('-'+E(e.uo)+' USDT');return '<tr><td>'+E(e.d)+'</td><td class="n">'+(e.s||'')+'</td><td>'+E(e.cu)+'</td><td class="c1">'+E(e.cln||'-')+'</td><td class="c2">'+E(e.co||'-')+'</td><td class="rbl">'+(ri.length?ri.join('<br>'):'-')+'</td><td class="st">'+(EM[e.c]||'')+'</td></tr>';}).join('')
++'</tbody></table>':'<div class="e"><div class="ee">\uD83C\uDF19</div><div>\u0421\u0435\u0433\u043E\u0434\u043D\u044F \u0441\u0434\u0435\u043B\u043E\u043A \u043D\u0435\u0442</div></div>')+
+'\n<h2>\u26A0\uFE0F \u041F\u0440\u043E\u0448\u043B\u044B\u0435 \u0441\u0434\u0435\u043B\u043A\u0438 <span class="t">'+(pg.length+pp.length+nc.length)+'</span></h2>\n'+
+(nc.length?'<div class="sh">\u26AA \u041E\u0436\u0438\u0434\u0430\u044E\u0442 \u0437\u0430\u044F\u0432\u043A\u0443 (\u043D\u0435\u0442 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u0438)</div><table><thead><tr><th>\u0414\u0430\u0442\u0430</th><th>\u0421\u0443\u043C\u043C\u0430</th><th>\u0412\u0430\u043B</th><th>\u041A\u043B\u0438\u0435\u043D\u0442</th><th>\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F</th><th>\u0421\u0442\u0430\u0442\u0443\u0441</th></tr></thead><tbody>'+S(nc,'\u26AA')+'</tbody></table>':'')+
+(pp.length?'<div class="sh">\uD83D\uDD34 \u041E\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u043F\u043E\u0434\u0432\u0435\u0448\u0435\u043D\u043D\u0430\u044F \u041F\u041F</div><table><thead><tr><th>\u0414\u0430\u0442\u0430</th><th>\u0421\u0443\u043C\u043C\u0430</th><th>\u0412\u0430\u043B</th><th>\u041A\u043B\u0438\u0435\u043D\u0442</th><th>\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F</th><th>\u0421\u0442\u0430\u0442\u0443\u0441</th></tr></thead><tbody>'+S(pp,'\uD83D\uDD34')+'</tbody></table>':'')+
+(pg.length?'<div class="sh">\uD83D\uDFE1 \u041E\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0437\u0435\u043B\u0451\u043D\u043A\u0430</div><table><thead><tr><th>\u0414\u0430\u0442\u0430</th><th>\u0421\u0443\u043C\u043C\u0430</th><th>\u0412\u0430\u043B</th><th>\u041A\u043B\u0438\u0435\u043D\u0442</th><th>\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F</th><th>\u0421\u0442\u0430\u0442\u0443\u0441</th></tr></thead><tbody>'+S(pg,'\uD83D\uDFE1')+'</tbody></table>':'')+
+(!pg.length&&!pp.length&&!nc.length?'<div class="e"><div class="ee">\u2705</div><div>\u0412\u0441\u0435 \u0441\u0434\u0435\u043B\u043A\u0438 \u0432 \u043F\u043E\u0440\u044F\u0434\u043A\u0435</div></div>':'')+
+'\n<div class="ft">\u041F\u041F-\u0434\u0430\u0448\u0431\u043E\u0440\u0434 \u2022 '+tot+' \u0441\u0434\u0435\u043B\u043E\u043A \u2022 '+grn+' \u2705 \u2022 \u0430\u0432\u0442\u043E\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 30 \u043C\u0438\u043D (\u0431\u0443\u0434\u043D\u0438)</div>\n</div>\n</body>\n</html>';
 }
-
-function mapColor(hex) { return COLOR_MAP[(hex||'').toUpperCase()] || 'white'; }
-function getClient(row) { return row.clientName || row.extra || row.client || ''; }
-function val(row, f) { const v = row[f]; return (v === null || v === undefined) ? '' : String(v); }
-
-function buildDashboard() {
-  const today = todayStr();
-  const todayDeals = [];
-  const pastDueGreen = [];    // â–¶Å‚ waiting for green
-  const pastDuePP = [];       // Ã¼Å waiting for PP
-  const pastDueNoCompany = []; // Ã­Å no company
-  let totalRows = 0, totalGreen = 0;
-
-  for (const df of DATA_FILES) {
-    const rows = readJSON(path.join(__dirname, df.file));
-    if (!rows.length) continue;
-    totalRows += rows.length;
-
-    for (const row of rows) {
-      const color = mapColor(row.color);
-      const date = val(row, 'date');
-      const client = getClient(row);
-      const company = val(row, 'company');
-      const sum = val(row, 'sum');
-      const sumF = sum ? Number(sum).toLocaleString('ru-RU') : '';
-      const currency = val(row, 'currency');
-      const costFormula = val(row, 'costFormula');
-      const rub = val(row, 'rubles_received');
-      const srv = val(row, 'sent_rubles_vdx');
-      const usdtIn = val(row, 'received_usdt');
-      const usdtOut = val(row, 'sent_usdt');
-      const exch = val(row, 'exchange_to');
-      const hasCompany = !!(company);
-      const hasCost = !!(costFormula);
-
-      if (color === 'green') totalGreen++;
-
-      const entry = { date, client, company, sum: sumF, currency, rub, srv, usdtIn, usdtOut, exch, costFormula, table: df.label, color };
-
-      if (date === today) {
-        todayDeals.push(entry);
-        continue;
-      }
-
-      if (!date) continue;
-
-      if (color === 'red' && !hasCompany) {
-        pastDueNoCompany.push(entry);
-      } else if (color === 'yellow') {
-        pastDueGreen.push(entry);
-      } else if (color === 'white' && hasCompany && hasCost) {
-        pastDuePP.push(entry);
-      } else if (color === 'red' && hasCompany && hasCost) {
-        pastDuePP.push(entry);
-      }
-    }
-  }
-
-  const sortAsc = (a,b) => {
-    const p = (d) => { if (!d) return 0; const x = d.split('.'); return new Date(x[2],x[1]-1,x[0]); };
-    return p(a.date) - p(b.date);
-  };
-  todayDeals.sort((a,b) => { const p = (d) => { if (!d) return 0; const x = d.split('.'); return new Date(x[2],x[1]-1,x[0]); }; return p(b.date) - p(a.date); });
-  pastDueGreen.sort(sortAsc);
-  pastDuePP.sort(sortAsc);
-  pastDueNoCompany.sort(sortAsc);
-
-  return { today, todayDeals, pastDueGreen, pastDuePP, pastDueNoCompany, totalRows, totalGreen };
-}
-
-function renderHTML(data) {
-  const { today, todayDeals, pastDueGreen, pastDuePP, pastDueNoCompany, totalRows, totalGreen } = data;
-  const totalActive = totalRows - totalGreen;
-  const now = new Date().toLocaleString('ru-RU', { timeZone: 'Europe/Moscow' });
-
-  function esc(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
-
-  function todayRow(d) {
-    const ri = [];
-    if (d.rub) ri.push(`ðŸ’° +${esc(d.rub)} â‚½`);
-    if (d.srv) ri.push(`ðŸ“¤ â†’${esc(d.exch||'VDX')}: ${esc(d.srv)} â‚½`);
-    if (d.usdtIn) ri.push(`ðŸª™ +${esc(d.usdtIn)} USDT`);
-    if (d.usdtOut) ri.push(`ðŸ“¤ -${esc(d.usdtOut)} USDT`);
-    const rs = ri.length ? ri.join('<br>') : '-';
-    const em = { red:'ðŸ”´',blue:'ðŸ”µ',white:'â¬œ',yellow:'ðŸŸ¡',green:'ðŸŸ¢' }[d.color] || 'â¬œ';
-    return `<tr><td>${esc(d.date)}</td><td class="n">${d.sum||''}</td><td>${esc(d.currency)}</td><td class="c">${esc(d.client||'-')}</td><td class="co">${esc(d.company||'-')}</td><td class="r">${rs}</td><td class="st">${em}</td></tr>`;
-  }
-
-  function dealsTable(deals, emoji) {
-    return `<table><thead><tr><th>Ð”Ð°Ñ‚Ð°</th><th>Ð¡ÑƒÐ¼Ð¼Ð°</th><th>Ð’Ð°Ð»</th><th>ÐšÐ»Ð¸ÐµÐ½Ñ‚</th><th>ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ</th><th>Ð¡Ñ‚Ð°Ñ‚ÑƒÑ</th></tr></thead><tbody>${
-      deals.map(d => `<tr class="r-${d.color}"><td>${esc(d.date)}</td><td class="n">${d.sum||''}</td><td>${esc(d.currency)}</td><td class="c">${esc(d.client||'-')}</td><td class="co">${esc(d.company||'-')}</td><td class="sc"><span class="sb">${emoji}</span></td></tr>`).join('')
-    }</tbody></table>`;
-  }
-
-  function section(title, emoji, deals, emptyText) {
-    return `<h2>${title} <span class="t">${deals.length}</span></h2>${
-      deals.length ? dealsTable(deals, emoji)
-      : `<div class="e"><div class="ee">âœ…</div><div>${emptyText}</div></div>`
-    }`;
-  }
-
-  return `<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PP-ÃÂ´ÃÂ°Ã‘Ë†ÃÂ±ÃÂ¾Ã‘â‚¬ÃÂ´ | ${today}</title>
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0d1117;color:#e6edf3;padding:16px}
-.c{max-width:1440px;margin:0 auto}
-h1{font-size:22px;color:#58a6ff;display:inline}
-.m{color:#8b949e;font-size:13px}
-.hd{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:24px}
-.ts{color:#484f58;font-size:12px}
-.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:24px}
-.s{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 16px}
-.s .v{font-size:26px;font-weight:700}
-.s .l{color:#8b949e;font-size:11px;text-transform:uppercase;margin-top:2px}
-.s.t .v{color:#58a6ff}.s.g .v{color:#3fb950}.s.a .v{color:#d29922}.s.p .v{color:#f85149}.s.nc .v{color:#8b949e}
-h2{font-size:17px;margin:24px 0 10px;color:#f0f6fc;display:flex;align-items:center;gap:8px}
-h2 .t{background:#21262d;color:#8b949e;font-size:11px;padding:2px 10px;border-radius:10px}
-.n{color:#8b949e;font-size:13px;margin-bottom:10px}
-table{width:100%;border-collapse:collapse;background:#161b22;border:1px solid #30363d;border-radius:8px;overflow:hidden;margin-bottom:4px}
-th{background:#21262d;padding:9px 10px;text-align:left;font-size:11px;text-transform:uppercase;color:#8b949e;border-bottom:1px solid #30363d;white-space:nowrap}
-td{padding:9px 10px;border-bottom:1px solid #21262d;font-size:13px;vertical-align:middle}
-tr:last-child td{border-bottom:none}
-.r-r{border-left:3px solid #f85149}.r-b{border-left:3px solid #58a6ff}.r-w{border-left:3px solid #8b949e}.r-y{border-left:3px solid #d29922}.r-g{border-left:3px solid #3fb950}
-.n{font-family:'JetBrains Mono',monospace;white-space:nowrap;text-align:right;font-size:13px}
-.c{font-weight:500;max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px}
-.co{color:#8b949e;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px}
-.r{font-size:12px;color:#8b949e;white-space:nowrap}
-.st{font-size:18px;text-align:center}
-.sc{text-align:center}.sb{display:inline-block;font-size:28px;line-height:1}
-.e{text-align:center;padding:32px;color:#8b949e;background:#161b22;border:1px solid #30363d;border-radius:8px}
-.ee{font-size:28px;margin-bottom:6px}
-.ft{margin-top:40px;text-align:center;color:#484f58;font-size:12px}
-tr:hover td{background:#1c2128}
-</style>
-</head>
-<body>
-<div class="c">
-<div class="hd">
-<div><h1>ðŸ“Š ÃÅ¸ÃÅ¸-ÃÂ´ÃÂ°Ã‘Ë†ÃÂ±ÃÂ¾Ã‘â‚¬ÃÂ´</h1><div class="m">ÃÅ“ÃÂ¾ÃÂ½ÃÂ¸Ã‘â€šÃÂ¾Ã‘â‚¬ÃÂ¸ÃÂ½ÃÂ³ ÃÂ¿ÃÂ»ÃÂ°Ã‘â€šÃÂµÃÂ¶ÃÂµÃÂ¹ â€¢ ÃÂ¾ÃÂ±ÃÂ½ÃÂ¾ÃÂ²ÃÂ»ÃÂµÃÂ½ÃÂ¸ÃÂµ ÃÂºÃÂ°ÃÂ¶ÃÂ´Ã‘â€¹ÃÂµ 30 ÃÂ¼ÃÂ¸ÃÂ½</div></div>
-<div class="ts">ðŸ”„ ${now} ÃÅ“ÃÂ¡ÃÅ¡</div>
-</div>
-
-<div class="sg">
-<div class="s t"><div class="v">${todayDeals.length}</div><div class="l">ðŸ“‹ ÃÂ¡ÃÂµÃÂ³ÃÂ¾ÃÂ´ÃÂ½Ã‘Â</div></div>
-<div class="s g"><div class="v">${totalGreen}</div><div class="l">âœ… ÃËœÃ‘ÂÃÂ¿ÃÂ¾ÃÂ»ÃÂ½ÃÂµÃÂ½ÃÂ¾</div></div>
-<div class="s a"><div class="v">${pastDueGreen.length}</div><div class="l">ðŸŸ¡ Ãâ€“ÃÂ´Ã‘Æ’Ã‘â€š ÃÂ·ÃÂµÃÂ»Ã‘â€˜ÃÂ½ÃÂºÃ‘Æ’</div></div>
-<div class="s p"><div class="v">${pastDuePP.length}</div><div class="l">ðŸ”´ Ãâ€“ÃÂ´Ã‘Æ’Ã‘â€š ÃÅ¸ÃÅ¸</div></div>
-<div class="s nc"><div class="v">${pastDueNoCompany.length}</div><div class="l">âšª Ãâ€˜ÃÂµÃÂ· ÃÂ·ÃÂ°Ã‘ÂÃÂ²ÃÂºÃÂ¸</div></div>
-</div>
-
-${section('ðŸ“‹ ÃÂ¡ÃÂ´ÃÂµÃÂ»ÃÂºÃÂ¸ ÃÂ·ÃÂ° Ã‘ÂÃÂµÃÂ³ÃÂ¾ÃÂ´ÃÂ½Ã‘Â', '', todayDeals, 'ðŸŒ™ ÃÂ¡ÃÂµÃÂ³ÃÂ¾ÃÂ´ÃÂ½Ã‘Â Ã‘ÂÃÂ´ÃÂµÃÂ»ÃÂ¾ÃÂº ÃÂ½ÃÂµÃ‘â€š')}
-
-<h2>âš ï¸ ÃÂ¡ÃÂ´ÃÂµÃÂ»ÃÂºÃÂ¸ ÃÂ¿Ã‘â‚¬ÃÂ¾Ã‘Ë†ÃÂ»Ã‘â€¹Ã‘â€¦ ÃÂ´ÃÂ½ÃÂµÃÂ¹ <span class="t">${pastDueGreen.length + pastDuePP.length + pastDueNoCompany.length}</span></h2>
-<div class="n">ÃÂ¢Ã‘â‚¬ÃÂµÃÂ±Ã‘Æ’Ã‘Å½Ã‘â€š ÃÂ²ÃÂ½ÃÂ¸ÃÂ¼ÃÂ°ÃÂ½ÃÂ¸Ã‘Â ÃÂ¼ÃÂ°Ã‘â‚¬Ã‘Ë†Ã‘â‚¬Ã‘Æ’Ã‘â€šÃÂ¸ÃÂ·ÃÂ°Ã‘â€šÃÂ¾Ã‘â‚¬ÃÂ¾ÃÂ²</div>
-
-${pastDueNoCompany.length ? `<h3 style="font-size:14px;margin:14px 0 8px;color:#e6edf3;display:flex;align-items:center;gap:6px"><span style="font-size:18px">âšª</span> ÃÅ¾ÃÂ¶ÃÂ¸ÃÂ´ÃÂ°Ã‘Å½Ã‘â€š ÃÂ·ÃÂ°Ã‘ÂÃÂ²ÃÂºÃ‘Æ’ (ÃÂ½ÃÂµÃ‘â€š ÃÂºÃÂ¾ÃÂ¼ÃÂ¿ÃÂ°ÃÂ½ÃÂ¸ÃÂ¸)</h3><table><thead><tr><th>Ð”Ð°Ñ‚Ð°</th><th>Ð¡ÑƒÐ¼Ð¼Ð°</th><th>Ð’Ð°Ð»</th><th>ÐšÐ»Ð¸ÐµÐ½Ñ‚</th><th>ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ</th><th>Ð¡Ñ‚Ð°Ñ‚ÑƒÑ</th></tr></thead><tbody>${
-  pastDueNoCompany.map(d => `<tr class="r-${d.color}"><td>${esc(d.date)}</td><td class="n">${d.sum||''}</td><td>${esc(d.currency)}</td><td class="c">${esc(d.client||'-')}</td><td class="co">${esc(d.company||'-')}</td><td class="sc"><span class="sb">âšª</span></td></tr>`).join('')
-}</tbody></table>` : ''}
-
-${pastDuePP.length ? `<h3 style="font-size:14px;margin:14px 0 8px;color:#e6edf3;display:flex;align-items:center;gap:6px"><span style="font-size:18px">ðŸ”´</span> ÃÅ¾Ã‘â€šÃ‘ÂÃ‘Æ’Ã‘â€šÃ‘ÂÃ‘â€šÃÂ²Ã‘Æ’ÃÂµÃ‘â€š ÃÂ¿ÃÂ¾ÃÂ´ÃÂ²ÃÂµÃ‘Ë†ÃÂµÃÂ½ÃÂ½ÃÂ°Ã‘Â ÃÅ¸ÃÅ¸</h3><table><thead><tr><th>Ð”Ð°Ñ‚Ð°</th><th>Ð¡ÑƒÐ¼Ð¼Ð°</th><th>Ð’Ð°Ð»</th><th>ÐšÐ»Ð¸ÐµÐ½Ñ‚</th><th>ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ</th><th>Ð¡Ñ‚Ð°Ñ‚ÑƒÑ</th></tr></thead><tbody>${
-  pastDuePP.map(d => `<tr class="r-${d.color}"><td>${esc(d.date)}</td><td class="n">${d.sum||''}</td><td>${esc(d.currency)}</td><td class="c">${esc(d.client||'-')}</td><td class="co">${esc(d.company||'-')}</td><td class="sc"><span class="sb">ðŸ”´</span></td></tr>`).join('')
-}</tbody></table>` : ''}
-
-${pastDueGreen.length ? `<h3 style="font-size:14px;margin:14px 0 8px;color:#e6edf3;display:flex;align-items:center;gap:6px"><span style="font-size:18px">ðŸŸ¡</span> ÃÅ¾Ã‘â€šÃ‘ÂÃ‘Æ’Ã‘â€šÃ‘ÂÃ‘â€šÃÂ²Ã‘Æ’ÃÂµÃ‘â€š ÃÂ·ÃÂµÃÂ»Ã‘â€˜ÃÂ½ÃÂºÃÂ°</h3><table><thead><tr><th>Ð”Ð°Ñ‚Ð°</th><th>Ð¡ÑƒÐ¼Ð¼Ð°</th><th>Ð’Ð°Ð»</th><th>ÐšÐ»Ð¸ÐµÐ½Ñ‚</th><th>ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ</th><th>Ð¡Ñ‚Ð°Ñ‚ÑƒÑ</th></tr></thead><tbody>${
-  pastDueGreen.map(d => `<tr class="r-${d.color}"><td>${esc(d.date)}</td><td class="n">${d.sum||''}</td><td>${esc(d.currency)}</td><td class="c">${esc(d.client||'-')}</td><td class="co">${esc(d.company||'-')}</td><td class="sc"><span class="sb">ðŸŸ¡</span></td></tr>`).join('')
-}</tbody></table>` : ''}
-
-${!pastDueGreen.length && !pastDuePP.length && !pastDueNoCompany.length ? `<div class="e"><div class="ee">âœ…</div><div>Ãâ€™Ã‘ÂÃÂµ Ã‘ÂÃÂ´ÃÂµÃÂ»ÃÂºÃÂ¸ ÃÂ² ÃÂ¿ÃÂ¾Ã‘â‚¬Ã‘ÂÃÂ´ÃÂºÃÂµ</div></div>` : ''}
-
-<div class="ft">ðŸ“Š ÃÅ¸ÃÅ¸-ÃÂ´ÃÂ°Ã‘Ë†ÃÂ±ÃÂ¾Ã‘â‚¬ÃÂ´ â€¢ ${totalRows} Ã‘ÂÃÂ´ÃÂµÃÂ»ÃÂ¾ÃÂº ÃÂ² 5 Ã‘â€šÃÂ°ÃÂ±ÃÂ»ÃÂ¸Ã‘â€ ÃÂ°Ã‘â€¦ â€¢ ${totalGreen} âœ… ÃÂ¸Ã‘ÂÃÂ¿ÃÂ¾ÃÂ»ÃÂ½ÃÂµÃÂ½ÃÂ¾ â€¢ ÃÂÃÂ²Ã‘â€šÃÂ¾ÃÂ¾ÃÂ±ÃÂ½ÃÂ¾ÃÂ²ÃÂ»ÃÂµÃÂ½ÃÂ¸ÃÂµ ÃÂºÃÂ°ÃÂ¶ÃÂ´Ã‘â€¹ÃÂµ 30 ÃÂ¼ÃÂ¸ÃÂ½ (ÃÂ±Ã‘Æ’ÃÂ´ÃÂ½ÃÂ¸)</div>
-</div>
-</body>
-</html>`;
-}
-
-const data = buildDashboard();
-const html = renderHTML(data);
-fs.writeFileSync(path.join(__dirname, 'index.html'), html, 'utf8');
-console.log(`Today: ${data.todayDeals.length} | Green wait: ${data.pastDueGreen.length} | PP wait: ${data.pastDuePP.length} | No company: ${data.pastDueNoCompany.length} | Total rows: ${data.totalRows}`);
+const d=build();const h=render(d);fs.writeFileSync(path.join(__dirname,'index.html'),h,'utf8');
+console.log('OK: T='+d.td.length+' Y='+d.pg.length+' R='+d.pp.length+' N='+d.nc.length+' TOT='+d.tot);
