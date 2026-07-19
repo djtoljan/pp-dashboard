@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>ПП-дашборд</title>
-<style>*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: 'Segoe UI', -apple-system, sans-serif; background: #f5f5f5; color: #333; padding: 24px; }
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>ПП-дашборд</title><style>*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', -apple-system, sans-serif; background: #f5f5f5; color: #333; padding: 24px; max-width: 1200px; margin: 0 auto; }
 h1 { font-size: 24px; margin-bottom: 2px; color: #1a1a2e; }
 .ts { color: #888; font-size: 13px; margin-bottom: 20px; }
-.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin-bottom: 20px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 20px; }
 .card { background: #fff; border-radius: 10px; padding: 14px 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
 .card .lbl { font-size: 10px; text-transform: uppercase; letter-spacing: 0.8px; color: #888; margin-bottom: 2px; }
 .card .val { font-size: 22px; font-weight: 700; color: #1a1a2e; }
@@ -18,39 +16,154 @@ h1 { font-size: 24px; margin-bottom: 2px; color: #1a1a2e; }
 .card.card-blue { border-left: 4px solid #4FC3F7; }
 .card.card-yellow { border-left: 4px solid #FFD700; }
 .card.card-dark { border-left: 4px solid #1a1a2e; }
-h2 { font-size: 16px; margin: 18px 0 8px; color: #1a1a2e; }
+h2 { font-size: 16px; margin: 20px 0 10px; color: #1a1a2e; }
 h2 span { font-weight: 400; color: #888; font-size: 13px; }
-h3 { font-size: 13px; margin: 10px 0 6px; color: #555; font-weight: 500; }
-.dual { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
-@media (max-width: 700px) { .dual { grid-template-columns: 1fr; } }
+.section-label { font-size: 20px; margin-right: 6px; vertical-align: middle; }
 table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); margin-bottom: 16px; }
-th { background: #f0f0f5; text-align: left; padding: 7px 10px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: #666; font-weight: 600; white-space: nowrap; }
-td { padding: 7px 10px; border-top: 1px solid #eee; font-size: 13px; }
+th { background: #f0f0f5; text-align: left; padding: 8px 12px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: #666; font-weight: 600; white-space: nowrap; }
+td { padding: 10px 12px; border-top: 1px solid #eee; font-size: 13px; vertical-align: middle; }
 tr:hover td { background: #fafafa; }
-.dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
 .n { font-family: 'Consolas', monospace; white-space: nowrap; text-align: right; }
 .sm { font-size: 11px; color: #999; }
 .ta { text-align: center; }
-.bar-track { height: 6px; background: #eee; border-radius: 3px; overflow: hidden; min-width: 60px; display: inline-block; vertical-align: middle; }
-.bar-fill { height: 100%; border-radius: 3px; }
-.footer { text-align: center; color: #aaa; font-size: 11px; margin-top: 20px; padding-top: 12px; border-top: 1px solid #eee; }
-.empty { text-align: center; padding: 30px; color: #999; font-size: 14px; }</style>
-</head>
+.status-badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; white-space: nowrap; }
+.status-badge.green { background: #e8f8e8; color: #2e7d32; }
+.status-badge.yellow { background: #fff8e1; color: #f57f17; }
+.status-badge.red { background: #ffe8e8; color: #c62828; }
+.status-badge.gray { background: #f0f0f0; color: #666; }
+.emoji-lg { font-size: 28px; display: block; margin-bottom: 2px; }
+.footer { text-align: center; color: #aaa; font-size: 11px; margin-top: 24px; padding-top: 12px; border-top: 1px solid #eee; }
+.empty { text-align: center; padding: 30px; color: #999; font-size: 14px; }</style></head>
 <body>
 <h1>📊 ПП-дашборд</h1>
-<div class="ts">🔄 19.07.2026, 19:39:44 МСК · 186 строк · 20 компаний · 2 сегодня</div>
+<div class="ts">🔄 19.07.2026, 19:45:05 МСК · 186 строк</div>
 
 <div class="grid">
-  <div class="card card-dark"><div class="lbl">Всего строк</div><div class="val">186</div><div class="sub">2 сегодня</div></div>
+  <div class="card card-dark"><div class="lbl">Всего</div><div class="val">186</div><div class="sub"></div></div>
   <div class="card card-green"><div class="lbl">🟢 Выполнено</div><div class="val">117</div><div class="sub">63%</div></div>
-  <div class="card card-yellow"><div class="lbl">🟡 Подвешено</div><div class="val">9</div><div class="sub">ждут зелёнку</div></div>
-  <div class="card card-red"><div class="lbl">🔴 Красных</div><div class="val">4</div><div class="sub">15 в работе</div></div>
-  <div class="card card-blue"><div class="lbl">🔵 Голубых</div><div class="val">52</div><div class="sub">только рубли</div></div>
-  <div class="card card-dark"><div class="lbl">⬜ В работе</div><div class="val">4</div><div class="sub">белые</div></div>
-  <div class="card card-green"><div class="lbl">USDT отправлено</div><div class="val">5 262 156</div><div class="sub">всего</div></div>
-  <div class="card card-blue"><div class="lbl">USDT получено</div><div class="val">5 177 441</div><div class="sub">всего</div></div>
-  <div class="card card-dark"><div class="lbl">₽ Пришло рублей</div><div class="val">261 133 503</div><div class="sub">73 строк</div></div>
-  <div class="card card-dark"><div class="lbl">На VDX</div><div class="val">113</div><div class="sub">строк отправлено</div></div>
-  <div class="card card-dark"><div class="lbl">Без расчёта</div><div class="val">120</div><div class="sub">из 186</div></div>
-  <div class="card card-dark"><div class="lbl">Компаний</div><div class="val">20</div><div class="sub">уникальных</div></div>
-</div><h2>📋 Сегодня <span>2</span></h2><table><thead><tr><th>Статус</th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Группа</th></tr></thead><tbody><tr><td><span class="dot" style="background:#ccc"></span>⬜</td><td>2026-07-19</td><td class="n">20 000</td><td>USD</td><td>IFC (Цветы)</td><td class="sm">Q8</td><td class="sm">Цветы</td></tr><tr><td><span class="dot" style="background:#ccc"></span>⬜</td><td>2026-07-19</td><td class="n">118 694.83</td><td>USD</td><td>ALIANZA LOGISTICS (Цветы)</td><td class="sm">Q8</td><td class="sm">Цветы</td></tr></tbody></table><h2>⚠️ В работе <span>15</span></h2><table><thead><tr><th>Статус</th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Группа</th></tr></thead><tbody><tr><td><span class="dot" style="background:#e74c3c"></span>🔴 ждёт ПП</td><td>2026-07-17</td><td class="n">27 731.95</td><td>EUR</td><td>Дре Русланд</td><td class="sm">LUXORA</td><td class="sm">Main</td></tr><tr><td><span class="dot" style="background:#e74c3c"></span>🔴 ждёт ПП</td><td>2026-07-16</td><td class="n">38 820.68</td><td>EUR</td><td>ВТС (Itrix)</td><td class="sm">Q8</td><td class="sm">Main</td></tr><tr><td><span class="dot" style="background:#ccc"></span>⚪ без заявки</td><td>2026-07-17</td><td class="n">98 880</td><td>EUR</td><td>ВТС (FININVEST)</td><td class="sm">-</td><td class="sm">Main</td></tr><tr><td><span class="dot" style="background:#ccc"></span>⚪ без заявки</td><td>2026-07-17</td><td class="n">6 790</td><td>USD</td><td>ВТС (Henan Wancheng)</td><td class="sm">-</td><td class="sm">Main</td></tr><tr><td><span class="dot" style="background:#ccc"></span>⚪ без заявки</td><td>2026-07-17</td><td class="n">41 670.89</td><td>USD</td><td>ВТС (Itrix 73240)</td><td class="sm">-</td><td class="sm">Main</td></tr><tr><td><span class="dot" style="background:#ccc"></span>⚪ без заявки</td><td>2026-07-16</td><td class="n">27 118.22</td><td>USD</td><td>ВТС (Flow)</td><td class="sm">-</td><td class="sm">Main</td></tr><tr><td><span class="dot" style="background:#FFD700"></span>🟡 ждёт зелёнку</td><td>2026-07-17</td><td class="n">26 204.95</td><td>EUR</td><td>ГК Джей Си Хаус</td><td class="sm">TRANSPATH</td><td class="sm">Main</td></tr><tr><td><span class="dot" style="background:#FFD700"></span>🟡 ждёт зелёнку</td><td>2026-07-17</td><td class="n">49 386.56</td><td>EUR</td><td>Константин (Просто группа)</td><td class="sm">TRANSPATH</td><td class="sm">Константин</td></tr><tr><td><span class="dot" style="background:#FFD700"></span>🟡 ждёт зелёнку</td><td>2026-07-17</td><td class="n">21 022.6</td><td>EUR</td><td>Константин (Просто группа)</td><td class="sm">TRANSPATH</td><td class="sm">Константин</td></tr><tr><td><span class="dot" style="background:#FFD700"></span>🟡 ждёт зелёнку</td><td>2026-07-16</td><td class="n">1 592</td><td>EUR</td><td>Фри Лайнс Компани</td><td class="sm">TRANSPATH</td><td class="sm">Молодёжь</td></tr><tr><td><span class="dot" style="background:#FFD700"></span>🟡 ждёт зелёнку</td><td>2026-07-15</td><td class="n">27 757.94</td><td>EUR</td><td>Агротрэйд 3</td><td class="sm">OPTIMA FOOD</td><td class="sm">Main</td></tr><tr><td><span class="dot" style="background:#FFD700"></span>🟡 ждёт зелёнку</td><td>2026-07-15</td><td class="n">11 560.67</td><td>USD</td><td>Фри Лайнс Компани</td><td class="sm">LEO</td><td class="sm">Молодёжь</td></tr><tr><td><span class="dot" style="background:#FFD700"></span>🟡 ждёт зелёнку</td><td>2026-07-15</td><td class="n">4 380.74</td><td>EUR</td><td>ОНИКС</td><td class="sm">OMNEX</td><td class="sm">Движение 78</td></tr><tr><td><span class="dot" style="background:#FFD700"></span>🟡 ждёт зелёнку</td><td>2026-07-09</td><td class="n">27 300</td><td>USD</td><td>КГ бр (Аренда)</td><td class="sm">KRAFT</td><td class="sm">Main</td></tr><tr><td><span class="dot" style="background:#FFD700"></span>🟡 ждёт зелёнку</td><td>2026-07-09</td><td class="n">130 000</td><td>USD</td><td>Виктор Авто (Lexus LX600 через NKT)</td><td class="sm">NKT</td><td class="sm">Main</td></tr></tbody></table><div class="dual"><div><h2>🏢 Топ компаний</h2><table><thead><tr><th>#</th><th>Компания</th><th>Строк</th><th>%</th></tr></thead><tbody><tr><td>1</td><td><strong>Q8</strong></td><td>81</td><td>43.5% <span class="bar-track"><span class="bar-fill" style="width:100%;background:#4FC3F7"></span></span></td></tr><tr><td>2</td><td><strong>TRANSPATH</strong></td><td>12</td><td>6.5% <span class="bar-track"><span class="bar-fill" style="width:15%;background:#4FC3F7"></span></span></td></tr><tr><td>3</td><td><strong>LEO</strong></td><td>5</td><td>2.7% <span class="bar-track"><span class="bar-fill" style="width:6%;background:#4FC3F7"></span></span></td></tr><tr><td>4</td><td><strong>INTEGRA</strong></td><td>4</td><td>2.2% <span class="bar-track"><span class="bar-fill" style="width:5%;background:#4FC3F7"></span></span></td></tr><tr><td>5</td><td><strong>SUMMIT</strong></td><td>4</td><td>2.2% <span class="bar-track"><span class="bar-fill" style="width:5%;background:#4FC3F7"></span></span></td></tr><tr><td>6</td><td><strong>LUXORA</strong></td><td>3</td><td>1.6% <span class="bar-track"><span class="bar-fill" style="width:4%;background:#4FC3F7"></span></span></td></tr><tr><td>7</td><td><strong>INFINITE</strong></td><td>3</td><td>1.6% <span class="bar-track"><span class="bar-fill" style="width:4%;background:#4FC3F7"></span></span></td></tr><tr><td>8</td><td><strong>OPTIMA</strong></td><td>2</td><td>1.1% <span class="bar-track"><span class="bar-fill" style="width:2%;background:#4FC3F7"></span></span></td></tr><tr><td>9</td><td><strong>NKT</strong></td><td>2</td><td>1.1% <span class="bar-track"><span class="bar-fill" style="width:2%;background:#4FC3F7"></span></span></td></tr><tr><td>10</td><td><strong>WAPA</strong></td><td>2</td><td>1.1% <span class="bar-track"><span class="bar-fill" style="width:2%;background:#4FC3F7"></span></span></td></tr><tr><td>11</td><td><strong>OPTIMA FOOD</strong></td><td>2</td><td>1.1% <span class="bar-track"><span class="bar-fill" style="width:2%;background:#4FC3F7"></span></span></td></tr><tr><td>12</td><td><strong>OMNEX</strong></td><td>2</td><td>1.1% <span class="bar-track"><span class="bar-fill" style="width:2%;background:#4FC3F7"></span></span></td></tr><tr><td>13</td><td><strong>БЛЭКШАРК</strong></td><td>1</td><td>0.5% <span class="bar-track"><span class="bar-fill" style="width:1%;background:#4FC3F7"></span></span></td></tr><tr><td>14</td><td><strong>NIKA GLOBAL TRADE LIMITED</strong></td><td>1</td><td>0.5% <span class="bar-track"><span class="bar-fill" style="width:1%;background:#4FC3F7"></span></span></td></tr><tr><td>15</td><td><strong>KRAFT</strong></td><td>1</td><td>0.5% <span class="bar-track"><span class="bar-fill" style="width:1%;background:#4FC3F7"></span></span></td></tr></tbody></table></div><div><h2>💱 Валюты</h2><table><thead><tr><th>Валюта</th><th>Строк</th></tr></thead><tbody><tr><td><strong>USD</strong></td><td>77 <span class="bar-track"><span class="bar-fill" style="width:100%;background:#92D050"></span></span></td></tr><tr><td><strong>EUR</strong></td><td>54 <span class="bar-track"><span class="bar-fill" style="width:70%;background:#92D050"></span></span></td></tr><tr><td><strong>CNY</strong></td><td>2 <span class="bar-track"><span class="bar-fill" style="width:3%;background:#92D050"></span></span></td></tr><tr><td><strong>RUB</strong></td><td>2 <span class="bar-track"><span class="bar-fill" style="width:3%;background:#92D050"></span></span></td></tr><tr><td><strong>CNH</strong></td><td>1 <span class="bar-track"><span class="bar-fill" style="width:1%;background:#92D050"></span></span></td></tr></tbody></table></div></div><div class="dual"><div><h2>💰 Топ по объёму (USDT)</h2><table><thead><tr><th>#</th><th>Компания</th><th>Объём</th></tr></thead><tbody><tr><td>1</td><td><strong>Q8</strong></td><td class="n">3 553 178 <span class="bar-track"><span class="bar-fill" style="width:100%;background:#a78bfa"></span></span></td></tr><tr><td>2</td><td><strong>TRANSPATH</strong></td><td class="n">322 743 <span class="bar-track"><span class="bar-fill" style="width:9%;background:#a78bfa"></span></span></td></tr><tr><td>3</td><td><strong>INFINITE</strong></td><td class="n">288 176 <span class="bar-track"><span class="bar-fill" style="width:8%;background:#a78bfa"></span></span></td></tr><tr><td>4</td><td><strong>INTEGRA</strong></td><td class="n">205 399 <span class="bar-track"><span class="bar-fill" style="width:6%;background:#a78bfa"></span></span></td></tr><tr><td>5</td><td><strong>NKT</strong></td><td class="n">165 732 <span class="bar-track"><span class="bar-fill" style="width:5%;background:#a78bfa"></span></span></td></tr><tr><td>6</td><td><strong>OPTIMA</strong></td><td class="n">129 633 <span class="bar-track"><span class="bar-fill" style="width:4%;background:#a78bfa"></span></span></td></tr><tr><td>7</td><td><strong>OMNEX</strong></td><td class="n">110 194 <span class="bar-track"><span class="bar-fill" style="width:3%;background:#a78bfa"></span></span></td></tr><tr><td>8</td><td><strong>TECHEQUIP</strong></td><td class="n">100 706 <span class="bar-track"><span class="bar-fill" style="width:3%;background:#a78bfa"></span></span></td></tr><tr><td>9</td><td><strong>LEO</strong></td><td class="n">71 111 <span class="bar-track"><span class="bar-fill" style="width:2%;background:#a78bfa"></span></span></td></tr><tr><td>10</td><td><strong>AURELIA PRIME LTD</strong></td><td class="n">66 871 <span class="bar-track"><span class="bar-fill" style="width:2%;background:#a78bfa"></span></span></td></tr><tr><td>11</td><td><strong>OPTIMA FOOD</strong></td><td class="n">60 909 <span class="bar-track"><span class="bar-fill" style="width:2%;background:#a78bfa"></span></span></td></tr><tr><td>12</td><td><strong>WAPA</strong></td><td class="n">56 954 <span class="bar-track"><span class="bar-fill" style="width:2%;background:#a78bfa"></span></span></td></tr></tbody></table></div><div><h2>👥 Группы клиентов</h2><table><thead><tr><th>Группа</th><th>Строк</th><th>%</th></tr></thead><tbody><tr><td>Цветы</td><td>64</td><td>34.4% <span class="bar-track"><span class="bar-fill" style="width:100%;background:#4FC3F7"></span></span></td></tr><tr><td>Main</td><td>56</td><td>30.1% <span class="bar-track"><span class="bar-fill" style="width:88%;background:#4FC3F7"></span></span></td></tr><tr><td>Молодёжь</td><td>38</td><td>20.4% <span class="bar-track"><span class="bar-fill" style="width:59%;background:#4FC3F7"></span></span></td></tr><tr><td>Константин</td><td>23</td><td>12.4% <span class="bar-track"><span class="bar-fill" style="width:36%;background:#4FC3F7"></span></span></td></tr><tr><td>Движение 78</td><td>5</td><td>2.7% <span class="bar-track"><span class="bar-fill" style="width:8%;background:#4FC3F7"></span></span></td></tr></tbody></table></div></div><div class="footer">ПП-дашборд · 186 сделок · 117 🟢 · 19.07.2026, 19:39:44 МСК</div></body></html>
+  <div class="card card-yellow"><div class="lbl">🟡 Ждут зелёнку</div><div class="val">9</div><div class="sub"></div></div>
+  <div class="card card-red"><div class="lbl">🔴 Ждут ПП</div><div class="val">2</div><div class="sub"></div></div>
+  <div class="card card-blue"><div class="lbl">⚪ Без заявки</div><div class="val">4</div><div class="sub"></div></div>
+  <div class="card card-dark"><div class="lbl">🔵 Только рубли</div><div class="val">52</div><div class="sub">без USDT</div></div>
+</div><h2><span class="section-label">📋</span> Сегодня <span>2</span></h2><table><thead><tr><th>Статус</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Пришло ₽</th><th>Ушло ₽</th></tr></thead><tbody><tr>
+        <td><span class="status-badge white">⚪</span></td>
+        <td class="n">20 000</td>
+        <td>USD</td>
+        <td>IFC (Цветы)</td>
+        <td class="sm">Q8</td>
+        <td class="n">-</td>
+        <td class="n">-</td>
+      </tr><tr>
+        <td><span class="status-badge white">⚪</span></td>
+        <td class="n">118 694.83</td>
+        <td>USD</td>
+        <td>ALIANZA LOGISTICS (Цветы)</td>
+        <td class="sm">Q8</td>
+        <td class="n">-</td>
+        <td class="n">-</td>
+      </tr></tbody></table><h2><span class="section-label">🟡</span> Ждут зелёнку <span>9</span></h2><table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th></tr></thead><tbody><tr>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td>2026-07-17</td>
+        <td class="n">26 204.95</td>
+        <td>EUR</td>
+        <td>ГК Джей Си Хаус</td>
+        <td class="sm">TRANSPATH</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td>2026-07-17</td>
+        <td class="n">49 386.56</td>
+        <td>EUR</td>
+        <td>Константин (Просто группа)</td>
+        <td class="sm">TRANSPATH</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td>2026-07-17</td>
+        <td class="n">21 022.6</td>
+        <td>EUR</td>
+        <td>Константин (Просто группа)</td>
+        <td class="sm">TRANSPATH</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td>2026-07-16</td>
+        <td class="n">1 592</td>
+        <td>EUR</td>
+        <td>Фри Лайнс Компани</td>
+        <td class="sm">TRANSPATH</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td>2026-07-15</td>
+        <td class="n">27 757.94</td>
+        <td>EUR</td>
+        <td>Агротрэйд 3</td>
+        <td class="sm">OPTIMA FOOD</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td>2026-07-15</td>
+        <td class="n">11 560.67</td>
+        <td>USD</td>
+        <td>Фри Лайнс Компани</td>
+        <td class="sm">LEO</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td>2026-07-15</td>
+        <td class="n">4 380.74</td>
+        <td>EUR</td>
+        <td>ОНИКС</td>
+        <td class="sm">OMNEX</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td>2026-07-09</td>
+        <td class="n">27 300</td>
+        <td>USD</td>
+        <td>КГ бр (Аренда)</td>
+        <td class="sm">KRAFT</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">🟡</div></td>
+        <td>2026-07-09</td>
+        <td class="n">130 000</td>
+        <td>USD</td>
+        <td>Виктор Авто (Lexus LX600 через NKT)</td>
+        <td class="sm">NKT</td>
+      </tr></tbody></table><h2><span class="section-label">🔴</span> Ждут ПП <span>2</span></h2><table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th></tr></thead><tbody><tr>
+        <td class="ta"><div class="emoji-lg">🔴</div></td>
+        <td>2026-07-17</td>
+        <td class="n">27 731.95</td>
+        <td>EUR</td>
+        <td>Дре Русланд</td>
+        <td class="sm">LUXORA</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">🔴</div></td>
+        <td>2026-07-16</td>
+        <td class="n">38 820.68</td>
+        <td>EUR</td>
+        <td>ВТС (Itrix)</td>
+        <td class="sm">Q8</td>
+      </tr></tbody></table><h2><span class="section-label">⚪</span> Без заявки (нет компании) <span>4</span></h2><table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Группа</th></tr></thead><tbody><tr>
+        <td class="ta"><div class="emoji-lg">⚪</div></td>
+        <td>2026-07-17</td>
+        <td class="n">98 880</td>
+        <td>EUR</td>
+        <td>ВТС (FININVEST)</td>
+        <td class="sm">Main</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">⚪</div></td>
+        <td>2026-07-17</td>
+        <td class="n">6 790</td>
+        <td>USD</td>
+        <td>ВТС (Henan Wancheng)</td>
+        <td class="sm">Main</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">⚪</div></td>
+        <td>2026-07-17</td>
+        <td class="n">41 670.89</td>
+        <td>USD</td>
+        <td>ВТС (Itrix 73240)</td>
+        <td class="sm">Main</td>
+      </tr><tr>
+        <td class="ta"><div class="emoji-lg">⚪</div></td>
+        <td>2026-07-16</td>
+        <td class="n">27 118.22</td>
+        <td>USD</td>
+        <td>ВТС (Flow)</td>
+        <td class="sm">Main</td>
+      </tr></tbody></table><div class="footer">ПП-дашборд · 186 сделок · 117 🟢 · 9 🟡 · 2 🔴 · 4 ⚪ · 19.07.2026, 19:45:05 МСК</div></body></html>
