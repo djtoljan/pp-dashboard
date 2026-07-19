@@ -92,8 +92,8 @@ function build() {
         String(r.rubles_received).split('/').forEach(p => { totalRubRecv += parseFloat(p) || 0; });
       }
 
-      // Daily count (current month only)
-      if (dt && dt.length >= 7) {
+      // Daily count (current month only, valyutnie zayavki only — skip RUB and blue)
+      if (dt && dt.length >= 7 && cur.toUpperCase() !== 'RUB' && col !== 'blue') {
         const ym = dt.slice(0, 7);
         const nowYM = td.slice(0, 7);
         if (ym === nowYM) {
