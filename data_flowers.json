@@ -1223,12 +1223,12 @@
       "extra": "ГлобалЦвет (Цветы)",
       "color": "FF4FC3F7",
       "rubles_received": "7843720.16 / 196093.00",
-      "sent_rubles_vdx": null,
+      "sent_rubles_vdx": 8039813.16,
       "vdx_rate": null,
-      "exchange_to": null,
+      "exchange_to": "VDX",
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "PP No739 7,843,720.16 RUB + PP No740 196,093.00 RUB (voznagrazhdenie). Po agent.dog. WD-26, por.91 ot 20.07.2026. Iz vyipiski POCHTOBANK."
+      "notes": "PP No739 7,843,720.16 RUB + PP No740 196,093.00 RUB (voznagrazhdenie). Po agent.dog. WD-26, por.91 ot 20.07.2026. Iz vyipiski POCHTOBANK. | Блэкшарк ПОЧТО→ВИДИИКС (VDX), 8,039,813.16₽, заявка 621, ГлобалЦвет (Цветы)"
     },
     {
       "row": 68,
