@@ -55,6 +55,13 @@ function fmt(n) {
   return Math.round(v).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
 }
 
+function fmtDate(d) {
+  if (!d) return '';
+  // YYYY-MM-DD → DD.MM.YYYY
+  const m = String(d).match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  return m ? `${m[3]}.${m[2]}.${m[1]}` : d;
+}
+
 function build() {
   const td = today();
   const todayRows = [];
@@ -148,7 +155,7 @@ function build() {
 }
 
 function render(d) {
-  const { stats, todayRows, waitGreen, waitPP, waitApp, dailyCount } = d;
+  const { stats, todayRows, waitGreen, waitPP, waitApp, dailyCount, companyDealCount } = d;
   const N = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
 
   const CSS = `*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -222,7 +229,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
     for (const r of waitApp) {
       h += `<tr>
         <td class="ta"><div class="emoji-lg">⚪</div></td>
-        <td>${esc(r.date)}</td>
+        <td>${fmtDate(esc(r.date))}</td>
         <td class="n">${r.sum ? N(r.sum) : '-'}</td>
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
@@ -239,7 +246,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
     for (const r of waitPP) {
       h += `<tr>
         <td class="ta"><div class="emoji-lg">🔴</div></td>
-        <td>${esc(r.date)}</td>
+        <td>${fmtDate(esc(r.date))}</td>
         <td class="n">${r.sum ? N(r.sum) : '-'}</td>
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
@@ -256,7 +263,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
     for (const r of waitGreen) {
       h += `<tr>
         <td class="ta"><div class="emoji-lg">🟡</div></td>
-        <td>${esc(r.date)}</td>
+        <td>${fmtDate(esc(r.date))}</td>
         <td class="n">${r.sum ? N(r.sum) : '-'}</td>
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
@@ -264,6 +271,24 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
       </tr>`;
     }
     h += `</tbody></table>`;
+  }
+
+  // ===== COMPANY RATING CHART 🥧 =====
+  const comps = Object.entries(companyDealCount || {}).sort((a,b) => b[1] - a[1]).slice(0, 15);
+  const maxComp = Math.max(...comps.map(c => c[1]), 1);
+  if (comps.length > 0) {
+    h += `<h2><span class="section-label">🥧</span> Рейтинг компаний</h2>`;
+    h += `<div style="background:#242740;border-radius:10px;padding:16px;margin-bottom:16px;">`;
+    for (const [name, cnt] of comps) {
+      const pct = (cnt / stats.total * 100).toFixed(1);
+      const bw = Math.max(4, (cnt / maxComp) * 100);
+      h += `<div style="display:flex;align-items:center;margin-bottom:6px;gap:8px;">`;
+      h += `<div style="min-width:140px;font-size:12px;color:#ccc;text-align:right;">${esc(name)}</div>`;
+      h += `<div style="flex:1;height:20px;background:#1a1d2e;border-radius:10px;overflow:hidden;">`;
+      h += `<div style="height:100%;width:${bw}%;background:linear-gradient(90deg,#92D050,#4FC3F7);border-radius:10px;transition:width 0.3s;"></div></div>`;
+      h += `<div style="min-width:60px;font-size:12px;color:#999;">${cnt} (${pct}%)</div></div>`;
+    }
+    h += `</div>`;
   }
 
   // ===== DAILY RATING CHART 📊 =====
