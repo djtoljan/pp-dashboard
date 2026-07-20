@@ -1124,7 +1124,7 @@
       "date": "2026-07-20",
       "sum": 17947.14,
       "currency": "EUR",
-      "calc": null,
+      "calc": "Кросс-курс EUR/USD = 1.14303 (от Alex/VDX)",
       "company": "Q8",
       "clientName": "Дре Русланд",
       "costFormula": null,
@@ -1136,7 +1136,7 @@
       "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) → OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6% | Updated TR №30: курс 90.21, RUB 1,619,011.49, комиссия 1.6% (25,904.18). | TR №30 v3: курс 89.70, RUB 1,609,858.45, комиссия 1.6% (25,757.73)."
+      "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) -> OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6% | Updated TR №30: курс 90.21, RUB 1,619,011.49, комиссия 1.6% (25,904.18). | TR №30 v3: курс 89.70, RUB 1,609,858.45, комиссия 1.6% (25,757.73). | Кросс-курс EUR/USD: 1.1430 (17,947 EUR = 20,513.95 USD)"
     },
     {
       "row": 58,
@@ -1150,12 +1150,12 @@
       "calc": null,
       "color": null,
       "rubles_received": "2201445.44 / 43104.13",
-      "sent_rubles_vdx": null,
+      "sent_rubles_vdx": "2244550",
       "vdx_rate": null,
-      "exchange_to": null,
+      "exchange_to": "VDX",
       "received_usdt": null,
       "sent_usdt": 28037.28,
-      "notes": "Поручение №18 от 20.07.2026. Принципал: ООО «Логолок». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Гонконг). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы PI0082KATE... Курс 78.81. RUB 2,201,445.44. Комиссия 1.6%+100 USD. | ПП №195 от 20.07: 2,201,445.44₽ — тело, VO11100, исполнено. ПП №196: 43,104.13₽ — комиссия 1.6%+100 USD, VO21100."
+      "notes": "Поручение №18 от 20.07.2026. Принципал: ООО «Логолок». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Гонконг). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы PI0082KATE... Курс 78.81. RUB 2,201,445.44. Комиссия 1.6%+100 USD. | ПП №195 от 20.07: 2,201,445.44₽ — тело, VO11100, исполнено. ПП №196: 43,104.13₽ — комиссия 1.6%+100 USD, VO21100. | VDX уведомление: Блэкшарк ПОЧТО→VDX 2,244,549.57₽, комплектующие, заявка 616"
     },
     {
       "row": 59,
@@ -1194,25 +1194,6 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Поручение №1 от 20.07.2026. ООО «Термодизайн» -> Блэкшарк Трейд. Получатель: Rus-All sp. z o.o (Польша). PKO BP, BPKOPLPW. IBAN PL94102035700000270200795740. Предоплата за смесители для ванны, проформа Prof32/2026, контракт 22/2026."
-    },
-    {
-      "row": 61,
-      "date": "2026-07-20",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": null,
-      "clientName": null,
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null
     }
   ]
 }
