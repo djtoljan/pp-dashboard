@@ -955,8 +955,8 @@
       "exchange_to": "VDX",
       "received_usdt": 32137.38,
       "sent_usdt": 31927,
-      "notes": "Поручение №1 от 15.07.2026. Принципал: ООО Агротрэйд 3 (AGROTRADE 3). Получатель: VINALESA WINE GROUP S L (Испания). EUR 27,757.94 @ 89.3. Инвойс PI-150726 (28,465.64 EUR полный — частичный платёж). Агентский договор №26-03/26. Комиссия 1.6% = 39,660.54. Рубли ушли на VDX. Клиент: Агротрэйд 3. | OPTIMA: EUR-перевод инициирован 15.07. VINALESA WINE GROUP, BBVA ES1401827012800101511610. Payment from OPTIMA.",
-      "color": "FFFFFF00",
+      "notes": "Поручение №1 от 15.07.2026. Принципал: ООО Агротрэйд 3 (AGROTRADE 3). Получатель: VINALESA WINE GROUP S L (Испания). EUR 27,757.94 @ 89.3. Инвойс PI-150726 (28,465.64 EUR полный — частичный платёж). Агентский договор №26-03/26. Комиссия 1.6% = 39,660.54. Рубли ушли на VDX. Клиент: Агротрэйд 3. | OPTIMA: EUR-перевод инициирован 15.07. VINALESA WINE GROUP, BBVA ES1401827012800101511610. Payment from OPTIMA. | VDX 20.07: OPTIMA FOOD -> VINALESA WINE GROUP S.L., SEPA, 27,757.94 EUR, INV PI-150726. STATUS: COMPLETED",
+      "color": "FF92D050",
       "extra": "Агротрэйд 3",
       "client": "27 757,94 EUR → 31 716/(1-0,35%)+100 = 31 927 USDT"
     },
@@ -1251,6 +1251,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Proforma Order #3 - REVISED 17.07.2026. Grizzly Supplies (2012) Ltd. (Canada). Zapchasti Komatsu (hoist kits, suspension). 8,229.42 CAD. Plat.: BANK OF MONTREAL, BOFMCAM2, a/c 1079-664. Ot Alex/KL1M3NT (FINIVEST AI)"
+    },
+    {
+      "row": 64,
+      "date": "2026-07-20",
+      "sum": 1782270,
+      "currency": "RMB",
+      "calc": null,
+      "company": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "color": "FFFF0000",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Proforma INV 07182026. Three Tiger Group Limited (HK) -> Terminal Plus (buyer). Fleece blanket Christmas design 189,000pcs. 1,782,270 RMB. Ot Art (FINIVEST AI)"
     }
   ]
 }

@@ -110,25 +110,6 @@
       "sent_usdt": null,
       "notes": "Поручение №53 от 17.07.2026. Принципал: ООО «Балтик Лэнд». Получатель: NECO GLOBAL LIMITED (Гонконг). Zhejiang Chouzhou Commercial Bank, CZCBCN2X. Счёт NRA18809142010500035094. Контракт NGL0106 от 01.06.2026. Курс 79.30. RUB 602,680.00. Комиссия 2.5%. | ПП №1592 от 17.07 (исп. 20.07): 602,680.00₽ — тело пор.53, VO21100. ПП №1593: 15,453.19₽ — комиссия 2.5%. | VDX уведомление: Блэкшарк ПОЧТО→VDX 618,133.19₽, сырьё для удобрений, заявка 617 | PP No419 20.07: Blakshark->VDX 618,133.19 RUB, zayavka 617, ISPOLNENO",
       "color": "FFFF0000"
-    },
-    {
-      "row": 7,
-      "date": "2026-07-20",
-      "sum": 17700,
-      "currency": "USD",
-      "calc": null,
-      "company": "Q8",
-      "clientName": "BALTIC LAND LTD",
-      "costFormula": null,
-      "extra": "BALTIC LAND LTD",
-      "color": "FFFFFFFF",
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "vdx_rate": null,
-      "exchange_to": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "INV DCTX26060074 ot 17.06.2026. Xiamen Trans-China Multimodal Transport Co. Zh/d perevozka 2x40HQ Ganzhou->Shushary. 17,700 USD. China Construction Bank Xiamen (PCBCCNBJSMX). Ot Valery (FINIVEST AI)"
     }
   ]
 }
