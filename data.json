@@ -1175,6 +1175,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "ПП №26 от 20.07.2026. АО «ФИНИНВЕСТ» → ОсОО «Блэкшарк Трейд». 3,813,717.33₽. VO60081. Оплата по Агентскому Договору."
+    },
+    {
+      "row": 60,
+      "date": "2026-07-20",
+      "sum": 32996.3,
+      "currency": "EUR",
+      "company": null,
+      "clientName": "Термодизайн",
+      "extra": "Термодизайн",
+      "costFormula": null,
+      "calc": null,
+      "color": "FFFF0000",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Поручение №1 от 20.07.2026. ООО «Термодизайн» -> Блэкшарк Трейд. Получатель: Rus-All sp. z o.o (Польша). PKO BP, BPKOPLPW. IBAN PL94102035700000270200795740. Предоплата за смесители для ванны, проформа Prof32/2026, контракт 22/2026."
     }
   ]
 }
