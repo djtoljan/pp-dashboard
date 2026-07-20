@@ -87,7 +87,11 @@ function build() {
 
       const company = gv(r, 'company');
       const dt = gv(r, 'date');
-      const client = getClient(r);
+      let client = getClient(r);
+      // Для Константин (Просто группа) — всегда подписываем, если нет конкретного клиента
+      if (!client && f.label === 'Константин') {
+        client = 'Константин (Просто группа)';
+      }
       const sum = gv(r, 'sum');
       const cur = gv(r, 'currency');
       const cf = gv(r, 'costFormula');
