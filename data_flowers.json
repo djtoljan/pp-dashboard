@@ -1208,8 +1208,8 @@
       "exchange_to": null,
       "received_usdt": null,
       "senderflowers_id": null,
-      "notes": "Инвойс INV-6041 от 20.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Эквадор) → Q8 Group Limited. Авиафрахт, Shipment 369-1023 6041. 19 мест, 365 кг. PRODUBANCO, PRODECEQ.",
-      "color": "FFFFFFFF"
+      "notes": "Инвойс INV-6041 от 20.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Эквадор) → Q8 Group Limited. Авиафрахт, Shipment 369-1023 6041. 19 мест, 365 кг. PRODUBANCO, PRODECEQ. | BONBILL Q8 20.07 17:15: Q8->ALIANZA ,000, PRODUBANCO, inv INV-6041.",
+      "color": "FF92D050"
     }
   ]
 }
