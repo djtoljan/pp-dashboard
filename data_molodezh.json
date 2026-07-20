@@ -699,6 +699,25 @@
       "notes": "ПП №530 от 17.07.2026. ООО ВИЛОГ → ВидЛикс Сервисез - ФЗКО. Частичная оплата по инвойсу PRM-077-RCF260702-PM от 02.07.2026, договор NZDLWL120525-A-USD, курс 80.7334",
       "calc": null,
       "client": null
+    },
+    {
+      "row": 39,
+      "date": "2026-07-20",
+      "sum": 8229.42,
+      "currency": "CAD",
+      "calc": null,
+      "company": "Q8",
+      "clientName": "Vectra Parts (Molodezh)",
+      "costFormula": null,
+      "extra": "Vectra Parts (Molodezh)",
+      "color": "FFFFFFFF",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": 6241,
+      "sent_usdt": null,
+      "notes": "Proforma Order #3 - REVISED 17.07.2026. Grizzly Supplies (2012) Ltd. (Canada). Zapchasti Komatsu (hoist kits, suspension). 8,229.42 CAD. Plat.: BANK OF MONTREAL, BOFMCAM2, a/c 1079-664. Ot Alex/KL1M3NT (FINIVEST AI) | Fakt. klient: Vectra Parts (Molodezh). Polucheno 6,241 USDT (Bobr Alert 20.07)"
     }
   ]
 }
