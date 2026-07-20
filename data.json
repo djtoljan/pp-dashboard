@@ -1121,7 +1121,7 @@
     },
     {
       "row": 57,
-      "date": "2026-06-24",
+      "date": "2026-07-20",
       "sum": 17947.14,
       "currency": "EUR",
       "calc": null,
@@ -1129,7 +1129,7 @@
       "clientName": "Дре Русланд",
       "costFormula": null,
       "extra": "Дре Русланд",
-      "color": "FFFFFFFF",
+      "color": "FFFF0000",
       "rubles_received": null,
       "sent_rubles_vdx": null,
       "vdx_rate": null,
