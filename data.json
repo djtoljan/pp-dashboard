@@ -1118,6 +1118,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "ПП №25 от 17.07.2026. Блэкшарк ПОЧТО→Аль Сафи, 1,899,350.70₽, перевод собственных средств FININVEST-БШ-Цветы."
+    },
+    {
+      "row": 57,
+      "date": "2026-06-24",
+      "sum": 17947.14,
+      "currency": "EUR",
+      "calc": null,
+      "company": null,
+      "clientName": "Дре Русланд",
+      "costFormula": null,
+      "extra": "Дре Русланд",
+      "color": "FFFFFFFF",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) → OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6%"
     }
   ]
 }
