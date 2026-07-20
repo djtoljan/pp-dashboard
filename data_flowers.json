@@ -1214,8 +1214,8 @@
     {
       "row": 67,
       "date": "2026-07-20",
-      "sum": 7843720.16,
-      "currency": "RUB",
+      "sum": null,
+      "currency": null,
       "calc": null,
       "company": null,
       "clientName": "GlobalCvet (Цветы)",
@@ -1229,6 +1229,44 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "PP No739 7,843,720.16 RUB + PP No740 196,093.00 RUB (voznagrazhdenie). Po agent.dog. WD-26, por.91 ot 20.07.2026. Iz vyipiski POCHTOBANK."
+    },
+    {
+      "row": 68,
+      "date": "2026-07-20",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "ГлобалЦвет (Цветы)",
+      "costFormula": null,
+      "extra": "ГлобалЦвет (Цветы)",
+      "color": "FF4FC3F7",
+      "rubles_received": "159154.99 / 6366199.44",
+      "sent_rubles_vdx": 6525354.43,
+      "vdx_rate": null,
+      "exchange_to": "VDX",
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Блэкшарк ПОЧТО→ВИДИИКС (VDX), 6,525,354.43₽, заявка 619, ГлобалЦвет (Цветы) | O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Ароматный путь\\вход 20.07.26 | Приход на Блэкшарк: Ароматный Путь (WD-25 пор.88): вознаграждение 159,154.99 + оплата 6,366,199.44"
+    },
+    {
+      "row": 69,
+      "date": "2026-07-20",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "Церера (Цветы)",
+      "costFormula": null,
+      "extra": "Церера (Цветы)",
+      "color": "FF4FC3F7",
+      "rubles_received": "64373.54 / 2574941.80",
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Приход на Блэкшарк: Церера (WD-27 пор.37): вознаграждение 64,373.54 + оплата 2,574,941.80"
     }
   ]
 }
