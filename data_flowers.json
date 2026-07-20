@@ -1189,6 +1189,27 @@
       "sent_usdt": null,
       "color": "FFFFFFFF",
       "notes": "Инвойс BL-P01/200726 от 20.07.2026. Bloom Market EOOD (Болгария) → Q8 Group Limited. ROSA 35,000шт + логистика 7,153.15€. Болгарско-Американский Банк, BGUSBGSF."
+    },
+    {
+      "row": 66,
+      "date": "2026-07-20",
+      "sum": 20000,
+      "currency": "USD",
+      "calc": "ТЕЗ",
+      "company": "Q8",
+      "client": "20,000 + 0.3% + 30 = 20,090 USDT",
+      "clientName": "ALIANZA LOGISTICS (Цветы)",
+      "extra": "ALIANZA LOGISTICS (Цветы)",
+      "costFormula": "20,000 + 0.3% + 30 = 20,090 USDT",
+      "sent_usdt": 20090,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "senderflowers_id": null,
+      "notes": "Инвойс INV-6041 от 20.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Эквадор) → Q8 Group Limited. Авиафрахт, Shipment 369-1023 6041. 19 мест, 365 кг. PRODUBANCO, PRODECEQ.",
+      "color": "FFFFFFFF"
     }
   ]
 }
