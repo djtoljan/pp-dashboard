@@ -1170,6 +1170,25 @@
       "sent_usdt": 119080.91,
       "color": "FF92D050",
       "notes": "Инвойс INV-1040 от 19.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Эквадор) → Q8 Group Limited. Авиафрахт цветов, 37 мест, 909 кг. PRODUBANCO PRODECEQ, счёт 02005144694."
+    },
+    {
+      "row": 65,
+      "date": "2026-07-20",
+      "sum": 22903.15,
+      "currency": "EUR",
+      "calc": null,
+      "company": "Q8",
+      "client": null,
+      "clientName": "Bloom Market (Цветы)",
+      "extra": "Bloom Market (Цветы)",
+      "costFormula": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "color": "FFFFFFFF",
+      "notes": "Инвойс BL-P01/200726 от 20.07.2026. Bloom Market EOOD (Болгария) → Q8 Group Limited. ROSA 35,000шт + логистика 7,153.15€. Болгарско-Американский Банк, BGUSBGSF."
     }
   ]
 }
