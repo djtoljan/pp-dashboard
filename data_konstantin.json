@@ -422,9 +422,9 @@
       "costFormula": "37 200 EUR x 1.14257 = 42 503,54 USD / 0,9965 + 100 = 42 752,83 USDT",
       "extra": null,
       "color": "FFFFFF00",
-      "received_usdt": null,
+      "received_usdt": "42816.06",
       "sent_usdt": 42752.83,
-      "notes": "Payment from OMNICODE -> TREBUTAR es TARSA Kft. (Hungary), FINOM PAYMENTS FNOMNL22. INV PF2026-0708/01. 37,200.00 EUR. Klient: Konstantin (Prosto gruppa) | RASCHEt: 37,200 EUR -> 42,503.54 USD @1.14257 -> 42,752.83 USDT | VDX 20.07 13:45 UTC: OMNICODE -> TREBUTAR es TARSA Kft., SEPA, 37,200 EUR, INV PF2026-0708/01. STATUS: INITIATED"
+      "notes": "Payment from OMNICODE -> TREBUTAR es TARSA Kft. (Hungary), FINOM PAYMENTS FNOMNL22. INV PF2026-0708/01. 37,200.00 EUR. Klient: Konstantin (Prosto gruppa) | RASCHEt: 37,200 EUR -> 42,503.54 USD @1.14257 -> 42,752.83 USDT | VDX 20.07 13:45 UTC: OMNICODE -> TREBUTAR es TARSA Kft., SEPA, 37,200 EUR, INV PF2026-0708/01. STATUS: INITIATED | USDT получено 20.07: 42 816,06 USDT от Константин"
     }
   ]
 }
