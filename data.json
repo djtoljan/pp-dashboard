@@ -1156,6 +1156,25 @@
       "received_usdt": null,
       "sent_usdt": 28037.28,
       "notes": "Поручение №18 от 20.07.2026. Принципал: ООО «Логолок». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Гонконг). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы PI0082KATE... Курс 78.81. RUB 2,201,445.44. Комиссия 1.6%+100 USD. | ПП №195 от 20.07: 2,201,445.44₽ — тело, VO11100, исполнено. ПП №196: 43,104.13₽ — комиссия 1.6%+100 USD, VO21100."
+    },
+    {
+      "row": 59,
+      "date": "2026-07-20",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "clientName": "ФИНИНВЕСТ",
+      "extra": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "calc": null,
+      "color": "FF4FC3F7",
+      "rubles_received": "3813717.33",
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "ПП №26 от 20.07.2026. АО «ФИНИНВЕСТ» → ОсОО «Блэкшарк Трейд». 3,813,717.33₽. VO60081. Оплата по Агентскому Договору."
     }
   ]
 }
