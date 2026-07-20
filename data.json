@@ -1130,13 +1130,13 @@
       "costFormula": "(17 947,14 EUR) 20 513,95 / 0,9965 + 100 = 20 686 USDT | 20 686 x 78,3987 / 0,995 = 1 629 905,11 ₽",
       "extra": "Дре Русланд",
       "color": "FFFFFF00",
-      "rubles_received": "1609858.45 / 25757.73",
-      "sent_rubles_vdx": null,
+      "rubles_received": "1609858.45 / 15928.15",
+      "sent_rubles_vdx": "1625786.60",
       "vdx_rate": null,
-      "exchange_to": null,
+      "exchange_to": "VDX",
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) -> OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6% | Updated TR №30: курс 90.21, RUB 1,619,011.49, комиссия 1.6% (25,904.18). | TR №30 v3: курс 89.70, RUB 1,609,858.45, комиссия 1.6% (25,757.73). | Выписка ЭТБ 20.07: ПП№2523 1,609,858.45₽ + ПП№2524 25,757.73₽ (агентское 1.6%) = rubles_received 1,635,616.18₽ | Кросс-курс EUR/USD: 1.1430 (17,947 EUR = 20,513.95 USD) | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading → MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED 🟡 | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading -> MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED | RASCHEt: EUR->USD=1.1430, USDT=20 686, RUB=1 629 905,11"
+      "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) -> OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6% | Updated TR №30: курс 90.21, RUB 1,619,011.49, комиссия 1.6% (25,904.18). | TR №30 v3: курс 89.70, RUB 1,609,858.45, комиссия 1.6% (25,757.73). | Выписка ЭТБ 20.07: ПП№2523 1,609,858.45₽ + ПП№2524 25,757.73₽ (агентское 1.6%) = rubles_received 1,635,616.18₽ | Кросс-курс EUR/USD: 1.1430 (17,947 EUR = 20,513.95 USD) | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading → MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED 🟡 | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading -> MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED | RASCHEt: EUR->USD=1.1430, USDT=20 686, RUB=1 629 905,11 | VDX uvadomlenie 20.07: Blakshark->VDX 1,625,786.60 RUB, mebel, zayavka 618 (korrektsiya PP167)"
     },
     {
       "row": 58,
