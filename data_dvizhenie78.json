@@ -92,6 +92,24 @@
       "costFormula": "5022/(1-0.35%)+100 = 5 140 USDT",
       "client": "4,380.74 EUR → OMNEX, ТЕЗ",
       "calc": "ТЕЗ"
+    },
+    {
+      "row": 6,
+      "date": "2026-07-17",
+      "sum": 7794.87,
+      "currency": "USD",
+      "calc": null,
+      "company": null,
+      "client": null,
+      "extra": "Балтик Лэнд (Движение 78)",
+      "rubles_received": "602680.00 / 15453.19",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Поручение №53 от 17.07.2026. Принципал: ООО «Балтик Лэнд». Получатель: NECO GLOBAL LIMITED (Гонконг). Zhejiang Chouzhou Commercial Bank, CZCBCN2X. Счёт NRA18809142010500035094. Контракт NGL0106 от 01.06.2026. Курс 79.30. RUB 602,680.00. Комиссия 2.5%. | ПП №1592 от 17.07 (исп. 20.07): 602,680.00₽ — тело пор.53, VO21100. ПП №1593: 15,453.19₽ — комиссия 2.5%.",
+      "color": "FFFF0000"
     }
   ]
 }
