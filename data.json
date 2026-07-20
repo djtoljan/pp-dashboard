@@ -1232,6 +1232,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Proforma INV PI-PRM 20260720 ot 20.07.2026. Beijing Yatai Huaheng Technology Co. Zhejiang Chouzhou Commercial Bank CZCBCN2X. Setevoe oborudovanie (S5731, SFP, PAC1000, etc) 8,842 USD. Ot Alex/KL1M3NT (FINIVEST AI)"
+    },
+    {
+      "row": 63,
+      "date": "2026-07-20",
+      "sum": 8229.42,
+      "currency": "CAD",
+      "calc": null,
+      "company": "Q8",
+      "clientName": "Q8 GROUP LIMITED",
+      "costFormula": null,
+      "extra": "Q8 GROUP LIMITED",
+      "color": "FFFFFFFF",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Proforma Order #3 - REVISED 17.07.2026. Grizzly Supplies (2012) Ltd. (Canada). Zapchasti Komatsu (hoist kits, suspension). 8,229.42 CAD. Plat.: BANK OF MONTREAL, BOFMCAM2, a/c 1079-664. Ot Alex/KL1M3NT (FINIVEST AI)"
     }
   ]
 }
