@@ -536,7 +536,7 @@
       "received_usdt": null,
       "sent_usdt": 27509.2,
       "notes": "INV 2600103: Prodema→KRAFT International. Consulting 22.75h×. SCB HK | MT103 14.07: KRAFT WORLDWIDE→PRODEMA LTD 27,300 USD. SCB TH→SCB HK. /OURNOW/",
-      "color": "FFFFFF00",
+      "color": "FF92D050",
       "extra": "КГ бр (Аренда)",
       "client": "27,300 × 1.004 + 100 = 27,509.2 USDT (KRAFT)"
     },
