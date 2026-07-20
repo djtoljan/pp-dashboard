@@ -722,12 +722,12 @@
     {
       "row": 40,
       "date": "2026-07-20",
-      "sum": null,
-      "currency": "RUB",
-      "calc": null,
-      "company": null,
+      "sum": 16848,
+      "currency": "USD",
+      "calc": "TEZ",
+      "company": "Q8",
       "clientName": "Вилог",
-      "costFormula": null,
+      "costFormula": "16,848 + 0.3% + 30 = 16928.54 USDT",
       "extra": "Вилог",
       "color": "FF4FC3F7",
       "rubles_received": null,
@@ -735,8 +735,8 @@
       "vdx_rate": null,
       "exchange_to": "VDX",
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "ПП №533 от 20.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Частичная оплата по инвойсу DVS-014-260630-0391640 от 17.07.2026, договор NZDLWL120525-A-USD (HS code 8206000000), курс 80,1160"
+      "sent_usdt": 16928.544,
+      "notes": "ПП №533 от 20.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Частичная оплата по инвойсу DVS-014-260630-0391640 от 17.07.2026, договор NZDLWL120525-A-USD (HS code 8206000000), курс 80,1160 | Proforma 260630-0391640 от 30.06.2026. Shenzhen MRCSS Electronic Co., Ltd. → Q8 GROUP LIMITED. DELTA DC/DC Converter, 162 шт x 104 USD = 16,848 USD. CITIBANK HK, CITIHKHX, a/c 3974000037801 | PO получен: Shenzhen MRCSS, CITIHKHX, a/c 3974000037801, 16,848 USD"
     },
     {
       "row": 41,
