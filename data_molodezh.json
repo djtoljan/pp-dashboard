@@ -646,7 +646,7 @@
       "sum": 11560.67,
       "currency": "USD",
       "company": "LEO",
-      "color": "FFFFFF00",
+      "color": "FF92D050",
       "clientName": "Фри Лайнс Компани",
       "costFormula": "ТЕЗ",
       "calc": "ТЕЗ",
@@ -657,7 +657,7 @@
       "sent_usdt": "11718",
       "sent_flowers_vdx": null,
       "vdx_rate": "77.45 / 77.45",
-      "notes": "Epsilon Freight Service L.L.C-FZ (Dubai) → Leo Spot Capital PT (Bali). Transport service. INV EPS-9683 от 05.01.2026. Mashreq NeoBiz (BOMLAEADXXX), USD акк 019102054570. Payment Order 11,560.67 USD. Директор: Lexy Christovery. | VDX: Payment from LEO 15.07, 11,560.67 USD to Epsilon Freight, BOMLAEADXXX, INITIATED | LEO: PENDING APPROVAL 15.07, REF 0805-1966-0173-6435, Mashreq BOMLAEADXXX, OUR.",
+      "notes": "Epsilon Freight Service L.L.C-FZ (Dubai) → Leo Spot Capital PT (Bali). Transport service. INV EPS-9683 от 05.01.2026. Mashreq NeoBiz (BOMLAEADXXX), USD акк 019102054570. Payment Order 11,560.67 USD. Директор: Lexy Christovery. | VDX: Payment from LEO 15.07, 11,560.67 USD to Epsilon Freight, BOMLAEADXXX, INITIATED | LEO: PENDING APPROVAL 15.07, REF 0805-1966-0173-6435, Mashreq BOMLAEADXXX, OUR. | VDX 20.07: EXECUTED, JPM ref 2028526198JS.",
       "exchange_to": "VDX",
       "received_usdt": 11945.79
     },
