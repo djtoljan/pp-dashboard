@@ -1124,10 +1124,10 @@
       "date": "2026-07-20",
       "sum": 17947.14,
       "currency": "EUR",
-      "calc": "Кросс-курс EUR/USD = 1.14303 (от Alex/VDX)",
-      "company": "Q8",
+      "calc": "РУБ",
+      "company": "LUXORA",
       "clientName": "Дре Русланд",
-      "costFormula": null,
+      "costFormula": "(17 947,14 EUR) 20 513,95 / 0,9965 + 100 = 20 686 USDT | 20 686 x 78,3987 / 0,995 = 1 629 905,11 ₽",
       "extra": "Дре Русланд",
       "color": "FFFFFF00",
       "rubles_received": "1609858.45 / 25757.73",
@@ -1136,7 +1136,7 @@
       "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) -> OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6% | Updated TR №30: курс 90.21, RUB 1,619,011.49, комиссия 1.6% (25,904.18). | TR №30 v3: курс 89.70, RUB 1,609,858.45, комиссия 1.6% (25,757.73). | Выписка ЭТБ 20.07: ПП№2523 1,609,858.45₽ + ПП№2524 25,757.73₽ (агентское 1.6%) = rubles_received 1,635,616.18₽ | Кросс-курс EUR/USD: 1.1430 (17,947 EUR = 20,513.95 USD) | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading → MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED 🟡 | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading -> MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED"
+      "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) -> OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6% | Updated TR №30: курс 90.21, RUB 1,619,011.49, комиссия 1.6% (25,904.18). | TR №30 v3: курс 89.70, RUB 1,609,858.45, комиссия 1.6% (25,757.73). | Выписка ЭТБ 20.07: ПП№2523 1,609,858.45₽ + ПП№2524 25,757.73₽ (агентское 1.6%) = rubles_received 1,635,616.18₽ | Кросс-курс EUR/USD: 1.1430 (17,947 EUR = 20,513.95 USD) | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading → MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED 🟡 | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading -> MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED | RASCHEt: EUR->USD=1.1430, USDT=20 686, RUB=1 629 905,11"
     },
     {
       "row": 58,
@@ -1150,12 +1150,12 @@
       "calc": null,
       "color": null,
       "rubles_received": "2201445.44 / 43104.13",
-      "sent_rubles_vdx": "2244550",
+      "sent_rubles_vdx": "2244549.57",
       "vdx_rate": null,
       "exchange_to": "VDX",
       "received_usdt": null,
       "sent_usdt": 28037.28,
-      "notes": "Поручение №18 от 20.07.2026. Принципал: ООО «Логолок». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Гонконг). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы PI0082KATE... Курс 78.81. RUB 2,201,445.44. Комиссия 1.6%+100 USD. | ПП №195 от 20.07: 2,201,445.44₽ — тело, VO11100, исполнено. ПП №196: 43,104.13₽ — комиссия 1.6%+100 USD, VO21100. | VDX уведомление: Блэкшарк ПОЧТО→VDX 2,244,549.57₽, комплектующие, заявка 616"
+      "notes": "Поручение №18 от 20.07.2026. Принципал: ООО «Логолок». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Гонконг). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы PI0082KATE... Курс 78.81. RUB 2,201,445.44. Комиссия 1.6%+100 USD. | ПП №195 от 20.07: 2,201,445.44₽ — тело, VO11100, исполнено. ПП №196: 43,104.13₽ — комиссия 1.6%+100 USD, VO21100. | VDX уведомление: Блэкшарк ПОЧТО→VDX 2,244,549.57₽, комплектующие, заявка 616 | PP No417 20.07: Blakshark->VDX 2,244,549.57 RUB, zayavka 616, komplektuyushie, ISPOLNENO"
     },
     {
       "row": 59,
@@ -1194,6 +1194,44 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Поручение №1 от 20.07.2026. ООО «Термодизайн» -> Блэкшарк Трейд. Получатель: Rus-All sp. z o.o (Польша). PKO BP, BPKOPLPW. IBAN PL94102035700000270200795740. Предоплата за смесители для ванны, проформа Prof32/2026, контракт 22/2026."
+    },
+    {
+      "row": 61,
+      "date": "2026-07-20",
+      "sum": 16848,
+      "currency": "USD",
+      "calc": null,
+      "company": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "color": "FFFF0000",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Proforma INV 260630-0391640 ot 30.06.2026. Shenzhen MRCSS Electronic Co. Citibank HK. DC/DC Converters 162sht x 104 USD = 16,848 USD. Ot Art (FINIVEST AI)"
+    },
+    {
+      "row": 62,
+      "date": "2026-07-20",
+      "sum": 8842,
+      "currency": "USD",
+      "calc": null,
+      "company": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "color": "FFFF0000",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Proforma INV PI-PRM 20260720 ot 20.07.2026. Beijing Yatai Huaheng Technology Co. Zhejiang Chouzhou Commercial Bank CZCBCN2X. Setevoe oborudovanie (S5731, SFP, PAC1000, etc) 8,842 USD. Ot Alex/KL1M3NT (FINIVEST AI)"
     }
   ]
 }
