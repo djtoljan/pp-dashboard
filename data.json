@@ -1149,13 +1149,13 @@
       "costFormula": "27,933.58 + 0.3% + 30 = 28,037.28 USDT",
       "calc": null,
       "color": null,
-      "rubles_received": null,
+      "rubles_received": "2201445.44 / 43104.13",
       "sent_rubles_vdx": null,
       "vdx_rate": null,
       "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": 28037.28,
-      "notes": "Поручение №18 от 20.07.2026. Принципал: ООО «Логолок». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Гонконг). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы PI0082KATE... Курс 78.81. RUB 2,201,445.44. Комиссия 1.6%+100 USD."
+      "notes": "Поручение №18 от 20.07.2026. Принципал: ООО «Логолок». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Гонконг). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы PI0082KATE... Курс 78.81. RUB 2,201,445.44. Комиссия 1.6%+100 USD. | ПП №195 от 20.07: 2,201,445.44₽ — тело, VO11100, исполнено. ПП №196: 43,104.13₽ — комиссия 1.6%+100 USD, VO21100."
     }
   ]
 }
