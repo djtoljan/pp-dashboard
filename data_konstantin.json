@@ -416,15 +416,15 @@
       "date": "2026-07-20",
       "sum": 37200,
       "currency": "EUR",
-      "calc": "Kross-kurs EUR/USD = 1.14257",
+      "calc": "TEZ",
       "company": "OMNICODE",
       "clientName": null,
-      "costFormula": null,
+      "costFormula": "37 200 EUR x 1.14257 = 42 503,54 USD / 0,9965 + 100 = 42 752,83 USDT",
       "extra": null,
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "Payment from OMNICODE -> TREBUTAR es TARSA Kft. (Hungary), FINOM PAYMENTS FNOMNL22. INV PF2026-0708/01. 37,200.00 EUR. Klient: Konstantin (Prosto gruppa)"
+      "sent_usdt": 42752.83,
+      "notes": "Payment from OMNICODE -> TREBUTAR es TARSA Kft. (Hungary), FINOM PAYMENTS FNOMNL22. INV PF2026-0708/01. 37,200.00 EUR. Klient: Konstantin (Prosto gruppa) | RASCHEt: 37,200 EUR -> 42,503.54 USD @1.14257 -> 42,752.83 USDT | VDX 20.07 13:45 UTC: OMNICODE -> TREBUTAR es TARSA Kft., SEPA, 37,200 EUR, INV PF2026-0708/01. STATUS: INITIATED"
     }
   ]
 }
