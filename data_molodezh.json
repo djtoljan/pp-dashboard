@@ -705,10 +705,10 @@
       "date": "2026-07-20",
       "sum": 8229.42,
       "currency": "CAD",
-      "calc": null,
+      "calc": "Кросс-курс CAD/USD = 1.401745945493 (BONBILL 21.07)",
       "company": "Q8",
       "clientName": "Vectra Parts (Molodezh)",
-      "costFormula": null,
+      "costFormula": "8,229.42 CAD × 1.401745945493 = $11,535.56 + 0.3% + 30 = 11,600.16 USDT",
       "extra": "Vectra Parts (Molodezh)",
       "color": "FFFFFFFF",
       "rubles_received": null,
@@ -716,7 +716,7 @@
       "vdx_rate": null,
       "exchange_to": null,
       "received_usdt": 6241,
-      "sent_usdt": null,
+      "sent_usdt": 11600.16,
       "notes": "Proforma Order #3 - REVISED 17.07.2026. Grizzly Supplies (2012) Ltd. (Canada). Zapchasti Komatsu (hoist kits, suspension). 8,229.42 CAD. Plat.: BANK OF MONTREAL, BOFMCAM2, a/c 1079-664. Ot Alex/KL1M3NT (FINIVEST AI) | Fakt. klient: Vectra Parts (Molodezh). Polucheno 6,241 USDT (Bobr Alert 20.07)"
     },
     {
