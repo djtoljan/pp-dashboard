@@ -756,6 +756,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "ПП №532 от 20.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Оплата по инв. ISP-002-260515, ISP-003-260709, ISP-004-260717 за экспедирование, договор NZDLWL120525-A-USD, курс 79,9667"
+    },
+    {
+      "row": 42,
+      "date": "2026-07-21",
+      "sum": 8842,
+      "currency": "USD",
+      "calc": "PI-PRM 20260720, Beijing Yatai Huaheng, сет.оборудование (Huawei)",
+      "company": "Q8",
+      "clientName": "Вилог",
+      "costFormula": null,
+      "extra": "Вилог",
+      "color": "FFFFFFFF",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Proforma PI-PRM 20260720 от 20.07.2026. Beijing Yatai Huaheng Technology Co., Ltd (Marshall Islands). S5731-S48P4X, SFP-GE-LX-SM1310, PAC1000S56-CB, JL728B, JL679A + shipping. Q8 GROUP LIMITED → Вилог. Банк: ZHEJIANG CHOUZHOU COMMERCIAL BANK (CZCBCN2X), сч.NRA15603142010500007408"
     }
   ]
 }
