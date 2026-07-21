@@ -1256,7 +1256,7 @@
       "sum": 30000,
       "currency": "EUR",
       "calc": null,
-      "company": null,
+      "company": "INFINITE",
       "client": null,
       "extra": "UNIFLOR (Цветы)",
       "rubles_received": null,
@@ -1266,7 +1266,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "🔁 ВОЗВРАТ от Q8, переоплачено с INFINITY. UNIFLOR L.L.C.-FZ (Dubai), 30,000 EUR, INV 5/2026 от 14.07.2026. Цветы Эфиопия, 49180 стеблей. Emirates Islamic, MEBLAEADXXX.",
-      "color": "FF92D050",
+      "color": "FFFF0000",
       "costFormula": null
     },
     {
