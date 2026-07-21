@@ -1132,9 +1132,9 @@
       "color": "FF92D050",
       "rubles_received": "1609858.45 / 15928.15",
       "sent_rubles_vdx": "1625786.60",
-      "vdx_rate": null,
+      "vdx_rate": 76.635,
       "exchange_to": "VDX",
-      "received_usdt": null,
+      "received_usdt": 20686,
       "sent_usdt": null,
       "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) -> OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6% | Updated TR №30: курс 90.21, RUB 1,619,011.49, комиссия 1.6% (25,904.18). | TR №30 v3: курс 89.70, RUB 1,609,858.45, комиссия 1.6% (25,757.73). | Выписка ЭТБ 20.07: ПП№2523 1,609,858.45₽ + ПП№2524 25,757.73₽ (агентское 1.6%) = rubles_received 1,635,616.18₽ | Кросс-курс EUR/USD: 1.1430 (17,947 EUR = 20,513.95 USD) | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading → MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED 🟡 | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading -> MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED | RASCHEt: EUR->USD=1.1430, USDT=20 686, RUB=1 629 905,11 | VDX uvadomlenie 20.07: Blakshark->VDX 1,625,786.60 RUB, mebel, zayavka 618 (korrektsiya PP167) | PP No168 20.07: Blakshark ETB->VDX 1,625,786.60 RUB, zayavka 618, mebel. ISPOLNENO"
     },
@@ -1151,9 +1151,9 @@
       "color": null,
       "rubles_received": "2201445.44 / 43104.13",
       "sent_rubles_vdx": "2244549.57",
-      "vdx_rate": null,
+      "vdx_rate": 76.635,
       "exchange_to": "VDX",
-      "received_usdt": null,
+      "received_usdt": 29259.54,
       "sent_usdt": 28037.28,
       "notes": "Поручение №18 от 20.07.2026. Принципал: ООО «Логолок». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Гонконг). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы: PI0082KATE2641 (.00), 2645 (,000.00), 2648 (,516.72), 2649, 2650 (,115.68), 2652 (.33), 2652-ZDECL (,963.99), 2654 (,581.66), 2655-XIAMEN (.51), 2656 (,855.76), 2657 (.00), 2658 (,148.00), 2661 (.00), 2662, 2663-Shineland (,253.73), 2664. Итого: ,933.58. Курс 78.81. RUB 2,201,445.44. Комиссия 1.6%+100 USD. | ПП №195 от 20.07: 2,201,445.44₽ — тело, VO11100, исполнено. ПП №196: 43,104.13₽ — комиссия 1.6%+100 USD, VO21100. | VDX уведомление: Блэкшарк ПОЧТО→VDX 2,244,549.57₽, комплектующие, заявка 616 | PP No417 20.07: Blakshark->VDX 2,244,549.57 RUB, zayavka 616, komplektuyushie, ISPOLNENO. | 21.07: добавлены PIs: 2641, 2645, 2648, 2650, 2652, 2652-ZDECL, 2654, 2655-XIAMEN, 2656, 2657, 2658, 2661, 2663-Shineland."
     },
@@ -1191,7 +1191,7 @@
       "sent_rubles_vdx": 2990571.06,
       "vdx_rate": 1.1423,
       "exchange_to": "VDX",
-      "received_usdt": null,
+      "received_usdt": 38984.54,
       "sent_usdt": 37925.389,
       "notes": "Поручение №1 от 20.07.2026. ООО «Термодизайн» -> Блэкшарк Трейд. Получатель: Rus-All sp. z o.o (Польша). PKO BP, BPKOPLPW. IBAN PL94102035700000270200795740. Предоплата за смесители для ванны, проформа Prof32/2026, контракт 22/2026. | VDX 21.07: 2,990,571.06₽, заявка 622, смесители для ванны. | INV PROF32/2026 от 16.07.26. Rus-All sp. z o.o. (Польша) → Термодизайн. Kludi bathroom fixtures 32,996.30 EUR. OMNEX оплатил 21.07.2026. PKO BP (BPKOPLPW), сч.PL17102035700000280200878751. | OMNEX MT35 21.07: INITIATED. SEPA to Rus-All sp. z o.o. 32,996.30 EUR. INV PROF32/2026. TX: MT35CFTE28004000000000005036930."
     },
