@@ -703,25 +703,6 @@
     {
       "row": 39,
       "date": "2026-07-20",
-      "sum": 8229.42,
-      "currency": "CAD",
-      "calc": "ТЕЗ",
-      "company": "Q8",
-      "clientName": "Vectra Parts (Molodezh)",
-      "costFormula": "8,229.42 CAD × 1.401745945493 = $11,535.56 + 0.3% + 30 = 11,600.16 USDT",
-      "extra": "Vectra Parts (Molodezh)",
-      "color": "FFFFFFFF",
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "vdx_rate": null,
-      "exchange_to": null,
-      "received_usdt": 6241,
-      "sent_usdt": 11600.16,
-      "notes": "Proforma Order #3 - REVISED 17.07.2026. Grizzly Supplies (2012) Ltd. (Canada). Zapchasti Komatsu (hoist kits, suspension). 8,229.42 CAD. Plat.: BANK OF MONTREAL, BOFMCAM2, a/c 1079-664. Ot Alex/KL1M3NT (FINIVEST AI) | Fakt. klient: Vectra Parts (Molodezh). Polucheno 6,241 USDT (Bobr Alert 20.07)"
-    },
-    {
-      "row": 40,
-      "date": "2026-07-20",
       "sum": 16848,
       "currency": "USD",
       "calc": "ТЕЗ",
@@ -739,7 +720,7 @@
       "notes": "ПП №533 от 20.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Частичная оплата по инвойсу DVS-014-260630-0391640 от 17.07.2026, договор NZDLWL120525-A-USD (HS code 8206000000), курс 80,1160 | Proforma 260630-0391640 от 30.06.2026. Shenzhen MRCSS Electronic Co., Ltd. → Q8 GROUP LIMITED. DELTA DC/DC Converter, 162 шт x 104 USD = 16,848 USD. CITIBANK HK, CITIHKHX, a/c 3974000037801 | PO получен: Shenzhen MRCSS, CITIHKHX, a/c 3974000037801, 16,848 USD"
     },
     {
-      "row": 41,
+      "row": 40,
       "date": "2026-07-20",
       "sum": null,
       "currency": null,
@@ -758,7 +739,7 @@
       "notes": "ПП №532 от 20.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Оплата по инв. ISP-002-260515, ISP-003-260709, ISP-004-260717 за экспедирование, договор NZDLWL120525-A-USD, курс 79,9667"
     },
     {
-      "row": 42,
+      "row": 41,
       "date": "2026-07-21",
       "sum": 8842,
       "currency": "USD",
@@ -777,7 +758,7 @@
       "notes": "Proforma PI-PRM 20260720 от 20.07.2026. Beijing Yatai Huaheng Technology Co., Ltd (Marshall Islands). S5731-S48P4X, SFP-GE-LX-SM1310, PAC1000S56-CB, JL728B, JL679A + shipping. Q8 GROUP LIMITED → Вилог. Банк: ZHEJIANG CHOUZHOU COMMERCIAL BANK (CZCBCN2X), сч.NRA15603142010500007408 | BONBILL O207949243874502246472 21.07.2026 17:03. Q8→BEIJING YATAI HUAHENG, ,842. EXECUTED."
     },
     {
-      "row": 43,
+      "row": 42,
       "date": "2026-07-21",
       "sum": 10119,
       "currency": "USD",
@@ -805,14 +786,14 @@
       "costFormula": null,
       "extra": "Фри Лайнс Компани",
       "color": "FF4FC3F7",
-      "rubles_received": "3223979.63 / 73643.83",
-      "sent_rubles_vdx": "3223979.63 / 73643.83",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
       "vdx_rate": null,
-      "exchange_to": "VDX",
+      "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "VDX уведомление: ПП №3744 3,223,979.63₽ + ПП №3745 73,643.83₽ (вознаграждение). Всего 3,297,623.46₽ на VDX. Фри Лайнс Компани.",
-      "row": 44
+      "notes": null,
+      "row": 43
     },
     {
       "date": "2026-07-21",
@@ -831,10 +812,10 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "ПП №535 от 21.07.2026. ООО ВИЛОГ → VDX. Частичная оплата за товар по инвойсу DVS-015-ED260721KA015 от 21.07.2026, дог. NZDLWL120525-A-USD. Курс 82.2317. Сумма 68,786.82₽. ИСПОЛНЕНО.",
-      "row": 45
+      "row": 44
     },
     {
-      "row": 46,
+      "row": 45,
       "date": "2026-07-21",
       "sum": null,
       "currency": null,
