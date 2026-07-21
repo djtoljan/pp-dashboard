@@ -1194,6 +1194,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Поручение №1 от 20.07.2026. ООО «Термодизайн» -> Блэкшарк Трейд. Получатель: Rus-All sp. z o.o (Польша). PKO BP, BPKOPLPW. IBAN PL94102035700000270200795740. Предоплата за смесители для ванны, проформа Prof32/2026, контракт 22/2026. | VDX 21.07: 2,990,571.06₽, заявка 622, смесители для ванны. | INV PROF32/2026 от 16.07.26. Rus-All sp. z o.o. (Польша) → Термодизайн. Kludi bathroom fixtures 32,996.30 EUR. OMNEX оплатил 21.07.2026. PKO BP (BPKOPLPW), сч.PL17102035700000280200878751."
+    },
+    {
+      "row": 61,
+      "date": "2026-07-21",
+      "sum": 4000,
+      "currency": "EUR",
+      "calc": null,
+      "company": null,
+      "clientName": "Евроимпорт Запад",
+      "costFormula": null,
+      "extra": "Евроимпорт Запад",
+      "color": "FFFF0000",
+      "rubles_received": "359680.00",
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Поручение №1 от 20.07.2026. Принципал: ООО Евроимпорт Запад (Мальцев Е.О.). Получатель: VIKKO-GRUPP OÜ (Эстония, Coop Pank EKRDEE22, EE164204278627413808). Сумма: 4,000 EUR. Курс 89.92 RUB/EUR = 359,680 RUB. Комиссия агента 1.85%+100USD = 14,518.08 RUB. Транспортные услуги FCA Польща→Rotterdam NL."
     }
   ]
 }
