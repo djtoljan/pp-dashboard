@@ -806,7 +806,7 @@
       "extra": "Фри Лайнс Компани",
       "color": "FF4FC3F7",
       "rubles_received": "3223979.63 / 73643.83",
-      "sent_rubles_vdx": 3297623.46,
+      "sent_rubles_vdx": "3223979.63 / 73643.83",
       "vdx_rate": null,
       "exchange_to": "VDX",
       "received_usdt": null,
