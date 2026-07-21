@@ -1267,6 +1267,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Приход на Блэкшарк: Церера (WD-27 пор.37): вознаграждение 64,373.54 + оплата 2,574,941.80 | Блэкшарк ПОЧТО→ВИДИИКС (VDX), 2,639,315.34₽, заявка 620, Церера (Цветы)"
+    },
+    {
+      "row": 70,
+      "date": "2026-07-21",
+      "sum": 135814.98,
+      "currency": "USD",
+      "calc": "Заявка 135,814.98, Gulf Flowers FZCO, cut flowers, контракт GF-Q8G/2026/05/21",
+      "company": "Q8",
+      "clientName": "Gulf Flowers (Цветы)",
+      "costFormula": "135,814.98 + 0.3% + 30 = 136,252.42 USDT",
+      "extra": "Gulf Flowers (Цветы)",
+      "color": "FFFFFFFF",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": 136252.42,
+      "notes": "Заявка от 21.07.2026. Gulf Flowers FZCO (Dubai). Контракт GF-Q8G/2026/05/21 от 21.05.2026. Cut flowers. Банк: Emirates NBD (EBILAEAD), сч.AE300260000515395226402. Директор: Tsepov Alexander. Рег.№1713, VAT 1000472048600003."
     }
   ]
 }

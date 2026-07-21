@@ -765,6 +765,25 @@
       "calc": "PI-PRM 20260720, Beijing Yatai Huaheng, сет.оборудование (Huawei)",
       "company": "Q8",
       "clientName": "Вилог",
+      "costFormula": "8,842.00 + 0.3% + 30 = 8,898.53 USDT",
+      "extra": "Вилог",
+      "color": "FF92D050",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": 8898.53,
+      "notes": "Proforma PI-PRM 20260720 от 20.07.2026. Beijing Yatai Huaheng Technology Co., Ltd (Marshall Islands). S5731-S48P4X, SFP-GE-LX-SM1310, PAC1000S56-CB, JL728B, JL679A + shipping. Q8 GROUP LIMITED → Вилог. Банк: ZHEJIANG CHOUZHOU COMMERCIAL BANK (CZCBCN2X), сч.NRA15603142010500007408 | BONBILL O207949243874502246472 21.07.2026 17:03. Q8→BEIJING YATAI HUAHENG, ,842. EXECUTED."
+    },
+    {
+      "row": 43,
+      "date": "2026-07-21",
+      "sum": 10119,
+      "currency": "USD",
+      "calc": "INV CL20260715001 dd 15.07.2026. Shenzhen Nizhou Technology (HK). Серверное оборудование (HDD, Intel X710 адаптеры)",
+      "company": "Q8",
+      "clientName": "Вилог",
       "costFormula": null,
       "extra": "Вилог",
       "color": "FFFFFFFF",
@@ -774,7 +793,7 @@
       "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Proforma PI-PRM 20260720 от 20.07.2026. Beijing Yatai Huaheng Technology Co., Ltd (Marshall Islands). S5731-S48P4X, SFP-GE-LX-SM1310, PAC1000S56-CB, JL728B, JL679A + shipping. Q8 GROUP LIMITED → Вилог. Банк: ZHEJIANG CHOUZHOU COMMERCIAL BANK (CZCBCN2X), сч.NRA15603142010500007408"
+      "notes": "Proforma INVOICE CL20260715001 dd 15.07.2026. SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI (Гонконг) → Q8 GROUP LIMITED. Серверные HDD 8TB/10TB/16TB, Intel X710 адаптеры, батарея. Банк: Standard Chartered HK (SCBLHKHH), сч.47413626978. От Alex (@KL1M3NT) для Вилог."
     }
   ]
 }
