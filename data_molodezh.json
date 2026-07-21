@@ -813,6 +813,25 @@
       "sent_usdt": null,
       "notes": "VDX уведомление: ПП №3744 3,223,979.63₽ + ПП №3745 73,643.83₽ (вознаграждение). Всего 3,297,623.46₽ на VDX. Фри Лайнс Компани.",
       "row": 44
+    },
+    {
+      "date": "2026-07-21",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "Вилог",
+      "costFormula": null,
+      "extra": "Вилог",
+      "color": "FF4FC3F7",
+      "rubles_received": null,
+      "sent_rubles_vdx": 68786.82,
+      "vdx_rate": null,
+      "exchange_to": "VDX",
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "ПП №535 от 21.07.2026. ООО ВИЛОГ → VDX. Частичная оплата за товар по инвойсу DVS-015-ED260721KA015 от 21.07.2026, дог. NZDLWL120525-A-USD. Курс 82.2317. Сумма 68,786.82₽. ИСПОЛНЕНО.",
+      "row": 45
     }
   ]
 }
