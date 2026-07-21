@@ -794,6 +794,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Proforma INVOICE CL20260715001 dd 15.07.2026. SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI (Гонконг) → Q8 GROUP LIMITED. Серверные HDD 8TB/10TB/16TB, Intel X710 адаптеры, батарея. Банк: Standard Chartered HK (SCBLHKHH), сч.47413626978. От Alex (@KL1M3NT) для Вилог."
+    },
+    {
+      "date": "2026-07-21",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "Фри Лайнс Компани",
+      "costFormula": null,
+      "extra": "Фри Лайнс Компани",
+      "color": "FF4FC3F7",
+      "rubles_received": "3223979.63 / 73643.83",
+      "sent_rubles_vdx": 3297623.46,
+      "vdx_rate": null,
+      "exchange_to": "VDX",
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "VDX уведомление: ПП №3744 3,223,979.63₽ + ПП №3745 73,643.83₽ (вознаграждение). Всего 3,297,623.46₽ на VDX. Фри Лайнс Компани.",
+      "row": 44
     }
   ]
 }
