@@ -1178,7 +1178,7 @@
     },
     {
       "row": 60,
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "sum": 32996.3,
       "currency": "EUR",
       "company": null,
@@ -1187,7 +1187,7 @@
       "costFormula": null,
       "calc": null,
       "color": "FFFF0000",
-      "rubles_received": "2957128.40",
+      "rubles_received": "2957128.40 / 47314.05",
       "sent_rubles_vdx": null,
       "vdx_rate": null,
       "exchange_to": null,
