@@ -1213,44 +1213,6 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Поручение №1 от 20.07.2026. Принципал: ООО Евроимпорт Запад (Мальцев Е.О.). Получатель: VIKKO-GRUPP OÜ (Эстония, Coop Pank EKRDEE22, EE164204278627413808). Сумма: 4,000 EUR. Курс 89.92 RUB/EUR = 359,680 RUB. Комиссия агента 1.85%+100USD = 14,518.08 RUB. Транспортные услуги FCA Польща→Rotterdam NL. | VDX уведомление: Блэкшарк ЭНЕРГОТРАНС→VDX 369,939.75₽, Автомобильное экспедирование, заявка 624"
-    },
-    {
-      "date": "2026-07-21",
-      "sum": 2668,
-      "currency": "USD",
-      "calc": null,
-      "company": "LEO",
-      "clientName": "ВТС",
-      "costFormula": null,
-      "extra": "ВТС",
-      "color": "FFFFFFFF",
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "vdx_rate": null,
-      "exchange_to": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "Проформа-инвойс №02L21-07-26 от 21.07.2026. Leo Spot Capital PT (Бали, Индонезия) → ООО ВТС. Part M39029/75-416, 232шт x .50 = ,668. Bank Permata, Swift BBBAIDJA. Получатель: Leo Spot Capital PT.",
-      "row": 62
-    },
-    {
-      "date": "2026-07-21",
-      "sum": 3885.7,
-      "currency": "USD",
-      "calc": null,
-      "company": "LEO",
-      "clientName": "ВТС",
-      "costFormula": null,
-      "extra": "ВТС",
-      "color": "FFFFFFFF",
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "vdx_rate": null,
-      "exchange_to": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "Проформа-инвойс №01L21-07-26 от 21.07.2026. Leo Spot Capital PT (Бали, Индонезия) → ООО ВТС. Электронные компоненты (ECS-100, ISD2, HCPL, MIC5209, TM4C). Итого ,885.70. Bank Permata, BBBAIDJA.",
-      "row": 63
     }
   ]
 }
