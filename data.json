@@ -1186,7 +1186,7 @@
       "extra": "Термодизайн",
       "costFormula": "32,996.30 EUR → оплачено OMNEX поставщику Rus-All",
       "calc": "INV PROF32/2026, Rus-All sp. z o.o. (Poland). Kludi смесители/душ. Payment from OMNEX 21.07",
-      "color": "FF92D050",
+      "color": "FFFFFFFF",
       "rubles_received": "2957128.40 / 47314.05",
       "sent_rubles_vdx": 2990571.06,
       "vdx_rate": null,
