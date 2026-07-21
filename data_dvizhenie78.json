@@ -98,7 +98,7 @@
       "date": "2026-07-20",
       "sum": 3800,
       "currency": "USD",
-      "calc": null,
+      "calc": "BONBILL 21.07 Q8→NECO GLOBAL, ocean freight",
       "company": "Q8",
       "client": null,
       "extra": "Балтик Лэнд (Движение 78)",
@@ -107,9 +107,10 @@
       "exchange_to": "VDX",
       "vdx_rate": "78.6",
       "received_usdt": "7856.43",
-      "sent_usdt": null,
+      "sent_usdt": 3841.4,
       "notes": "Поручение №53 от 17.07.2026. Принципал: ООО «Балтик Лэнд». Получатель: NECO GLOBAL LIMITED (Гонконг). Zhejiang Chouzhou Commercial Bank, CZCBCN2X. Счёт NRA18809142010500035094. Контракт NGL0106 от 01.06.2026. Курс 79.30. RUB 602,680.00. Комиссия 2.5%. | ПП №1592 от 17.07 (исп. 20.07): 602,680.00₽ — тело пор.53, VO21100. ПП №1593: 15,453.19₽ — комиссия 2.5%. | VDX уведомление: Блэкшарк ПОЧТО→VDX 618,133.19₽, сырьё для удобрений, заявка 617 | PP No419 20.07: Blakshark->VDX 618,133.19 RUB, zayavka 617, ISPOLNENO | ⬜ 20.07: инвойс SALSE2606-274A + Application for transfer получены. Компания: Балтик Лэнд. Сумма подтверждена: 3800 USD. Получатель: NECO GLOBAL LIMITED. | Компания: Q8 | VDX курс 20.07: 78.6 → 7864.29 USDT",
-      "color": "FFFFFFFF"
+      "color": "FF92D050",
+      "costFormula": "3,800.00 + 0.3% + 30 = 3,841.40 USDT"
     }
   ]
 }
