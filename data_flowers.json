@@ -1287,6 +1287,44 @@
       "received_usdt": null,
       "sent_usdt": 136252.42,
       "notes": "Заявка от 21.07.2026. Gulf Flowers FZCO (Dubai). Контракт GF-Q8G/2026/05/21 от 21.05.2026. Cut flowers. Банк: Emirates NBD (EBILAEAD), сч.AE300260000515395226402. Директор: Tsepov Alexander. Рег.№1713, VAT 1000472048600003."
+    },
+    {
+      "date": "2026-07-21",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "Ароматный Путь (Цветы)",
+      "costFormula": null,
+      "extra": "Ароматный Путь (Цветы)",
+      "color": "FF4FC3F7",
+      "rubles_received": "2021388.20 / 50534.70",
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Приход на Блэкшарк ПОЧТО: ПП №507 оплата 2,021,388.20₽ + ПП №508 вознаграждение 50,534.70₽ по WD-25 пор.89 от 21.07.2026. Выписка ПОЧТОБАНК 21.07.",
+      "row": 71
+    },
+    {
+      "date": "2026-07-21",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "ГлобалЦвет (Цветы)",
+      "costFormula": null,
+      "extra": "ГлобалЦвет (Цветы)",
+      "color": "FF4FC3F7",
+      "rubles_received": "14122525.34 / 353063.13",
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Приход на Блэкшарк ПОЧТО: ПП №741 оплата 14,122,525.34₽ + ПП №742 вознаграждение 353,063.13₽ по WD-26 пор.92 от 21.07.2026. Выписка ПОЧТОБАНК 21.07.",
+      "row": 72
     }
   ]
 }
