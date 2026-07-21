@@ -676,8 +676,8 @@
       "vdx_rate": "77.9",
       "received_usdt": 2130.93,
       "sent_usdt": "1926.39",
-      "notes": "Поручение VDX №15 от 16.07.2026. Принципал: АО Фри Лайнс Компани. Получатель: GTM LINE SIA (Латвия). Инвойс 26-GT407 от 17.06.2026, контракт 6042020 от 06.04.2020. Курс 90,9486. 144 790,17₽ (ПП №3675, VO21100, 16.07, исполнитель Блэкшарк) + комиссия VDX 21 375,10₽ (ПП №3676, VO21100, 16.07). Банк получателя EUR: PAYSERA LT UAB, SWIFT EVIULT2VXXX, IBAN LT853500010014727662. | 17.07: VDX подтвердил платёж через TRANSPATH: 1,592 EUR → GTM LINE SIA (Paysera). INITIATED (через TRANSPATH). | Расчёт: 1 820 USD → 1 926.39 USDT → TNYnuV6av9bWYXrZoH7LHJYuzfiX3Pg1GZ",
-      "color": "FFFFFF00",
+      "notes": "Поручение VDX №15 от 16.07.2026. Принципал: АО Фри Лайнс Компани. Получатель: GTM LINE SIA (Латвия). Инвойс 26-GT407 от 17.06.2026, контракт 6042020 от 06.04.2020. Курс 90,9486. 144 790,17₽ (ПП №3675, VO21100, 16.07, исполнитель Блэкшарк) + комиссия VDX 21 375,10₽ (ПП №3676, VO21100, 16.07). Банк получателя EUR: PAYSERA LT UAB, SWIFT EVIULT2VXXX, IBAN LT853500010014727662. | 17.07: VDX подтвердил платёж через TRANSPATH: 1,592 EUR → GTM LINE SIA (Paysera). INITIATED (через TRANSPATH). | Расчёт: 1 820 USD → 1 926.39 USDT → TNYnuV6av9bWYXrZoH7LHJYuzfiX3Pg1GZ | TRANSPATH PAYOUT COMPLETED 21.07.2026. GTM LINE SIA (Latvia) 1,592.00 EUR. Invoice 26-GT407 dd 17.06.2026. SEPA.",
+      "color": "FF92D050",
       "sent_flowers_vdx": null,
       "costFormula": "1 820 / (1-0.35%) + 100 = 1 926.39 USDT",
       "clientName": "Фри Лайнс Компани"
