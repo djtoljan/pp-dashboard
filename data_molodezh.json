@@ -832,6 +832,25 @@
       "sent_usdt": null,
       "notes": "ПП №535 от 21.07.2026. ООО ВИЛОГ → VDX. Частичная оплата за товар по инвойсу DVS-015-ED260721KA015 от 21.07.2026, дог. NZDLWL120525-A-USD. Курс 82.2317. Сумма 68,786.82₽. ИСПОЛНЕНО.",
       "row": 45
+    },
+    {
+      "row": 46,
+      "date": "2026-07-21",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "costFormula": null,
+      "clientName": "Вилог",
+      "extra": "Вилог",
+      "rubles_received": null,
+      "sent_rubles_vdx": 371831.44,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "ПП №536 от 21.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Частичная оплата за товар по инвойсу №PEL-023-BEL26050601 от 08.05.2026, дог. NZDLWL120525-A-USD, HS 8206000000, курс 74.2963. ИСПОЛНЕНО 21.07 17:39.",
+      "color": "FF4FC3F7"
     }
   ]
 }
