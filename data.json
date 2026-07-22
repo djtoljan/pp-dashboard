@@ -1250,6 +1250,16 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "date": "2026-07-22",
+      "sum": 18662.44,
+      "currency": "EUR",
+      "company": null,
+      "color": "#FF0000",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "Поручение №72534 от 22.07.2026. Принципал: ООО ВТС. Получатель: Itrix Co., Ltd (Таиланд). Siam Commercial Bank. Инвойс 72534 от 03.07.2026. Агент: БиТрейд Кей Джи (договор 27062025TК/1)"
     }
   ]
 }
