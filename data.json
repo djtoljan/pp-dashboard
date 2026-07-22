@@ -1299,14 +1299,14 @@
     },
     {
       "date": "2026-07-22",
-      "sum": 156000,
+      "sum": 78000,
       "currency": "USD",
       "company": "INFINITE",
       "color": "#FFFFFF",
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "ВТС",
-      "notes": "Проформа GBIT20260717 от 17.07.2026. Golden Boxx Development Limited (Гонконг)→PT Infinite Sunrise Asia (Бали). Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт × ,000 = ,000 USD. EXW Shanghai, TT. Предоплата 50% = ,000. Бенефициар: Golden Boxx, ICBC Asia (Hong Kong), сч 719530008863, SWIFT UBHKHKHH. Алиса: платим 50%."
+      "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% предоплата от ,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX инвойс №72694 за услуги: ,092 × 78.80 = 86,049.60₽."
     }
   ]
 }
