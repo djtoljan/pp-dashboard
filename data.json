@@ -1294,7 +1294,8 @@
       "calc": "WISE cross-rate EUR/USD = 1.14041509 (€7,803 = ,898.65). VDX/WISE mid-market 11:26 UTC 22.07.",
       "rubles_received": "701282.57 / 20854.72",
       "sent_rubles_vdx": 714682.8,
-      "exchange_to": "VDX"
+      "exchange_to": "VDX",
+      "row": 66
     }
   ]
 }
