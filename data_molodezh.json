@@ -788,9 +788,9 @@
       "color": "FF4FC3F7",
       "rubles_received": null,
       "sent_rubles_vdx": "3223979.63 / 73643.83",
-      "vdx_rate": 91.6424,
+      "vdx_rate": 78.6,
       "exchange_to": "VDX",
-      "received_usdt": null,
+      "received_usdt": 936.01,
       "sent_usdt": null,
       "notes": "Поручение №17 от 20.07.2026. Фри Лайнс Компани -> VDX -> STLine OÜ (Эстония). 35,180 EUR. Инвойс №07-15/3 от 15.07.2026, контракт FLK. Курс 1 EUR = 91.6424 RUB. ПП №3744 осн.платёж 3,223,979.63₽ + ПП №3745 вознагр. 73,643.83₽. ИСПОЛНЕНО 21.07.",
       "row": 43
@@ -826,9 +826,9 @@
       "extra": "Вилог",
       "rubles_received": null,
       "sent_rubles_vdx": 371831.44,
-      "vdx_rate": null,
+      "vdx_rate": 78.6,
       "exchange_to": null,
-      "received_usdt": null,
+      "received_usdt": 4725.95,
       "sent_usdt": null,
       "notes": "ПП №536 от 21.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Частичная оплата за товар по инвойсу №PEL-023-BEL26050601 от 08.05.2026, дог. NZDLWL120525-A-USD, HS 8206000000, курс 74.2963. ИСПОЛНЕНО 21.07 17:39.",
       "color": "FF4FC3F7"
