@@ -1382,6 +1382,25 @@
       "sent_usdt": 20090,
       "notes": "Q8 Цветы — EBF CARGO CIA LTDA",
       "color": "FFFFFFFF"
+    },
+    {
+      "row": 76,
+      "date": "2026-07-22",
+      "sum": 61602.04,
+      "currency": "EUR",
+      "calc": "ТЕЗ",
+      "company": "Q8",
+      "clientName": "Bloom Market (Цветы)",
+      "extra": "Bloom Market (Цветы)",
+      "costFormula": null,
+      "color": "FFFFFFFF",
+      "notes": "Invoice BL-P01/220726 от 22.07.2026. Bloom Market EOOD (Болгария) -> Q8 Group Limited (Hong Kong). ROSA 100,000 pcs EUR 0.45 + logistics EUR 16,602.04 = EUR 61,602.04. BGUSBGSF, BG12BGUS91601413755700.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
