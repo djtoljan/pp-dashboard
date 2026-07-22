@@ -196,7 +196,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Аль Сафи, перевод собственных средств | вход 03.07.26 | Al Safi выписка 01-13.07",
-      "color": "FF4FC3F7",
+      "color": "#FF0000",
       "extra": "FININVEST",
       "client": null
     },
@@ -488,14 +488,14 @@
       "company": null,
       "client": null,
       "extra": "Цветы ALMENO заяв.37 (FININVEST→Блэкшарк→ALMENO)",
-      "rubles_received": "2857779.40",
+      "rubles_received": null,
       "sent_rubles_vdx": "2857779.40",
       "exchange_to": "Almeno",
       "vdx_rate": "76.35",
       "received_usdt": "37429.98",
       "sent_usdt": null,
       "notes": "Через FININVEST. Блэкшарк → ALMENO",
-      "color": "FF4FC3F7",
+      "color": "#FF0000",
       "clientName": "Цветы ALMENO заяв.37 (FININVEST→Блэкшарк→ALMENO)",
       "row": 25
     },
@@ -668,14 +668,14 @@
       "company": null,
       "costFormula": null,
       "clientName": "FININVEST",
-      "rubles_received": "2566862.33",
+      "rubles_received": null,
       "sent_rubles_vdx": "2566862.33",
       "vdx_rate": 76.7,
       "exchange_to": "Al Safi",
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Аль Сафи (собств.средства, FININVEST-БШ-Цветы) | Al Safi выписка 10-13.07 VO60075",
-      "color": "FF4FC3F7",
+      "color": "#FF0000",
       "extra": "FININVEST",
       "client": null
     },
@@ -875,7 +875,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Al Safi, 3,615,929.94р, FININVEST, перевод собственных средств. {VO60075}. 14.07.2026",
-      "color": "FF4FC3F7",
+      "color": "#FF0000",
       "extra": "FININVEST",
       "client": null
     },
@@ -935,7 +935,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Al Safi, 1,218,008.24₽, FININVEST/Цветы, перевод собственных средств. 15.07.2026",
-      "color": "FF4FC3F7",
+      "color": "#FF0000",
       "extra": "FININVEST",
       "client": null
     },
@@ -955,7 +955,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Al Safi, 4,186,564.22₽, FININVEST/Цветы, перевод собственных средств. 15.07.2026",
-      "color": "FF4FC3F7",
+      "color": "#FF0000",
       "extra": "FININVEST",
       "client": null
     },
@@ -1126,7 +1126,7 @@
       "currency": null,
       "calc": null,
       "company": null,
-      "color": "FF4FC3F7",
+      "color": "#FF0000",
       "clientName": "FININVEST (Цветы)",
       "costFormula": null,
       "extra": "FININVEST (Цветы)",
@@ -1243,9 +1243,9 @@
       "clientName": "FININVEST",
       "extra": "FININVEST",
       "costFormula": null,
-      "color": "FF4FC3F7",
+      "color": "#FF0000",
       "notes": "Приход от АО ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ 21.07.2026. 4,291,277.41 RUB. Оплата по Агентскому Договору. Выписка Блэкшарк Почта Банк 21-22.07. | John 22.07: Блэкшарк ПОЧТО→Аль Сафи 4,291,277.41₽, перевод собственных средств (FININVEST-БШ-Цветы).",
-      "rubles_received": "4291277.41",
+      "rubles_received": null,
       "sent_rubles_vdx": "4291277.41",
       "exchange_to": "Al Safi",
       "vdx_rate": null,
@@ -1281,7 +1281,9 @@
       "extra": "Поручение №72534 от 22.07.2026. Принципал: ООО ВТС. Получатель: Itrix Co., Ltd (Таиланд). Siam Commercial Bank. Инвойс 72534 от 03.07.2026. Агент: БиТрейд Кей Джи (договор 27062025TК/1)",
       "row": 65,
       "rubles_received": "1681485.84 / 33102.29",
-      "notes": ""
+      "notes": " | VDX 22.07: 1,714,588.13 RUB na VDX, zapchasti, zayavka 77",
+      "sent_rubles_vdx": "1714588.13",
+      "exchange_to": "VDX"
     },
     {
       "date": "2026-07-22",
@@ -1308,9 +1310,11 @@
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "ВТС",
-      "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% предоплата от ,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX инвойс №72694 за услуги: ,092 × 78.80 = 86,049.60₽.",
+      "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% предоплата от ,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX инвойс №72694 за услуги: ,092 × 78.80 = 86,049.60₽. | VDX 22.07: 6,232,449.60 RUB na VDX, za oborudovanie, zayavka 78",
       "row": 67,
-      "rubles_received": "6146400.00 / 86049.60"
+      "rubles_received": "6146400.00 / 86049.60",
+      "sent_rubles_vdx": "6232449.60",
+      "exchange_to": "VDX"
     },
     {
       "row": 68,
@@ -1348,25 +1352,6 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": null,
-      "calc": null
-    },
-    {
-      "row": 70,
-      "date": "2026-07-22",
-      "sum": null,
-      "currency": "blue",
-      "company": null,
-      "color": null,
-      "clientName": null,
-      "costFormula": null,
-      "extra": "VTS",
-      "rubles_received": null,
-      "sent_rubles_vdx": "1714588.13",
-      "exchange_to": "VDX",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "VDX uvedomlenie 22.07.2026: S BiTreid na VDX, 1,714,588.13 RUB, zapchasti, zayavka 77. O:\\\\...\\\\BTS\\\\vhod 22.07.26",
       "calc": null
     }
   ]
