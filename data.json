@@ -1296,6 +1296,17 @@
       "sent_rubles_vdx": 714682.8,
       "exchange_to": "VDX",
       "row": 66
+    },
+    {
+      "date": "2026-07-22",
+      "sum": 156000,
+      "currency": "USD",
+      "company": "INFINITE",
+      "color": "#FFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "ВТС",
+      "notes": "Проформа GBIT20260717 от 17.07.2026. Golden Boxx Development Limited (Гонконг)→PT Infinite Sunrise Asia (Бали). Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт × ,000 = ,000 USD. EXW Shanghai, TT. Предоплата 50% = ,000. Бенефициар: Golden Boxx, ICBC Asia (Hong Kong), сч 719530008863, SWIFT UBHKHKHH. Алиса: платим 50%."
     }
   ]
 }
