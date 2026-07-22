@@ -1190,7 +1190,7 @@
       "vdx_rate": 78.6,
       "exchange_to": "VDX",
       "received_usdt": 4701.91,
-      "sent_usdt": null,
+      "sent_usdt": 4677,
       "notes": "Поручение №1 от 20.07.2026. Принципал: ООО Евроимпорт Запад (Мальцев Е.О.). Получатель: VIKKO-GRUPP OÜ (Эстония, Coop Pank EKRDEE22, EE164204278627413808). Сумма: 4,000 EUR. Курс 89.92 RUB/EUR = 359,680 RUB. Комиссия агента 1.85%+100USD = 14,518.08 RUB. Транспортные услуги FCA Польща→Rotterdam NL. | VDX уведомление: Блэкшарк ЭНЕРГОТРАНС→VDX 369,939.75₽, Автомобильное экспедирование, заявка 624 | VDX 22.07: Payment from TRANSPATH → VIKKO-GRUPP OU (Estonia), 4,000 EUR, INV 521 dd 11.05.26. Coop Pank EKRDEE22. СТАТУС: ордер на оплату | Банк: ЭТБ→VDX 22.07. Поручение_2/2, Евроимпорт Запад. Вход 22.07. | WISE rate 22.07: €4,000 = ,561.98 @ 1.14049729. | WISE cross-rate EUR/USD = 1.14049729 (€4,000 = 4,561.98). VDX/WISE mid-market 11:25 UTC 22.07."
     },
     {
@@ -1241,7 +1241,8 @@
       "rubles_received": "701282.57 / 20854.72",
       "sent_rubles_vdx": 714682.8,
       "exchange_to": "VDX",
-      "row": 63
+      "row": 63,
+      "sent_usdt": 9029
     },
     {
       "date": "2026-07-22",
