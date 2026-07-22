@@ -219,9 +219,10 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
   if (todayRows.length === 0) {
     h += `<div class="empty">🌙 Сегодня сделок нет</div>`;
   } else {
-    h += `<table><thead><tr><th></th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Пришло ₽</th><th>Ушло ₽</th></tr></thead><tbody>`;
+    h += `<table><thead><tr><th></th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Пришло ₽</th><th>Ушло ₽</th><th>USDT</th></tr></thead><tbody>`;
     for (const r of todayRows) {
       const ec = r.color === 'green' ? '🟢' : r.color === 'yellow' ? '🟡' : r.color === 'red' ? '🔴' : r.color === 'blue' ? '🔵' : '⚪';
+      const usdtOk = r.usdtIn && parseFloat(r.usdtIn) > 0 ? '✅' : '❌';
       h += `<tr>
         <td class="ta"><div class="emoji-lg">${ec}</div></td>
         <td class="n">${r.sum ? N(r.sum) : '-'}</td>
@@ -230,6 +231,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
         <td class="sm">${esc(r.company||'-')}</td>
         <td class="n">${r.rubles ? N(String(r.rubles).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0)) : '-'}</td>
         <td class="n">${r.sentVdx ? N(String(r.sentVdx).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0)) : '-'}</td>
+        <td class="ta">${usdtOk}</td>
       </tr>`;
     }
     h += `</tbody></table>`;
@@ -255,8 +257,9 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
   // ===== PAST DAYS — NO APPLICATION ⚪ =====
   if (waitApp.length > 0) {
     h += `<h2><span class="section-label">⚪</span> Без заявки (нет компании) <span>${waitApp.length}</span></h2>`;
-    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Группа</th></tr></thead><tbody>`;
+    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Группа</th><th>USDT</th></tr></thead><tbody>`;
     for (const r of waitApp) {
+      const usdtOk = r.usdtIn && parseFloat(r.usdtIn) > 0 ? '✅' : '❌';
       h += `<tr>
         <td class="ta"><div class="emoji-lg">⚪</div></td>
         <td>${fmtDate(esc(r.date))}</td>
@@ -264,6 +267,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
         <td class="sm">${r.group}</td>
+        <td class="ta">${usdtOk}</td>
       </tr>`;
     }
     h += `</tbody></table>`;
@@ -272,8 +276,9 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
   // ===== PAST DAYS — WAITING FOR PP 🔴 =====
   if (waitPP.length > 0) {
     h += `<h2><span class="section-label">🔴</span> Ждут ПП <span>${waitPP.length}</span></h2>`;
-    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th></tr></thead><tbody>`;
+    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>USDT</th></tr></thead><tbody>`;
     for (const r of waitPP) {
+      const usdtOk = r.usdtIn && parseFloat(r.usdtIn) > 0 ? '✅' : '❌';
       h += `<tr>
         <td class="ta"><div class="emoji-lg">🔴</div></td>
         <td>${fmtDate(esc(r.date))}</td>
@@ -281,6 +286,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
         <td class="sm">${esc(r.company||'-')}</td>
+        <td class="ta">${usdtOk}</td>
       </tr>`;
     }
     h += `</tbody></table>`;
@@ -289,8 +295,9 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
   // ===== PAST DAYS — WAITING FOR GREEN 🟡 =====
   if (waitGreen.length > 0) {
     h += `<h2><span class="section-label">🟡</span> Ждут зелёнку <span>${waitGreen.length}</span></h2>`;
-    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th></tr></thead><tbody>`;
+    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>USDT</th></tr></thead><tbody>`;
     for (const r of waitGreen) {
+      const usdtOk = r.usdtIn && parseFloat(r.usdtIn) > 0 ? '✅' : '❌';
       h += `<tr>
         <td class="ta"><div class="emoji-lg">🟡</div></td>
         <td>${fmtDate(esc(r.date))}</td>
@@ -298,6 +305,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
         <td class="sm">${esc(r.company||'-')}</td>
+        <td class="ta">${usdtOk}</td>
       </tr>`;
     }
     h += `</tbody></table>`;
