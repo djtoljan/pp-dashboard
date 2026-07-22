@@ -1280,7 +1280,8 @@
       "costFormula": null,
       "extra": "Поручение №72534 от 22.07.2026. Принципал: ООО ВТС. Получатель: Itrix Co., Ltd (Таиланд). Siam Commercial Bank. Инвойс 72534 от 03.07.2026. Агент: БиТрейд Кей Джи (договор 27062025TК/1)",
       "row": 65,
-      "rubles_received": "2197917.40 / 46013.08"
+      "rubles_received": "1681485.84 / 33102.29",
+      "notes": ""
     },
     {
       "date": "2026-07-22",
@@ -1310,6 +1311,25 @@
       "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% предоплата от ,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX инвойс №72694 за услуги: ,092 × 78.80 = 86,049.60₽.",
       "row": 67,
       "rubles_received": "6146400.00 / 86049.60"
+    },
+    {
+      "row": 68,
+      "date": "2026-07-22",
+      "sum": 6553.7,
+      "currency": "USD",
+      "calc": null,
+      "company": null,
+      "color": "#FF0000",
+      "clientName": "VTS",
+      "costFormula": null,
+      "extra": "Poruchenie 73674 ot 22.07.2026. Principal: OOO VTS. Agent: BiTreid Kei Dji. Poluchatel: Leo Spot Capital PT (Bali, Indonesia). Bank Permata, SWIFT BBBAIDJA, acc 9601575962. Invois 01L21-07-26, 02L21-07-26 ot 21.07.2026. Dogovor 20102025TK/2. RUB: 516,431.56 @ 78.80. Komissiya 2.5%: 12,910.79.",
+      "rubles_received": "516431.56 / 12910.79",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null
     }
   ]
 }
