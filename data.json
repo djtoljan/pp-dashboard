@@ -1277,6 +1277,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "БиТрейд→VDX, 529 342,35 ₽, электронные компоненты, заявка 79"
+    },
+    {
+      "row": 66,
+      "date": "2026-07-22",
+      "sum": 1106740.52,
+      "currency": "RUB",
+      "company": "Блэкшарк",
+      "color": "FFFFFFFF",
+      "clientName": "Блэкшарк",
+      "costFormula": "1106740.52",
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
