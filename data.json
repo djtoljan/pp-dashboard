@@ -196,7 +196,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Аль Сафи, перевод собственных средств | вход 03.07.26 | Al Safi выписка 01-13.07",
-      "color": "#FF0000",
+      "color": "FF4FC3F7",
       "extra": "FININVEST",
       "client": null
     },
@@ -495,7 +495,7 @@
       "received_usdt": "37429.98",
       "sent_usdt": null,
       "notes": "Через FININVEST. Блэкшарк → ALMENO",
-      "color": "#FF0000",
+      "color": "FF4FC3F7",
       "clientName": "Цветы ALMENO заяв.37 (FININVEST→Блэкшарк→ALMENO)",
       "row": 25
     },
@@ -675,7 +675,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Аль Сафи (собств.средства, FININVEST-БШ-Цветы) | Al Safi выписка 10-13.07 VO60075",
-      "color": "#FF0000",
+      "color": "FF4FC3F7",
       "extra": "FININVEST",
       "client": null
     },
@@ -875,7 +875,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Al Safi, 3,615,929.94р, FININVEST, перевод собственных средств. {VO60075}. 14.07.2026",
-      "color": "#FF0000",
+      "color": "FF4FC3F7",
       "extra": "FININVEST",
       "client": null
     },
@@ -935,7 +935,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Al Safi, 1,218,008.24₽, FININVEST/Цветы, перевод собственных средств. 15.07.2026",
-      "color": "#FF0000",
+      "color": "FF4FC3F7",
       "extra": "FININVEST",
       "client": null
     },
@@ -955,7 +955,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Блэкшарк ПОЧТО→Al Safi, 4,186,564.22₽, FININVEST/Цветы, перевод собственных средств. 15.07.2026",
-      "color": "#FF0000",
+      "color": "FF4FC3F7",
       "extra": "FININVEST",
       "client": null
     },
@@ -1126,7 +1126,7 @@
       "currency": null,
       "calc": null,
       "company": null,
-      "color": "#FF0000",
+      "color": "FF4FC3F7",
       "clientName": "FININVEST (Цветы)",
       "costFormula": null,
       "extra": "FININVEST (Цветы)",
@@ -1243,7 +1243,7 @@
       "clientName": "FININVEST",
       "extra": "FININVEST",
       "costFormula": null,
-      "color": "#FF0000",
+      "color": "FF4FC3F7",
       "notes": "Приход от АО ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ 21.07.2026. 4,291,277.41 RUB. Оплата по Агентскому Договору. Выписка Блэкшарк Почта Банк 21-22.07. | John 22.07: Блэкшарк ПОЧТО→Аль Сафи 4,291,277.41₽, перевод собственных средств (FININVEST-БШ-Цветы).",
       "rubles_received": null,
       "sent_rubles_vdx": "4291277.41",
@@ -1339,9 +1339,9 @@
       "row": 69,
       "date": "2026-07-22",
       "sum": null,
-      "currency": "2334201.60",
-      "company": "blue",
-      "color": null,
+      "currency": "RUB",
+      "company": null,
+      "color": "FFFFFFFF",
       "clientName": null,
       "costFormula": null,
       "extra": null,
@@ -1351,8 +1351,27 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "Выписка ПОЧТОБАНК 22.07.2026: приход от ООО КОНТУР СПБ 2,334,201.60₽.",
       "calc": null
+    },
+    {
+      "row": 70,
+      "date": "2026-07-22",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "КОНТУР СПБ",
+      "extra": "КОНТУР СПБ",
+      "costFormula": null,
+      "color": "FF4FC3F7",
+      "rubles_received": "2334201.60",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Выписка ПОЧТОБАНК 22.07.2026: приход от ООО КОНТУР СПБ 2,334,201.60₽. Инвойс MEANNA2601 от 21/07/2026. Поруч.1 от 22.07.2026, аг.дог.210726-B от 21.07.2026. НДС не облагается."
     }
   ]
 }
