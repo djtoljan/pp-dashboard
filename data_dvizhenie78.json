@@ -143,12 +143,12 @@
       "extra": "RMK (Dvizhenie 78)",
       "costFormula": "17,981.35 + 0.3% + 30 = 18,065.29 USDT",
       "rubles_received": "50171.78 / 1383301.44",
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": 1433473.22,
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Poruchenie No17 ot 22.07.2026. Principal: OOO RMK. Agent: OOO Blek Shark Treyd. Poluchatel: CZ LAKE INTERNATIONAL TRADING CO., LIMITED (Hong Kong). JP Morgan Chase Hong Kong, SWIFT CHASHKHHXXX. Summa: 17,352.00 USD (tovar) + 629.35 USD (2.5% komissiya) = 17,981.35 USD. Dogovor: Addendum No3 ot 08.07.2026 k kontraktu IR-01/24 ot 04.03.2024, INVOICE 2026-RMK_01 ot 08.07.2026. Kurs: 79.72 RUB/USD. Postuplenie na Blek Shark POCHTO 22.07.2026.",
+      "notes": "Poruchenie No17 ot 22.07.2026. Principal: OOO RMK. Agent: OOO Blek Shark Treyd. Poluchatel: CZ LAKE INTERNATIONAL TRADING CO., LIMITED (Hong Kong). JP Morgan Chase Hong Kong, SWIFT CHASHKHHXXX. Summa: 17,352.00 USD (tovar) + 629.35 USD (2.5% komissiya) = 17,981.35 USD. Dogovor: Addendum No3 ot 08.07.2026 k kontraktu IR-01/24 ot 04.03.2024, INVOICE 2026-RMK_01 ot 08.07.2026. Kurs: 79.72 RUB/USD. Postuplenie na Blek Shark POCHTO 22.07.2026. | Zaiavka 628, ogneuporniy material. Postuplenie na VDX 22.07.2026.",
       "color": "#FFFFFF"
     }
   ]
