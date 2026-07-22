@@ -1231,7 +1231,7 @@
       "exchange_to": "VDX",
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Поручение №1 от 20.07.2026. Принципал: ООО Евроимпорт Запад (Мальцев Е.О.). Получатель: VIKKO-GRUPP OÜ (Эстония, Coop Pank EKRDEE22, EE164204278627413808). Сумма: 4,000 EUR. Курс 89.92 RUB/EUR = 359,680 RUB. Комиссия агента 1.85%+100USD = 14,518.08 RUB. Транспортные услуги FCA Польща→Rotterdam NL. | VDX уведомление: Блэкшарк ЭНЕРГОТРАНС→VDX 369,939.75₽, Автомобильное экспедирование, заявка 624 | VDX 22.07: Payment from TRANSPATH → VIKKO-GRUPP OU (Estonia), 4,000 EUR, INV 521 dd 11.05.26. Coop Pank EKRDEE22. СТАТУС: ордер на оплату"
+      "notes": "Поручение №1 от 20.07.2026. Принципал: ООО Евроимпорт Запад (Мальцев Е.О.). Получатель: VIKKO-GRUPP OÜ (Эстония, Coop Pank EKRDEE22, EE164204278627413808). Сумма: 4,000 EUR. Курс 89.92 RUB/EUR = 359,680 RUB. Комиссия агента 1.85%+100USD = 14,518.08 RUB. Транспортные услуги FCA Польща→Rotterdam NL. | VDX уведомление: Блэкшарк ЭНЕРГОТРАНС→VDX 369,939.75₽, Автомобильное экспедирование, заявка 624 | VDX 22.07: Payment from TRANSPATH → VIKKO-GRUPP OU (Estonia), 4,000 EUR, INV 521 dd 11.05.26. Coop Pank EKRDEE22. СТАТУС: ордер на оплату | Банк: ЭТБ→VDX 22.07. Поручение_2/2, Евроимпорт Запад. Вход 22.07."
     },
     {
       "row": 63,
@@ -1280,6 +1280,17 @@
       "costFormula": null,
       "extra": "Поручение №72534 от 22.07.2026. Принципал: ООО ВТС. Получатель: Itrix Co., Ltd (Таиланд). Siam Commercial Bank. Инвойс 72534 от 03.07.2026. Агент: БиТрейд Кей Джи (договор 27062025TК/1)",
       "row": 65
+    },
+    {
+      "date": "2026-07-22",
+      "sum": 7803.3,
+      "currency": "EUR",
+      "company": "LUXORA",
+      "color": "#FFFFFF",
+      "clientName": "Евроимпорт Запад",
+      "costFormula": null,
+      "extra": "Евроимпорт Запад",
+      "notes": "Заявка Евроимпорт Запад: LUXORA→Mybox s.r.o (Словакия). FAKTURA 20260007 от 17.07.2026: HD ABS nabytkove hrany (мебельные кромки), 21 400 шт × 0,36464€ = 7 803,30 EUR. Покупатель: EUROIMPORT ZAPAD LLC, Калининград. WISE TRWIBEB1XXX, IBAN BE86 9058 3106 1550. VDX ордер 22.07: Payment from LUXORA → Mybox. Поручение_2_2: ЭТБ→VDX. Без НДС. OUR."
     }
   ]
 }
