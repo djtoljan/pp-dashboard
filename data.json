@@ -1232,6 +1232,24 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 63,
+      "date": "2026-07-22",
+      "sum": 19580,
+      "currency": "USD",
+      "calc": null,
+      "company": "Энергоформ",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "color": "FF4FC3F7",
+      "notes": "Счёт №8-КГ. Оплата ООО ПО ЭНЕРГОФОРМ (Промсельхозбанк). 1,538,087.32 RUB = ,580.00 @78.5540. Ольга: сегодня оплатить.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
