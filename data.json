@@ -1219,7 +1219,7 @@
       "date": "2026-07-21",
       "sum": 4000,
       "currency": "EUR",
-      "calc": null,
+      "calc": "WISE cross-rate EUR/USD = 1.14049729 (€4,000 = ,561.98). VDX/WISE mid-market 11:25 UTC 22.07.",
       "company": "TRANSPATH",
       "clientName": "Евроимпорт Запад",
       "costFormula": null,
@@ -1231,7 +1231,7 @@
       "exchange_to": "VDX",
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Поручение №1 от 20.07.2026. Принципал: ООО Евроимпорт Запад (Мальцев Е.О.). Получатель: VIKKO-GRUPP OÜ (Эстония, Coop Pank EKRDEE22, EE164204278627413808). Сумма: 4,000 EUR. Курс 89.92 RUB/EUR = 359,680 RUB. Комиссия агента 1.85%+100USD = 14,518.08 RUB. Транспортные услуги FCA Польща→Rotterdam NL. | VDX уведомление: Блэкшарк ЭНЕРГОТРАНС→VDX 369,939.75₽, Автомобильное экспедирование, заявка 624 | VDX 22.07: Payment from TRANSPATH → VIKKO-GRUPP OU (Estonia), 4,000 EUR, INV 521 dd 11.05.26. Coop Pank EKRDEE22. СТАТУС: ордер на оплату | Банк: ЭТБ→VDX 22.07. Поручение_2/2, Евроимпорт Запад. Вход 22.07."
+      "notes": "Поручение №1 от 20.07.2026. Принципал: ООО Евроимпорт Запад (Мальцев Е.О.). Получатель: VIKKO-GRUPP OÜ (Эстония, Coop Pank EKRDEE22, EE164204278627413808). Сумма: 4,000 EUR. Курс 89.92 RUB/EUR = 359,680 RUB. Комиссия агента 1.85%+100USD = 14,518.08 RUB. Транспортные услуги FCA Польща→Rotterdam NL. | VDX уведомление: Блэкшарк ЭНЕРГОТРАНС→VDX 369,939.75₽, Автомобильное экспедирование, заявка 624 | VDX 22.07: Payment from TRANSPATH → VIKKO-GRUPP OU (Estonia), 4,000 EUR, INV 521 dd 11.05.26. Coop Pank EKRDEE22. СТАТУС: ордер на оплату | Банк: ЭТБ→VDX 22.07. Поручение_2/2, Евроимпорт Запад. Вход 22.07. | WISE rate 22.07: €4,000 = ,561.98 @ 1.14049729."
     },
     {
       "row": 63,
@@ -1290,7 +1290,9 @@
       "clientName": "Евроимпорт Запад",
       "costFormula": null,
       "extra": "Евроимпорт Запад",
-      "notes": "Заявка Евроимпорт Запад: LUXORA→Mybox s.r.o (Словакия). FAKTURA 20260007 от 17.07.2026: HD ABS nabytkove hrany (мебельные кромки), 21 400 шт × 0,36464€ = 7 803,30 EUR. Покупатель: EUROIMPORT ZAPAD LLC, Калининград. WISE TRWIBEB1XXX, IBAN BE86 9058 3106 1550. VDX ордер 22.07: Payment from LUXORA → Mybox. Поручение_2_2: ЭТБ→VDX. Без НДС. OUR."
+      "notes": "Заявка Евроимпорт Запад: LUXORA→Mybox s.r.o (Словакия). FAKTURA 20260007 от 17.07.2026: HD ABS nabytkove hrany (мебельные кромки), 21 400 шт × 0,36464€ = 7 803,30 EUR. Покупатель: EUROIMPORT ZAPAD LLC, Калининград. WISE TRWIBEB1XXX, IBAN BE86 9058 3106 1550. VDX ордер 22.07: Payment from LUXORA → Mybox. Поручение_2_2: ЭТБ→VDX. Без НДС. OUR. | WISE rate 22.07: €7,803 = ,898.65 @ 1.14041509. | Банк.выписка ЭТБ 22.07: Евроимпорт Запад→Блэкшарк Трейд: ПП№58 комиссия 20,854.72₽, ПП№59 тело 701,282.57₽ (кромка мебельная). Всего 722,137.29₽. Поручение №2 от 22.07.2026.",
+      "calc": "WISE cross-rate EUR/USD = 1.14041509 (€7,803 = ,898.65). VDX/WISE mid-market 11:26 UTC 22.07.",
+      "rubles_received": "701282.57 / 20854.72"
     }
   ]
 }
