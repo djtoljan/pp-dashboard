@@ -1417,15 +1417,16 @@
       "vdx_rate": null,
       "exchange_to": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "row": 76
+      "sent_usdt": 20090,
+      "row": 76,
+      "calc": "ТЕЗ"
     },
     {
       "date": "2026-07-22",
       "sum": 30000,
       "currency": "USD",
       "company": "SERVICIOS AEREOS",
-      "clientName": "AOA VENTURES (Цветы)",
+      "clientName": "SERVICIOS AEREOS (Цветы)",
       "costFormula": "30 000 + 0.3% + 30 = 30 120 USDT",
       "color": "FFFFFFFF",
       "notes": "Beneficiary: SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A. (Ecuador), PRODUBANCO, SWIFT PRODECEQ. HYT/Q8.",
@@ -1434,8 +1435,9 @@
       "vdx_rate": null,
       "exchange_to": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "row": 77
+      "sent_usdt": 30120,
+      "row": 77,
+      "calc": "ТЕЗ"
     },
     {
       "row": 78,
@@ -1443,7 +1445,7 @@
       "sum": 10000,
       "currency": "USD",
       "company": "INCOFLORES",
-      "clientName": "AOA VENTURES (Цветы)",
+      "clientName": "INCOFLORES (Цветы)",
       "costFormula": "10 000 + 0.3% + 30 = 10 060 USDT",
       "color": "FFFFFFFF",
       "notes": "Beneficiary: Incoflores (Ecuador, Quito), PRODUBANCO, SWIFT PRODECEQ. HYT/Q8.",
@@ -1452,7 +1454,8 @@
       "vdx_rate": null,
       "exchange_to": null,
       "received_usdt": null,
-      "sent_usdt": null
+      "sent_usdt": 10060,
+      "calc": "ТЕЗ"
     },
     {
       "row": 79,
