@@ -1307,6 +1307,44 @@
       "costFormula": null,
       "extra": "ВТС",
       "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% предоплата от ,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX инвойс №72694 за услуги: ,092 × 78.80 = 86,049.60₽."
+    },
+    {
+      "row": 67,
+      "date": "2026-07-22",
+      "sum": null,
+      "currency": "rubles_received",
+      "company": "50171.78 / 1383301.44",
+      "color": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
+    },
+    {
+      "row": 68,
+      "date": "2026-07-22",
+      "sum": null,
+      "currency": "50 171.78 / 1 383 301.44",
+      "company": "blue",
+      "color": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
