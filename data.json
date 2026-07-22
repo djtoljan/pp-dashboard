@@ -857,10 +857,11 @@
       "notes": "Блэкшарк ПОЧТО→VDX, транспортные услуги, заяв.604,606. {VO60081}, аг.дог. №4 от 31.03.2025.",
       "color": "FF4FC3F7",
       "extra": null,
-      "client": null
+      "client": null,
+      "hidden": true
     },
     {
-      "row": 44,
+      "row": 43,
       "date": "2026-07-14",
       "sum": null,
       "currency": null,
@@ -880,7 +881,7 @@
       "client": null
     },
     {
-      "row": 45,
+      "row": 44,
       "date": "2026-07-14",
       "sum": 20908,
       "currency": "USD",
@@ -900,7 +901,7 @@
       "client": "20 908,00 USD * 1,005 + 100 = 21 113 USDT"
     },
     {
-      "row": 46,
+      "row": 45,
       "date": "2026-07-15",
       "sum": 25187.8,
       "currency": "EUR",
@@ -920,7 +921,7 @@
       "client": "25 187,80 EUR → 28 781/(1-0,35%)+100 = 28 982 USDT"
     },
     {
-      "row": 47,
+      "row": 46,
       "date": "2026-07-15",
       "sum": null,
       "currency": null,
@@ -940,7 +941,7 @@
       "client": null
     },
     {
-      "row": 48,
+      "row": 47,
       "date": "2026-07-15",
       "sum": null,
       "currency": null,
@@ -960,7 +961,7 @@
       "client": null
     },
     {
-      "row": 49,
+      "row": 48,
       "date": "2026-07-15",
       "sum": 27757.94,
       "currency": "EUR",
@@ -980,7 +981,7 @@
       "client": "27 757,94 EUR → 31 716/(1-0,35%)+100 = 31 927 USDT"
     },
     {
-      "row": 50,
+      "row": 49,
       "date": "2026-07-16",
       "sum": 38820.68,
       "currency": "EUR",
@@ -1000,7 +1001,7 @@
       "client": "38,820.68 EUR × rate + 0.3% + 30 = ? USDT (жди курс)"
     },
     {
-      "row": 51,
+      "row": 50,
       "date": "2026-07-16",
       "sum": 27118.22,
       "currency": "USD",
@@ -1020,7 +1021,7 @@
       "client": null
     },
     {
-      "row": 52,
+      "row": 51,
       "date": "2026-07-17",
       "sum": 27731.95,
       "currency": "EUR",
@@ -1040,7 +1041,7 @@
       "client": null
     },
     {
-      "row": 53,
+      "row": 52,
       "date": "2026-07-17",
       "sum": 26204.95,
       "currency": "EUR",
@@ -1060,7 +1061,7 @@
       "client": null
     },
     {
-      "row": 54,
+      "row": 53,
       "date": "2026-07-17",
       "sum": 98880,
       "currency": "EUR",
@@ -1080,7 +1081,7 @@
       "client": null
     },
     {
-      "row": 55,
+      "row": 54,
       "date": "2026-07-17",
       "sum": 6790,
       "currency": "USD",
@@ -1100,7 +1101,7 @@
       "client": null
     },
     {
-      "row": 56,
+      "row": 55,
       "date": "2026-07-17",
       "sum": 41670.89,
       "currency": "USD",
@@ -1120,7 +1121,7 @@
       "client": null
     },
     {
-      "row": 57,
+      "row": 56,
       "date": "2026-07-17",
       "sum": null,
       "currency": null,
@@ -1139,7 +1140,7 @@
       "notes": "ПП №25 от 17.07.2026. Блэкшарк ПОЧТО→Аль Сафи, 1,899,350.70₽, перевод собственных средств FININVEST-БШ-Цветы."
     },
     {
-      "row": 58,
+      "row": 57,
       "date": "2026-07-20",
       "sum": 17947.14,
       "currency": "EUR",
@@ -1158,7 +1159,7 @@
       "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) -> OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6% | Updated TR №30: курс 90.21, RUB 1,619,011.49, комиссия 1.6% (25,904.18). | TR №30 v3: курс 89.70, RUB 1,609,858.45, комиссия 1.6% (25,757.73). | Выписка ЭТБ 20.07: ПП№2523 1,609,858.45₽ + ПП№2524 25,757.73₽ (агентское 1.6%) = rubles_received 1,635,616.18₽ | Кросс-курс EUR/USD: 1.1430 (17,947 EUR = 20,513.95 USD) | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading → MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED 🟡 | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading -> MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED | RASCHEt: EUR->USD=1.1430, USDT=20 686, RUB=1 629 905,11 | VDX uvadomlenie 20.07: Blakshark->VDX 1,625,786.60 RUB, mebel, zayavka 618 (korrektsiya PP167) | PP No168 20.07: Blakshark ETB->VDX 1,625,786.60 RUB, zayavka 618, mebel. ISPOLNENO"
     },
     {
-      "row": 59,
+      "row": 58,
       "date": "2026-07-20",
       "sum": 27933.58,
       "currency": "USD",
@@ -1177,7 +1178,7 @@
       "notes": "Поручение №18 от 20.07.2026. Принципал: ООО «Логолок». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Гонконг). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы: PI0082KATE2641 (.00), 2645 (,000.00), 2648 (,516.72), 2649, 2650 (,115.68), 2652 (.33), 2652-ZDECL (,963.99), 2654 (,581.66), 2655-XIAMEN (.51), 2656 (,855.76), 2657 (.00), 2658 (,148.00), 2661 (.00), 2662, 2663-Shineland (,253.73), 2664. Итого: ,933.58. Курс 78.81. RUB 2,201,445.44. Комиссия 1.6%+100 USD. | ПП №195 от 20.07: 2,201,445.44₽ — тело, VO11100, исполнено. ПП №196: 43,104.13₽ — комиссия 1.6%+100 USD, VO21100. | VDX уведомление: Блэкшарк ПОЧТО→VDX 2,244,549.57₽, комплектующие, заявка 616 | PP No417 20.07: Blakshark->VDX 2,244,549.57 RUB, zayavka 616, komplektuyushie, ISPOLNENO. | 21.07: добавлены PIs: 2641, 2645, 2648, 2650, 2652, 2652-ZDECL, 2654, 2655-XIAMEN, 2656, 2657, 2658, 2661, 2663-Shineland. | BONBILL 22.07 14:34: Q8->ZHUZHOU UTRON INDUSTRIAL CO. (CCB), ,933.58, PI0082KATE2641+ др. Товары (ElParts). TX O2079817437611687936133. EXECUTED 🟢"
     },
     {
-      "row": 60,
+      "row": 59,
       "date": "2026-07-20",
       "sum": null,
       "currency": null,
@@ -1196,7 +1197,7 @@
       "notes": "ПП №26 от 20.07.2026. АО «ФИНИНВЕСТ» → ОсОО «Блэкшарк Трейд». 3,813,717.33₽. VO60081. Оплата по Агентскому Договору. | Блэкшарк→Аль Сафи 3,813,717.33₽ 20.07.2026. Перевод собственных средств. | Ещё приход от ФИНИНВЕСТ 1,063,428.46₽ (сч.620 по аг.дог.) 20.07.2026. VO60081. | Блэкшарк ПОЧТО→Аль Сафи 1,063,428.46₽, перевод собственных средств FININVEST-БШ-Цветы. 21.07.2026."
     },
     {
-      "row": 61,
+      "row": 60,
       "date": "2026-07-21",
       "sum": 32996.3,
       "currency": "EUR",
@@ -1215,7 +1216,7 @@
       "notes": "Поручение №1 от 20.07.2026. ООО «Термодизайн» -> Блэкшарк Трейд. Получатель: Rus-All sp. z o.o (Польша). PKO BP, BPKOPLPW. IBAN PL94102035700000270200795740. Предоплата за смесители для ванны, проформа Prof32/2026, контракт 22/2026. | VDX 21.07: 2,990,571.06₽, заявка 622, смесители для ванны. | INV PROF32/2026 от 16.07.26. Rus-All sp. z o.o. (Польша) → Термодизайн. Kludi bathroom fixtures 32,996.30 EUR. OMNEX оплатил 21.07.2026. PKO BP (BPKOPLPW), сч.PL17102035700000280200878751. | OMNEX MT35 21.07: INITIATED. SEPA to Rus-All sp. z o.o. 32,996.30 EUR. INV PROF32/2026. TX: MT35CFTE28004000000000005036930. | BobrAlert 21.07 20:00 MSK: OUT 37,925.389 USDT → TVAE1EpBwT2oVZSxwtniLGxZ3QpXL5DA1B (TronScan TX: b7d55c8b265a4ebae1c3aa50f9380767a29b4599c9f6b3ea588910ce76df4e32). | INV PROF32/2026, Rus-All sp. z o.o. (Poland). Kludi смесители/душ. Payment from OMNEX 21.07"
     },
     {
-      "row": 62,
+      "row": 61,
       "date": "2026-07-21",
       "sum": 4000,
       "currency": "EUR",
@@ -1234,7 +1235,7 @@
       "notes": "Поручение №1 от 20.07.2026. Принципал: ООО Евроимпорт Запад (Мальцев Е.О.). Получатель: VIKKO-GRUPP OÜ (Эстония, Coop Pank EKRDEE22, EE164204278627413808). Сумма: 4,000 EUR. Курс 89.92 RUB/EUR = 359,680 RUB. Комиссия агента 1.85%+100USD = 14,518.08 RUB. Транспортные услуги FCA Польща→Rotterdam NL. | VDX уведомление: Блэкшарк ЭНЕРГОТРАНС→VDX 369,939.75₽, Автомобильное экспедирование, заявка 624 | VDX 22.07: Payment from TRANSPATH → VIKKO-GRUPP OU (Estonia), 4,000 EUR, INV 521 dd 11.05.26. Coop Pank EKRDEE22. СТАТУС: ордер на оплату | Банк: ЭТБ→VDX 22.07. Поручение_2/2, Евроимпорт Запад. Вход 22.07. | WISE rate 22.07: €4,000 = ,561.98 @ 1.14049729. | WISE cross-rate EUR/USD = 1.14049729 (€4,000 = 4,561.98). VDX/WISE mid-market 11:25 UTC 22.07."
     },
     {
-      "row": 63,
+      "row": 62,
       "date": "2026-07-21",
       "sum": null,
       "currency": null,
@@ -1280,7 +1281,7 @@
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "Поручение №72534 от 22.07.2026. Принципал: ООО ВТС. Получатель: Itrix Co., Ltd (Таиланд). Siam Commercial Bank. Инвойс 72534 от 03.07.2026. Агент: БиТрейд Кей Джи (договор 27062025TК/1)",
-      "row": 64,
+      "row": 63,
       "rubles_received": "1681485.84 / 33102.29",
       "notes": " | VDX 22.07: 1,714,588.13 RUB na VDX, zapchasti, zayavka 77",
       "sent_rubles_vdx": "1714588.13",
@@ -1300,7 +1301,7 @@
       "rubles_received": "701282.57 / 20854.72",
       "sent_rubles_vdx": 714682.8,
       "exchange_to": "VDX",
-      "row": 65
+      "row": 64
     },
     {
       "date": "2026-07-22",
@@ -1312,13 +1313,13 @@
       "costFormula": null,
       "extra": "ВТС",
       "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% предоплата от ,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX инвойс №72694 за услуги: ,092 × 78.80 = 86,049.60₽. | VDX 22.07: 6,232,449.60 RUB na VDX, za oborudovanie, zayavka 78",
-      "row": 66,
+      "row": 65,
       "rubles_received": "6146400.00 / 86049.60",
       "sent_rubles_vdx": "6232449.60",
       "exchange_to": "VDX"
     },
     {
-      "row": 67,
+      "row": 66,
       "date": "2026-07-22",
       "sum": 6553.7,
       "currency": "USD",
@@ -1357,7 +1358,7 @@
       "hidden": true
     },
     {
-      "row": 68,
+      "row": 67,
       "date": "2026-07-22",
       "sum": null,
       "currency": null,
