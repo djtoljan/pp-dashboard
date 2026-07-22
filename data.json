@@ -1359,14 +1359,14 @@
       "color": null,
       "clientName": null,
       "costFormula": null,
-      "extra": null,
+      "extra": "VTS",
       "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": "1714588.13",
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "VDX uvedomlenie 22.07.2026: S BiTreid na VDX, 1,714,588.13 RUB, zapchasti, zayavka 77. O:\\\\...\\\\BTS\\\\vhod 22.07.26",
       "calc": null
     }
   ]
