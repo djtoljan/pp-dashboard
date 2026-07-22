@@ -1279,14 +1279,14 @@
       "clientName": "Gulf Flowers (Цветы)",
       "costFormula": "135,814.98 + 0.3% + 30 = 136,252.42 USDT",
       "extra": "Gulf Flowers (Цветы)",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "rubles_received": null,
       "sent_rubles_vdx": null,
       "vdx_rate": null,
       "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": 136252.42,
-      "notes": "Заявка от 21.07.2026. Gulf Flowers FZCO (Dubai). Контракт GF-Q8G/2026/05/21 от 21.05.2026. Cut flowers. Банк: Emirates NBD (EBILAEAD), сч.AE300260000515395226402. Директор: Tsepov Alexander. Рег.№1713, VAT 1000472048600003."
+      "notes": "Заявка от 21.07.2026. Gulf Flowers FZCO (Dubai). Контракт GF-Q8G/2026/05/21 от 21.05.2026. Cut flowers. Банк: Emirates NBD (EBILAEAD), сч.AE300260000515395226402. Директор: Tsepov Alexander. Рег.№1713, VAT 1000472048600003. | BONBILL 22.07 16:52: Q8->Gulf Flowers FZCO (EMIRATES NBD BANK), ,814.98, INV 2106Q8GD, Contract GFQ8G20260521. TX O2079852082231377920769. EXECUTED 🟢"
     },
     {
       "date": "2026-07-21",
@@ -1332,7 +1332,7 @@
       "sum": 15000,
       "currency": "USD",
       "calc": null,
-      "company": null,
+      "company": "Q8",
       "clientName": null,
       "costFormula": null,
       "extra": "ALIANZA LOGISTICS (Цветы)",
@@ -1342,8 +1342,8 @@
       "vdx_rate": null,
       "received_usdt": 15190,
       "sent_usdt": 15075,
-      "notes": "Q8 Цветы — ALIANZA LOGISTIKA TDGE S.A. (инвойс INV-6041)",
-      "color": "FFFFFFFF"
+      "notes": "Q8 Цветы — ALIANZA LOGISTIKA TDGE S.A. (инвойс INV-6041) | BONBILL 22.07 14:58: Q8->ALIANZA LOGISTIKA TDGE S.A. (PRODUBANCO), ,000, INV NV60412, Shipment. TX O2079823377002004480737. EXECUTED 🟢",
+      "color": "FF92D050"
     },
     {
       "row": 74,
@@ -1370,7 +1370,7 @@
       "sum": 20000,
       "currency": "USD",
       "calc": null,
-      "company": null,
+      "company": "Q8",
       "clientName": null,
       "costFormula": null,
       "extra": "EBF CARGO (Цветы)",
@@ -1380,8 +1380,8 @@
       "vdx_rate": null,
       "received_usdt": 20220,
       "sent_usdt": 20090,
-      "notes": "Q8 Цветы — EBF CARGO CIA LTDA",
-      "color": "FFFFFFFF"
+      "notes": "Q8 Цветы — EBF CARGO CIA LTDA | BONBILL 22.07 15:02: Q8->EBF CARGO CIA LTDA (PRODUBANCO), ,000, INV 6623, Air Transportation. TX O2079824497757782016348. EXECUTED 🟢",
+      "color": "FF92D050"
     },
     {
       "row": 76,
