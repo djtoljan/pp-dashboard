@@ -1352,10 +1352,11 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Выписка ПОЧТОБАНК 22.07.2026: приход от ООО КОНТУР СПБ 2,334,201.60₽.",
-      "calc": null
+      "calc": null,
+      "hidden": true
     },
     {
-      "row": 70,
+      "row": 69,
       "date": "2026-07-22",
       "sum": null,
       "currency": null,
@@ -1372,6 +1373,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Выписка ПОЧТОБАНК 22.07.2026: приход от ООО КОНТУР СПБ 2,334,201.60₽. Инвойс MEANNA2601 от 21/07/2026. Поруч.1 от 22.07.2026, аг.дог.210726-B от 21.07.2026. НДС не облагается."
+    },
+    {
+      "row": 70,
+      "date": "2026-07-22",
+      "sum": null,
+      "currency": "ВТС",
+      "company": null,
+      "color": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
