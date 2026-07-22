@@ -1453,6 +1453,25 @@
       "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 79,
+      "date": "2026-07-22",
+      "sum": 30000,
+      "currency": "USD",
+      "calc": "Proforma 2026-066 ot 22.07.2026",
+      "company": "Q8",
+      "costFormula": "30,000 + 0.3% + 30 = 30,120 USDT",
+      "clientName": "Dolina Agro (Цветы)",
+      "color": "FFFFFFFF",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 30120,
+      "notes": "Proforma 2026-066 ot 22.07.2026. Dolina Agro Ltd (Israel) -> Q8 Group Ltd (Hong Kong). 30,000 USD, CIF Amsterdam.",
+      "extra": null
     }
   ]
 }
