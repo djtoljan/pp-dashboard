@@ -616,24 +616,6 @@
       "calc": null,
       "company": null,
       "client": null,
-      "extra": "Цветы ALMENO заяв.37 (FININVEST→Блэкшарк→ALMENO)",
-      "rubles_received": "2857779.40",
-      "sent_rubles_vdx": "2857779.40",
-      "exchange_to": "Almeno",
-      "vdx_rate": "76.35",
-      "received_usdt": "37429.98",
-      "sent_usdt": null,
-      "notes": "Через FININVEST. Блэкшарк → ALMENO",
-      "color": "FF4FC3F7"
-    },
-    {
-      "row": 35,
-      "date": "2026-07-08",
-      "sum": null,
-      "currency": null,
-      "calc": null,
-      "company": null,
-      "client": null,
       "extra": "Ароматный Путь (Цветы)",
       "rubles_received": null,
       "sent_rubles_vdx": "6400000",
@@ -645,7 +627,7 @@
       "color": "FF4FC3F7"
     },
     {
-      "row": 36,
+      "row": 35,
       "date": "2026-07-09",
       "sum": 99300,
       "currency": "EUR",
@@ -663,7 +645,7 @@
       "color": "FF92D050"
     },
     {
-      "row": 37,
+      "row": 36,
       "date": "2026-07-09",
       "sum": 115557,
       "currency": "EUR",
@@ -681,7 +663,7 @@
       "color": "FF92D050"
     },
     {
-      "row": 38,
+      "row": 37,
       "date": "2026-07-10",
       "sum": 15000,
       "currency": "USD",
@@ -700,7 +682,7 @@
       "costFormula": "15000 + 0.3% + 30 = 15075 USDT"
     },
     {
-      "row": 39,
+      "row": 38,
       "date": "2026-07-10",
       "sum": 64927.52,
       "currency": "USD",
@@ -719,7 +701,7 @@
       "costFormula": "64,927.52 + 0.3% + 30 = 65,152.30 USDT"
     },
     {
-      "row": 40,
+      "row": 39,
       "date": "2026-07-10",
       "sum": null,
       "currency": null,
@@ -738,7 +720,7 @@
       "clientName": "Церера (Цветы)"
     },
     {
-      "row": 41,
+      "row": 40,
       "date": "2026-07-10",
       "sum": null,
       "currency": null,
@@ -757,7 +739,7 @@
       "clientName": "ГлобалЦвет (Цветы)"
     },
     {
-      "row": 42,
+      "row": 41,
       "date": "2026-07-10",
       "sum": null,
       "currency": null,
@@ -776,7 +758,7 @@
       "clientName": "Ароматный Путь (Цветы)"
     },
     {
-      "row": 43,
+      "row": 42,
       "date": "2026-07-13",
       "sum": 35000,
       "currency": "USD",
@@ -795,7 +777,7 @@
       "costFormula": "35000 + 0.3% + 30 = 35135 USDT"
     },
     {
-      "row": 44,
+      "row": 43,
       "date": "2026-07-13",
       "sum": 40000,
       "currency": "USD",
@@ -814,7 +796,7 @@
       "costFormula": "40000 + 0.3% + 30 = 40150 USDT"
     },
     {
-      "row": 45,
+      "row": 44,
       "date": "2026-07-13",
       "sum": 40000,
       "currency": "USD",
@@ -833,7 +815,7 @@
       "costFormula": "40000 + 0.3% + 30 = 40150 USDT"
     },
     {
-      "row": 46,
+      "row": 45,
       "date": "2026-07-13",
       "sum": null,
       "currency": null,
@@ -851,7 +833,7 @@
       "color": "FF4FC3F7"
     },
     {
-      "row": 47,
+      "row": 46,
       "date": "2026-07-14",
       "sum": 48400,
       "currency": "USD",
@@ -870,7 +852,7 @@
       "notes": " | BONBILL O2077270455613521920526 15.07.2026: Q8→Novpec S.A., 48,400 USD, EXECUTED"
     },
     {
-      "row": 48,
+      "row": 47,
       "date": "2026-07-15",
       "sum": null,
       "currency": null,
@@ -890,7 +872,7 @@
       "received_usdt": 211434.87
     },
     {
-      "row": 49,
+      "row": 48,
       "date": "2026-07-15",
       "sum": null,
       "currency": null,
@@ -909,7 +891,7 @@
       "costFormula": null
     },
     {
-      "row": 50,
+      "row": 49,
       "date": "2026-07-15",
       "sum": null,
       "currency": null,
@@ -928,7 +910,7 @@
       "calc": null
     },
     {
-      "row": 51,
+      "row": 50,
       "date": "2026-07-15",
       "sum": 87000,
       "currency": "USD",
@@ -947,7 +929,7 @@
       "notes": "Commercial Master Invoice 4396 от 11.07.2026. PACIFIC AIR CARGO SA (Эквадор) → Q8 Group Limited (HK). Розы, авиаперевозка. PRODUBANCO PRODECEQ, акк 2005229691. | BONBILL 16.07 13:17: Q8→PACIFIC AIR CARGO, 87,000 USD, PRODUBANCO, TX O2077623691717509120996. EXECUTED 🟢"
     },
     {
-      "row": 52,
+      "row": 51,
       "date": "2026-07-15",
       "sum": 91193.12,
       "currency": "EUR",
@@ -961,7 +943,7 @@
       "sent_usdt": 105032
     },
     {
-      "row": 53,
+      "row": 52,
       "date": "2026-07-16",
       "sum": 29985,
       "currency": "USD",
@@ -997,7 +979,7 @@
       "sent_usdt": null,
       "notes": "Вознаграждение (45,199.64) + оплата (1,807,985.80) по Агент. Договору WD-27, пор.36 от 16.07.2026. ПП на Блэкшарк ПОЧТО. | 17.07: Блэкшарк ПОЧТО→VDIKS 1,853,185.44₽, заявка 612 (Церера) | Почта Банк выписка 17.07 (от Евы): подтверждено поступление на счёт Блэкшарк Трейд",
       "color": "FF4FC3F7",
-      "row": 54
+      "row": 53
     },
     {
       "date": "2026-07-16",
@@ -1016,7 +998,7 @@
       "sent_usdt": null,
       "notes": "Вознаграждение (168,776.53) + оплата (6,751,061.22) по Агент. Договору WD-25, пор.87 от 16.07.2026. ПП на Блэкшарк ПОЧТО. | 17.07: Блэкшарк ПОЧТО→VDIKS 6,919,837.75₽, заявка 613 (Ароматный Путь) | Марина: Блэкшарк ПОЧТО→VDIKS 6,919,837.75₽, цветы, заявка 613 | вход 16.07.26 | Почта Банк выписка 17.07 (от Евы): подтверждено поступление на счёт Блэкшарк Трейд",
       "color": "FF4FC3F7",
-      "row": 55
+      "row": 54
     },
     {
       "date": "2026-07-16",
@@ -1035,10 +1017,10 @@
       "sent_usdt": null,
       "notes": "Вознаграждение (173,574.83) + оплата (6,942,993.20) по Агент. Договору WD-26, пор.90 от 16.07.2026. ПП на Блэкшарк ПОЧТО. | 17.07: Блэкшарк ПОЧТО→VDIKS 7,116,568.03₽, заявка 611 (ГлобалЦвет) | Марина: Блэкшарк ПОЧТО→VDIKS 7,116,568.03₽, цветы, заявка 611 | вход 16.07.26 | Почта Банк выписка 17.07 (от Евы): подтверждено поступление на счёт Блэкшарк Трейд",
       "color": "FF4FC3F7",
-      "row": 56
+      "row": 55
     },
     {
-      "row": 57,
+      "row": 56,
       "date": "2026-07-17",
       "sum": 10000,
       "currency": "USD",
@@ -1057,7 +1039,7 @@
       "notes": "Payment Order от 17.07.2026. Novpec S.A., 10,000 USD. Banco Guayaquil SWIFT GUAYECEGXXX. Intermediary: Wells Fargo PNBPUS3NNYC. Director: Alex Hernandez. | BONBILL 17.07 14:54: Q8→Novpec S.A., 10,000 USD, Banco Guayaquil, TX O2078010497327824896112. EXECUTED 🟢"
     },
     {
-      "row": 58,
+      "row": 57,
       "date": "2026-07-17",
       "sum": 10000,
       "currency": "USD",
@@ -1076,7 +1058,7 @@
       "notes": "Заявка от 17.07.2026. Инвойс INCOFLORES №20230711069 от 12.07.2026. Q8 Group Ltd → Incoflores. Cut flowers, 10,000 USD. PRODUBANCO (PRODECEQ), счёт 02186004830. Адрес: Juan Montalvo S/N, C.73, Quito, Ecuador. Контакт: Anna Vorobyeva. RUC 1721722290001 | BONBILL 17.07 12:57: Q8→Incoflores, 10,000 USD, PRODUBANCO, TX O2077981078873833472896. EXECUTED 🟢"
     },
     {
-      "row": 59,
+      "row": 58,
       "date": "2026-07-17",
       "sum": 21200,
       "currency": "USD",
@@ -1095,7 +1077,7 @@
       "notes": "Проформа 202607-080718 от 02.07.2026. Collie Enterprises → Q8 Group Ltd. Розы ассорти (Baraka, PJ Dave, Redlands), 27,800 stems, 71 boxes. Банк: I&M BANK LTD (IMBLKENA), acc 00808423531250. 2 Payment Orders объединены в 1 платёж (10,000 + 11,200 = 21,200 USD). | BONBILL 17.07 17:15: Q8→COLLIE ENTERPRISES, 21,200 USD, Co-operative Bank Kenya, TX O2078045931693015040766. EXECUTED 🟢"
     },
     {
-      "row": 60,
+      "row": 59,
       "date": "2026-07-17",
       "sum": 10000,
       "currency": "USD",
@@ -1114,7 +1096,7 @@
       "notes": "Проформа DSV Air & Sea SAS от 16.06.2026. Q8 Group Ltd. Авиафрахт цветы (Колумбия), 2,500kg @ .40 = ,000. Частичная оплата 10,000 USD. Citibank N.A. (CITIUS33), acc 30616439. Vat: NIT 900.618.834-4. | BONBILL 17.07 17:17: Q8→DSV Air & Sea SAS, 10,000 USD, Citibank, TX O2078046379715985408710. EXECUTED 🟢"
     },
     {
-      "row": 61,
+      "row": 60,
       "date": "2026-07-17",
       "sum": 56700,
       "currency": "USD",
@@ -1133,7 +1115,7 @@
       "notes": "Инвойс FL01/160726 от 16.07.2026. ModestoGroup OU (Эстония) → Q8 Group Ltd. Кенийские розы 80,000 stems (,600) + авиалогистика (,100). Банк: Revolut (REVOLT21), LT58 3250 0864 4700 1395. | BONBILL 17.07 17:20: Q8→Modestogroup OU, 56,700 USD, Revolut, TX O2078047296360153088213. EXECUTED 🟢"
     },
     {
-      "row": 62,
+      "row": 61,
       "date": "2026-07-19",
       "sum": 20000,
       "currency": "USD",
@@ -1153,7 +1135,7 @@
       "notes": "Проформа от 29.06.2026. IFC SAS LLC (Колумбия/Гонконг) → Q8 Group Limited. Авиафрахт, AWB 369-9612 1642, 6232 кг."
     },
     {
-      "row": 63,
+      "row": 62,
       "date": "2026-07-19",
       "sum": 118694.83,
       "currency": "USD",
@@ -1173,7 +1155,7 @@
       "notes": "Инвойс INV-1040 от 19.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Эквадор) → Q8 Group Limited. Авиафрахт цветов, 37 мест, 909 кг. PRODUBANCO PRODECEQ, счёт 02005144694."
     },
     {
-      "row": 64,
+      "row": 63,
       "date": "2026-07-20",
       "sum": 22903.15,
       "currency": "EUR",
@@ -1192,7 +1174,7 @@
       "notes": "Инвойс BL-P01/200726 от 20.07.2026. Bloom Market EOOD (Болгария) → Q8 Group Limited. ROSA 35,000шт + логистика 7,153.15€. Болгарско-Американский Банк, BGUSBGSF. | BONBILL Q8 20.07 17:20: Q8->Bloom Market €22903.15, Bulg-American Credit Bank, inv BLP01200726."
     },
     {
-      "row": 65,
+      "row": 64,
       "date": "2026-07-20",
       "sum": 20000,
       "currency": "USD",
@@ -1213,7 +1195,7 @@
       "color": "FF92D050"
     },
     {
-      "row": 66,
+      "row": 65,
       "date": "2026-07-20",
       "sum": null,
       "currency": null,
@@ -1232,7 +1214,7 @@
       "notes": "PP No739 7,843,720.16 RUB + PP No740 196,093.00 RUB (voznagrazhdenie). Po agent.dog. WD-26, por.91 ot 20.07.2026. Iz vyipiski POCHTOBANK. | Блэкшарк ПОЧТО→ВИДИИКС (VDX), 8,039,813.16₽, заявка 621, ГлобалЦвет (Цветы)"
     },
     {
-      "row": 67,
+      "row": 66,
       "date": "2026-07-20",
       "sum": null,
       "currency": null,
@@ -1251,7 +1233,7 @@
       "notes": "Блэкшарк ПОЧТО→ВИДИИКС (VDX), 6,525,354.43₽, заявка 619, Ароматный Путь (Цветы). Приход: Ароматный Путь (WD-25 пор.88): вознаграждение 159,154.99 + оплата 6,366,199.44"
     },
     {
-      "row": 68,
+      "row": 67,
       "date": "2026-07-20",
       "sum": null,
       "currency": null,
@@ -1270,7 +1252,7 @@
       "notes": "Приход на Блэкшарк: Церера (WD-27 пор.37): вознаграждение 64,373.54 + оплата 2,574,941.80 | Блэкшарк ПОЧТО→ВИДИИКС (VDX), 2,639,315.34₽, заявка 620, Церера (Цветы)"
     },
     {
-      "row": 69,
+      "row": 68,
       "date": "2026-07-21",
       "sum": 30000,
       "currency": "EUR",
@@ -1289,7 +1271,7 @@
       "costFormula": "30,000 EUR × 1.14180240 = 34,254.07 + 0.7% = 34,493.85 + 100 = 34,593.85 USDT"
     },
     {
-      "row": 70,
+      "row": 69,
       "date": "2026-07-21",
       "sum": 135814.98,
       "currency": "USD",
@@ -1324,7 +1306,7 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Приход на Блэкшарк ПОЧТО: ПП №507 оплата 2,021,388.20₽ + ПП №508 вознаграждение 50,534.70₽ по WD-25 пор.89 от 21.07.2026. Выписка ПОЧТОБАНК 21.07. | VDX 21.07: 2,071,922.90₽, заявка 625, цветы (Ароматный Путь). Блэкшарк ПОЧТО→ВИДИИКС.",
-      "row": 71
+      "row": 70
     },
     {
       "date": "2026-07-21",
@@ -1343,10 +1325,10 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Приход на Блэкшарк ПОЧТО: ПП №741 оплата 14,122,525.34₽ + ПП №742 вознаграждение 353,063.13₽ по WD-26 пор.92 от 21.07.2026. Выписка ПОЧТОБАНК 21.07. | VDX 21.07: 14,475,588.47₽, заявка 626, цветы (ГлобалЦвет). Блэкшарк ПОЧТО→ВИДИИКС.",
-      "row": 72
+      "row": 71
     },
     {
-      "row": 73,
+      "row": 72,
       "date": "2026-07-22",
       "sum": 15000,
       "currency": "USD",
@@ -1365,7 +1347,7 @@
       "color": "FF92D050"
     },
     {
-      "row": 74,
+      "row": 73,
       "date": "2026-07-22",
       "sum": 20000,
       "currency": "USD",
@@ -1384,7 +1366,7 @@
       "color": "FF92D050"
     },
     {
-      "row": 75,
+      "row": 74,
       "date": "2026-07-22",
       "sum": 20000,
       "currency": "USD",
@@ -1403,7 +1385,7 @@
       "color": "FF92D050"
     },
     {
-      "row": 76,
+      "row": 75,
       "date": "2026-07-22",
       "sum": 61602.04,
       "currency": "EUR",
