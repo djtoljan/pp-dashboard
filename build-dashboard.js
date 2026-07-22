@@ -68,6 +68,7 @@ function build() {
   const waitGreen = []; // 🟡 ждёт зелёнку
   const waitPP = []; // 🔴 ждёт ПП (есть компания+расчёт)
   const waitApp = []; // ⚪ без заявки/компании
+  const waitVdx = []; // 🔵 рубли пришли, на VDX не отправлены
 
   const dailyCount = {};
   const companyDealCount = {}; // for pie chart
@@ -131,6 +132,11 @@ function build() {
       if (dt === td) { todayRows.push(entry); continue; }
       if (!dt) continue;
 
+      // 🔵 Rubly prishli, no ne otpravleny na VDX
+      if (r.rubles_received && !r.sent_rubles_vdx && (col === 'blue' || col === 'red')) {
+        waitVdx.push(entry);
+      }
+
       // Pending past days — only non-green, non-blue
       if (col === 'green' || col === 'blue') continue;
 
@@ -148,18 +154,20 @@ function build() {
   waitGreen.sort(sortD);
   waitPP.sort(sortD);
   waitApp.sort(sortD);
+  waitVdx.sort(sortD);
 
   return {
     stats: { total, green, yellow, blue, white, red, today: todayRows.length,
       pending: waitGreen.length + waitPP.length + waitApp.length,
+      vdxWait: waitVdx.length,
       usdtSent: Math.round(totalUsdtSent), usdtRecv: Math.round(totalUsdtRecv),
       rubRecv: Math.round(totalRubRecv) },
-    todayRows, waitGreen, waitPP, waitApp, dailyCount, companyDealCount
+    todayRows, waitGreen, waitPP, waitApp, waitVdx, dailyCount, companyDealCount
   };
 }
 
 function render(d) {
-  const { stats, todayRows, waitGreen, waitPP, waitApp, dailyCount, companyDealCount } = d;
+  const { stats, todayRows, waitGreen, waitPP, waitApp, waitVdx, dailyCount, companyDealCount } = d;
   const N = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
 
   const CSS = `*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -203,6 +211,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
   <div class="card card-yellow"><div class="lbl">🟡 Подвешено</div><div class="val">${waitGreen.length}</div></div>
   <div class="card card-red"><div class="lbl">🔴 В работе</div><div class="val">${waitPP.length}</div></div>
   <div class="card card-blue"><div class="lbl">⚪ Без заявки</div><div class="val">${waitApp.length}</div></div>
+  <div class="card card-blue"><div class="lbl" style="color:#4FC3F7;">🔵 Не на VDX</div><div class="val" style="color:#4FC3F7;">${stats.vdxWait}</div></div>
 </div>`;
 
   // ===== TODAY SECTION =====
@@ -221,6 +230,23 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
         <td class="sm">${esc(r.company||'-')}</td>
         <td class="n">${r.rubles ? N(String(r.rubles).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0)) : '-'}</td>
         <td class="n">${r.sentVdx ? N(String(r.sentVdx).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0)) : '-'}</td>
+      </tr>`;
+    }
+    h += `</tbody></table>`;
+  }
+
+  // ===== 🔵 RUBLES — NOT SENT TO VDX =====
+  if (waitVdx.length > 0) {
+    h += `<h2><span class="section-label">🔵</span> Рубли на VDX не отправлены <span>${waitVdx.length}</span></h2>`;
+    h += `<table><thead><tr><th></th><th>Дата</th><th>Клиент</th><th>Группа</th><th>Пришло ₽</th></tr></thead><tbody>`;
+    for (const r of waitVdx) {
+      const rubTotal = r.rubles ? String(r.rubles).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0) : 0;
+      h += `<tr>
+        <td class="ta"><div class="emoji-lg">🔵</div></td>
+        <td>${fmtDate(esc(r.date))}</td>
+        <td>${esc(r.client||'-')}</td>
+        <td class="sm">${r.group}</td>
+        <td class="n">${rubTotal > 0 ? N(Math.round(rubTotal)) : '-'}</td>
       </tr>`;
     }
     h += `</tbody></table>`;
