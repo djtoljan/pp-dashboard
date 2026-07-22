@@ -219,8 +219,8 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
         <td class="sm">${esc(r.company||'-')}</td>
-        <td class="n">${r.rubles ? N(r.rubles.split('/')[0]) : '-'}</td>
-        <td class="n">${r.sentVdx ? N(r.sentVdx) : '-'}</td>
+        <td class="n">${r.rubles ? N(String(r.rubles).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0)) : '-'}</td>
+        <td class="n">${r.sentVdx ? N(String(r.sentVdx).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0)) : '-'}</td>
       </tr>`;
     }
     h += `</tbody></table>`;
