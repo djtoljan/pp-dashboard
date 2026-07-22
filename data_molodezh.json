@@ -715,7 +715,7 @@
       "sent_rubles_vdx": "1349794.37",
       "vdx_rate": "78.635",
       "exchange_to": "VDX",
-      "received_usdt": 17437.16,
+      "received_usdt": 16993.66,
       "sent_usdt": 16928.544,
       "notes": "ПП №533 от 20.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Частичная оплата по инвойсу DVS-014-260630-0391640 от 17.07.2026, договор NZDLWL120525-A-USD (HS code 8206000000), курс 80,1160 | Proforma 260630-0391640 от 30.06.2026. Shenzhen MRCSS Electronic Co., Ltd. → Q8 GROUP LIMITED. DELTA DC/DC Converter, 162 шт x 104 USD = 16,848 USD. CITIBANK HK, CITIHKHX, a/c 3974000037801 | PO получен: Shenzhen MRCSS, CITIHKHX, a/c 3974000037801, 16,848 USD"
     },
@@ -734,7 +734,7 @@
       "sent_rubles_vdx": "166330.74",
       "vdx_rate": "78.635",
       "exchange_to": "VDX",
-      "received_usdt": 2168.26,
+      "received_usdt": 2113.11,
       "sent_usdt": null,
       "notes": "ПП №532 от 20.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Оплата по инв. ISP-002-260515, ISP-003-260709, ISP-004-260717 за экспедирование, договор NZDLWL120525-A-USD, курс 79,9667"
     },
@@ -809,7 +809,7 @@
       "sent_rubles_vdx": 68786.82,
       "vdx_rate": "78.635",
       "exchange_to": "VDX",
-      "received_usdt": null,
+      "received_usdt": 873.89,
       "sent_usdt": null,
       "notes": "ПП №535 от 21.07.2026. ООО ВИЛОГ → VDX. Частичная оплата за товар по инвойсу DVS-015-ED260721KA015 от 21.07.2026, дог. NZDLWL120525-A-USD. Курс 82.2317. Сумма 68,786.82₽. ИСПОЛНЕНО.",
       "row": 44
