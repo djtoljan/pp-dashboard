@@ -1276,25 +1276,6 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "БиТрейд→VDX, 529 342,35 ₽, электронные компоненты, заявка 79"
-    },
-    {
-      "row": 66,
-      "date": "2026-07-22",
-      "sum": 15000,
-      "currency": "EUR",
-      "company": "TRANSPATH",
-      "color": "FFFFFFFF",
-      "clientName": "Константин (Просто группа)",
-      "costFormula": "UAB Eurokusta → Transpath Logistic Limited. EUPA nr.8199 от 2026-07-23. CVED госпошлина (ветеринарные услуги). SEB bankas, LT357044060005218553",
-      "extra": null,
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null
     }
   ]
 }
