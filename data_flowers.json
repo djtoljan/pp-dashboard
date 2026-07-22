@@ -1462,7 +1462,7 @@
       "date": "2026-07-22",
       "sum": 30000,
       "currency": "USD",
-      "calc": "Proforma 2026-066 ot 22.07.2026",
+      "calc": "ТЕЗ",
       "company": "Q8",
       "costFormula": "30,000 + 0.3% + 30 = 30,120 USDT",
       "clientName": "Dolina Agro (Цветы)",
