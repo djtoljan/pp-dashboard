@@ -767,14 +767,14 @@
       "clientName": "Вилог",
       "costFormula": "10,119 + 0.3% + 30 = 10,179.36 USDT",
       "extra": "Вилог",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "rubles_received": null,
       "sent_rubles_vdx": null,
       "vdx_rate": null,
       "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Proforma INVOICE CL20260715001 dd 15.07.2026. SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI (Гонконг) → Q8 GROUP LIMITED. Серверные HDD 8TB/10TB/16TB, Intel X710 адаптеры, батарея. Банк: Standard Chartered HK (SCBLHKHH), сч.47413626978. От Alex (@KL1M3NT) для Вилог."
+      "notes": "Proforma INVOICE CL20260715001 dd 15.07.2026. SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI (Гонконг) → Q8 GROUP LIMITED. Серверные HDD 8TB/10TB/16TB, Intel X710 адаптеры, батарея. Банк: Standard Chartered HK (SCBLHKHH), сч.47413626978. От Alex (@KL1M3NT) для Вилог. | BONBILL 22.07 14:29: Q8->SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI (Standard Chartered HK), ,119, INV CL20260715001, ElParts. TX O2079816065076035584956. EXECUTED 🟢"
     },
     {
       "date": "2026-07-21",

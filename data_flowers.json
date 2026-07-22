@@ -178,7 +178,8 @@
       "received_usdt": null,
       "sent_usdt": 10060,
       "notes": null,
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
     },
     {
       "row": 11,
@@ -196,7 +197,8 @@
       "received_usdt": null,
       "sent_usdt": 13069,
       "notes": null,
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "13000 + 0.3% + 30 = 13069 USDT"
     },
     {
       "row": 12,
@@ -214,7 +216,8 @@
       "received_usdt": null,
       "sent_usdt": 7051,
       "notes": "KINGDOM FLOWERS (Bonbill O2074017075986300928770)",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "7000 + 0.3% + 30 = 7051 USDT"
     },
     {
       "row": 13,
@@ -232,7 +235,8 @@
       "received_usdt": null,
       "sent_usdt": 7953.7,
       "notes": null,
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "7900 + 0.3% + 30 = 7,953.70 USDT"
     },
     {
       "row": 14,
@@ -268,7 +272,8 @@
       "received_usdt": 13498.9,
       "sent_usdt": 13388.96,
       "notes": null,
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "13319 + 0.3% + 30 = 13,388.96 USDT"
     },
     {
       "row": 16,
@@ -340,7 +345,8 @@
       "received_usdt": null,
       "sent_usdt": 10060,
       "notes": "AOA VENTURES LTD — inv.025, Mauritius, AfrAsia Bank | Rosaprima Cia (inv 928014)",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
     },
     {
       "row": 20,
@@ -358,7 +364,8 @@
       "received_usdt": null,
       "sent_usdt": 20090,
       "notes": "AOA VENTURES LTD — 20k, Mauritius, AfrAsia Bank",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "20000 + 0.3% + 30 = 20090 USDT"
     },
     {
       "row": 21,
@@ -376,7 +383,8 @@
       "received_usdt": null,
       "sent_usdt": 10060,
       "notes": "Milele Flowers — Kenya, KCB KCBLKENX",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
     },
     {
       "row": 22,
@@ -394,7 +402,8 @@
       "received_usdt": null,
       "sent_usdt": 10060,
       "notes": "Incoflores — Ecuador, PRODUBANCO PRODECEQ",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
     },
     {
       "row": 23,
@@ -412,7 +421,8 @@
       "received_usdt": null,
       "sent_usdt": 10060,
       "notes": "Novpec S.A. — roses inv.10350, Ecuador, PICHINCHA",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
     },
     {
       "row": 24,
@@ -430,7 +440,8 @@
       "received_usdt": null,
       "sent_usdt": 20090,
       "notes": "Rosaprima SO#928016 — 40k stems roses, Ecuador | Rosaprima Cia (inv 928016)",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "20000 + 0.3% + 30 = 20090 USDT"
     },
     {
       "row": 25,
@@ -448,7 +459,8 @@
       "received_usdt": null,
       "sent_usdt": 10060,
       "notes": "Rosaprima SO#928014 — 20k stems roses, Ecuador | Rosaprima Cia",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
     },
     {
       "row": 26,
@@ -520,7 +532,8 @@
       "received_usdt": null,
       "sent_usdt": 10060,
       "notes": "Novpec S.A. (inv 10350)",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
     },
     {
       "row": 30,
@@ -538,7 +551,8 @@
       "received_usdt": null,
       "sent_usdt": 10060,
       "notes": "Milele Flowers (inv 1300/3150)",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
     },
     {
       "row": 31,
@@ -682,7 +696,8 @@
       "received_usdt": null,
       "sent_usdt": 15075,
       "notes": null,
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "15000 + 0.3% + 30 = 15075 USDT"
     },
     {
       "row": 39,
@@ -700,7 +715,8 @@
       "received_usdt": null,
       "sent_usdt": 65152.3,
       "notes": "INV FL01/100726: 90k roses  + logistics ,927.52. Revolut Bank, SWIFT REVOLT21 | BONBILL EXECUTED 10.07 17:20 MSK TX:O2075510405551226880201",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "64,927.52 + 0.3% + 30 = 65,152.30 USDT"
     },
     {
       "row": 40,
@@ -775,7 +791,8 @@
       "received_usdt": null,
       "sent_usdt": 35135,
       "notes": "Инвойс 130726-1 от 13.07.2026 | ALIANZA LOGISTIKA TDGE SA → Q8 Group Limited | other flowers, 170 коробок | банк PRODUBANCO, SWIFT PRODECEQ",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "35000 + 0.3% + 30 = 35135 USDT"
     },
     {
       "row": 44,
@@ -793,7 +810,8 @@
       "received_usdt": null,
       "sent_usdt": 40150,
       "notes": "Инвойс 2026-495 от 13.07.2026 | EBF CARGO CIA LTDA → Q8 Group Limited | other flowers+greens+pot plants, 154 упаковки | PRODUBANCO, SWIFT PRODECEQ | транспортные услуги",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "40000 + 0.3% + 30 = 40150 USDT"
     },
     {
       "row": 45,
@@ -811,7 +829,8 @@
       "received_usdt": null,
       "sent_usdt": 40150,
       "notes": "PACIFIC AIR CARGO SA → Q8 Group Limited | транспортные услуги | PRODUBANCO, SWIFT PRODECEQ | авиаперевозка цветов",
-      "color": "FF92D050"
+      "color": "FF92D050",
+      "costFormula": "40000 + 0.3% + 30 = 40150 USDT"
     },
     {
       "row": 46,
@@ -1334,7 +1353,7 @@
       "calc": null,
       "company": "Q8",
       "clientName": null,
-      "costFormula": null,
+      "costFormula": "15000 + 0.3% + 30 = 15075 USDT",
       "extra": "ALIANZA LOGISTICS (Цветы)",
       "rubles_received": null,
       "sent_rubles_vdx": null,
@@ -1372,7 +1391,7 @@
       "calc": null,
       "company": "Q8",
       "clientName": null,
-      "costFormula": null,
+      "costFormula": "20000 + 0.3% + 30 = 20090 USDT",
       "extra": "EBF CARGO (Цветы)",
       "rubles_received": null,
       "sent_rubles_vdx": null,
