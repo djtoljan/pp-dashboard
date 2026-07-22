@@ -78,6 +78,7 @@ function build() {
   for (const f of FILES) {
     const rows = readData(path.join(__dirname, f.f));
     for (const r of rows) {
+      if (r.hidden) continue;
       const col = getColor(r.color);
       total++;
       if (col === 'green') green++;
