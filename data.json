@@ -1232,6 +1232,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 63,
+      "date": "2026-07-22",
+      "sum": 540000,
+      "currency": "USD",
+      "calc": null,
+      "company": null,
+      "clientName": null,
+      "extra": "NEUROVISION",
+      "costFormula": null,
+      "color": "FFFF0000",
+      "notes": "Proforma Invoice 0707 от 07.07.2026. Peptipure FZE (UAE) -> NEUROVISION GLOBAL INTELLIGENCE FZCO (Dubai). ,000 USD. Серверное оборудование (H200 GPU, Supermicro). Контракт JL070726. Ajman Bank PJSC, AJMNAEAJ. Доставка Hong Kong, 8 недель.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
