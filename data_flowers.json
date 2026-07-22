@@ -1475,6 +1475,25 @@
       "sent_usdt": 30120,
       "notes": "Proforma 2026-066 ot 22.07.2026. Dolina Agro Ltd (Israel) -> Q8 Group Ltd (Hong Kong). 30,000 USD, CIF Amsterdam.",
       "extra": null
+    },
+    {
+      "row": 80,
+      "date": "2026-07-22",
+      "sum": 10000,
+      "currency": "USD",
+      "calc": null,
+      "company": "Q8",
+      "costFormula": "10,000 + 0.3% + 30 = 10,060 USDT",
+      "clientName": "Novpec (Цветы)",
+      "color": "FFFFFFFF",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 10060,
+      "notes": "NOVPEC S.A. inv.11032, roses, Ecuador. Q8 Group Ltd (Hong Kong). 10,000 USD.",
+      "extra": null
     }
   ]
 }

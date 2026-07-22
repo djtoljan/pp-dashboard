@@ -33,7 +33,8 @@ function readData(fn) {
 }
 
 function getColor(hex) {
-  return COLOR_MAP[(hex || '').toUpperCase()] || 'white';
+  const key = (hex || '').toUpperCase().replace(/^#/, '');
+  return COLOR_MAP[key] || 'white';
 }
 
 function getClient(r) {
