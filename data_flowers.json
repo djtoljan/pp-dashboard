@@ -1266,8 +1266,8 @@
       "vdx_rate": 1.1418024,
       "received_usdt": null,
       "sent_usdt": 34593.85,
-      "notes": "🔁 ВОЗВРАТ от Q8, переоплачено с INFINITY. UNIFLOR L.L.C.-FZ (Dubai), 30,000 EUR, INV 5/2026 от 14.07.2026. Цветы Эфиопия, 49180 стеблей. Emirates Islamic, MEBLAEADXXX. | Расчёт: 34,254.07 USD × 1.007 = 34,593.85 USDT. Кошелёк: THfnLGCPqmzgTqFmEnFJSdKL2gzBEXuQ6i | VDX/Alex 22.07 13:58: BRI (Indonesia) -> UNIFLOR L.L.C-FZ (Emirates Islamic Bank). EUR 30,037.70 (30,000 + fee 37.70). Purpose: Sale of goods. TX SWF29196602. STATUS: On Signer (INITIATED) 🟡",
-      "color": "FFFFFF00",
+      "notes": "🔁 ВОЗВРАТ от Q8, переоплачено с INFINITY. UNIFLOR L.L.C.-FZ (Dubai), 30,000 EUR, INV 5/2026 от 14.07.2026. Цветы Эфиопия, 49180 стеблей. Emirates Islamic, MEBLAEADXXX. | Расчёт: 34,254.07 USD × 1.007 = 34,593.85 USDT. Кошелёк: THfnLGCPqmzgTqFmEnFJSdKL2gzBEXuQ6i | VDX/Alex 22.07 13:58: BRI (Indonesia) -> UNIFLOR L.L.C-FZ (Emirates Islamic Bank). EUR 30,037.70 (30,000 + fee 37.70). Purpose: Sale of goods. TX SWF29196602. STATUS: On Signer (INITIATED) 🟡 | SWIFT SWF29196602 23.07.2026: INFINITE→UNIFLOR, 30,000 EUR, BRINIDJA→MEBLAEADXXX, Invoice 5/2026. EXECUTED 🟢",
+      "color": "FF92D050",
       "costFormula": "30,000 EUR × 1.14180240 = 34,254.07 + 0.7% = 34,493.85 + 100 = 34,593.85 USDT"
     },
     {
