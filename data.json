@@ -1353,6 +1353,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 70,
+      "date": "2026-07-23",
+      "sum": 11840,
+      "currency": "CNY",
+      "calc": null,
+      "company": null,
+      "clientName": "ВТС",
+      "extra": "ВТС",
+      "costFormula": null,
+      "color": "FF0000",
+      "notes": "Поручение №73048 от 23.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Shenzhen New Deer Technology (Китай, OCBC HK WIHBHKHHXXX, 88800006405478). Инвойс PI-20260610487 dd 29/06/2026. Курс 11.82. 11,840 CNY = 139,948.80 RUB. Комиссия 1.5%+100USD.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
