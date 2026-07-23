@@ -826,9 +826,9 @@
       "extra": "Вилог",
       "rubles_received": null,
       "sent_rubles_vdx": 371831.44,
-      "vdx_rate": 78.6,
+      "vdx_rate": "78.6",
       "exchange_to": null,
-      "received_usdt": 4725.95,
+      "received_usdt": "4725.95",
       "sent_usdt": null,
       "notes": "ПП №536 от 21.07.2026. ООО ВИЛОГ → ВиДиИкс Сервисез - ФЗКО. Частичная оплата за товар по инвойсу №PEL-023-BEL26050601 от 08.05.2026, дог. NZDLWL120525-A-USD, HS 8206000000, курс 74.2963. ИСПОЛНЕНО 21.07 17:39.",
       "color": "FF4FC3F7"
@@ -869,6 +869,25 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
+      "sent_usdt": null
+    },
+    {
+      "row": 48,
+      "date": "2026-07-23",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "ОЕМ Экспорт (Молодёжь)",
+      "extra": "ОЕМ Экспорт (Молодёжь)",
+      "costFormula": null,
+      "color": "FF4FC3F7",
+      "notes": "USDT IN 56,376.23 на Рабочий 3. ОЕМ Экспорт. BobrAlert 23.07.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": 56376.23,
       "sent_usdt": null
     }
   ]
