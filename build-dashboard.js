@@ -143,15 +143,16 @@ function build() {
       // Pending past days — only non-green, non-blue
       if (col === 'green' || col === 'blue') continue;
 
-      // ⚠️ Требует внимания: 🔴/⬜ без компании или без расчёта
-      if ((col === 'red' || col === 'white') && (!hasCompany || !hasFormula)) {
-        needsAttention.push(entry);
+      // Classification: mutually exclusive
+      if (col === 'yellow') {
+        waitGreen.push(entry);
+      } else if (hasCompany && hasFormula) {
+        waitPP.push(entry); // есть компания + есть расчёт → Ждут ПП
+      } else if (!hasCompany && hasFormula) {
+        waitApp.push(entry); // нет компании + есть расчёт → Без заявки
+      } else if (!hasCompany || !hasFormula) {
+        needsAttention.push(entry); // всё остальное → Требует внимания
       }
-
-      // Existing sections
-      if (col === 'yellow') waitGreen.push(entry);
-      else if ((col === 'red' || col === 'white') && hasCompany && hasFormula) waitPP.push(entry);
-      else if (col === 'red' && !hasCompany) waitApp.push(entry);
     }
   }
 
