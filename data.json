@@ -1296,6 +1296,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 67,
+      "date": "2026-07-23",
+      "sum": 5337.04,
+      "currency": "EUR",
+      "calc": null,
+      "company": null,
+      "clientName": "Профессионал",
+      "extra": "Профессионал",
+      "costFormula": null,
+      "color": "FF0000",
+      "notes": "Поручение №6 от 23.07.2026. Принципал: ООО Профессионал. Получатель: LEMAKOGROUP Sp. z o.o. (Польша, PKO BPKOPLPW). Инвойсы: FK 7/2026 от 12.07 (3,437.04 EUR) + PF 15/2026 от 22.07 (1,900.00 EUR), итого 5,337.04 EUR. Контракт 31082023 DD 31.08.2023. Комиссия агента: 1.85% + 100 USD. Products for pastry and bakery.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
