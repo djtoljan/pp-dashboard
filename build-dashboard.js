@@ -242,8 +242,8 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
         <td>${esc(r.cur)}</td>
         <td>${esc(r.client||'-')}</td>
         <td class="sm">${esc(r.company||'-')}</td>
-        <td class="n">${r.rubles ? N(String(r.rubles).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0)) : '-'}</td>
-        <td class="n">${r.sentVdx ? N(String(r.sentVdx).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0)) : '-'}</td>
+        <td class="n">${r.rubles ? N(Math.round(String(r.rubles).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0) * 100) / 100) : '-'}</td>
+        <td class="n">${r.sentVdx ? N(Math.round(String(r.sentVdx).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0) * 100) / 100) : '-'}</td>
         <td class="ta">${usdtOk}</td>
       </tr>`;
     }
@@ -289,9 +289,10 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
   // ===== ⚠️ ТРЕБУЕТ ВНИМАНИЯ =====
   if (needsAttention.length > 0) {
     h += `<h2><span class="section-label">⚠️</span> Требует внимания <span>${needsAttention.length}</span></h2>`;
-    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Чего нет</th><th>Группа</th></tr></thead><tbody>`;
+    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Чего нет</th><th>USDT</th></tr></thead><tbody>`;
     for (const r of needsAttention) {
       const ec = r.color === 'red' ? '🔴' : '⚪';
+      const usdtOk = r.usdtIn && parseFloat(r.usdtIn) > 0 ? '✅' : (r.usdtOut && parseFloat(r.usdtOut) > 0 ? '✅' : '❌');
       let problem = '';
       if (!r.company && !r.costFormula && !r.client) problem = 'нет компании + нет расчёта';
       else if (!r.company) problem = 'нет компании';
@@ -304,7 +305,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
         <td>${esc(r.client||'-')}</td>
         <td class="sm">${esc(r.company||'-')}</td>
         <td style="color:#e67e22;font-size:13px;">${problem}</td>
-        <td class="sm">${r.group}</td>
+        <td class="ta">${usdtOk}</td>
       </tr>`;
     }
     h += `</tbody></table>`;

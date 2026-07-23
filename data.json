@@ -1315,6 +1315,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 68,
+      "date": "2026-07-23",
+      "sum": 22888,
+      "currency": "USD",
+      "calc": null,
+      "company": null,
+      "clientName": "ЛОГИС",
+      "extra": "ЛОГИС",
+      "costFormula": null,
+      "color": "FF0000",
+      "notes": "Поручение №9 от 23.07.2026. Принципал: ООО ЛОГИС. Агент: Блэкшарк Трейд. Получатель: FOSHAN LIHE Precise Machinery (Китай, через ZHEN MAI INTL, CCB HK CCBQHKAX, 846210384335). Инвойс 260615001A, контракт 260615001A от 17.07.2026. Курс 78.4756. Комиссия 1.6%+100 USD.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
