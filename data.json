@@ -1353,44 +1353,6 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
-    },
-    {
-      "row": 70,
-      "date": "2026-07-23",
-      "sum": 20840,
-      "currency": "CNY",
-      "calc": "ТЕЗ",
-      "company": "Q8",
-      "clientName": "Бьюти Брендз",
-      "extra": "Бьюти Брендз",
-      "costFormula": null,
-      "color": null,
-      "notes": "Поручение №2 от 23.07.2026. Принципал: ООО Бьюти Брендз. Агент: VDX SERVICES. Получатель: Suzhou Meizida Plastic Packaging (Китай, ZHEJIANG CHOUZHOU CZCBCN2X, 15001014039900169145). Инвойс 2026070710 от 07.07.2026. Курс 6.7385. Сумма 20,840 CNY = 242,699.64 RUB. Комиссия 20,549.11. | PI PO 01072026: Meizida Plastic Packaging, CNY 20,840, CZCBCN2X. Платёж от Q8 после откупки USDT.",
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null
-    },
-    {
-      "row": 71,
-      "date": "2026-07-23",
-      "sum": 40000,
-      "currency": "CNY",
-      "calc": "ТЕЗ",
-      "company": "Q8",
-      "clientName": "Бьюти Брендз",
-      "extra": "Бьюти Брендз",
-      "costFormula": null,
-      "color": null,
-      "notes": "Поручение №1 от 23.07.2026. Принципал: ООО Бьюти Брендз. Агент: VDX SERVICES. Получатель: CHENGDU UTOP TECHNOLOGY (Китай, DBS HK DHBKHKHH, 798291353). Инвойс 2026070710 от 07.07.2026. Курс 6.7385. 40,000 CNY = 465,834.24 RUB. Комиссия 25,011.80. | Payment Order: Chengdu Utop Technology CNY 40,000, DBS HK DHBKHKHH. Платёж от Q8 после откупки USDT.",
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null
     }
   ]
 }
