@@ -1494,6 +1494,25 @@
       "sent_usdt": 10060,
       "notes": "NOVPEC S.A. inv.11032, roses, Ecuador. Q8 Group Ltd (Hong Kong). 10,000 USD.",
       "extra": null
+    },
+    {
+      "row": 81,
+      "date": "2026-07-23",
+      "sum": 111443.02,
+      "currency": "EUR",
+      "calc": "ТЕЗ",
+      "company": "Q8",
+      "clientName": "Bloom Market (Цветы)",
+      "extra": "Bloom Market (Цветы)",
+      "costFormula": null,
+      "color": null,
+      "notes": "Invoice Bloom Market EOOD (Болгария), 111,443.02 EUR. Bulgarian-American Credit Bank, BGUSBGSF, BG12BGUS91601413755700. Q8 GROUP LIMITED payment.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
