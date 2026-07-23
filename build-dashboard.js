@@ -70,6 +70,7 @@ function build() {
   const waitPP = []; // 🔴 ждёт ПП (есть компания+расчёт)
   const waitApp = []; // ⚪ без заявки/компании
   const waitVdx = []; // 🔵 рубли пришли, на VDX не отправлены
+  const needsAttention = []; // ⚠️ 🔴/⬜ без компании или без расчёта
 
   const dailyCount = {};
   const companyDealCount = {}; // for pie chart
@@ -142,6 +143,12 @@ function build() {
       // Pending past days — only non-green, non-blue
       if (col === 'green' || col === 'blue') continue;
 
+      // ⚠️ Требует внимания: 🔴/⬜ без компании или без расчёта
+      if ((col === 'red' || col === 'white') && (!hasCompany || !hasFormula)) {
+        needsAttention.push(entry);
+      }
+
+      // Existing sections
       if (col === 'yellow') waitGreen.push(entry);
       else if ((col === 'red' || col === 'white') && hasCompany && hasFormula) waitPP.push(entry);
       else if (col === 'red' && !hasCompany) waitApp.push(entry);
@@ -157,19 +164,21 @@ function build() {
   waitPP.sort(sortD);
   waitApp.sort(sortD);
   waitVdx.sort(sortD);
+  needsAttention.sort(sortD);
 
   return {
     stats: { total, green, yellow, blue, white, red, today: todayRows.length,
-      pending: waitGreen.length + waitPP.length + waitApp.length,
+      pending: waitGreen.length + waitPP.length + waitApp.length + needsAttention.length,
       vdxWait: waitVdx.length,
+      attention: needsAttention.length,
       usdtSent: Math.round(totalUsdtSent), usdtRecv: Math.round(totalUsdtRecv),
       rubRecv: Math.round(totalRubRecv) },
-    todayRows, waitGreen, waitPP, waitApp, waitVdx, dailyCount, companyDealCount
+    todayRows, waitGreen, waitPP, waitApp, waitVdx, needsAttention, dailyCount, companyDealCount
   };
 }
 
 function render(d) {
-  const { stats, todayRows, waitGreen, waitPP, waitApp, waitVdx, dailyCount, companyDealCount } = d;
+  const { stats, todayRows, waitGreen, waitPP, waitApp, waitVdx, needsAttention, dailyCount, companyDealCount } = d;
   const N = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
 
   const CSS = `*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -213,6 +222,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
   <div class="card card-yellow"><div class="lbl">🟡 Подвешено</div><div class="val">${waitGreen.length}</div></div>
   <div class="card card-red"><div class="lbl">🔴 В работе</div><div class="val">${waitPP.length}</div></div>
   <div class="card card-blue"><div class="lbl">⚪ Без заявки</div><div class="val">${waitApp.length}</div></div>
+  <div class="card" style="border-left:4px solid #e67e22;"><div class="lbl" style="color:#e67e22;">⚠️ Требует внимания</div><div class="val" style="color:#e67e22;">${stats.attention}</div></div>
   <div class="card card-blue"><div class="lbl" style="color:#4FC3F7;">🔵 Не на VDX</div><div class="val" style="color:#4FC3F7;">${stats.vdxWait}</div></div>
 </div>`;
 
@@ -270,6 +280,30 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
         <td>${esc(r.client||'-')}</td>
         <td class="sm">${r.group}</td>
         <td class="ta">${usdtOk}</td>
+      </tr>`;
+    }
+    h += `</tbody></table>`;
+  }
+
+  // ===== ⚠️ ТРЕБУЕТ ВНИМАНИЯ =====
+  if (needsAttention.length > 0) {
+    h += `<h2><span class="section-label">⚠️</span> Требует внимания <span>${needsAttention.length}</span></h2>`;
+    h += `<table><thead><tr><th></th><th>Дата</th><th>Сумма</th><th>Вал</th><th>Клиент</th><th>Компания</th><th>Чего нет</th><th>Группа</th></tr></thead><tbody>`;
+    for (const r of needsAttention) {
+      const ec = r.color === 'red' ? '🔴' : '⚪';
+      let problem = '';
+      if (!r.company && !r.costFormula && !r.client) problem = 'нет компании + нет расчёта';
+      else if (!r.company) problem = 'нет компании';
+      else problem = 'нет расчёта';
+      h += `<tr>
+        <td class="ta"><div class="emoji-lg">${ec}</div></td>
+        <td>${fmtDate(esc(r.date))}</td>
+        <td class="n">${r.sum ? N(r.sum) : '-'}</td>
+        <td>${esc(r.cur||'')}</td>
+        <td>${esc(r.client||'-')}</td>
+        <td class="sm">${esc(r.company||'-')}</td>
+        <td style="color:#e67e22;font-size:13px;">${problem}</td>
+        <td class="sm">${r.group}</td>
       </tr>`;
     }
     h += `</tbody></table>`;
