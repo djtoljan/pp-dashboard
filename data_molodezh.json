@@ -863,10 +863,10 @@
       "extra": "Бьюти Брендз (Молодёжь)",
       "costFormula": null,
       "color": null,
-      "notes": "Поручение №1 от 23.07.2026. Принципал: ООО Бьюти Брендз. Агент: VDX SERVICES. Получатель: CHENGDU UTOP TECHNOLOGY (Китай, DBS HK DHBKHKHH, 798291353). Инвойс 2026070710 от 07.07.2026. Курс 6.7385. 40,000 CNY = 465,834.24 RUB. Комиссия 25,011.80. | Payment Order: Chengdu Utop Technology CNY 40,000, DBS HK DHBKHKHH. Платёж от Q8 после откупки USDT.",
+      "notes": "Поручение №1 от 23.07.2026. Принципал: Бьюти Брендз. Агент: VDX. Получатель: CHENGDU UTOP TECHNOLOGY (Китай, DBS HK DHBKHKHH, 798291353). Инвойс 2026070710 от 07.07.2026. Курс 6.7385. 40,000 CNY = 465,834.24 RUB. Комиссия 25,011.80. ПП №65 (комиссия) + ПП №66 (тело) ПРОВЕДЕНО 23.07.",
       "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": "465834.24 / 25011.80",
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
