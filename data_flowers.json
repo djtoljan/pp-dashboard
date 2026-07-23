@@ -1513,25 +1513,6 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
-    },
-    {
-      "row": 82,
-      "date": "2026-07-23",
-      "sum": null,
-      "currency": null,
-      "calc": null,
-      "company": null,
-      "costFormula": null,
-      "clientName": "Ароматный Путь (Цветы)",
-      "extra": "Ароматный Путь (Цветы)",
-      "color": "FF4FC3F7",
-      "rubles_received": null,
-      "sent_rubles_vdx": 490237.73,
-      "vdx_rate": null,
-      "exchange_to": "VDX",
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "ПП №173 от 23.07.2026. Блэкшарк ПОЧТО→VDX, 490,237.73₽, заявка 631, Ароматный Путь (Цветы). Агент.дог. №4 от 31.03.2025, продукты питания. ИСПОЛНЕНО 23.07 18:30 (Энерготрансбанк)."
     }
   ]
 }

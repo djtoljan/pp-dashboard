@@ -1225,7 +1225,9 @@
       "rubles_received": "1681485.84 / 33102.29",
       "notes": " | VDX 22.07: 1,714,588.13 RUB na VDX, zapchasti, zayavka 77",
       "sent_rubles_vdx": "1714588.13",
-      "exchange_to": "VDX"
+      "exchange_to": "VDX",
+      "vdx_rate": 78.65,
+      "received_usdt": 21778.43
     },
     {
       "date": "2026-07-22",
@@ -1242,7 +1244,9 @@
       "sent_rubles_vdx": 714682.8,
       "exchange_to": "VDX",
       "row": 63,
-      "sent_usdt": 9029
+      "sent_usdt": 9029,
+      "vdx_rate": 78.65,
+      "received_usdt": 9077.79
     },
     {
       "date": "2026-07-22",
@@ -1257,7 +1261,9 @@
       "row": 64,
       "rubles_received": "6146400.00 / 86049.60",
       "sent_rubles_vdx": "6232449.60",
-      "exchange_to": "VDX"
+      "exchange_to": "VDX",
+      "vdx_rate": 78.65,
+      "received_usdt": 79163.6
     },
     {
       "row": 65,
@@ -1273,8 +1279,8 @@
       "rubles_received": "516431.56 / 12910.79",
       "sent_rubles_vdx": 529342.35,
       "exchange_to": "VDX",
-      "vdx_rate": null,
-      "received_usdt": null,
+      "vdx_rate": 78.65,
+      "received_usdt": 6723.62,
       "sent_usdt": null,
       "notes": "БиТрейд→VDX, 529 342,35 ₽, электронные компоненты, заявка 79"
     },
