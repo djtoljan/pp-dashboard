@@ -785,14 +785,14 @@
       "clientName": "Фри Лайнс Компани",
       "costFormula": "35,180.00 EUR * 1.14269588 = 40,200 USD; 40,200 + 0.7% = 40,481; + 100 = 40,581 USDT",
       "extra": "Фри Лайнс Компани",
-      "color": null,
+      "color": "FF92D050",
       "rubles_received": null,
       "sent_rubles_vdx": "3223979.63 / 73643.83",
       "vdx_rate": "78.6 / 78.6",
       "exchange_to": "VDX",
       "received_usdt": "40976.53 / 936.01",
       "sent_usdt": "40581",
-      "notes": "STLine OÜ (Эстония) — получатель, не плательщик. Поручение №17 от 20.07.2026. Фри Лайнс Компани -> VDX -> STLine OÜ (Эстония). 35,180 EUR. Инвойс №07-15/3 от 15.07.2026, контракт FLK. Курс 1 EUR = 91.6424 RUB. ПП №3744 осн.платёж 3,223,979.63₽ + ПП №3745 вознагр. 73,643.83₽. ИСПОЛНЕНО 21.07. | Платёж через INFINITE 23.07.2026 | Расчёт: 35,180 EUR → 40,581 USDT. Кошелёк: TGSRy3PEcaYkQGMYDwx3qXTF4rchXxnckr. | Bobr Alert 23.07: OUT 40,581 USDT на TGSRy3PEcaYkQGMYDwx3qXTF4rchXxnckr (Рабочий 3).",
+      "notes": "STLine OÜ (Эстония) — получатель, не плательщик. Поручение №17 от 20.07.2026. Фри Лайнс Компани -> VDX -> STLine OÜ (Эстония). 35,180 EUR. Инвойс №07-15/3 от 15.07.2026, контракт FLK. Курс 1 EUR = 91.6424 RUB. ПП №3744 осн.платёж 3,223,979.63₽ + ПП №3745 вознагр. 73,643.83₽. ИСПОЛНЕНО 21.07. | Платёж через INFINITE 23.07.2026 | Расчёт: 35,180 EUR → 40,581 USDT. Кошелёк: TGSRy3PEcaYkQGMYDwx3qXTF4rchXxnckr. | Bobr Alert 23.07: OUT 40,581 USDT на TGSRy3PEcaYkQGMYDwx3qXTF4rchXxnckr (Рабочий 3). | VDX CONFIRMATION 24.07: INFINITE SUNRISE ASI→STLine OU (LHV Pank), 35,180 EUR, INV 07-15/3. STATUS: SUCCESS (BRI, SWF29423351).",
       "row": 43
     },
     {
