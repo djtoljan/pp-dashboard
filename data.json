@@ -1431,12 +1431,12 @@
       "clientName": "ИП Мазуренко",
       "extra": "ИП Мазуренко",
       "rubles_received": "1333350.00 / 21333.60",
-      "sent_rubles_vdx": null,
+      "sent_rubles_vdx": "1358744.40",
       "vdx_rate": null,
-      "exchange_to": null,
+      "exchange_to": "VDX",
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Поручение №19 от 24.07.2026. Принципал: ИП Мазуренко И.А. Получатель: UAB EUROKUSTA (Литва, AB SEB bank CBVILT2X, LT357044060005218553). 15,000 EUR @ 88.89 = 1,333,350р. Комиссия 1.6% = 21,333.60р. Инвойс 8199 от 23.07.2026. STATE DUTY FOR VETERINARY SERVICES. | Alex VDX: Payment from TRANSPATH, INV 8199 dd 23.07.26, 15,000 EUR. Beneficiary: UAB Eurokusta (SEB, CBVILT2X, LT357044060005218553). OUR | Schet Eurokusta ot 23.07.26 (INV 8199): 15,000 EUR, SEB bank CBVILT2X | Energotransbank 24.07: PP431 1,333,350 RUB (veterinarnye uslugi) + PP432 21,333.60 (agentskoe voznagrazhdenie) ot IP Mazurenko po porucheniyu 19",
+      "notes": "Поручение №19 от 24.07.2026. Принципал: ИП Мазуренко И.А. Получатель: UAB EUROKUSTA (Литва, AB SEB bank CBVILT2X, LT357044060005218553). 15,000 EUR @ 88.89 = 1,333,350р. Комиссия 1.6% = 21,333.60р. Инвойс 8199 от 23.07.2026. STATE DUTY FOR VETERINARY SERVICES. | Alex VDX: Payment from TRANSPATH, INV 8199 dd 23.07.26, 15,000 EUR. Beneficiary: UAB Eurokusta (SEB, CBVILT2X, LT357044060005218553). OUR | Schet Eurokusta ot 23.07.26 (INV 8199): 15,000 EUR, SEB bank CBVILT2X | Energotransbank 24.07: PP431 1,333,350 RUB (veterinarnye uslugi) + PP432 21,333.60 (agentskoe voznagrazhdenie) ot IP Mazurenko po porucheniyu 19 | John 24.07: Блэкшарк ЭНЕРГОТРАНС→VDX, 1,358,744.40₽, вет.услуги, заявка 632, O:\\...\\ИП МАЗУРЕНКО ЭНЕРГОТРАНС\\вход 24.07.26",
       "color": "FFFFFFFF"
     }
   ]
