@@ -1374,7 +1374,7 @@
       "extra": "ЛОГИС",
       "costFormula": null,
       "color": "FF0000",
-      "notes": "Поручение №9 от 23.07.2026. Принципал: ООО ЛОГИС. Агент: Блэкшарк Трейд. Получатель: FOSHAN LIHE Precise Machinery (Китай, через ZHEN MAI INTL, CCB HK CCBQHKAX, 846210384335). Инвойс 260615001A, контракт 260615001A от 17.07.2026. Курс 78.4756. Комиссия 1.6%+100 USD. | Выписка ПОЧТОБАНК 23.07: ПП №872 (1,796,149.53₽ тело) + ПП №873 (26,585.95₽ комиссия) от ЛОГИС. Итого 1,822,735.48₽. | John 23.07: Блэкшарк ПОЧТО→ВТБ, 1,822,735.48₽, перевод собственных средств (ЛОГИС). | Alex VDX: Payment from [], INV 260615001A dd 15.06.26, 22,888 USD. Beneficiary: LUCKY TRADE INTERNATIONAL LIMITED (HK), IBOCUS44, a/c 8206225830. OUR",
+      "notes": "Поручение №9 от 23.07.2026. Принципал: ООО ЛОГИС. Агент: Блэкшарк Трейд. Получатель: FOSHAN LIHE Precise Machinery (Китай, через ZHEN MAI INTL, CCB HK CCBQHKAX, 846210384335). Инвойс 260615001A, контракт 260615001A от 17.07.2026. Курс 78.4756. Комиссия 1.6%+100 USD. | Выписка ПОЧТОБАНК 23.07: ПП №872 (1,796,149.53₽ тело) + ПП №873 (26,585.95₽ комиссия) от ЛОГИС. Итого 1,822,735.48₽. | John 23.07: Блэкшарк ПОЧТО→ВТБ, 1,822,735.48₽, перевод собственных средств (ЛОГИС). | Alex VDX: Payment from [], INV 260615001A dd 15.06.26, 22,888 USD. Beneficiary: LUCKY TRADE INTERNATIONAL LIMITED (HK), IBOCUS44, a/c 8206225830. OUR | Alex VDX 24.07: payment INITIATED for INV 260615001A. USD 22,888 → LUCKY TRADE INTL (IBOCUS44, a/c 8206225830). Exec 27 Jul 2026. Sender: YOUNGQ LIMITED",
       "rubles_received": "1796149.53 / 26585.95",
       "sent_rubles_vdx": "1822735.48",
       "exchange_to": "ВТБ",
