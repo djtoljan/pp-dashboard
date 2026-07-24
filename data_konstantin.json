@@ -440,6 +440,21 @@
       "received_usdt": 108540,
       "sent_usdt": 108354,
       "notes": "Proforma 0707 от 07.07.2026. Peptipure FZE (UAE) -> Neurovision Global Intelligence FZCO (Dubai). ,000 (20%) USD. Серверное оборудование (H200 GPU). Контракт JL070726. Ajman Bank PJSC, AJMNAEAJ. 20% prepayment = ,000 via SWIFT. Payment Order attached. Константин -> Q8. | client: Константин (Просто группа) | USDT IN 23.07: 108540 USDT от Константина (BobrAlert). | BONBILL 24.07 14:49: Q8→Peptipure FZE, 108,000 USD, Ajman Bank PJSC, TX O2080545984273842176969. EXECUTED 🟢"
+    },
+    {
+      "row": 26,
+      "date": "2026-07-24",
+      "sum": 26324.21,
+      "currency": "USD",
+      "calc": "ТЕЗ",
+      "company": "Q8",
+      "clientName": "Константин (Просто группа)",
+      "costFormula": "26324.21 USD + 0.3% + 30 = 26433.18 USDT",
+      "extra": "Elite-complect",
+      "color": null,
+      "received_usdt": null,
+      "sent_usdt": 26433.18,
+      "notes": "Проформа XDV2607011 от 02.07.2026. SHAOXING XINDA ELECTRONICS CO.,LTD (Китай, ZJRCCN2N, a/c 201000177352515). Термостаты KST. Плательщик: Q8 GROUP LIMITED. Payment Order #455 приложен. Elite-complect."
     }
   ]
 }
