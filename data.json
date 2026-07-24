@@ -1273,7 +1273,7 @@
       "sum": 78000,
       "currency": "USD",
       "company": "INFINITE",
-      "color": "#FFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": "78,000 + 0.4% = 78,312 USDT",
       "extra": "ВТС",
