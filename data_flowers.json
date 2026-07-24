@@ -1570,6 +1570,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Приход на Блэкшарк ПОЧТО: вознаграждение 115,320.51₽ + оплата 4,612,820.57₽ по WD-26 пор.93 от 24.07.2026"
+    },
+    {
+      "row": 85,
+      "date": "2026-07-24",
+      "sum": null,
+      "currency": "Test (Цветы)",
+      "company": "100000 / 5000",
+      "color": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }

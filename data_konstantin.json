@@ -446,15 +446,15 @@
       "date": "2026-07-24",
       "sum": 299870,
       "currency": "EUR",
-      "calc": null,
+      "calc": "ТЕЗ",
       "company": "INFINITE",
       "clientName": "Константин (Просто группа)",
-      "costFormula": null,
+      "costFormula": "299,870 EUR * 1.13676811 = 340,883 USD; + 0.6% = 342,928 USDT",
       "extra": "Константин (Просто группа)",
       "color": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "Платёж от INFINITE. GROUPE SEB EXPORT MIDDLE E B (HSBC UAE, BBMEAEAD, a/c AE690200000026580852101). Инвойс 4017275175 dd 06.07.2026, частичная оплата 299,870.00 EUR. Проформа SEB 1 500 000 EUR. Товар: Tefal/Moulinex. Плательщик: INFINITE. Жду расчёт."
+      "sent_usdt": 342928,
+      "notes": "Платёж от INFINITE. GROUPE SEB EXPORT MIDDLE E B (HSBC UAE, BBMEAEAD, a/c AE690200000026580852101). Инвойс 4017275175 dd 06.07.2026, частичная оплата 299,870.00 EUR. Проформа SEB 1 500 000 EUR. Товар: Tefal/Moulinex. Плательщик: INFINITE. Жду расчёт. | Расчёт: 299,870€ × 1.13676811 = 340,883 USD + 0.6% = 342,928 USDT. Кошелёк: TW6aXdGB6VmQjTi2iLwGjFypcibsHPAkHj"
     }
   ]
 }
