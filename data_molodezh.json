@@ -882,13 +882,13 @@
       "extra": "ОЕМ Экспорт (Молодёжь)",
       "costFormula": null,
       "color": "FF4FC3F7",
-      "notes": "USDT IN 56,376.23 на Рабочий 3. ОЕМ Экспорт. BobrAlert 23.07.",
+      "notes": "USDT IN 56,376.23 на Рабочий 3. ОЕМ Экспорт. BobrAlert 23.07. | John 24.07: Блэкшарк ВТБ→ОЕМ ТЕХ (Беларусь, Альфа-Банк), 4,346,727.88₽, заявка №6 от 23.07.2026, договор №260226-3. USDT 56,376.23 → RUB 4,346,727.88 @ ~77.10",
       "rubles_received": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": 56376.23,
-      "sent_usdt": null
+      "sent_usdt": 56376.23
     },
     {
       "row": 49,
@@ -978,12 +978,12 @@
       "costFormula": null,
       "extra": null,
       "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": "31349.42",
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "ПП №541 от 24.07.2026. ООО ВИЛОГ→VDX (ПСБ Ярославль). 31,349.42₽. Частичная оплата за товар по инвойсу LNR-175-# 2026-07-17/1 от 21.07.2026, договор NZDLWL120525-A-USD (HS 8206000000), курс 79.9730. ИСПОЛНЕН ВТБ 24.07 16:41.",
       "calc": null
     }
   ]
