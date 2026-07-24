@@ -946,6 +946,26 @@
       "sent_usdt": null,
       "color": null,
       "notes": "Poruchenie 3 ot 24.07.2026. Principal: OOO Byti Brendz. Agent: VDX. Poluchatel: Guangzhou Yuheng Plastic Products (ICBC ICBKCNBJGDC, 3602179709100172665). Inv 2026070710 ot 07.07.2026. Kurs 78.4049. RUB: 578628.16. Komissiya: 27253.54 | ПП №71 24.07: Бьюти Брендз→VDX, 578,628.16₽, Guangzhou Yuheng, Поручение №3. ПРОВЕДЕНО (Райффайзенбанк) | ПП №70 24.07: Бьюти Брендз→VDX, 27,253.54₽, вознаграждение (Поручение №3). ПРОВЕДЕНО"
+    },
+    {
+      "row": 52,
+      "date": "2026-07-24",
+      "sum": 26324.21,
+      "currency": "USD",
+      "calc": null,
+      "company": "Q8",
+      "clientName": null,
+      "costFormula": null,
+      "client": null,
+      "extra": "Мосты (Молодёжь)",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "color": null,
+      "notes": "Поручение №455 от 24.07.2026. Принципал: Мосты (Молодёжь). Плательщик: Q8 GROUP LIMITED. Получатель: SHAOXING XINDA ELECTRONICS CO.,LTD (Китай, ZJRCCN2N, a/c 201000177352515). Проформа XDV2607011 от 02.07.2026. Термостаты KST, 104 800 шт. Elite-complect."
     }
   ]
 }
