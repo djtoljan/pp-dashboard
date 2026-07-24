@@ -933,8 +933,8 @@
       "date": "2026-07-24",
       "sum": 7380,
       "currency": "USD",
-      "calc": null,
-      "company": null,
+      "calc": "Q8 → Guangzhou Yuheng, 7380 USD, Invoice/Quotation 24.07.2026",
+      "company": "Q8",
       "costFormula": null,
       "client": null,
       "extra": "Byti Brendz (Molodezh)",
@@ -944,7 +944,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "color": "FFFF0000",
+      "color": null,
       "notes": "Poruchenie 3 ot 24.07.2026. Principal: OOO Byti Brendz. Agent: VDX. Poluchatel: Guangzhou Yuheng Plastic Products (ICBC ICBKCNBJGDC, 3602179709100172665). Inv 2026070710 ot 07.07.2026. Kurs 78.4049. RUB: 578628.16. Komissiya: 27253.54"
     }
   ]
