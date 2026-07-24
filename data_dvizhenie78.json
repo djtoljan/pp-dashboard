@@ -161,7 +161,7 @@
       "clientName": "КОНТУР СПБ",
       "extra": "КОНТУР СПБ",
       "costFormula": "29,280 + 0.3% + 30 = 29,397.84 USDT",
-      "color": null,
+      "color": "FFFFFF00",
       "rubles_received": "2334201.60 / 84660.25",
       "sent_rubles_vdx": "2418861.85",
       "exchange_to": "VDX",
