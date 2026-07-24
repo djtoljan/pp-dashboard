@@ -1218,8 +1218,8 @@
       "sum": 6553.7,
       "currency": "USD",
       "calc": null,
-      "company": null,
-      "color": "#FF0000",
+      "company": "LEO",
+      "color": "FFFFFFFF",
       "clientName": "VTS",
       "costFormula": null,
       "extra": "VTS",
@@ -1229,7 +1229,7 @@
       "vdx_rate": 78.65,
       "received_usdt": 6723.62,
       "sent_usdt": null,
-      "notes": "БиТрейд→VDX, 529 342,35 ₽, электронные компоненты, заявка 79"
+      "notes": "БиТрейд→VDX, 529 342,35 ₽, электронные компоненты, заявка 79 | Alex VDX: Payment from LEO, INV THJ260224018 dd 24.02.26, 6,553.70 USD. Beneficiary: THJ(HK)TECHNOLOGY LIMITED (CCB Asia, CCBQHKAXXXX, a/c 846210286032). OUR"
     },
     {
       "date": "2026-07-22",
@@ -1277,14 +1277,15 @@
       "clientName": "ВТС",
       "costFormula": "78,000 + 0.4% = 78,312 USDT",
       "extra": "ВТС",
-      "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% predoplata ot 156,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX invoice 72694: 1,092 × 78.80 = 86,049.60₽. | VDX 22.07: 6,232,449.60 RUB na VDX, za oborudovanie, zayavka 78 | Alex VDX: INV GBIT20260717 dd 17.07.26, 78,000 USD, Payent from INFINITE, GOLDEN BOXX (HK), OUR",
+      "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% predoplata ot 156,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX invoice 72694: 1,092 × 78.80 = 86,049.60₽. | VDX 22.07: 6,232,449.60 RUB na VDX, za oborudovanie, zayavka 78 | Alex VDX: INV GBIT20260717 dd 17.07.26, 78,000 USD, Payent from INFINITE, GOLDEN BOXX (HK), OUR | Bobr 24.07 13:07: 78,312 USDT OUT to TW6aXd...Hj (Infinite)",
       "row": 65,
       "rubles_received": "6146400.00 / 86049.60",
       "sent_rubles_vdx": "6232449.60",
       "exchange_to": "VDX",
       "vdx_rate": 78.65,
       "received_usdt": 79163.6,
-      "calc": "ТЕЗ"
+      "calc": "ТЕЗ",
+      "sent_usdt": 78312
     },
     {
       "row": 66,
@@ -1425,7 +1426,7 @@
       "sum": 15000,
       "currency": "EUR",
       "calc": null,
-      "company": null,
+      "company": "TRANSPATH",
       "costFormula": null,
       "clientName": "ИП Мазуренко",
       "extra": "ИП Мазуренко",
@@ -1435,8 +1436,8 @@
       "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Поручение №19 от 24.07.2026. Принципал: ИП Мазуренко И.А. Получатель: UAB EUROKUSTA (Литва, AB SEB bank CBVILT2X, LT357044060005218553). 15,000 EUR @ 88.89 = 1,333,350р. Комиссия 1.6% = 21,333.60р. Инвойс 8199 от 23.07.2026. STATE DUTY FOR VETERINARY SERVICES.",
-      "color": "FF0000"
+      "notes": "Поручение №19 от 24.07.2026. Принципал: ИП Мазуренко И.А. Получатель: UAB EUROKUSTA (Литва, AB SEB bank CBVILT2X, LT357044060005218553). 15,000 EUR @ 88.89 = 1,333,350р. Комиссия 1.6% = 21,333.60р. Инвойс 8199 от 23.07.2026. STATE DUTY FOR VETERINARY SERVICES. | Alex VDX: Payment from TRANSPATH, INV 8199 dd 23.07.26, 15,000 EUR. Beneficiary: UAB Eurokusta (SEB, CBVILT2X, LT357044060005218553). OUR | Schet Eurokusta ot 23.07.26 (INV 8199): 15,000 EUR, SEB bank CBVILT2X",
+      "color": "FFFFFFFF"
     }
   ]
 }

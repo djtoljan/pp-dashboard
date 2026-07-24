@@ -927,6 +927,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 51,
+      "date": "2026-07-24",
+      "sum": 7380,
+      "currency": "USD",
+      "calc": null,
+      "company": null,
+      "costFormula": null,
+      "client": null,
+      "extra": "Byti Brendz (Molodezh)",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "color": "FFFF0000",
+      "notes": "Poruchenie 3 ot 24.07.2026. Principal: OOO Byti Brendz. Agent: VDX. Poluchatel: Guangzhou Yuheng Plastic Products (ICBC ICBKCNBJGDC, 3602179709100172665). Inv 2026070710 ot 07.07.2026. Kurs 78.4049. RUB: 578628.16. Komissiya: 27253.54"
     }
   ]
 }
