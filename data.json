@@ -1397,6 +1397,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 72,
+      "date": "2026-07-24",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "costFormula": null,
+      "clientName": "FININVEST (Цветы)",
+      "extra": "FININVEST (Цветы)",
+      "rubles_received": null,
+      "sent_rubles_vdx": "1175199.05",
+      "vdx_rate": null,
+      "exchange_to": "Al Safi",
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Платежи из Мира Привелегий: Блэкшарк ПОЧТО→Al Safi, 1,175,199.05₽, перевод собственных средств (FININVEST-БШ-Цветы). {VO60075}. Вход 24.07.2026.",
+      "color": "FF4FC3F7"
     }
   ]
 }
