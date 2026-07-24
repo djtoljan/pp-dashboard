@@ -1372,10 +1372,10 @@
       "extra": "ВТС",
       "costFormula": null,
       "color": "FF0000",
-      "notes": "Поручение №73048 от 23.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Shenzhen New Deer Technology (Китай, OCBC HK WIHBHKHHXXX, 88800006405478). Инвойс PI-20260610487 dd 29/06/2026. Курс 11.82. 11,840 CNY = 139,948.80 RUB. Комиссия 1.5%+100USD. | ВТБ выписка 23.07: ПП №3603 (9,980.23₽ комиссия) + ПП №3602 (139,948.80₽ тело) от ВТС, ИСПОЛНЕНЫ",
+      "notes": "Поручение №73048 от 23.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Shenzhen New Deer Technology (Китай, OCBC HK WIHBHKHHXXX, 88800006405478). Инвойс PI-20260610487 dd 29/06/2026. Курс 11.82. 11,840 CNY = 139,948.80 RUB. Комиссия 1.5%+100USD. | ВТБ выписка 23.07: ПП №3603 (9,980.23₽ комиссия) + ПП №3602 (139,948.80₽ тело) от ВТС, ИСПОЛНЕНЫ | VDX 23.07: 149,929.03 RUB na VDX, komplektuyushchie dlya elektronnykh ustroystv, zayavka 80",
       "rubles_received": "139948.80 / 9980.23",
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": 149929.03,
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
@@ -1455,6 +1455,25 @@
       "sent_usdt": null,
       "notes": "Поручение №19 от 24.07.2026. Принципал: ИП Мазуренко И.А. Получатель: UAB EUROKUSTA (Литва, AB SEB bank CBVILT2X, LT357044060005218553). 15,000 EUR @ 88.89 = 1,333,350р. Комиссия 1.6% = 21,333.60р. Инвойс 8199 от 23.07.2026. STATE DUTY FOR VETERINARY SERVICES.",
       "color": "FF0000"
+    },
+    {
+      "row": 75,
+      "date": "2026-07-23",
+      "sum": 7088963.18,
+      "currency": "RUB",
+      "calc": null,
+      "company": null,
+      "costFormula": null,
+      "client": null,
+      "extra": "ВТС",
+      "rubles_received": null,
+      "sent_rubles_vdx": 7088963.18,
+      "exchange_to": "VDX",
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "color": "FF4FC3F7",
+      "notes": "John VDX: 7,088,963.18 RUB na VDX, komplektuyushchie dlya elektronnykh ustroystv, zayavka 81. Sovokupnyy platezh po VTS"
     }
   ]
 }
