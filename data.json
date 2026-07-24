@@ -1217,7 +1217,7 @@
       "sum": 18662.44,
       "currency": "EUR",
       "company": null,
-      "color": "#FF0000",
+      "color": "FFFFFFFF",
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "ВТС",
