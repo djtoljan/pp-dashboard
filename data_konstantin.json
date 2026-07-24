@@ -455,6 +455,21 @@
       "received_usdt": 343610.33,
       "sent_usdt": 342928,
       "notes": "Платёж от INFINITE. GROUPE SEB EXPORT MIDDLE E B (HSBC UAE, BBMEAEAD, a/c AE690200000026580852101). Инвойс 4017275175 dd 06.07.2026, частичная оплата 299,870.00 EUR. Проформа SEB 1 500 000 EUR. Товар: Tefal/Moulinex. Плательщик: INFINITE. Жду расчёт. | Расчёт: 299,870€ × 1.13676811 = 340,883 USD + 0.6% = 342,928 USDT. Кошелёк: TW6aXdGB6VmQjTi2iLwGjFypcibsHPAkHj | BobrAlert 24.07 OUT: 342,928 USDT к INFINITE (TW6aXdGB6). Источник: IN 343,610.33 USDT от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5"
+    },
+    {
+      "row": 27,
+      "date": "2026-07-24",
+      "sum": 15855,
+      "currency": "USD",
+      "calc": "ТЕЗ",
+      "company": "Q8",
+      "clientName": "Константин (Просто группа)",
+      "costFormula": null,
+      "extra": "Shenzhen New Deer Technology Co., Ltd",
+      "color": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Коммерческий инвойс PI-20260610487 от 10.07.2026. Shenzhen New Deer Technology CO.,LTD (Китай) → Q8 GROUP LIMITED. Fans (2510, 5015). 15,855 USD. OCBC Hong Kong (WIHBHKHHXXX), a/c 88800006405478. 30% предоплата 4,756 USD, остаток 11,098 USD."
     }
   ]
 }
