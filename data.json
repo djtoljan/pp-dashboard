@@ -1216,18 +1216,19 @@
       "date": "2026-07-22",
       "sum": 18662.44,
       "currency": "EUR",
-      "company": null,
-      "color": "FFFFFFFF",
+      "company": "Q8",
+      "color": "FF92D050",
       "clientName": "ВТС",
-      "costFormula": null,
+      "costFormula": "18662.44 EUR / 0.874675685144 = 21336.41 USD → 21778.43 USDT (VDX 78.65)",
       "extra": "ВТС",
       "row": 62,
       "rubles_received": "1681485.84 / 33102.29",
-      "notes": " | VDX 22.07: 1,714,588.13 RUB na VDX, zapchasti, zayavka 77",
+      "notes": " | VDX 22.07: 1,714,588.13 RUB na VDX, zapchasti, zayavka 77 | BONBILL 24.07 15:41: Q8→Itrix Co., Ltd. (Siam Commercial Bank), 18,662.44 EUR, INV 72534 dd 03.07.2026. TX O2080558906723139584535. EXECUTED 🟢",
       "sent_rubles_vdx": "1714588.13",
       "exchange_to": "VDX",
       "vdx_rate": 78.65,
-      "received_usdt": 21778.43
+      "received_usdt": 21778.43,
+      "calc": "ТЕЗ"
     },
     {
       "date": "2026-07-22",
@@ -1433,7 +1434,26 @@
       "exchange_to": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "Платежи из Мира Привелегий: ВТБ Блэкшарк→ИП Фараджев, 1,106,740.52₽, специализированная одежда. Клиент: ВТС Венгрия. Вход 24.07.2026.",
+      "notes": "Платежи из Мира Привелегий: ВТБ Блэкшарк→ИП Фараджев, 1,106,740.52₽, специализированная одежда. Клиент: ВТС Венгрия. Вход 24.07.2026. | ПП №44 от 24.07.2026 ИСПОЛНЕН 24.07 10:44: ВТБ Блэкшарк→ИП Фараджев В.И., 1,106,740.52₽. Назначение: {VO20200} Оплата по сч.6-БШ от 22.07.2026 за услуги по продвижению продукции (НДС 5% 52,701.93₽).",
+      "color": "FF0000"
+    },
+    {
+      "row": 74,
+      "date": "2026-07-24",
+      "sum": 15000,
+      "currency": "EUR",
+      "calc": null,
+      "company": null,
+      "costFormula": null,
+      "clientName": "ИП Мазуренко",
+      "extra": "ИП Мазуренко",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "vdx_rate": null,
+      "exchange_to": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Поручение №19 от 24.07.2026. Принципал: ИП Мазуренко И.А. Получатель: UAB EUROKUSTA (Литва, AB SEB bank CBVILT2X, LT357044060005218553). 15,000 EUR @ 88.89 = 1,333,350р. Комиссия 1.6% = 21,333.60р. Инвойс 8199 от 23.07.2026. STATE DUTY FOR VETERINARY SERVICES.",
       "color": "FF0000"
     }
   ]
