@@ -1219,7 +1219,7 @@
       "currency": "USD",
       "calc": "ТЕЗ",
       "company": "LEO",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "VTS",
       "costFormula": "6,553.70 USD * 1.005 + 100 = 6,686 USDT",
       "extra": "VTS",
