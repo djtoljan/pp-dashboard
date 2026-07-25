@@ -843,7 +843,7 @@
       "clientName": "Бьюти Брендз (Молодёжь)",
       "extra": "Бьюти Брендз (Молодёжь)",
       "costFormula": null,
-      "color": null,
+      "color": "FFFFFFFF",
       "notes": "Поручение №2 от 23.07.2026. Принципал: Бьюти Брендз. Агент: VDX. Получатель: Suzhou Meizida Plastic Packaging (Китай, ZHEJIANG CHOUZHOU CZCBCN2X, 15001014039900169145). Инвойс 01072026 от 01.07.2026. Курс 6.7385. 20,840 CNY = 242,699.64 RUB. ПП №68 (тело) ПРОВЕДЕНО 23.07. | ПП №67 (комиссия 20,549.11) + ПП №68 (тело 242,699.64) ПРОВЕДЕНЫ 23.07.",
       "rubles_received": null,
       "sent_rubles_vdx": "242699.64 / 20549.11",
@@ -862,7 +862,7 @@
       "clientName": "Бьюти Брендз (Молодёжь)",
       "extra": "Бьюти Брендз (Молодёжь)",
       "costFormula": null,
-      "color": null,
+      "color": "FFFFFFFF",
       "notes": "Поручение №1 от 23.07.2026. Принципал: Бьюти Брендз. Агент: VDX. Получатель: CHENGDU UTOP TECHNOLOGY (Китай, DBS HK DHBKHKHH, 798291353). Инвойс 2026070710 от 07.07.2026. Курс 6.7385. 40,000 CNY = 465,834.24 RUB. Комиссия 25,011.80. ПП №65 (комиссия) + ПП №66 (тело) ПРОВЕДЕНО 23.07.",
       "rubles_received": null,
       "sent_rubles_vdx": "465834.24 / 25011.80",
@@ -944,7 +944,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "color": null,
+      "color": "FFFFFFFF",
       "notes": "Poruchenie 3 ot 24.07.2026. Principal: OOO Byti Brendz. Agent: VDX. Poluchatel: Guangzhou Yuheng Plastic Products (ICBC ICBKCNBJGDC, 3602179709100172665). Inv 2026070710 ot 07.07.2026. Kurs 78.4049. RUB: 578628.16. Komissiya: 27253.54 | ПП №71 24.07: Бьюти Брендз→VDX, 578,628.16₽, Guangzhou Yuheng, Поручение №3. ПРОВЕДЕНО (Райффайзенбанк) | ПП №70 24.07: Бьюти Брендз→VDX, 27,253.54₽, вознаграждение (Поручение №3). ПРОВЕДЕНО"
     },
     {
