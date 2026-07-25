@@ -970,10 +970,10 @@
     {
       "row": 53,
       "date": "2026-07-24",
-      "sum": 31349.42,
-      "currency": "RUB",
+      "sum": null,
+      "currency": null,
       "company": null,
-      "color": null,
+      "color": "FF4FC3F7",
       "clientName": "Вилог",
       "costFormula": null,
       "extra": null,
