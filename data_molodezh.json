@@ -997,14 +997,14 @@
       "costFormula": null,
       "client": null,
       "extra": "Эксперт (Молодёжь)",
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "rubles_received": "2514127.35 / 58211.05",
+      "sent_rubles_vdx": "2514127.35",
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
       "color": "FFFF0000",
-      "notes": "Поручение №8 от 24.07.2026. Принципал: ООО Эксперт. Агент: VDX. Получатель: KBP (Choi Yeseul), WOORI BANK Seoul, HVBKKRSEXXX, a/c 1081-801-031584. Проформа BB2611 от 21.07.2026. ADVANCE PAYMENT. Курс 79.285. RUB: 2,514,127.35. Комиссия: 58,211.05"
+      "notes": "Поручение №8 от 24.07.2026. Принципал: ООО Эксперт. Агент: VDX. Получатель: KBP (Choi Yeseul), WOORI BANK Seoul, HVBKKRSEXXX, a/c 1081-801-031584. Проформа BB2611 от 21.07.2026. ADVANCE PAYMENT. Курс 79.285. RUB: 2,514,127.35. Комиссия: 58,211.05 | ПП №322 от 24.07.2026: ООО Эксперт→VDX, 2,514,127.35₽, для KBP, cont.475-EX26062026, ПР.IN.BB2611, аг.дог.09-02-2/26. Проведено 24.07. | ПП №323 от 24.07.2026: ООО Эксперт→VDX, 58,211.05₽, вознаграждение агента по пор.№8, аг.дог.09-02-2/26. Проведено 24.07."
     }
   ]
 }
