@@ -1316,7 +1316,7 @@
       "clientName": "ВТС",
       "extra": "ВТС",
       "costFormula": "11 840 CNY / 6.7626 = $1750.81 + 0.3% + 30 = 1786.06 USDT",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "notes": "Поручение №73048 от 23.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Shenzhen New Deer Technology (Китай, OCBC HK WIHBHKHHXXX, 88800006405478). Инвойс PI-20260610487 dd 29/06/2026. Курс 11.82. 11,840 CNY = 139,948.80 RUB. Комиссия 1.5%+100USD. | ВТБ выписка 23.07: ПП №3603 (9,980.23₽ комиссия) + ПП №3602 (139,948.80₽ тело) от ВТС, ИСПОЛНЕНЫ | VDX 23.07: 149,929.03 RUB na VDX, komplektuyushchie dlya elektronnykh ustroystv, zayavka 80 | ПП №52 24.07: 149,929.03₽ na VDX, ispolnen 24.07 11:59, po agent. dog. 4-01, zayav.80",
       "rubles_received": "139948.80 / 9980.23",
       "sent_rubles_vdx": 149929.03,
