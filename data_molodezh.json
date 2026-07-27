@@ -1177,6 +1177,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 64,
+      "date": "2026-07-27",
+      "sum": 68440.51,
+      "currency": "USD",
+      "calc": null,
+      "company": "INFINITE",
+      "clientName": "Кристалл Джет",
+      "extra": "Кристалл Джет",
+      "costFormula": null,
+      "color": "FFFF0000",
+      "notes": "Proforma Invoice ST260727 ot 27.07.2026 ot Alex. Polucheno: PT Infinite Sunrise Asia (Bali). Usluga: Airport services and refueling 27.07.2026. Summa: ,440.51 USD. Sleduet za invoisom ST260714 (Row 34). | Payment Order 27.07.2026: Poluchatel FUJIA AUTOMAT LIMITED (Hong Kong, Citibank CITIHKHXXXX, a/c 390205798). Invoice ST260727. ,440.51 USD.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
