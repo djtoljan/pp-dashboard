@@ -1461,10 +1461,10 @@
     {
       "row": 75,
       "date": "2026-07-27",
-      "sum": null,
-      "currency": null,
+      "sum": 40780,
+      "currency": "USD",
       "company": null,
-      "color": null,
+      "color": "FFFF0000",
       "clientName": null,
       "costFormula": null,
       "extra": null,
@@ -1474,7 +1474,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "Tranmax Machinery Co., Ltd (Тайвань) — инвойс Jerry Chen, P/O 08-26..12-26, всего 215 шт на 40 780 USD",
       "calc": null
     }
   ]
