@@ -1256,7 +1256,7 @@
       "currency": "USD",
       "calc": "ТЕЗ",
       "company": "LEO",
-      "color": "FFFFFF00",
+      "color": "FF4CAF50",
       "clientName": "VTS",
       "costFormula": "6,553.70 USD * 1.005 + 100 = 6,686 USDT",
       "extra": "VTS",
@@ -1266,7 +1266,7 @@
       "vdx_rate": 78.65,
       "received_usdt": 6723.62,
       "sent_usdt": 6686,
-      "notes": "БиТрейд→VDX, 529 342,35 ₽, электронные компоненты, заявка 79 | Alex VDX: Payment from LEO, INV THJ260224018 dd 24.02.26, 6,553.70 USD. Beneficiary: THJ(HK)TECHNOLOGY LIMITED (CCB Asia, CCBQHKAXXXX, a/c 846210286032). OUR| PENDING APPROVAL 24.07.2026: LEO SPOT CAPITAL → THJ(HK)TECHNOLOGY LIMITED, USD 6,553.70, TX 0805-2056-0178-6520, pending approval | VDX 24.07 17:18: PENDING APPROVAL: LEO SPOT CAPITAL → THJ(HK)TECHNOLOGY LTD, USD 6,553.70, TX 0805-2056-0178-6520. Maker: LEXY (LEO SPOT CAPITAL). Approval: pending. Exec 27 Jul 2026. CCB Asia CCBQHKAXXXX, a/c 8462-1028-6032. INV THJ260720143, THJ260720145 dd 20.07.26. OUR | Расчёт LEO SPOT 24.07: 6,553.70 × 1.005 + 100 = 6,686 USDT. Кошелёк: TZHYbRUXNB9Xum6vVKWJaxkD3JHR1yxy6W"
+      "notes": "БиТрейд→VDX, 529 342,35 ₽, электронные компоненты, заявка 79 | Alex VDX: Payment from LEO, INV THJ260224018 dd 24.02.26, 6,553.70 USD. Beneficiary: THJ(HK)TECHNOLOGY LIMITED (CCB Asia, CCBQHKAXXXX, a/c 846210286032). OUR| PENDING APPROVAL 24.07.2026: LEO SPOT CAPITAL → THJ(HK)TECHNOLOGY LIMITED, USD 6,553.70, TX 0805-2056-0178-6520, pending approval | VDX 24.07 17:18: PENDING APPROVAL: LEO SPOT CAPITAL → THJ(HK)TECHNOLOGY LTD, USD 6,553.70, TX 0805-2056-0178-6520. Maker: LEXY (LEO SPOT CAPITAL). Approval: pending. Exec 27 Jul 2026. CCB Asia CCBQHKAXXXX, a/c 8462-1028-6032. INV THJ260720143, THJ260720145 dd 20.07.26. OUR | Расчёт LEO SPOT 24.07: 6,553.70 × 1.005 + 100 = 6,686 USDT. Кошелёк: TZHYbRUXNB9Xum6vVKWJaxkD3JHR1yxy6W | SUCCESSFUL 27.07.2026 16:56:37: LEO SPOT CAPITAL → THJ(HK)TECHNOLOGY LIMITED, USD 6,553.70. TX 0805-2056-0178-6520. CCB Asia (HK). Fees: 36 USD. INV THJ260720143, THJ260720145. Total debit: 6,589.70 USD."
     },
     {
       "row": 65,
@@ -1507,8 +1507,8 @@
       "extra": "Дре Русланд",
       "costFormula": null,
       "color": "FFFF0000",
-      "notes": "Portshenie No31 ot 27.07.2026. Agentskiy dogovor No2701-27/1 ot 27.01.26g. Principal: OOO DRE RUSLAND TREYDING. Poluchatel: MAR-S SP Z O O (Polsha, BRALIN, ul.NAMISLOWSKA 9B). Bank: SANTANDER BANK POLSKA S.A., SWIFT WBKPPLPP, IBAN PL86109011440000000122754883. Summa: 17,623.33 EUR. Invoys FV/3667/2026 ot 09.07.2026 (mebel). Kurs: 88.8927 RUB/EUR. RUB-ekvivalent: 1,566,585.39. Komissiya: 1.6% = 25,065.36 RUB. Podpis: Belokonev E.N. (Gen. direktor OOO DRE RUSLAND TREYDING).",
-      "rubles_received": null,
+      "notes": "Portshenie No31 ot 27.07.2026. Agentskiy dogovor No2701-27/1 ot 27.01.26g. Principal: OOO DRE RUSLAND TREYDING. Poluchatel: MAR-S SP Z O O (Polsha, BRALIN, ul.NAMISLOWSKA 9B). Bank: SANTANDER BANK POLSKA S.A., SWIFT WBKPPLPP, IBAN PL86109011440000000122754883. Summa: 17,623.33 EUR. Invoys FV/3667/2026 ot 09.07.2026 (mebel). Kurs: 88.8927 RUB/EUR. RUB-ekvivalent: 1,566,585.39. Komissiya: 1.6% = 25,065.36 RUB. Podpis: Belokonev E.N. (Gen. direktor OOO DRE RUSLAND TREYDING). | Energotransbank 27.07: postuplenie 1,566,585.39RUB (telo) + 25,065.36RUB (komissiya 1.6%) ot OOO DRE RUSLAND TREYDING po dogovoru №2701-27/1. Bank.komissiya: 4,699.76RUB.",
+      "rubles_received": "1566585.39 / 25065.36",
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
