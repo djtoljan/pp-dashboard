@@ -1608,6 +1608,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 87,
+      "date": "2026-07-27",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "Церера (Цветы)",
+      "extra": "Церера (Цветы)",
+      "costFormula": null,
+      "color": "FF4FC3F7",
+      "notes": "Prihod na Blackshark POCHTOBANK: voznagrazhdenie 42,890.21 RUB + oplata 1,715,608.58 RUB po WD-27 por.39 ot 27.07.2026. Kontrakt 10-02-2025 ot 10.02.2025. TSERERA. Vyipiska POCHTOBANK 27.07 18:16.",
+      "rubles_received": "42890.21 / 1715608.58",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
