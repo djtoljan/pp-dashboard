@@ -1457,6 +1457,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 75,
+      "date": "2026-07-27",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
