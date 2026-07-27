@@ -1158,6 +1158,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 63,
+      "date": "2026-07-27",
+      "sum": 1084628.12,
+      "currency": "RUB",
+      "calc": null,
+      "company": null,
+      "clientName": null,
+      "extra": null,
+      "costFormula": null,
+      "color": "FF4FC3F7",
+      "notes": "PP No409 ot 27.07.2026. Platelshchik: OOO Kristall Dzhet (BANK GPB (AO) Moskva). Poluchatel: VDX. Summa: 1,084,628.12 RUB. VO23210 dogovor 210933/KD. Ispolneno.",
+      "rubles_received": null,
+      "sent_rubles_vdx": "1084628.12",
+      "exchange_to": "VDX",
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
