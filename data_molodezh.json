@@ -976,7 +976,7 @@
       "company": "Q8",
       "costFormula": "7380 + 0.3% + 30 = 7432.14 USDT",
       "client": null,
-      "extra": "Byti Brendz (Molodezh)",
+      "extra": "Бьюти Брендз",
       "rubles_received": null,
       "sent_rubles_vdx": "578628.16 / 27253.54",
       "exchange_to": "VDX",
@@ -984,7 +984,8 @@
       "received_usdt": null,
       "sent_usdt": "7432.14",
       "color": "FFFFFFFF",
-      "notes": "Poruchenie 3 ot 24.07.2026. Principal: OOO Byti Brendz. Agent: VDX. Poluchatel: Guangzhou Yuheng Plastic Products (ICBC ICBKCNBJGDC, 3602179709100172665). Inv 2026070710 ot 07.07.2026. Kurs 78.4049. RUB: 578628.16. Komissiya: 27253.54 | ПП №71 24.07: Бьюти Брендз→VDX, 578,628.16₽, Guangzhou Yuheng, Поручение №3. ПРОВЕДЕНО (Райффайзенбанк) | ПП №70 24.07: Бьюти Брендз→VDX, 27,253.54₽, вознаграждение (Поручение №3). ПРОВЕДЕНО"
+      "notes": "Poruchenie 3 ot 24.07.2026. Principal: OOO Byti Brendz. Agent: VDX. Poluchatel: Guangzhou Yuheng Plastic Products (ICBC ICBKCNBJGDC, 3602179709100172665). Inv 2026070710 ot 07.07.2026. Kurs 78.4049. RUB: 578628.16. Komissiya: 27253.54 | ПП №71 24.07: Бьюти Брендз→VDX, 578,628.16₽, Guangzhou Yuheng, Поручение №3. ПРОВЕДЕНО (Райффайзенбанк) | ПП №70 24.07: Бьюти Брендз→VDX, 27,253.54₽, вознаграждение (Поручение №3). ПРОВЕДЕНО",
+      "clientName": "Бьюти Брендз"
     },
     {
       "row": 54,
