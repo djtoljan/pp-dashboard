@@ -838,11 +838,11 @@
       "date": "2026-07-23",
       "sum": 20840,
       "currency": "CNY",
-      "calc": null,
+      "calc": "ТЕЗ",
       "company": "Q8",
       "clientName": "Бьюти Брендз (Молодёжь)",
       "extra": "Бьюти Брендз (Молодёжь)",
-      "costFormula": null,
+      "costFormula": "20 840 CNY / 6.7626 = $3081.65 + 0.3% + 30 = 3120.90 USDT",
       "color": "FFFFFFFF",
       "notes": "Поручение №2 от 23.07.2026. Принципал: Бьюти Брендз. Агент: VDX. Получатель: Suzhou Meizida Plastic Packaging (Китай, ZHEJIANG CHOUZHOU CZCBCN2X, 15001014039900169145). Инвойс 01072026 от 01.07.2026. Курс 6.7385. 20,840 CNY = 242,699.64 RUB. ПП №68 (тело) ПРОВЕДЕНО 23.07. | ПП №67 (комиссия 20,549.11) + ПП №68 (тело 242,699.64) ПРОВЕДЕНЫ 23.07.",
       "rubles_received": null,
@@ -850,18 +850,18 @@
       "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null
+      "sent_usdt": 3120.9
     },
     {
       "row": 47,
       "date": "2026-07-23",
       "sum": 40000,
       "currency": "CNY",
-      "calc": null,
+      "calc": "ТЕЗ",
       "company": "Q8",
       "clientName": "Бьюти Брендз (Молодёжь)",
       "extra": "Бьюти Брендз (Молодёжь)",
-      "costFormula": null,
+      "costFormula": "40 000 CNY / 6.7626 = $5914.88 + 0.3% + 30 = 5962.63 USDT",
       "color": "FFFFFFFF",
       "notes": "Поручение №1 от 23.07.2026. Принципал: Бьюти Брендз. Агент: VDX. Получатель: CHENGDU UTOP TECHNOLOGY (Китай, DBS HK DHBKHKHH, 798291353). Инвойс 2026070710 от 07.07.2026. Курс 6.7385. 40,000 CNY = 465,834.24 RUB. Комиссия 25,011.80. ПП №65 (комиссия) + ПП №66 (тело) ПРОВЕДЕНО 23.07.",
       "rubles_received": null,
@@ -869,7 +869,7 @@
       "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null
+      "sent_usdt": 5962.63
     },
     {
       "row": 48,
