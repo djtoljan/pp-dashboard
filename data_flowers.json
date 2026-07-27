@@ -1627,6 +1627,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 88,
+      "date": "2026-07-27",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "Ароматный Путь (Цветы)",
+      "costFormula": null,
+      "extra": "Ароматный Путь (Цветы)",
+      "color": "FF4FC3F7",
+      "rubles_received": "108082.22 / 4323288.67",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Prihod na Blackshark POCHTOBANK: voznagrazhdenie 108,082.22 RUB + oplata 4,323,288.67 RUB po WD-25 por.91 ot 27.07.2026. Kontrakt 31/10-2024 ot 31.10.2024. Aromatny Put. Vyipiska POCHTOBANK 27.07."
     }
   ]
 }

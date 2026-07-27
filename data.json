@@ -1093,8 +1093,8 @@
       "exchange_to": "VDX",
       "received_usdt": "30403.01",
       "sent_usdt": 30167.24,
-      "notes": "Заявка 615. Блэкшарк → VDX. Оплата за керамическую плитку. Получатель: ООО ДжейСИхаус | Расчёт: 29 962 USD → 30 167.24 USDT | VDX CONFIRMATION 17.07 12:28 UTC: MT73 INITIATED, ERS LOGISTI OOD, SEPA, INVOICE ERS 16/2026 | Анна: БлэкШарк ЭНЕРГОТРАНС→VDX 2,392,068.97₽, керамическая плитка, заявка 615 | Энерготрансбанк выписка 17.07 (от Евы): подтверждено поступление на счёт Блэкшарк | Konstantin 27.07: TRANSPATH LOGISTIC -> ERS LOGISTI OOD (IBAN BG34UNCR70001526108412). Invoice ERS 16/2026. Amount: 26,204.95 EUR SEPA. Status: IN_PROGRESS. Created 27.07 13:10 UTC.",
-      "color": "FFFFFF00",
+      "notes": "Заявка 615. Блэкшарк → VDX. Оплата за керамическую плитку. Получатель: ООО ДжейСИхаус | Расчёт: 29 962 USD → 30 167.24 USDT | VDX CONFIRMATION 17.07 12:28 UTC: MT73 INITIATED, ERS LOGISTI OOD, SEPA, INVOICE ERS 16/2026 | Анна: БлэкШарк ЭНЕРГОТРАНС→VDX 2,392,068.97₽, керамическая плитка, заявка 615 | Энерготрансбанк выписка 17.07 (от Евы): подтверждено поступление на счёт Блэкшарк | Konstantin 27.07: TRANSPATH LOGISTIC -> ERS LOGISTI OOD (IBAN BG34UNCR70001526108412). Invoice ERS 16/2026. Amount: 26,204.95 EUR SEPA. Status: IN_PROGRESS. Created 27.07 13:10 UTC. | TRANSPATH→ERS LOGISTI OOD COMPLETED 27.07 14:23 UTC (file from Konstantin).",
+      "color": "FF92D050",
       "extra": "ГК Джей Си Хаус",
       "client": null
     },
@@ -1533,6 +1533,44 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 79,
+      "date": "2026-07-27",
+      "sum": 316.56,
+      "currency": "USD",
+      "calc": null,
+      "company": "БиТрейд",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "ВТС",
+      "color": "FFFFFFFF",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Инвойс 73810 от 27.07.2026, БиТрейд→ВТС. Посреднические услуги по проведению расчетов с иностранным поставщиком. Договор 27062025TK/1 от 24.06.2025. Курс USD 78.3100 (= 24,790.01 RUB)."
+    },
+    {
+      "row": 80,
+      "date": "2026-07-27",
+      "sum": 14437.5,
+      "currency": "USD",
+      "calc": null,
+      "company": null,
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "ВТС",
+      "color": "FFFF0000",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "Поручение 73810 от 27.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Guangzhou Tinlee Leather Co., Ltd (Китай). Инвойс HXX20260722 от 22.07.2026. Контракт 24-07/01 от 24.07.2026. Курс 78.3100. Комиссия 1.5%+100 USD."
     }
   ]
 }
