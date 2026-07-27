@@ -1570,6 +1570,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "Приход на Блэкшарк ПОЧТО: вознаграждение 115,320.51₽ + оплата 4,612,820.57₽ по WD-26 пор.93 от 24.07.2026 | John 24.07: Блэкшарк ПОЧТО→ВТБ, 4,728,141.08₽, перевод собственных средств, O:\\...\\ГЛОБАЛЦВЕТ\\вход 24.07.26"
+    },
+    {
+      "row": 85,
+      "date": "2026-07-27",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "ГлобалЦвет (Цветы)",
+      "costFormula": null,
+      "extra": "ГлобалЦвет (Цветы)",
+      "color": "FF4FC3F7",
+      "notes": "John 27.07: s Blackshark VTB na VIDIIKS, 2,400,000 RUB, tsvety, zayavka 637. O:\\\\...\\\\GLOBALTSVET\\\\vhod 24.07.26\\\\s vtb 2,4. Novaya otpravka GlobalTsvet na VDX.",
+      "rubles_received": null,
+      "sent_rubles_vdx": "2400000",
+      "exchange_to": "VDX",
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }

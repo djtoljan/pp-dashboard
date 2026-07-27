@@ -1533,6 +1533,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 79,
+      "date": "2026-07-27",
+      "sum": 41562.05,
+      "currency": "USD",
+      "calc": null,
+      "company": null,
+      "clientName": "ВТС",
+      "extra": "ВТС",
+      "costFormula": null,
+      "color": "FFFF0000",
+      "notes": "Invoys ot DENER INOVASYON (Turtsiya, Kayseri, VakifBank TVBATR2A, USD IBAN TR750001500158048023392390). Pokupatel: WTC LLC (VTS). Tovar: FLAT/WRINKLE PANEL i LINED/EMBOSSED PANEL (Finger Protection, raznye cveta/razmery). Summa: ,562.05 USD. Plat.: avans. Kontakt: Yigit CANBAZ. Polucheno ot Aliny 27.07.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
