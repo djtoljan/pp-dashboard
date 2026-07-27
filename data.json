@@ -1476,6 +1476,44 @@
       "sent_usdt": null,
       "notes": "Tranmax Machinery Co., Ltd (Тайвань) — инвойс Jerry Chen, P/O 08-26..12-26, всего 215 шт на 40 780 USD",
       "calc": null
+    },
+    {
+      "row": 76,
+      "date": "2026-07-27",
+      "sum": 30000,
+      "currency": "EUR",
+      "calc": null,
+      "company": null,
+      "clientName": "ИП Осипенко",
+      "extra": "ИП Осипенко",
+      "costFormula": null,
+      "color": "FFFF0000",
+      "notes": "Поручение №12 от 27.07.2026. Принципал: ИП Осипенко (Осипенко В.П., Калининград). Агент: ОсОО \"Блэкшарк Трейд\". Получатель: Cherkezov LTD (Болгария, Blagoevgrad). Банк: UNICREDIT BULBANK, SWIFT UNCRBGSF, IBAN BG03UNCR70001520072854. Сумма: 30,000 EUR. Инвойс 60-2026. Контракт №09 022026 от 06.03.2026. Курс: 88.8927 RUB/EUR. RUB-эквивалент: 2,666,781. Комиссия: 1.5%+100USD = 40,001.72+7,803.08=47,804.80 RUB. Срок: 2-3 банк. дня.",
+      "rubles_received": "2666781.00 / 47804.80",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
+    },
+    {
+      "row": 77,
+      "date": "2026-07-27",
+      "sum": 17623.33,
+      "currency": "EUR",
+      "calc": null,
+      "company": null,
+      "clientName": "ИП Осипенко",
+      "extra": "ИП Осипенко",
+      "costFormula": null,
+      "color": "FFFF0000",
+      "notes": "Поручение №31 от 27.07.2026. Агентский договор №2701-27/1 от 27.01.26. Принципал: ИП Осипенко (Осипенко В.П., Калининград). Получатель: MAR-S SP Z O O (Польша, BRALIN, ul.NAMISLOWSKA 9B). Банк: SANTANDER BANK POLSKA S.A., SWIFT WBKPPLPP, IBAN PL86109011440000000122754883. Сумма: 17,623.33 EUR. Инвойс FV/3667/2026 от 09.07.2026. Курс: 88.8927 RUB/EUR. RUB-эквивалент: 1,566,585.39. Комиссия: 1.6% = 25,065.36 RUB. Срок: 2-3 банк. дня.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
