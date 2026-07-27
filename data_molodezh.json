@@ -959,9 +959,9 @@
       "extra": "Вилог",
       "costFormula": null,
       "color": "FF4FC3F7",
-      "notes": "PP No542 ot 27.07.2026. Platelshchik: OOO VILOG (VTB). Poluchatel: VidiIks Servisez - FZKO (VDX, PSB Yaroslavl). Summa: 1,736,033.27 RUB. Naznachenie: Chastichnaya oplata za tovar po invoysu UNT-002-IN20260623 ot 30.06.2026, dogovor NZDLWL120525-A-USD. Kurs: 79.7150. Ispolnen: 27.07.2026 v 14:02:09. | Dalli 27.07: podtverzhdenie 736,033.27=1,736,033.27 (OCR otbrosil 1). VILOG->VDX ispolnen.",
+      "notes": "PP No544 ot 27.07.2026. Platelshchik: OOO VILOG (VTB). Poluchatel: VidiIks Servisez - FZKO (VDX, PSB Yaroslavl). Summa: 927,956.13 RUB. Naznachenie: chastichnaya oplata za tovar po invoysu ITK-007-# 2026-07-17/2 ot 21.07.2026, dogovor NZDLWL120525-A-USD. Kurs: 79.5914. Ispolnen: 27.07.2026 v 15:55:36.",
       "rubles_received": null,
-      "sent_rubles_vdx": "1736033.27",
+      "sent_rubles_vdx": "927956.13",
       "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
@@ -969,6 +969,25 @@
     },
     {
       "row": 53,
+      "date": "2026-07-27",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "Вилог",
+      "extra": "Вилог",
+      "costFormula": null,
+      "color": "FF4FC3F7",
+      "notes": "PP No543 ot 27.07.2026. Platelshchik: OOO VILOG (VTB). Poluchatel: VidiIks Servisez - FZKO (VDX, PSB Yaroslavl). Summa: 951,356.00 RUB. Naznachenie: chastichnaya oplata za tovar po invoysam PRM-077-RCF260702-PM ot 02.07.2026, DVS-016-ED260724KA005 ot 24.07.2026, dogovor NZDLWL120525-A-USD. Kurs: 79.5914. Ispolnen: 27.07.2026 v 16:03:03. Podpis: Melnikova S.S. (VILOG).",
+      "rubles_received": null,
+      "sent_rubles_vdx": "951356.00",
+      "exchange_to": "VDX",
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
+    },
+    {
+      "row": 54,
       "date": "2026-07-27",
       "sum": 21778,
       "currency": "USD",
@@ -980,14 +999,14 @@
       "color": "FFFFFFFF",
       "notes": "Proforma Invoice IN20260623 ot 23.06.2026. Seller: 365 ONLINE TECHNOLOGY LIMITED (Hong Kong, Standard Chartered SCBLHKHHXXX, a/c 47411394034). Buyer: Q8 GROUP LIMITED. Tovar: Controller Module STL6SPCBB42 (Finished Board, 1 pc). Summa: ,778 USD. Polucheno ot Daisy 27.07.",
       "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": "1736033.27",
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": "21873.33"
     },
     {
-      "row": 54,
+      "row": 55,
       "date": "2026-07-27",
       "sum": 31710,
       "currency": "USD",
@@ -1007,7 +1026,7 @@
       "notes": "Поручение №8 от 24.07.2026. Принципал: ООО Эксперт. Агент: VDX. Получатель: KBP (Choi Yeseul), WOORI BANK Seoul, HVBKKRSEXXX, a/c 1081-801-031584. Проформа BB2611 от 21.07.2026. ADVANCE PAYMENT. Курс 79.285. RUB: 2,514,127.35. Комиссия: 58,211.05 | ПП №322 от 24.07.2026: ООО Эксперт→VDX, 2,514,127.35₽, для KBP, cont.475-EX26062026, ПР.IN.BB2611, аг.дог.09-02-2/26. Проведено 24.07. | ПП №323 от 24.07.2026: ООО Эксперт→VDX, 58,211.05₽, вознаграждение агента по пор.№8, аг.дог.09-02-2/26. Проведено 24.07. | Alex VDX 27.07: Payment from YQ (YOUNGQ LIMITED/YQ-BEA) to KBP (WOORI BANK Seoul, HVBKKRSEXXX, a/c 1081-801-031584). INVOICE BB2611 dd 21.07.26. Amount: ,710.00 USD. OUR."
     },
     {
-      "row": 55,
+      "row": 56,
       "date": "2026-07-27",
       "sum": 68440.51,
       "currency": "USD",
@@ -1026,7 +1045,7 @@
       "sent_usdt": null
     },
     {
-      "row": 56,
+      "row": 57,
       "date": "2026-07-27",
       "sum": 7380,
       "currency": "USD",
@@ -1044,44 +1063,6 @@
       "color": "FFFFFFFF",
       "notes": "Poruchenie 3 ot 24.07.2026. Principal: OOO Byti Brendz. Agent: VDX. Poluchatel: Guangzhou Yuheng Plastic Products (ICBC ICBKCNBJGDC, 3602179709100172665). Inv 2026070710 ot 07.07.2026. Kurs 78.4049. RUB: 578628.16. Komissiya: 27253.54 | ПП №71 24.07: Бьюти Брендз→VDX, 578,628.16₽, Guangzhou Yuheng, Поручение №3. ПРОВЕДЕНО (Райффайзенбанк) | ПП №70 24.07: Бьюти Брендз→VDX, 27,253.54₽, вознаграждение (Поручение №3). ПРОВЕДЕНО",
       "clientName": "Бьюти Брендз"
-    },
-    {
-      "row": 57,
-      "date": "2026-07-27",
-      "sum": 927956.13,
-      "currency": "RUB",
-      "calc": null,
-      "company": null,
-      "clientName": null,
-      "extra": null,
-      "costFormula": null,
-      "color": "FF4FC3F7",
-      "notes": "PP No544 ot 27.07.2026. Platelshchik: OOO VILOG (VTB). Poluchatel: VidiIks Servisez - FZKO (VDX, PSB Yaroslavl). Summa: 927,956.13 RUB. Naznachenie: chastichnaya oplata za tovar po invoysu ITK-007-# 2026-07-17/2 ot 21.07.2026, dogovor NZDLWL120525-A-USD. Kurs: 79.5914. Ispolnen: 27.07.2026 v 15:55:36.",
-      "rubles_received": null,
-      "sent_rubles_vdx": "927956.13",
-      "exchange_to": "VDX",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null
-    },
-    {
-      "row": 58,
-      "date": "2026-07-27",
-      "sum": 951356,
-      "currency": "RUB",
-      "calc": null,
-      "company": null,
-      "clientName": null,
-      "extra": null,
-      "costFormula": null,
-      "color": "FF4FC3F7",
-      "notes": "PP No543 ot 27.07.2026. Platelshchik: OOO VILOG (VTB). Poluchatel: VidiIks Servisez - FZKO (VDX, PSB Yaroslavl). Summa: 951,356.00 RUB. Naznachenie: chastichnaya oplata za tovar po invoysam PRM-077-RCF260702-PM ot 02.07.2026, DVS-016-ED260724KA005 ot 24.07.2026, dogovor NZDLWL120525-A-USD. Kurs: 79.5914. Ispolnen: 27.07.2026 v 16:03:03. Podpis: Melnikova S.S. (VILOG).",
-      "rubles_received": null,
-      "sent_rubles_vdx": "951356.00",
-      "exchange_to": "VDX",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null
     }
   ]
 }
