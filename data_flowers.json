@@ -1589,6 +1589,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
+    },
+    {
+      "row": 86,
+      "date": "2026-07-27",
+      "sum": null,
+      "currency": null,
+      "calc": null,
+      "company": null,
+      "clientName": "ГлобалЦвет (Цветы)",
+      "extra": "ГлобалЦвет (Цветы)",
+      "costFormula": null,
+      "color": "FF4FC3F7",
+      "notes": "Prihod na Blackshark POCHTOBANK: voznagrazhdenie 162,721.22 RUB + oplata 6,508,848.67 RUB po WD-26 por.94 ot 27.07.2026. Kontrakt 01/11-2024 ot 01.11.2024. GlobalTsvet. Vyipiska POCHTOBANK 27.07.",
+      "rubles_received": "162721.22 / 6508848.67",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }
