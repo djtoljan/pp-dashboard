@@ -850,8 +850,8 @@
       "rubles_received": null,
       "sent_rubles_vdx": "1841757.71",
       "exchange_to": "VDX",
-      "vdx_rate": null,
-      "received_usdt": null,
+      "vdx_rate": "78.27",
+      "received_usdt": "23507.29",
       "sent_usdt": null
     },
     {
@@ -889,7 +889,7 @@
       "sent_rubles_vdx": "242699.64 / 20549.11",
       "exchange_to": "VDX",
       "vdx_rate": "78.27 / 78.27",
-      "received_usdt": 3097.7,
+      "received_usdt": "3097.7 / 262.28",
       "sent_usdt": 3120.9
     },
     {
@@ -908,7 +908,7 @@
       "sent_rubles_vdx": "465834.24 / 25011.80",
       "exchange_to": "VDX",
       "vdx_rate": "78.27 / 78.27",
-      "received_usdt": 5945.68,
+      "received_usdt": "5945.68 / 319.24",
       "sent_usdt": 5962.63
     },
     {
@@ -924,8 +924,8 @@
       "rubles_received": null,
       "sent_rubles_vdx": "31349.42",
       "exchange_to": "VDX",
-      "vdx_rate": null,
-      "received_usdt": null,
+      "vdx_rate": "78.8",
+      "received_usdt": "397.44",
       "sent_usdt": null,
       "notes": "ПП №541 от 24.07.2026. ООО ВИЛОГ→VDX (ПСБ Ярославль). 31,349.42₽. Частичная оплата за товар по инвойсу LNR-175-# 2026-07-17/1 от 21.07.2026, договор NZDLWL120525-A-USD (HS 8206000000), курс 79.9730. ИСПОЛНЕН ВТБ 24.07 16:41.",
       "calc": null
@@ -1060,7 +1060,7 @@
       "sent_rubles_vdx": "578628.16 / 27253.54",
       "exchange_to": "VDX",
       "vdx_rate": "78.27 / 78.27",
-      "received_usdt": 7385.33,
+      "received_usdt": "7385.33 / 347.85",
       "sent_usdt": "7432.14",
       "color": "FFFFFFFF",
       "notes": "Poruchenie 3 ot 24.07.2026. Principal: OOO Byti Brendz. Agent: VDX. Poluchatel: Guangzhou Yuheng Plastic Products (ICBC ICBKCNBJGDC, 3602179709100172665). Inv 2026070710 ot 07.07.2026. Kurs 78.4049. RUB: 578628.16. Komissiya: 27253.54 | ПП №71 24.07: Бьюти Брендз→VDX, 578,628.16₽, Guangzhou Yuheng, Поручение №3. ПРОВЕДЕНО (Райффайзенбанк) | ПП №70 24.07: Бьюти Брендз→VDX, 27,253.54₽, вознаграждение (Поручение №3). ПРОВЕДЕНО",
