@@ -900,7 +900,7 @@
       "clientName": "Вектра Партс (Молодёжь)",
       "extra": "Вектра Партс (Молодёжь)",
       "costFormula": "8229.42 CAD / 1.402733983858 = 5866.70 USD + 0.3% + 30 = 5914.3 USDT",
-      "color": "#FFFFFF",
+      "color": "FF92D050",
       "notes": "Инвойс №CDN20072026 от 20.07.2026. 17490283 CANADA INC (Канада, TD Canada Trust TDOMCATTTOR, 10455037648). Cargo transportation, CAD 8,229.42. Плательщик: Q8 GROUP LIMITED. Payment Order CAD приложен. | BONBILL 24.07: Q8 USD→CAD 5,898→8,273.32 @ 1.40273 (кросс-курс под заявку). TX 202607241434019332624",
       "rubles_received": null,
       "sent_rubles_vdx": null,
