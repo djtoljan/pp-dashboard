@@ -1006,6 +1006,44 @@
       "sent_usdt": null,
       "color": "FFFF0000",
       "notes": "Поручение №8 от 24.07.2026. Принципал: ООО Эксперт. Агент: VDX. Получатель: KBP (Choi Yeseul), WOORI BANK Seoul, HVBKKRSEXXX, a/c 1081-801-031584. Проформа BB2611 от 21.07.2026. ADVANCE PAYMENT. Курс 79.285. RUB: 2,514,127.35. Комиссия: 58,211.05 | ПП №322 от 24.07.2026: ООО Эксперт→VDX, 2,514,127.35₽, для KBP, cont.475-EX26062026, ПР.IN.BB2611, аг.дог.09-02-2/26. Проведено 24.07. | ПП №323 от 24.07.2026: ООО Эксперт→VDX, 58,211.05₽, вознаграждение агента по пор.№8, аг.дог.09-02-2/26. Проведено 24.07."
+    },
+    {
+      "row": 55,
+      "date": "2026-07-27",
+      "sum": 1736033.27,
+      "currency": "RUB",
+      "calc": null,
+      "company": null,
+      "clientName": "Вилог",
+      "extra": "Вилог",
+      "costFormula": null,
+      "color": "FF4FC3F7",
+      "notes": "PP No542 ot 27.07.2026. Platelshchik: OOO VILOG (VTB). Poluchatel: VidiIks Servisez - FZKO (VDX, PSB Yaroslavl). Summa: 1,736,033.27 RUB. Naznachenie: Chastichnaya oplata za tovar po invoysu UNT-002-IN20260623 ot 30.06.2026, dogovor NZDLWL120525-A-USD. Kurs: 79.7150. Ispolnen: 27.07.2026 v 14:02:09.",
+      "rubles_received": null,
+      "sent_rubles_vdx": "1736033.27",
+      "exchange_to": "VDX",
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
+    },
+    {
+      "row": 56,
+      "date": "2026-07-27",
+      "sum": 21778,
+      "currency": "USD",
+      "calc": null,
+      "company": "Q8",
+      "clientName": "Vilog",
+      "extra": "Vilog",
+      "costFormula": null,
+      "color": "FFFFFFFF",
+      "notes": "Proforma Invoice IN20260623 ot 23.06.2026. Seller: 365 ONLINE TECHNOLOGY LIMITED (Hong Kong, Standard Chartered SCBLHKHHXXX, a/c 47411394034). Buyer: Q8 GROUP LIMITED. Tovar: Controller Module STL6SPCBB42 (Finished Board, 1 pc). Summa: ,778 USD. Polucheno ot Daisy 27.07.",
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null
     }
   ]
 }

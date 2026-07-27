@@ -1488,10 +1488,10 @@
       "extra": "ИП Осипенко",
       "costFormula": null,
       "color": "FFFF0000",
-      "notes": "Поручение №12 от 27.07.2026. Принципал: ИП Осипенко (Осипенко В.П., Калининград). Агент: ОсОО \"Блэкшарк Трейд\". Получатель: Cherkezov LTD (Болгария, Blagoevgrad). Банк: UNICREDIT BULBANK, SWIFT UNCRBGSF, IBAN BG03UNCR70001520072854. Сумма: 30,000 EUR. Инвойс 60-2026. Контракт №09 022026 от 06.03.2026. Курс: 88.8927 RUB/EUR. RUB-эквивалент: 2,666,781. Комиссия: 1.5%+100USD = 40,001.72+7,803.08=47,804.80 RUB. Срок: 2-3 банк. дня.",
+      "notes": "Поручение №12 от 27.07.2026. Принципал: ИП Осипенко (Осипенко В.П., Калининград). Агент: ОсОО \"Блэкшарк Трейд\". Получатель: Cherkezov LTD (Болгария, Blagoevgrad). Банк: UNICREDIT BULBANK, SWIFT UNCRBGSF, IBAN BG03UNCR70001520072854. Сумма: 30,000 EUR. Инвойс 60-2026. Контракт №09 022026 от 06.03.2026. Курс: 88.8927 RUB/EUR. RUB-эквивалент: 2,666,781. Комиссия: 1.5%+100USD = 40,001.72+7,803.08=47,804.80 RUB. Срок: 2-3 банк. дня. | John/VDX 27.07: s Blackshark POCHTO na VIDIIKS, 2,714,585.80 RUB, plity iz izvestnyaka, zayavka 635. O:\\...\\IP OSIPENKO\\vhod 27.07.26.",
       "rubles_received": "2666781.00 / 47804.80",
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": 2714585.8,
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null
