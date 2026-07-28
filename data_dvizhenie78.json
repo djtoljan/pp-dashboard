@@ -162,13 +162,13 @@
     "clientName": null,
     "costFormula": null,
     "extra": "Балтик Лэнд (Движение 78)",
-    "rubles_received": "0 / 16971.38",
+    "rubles_received": "1114457.05 / 16971.38",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Пор.55 от 28.07.2026. Агентское вознаграждение (VO21100) от ООО БАЛТИК ЛЭНД. Аг.договор 120525-B",
+    "notes": "Пор.55 от 28.07.2026. Перевозка (VO21200) 1,114,457.05₽ + агентское (VO21100) 16,971.38₽. Аг.договор 120525-B, контракт 1-07/25",
     "calc": ""
   },
   {
