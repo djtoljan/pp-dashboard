@@ -464,7 +464,7 @@
     "sum": 17920,
     "currency": "USD",
     "calc": "ТЕЗ",
-    "company": "NIKA GLOBAL TRADE LIMITED",
+    "company": "MGT",
     "costFormula": "17 920,00 USD / 0,996 + 25 = 18 017 USDT",
     "clientName": "ООО «А-РГО»",
     "rubles_received": "1370163.20 / 28198.44",
@@ -1575,7 +1575,6 @@
     "row": 81,
     "date": "2026-07-28",
     "sum": null,
-    "currency": "RUB",
     "company": null,
     "color": "FF4FC3F7",
     "clientName": null,
@@ -1588,6 +1587,25 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "John: Блэкшарк ПОЧТО→Аль Сафи, 1,979,438.88₽, перевод собственных средств. FININVEST -БШ-Цветы, вход 27.07.26. Отправитель: ФИНИНВЕСТУЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ",
-    "calc": "FININVEST (Цветы)"
+    "calc": ""
+  },
+  {
+    "row": 82,
+    "date": "2026-07-28",
+    "sum": 28875,
+    "currency": "USD",
+    "company": "null",
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
