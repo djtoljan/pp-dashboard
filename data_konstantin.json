@@ -473,24 +473,5 @@
     "received_usdt": null,
     "sent_usdt": 50481.89,
     "notes": null
-  },
-  {
-    "row": 28,
-    "date": "2026-07-28",
-    "sum": 78307.4,
-    "currency": "EUR",
-    "calc": "ТЕЗ",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": "€78,307.40 ÷ 0.876722884491 + 0.3% + 30 = 89,616.26 USDT",
-    "extra": "Инвойс BL-P01/280726 от 28.07.2026. Bloom Market EOOD (Bulgaria, Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG12BGUS91601413755700). Товар: ROSA 110000шт × €0.49 = €53 900 + логистика €24 407,40. Покупатель: Q8 Group Limited.",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 89616.26,
-    "notes": null
   }
 ]

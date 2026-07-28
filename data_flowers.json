@@ -1645,5 +1645,24 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Prihod na Blackshark POCHTOBANK: voznagrazhdenie 108,082.22 RUB + oplata 4,323,288.67 RUB po WD-25 por.91 ot 27.07.2026. Kontrakt 31/10-2024 ot 31.10.2024. Aromatny Put. Vyipiska POCHTOBANK 27.07. | John 27.07: Blackshark POCHTO→VIDIIKS, 4,431,370.89 RUB, tsvety, zayavka 640. O:\\...\\Aromatny put\\vhod 27.07.26."
+  },
+  {
+    "row": 89,
+    "date": "2026-07-28",
+    "sum": 78307.4,
+    "currency": "EUR",
+    "calc": "ТЕЗ",
+    "company": "Q8",
+    "clientName": "Bloom Market (Цветы)",
+    "extra": "Bloom Market (Цветы)",
+    "costFormula": "€78,307.40 ÷ 0.876722884491 + 0.3% + 30 = 89,616.26 USDT",
+    "color": "FFFFFFFF",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 89616.26,
+    "notes": "Invoice BL-P01/280726 от 28.07.2026. Bloom Market EOOD (Bulgaria, Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG12BGUS91601413755700). ROSA 110000шт × €0.49 = €53 900 + логистика €24 407,40. Покупатель: Q8 Group Limited (HK). EUR/USD кросс-курс 1.1406 (FX IBR 3088 28.07)."
   }
 ]
