@@ -454,5 +454,24 @@
     "received_usdt": 343610.33,
     "sent_usdt": 342928,
     "notes": "Платёж от INFINITE. GROUPE SEB EXPORT MIDDLE E B (HSBC UAE, BBMEAEAD, a/c AE690200000026580852101). Инвойс 4017275175 dd 06.07.2026, частичная оплата 299,870.00 EUR. Проформа SEB 1 500 000 EUR. Товар: Tefal/Moulinex. Плательщик: INFINITE. Жду расчёт. | Расчёт: 299,870€ × 1.13676811 = 340,883 USD + 0.6% = 342,928 USDT. Кошелёк: TW6aXdGB6VmQjTi2iLwGjFypcibsHPAkHj | BobrAlert 24.07 OUT: 342,928 USDT к INFINITE (TW6aXdGB6). Источник: IN 343,610.33 USDT от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5"
+  },
+  {
+    "row": 27,
+    "date": "2026-07-28",
+    "sum": 44100.03,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": "Константин (Просто группа)",
+    "extra": "Проформа 26-010-000130 от 23.07.2026. 220-B d.o.o. (Serbia, OTP BANKA SRBIJA, OTPVRS22, IBAN RS35325960160000415772). Dyson V16 (66шт) + TEFAL All-in-One (52шт) для Q8 GROUP LIMITED. Бенефициар: MALVARROSA OU (Estonia). Нужна формула.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
