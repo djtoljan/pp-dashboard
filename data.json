@@ -1611,11 +1611,11 @@
   {
     "row": 83,
     "date": "2026-07-28",
-    "sum": null,
-    "currency": null,
+    "sum": 41694.62,
+    "currency": "USD",
     "company": null,
-    "color": null,
-    "clientName": null,
+    "color": "FFFF0000",
+    "clientName": "АО Донау Лаб. Москва",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
@@ -1624,7 +1624,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Поручение №2 от 28.07.2026. Получатель: PT PYGMY TARSIER TECH (Bali). Контракт PT-20260618/US, Invoice 2 от 24.07.26. Main (Tez Iz)",
     "calc": null
   }
 ]
