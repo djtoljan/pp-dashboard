@@ -1683,5 +1683,24 @@
     "sent_usdt": 10044.96,
     "notes": "Invoice 10350 от 27.07.2026. Novpec S.A. Ecuador. Товар: розы. Airway Bill 176-2065 9166",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 91,
+    "date": "2026-07-28",
+    "sum": null,
+    "currency": "Ароматный Путь (Цветы)",
+    "company": "0 / 49314.09",
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
