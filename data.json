@@ -1575,7 +1575,7 @@
     "row": 81,
     "date": "2026-07-28",
     "sum": null,
-    "currency": "FININVEST (Цветы)",
+    "currency": "RUB",
     "company": null,
     "color": "FF4FC3F7",
     "clientName": null,
@@ -1588,6 +1588,6 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "John: Блэкшарк ПОЧТО→Аль Сафи, 1,979,438.88₽, перевод собственных средств. FININVEST -БШ-Цветы, вход 27.07.26. Отправитель: ФИНИНВЕСТУЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ",
-    "calc": ""
+    "calc": "FININVEST (Цветы)"
   }
 ]
