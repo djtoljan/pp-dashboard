@@ -1463,17 +1463,17 @@
     "sum": 40780,
     "currency": "USD",
     "company": null,
-    "color": "FF00B0F0",
+    "color": "FFFF0000",
     "clientName": "ВТС",
     "costFormula": null,
     "extra": "ВТС",
     "rubles_received": "3193481.80 / 55733.23",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "3249215.03",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Tranmax Machinery Co., Ltd (Тайвань) — инвойс Jerry Chen, P/O 08-26..12-26, всего 215 шт на 40 780 USD | Portshenie No73688 ot 27.07.2026. Principal: OOO VTS. Agent: OsOO BiTreid Kei Dji (Kyrygzstan). Poluchatel: Tranmax Machinery Co., Ltd. (Taiwan, First Commercial Bank FCBKTWTPXXX, a/c 402-40-003835). Sales Contract No18 dd 18.07.2026. Kurs: 78.3100. RUB-ekv: 3,193,481.80. Komissiya: 1.5%. Podpis: Bondarev A.P. (VTS), Kuryanov A.A. (BiTreid). | PP No3614 ot 27.07.2026: OOO VTS (Sberbank) -> BiTreid Kei Dji (VTB). Summa: 3,193,481.80 RUB. Dogovor No18 ot 18.07.2026, invoys 73688. Ispolnen 27.07. Podpis: Bondarev A.P. (VTS).",
+    "notes": "Tranmax Machinery Co., Ltd (Тайвань) — инвойс Jerry Chen, P/O 08-26..12-26, всего 215 шт на 40 780 USD | Portshenie No73688 ot 27.07.2026. Principal: OOO VTS. Agent: OsOO BiTreid Kei Dji (Kyrygzstan). Poluchatel: Tranmax Machinery Co., Ltd. (Taiwan, First Commercial Bank FCBKTWTPXXX, a/c 402-40-003835). Sales Contract No18 dd 18.07.2026. Kurs: 78.3100. RUB-ekv: 3,193,481.80. Komissiya: 1.5%. Podpis: Bondarev A.P. (VTS), Kuryanov A.A. (BiTreid). | PP No3614 ot 27.07.2026: OOO VTS (Sberbank) -> BiTreid Kei Dji (VTB). Summa: 3,193,481.80 RUB. Dogovor No18 ot 18.07.2026, invoys 73688. Ispolnen 27.07. Podpis: Bondarev A.P. (VTS). | VDX 28.07: 3,249,215.03₽ (ПП №54), заявка 82, инструменты. Подпись: Курьянов А.А. ИСПОЛНЕНО 13:22",
     "calc": null
   },
   {
@@ -1588,25 +1588,6 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "John: Блэкшарк ПОЧТО→Аль Сафи, 1,979,438.88₽, перевод собственных средств. FININVEST -БШ-Цветы, вход 27.07.26. Отправитель: ФИНИНВЕСТУЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ",
-    "calc": ""
-  },
-  {
-    "row": 82,
-    "date": "2026-07-28",
-    "sum": null,
-    "currency": "ВТС",
-    "company": null,
-    "color": "FF4FC3F7",
-    "clientName": "ВТС",
-    "costFormula": null,
-    "extra": "ВТС",
-    "rubles_received": null,
-    "sent_rubles_vdx": "3249215.03",
-    "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "John: С БиТрейд на VDX. 3,249,215.03₽, инструменты, заявка 82. O:\\...\\БиТрейдКейДжи\\ВТС\\вход 27.07.26. ООО ВТС",
     "calc": ""
   }
 ]
