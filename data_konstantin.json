@@ -473,5 +473,24 @@
     "received_usdt": null,
     "sent_usdt": 50481.89,
     "notes": "BONBILL O2082016535269998592435 28.07 16:13: Q8→220-B d.o.o., €44,100.03, OTP BANKA SRBIJA, inv 26-010-000130. Household appliances (Dyson V16 + TEFAL). EXECUTED 🟢"
+  },
+  {
+    "row": 28,
+    "date": "2026-07-28",
+    "sum": 161681.44,
+    "currency": "EUR",
+    "company": "INTEGRA",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
