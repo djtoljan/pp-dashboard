@@ -1471,7 +1471,7 @@
     "sent_rubles_vdx": "3249215.03",
     "exchange_to": "VDX",
     "vdx_rate": "78.45",
-    "received_usdt": null,
+    "received_usdt": "41376.24",
     "sent_usdt": null,
     "notes": "Tranmax Machinery Co., Ltd (Тайвань) — инвойс Jerry Chen, P/O 08-26..12-26, всего 215 шт на 40 780 USD | Portshenie No73688 ot 27.07.2026. Principal: OOO VTS. Agent: OsOO BiTreid Kei Dji (Kyrygzstan). Poluchatel: Tranmax Machinery Co., Ltd. (Taiwan, First Commercial Bank FCBKTWTPXXX, a/c 402-40-003835). Sales Contract No18 dd 18.07.2026. Kurs: 78.3100. RUB-ekv: 3,193,481.80. Komissiya: 1.5%. Podpis: Bondarev A.P. (VTS), Kuryanov A.A. (BiTreid). | PP No3614 ot 27.07.2026: OOO VTS (Sberbank) -> BiTreid Kei Dji (VTB). Summa: 3,193,481.80 RUB. Dogovor No18 ot 18.07.2026, invoys 73688. Ispolnen 27.07. Podpis: Bondarev A.P. (VTS). | VDX 28.07: 3,249,215.03₽ (ПП №54), заявка 82, инструменты. Подпись: Курьянов А.А. ИСПОЛНЕНО 13:22",
     "calc": null
@@ -1492,7 +1492,7 @@
     "sent_rubles_vdx": 2714585.8,
     "exchange_to": "VDX",
     "vdx_rate": "78.45",
-    "received_usdt": "41376.24",
+    "received_usdt": "255.02",
     "sent_usdt": null
   },
   {
@@ -1511,7 +1511,7 @@
     "sent_rubles_vdx": 1591650.75,
     "exchange_to": "VDX",
     "vdx_rate": "78.45",
-    "received_usdt": "255.02",
+    "received_usdt": "70.30",
     "sent_usdt": null
   },
   {
@@ -1530,7 +1530,7 @@
     "sent_rubles_vdx": "3311376.00",
     "exchange_to": "VDX",
     "vdx_rate": "78.45",
-    "received_usdt": "70.30",
+    "received_usdt": "42167.81",
     "sent_usdt": null
   },
   {
@@ -1548,7 +1548,7 @@
     "sent_rubles_vdx": 1155390.64,
     "exchange_to": "VDX",
     "vdx_rate": null,
-    "received_usdt": "42167.81",
+    "received_usdt": null,
     "sent_usdt": null,
     "notes": "Поручение 73810 от 27.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Guangzhou Tinlee Leather Co., Ltd (Китай). Инвойс HXX20260722 от 22.07.2026. Контракт 24-07/01 от 24.07.2026. Курс 78.3100. Комиссия 1.5%+100 USD. Подтверждено выпиской VTB 27.07: 1,130,600.63₽ товар + 24,790.01₽ комиссия (посреднические). | VDX уведомление 28.07: отправлено 1,155,390.64₽ (БиТрейд→VDX). Заявка 84, косметички. Сумма = тело 1,130,600.63 + комиссия 24,790.01"
   },
