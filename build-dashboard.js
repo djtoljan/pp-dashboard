@@ -74,6 +74,7 @@ function build() {
 
   const dailyCount = {};
   const companyDealCount = {}; // for pie chart
+  const clientDealCount = {}; // for client rating
   let total = 0, green = 0, yellow = 0, blue = 0, white = 0, red = 0;
   let totalUsdtSent = 0, totalUsdtRecv = 0, totalRubRecv = 0;
 
@@ -111,6 +112,12 @@ function build() {
       // Company pie — count non-blue deals
       if (company && col !== 'blue') {
         companyDealCount[company.toUpperCase()] = (companyDealCount[company.toUpperCase()] || 0) + 1;
+      }
+
+      // Client rating — count non-blue deals by client
+      if (client && col !== 'blue') {
+        const clientKey = client.toUpperCase();
+        clientDealCount[clientKey] = (clientDealCount[clientKey] || 0) + 1;
       }
 
       // Daily count (current month only, valyutnie zayavki only — skip RUB and blue)
@@ -174,12 +181,12 @@ function build() {
       attention: needsAttention.length,
       usdtSent: Math.round(totalUsdtSent), usdtRecv: Math.round(totalUsdtRecv),
       rubRecv: Math.round(totalRubRecv) },
-    todayRows, waitGreen, waitPP, waitApp, waitVdx, needsAttention, dailyCount, companyDealCount
+    todayRows, waitGreen, waitPP, waitApp, waitVdx, needsAttention, dailyCount, companyDealCount, clientDealCount
   };
 }
 
 function render(d) {
-  const { stats, todayRows, waitGreen, waitPP, waitApp, waitVdx, needsAttention, dailyCount, companyDealCount } = d;
+  const { stats, todayRows, waitGreen, waitPP, waitApp, waitVdx, needsAttention, dailyCount, companyDealCount, clientDealCount } = d;
   const N = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
 
   const CSS = `*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -347,6 +354,24 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
       </tr>`;
     }
     h += `</tbody></table>`;
+  }
+
+  // ===== CLIENT RATING CHART 🥧 =====
+  const clients = Object.entries(clientDealCount || {}).sort((a,b) => b[1] - a[1]).slice(0, 10);
+  const maxClient = Math.max(...clients.map(c => c[1]), 1);
+  if (clients.length > 0) {
+    h += `<h2><span class="section-label">🏆</span> Топ-10 клиентов</h2>`;
+    h += `<div style="background:#242740;border-radius:10px;padding:16px;margin-bottom:16px;">`;
+    for (const [name, cnt] of clients) {
+      const pct = (cnt / stats.total * 100).toFixed(1);
+      const bw = Math.max(4, (cnt / maxClient) * 100);
+      h += `<div style="display:flex;align-items:center;margin-bottom:6px;gap:8px;">`;
+      h += `<div style="min-width:140px;font-size:12px;color:#ccc;text-align:right;">${esc(name)}</div>`;
+      h += `<div style="flex:1;height:20px;background:#1a1d2e;border-radius:10px;overflow:hidden;">`;
+      h += `<div style="height:100%;width:${bw}%;background:linear-gradient(90deg,#e67e22,#f39c12);border-radius:10px;transition:width 0.3s;"></div></div>`;
+      h += `<div style="min-width:60px;font-size:12px;color:#999;">${cnt} (${pct}%)</div></div>`;
+    }
+    h += `</div>`;
   }
 
   // ===== COMPANY RATING CHART 🥧 =====
