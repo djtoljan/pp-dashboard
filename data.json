@@ -1429,7 +1429,7 @@
     "clientName": "ВТС",
     "extra": "ВТС",
     "costFormula": "88,550 + 0.3% + 30 = 88,845.65 USDT",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "notes": "Поручение 59184-1 от 23.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: DDK GROUP LIMITED (Гонконг, JP Morgan Chase CHASHKHHXXX, 63115242745 USD). Инвойсы 5DDK27-08-25, 6DDK27-08-25 от 27.08.2025. Контракт ВТС/27/08/2025-01. Курс 78.4756. Комиссия агента 2.5%. ПП №3599 (6,949,014.38₽) + №3600 (175,723.36₽) ИСПОЛНЕНЫ. | PP 53: 7,088,963.18 RUB na VDX 24.07, ispolnen, zayavka 81 | InvoiceAL200726-001 ot 20.07.2026 ot Duxal Group Ltd (Gonkong, OCBC Bank WIHBHKHH, a/c 802-474014-831). Pokupatel: Q8 GROUP LIMITED (Al Safi Bank AILSKZ2K). Tovar: 20860-130, 1535sht @.69. Summa: ,550.00 USD. Payment: PAYMENT InvoiceAL200726-001.",
     "rubles_received": "6949014.38 / 175723.36",
     "sent_rubles_vdx": 7088963.18,
@@ -1544,12 +1544,12 @@
     "costFormula": null,
     "extra": "ВТС",
     "color": "FFFF0000",
-    "rubles_received": null,
+    "rubles_received": "1130600.63 / 24790.01",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Поручение 73810 от 27.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Guangzhou Tinlee Leather Co., Ltd (Китай). Инвойс HXX20260722 от 22.07.2026. Контракт 24-07/01 от 24.07.2026. Курс 78.3100. Комиссия 1.5%+100 USD."
+    "notes": "Поручение 73810 от 27.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Guangzhou Tinlee Leather Co., Ltd (Китай). Инвойс HXX20260722 от 22.07.2026. Контракт 24-07/01 от 24.07.2026. Курс 78.3100. Комиссия 1.5%+100 USD. Подтверждено выпиской VTB 27.07: 1,130,600.63₽ товар + 24,790.01₽ комиссия (посреднические)."
   }
 ]
