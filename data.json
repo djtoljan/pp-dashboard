@@ -1551,24 +1551,5 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Поручение 73810 от 27.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Guangzhou Tinlee Leather Co., Ltd (Китай). Инвойс HXX20260722 от 22.07.2026. Контракт 24-07/01 от 24.07.2026. Курс 78.3100. Комиссия 1.5%+100 USD. Подтверждено выпиской VTB 27.07: 1,130,600.63₽ товар + 24,790.01₽ комиссия (посреднические)."
-  },
-  {
-    "row": 80,
-    "date": "2026-07-28",
-    "sum": 99582,
-    "currency": "USD",
-    "company": "INFINITE",
-    "color": "FFFFFFFF",
-    "clientName": null,
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
   }
 ]
