@@ -482,7 +482,7 @@
     "company": "INTEGRA",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "183700/(1-0.3%) = 184253 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -491,7 +491,7 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Платёж от INTEGRA 28.07.2026. Babyliss sarl - Division PRO (Франция), JP Morgan CHASNL2X. Инвойс 7029733293 от 09.06.2026. Инструменты для укладки волос. EUR/USD кросс-курс: 1.13619288 (€161,681.00 → ,700.80).",
-    "calc": "Кросс-курс EUR/USD = 1.13619288"
+    "calc": "ТЕЗ"
   },
   {
     "row": 29,
