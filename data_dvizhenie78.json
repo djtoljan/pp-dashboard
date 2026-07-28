@@ -156,10 +156,10 @@
     "row": 10,
     "date": "2026-07-28",
     "sum": null,
-    "currency": "Балтик Лэнд (Движение 78)",
+    "currency": null,
     "company": null,
     "color": "FF4FC3F7",
-    "clientName": null,
+    "clientName": "Балтик Лэнд (Движение 78)",
     "costFormula": null,
     "extra": "Балтик Лэнд (Движение 78)",
     "rubles_received": "1114457.05 / 16971.38",
@@ -169,7 +169,7 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Пор.55 от 28.07.2026. Перевозка (VO21200) 1,114,457.05₽ + агентское (VO21100) 16,971.38₽. Аг.договор 120525-B, контракт 1-07/25",
-    "calc": ""
+    "calc": null
   },
   {
     "date": "2026-07-28",
