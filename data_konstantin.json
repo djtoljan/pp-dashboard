@@ -462,7 +462,7 @@
     "currency": "EUR",
     "calc": "ТЕЗ",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "€44,100.03 ÷ 0.876722884491 + 0.3% + 30 = 50,481.89 USDT",
     "extra": "Проформа 26-010-000130 от 23.07.2026. 220-B d.o.o. (Serbia, OTP BANKA SRBIJA, OTPVRS22, IBAN RS35325960160000415772). Dyson V16 (66шт) + TEFAL All-in-One (52шт) для Q8 GROUP LIMITED. Бенефициар: MALVARROSA OU (Estonia).",
@@ -472,6 +472,6 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 50481.89,
-    "notes": null
+    "notes": "BONBILL O2082016535269998592435 28.07 16:13: Q8→220-B d.o.o., €44,100.03, OTP BANKA SRBIJA, inv 26-010-000130. Household appliances (Dyson V16 + TEFAL). EXECUTED 🟢"
   }
 ]
