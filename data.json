@@ -1607,5 +1607,24 @@
     "sent_usdt": null,
     "notes": "Проформа HXX20260722 от 22.07.2026. Guangzhou Tinlee Leather Co., Ltd (Китай, Bank of China Guangdong). 1500 косметичек (vegan leather, 25*13*13см). EXW Guangzhou, 50% депозит. От Алины для ВТС.",
     "calc": null
+  },
+  {
+    "row": 83,
+    "date": "2026-07-28",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
