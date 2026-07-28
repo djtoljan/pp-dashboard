@@ -1596,17 +1596,17 @@
     "sum": null,
     "currency": "ВТС",
     "company": null,
-    "color": null,
-    "clientName": null,
+    "color": "FF4FC3F7",
+    "clientName": "ВТС",
     "costFormula": null,
-    "extra": null,
+    "extra": "ВТС",
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "3249215.03",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "John: С БиТрейд на VDX. 3,249,215.03₽, инструменты, заявка 82. O:\\...\\БиТрейдКейДжи\\ВТС\\вход 27.07.26. ООО ВТС",
+    "calc": ""
   }
 ]
