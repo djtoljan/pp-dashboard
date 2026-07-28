@@ -470,7 +470,7 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 50652,
     "sent_usdt": 50481.89,
     "notes": "BONBILL O2082016535269998592435 28.07 16:13: Q8→220-B d.o.o., €44,100.03, OTP BANKA SRBIJA, inv 26-010-000130. Household appliances (Dyson V16 + TEFAL). EXECUTED 🟢"
   },
@@ -507,8 +507,8 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
+    "received_usdt": 100179.49,
+    "sent_usdt": 99980,
     "notes": "Платёж от INFINITE. D-Line Auto Trading & Shipping F.Z.E (Dubai, IFX Payment). INV P-20260722/1. Автозапчасти. Расчёт: 99,582.00 + 0.4% = 99,980 USDT. Сводный кошелёк: TYx6BKLzqdRQG9fXg4ehmauEWyPiDiGZnh",
     "calc": "calc from W& Платежи 28.07"
   }
