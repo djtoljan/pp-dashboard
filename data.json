@@ -1626,5 +1626,24 @@
     "sent_usdt": null,
     "notes": "Поручение №2 от 28.07.2026. Получатель: PT PYGMY TARSIER TECH (Bali). Контракт PT-20260618/US, Invoice 2 от 24.07.26. Main (Tez Iz)",
     "calc": null
+  },
+  {
+    "row": 84,
+    "date": "2026-07-28",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": 3658958.94,
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "БиТрейд ВТБ→VDX, химические примеси, заявка 85. Itrix Co., Ltd (Бангкок), 40,101.52 EUR. Тело (3,597,106.34) + посреднические (61,852.60). БиТрейд Кей Джи (агент)",
+    "calc": "РУБ"
   }
 ]
