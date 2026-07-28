@@ -526,7 +526,7 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 12090.66,
     "sent_usdt": 11996.793,
     "notes": "Платёж Q8 → DEKOR BANYO (Турция, Yapi Kredi). Инвойс IHR2026000000009 от 23.07.2026. Ванные аксессуары из нержавейки. EXW Istanbul. 50% предоплата, 50% по погрузке. | IBR 3088: PO for DEKOR BANYO, 11,931 USD Processing. Serial: O2082052758579576832875. 28.07 18:37. Статус: PROCESSING (🟡)",
     "calc": "ТЕЗ"
