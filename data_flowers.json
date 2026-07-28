@@ -1585,8 +1585,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "2400000",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": "78.45",
+    "received_usdt": "30562.14",
     "sent_usdt": null
   },
   {
@@ -1605,7 +1605,7 @@
     "sent_rubles_vdx": "6671569.89",
     "exchange_to": "VDX",
     "vdx_rate": "78.45",
-    "received_usdt": "30562.14",
+    "received_usdt": "84957.28",
     "sent_usdt": null
   },
   {
@@ -1624,7 +1624,7 @@
     "sent_rubles_vdx": 1758498.79,
     "exchange_to": "VDX",
     "vdx_rate": "78.45",
-    "received_usdt": "84957.28",
+    "received_usdt": "22393.12",
     "sent_usdt": null
   },
   {
@@ -1641,8 +1641,8 @@
     "rubles_received": "108082.22 / 4323288.67",
     "sent_rubles_vdx": 4431370.89,
     "exchange_to": "VDX",
-    "vdx_rate": "78.45",
-    "received_usdt": "22393.12",
+    "vdx_rate": null,
+    "received_usdt": null,
     "sent_usdt": null,
     "notes": "Prihod na Blackshark POCHTOBANK: voznagrazhdenie 108,082.22 RUB + oplata 4,323,288.67 RUB po WD-25 por.91 ot 27.07.2026. Kontrakt 31/10-2024 ot 31.10.2024. Aromatny Put. Vyipiska POCHTOBANK 27.07. | John 27.07: Blackshark POCHTO→VIDIIKS, 4,431,370.89 RUB, tsvety, zayavka 640. O:\\...\\Aromatny put\\vhod 27.07.26."
   },

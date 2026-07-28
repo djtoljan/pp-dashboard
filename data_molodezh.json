@@ -998,9 +998,11 @@
     "extra": "Вилог",
     "costFormula": "21778 + 0.3% + 30 = 21873.33 USDT",
     "color": "FF92D050",
-    "notes": "Proforma Invoice IN20260623 ot 23.06.2026. Seller: 365 ONLINE TECHNOLOGY LIMITED (Hong Kong, Standard Chartered SCBLHKHHXXX, a/c 47411394034). Buyer: Q8 GROUP LIMITED. Tovar: Controller Module STL6SPCBB42 (Finished Board, 1 pc). Summa: ,778 USD. Polucheno ot Daisy 27.07. | BONBILL O2082010371102736384357 28.07 15:48: Q8→365 ONLINE TECHNOLOGY LIMITED, ,778 USD, Standard Chartered Bank (HK), inv IN20260623. Controller Module STL6SPCBB42. EXECUTED 🟢",
+    "notes": "Proforma Invoice IN20260623 ot 23.06.2026. Seller: 365 ONLINE TECHNOLOGY LIMITED (Hong Kong, Standard Chartered SCBLHKHHXXX, a/c 47411394034). Buyer: Q8 GROUP LIMITED. Tovar: Controller Module STL6SPCBB42 (Finished Board, 1 pc). Summa: ,778 USD. Polucheno ot Daisy 27.07. | BONBILL O2082010371102736384357 28.07 15:48: Q8→365 ONLINE TECHNOLOGY LIMITED, ,778 USD, Standard Chartered Bank (HK), inv IN20260623. Controller Module STL6SPCBB42. EXECUTED 🟢. PP No542 ot 27.07.2026. OOO VILOG → VDX. 1,736,033.27₽. Chastichnaya oplata za tovar po invoysu UNT-002-IN20260623",
     "vdx_rate": "78.45",
-    "received_usdt": "12114.78"
+    "received_usdt": "22107.04",
+    "sent_rubles_vdx": "1736033.27",
+    "exchange_to": "VDX"
   },
   {
     "row": 55,
