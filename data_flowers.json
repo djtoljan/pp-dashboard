@@ -1759,5 +1759,43 @@
     "sent_usdt": null,
     "notes": "Пор.40 от 28.07.2026. Оплата по Агент. Договору WD-27, контракт 10-02-2025. Тело (VO11200) 4,562,232.09₽ + вознаграждение (VO21100) 114,055.80₽ | VDX 28.07: 4,676,287.89₽ отправлено на обмен (заявка 644, цветы).",
     "color": "FF4FC3F7"
+  },
+  {
+    "row": 95,
+    "date": "2026-07-28",
+    "sum": 20000,
+    "currency": "USD",
+    "calc": "ТЕЗ",
+    "company": "Q8",
+    "costFormula": "20,000 + 0.3% + 30 = 20,090 USDT",
+    "clientName": "DAVILA Y CURILLO (Цветы)",
+    "extra": "DAVILA Y CURILLO (Цветы)",
+    "color": "FFFFFFFF",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 20090,
+    "notes": "Инвойс 260298 от 28.07.2026. D&C EXPORT E IMPORT CIA. LTDA (Эквадор) → Q8 Group Limited. Международная логистика. Payment Order DOCX приложен."
+  },
+  {
+    "row": 96,
+    "date": "2026-07-28",
+    "sum": 25000,
+    "currency": "USD",
+    "calc": "ТЕЗ",
+    "company": "Q8",
+    "costFormula": "25,000 + 0.3% + 30 = 25,105 USDT",
+    "clientName": "ALIANZA LOGISTICS (Цветы)",
+    "extra": "ALIANZA LOGISTICS (Цветы)",
+    "color": "FFFFFFFF",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 25105,
+    "notes": "Инвойс INV-3033 от 28.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Эквадор) → Q8 Group Limited. Авиафрахт, AWB 145-1210 3033."
   }
 ]
