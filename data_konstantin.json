@@ -490,8 +490,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "Платёж от INTEGRA 28.07.2026. Babyliss sarl - Division PRO (Франция), JP Morgan CHASNL2X. Инвойс 7029733293 от 09.06.2026. Инструменты для укладки волос. EUR/USD кросс-курс: 1.13619288 (€161,681.00 → ,700.80).",
+    "calc": "Кросс-курс EUR/USD = 1.13619288"
   },
   {
     "row": 29,
