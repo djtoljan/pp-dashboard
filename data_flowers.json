@@ -1767,7 +1767,7 @@
     "currency": "USD",
     "calc": "ТЕЗ",
     "company": "Q8",
-    "costFormula": "20,000 + 0.3% + 30 = 20,090 USDT",
+    "costFormula": "20,000 + 0.6% + 100 = 20,220 USDT (получено) | Q8 отправит: 20,000 + 0.3% + 30 = 20,090 USDT",
     "clientName": "DAVILA Y CURILLO (Цветы)",
     "extra": "DAVILA Y CURILLO (Цветы)",
     "color": "FFFFFFFF",
@@ -1775,9 +1775,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 20220,
     "sent_usdt": 20090,
-    "notes": "Инвойс 260298 от 28.07.2026. D&C EXPORT E IMPORT CIA. LTDA (Эквадор) → Q8 Group Limited. Международная логистика. Payment Order DOCX приложен."
+    "notes": "Инвойс 260298 от 28.07.2026. D&C EXPORT E IMPORT CIA. LTDA (Эквадор) → Q8 Group Limited. Международная логистика. Payment Order DOCX приложен. | Получено USDT: 20,220"
   },
   {
     "row": 96,
@@ -1786,7 +1786,7 @@
     "currency": "USD",
     "calc": "ТЕЗ",
     "company": "Q8",
-    "costFormula": "25,000 + 0.3% + 30 = 25,105 USDT",
+    "costFormula": "25,000 + 0.6% + 100 = 25,250 USDT (получено) | Q8 отправит: 25,000 + 0.3% + 30 = 25,105 USDT",
     "clientName": "ALIANZA LOGISTICS (Цветы)",
     "extra": "ALIANZA LOGISTICS (Цветы)",
     "color": "FFFFFFFF",
@@ -1794,9 +1794,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 25250,
     "sent_usdt": 25105,
-    "notes": "Инвойс INV-3033 от 28.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Эквадор) → Q8 Group Limited. Авиафрахт, AWB 145-1210 3033."
+    "notes": "Инвойс INV-3033 от 28.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Эквадор) → Q8 Group Limited. Авиафрахт, AWB 145-1210 3033. | Получено USDT: 25,250"
   },
   {
     "row": 97,
@@ -1805,7 +1805,7 @@
     "currency": "USD",
     "calc": "ТЕЗ",
     "company": "Q8",
-    "costFormula": "20,000 + 0.3% + 30 = 20,090 USDT",
+    "costFormula": "20,000 + 0.6% + 100 = 20,220 USDT (получено) | Q8 отправит: 20,000 + 0.3% + 30 = 20,090 USDT",
     "clientName": "EBF CARGO (Цветы)",
     "extra": "EBF CARGO (Цветы)",
     "color": "FFFFFFFF",
@@ -1813,8 +1813,8 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 20220,
     "sent_usdt": 20090,
-    "notes": "Инвойс + Payment Order от 28.07.2026. EBF CARGO CIA LTDA (Эквадор) → Q8 Group Limited. Транспортные услуги. PRODUBANCO, SWIFT PRODECEQ, счёт 02005153421."
+    "notes": "Инвойс + Payment Order от 28.07.2026. EBF CARGO CIA LTDA (Эквадор) → Q8 Group Limited. Транспортные услуги. PRODUBANCO, SWIFT PRODECEQ, счёт 02005153421. | Получено USDT: 20,220"
   }
 ]
