@@ -983,8 +983,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "951356.00",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": "78.45",
+    "received_usdt": "11816.80",
     "sent_usdt": null
   },
   {
@@ -998,7 +998,9 @@
     "extra": "Вилог",
     "costFormula": "21778 + 0.3% + 30 = 21873.33 USDT",
     "color": "FF92D050",
-    "notes": "Proforma Invoice IN20260623 ot 23.06.2026. Seller: 365 ONLINE TECHNOLOGY LIMITED (Hong Kong, Standard Chartered SCBLHKHHXXX, a/c 47411394034). Buyer: Q8 GROUP LIMITED. Tovar: Controller Module STL6SPCBB42 (Finished Board, 1 pc). Summa: ,778 USD. Polucheno ot Daisy 27.07. | BONBILL O2082010371102736384357 28.07 15:48: Q8→365 ONLINE TECHNOLOGY LIMITED, ,778 USD, Standard Chartered Bank (HK), inv IN20260623. Controller Module STL6SPCBB42. EXECUTED 🟢"
+    "notes": "Proforma Invoice IN20260623 ot 23.06.2026. Seller: 365 ONLINE TECHNOLOGY LIMITED (Hong Kong, Standard Chartered SCBLHKHHXXX, a/c 47411394034). Buyer: Q8 GROUP LIMITED. Tovar: Controller Module STL6SPCBB42 (Finished Board, 1 pc). Summa: ,778 USD. Polucheno ot Daisy 27.07. | BONBILL O2082010371102736384357 28.07 15:48: Q8→365 ONLINE TECHNOLOGY LIMITED, ,778 USD, Standard Chartered Bank (HK), inv IN20260623. Controller Module STL6SPCBB42. EXECUTED 🟢",
+    "vdx_rate": "78.45",
+    "received_usdt": "12114.78"
   },
   {
     "row": 55,
@@ -1035,8 +1037,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "1084628.12 / 1084628.12 / 1084628.12 / 1084628.12 / 1071203.7",
     "exchange_to": "VDX",
-    "vdx_rate": "78.08 / 78.08 / 78.08",
-    "received_usdt": "13877.35 / 13877.35 / 13877.35",
+    "vdx_rate": "78.08 / 78.08 / 78.08 / 78.45 / 78.45",
+    "received_usdt": "13877.35 / 13877.35 / 13877.35 / 13811.90 / 13640.95",
     "sent_usdt": 68882.71
   },
   {

@@ -1492,7 +1492,7 @@
     "sent_rubles_vdx": 2714585.8,
     "exchange_to": "VDX",
     "vdx_rate": "78.45",
-    "received_usdt": null,
+    "received_usdt": "41376.24",
     "sent_usdt": null
   },
   {
@@ -1511,7 +1511,7 @@
     "sent_rubles_vdx": 1591650.75,
     "exchange_to": "VDX",
     "vdx_rate": "78.45",
-    "received_usdt": null,
+    "received_usdt": "255.02",
     "sent_usdt": null
   },
   {
@@ -1530,7 +1530,7 @@
     "sent_rubles_vdx": "3311376.00",
     "exchange_to": "VDX",
     "vdx_rate": "78.45",
-    "received_usdt": null,
+    "received_usdt": "70.30",
     "sent_usdt": null
   },
   {
@@ -1548,7 +1548,7 @@
     "sent_rubles_vdx": 1155390.64,
     "exchange_to": "VDX",
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": "42167.81",
     "sent_usdt": null,
     "notes": "Поручение 73810 от 27.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Guangzhou Tinlee Leather Co., Ltd (Китай). Инвойс HXX20260722 от 22.07.2026. Контракт 24-07/01 от 24.07.2026. Курс 78.3100. Комиссия 1.5%+100 USD. Подтверждено выпиской VTB 27.07: 1,130,600.63₽ товар + 24,790.01₽ комиссия (посреднические). | VDX уведомление 28.07: отправлено 1,155,390.64₽ (БиТрейд→VDX). Заявка 84, косметички. Сумма = тело 1,130,600.63 + комиссия 24,790.01"
   },
