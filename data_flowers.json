@@ -1837,7 +1837,7 @@
     "color": "FF4FC3F7"
   },
   {
-    "row": 104,
+    "row": 99,
     "date": "2026-07-29",
     "sum": 55638.65,
     "currency": "EUR",
@@ -1856,7 +1856,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 105,
+    "row": 100,
     "date": "2026-07-29",
     "sum": 79407.4,
     "currency": "EUR",
@@ -1873,24 +1873,5 @@
     "sent_usdt": 91111.94,
     "notes": "Invoice BL-P01/290726 ot 29.07.2026. Bloom Market EOOD (Bulgaria), 100k roses 0.55, logistics 24407.40 EUR. BGUSBGSF",
     "calc": "ТЕЗ"
-  },
-  {
-    "row": 106,
-    "date": "2026-07-29",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
-    "clientName": "",
-    "costFormula": "",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": "714913.05",
-    "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "ПП N450 от 29.07.2026. Блэкшарк ПОЧТО→ВиДиИкс (VDX). Заяв.647 от 28.07.2026. За транспортные услуги. Аг.дог. N4 от 31.03.2025. 714,913.05 RUB. ИСПОЛНЕНО 29.07.2026.",
-    "calc": null
   }
 ]
