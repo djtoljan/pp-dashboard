@@ -1987,5 +1987,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 107,
+    "date": "2026-07-29",
+    "sum": 15000,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": "15000 EUR × курс + 0.3% + 30 = ? USDT (нужен кросс-курс)",
+    "extra": "UNIFLOR L.L.C-FZ банковские реквизиты. 15 000 EUR. For flowers",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
