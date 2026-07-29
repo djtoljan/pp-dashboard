@@ -1654,15 +1654,15 @@
     "company": "LUXORA",
     "color": "FFFFFF00",
     "clientName": "Дре Русланд",
-    "costFormula": null,
+    "costFormula": "17,500 EUR → 19,926 USD; 19,926/(1-0.35%)+100 = 20,096 USDT",
     "extra": null,
     "rubles_received": "1587250.00 / 25396.00",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Transfer Request №32 от 29.07.2026. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО Блэкшарк Трейд. Получатель: UAB VEGRANA (Литва). Инвойс №7 от 17.07.2026 (мебель). Курс 90.70. RUB 1,587,250.00. Комиссия агента 1.6% (25,396 руб). Банк: PKO BANK POLSKI S.A (BPKOPLPW). | ПП №2531 от 29.07.2026 (ЭНЕРГОТРАНСБАНК): поступление 1,587,250.00₽ от ООО ДРЕ Русланд Трейдинг — тело платежа. ПП №2532: комиссия 25,396.00₽. Итого 1,612,646.00₽. Банковская комиссия 4,761.75₽. | Alex VDX 29.07: Payment from INTEGRA к UAB VEGRANA. 17,500 EUR. INV 7 dd 17.07.26. OUR. | Кросс-курс EUR/USD = 1.13867 (17,500 EUR = 19,926.80 USD) | INTEGRA 29.07 12:29 UTC: Transaction Confirmation — STATUS: INITIATED. Payout 17,500 EUR to UAB VEGRANA (SEPA). Ref: INV 7 dd 17.07.26.",
+    "sent_usdt": "20096",
+    "notes": "Transfer Request №32 от 29.07.2026. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО Блэкшарк Трейд. Получатель: UAB VEGRANA (Литва). Инвойс №7 от 17.07.2026 (мебель). Курс 90.70. RUB 1,587,250.00. Комиссия агента 1.6% (25,396 руб). Банк: PKO BANK POLSKI S.A (BPKOPLPW). | ПП №2531 от 29.07.2026 (ЭНЕРГОТРАНСБАНК): поступление 1,587,250.00₽ от ООО ДРЕ Русланд Трейдинг — тело платежа. ПП №2532: комиссия 25,396.00₽. Итого 1,612,646.00₽. Банковская комиссия 4,761.75₽. | Alex VDX 29.07: Payment from INTEGRA к UAB VEGRANA. 17,500 EUR. INV 7 dd 17.07.26. OUR. | Кросс-курс EUR/USD = 1.13867 (17,500 EUR = 19,926.80 USD) | INTEGRA 29.07 12:29 UTC: Transaction Confirmation — STATUS: INITIATED. Payout 17,500 EUR to UAB VEGRANA (SEPA). Ref: INV 7 dd 17.07.26. | W& Платежи: 19,926/(1-0.35%)+100=20,096 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8.",
     "calc": null
   },
   {
