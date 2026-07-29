@@ -1683,5 +1683,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 87,
+    "date": "2026-07-29",
+    "sum": 130481.01,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №70030 от 29.07.2026. Принципал: ООО ВТС. Агент: ОсОО БиТрейд Кей Джи. Получатель: Itrix Co., Ltd. (Таиланд). Контракт 20-09/01 от 20.09.2025. Инвойс 70030 от 15.06.2026 (Imacoat HE-100). 3-й авансовый платёж. Курс 79.70. RUB эквивалент: 10,399,336.50. Комиссия агента 1.4%. Банк: Siam Commercial Bank (SICOTHBK).",
+    "calc": null
   }
 ]
