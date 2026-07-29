@@ -1968,5 +1968,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 106,
+    "date": "2026-07-29",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Цветы",
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "extra": "Реквизиты Luxus Blumen S.A. (Эквадор). PRODUBANCO, SWIFT PRODECEQ. Wells Fargo intermediary. For flowers",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
