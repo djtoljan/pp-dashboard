@@ -1005,5 +1005,24 @@
     "color": "FF92D050",
     "notes": "Poruchenie 3 ot 24.07.2026. Principal: OOO Byti Brendz. Agent: VDX. Poluchatel: Guangzhou Yuheng Plastic Products (ICBC ICBKCNBJGDC, 3602179709100172665). Inv 2026070710 ot 07.07.2026. Kurs 78.4049. RUB: 578628.16. Komissiya: 27253.54 | ПП №71 24.07: Бьюти Брендз→VDX, 578,628.16₽, Guangzhou Yuheng, Поручение №3. ПРОВЕДЕНО (Райффайзенбанк) | ПП №70 24.07: Бьюти Брендз→VDX, 27,253.54₽, вознаграждение (Поручение №3). ПРОВЕДЕНО | BONBILL 27.07 Q8 — EXECUTED",
     "clientName": "Бьюти Брендз"
+  },
+  {
+    "row": 58,
+    "date": "2026-07-29",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Фри Лайнс Компани",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "2628754.79 / 61763.96",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "ПП №3830 от 29.07.2026 (Проведено). Плательщик: АО Фри Лайнс Компани (ЮНИКРЕДИТ БАНК). Получатель: VDX SERVICES - FZCO. 2,628,754.79₽. CPW TASIMACILIK VE TICARET AS, Payment CPA2026000000102 dd 24.07.2026. Контракт 110422-1-EURO от 11.04.2022. Аг.дог. 09-02-3/26 от 09.02.26. | ПП №3831 от 29.07.2026 (Проведено). Вознаграждение VDX по пор.№18 от 29.07.2026, аг.дог.09-02-3/26. 61,763.96₽. VO21100.",
+    "calc": null
   }
 ]

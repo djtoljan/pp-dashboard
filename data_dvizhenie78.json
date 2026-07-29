@@ -271,7 +271,7 @@
     "date": "2026-07-28",
     "sum": 354120.06,
     "currency": "CNY",
-    "company": "BIT",
+    "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "РМК (Движение 78)",
     "costFormula": null,
@@ -282,7 +282,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Поручение №18 от 28.07.2026. Принципал: ООО РМК. Агент: ОсОО Блэкшарк Трейд. Получатель: Beijing Intercontinental Trading Co., Ltd. (Китай). Контракт BIT-RMK-01/15 от 01.01.2015, Addendum No 103. Банк: QINGDAO RURAL COMMERCIAL BANK (QDRCCNBQXXX). Курс 11.82. CNY 354,120.06. Перевод 341,725.86 CNY (4,039,199.67 RUB) + комиссия 3.5% 12,394.20 CNY (146,499.44 RUB). Связана с Row 14 (rubles_received поступление от РМК). | Инвойс №2015B00103 от 24.07.2026. Продавец: Beijing Intercontinental Trading Co., Ltd. Товар: огнеупорный кирпич (refractory brick). FOB Xingang, Китай. 57 паллет, 7,002 шт. ETD: сентябрь 2026.",
+    "notes": "Поручение №18 от 28.07.2026. Принципал: ООО РМК. Агент: ОсОО Блэкшарк Трейд. Получатель: Beijing Intercontinental Trading Co., Ltd. (Китай). Контракт BIT-RMK-01/15 от 01.01.2015, Addendum No 103. Банк: QINGDAO RURAL COMMERCIAL BANK (QDRCCNBQXXX). Курс 11.82. CNY 354,120.06. Перевод 341,725.86 CNY (4,039,199.67 RUB) + комиссия 3.5% 12,394.20 CNY (146,499.44 RUB). Связана с Row 14 (rubles_received поступление от РМК). | Инвойс №2015B00103 от 24.07.2026. Продавец: Beijing Intercontinental Trading Co., Ltd. Товар: огнеупорный кирпич (refractory brick). FOB Xingang, Китай. 57 паллет, 7,002 шт. ETD: сентябрь 2026. | Оплата через Q8 (USDT→CNY).",
     "calc": "341,725.86 CNY, курс 11.82"
   }
 ]
