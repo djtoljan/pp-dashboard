@@ -1664,5 +1664,43 @@
     "sent_usdt": null,
     "notes": "Transfer Request №32 от 29.07.2026. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО Блэкшарк Трейд. Получатель: UAB VEGRANA (Литва). Инвойс №7 от 17.07.2026 (мебель). Курс 90.70. RUB 1,587,250.00. Комиссия агента 1.6% (25,396 руб). Банк: PKO BANK POLSKI S.A (BPKOPLPW).",
     "calc": "17,500 EUR, курс 90.70"
+  },
+  {
+    "row": 86,
+    "date": "2026-06-18",
+    "sum": 63000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Центр Пром-Автомат",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Transfer Request №11 от 18.06.2026. Принципал: ООО Центр Пром-Автомат. Агент: ОсОО Блэкшарк Трейд. Получатель: CT TNHH SELANGOR TRADE (Вьетнам). Инвойс №2С/26-04-20 от 20.04.2026 (пластина полупроводниковая). Курс 72.7479. RUB 4,583,117.70. Комиссия 68,746.77 руб. Контракт 20-01/2026 от 20.01.2026. Банк: MB Bank (MSCBVNVX).",
+    "calc": null
+  },
+  {
+    "row": 87,
+    "date": "2026-06-18",
+    "sum": 9000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Центр Пром-Автомат",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Transfer Request №12 от 18.06.2026. Принципал: ООО Центр Пром-Автомат. Агент: ОсОО Блэкшарк Трейд. Получатель: CT TNHH SELANGOR TRADE (Вьетнам). Инвойс №5С/26-06-17 от 17.06.2026 (пластина полупроводниковая). Курс 72.7479. RUB 654,731.10. Комиссия 9,820.97 руб. Контракт 20-01/2026 от 20.01.2026. Банк: MB Bank (MSCBVNVX).",
+    "calc": null
   }
 ]
