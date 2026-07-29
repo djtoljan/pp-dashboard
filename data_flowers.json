@@ -1854,5 +1854,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 100,
+    "date": "2026-07-29",
+    "sum": 79407.4,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Bloom Market (Цветы)",
+    "costFormula": "Invoice BL-P01/290726 ot 29.07.2026. Bloom Market EOOD (Bulgaria), 100k roses 0.55, logistics 24407.40 EUR. BGUSBGSF",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
