@@ -1339,7 +1339,7 @@
     "rubles_received": "1796149.53 / 26585.95",
     "sent_rubles_vdx": "1822735.48",
     "exchange_to": "ВТБ",
-    "vdx_rate": null,
+    "vdx_rate": 78.45,
     "received_usdt": null,
     "sent_usdt": 23045
   },
@@ -1415,7 +1415,7 @@
     "rubles_received": "1333201.19",
     "sent_rubles_vdx": null,
     "exchange_to": null,
-    "vdx_rate": null,
+    "vdx_rate": 78.45,
     "received_usdt": null,
     "sent_usdt": 16071.051
   },
@@ -1630,20 +1630,20 @@
   {
     "row": 84,
     "date": "2026-07-28",
-    "sum": null,
-    "currency": null,
+    "sum": 40101.52,
+    "currency": "EUR",
     "company": null,
-    "color": "FF4FC3F7",
-    "clientName": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС (Itrix 73316)",
     "costFormula": null,
     "extra": null,
-    "rubles_received": null,
+    "rubles_received": "3597106.34 / 61852.60",
     "sent_rubles_vdx": 3658958.94,
     "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "БиТрейд ВТБ→VDX, химические примеси, заявка 85. Itrix Co., Ltd (Бангкок), 40,101.52 EUR. Тело (3,597,106.34) + посреднические (61,852.60). БиТрейд Кей Джи (агент) | ПП №57 от 28.07.2026: БиТрейд Кей Джи → VDX, 3,658,958.94₽. Исполнен 28.07 в 18:00. Аг.договор 4-01 от 13.05.2025, заявка 85, химические примеси",
+    "notes": "БиТрейд ВТБ→VDX, химические примеси, заявка 85. Itrix Co., Ltd (Бангкок), 40,101.52 EUR. Тело (3,597,106.34) + посреднические (61,852.60). БиТрейд Кей Джи (агент) | ПП №57 от 28.07.2026: БиТрейд Кей Джи → VDX, 3,658,958.94₽. Исполнен 28.07 в 18:00. Аг.договор 4-01 от 13.05.2025, заявка 85, химические примеси | Приход от ВТС: ПП №3622 (3,597,106.34₽) + №3623 (61,852.60₽) по выписке ВТБ 28.07",
     "calc": "РУБ"
   }
 ]
