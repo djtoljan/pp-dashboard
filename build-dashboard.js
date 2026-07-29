@@ -138,14 +138,18 @@ function build() {
         usdtOut: gv(r, 'sent_usdt'),
       };
 
-      // Today
-      if (dt === td) { todayRows.push(entry); continue; }
-      if (!dt) continue;
+      // Today — показываем в разделе сегодня
+      if (dt === td) {
+        todayRows.push(entry);
+      }
 
-      // 🔵 Rubly prishli, no ne otpravleny na VDX
+      // 🔵 Рубли пришли, но не отправлены на VDX (включая сегодняшние)
       if (r.rubles_received && !r.sent_rubles_vdx) {
         waitVdx.push(entry);
       }
+
+      // Пропускаем обработку прошлых дней для сегодняшних и бездатных строк
+      if (dt === td || !dt) continue;
 
       // Pending past days — only non-green, non-blue
       if (col === 'green' || col === 'blue') continue;
