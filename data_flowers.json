@@ -1835,5 +1835,24 @@
     "sent_usdt": null,
     "notes": "Перевод собственных средств Блэкшарк ПОЧТО→Al Safi. 2,244,517.57₽ от ГлобалЦвет (пор.95, договор WD-26)",
     "color": "FF4FC3F7"
+  },
+  {
+    "row": 99,
+    "date": "2026-07-29",
+    "sum": 55638.65,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Bloom Market (Цветы)",
+    "costFormula": "Invoice BL-P01/290726-2 ot 29.07.2026. Bloom Market EOOD (Bulgaria), 80k roses EUR0.53, logistics EUR13,238.65.",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
