@@ -143,7 +143,7 @@ function build() {
       if (!dt) continue;
 
       // 🔵 Rubly prishli, no ne otpravleny na VDX
-      if (r.rubles_received && !r.sent_rubles_vdx && (col === 'blue' || col === 'red')) {
+      if (r.rubles_received && !r.sent_rubles_vdx) {
         waitVdx.push(entry);
       }
 
