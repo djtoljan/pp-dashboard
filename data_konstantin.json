@@ -586,7 +586,7 @@
     "sum": 50334.77,
     "currency": "EUR",
     "company": "Omnex",
-    "color": "FFFF0000",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "50,334.77 EUR → 57,328 USD; 57,328/(1-0.35%)=57,529 USDT",
     "extra": null,
@@ -596,7 +596,7 @@
     "vdx_rate": null,
     "received_usdt": 57614.8578,
     "sent_usdt": "57529",
-    "notes": "Платёжный ордер от 29.07.2026. Payment from Omnex. Получатель: ARTOS FENCING GMBH & CO. KG (Германия, 04435 Schkeuditz). Банк: SPARKASSE LEIPZIG (WELADE8L). Счёт: DE60860555922270000113. Инвойс PR411 dd 29.07.2026. 50,334.77 EUR. OUR. | USDT получен на Рабочий 3: 57614.8578 USDT (Константин ARTOS FENCING). | W& Платежи расчёт: 50,334.77 EUR → 57,328 USD; 57,328/(1-0.35%)=57,529 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8.",
+    "notes": "Платёжный ордер от 29.07.2026. Payment from Omnex. Получатель: ARTOS FENCING GMBH & CO. KG (Германия, 04435 Schkeuditz). Банк: SPARKASSE LEIPZIG (WELADE8L). Счёт: DE60860555922270000113. Инвойс PR411 dd 29.07.2026. 50,334.77 EUR. OUR. | USDT получен на Рабочий 3: 57614.8578 USDT (Константин ARTOS FENCING). | W& Платежи расчёт: 50,334.77 EUR → 57,328 USD; 57,328/(1-0.35%)=57,529 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8. | Omnex 29.07 15:29 UTC: TRANSACTION CONFIRMATION — STATUS: INITIATED. Payout 50,334.77 EUR to ARTOS FENCING (SEPA). Ref: Inv PR411 dd 29.07.2026.",
     "calc": null
   },
   {
@@ -624,7 +624,7 @@
     "sum": 10000,
     "currency": "EUR",
     "company": "Omnex",
-    "color": "FFFF0000",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "10,000 EUR → 11,388 USD; 11,388/(1-0.35%)+100=11,528 USDT",
     "extra": null,
@@ -634,7 +634,7 @@
     "vdx_rate": null,
     "received_usdt": 11602.8,
     "sent_usdt": "11528",
-    "notes": "Платёжный ордер от 29.07.2026. Payment from Omnex. Получатель: IK RCTS (Латвия, LV-1050 Riga). Банк: AS SEB banka (UNLALV2X). Счёт: LV05UNLA0050002557002. Инвойс KRG-1001 dd 14.07.2026. 10,000 EUR. OUR. | USDT получен на Рабочий 3: 11602.8 USDT (Константин IK RCTS). | W& Платежи расчёт: 10,000 EUR → 11,388 USD; 11,388/(1-0.35%)+100=11,528 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8.",
+    "notes": "Платёжный ордер от 29.07.2026. Payment from Omnex. Получатель: IK RCTS (Латвия, LV-1050 Riga). Банк: AS SEB banka (UNLALV2X). Счёт: LV05UNLA0050002557002. Инвойс KRG-1001 dd 14.07.2026. 10,000 EUR. OUR. | USDT получен на Рабочий 3: 11602.8 USDT (Константин IK RCTS). | W& Платежи расчёт: 10,000 EUR → 11,388 USD; 11,388/(1-0.35%)+100=11,528 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8. | Omnex 29.07 15:32 UTC: TRANSACTION CONFIRMATION — STATUS: INITIATED. Payout 10,000 EUR to IK RCTS (SEPA). Ref: Inv KRG-1001 dd 14.07.2026.",
     "calc": null
   }
 ]
