@@ -1036,12 +1036,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": "625662.93",
+    "sent_rubles_vdx": "625662.93 / 28612.66",
     "exchange_to": "VDX",
     "vdx_rate": "79.2",
-    "received_usdt": null,
+    "received_usdt": "360.91",
     "sent_usdt": null,
-    "notes": "ПП №328 от 29.07.2026 (Проведено). Плательщик: ООО Эксперт (ЮНИКРЕДИТ БАНК). Получатель: VDX. 625,662.93₽. Daeil Beauty Collection Co., Ltd. — товар. Ag.-Of.24072026, PI-OPT260720-R1. Аг.дог.09-02-2/26 от 09.02.26. VO11100.",
+    "notes": "ПП №328 от 29.07.2026 (Проведено). Плательщик: ООО Эксперт (ЮНИКРЕДИТ БАНК). Получатель: VDX. 625,662.93₽. Daeil Beauty Collection Co., Ltd. — товар. Ag.-Of.24072026, PI-OPT260720-R1. Аг.дог.09-02-2/26 от 09.02.26. VO11100. | Комиссия VDX ПП329 28 612.66₽ → 360.91 USDT",
     "calc": null
   }
 ]

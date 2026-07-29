@@ -1930,5 +1930,43 @@
     "sent_usdt": null,
     "notes": "Приход на Блэкшарк ПОЧТО: ПП №538 от 29.07.2026. 391,499.73₽. Оплата по Агент. Договору WD-25 от 11.12.2025, контракт 31/10-2024 от 31.10.2024, пор.93 от 29.07.2026. VO11200. | ПП с Блэкшарк ПОЧТО→VDX. 401,287.22₽. Заяв.653 от 29.07.2026. Цветы. Ароматный Путь. | ПП №457 от 29.07.2026 ИСПОЛНЕНО. Блэкшарк ПОЧТО→VDX. 401,287.22₽. Заяв.653 от 29.07.2026. Цветы. Ароматный Путь. VO60081.",
     "calc": null
+  },
+  {
+    "row": 104,
+    "date": "2026-07-29",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "AOA VENTURES (Цветы)",
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "extra": "Реквизиты AOA VENTURES LTD. AfrAsia Bank, SWIFT AFBLMUMU. Flowers/logistics",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
+  },
+  {
+    "row": 105,
+    "date": "2026-07-29",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Цветы",
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "extra": "Реквизиты Milele Flowers limited (Кения). KCB, SWIFT KCBLKENX. For flowers",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
