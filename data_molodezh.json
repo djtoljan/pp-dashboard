@@ -1024,5 +1024,24 @@
     "sent_usdt": null,
     "notes": "ПП №3830 от 29.07.2026 (Проведено). Плательщик: АО Фри Лайнс Компани (ЮНИКРЕДИТ БАНК). Получатель: VDX SERVICES - FZCO. 2,628,754.79₽. CPW TASIMACILIK VE TICARET AS, Payment CPA2026000000102 dd 24.07.2026. Контракт 110422-1-EURO от 11.04.2022. Аг.дог. 09-02-3/26 от 09.02.26. | ПП №3831 от 29.07.2026 (Проведено). Вознаграждение VDX по пор.№18 от 29.07.2026, аг.дог.09-02-3/26. 61,763.96₽. VO21100.",
     "calc": null
+  },
+  {
+    "row": 59,
+    "date": "2026-07-29",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Эксперт",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "625662.93",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "ПП №328 от 29.07.2026 (Проведено). Плательщик: ООО Эксперт (ЮНИКРЕДИТ БАНК). Получатель: VDX. 625,662.93₽. Daeil Beauty Collection Co., Ltd. — товар. Ag.-Of.24072026, PI-OPT260720-R1. Аг.дог.09-02-2/26 от 09.02.26. VO11100.",
+    "calc": null
   }
 ]
