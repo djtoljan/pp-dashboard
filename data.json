@@ -1654,7 +1654,7 @@
     "company": "VEGRANA",
     "color": "FFFFFFFF",
     "clientName": "Дре Русланд",
-    "costFormula": "Оплата за мебель по инвойсу №7 от 17.07.2026. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО Блэкшарк Трейд. Получатель: UAB VEGRANA, Литва. Курс 90.70. RUB 1,587,250.00. Комиссия 1.6% (25,396 руб). Банк: PKO BANK POLSKI S.A (BPKOPLPW). Transfer Request №32 от 29.07.2026.",
+    "costFormula": null,
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -1662,7 +1662,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "Transfer Request №32 от 29.07.2026. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО Блэкшарк Трейд. Получатель: UAB VEGRANA (Литва). Инвойс №7 от 17.07.2026 (мебель). Курс 90.70. RUB 1,587,250.00. Комиссия агента 1.6% (25,396 руб). Банк: PKO BANK POLSKI S.A (BPKOPLPW).",
+    "calc": "17,500 EUR, курс 90.70"
   }
 ]
