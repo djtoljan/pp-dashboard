@@ -1742,7 +1742,7 @@
     "color": "FF4FC3F7"
   },
   {
-    "row": 95,
+    "row": 94,
     "date": "2026-07-28",
     "sum": null,
     "currency": null,
@@ -1761,7 +1761,7 @@
     "color": "FF4FC3F7"
   },
   {
-    "row": 96,
+    "row": 95,
     "date": "2026-07-28",
     "sum": 20000,
     "currency": "USD",
@@ -1780,7 +1780,7 @@
     "notes": "Инвойс 260298 от 28.07.2026. D&C EXPORT E IMPORT CIA. LTDA (Эквадор) → Q8 Group Limited. Международная логистика. Payment Order DOCX приложен. | Получено USDT: 20,220"
   },
   {
-    "row": 97,
+    "row": 96,
     "date": "2026-07-28",
     "sum": 25000,
     "currency": "USD",
@@ -1799,7 +1799,7 @@
     "notes": "Инвойс INV-3033 от 28.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Эквадор) → Q8 Group Limited. Авиафрахт, AWB 145-1210 3033. | Получено USDT: 25,250"
   },
   {
-    "row": 98,
+    "row": 97,
     "date": "2026-07-28",
     "sum": 20000,
     "currency": "USD",
@@ -1818,7 +1818,7 @@
     "notes": "Инвойс + Payment Order от 28.07.2026. EBF CARGO CIA LTDA (Эквадор) → Q8 Group Limited. Транспортные услуги. PRODUBANCO, SWIFT PRODECEQ, счёт 02005153421. | Получено USDT: 20,220"
   },
   {
-    "row": 94,
+    "row": 98,
     "date": "2026-07-28",
     "sum": null,
     "currency": null,
@@ -1844,7 +1844,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Bloom Market (Цветы)",
-    "costFormula": "Invoice BL-P01/290726-2 ot 29.07.2026. Bloom Market EOOD (Bulgaria), 80k roses EUR0.53, logistics EUR13,238.65.",
+    "costFormula": "",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -1852,7 +1852,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Invoice BL-P01/290726-2 ot 29.07.2026. Bloom Market EOOD (Bulgaria), 80k roses EUR0.53, logistics EUR13,238.65.",
     "calc": null
   },
   {
@@ -1863,7 +1863,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Bloom Market (Цветы)",
-    "costFormula": "Invoice BL-P01/290726 ot 29.07.2026. Bloom Market EOOD (Bulgaria), 100k roses 0.55, logistics 24407.40 EUR. BGUSBGSF",
+    "costFormula": "",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -1871,7 +1871,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Invoice BL-P01/290726 ot 29.07.2026. Bloom Market EOOD (Bulgaria), 100k roses 0.55, logistics 24407.40 EUR. BGUSBGSF",
     "calc": null
   }
 ]
