@@ -1873,5 +1873,43 @@
     "sent_usdt": 91111.94,
     "notes": "Invoice BL-P01/290726 ot 29.07.2026. Bloom Market EOOD (Bulgaria), 100k roses 0.55, logistics 24407.40 EUR. BGUSBGSF",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 101,
+    "date": "2026-07-29",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ГлобалЦвет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "1999462.77 / 49986.57",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Приход на Блэкшарк ПОЧТО: ПП №814 оплата 1,999,462.77₽ (VO11200) + ПП №815 вознаграждение 49,986.57₽ (VO21100) по WD-26 пор.97 от 29.07.2026.",
+    "calc": null
+  },
+  {
+    "row": 102,
+    "date": "2026-07-29",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Церера (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "12995633.69 / 324890.84",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Приход на Блэкшарк ПОЧТО: ПП №438 оплата 12,995,633.69₽ (VO11200) + ПП №439 вознаграждение 324,890.84₽ (VO21100) по WD-27 пор.41 от 29.07.2026.",
+    "calc": null
   }
 ]
