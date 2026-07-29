@@ -2025,5 +2025,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 109,
+    "date": "2026-07-29",
+    "sum": 35000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Цветы",
+    "costFormula": "35000 + 0.3% + 30 = 35135 USDT",
+    "extra": "Инвойс CEVA FREIGHT MANAGEMENT DE COLOMBIA S.A.S. Авиафрахт для Q8 Group. Invoice #34272 от 13.07.26",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
