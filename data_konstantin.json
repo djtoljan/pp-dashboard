@@ -15,7 +15,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 59.73
   },
   {
     "row": 2,
@@ -33,7 +34,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 108.42
   },
   {
     "row": 3,
@@ -51,7 +53,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 74.81
   },
   {
     "row": 4,
@@ -69,7 +72,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 78.08
   },
   {
     "row": 5,
@@ -87,7 +91,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 107.41
   },
   {
     "row": 6,
@@ -105,7 +110,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 209.26
   },
   {
     "row": 7,
@@ -123,7 +129,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 68.61
   },
   {
     "row": 8,
@@ -141,7 +148,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 17.35
   },
   {
     "row": 9,
@@ -159,7 +167,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 119.17
   },
   {
     "row": 10,
@@ -177,7 +186,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 167.7
   },
   {
     "row": 11,
@@ -195,7 +205,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 63.19
   },
   {
     "row": 12,
@@ -213,7 +224,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 36.48
   },
   {
     "row": 13,
@@ -231,7 +243,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 568.98
   },
   {
     "row": 14,
@@ -249,7 +262,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 84.92
   },
   {
     "row": 15,
@@ -267,7 +281,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 200.34
   },
   {
     "row": 16,
@@ -285,7 +300,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 79.02
   },
   {
     "row": 17,
@@ -303,7 +319,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 186
   },
   {
     "row": 18,
@@ -321,7 +338,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 0
   },
   {
     "row": 19,
@@ -339,7 +357,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 99.55
   },
   {
     "row": 20,
@@ -358,7 +377,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "costFormula": "104739/(1-0.3%) = 105,054 USDT"
+    "costFormula": "104739/(1-0.3%) = 105,054 USDT",
+    "margin": 209.14
   },
   {
     "row": 21,
@@ -376,7 +396,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 340.6
   },
   {
     "row": 22,
@@ -394,7 +415,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "vdx_rate": null,
-    "exchange_to": null
+    "exchange_to": null,
+    "margin": 84.8
   },
   {
     "row": 23,
@@ -408,7 +430,8 @@
     "received_usdt": 24263.79,
     "color": "FF92D050",
     "notes": "Инвойс 260258 от 17.07.2026. AlteVia OÜ → Transpath Logistic Limited. Musical instruments. Coop Pank AS, EKRDEE22, EE794204278622781603. Без посредников. | VDX CONFIRMATION 17.07 14:58 UTC: MT73 INITIATED, AlteVia OU→TRANSPATH, SEPA, INV.260258 | MT73 CONFIRMATION 21.07 15:04 UTC: COMPLETED. SEPA, -21022.60 EUR, AlteVia OU→TRANSPATH, INV.260258",
-    "sent_usdt": 24227.446
+    "sent_usdt": 24227.446,
+    "margin": 36.34
   },
   {
     "row": 24,
@@ -423,7 +446,8 @@
     "color": "FF92D050",
     "received_usdt": "42816.06",
     "sent_usdt": 42752.83,
-    "notes": "Payment from OMNICODE -> TREBUTAR es TARSA Kft. (Hungary), FINOM PAYMENTS FNOMNL22. INV PF2026-0708/01. 37,200.00 EUR. Klient: Konstantin (Prosto gruppa) | RASCHEt: 37,200 EUR -> 42,503.54 USD @1.14257 -> 42,752.83 USDT | VDX 20.07 13:45 UTC: OMNICODE -> TREBUTAR es TARSA Kft., SEPA, 37,200 EUR, INV PF2026-0708/01. STATUS: INITIATED | USDT получено 20.07: 42 816,06 USDT от Константин"
+    "notes": "Payment from OMNICODE -> TREBUTAR es TARSA Kft. (Hungary), FINOM PAYMENTS FNOMNL22. INV PF2026-0708/01. 37,200.00 EUR. Klient: Konstantin (Prosto gruppa) | RASCHEt: 37,200 EUR -> 42,503.54 USD @1.14257 -> 42,752.83 USDT | VDX 20.07 13:45 UTC: OMNICODE -> TREBUTAR es TARSA Kft., SEPA, 37,200 EUR, INV PF2026-0708/01. STATUS: INITIATED | USDT получено 20.07: 42 816,06 USDT от Константин",
+    "margin": 63.23
   },
   {
     "row": 25,
@@ -438,7 +462,8 @@
     "color": "FF92D050",
     "received_usdt": 108540,
     "sent_usdt": 108354,
-    "notes": "Proforma 0707 от 07.07.2026. Peptipure FZE (UAE) -> Neurovision Global Intelligence FZCO (Dubai). ,000 (20%) USD. Серверное оборудование (H200 GPU). Контракт JL070726. Ajman Bank PJSC, AJMNAEAJ. 20% prepayment = ,000 via SWIFT. Payment Order attached. Константин -> Q8. | client: Константин (Просто группа) | USDT IN 23.07: 108540 USDT от Константина (BobrAlert). | BONBILL 24.07 14:49: Q8→Peptipure FZE, 108,000 USD, Ajman Bank PJSC, TX O2080545984273842176969. EXECUTED 🟢"
+    "notes": "Proforma 0707 от 07.07.2026. Peptipure FZE (UAE) -> Neurovision Global Intelligence FZCO (Dubai). ,000 (20%) USD. Серверное оборудование (H200 GPU). Контракт JL070726. Ajman Bank PJSC, AJMNAEAJ. 20% prepayment = ,000 via SWIFT. Payment Order attached. Константин -> Q8. | client: Константин (Просто группа) | USDT IN 23.07: 108540 USDT от Константина (BobrAlert). | BONBILL 24.07 14:49: Q8→Peptipure FZE, 108,000 USD, Ajman Bank PJSC, TX O2080545984273842176969. EXECUTED 🟢",
+    "margin": 186
   },
   {
     "row": 26,
@@ -453,7 +478,8 @@
     "color": "FF92D050",
     "received_usdt": 343610.33,
     "sent_usdt": 342928,
-    "notes": "Платёж от INFINITE. GROUPE SEB EXPORT MIDDLE E B (HSBC UAE, BBMEAEAD, a/c AE690200000026580852101). Инвойс 4017275175 dd 06.07.2026, частичная оплата 299,870.00 EUR. Проформа SEB 1 500 000 EUR. Товар: Tefal/Moulinex. Плательщик: INFINITE. Жду расчёт. | Расчёт: 299,870€ × 1.13676811 = 340,883 USD + 0.6% = 342,928 USDT. Кошелёк: TW6aXdGB6VmQjTi2iLwGjFypcibsHPAkHj | BobrAlert 24.07 OUT: 342,928 USDT к INFINITE (TW6aXdGB6). Источник: IN 343,610.33 USDT от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5"
+    "notes": "Платёж от INFINITE. GROUPE SEB EXPORT MIDDLE E B (HSBC UAE, BBMEAEAD, a/c AE690200000026580852101). Инвойс 4017275175 dd 06.07.2026, частичная оплата 299,870.00 EUR. Проформа SEB 1 500 000 EUR. Товар: Tefal/Moulinex. Плательщик: INFINITE. Жду расчёт. | Расчёт: 299,870€ × 1.13676811 = 340,883 USD + 0.6% = 342,928 USDT. Кошелёк: TW6aXdGB6VmQjTi2iLwGjFypcibsHPAkHj | BobrAlert 24.07 OUT: 342,928 USDT к INFINITE (TW6aXdGB6). Источник: IN 343,610.33 USDT от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5",
+    "margin": 682.33
   },
   {
     "row": 27,
@@ -472,7 +498,8 @@
     "vdx_rate": null,
     "received_usdt": 50652,
     "sent_usdt": 50481.89,
-    "notes": "BONBILL O2082016535269998592435 28.07 16:13: Q8→220-B d.o.o., €44,100.03, OTP BANKA SRBIJA, inv 26-010-000130. Household appliances (Dyson V16 + TEFAL). EXECUTED 🟢"
+    "notes": "BONBILL O2082016535269998592435 28.07 16:13: Q8→220-B d.o.o., €44,100.03, OTP BANKA SRBIJA, inv 26-010-000130. Household appliances (Dyson V16 + TEFAL). EXECUTED 🟢",
+    "margin": 170.11
   },
   {
     "row": 28,
@@ -491,7 +518,8 @@
     "received_usdt": 184619.3,
     "sent_usdt": 184253,
     "notes": "Платёж от INTEGRA 28.07.2026. Babyliss sarl - Division PRO (Франция), JP Morgan CHASNL2X. Инвойс 7029733293 от 09.06.2026. Инструменты для укладки волос. EUR/USD кросс-курс: 1.13619288 (€161,681.00 → ,700.80). | INTEGRA TRADE MT73 28.07: PAYOUT INITIATED 161,681.44 EUR → Babyliss sarl. SEPA. Status: INITIATED. | INTEGRA TRADE MT73 28.07: PAYOUT INITIATED. Bobr: 184253 USDT OUT.",
-    "calc": "ТЕЗ"
+    "calc": "ТЕЗ",
+    "margin": 366.3
   },
   {
     "row": 29,
@@ -510,7 +538,8 @@
     "received_usdt": 100179.49,
     "sent_usdt": 99980,
     "notes": "Платёж от INFINITE. D-Line Auto Trading & Shipping F.Z.E (Dubai, IFX Payment). INV P-20260722/1. Автозапчасти. Расчёт: 99,582.00 + 0.4% = 99,980 USDT. Сводный кошелёк: TYx6BKLzqdRQG9fXg4ehmauEWyPiDiGZnh",
-    "calc": "calc from W& Платежи 28.07"
+    "calc": "calc from W& Платежи 28.07",
+    "margin": 199.49
   },
   {
     "row": 30,
@@ -529,6 +558,7 @@
     "received_usdt": 12090.66,
     "sent_usdt": 11996.793,
     "notes": "Платёж Q8 → DEKOR BANYO (Турция, Yapi Kredi). Инвойс IHR2026000000009 от 23.07.2026. Ванные аксессуары из нержавейки. EXW Istanbul. 50% предоплата, 50% по погрузке. | IBR 3088: PO for DEKOR BANYO, 11,931 USD Processing. Serial: O2082052758579576832875. 28.07 18:37. Статус: PROCESSING (🟡)",
-    "calc": "ТЕЗ"
+    "calc": "ТЕЗ",
+    "margin": 93.87
   }
 ]
