@@ -1908,14 +1908,14 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Dolina Agro (Цветы)",
-    "costFormula": "€20,000 / 0.870455 = ,976.49 + 0.3% + 30 = 23,075.42 USDT",
+    "costFormula": "20000 EUR × kurs + 0.3% + 30 = ? USDT (nuzhen kross-kurs)",
     "extra": "Реквизиты Dolina Agro Ltd (Израиль). BANK LEUMI, SWIFT LUMIILITXXX. 20000 EUR",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 23075.42,
+    "sent_usdt": null,
     "notes": null
   },
   {
