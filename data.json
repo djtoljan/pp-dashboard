@@ -1338,7 +1338,7 @@
     "rubles_received": "139948.80 / 9980.23",
     "sent_rubles_vdx": 149929.03,
     "exchange_to": "VDX",
-    "vdx_rate": null,
+    "vdx_rate": 78.27,
     "received_usdt": 1913.62,
     "sent_usdt": 1786.06,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
@@ -1358,7 +1358,7 @@
     "rubles_received": "478216.92 / 16694.57",
     "sent_rubles_vdx": "490237.73",
     "exchange_to": "VDX",
-    "vdx_rate": null,
+    "vdx_rate": 78.29,
     "received_usdt": 48.82,
     "sent_usdt": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
@@ -1378,7 +1378,7 @@
     "rubles_received": "1946944.78 / 31151.11",
     "sent_rubles_vdx": "1967255.06",
     "exchange_to": "VDX",
-    "vdx_rate": null,
+    "vdx_rate": 78.29,
     "received_usdt": 146.79,
     "sent_usdt": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
@@ -1455,7 +1455,7 @@
     "extra": "ИП Мазуренко",
     "rubles_received": "1333350.00 / 21333.60",
     "sent_rubles_vdx": "1358744.40",
-    "vdx_rate": null,
+    "vdx_rate": 78.27,
     "exchange_to": "VDX",
     "received_usdt": 116.71,
     "sent_usdt": null,
@@ -1497,7 +1497,7 @@
     "rubles_received": "6949014.38 / 175723.36",
     "sent_rubles_vdx": 7088963.18,
     "exchange_to": "VDX",
-    "vdx_rate": null,
+    "vdx_rate": 78.27,
     "received_usdt": 90480.06,
     "sent_usdt": 88845.65,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
@@ -1535,7 +1535,7 @@
     "rubles_received": "3193481.80 / 55733.23",
     "sent_rubles_vdx": "3249215.03",
     "exchange_to": "VDX",
-    "vdx_rate": null,
+    "vdx_rate": 78.45,
     "received_usdt": "41376.24",
     "sent_usdt": "40932.34",
     "notes": "Tranmax Machinery Co., Ltd (Тайвань) — инвойс Jerry Chen, P/O 08-26..12-26, всего 215 шт на 40 780 USD | Portshenie No73688 ot 27.07.2026. Principal: OOO VTS. Agent: OsOO BiTreid Kei Dji (Kyrygzstan). Poluchatel: Tranmax Machinery Co., Ltd. (Taiwan, First Commercial Bank FCBKTWTPXXX, a/c 402-40-003835). Sales Contract No18 dd 18.07.2026. Kurs: 78.3100. RUB-ekv: 3,193,481.80. Komissiya: 1.5%. Podpis: Bondarev A.P. (VTS), Kuryanov A.A. (BiTreid). | PP No3614 ot 27.07.2026: OOO VTS (Sberbank) -> BiTreid Kei Dji (VTB). Summa: 3,193,481.80 RUB. Dogovor No18 ot 18.07.2026, invoys 73688. Ispolnen 27.07. Podpis: Bondarev A.P. (VTS). | VDX 28.07: 3,249,215.03₽ (ПП №54), заявка 82, инструменты. Подпись: Курьянов А.А. ИСПОЛНЕНО 13:22",
@@ -1557,7 +1557,7 @@
     "rubles_received": "2666781.00 / 47804.80",
     "sent_rubles_vdx": 2714585.8,
     "exchange_to": "VDX",
-    "vdx_rate": null,
+    "vdx_rate": 78.45,
     "received_usdt": "255.02",
     "sent_usdt": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
@@ -1577,7 +1577,7 @@
     "rubles_received": "1566585.39 / 25065.36",
     "sent_rubles_vdx": 1591650.75,
     "exchange_to": "VDX",
-    "vdx_rate": null,
+    "vdx_rate": 78.45,
     "received_usdt": "70.30",
     "sent_usdt": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
@@ -1597,7 +1597,7 @@
     "rubles_received": "3254724.14 / 56651.86",
     "sent_rubles_vdx": "3311376.00",
     "exchange_to": "VDX",
-    "vdx_rate": null,
+    "vdx_rate": 78.45,
     "received_usdt": "42167.81",
     "sent_usdt": "41716.74",
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
