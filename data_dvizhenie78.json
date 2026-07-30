@@ -236,8 +236,8 @@
   {
     "row": 15,
     "date": "2026-07-30",
-    "sum": null,
-    "currency": null,
+    "sum": 42256.41,
+    "currency": "USD",
     "company": null,
     "color": "FF4FC3F7",
     "clientName": "Балтик Лэнд (Движение 78)",
@@ -249,6 +249,24 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Пор.59 от 30.07.2026. Перевозка 3,328,960.00₽ (контракт 06052026/1) + агентское 85,357.93₽ (аг.договор 120525-B). VO21100. ПП от ООО БАЛТИК ЛЭНД (ВТБ СПб)."
+    "notes": "Пор.59 от 30.07.2026. Балтик лэнд → Shenzhen Wotu International Logistics Co., Ltd. (Hong Kong, OCBC WIHBHKHH, USD 802-403044-831). 41,200 USD (3,328,960 RUB) перевозка + 1,056.41 USD (85,357.93 RUB) агентское 2.5%. Контракт 06052026/1 от 06.05.2026. Курс 80.80 RUB/USD. Аг.договор 120525-B. | ПП №1745 перевозка + ПП №1746 агентское ИСПОЛНЕНЫ 30.07.2026."
+  },
+  {
+    "row": 16,
+    "date": "2026-07-30",
+    "sum": 36862,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFFFFFF",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": "Балтик Лэнд (Движение 78)",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Application for transfer. Балтик лэнд → SW CHINA LIMITED (Hong Kong, OCBC Bank WIHBHKHH, 802-403044-831). 36,862 USD. Freight invoice BL-06 dt. 07.07.2026. Ангелина 30.07.2026."
   }
 ]

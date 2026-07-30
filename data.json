@@ -1775,5 +1775,24 @@
     "notes": "ПП №34 от 30.07.2026. АО ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ → Блэкшарк ПОЧТОБАНК. 2,559,046.66₽. Оплата по Агентскому Договору. VO60081. ВТБ СПб.",
     "color": "FF4FC3F7",
     "extra": "FININVEST"
+  },
+  {
+    "row": 88,
+    "date": "2026-07-30",
+    "sum": 87840,
+    "currency": "EUR",
+    "calc": null,
+    "company": "Q8",
+    "costFormula": null,
+    "clientName": "FININVEST",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "vdx_rate": null,
+    "exchange_to": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Proforma INV 056-300726-FIT ot 30.07.2026. FININVEST ULUSLARARASI TICARET ANONIM SIRKETI (Turkey, Kuveyt Turk KTEFTRIS) → Q8 GROUP LIMITED (Hong Kong, DBS DHBKHKHH). 87,840 EUR. G7 MV 35KV RUBBER COMPOUND 12,000KG + G7 MV NEUTRAL PELLETS 12,000KG. DAP Turkey-Gebze. Contract 012-070726. Alina.",
+    "color": "FFFFFFFF",
+    "extra": "FININVEST"
   }
 ]

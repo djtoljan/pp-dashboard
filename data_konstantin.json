@@ -16,7 +16,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 59.73
+    "margin": 59.73,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 2,
@@ -35,7 +36,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 108.42
+    "margin": 108.42,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 3,
@@ -54,7 +56,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 74.81
+    "margin": 74.81,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 4,
@@ -73,7 +76,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 78.08
+    "margin": 78.08,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 5,
@@ -92,7 +96,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 107.41
+    "margin": 107.41,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 6,
@@ -111,7 +116,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 209.26
+    "margin": 209.26,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 7,
@@ -130,7 +136,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 68.61
+    "margin": 68.61,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 8,
@@ -149,7 +156,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 17.35
+    "margin": 17.35,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 9,
@@ -168,7 +176,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 119.17
+    "margin": 119.17,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 10,
@@ -187,7 +196,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 167.7
+    "margin": 167.7,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 11,
@@ -206,7 +216,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 63.19
+    "margin": 63.19,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 12,
@@ -225,7 +236,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 36.48
+    "margin": 36.48,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 13,
@@ -244,7 +256,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 568.98
+    "margin": 568.98,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 14,
@@ -263,7 +276,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 84.92
+    "margin": 84.92,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 15,
@@ -282,7 +296,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 200.34
+    "margin": 200.34,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 16,
@@ -301,7 +316,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 79.02
+    "margin": 79.02,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 17,
@@ -320,7 +336,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 186
+    "margin": 186,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 18,
@@ -339,7 +356,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 0
+    "margin": 0,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 19,
@@ -358,7 +376,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 99.55
+    "margin": 99.55,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 20,
@@ -378,7 +397,8 @@
     "vdx_rate": null,
     "exchange_to": null,
     "costFormula": "104739/(1-0.3%) = 105,054 USDT",
-    "margin": 209.14
+    "margin": 209.14,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 21,
@@ -397,7 +417,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 340.6
+    "margin": 340.6,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 22,
@@ -416,7 +437,8 @@
     "sent_rubles_vdx": null,
     "vdx_rate": null,
     "exchange_to": null,
-    "margin": 84.8
+    "margin": 84.8,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 23,
@@ -431,7 +453,8 @@
     "color": "FF92D050",
     "notes": "Инвойс 260258 от 17.07.2026. AlteVia OÜ → Transpath Logistic Limited. Musical instruments. Coop Pank AS, EKRDEE22, EE794204278622781603. Без посредников. | VDX CONFIRMATION 17.07 14:58 UTC: MT73 INITIATED, AlteVia OU→TRANSPATH, SEPA, INV.260258 | MT73 CONFIRMATION 21.07 15:04 UTC: COMPLETED. SEPA, -21022.60 EUR, AlteVia OU→TRANSPATH, INV.260258",
     "sent_usdt": 24227.446,
-    "margin": 36.34
+    "margin": 36.34,
+    "clientName": "Константин (Просто группа)"
   },
   {
     "row": 24,
