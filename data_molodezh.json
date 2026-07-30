@@ -1044,5 +1044,23 @@
     "sent_usdt": null,
     "notes": "ПП №328 от 29.07.2026 (Проведено). Плательщик: ООО Эксперт (ЮНИКРЕДИТ БАНК). Получатель: VDX. 625,662.93₽. Daeil Beauty Collection Co., Ltd. — товар. Ag.-Of.24072026, PI-OPT260720-R1. Аг.дог.09-02-2/26 от 09.02.26. VO11100. | Комиссия VDX ПП329 28 612.66₽ → 360.91 USDT",
     "calc": null
+  },
+  {
+    "row": 60,
+    "date": "2026-07-30",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": null,
+    "costFormula": null,
+    "extra": "Вилог",
+    "rubles_received": null,
+    "sent_rubles_vdx": 1370872.19,
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "ПП №547 от 30.07.2026 ИСПОЛНЕН. Плательщик: ООО ВИЛОГ (ВТБ). Получатель: ВиДиИкс Сервисез - ФЗКО (VDX, ПСБ). 1,370,872.19 RUB. Инвойс INV260700646 от 21.07.2026. Автомобильный фрахт, соглашение ISP-003. Курс 81.3574. Alex 30.07.2026."
   }
 ]
