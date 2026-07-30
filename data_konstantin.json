@@ -636,5 +636,23 @@
     "sent_usdt": "11528",
     "notes": "Платёжный ордер от 29.07.2026. Payment from Omnex. Получатель: IK RCTS (Латвия, LV-1050 Riga). Банк: AS SEB banka (UNLALV2X). Счёт: LV05UNLA0050002557002. Инвойс KRG-1001 dd 14.07.2026. 10,000 EUR. OUR. | USDT получен на Рабочий 3: 11602.8 USDT (Константин IK RCTS). | W& Платежи расчёт: 10,000 EUR → 11,388 USD; 11,388/(1-0.35%)+100=11,528 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8. | Omnex 29.07 15:32 UTC: TRANSACTION CONFIRMATION — STATUS: INITIATED. Payout 10,000 EUR to IK RCTS (SEPA). Ref: Inv KRG-1001 dd 14.07.2026.",
     "calc": null
+  },
+  {
+    "row": 35,
+    "date": "2026-07-30",
+    "sum": 18001,
+    "currency": "USD",
+    "company": "HMI",
+    "color": "FFFFFFFF",
+    "clientName": "HMI",
+    "costFormula": null,
+    "extra": "HMI (Константин)",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Payment from HMI to IMedical Tel Aviv Ltd (Israel). Bank Leumi LUMIILITXXX, IL23-0109-3200-0000-1182-008. 18,001 USD. inv 607533 dd 13.04.2026. Medical consultation, blood tests, PET CT, oncological treatment. Alex VDX 30.07.2026."
   }
 ]
