@@ -1528,7 +1528,7 @@
     "sum": 40780,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ВТС",
     "costFormula": "40,780 + 0.3% + 30 = 40,932.34 USDT",
     "extra": "ВТС",
@@ -1538,7 +1538,7 @@
     "vdx_rate": 78.45,
     "received_usdt": "41376.24",
     "sent_usdt": "40932.34",
-    "notes": "Tranmax Machinery Co., Ltd (Тайвань) — инвойс Jerry Chen, P/O 08-26..12-26, всего 215 шт на 40 780 USD | Portshenie No73688 ot 27.07.2026. Principal: OOO VTS. Agent: OsOO BiTreid Kei Dji (Kyrygzstan). Poluchatel: Tranmax Machinery Co., Ltd. (Taiwan, First Commercial Bank FCBKTWTPXXX, a/c 402-40-003835). Sales Contract No18 dd 18.07.2026. Kurs: 78.3100. RUB-ekv: 3,193,481.80. Komissiya: 1.5%. Podpis: Bondarev A.P. (VTS), Kuryanov A.A. (BiTreid). | PP No3614 ot 27.07.2026: OOO VTS (Sberbank) -> BiTreid Kei Dji (VTB). Summa: 3,193,481.80 RUB. Dogovor No18 ot 18.07.2026, invoys 73688. Ispolnen 27.07. Podpis: Bondarev A.P. (VTS). | VDX 28.07: 3,249,215.03₽ (ПП №54), заявка 82, инструменты. Подпись: Курьянов А.А. ИСПОЛНЕНО 13:22",
+    "notes": "Tranmax Machinery Co., Ltd (Тайвань) — инвойс Jerry Chen, P/O 08-26..12-26, всего 215 шт на 40 780 USD | Portshenie No73688 ot 27.07.2026. Principal: OOO VTS. Agent: OsOO BiTreid Kei Dji (Kyrygzstan). Poluchatel: Tranmax Machinery Co., Ltd. (Taiwan, First Commercial Bank FCBKTWTPXXX, a/c 402-40-003835). Sales Contract No18 dd 18.07.2026. Kurs: 78.3100. RUB-ekv: 3,193,481.80. Komissiya: 1.5%. Podpis: Bondarev A.P. (VTS), Kuryanov A.A. (BiTreid). | PP No3614 ot 27.07.2026: OOO VTS (Sberbank) -> BiTreid Kei Dji (VTB). Summa: 3,193,481.80 RUB. Dogovor No18 ot 18.07.2026, invoys 73688. Ispolnen 27.07. Podpis: Bondarev A.P. (VTS). | VDX 28.07: 3,249,215.03₽ (ПП №54), заявка 82, инструменты. Подпись: Курьянов А.А. ИСПОЛНЕНО 13:22 | BONBILL O2082710202003619840639 ot 30.07.2026 — Q8→Tranmax Machinery Co., Ltd. (Taiwan, First Commercial Bank). 40,780 USD. Invoice INV080910111226 dd 07.2026. Tech Parts.",
     "calc": "ТЕЗ",
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
@@ -1592,8 +1592,8 @@
     "clientName": "ВТС",
     "extra": "ВТС",
     "costFormula": "41,562.05 + 0.3% + 30 = 41,716.74 USDT",
-    "color": "FFFFFFFF",
-    "notes": "Invoys ot DENER INOVASYON (Turtsiya, Kayseri, VakifBank TVBATR2A, USD IBAN TR750001500158048023392390). Pokupatel: WTC LLC (VTS). Tovar: FLAT/WRINKLE PANEL i LINED/EMBOSSED PANEL (Finger Protection, raznye cveta/razmery). Summa: ,562.05 USD. Plat.: avans. Kontakt: Yigit CANBAZ. Polucheno ot Aliny 27.07. | Portshenie No73900 ot 27.07.2026. Principal: OOO VTS. Agent: OsOO BiTreid Kei Dji. Poluchatel: DENER INOVASYON (Turtsiya, Kayseri, Garanti Bankasi TGBATRIS, a/c TR200006200114700009081780). Sales Contract VTS/24/13-12 dd 13.12.2024. Invoys 265047 dd 22.07.2026. Kurs: 78.3100. RUB-ekv: 3,254,724.14. Komissiya: 1.5%+100 USD. Podpis: Bondarev A.P. (VTS), Kuryanov A.A. (BiTreid). | PP No3616 ot 27.07.2026: OOO VTS (Sberbank) -> BiTreid Kei Dji (VTB). Summa: 3,254,724.14 RUB. Dogovor VTS/24/13-12 ot 13.12.2024, invoys 265047 ot 22.07.2026. Ispolnen 27.07. Podpis: Bondarev A.P. (VTS). | VDX 28.07: 3,311,376.00₽ (заявка 83), комплектующие для дверей | ПП №55 от 28.07.2026: БиТрейд Кей Джи(ВТБ)→ВиДиИкс Сервисез(ПСБ). 3,311,376.00₽. Аг.договор 4-01 от 13.05.2025. Заявка 83. ИСПОЛНЕНО 28.07 13:59. Подпись: Курьянов А.А. | Платёжная заявка (Q8): Получатель DENER INOVASYON (Турция, Kayseri). Банк GARANTİ BANKASI (TGBATRIS). Счёт TR20 0006 2001 1470 0009 0817 80.",
+    "color": "FF92D050",
+    "notes": "Invoys ot DENER INOVASYON (Turtsiya, Kayseri, VakifBank TVBATR2A, USD IBAN TR750001500158048023392390). Pokupatel: WTC LLC (VTS). Tovar: FLAT/WRINKLE PANEL i LINED/EMBOSSED PANEL (Finger Protection, raznye cveta/razmery). Summa: ,562.05 USD. Plat.: avans. Kontakt: Yigit CANBAZ. Polucheno ot Aliny 27.07. | Portshenie No73900 ot 27.07.2026. Principal: OOO VTS. Agent: OsOO BiTreid Kei Dji. Poluchatel: DENER INOVASYON (Turtsiya, Kayseri, Garanti Bankasi TGBATRIS, a/c TR200006200114700009081780). Sales Contract VTS/24/13-12 dd 13.12.2024. Invoys 265047 dd 22.07.2026. Kurs: 78.3100. RUB-ekv: 3,254,724.14. Komissiya: 1.5%+100 USD. Podpis: Bondarev A.P. (VTS), Kuryanov A.A. (BiTreid). | PP No3616 ot 27.07.2026: OOO VTS (Sberbank) -> BiTreid Kei Dji (VTB). Summa: 3,254,724.14 RUB. Dogovor VTS/24/13-12 ot 13.12.2024, invoys 265047 ot 22.07.2026. Ispolnen 27.07. Podpis: Bondarev A.P. (VTS). | VDX 28.07: 3,311,376.00₽ (заявка 83), комплектующие для дверей | ПП №55 от 28.07.2026: БиТрейд Кей Джи(ВТБ)→ВиДиИкс Сервисез(ПСБ). 3,311,376.00₽. Аг.договор 4-01 от 13.05.2025. Заявка 83. ИСПОЛНЕНО 28.07 13:59. Подпись: Курьянов А.А. | Платёжная заявка (Q8): Получатель DENER INOVASYON (Турция, Kayseri). Банк GARANTİ BANKASI (TGBATRIS). Счёт TR20 0006 2001 1470 0009 0817 80. | BONBILL O2082711094023028736984 ot 30.07.2026 — Q8→DENER INOVASYON (Turkey, Garanti Bankasi). 41,562.05 USD. Invoice 265047 dd 22.07.2026. EMBOSSED PANEL. | BONBILL O2082711094023028736984 ot 30.07.2026 — Q8→DENER INOVASYON (Turkey, Garanti Bankasi). 41,562.05 USD. Invoice 265047 dd 22.07.2026. EMBOSSED PANEL.",
     "rubles_received": "3254724.14 / 56651.86",
     "sent_rubles_vdx": "3311376.00",
     "exchange_to": "VDX",
@@ -1612,14 +1612,14 @@
     "clientName": "ВТС",
     "costFormula": "14,437.50 + 0.3% + 30 = 14,510.83 USDT",
     "extra": "ВТС",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "rubles_received": "1130600.63 / 24790.01",
     "sent_rubles_vdx": 1155390.64,
     "exchange_to": "VDX",
     "vdx_rate": 79.2,
     "received_usdt": "14573.68",
     "sent_usdt": "14510.81",
-    "notes": "Поручение 73810 от 27.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Guangzhou Tinlee Leather Co., Ltd (Китай). Инвойс HXX20260722 от 22.07.2026. Контракт 24-07/01 от 24.07.2026. Курс 78.3100. Комиссия 1.5%+100 USD. Подтверждено выпиской VTB 27.07: 1,130,600.63₽ товар + 24,790.01₽ комиссия (посреднические). | VDX уведомление 28.07: отправлено 1,155,390.64₽ (БиТрейд→VDX). Заявка 84, косметички. Сумма = тело 1,130,600.63 + комиссия 24,790.01"
+    "notes": "Поручение 73810 от 27.07.2026. Принципал: ООО ВТС. Агент: БиТрейд Кей Джи. Получатель: Guangzhou Tinlee Leather Co., Ltd (Китай). Инвойс HXX20260722 от 22.07.2026. Контракт 24-07/01 от 24.07.2026. Курс 78.3100. Комиссия 1.5%+100 USD. Подтверждено выпиской VTB 27.07: 1,130,600.63₽ товар + 24,790.01₽ комиссия (посреднические). | VDX уведомление 28.07: отправлено 1,155,390.64₽ (БиТрейд→VDX). Заявка 84, косметички. Сумма = тело 1,130,600.63 + комиссия 24,790.01 | BONBILL O2082711881725902848468 ot 30.07.2026 — Q8→Guangzhou Tinlee Leather Co., Ltd (China, BOC). 14,437.50 USD. Invoice HXX20260722 dd 22.07.2026. Makeup Bag."
   },
   {
     "row": 80,
@@ -1704,7 +1704,7 @@
     "sum": 40101.52,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFF0000",
+    "color": "FF92D050",
     "clientName": "ВТС (Itrix 73316)",
     "costFormula": "€40,101.52 / 0.870455 = ,069.61 + 0.3% + 30 = 46,237.82 USDT",
     "extra": null,
@@ -1714,7 +1714,7 @@
     "vdx_rate": 79.2,
     "received_usdt": "46152.78",
     "sent_usdt": 46237.82,
-    "notes": "БиТрейд ВТБ→VDX, химические примеси, заявка 85. Itrix Co., Ltd (Бангкок), 40,101.52 EUR. Тело (3,597,106.34) + посреднические (61,852.60). БиТрейд Кей Джи (агент) | ПП №57 от 28.07.2026: БиТрейд Кей Джи → VDX, 3,658,958.94₽. Исполнен 28.07 в 18:00. Аг.договор 4-01 от 13.05.2025, заявка 85, химические примеси | Приход от ВТС: ПП №3622 (3,597,106.34₽) + №3623 (61,852.60₽) по выписке ВТБ 28.07 | Инвойс Itrix №73316 от 27.07.2026. DOUCIL 4A (€5,554.09) + BRITESIL C355 (€34,547.44). Всего €40,101.52. Q8 GROUP LIMITED (HK). Siam Commercial Bank.",
+    "notes": "БиТрейд ВТБ→VDX, химические примеси, заявка 85. Itrix Co., Ltd (Бангкок), 40,101.52 EUR. Тело (3,597,106.34) + посреднические (61,852.60). БиТрейд Кей Джи (агент) | ПП №57 от 28.07.2026: БиТрейд Кей Джи → VDX, 3,658,958.94₽. Исполнен 28.07 в 18:00. Аг.договор 4-01 от 13.05.2025, заявка 85, химические примеси | Приход от ВТС: ПП №3622 (3,597,106.34₽) + №3623 (61,852.60₽) по выписке ВТБ 28.07 | Инвойс Itrix №73316 от 27.07.2026. DOUCIL 4A (€5,554.09) + BRITESIL C355 (€34,547.44). Всего €40,101.52. Q8 GROUP LIMITED (HK). Siam Commercial Bank. | BONBILL O2082725170446991360485 ot 30.07.2026 — Q8→Itrix Co., Ltd. (Thailand, Siam Commercial Bank). 40,101.52 EUR. Invoice 73316 dd 27.07.2026. DOUCI Land BRITESIL.",
     "calc": "РУБ"
   },
   {
@@ -1743,7 +1743,7 @@
     "sum": 130481.01,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ВТС",
     "costFormula": "130,481.01 + 0.3% + 30 = 130,922.45 USDT",
     "extra": null,
@@ -1753,7 +1753,7 @@
     "vdx_rate": null,
     "received_usdt": 132307.74,
     "sent_usdt": "130902.45",
-    "notes": "Поручение №70030 от 29.07.2026. Принципал: ООО ВТС. Агент: ОсОО БиТрейд Кей Джи. Получатель: Itrix Co., Ltd. (Таиланд). Контракт 20-09/01 от 20.09.2025. Инвойс 70030 от 15.06.2026 (Imacoat HE-100). 3-й авансовый платёж. Курс 79.70. RUB эквивалент: 10,399,336.50. Комиссия агента 1.4%. Банк: Siam Commercial Bank (SICOTHBK). | ПП №3625 от 29.07.2026 ИСПОЛНЕН. Плательщик: ООО ВТС (Сбербанк). Получатель: ООО БиТрейд Кей Джи (ВТБ). 10,399,336.50₽. Оплата товара по дог.20-09/01, инвойс 70030 от 15.06.2026. | ПП №3626 от 29.07.2026 ИСПОЛНЕН. ВТС → БиТрейд Кей Джи. 145,590.71₽. Посреднические услуги по расчётам с Itrix (инвойс 70030). VO21100. | ПП с БиТрейд ВТБ→VDX. 10,690,517.92₽. Заяв.86 от 29.07.2026. Защитное покрытие Imacoat HE-100 (Itrix). ВТС. | John 30.07: с Битрейд ВТБ→VDX 10,544,927.21₽, защ.покрытие Imacoat HE-100 (заяв.86), ВТС",
+    "notes": "Поручение №70030 от 29.07.2026. Принципал: ООО ВТС. Агент: ОсОО БиТрейд Кей Джи. Получатель: Itrix Co., Ltd. (Таиланд). Контракт 20-09/01 от 20.09.2025. Инвойс 70030 от 15.06.2026 (Imacoat HE-100). 3-й авансовый платёж. Курс 79.70. RUB эквивалент: 10,399,336.50. Комиссия агента 1.4%. Банк: Siam Commercial Bank (SICOTHBK). | ПП №3625 от 29.07.2026 ИСПОЛНЕН. Плательщик: ООО ВТС (Сбербанк). Получатель: ООО БиТрейд Кей Джи (ВТБ). 10,399,336.50₽. Оплата товара по дог.20-09/01, инвойс 70030 от 15.06.2026. | ПП №3626 от 29.07.2026 ИСПОЛНЕН. ВТС → БиТрейд Кей Джи. 145,590.71₽. Посреднические услуги по расчётам с Itrix (инвойс 70030). VO21100. | ПП с БиТрейд ВТБ→VDX. 10,690,517.92₽. Заяв.86 от 29.07.2026. Защитное покрытие Imacoat HE-100 (Itrix). ВТС. | John 30.07: с Битрейд ВТБ→VDX 10,544,927.21₽, защ.покрытие Imacoat HE-100 (заяв.86), ВТС | BONBILL O2082721668173791232845 ot 30.07.2026 — Q8→Itrix Co., Ltd. (Thailand, Siam Commercial Bank). 130,481.01 USD. Invoice 70030 dd 15.06.2026. Hardening Coating.",
     "calc": "ТЕЗ",
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   }
