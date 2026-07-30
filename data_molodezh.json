@@ -1048,9 +1048,9 @@
   {
     "row": 60,
     "date": "2026-07-30",
-    "sum": null,
-    "currency": null,
-    "company": null,
+    "sum": 16850,
+    "currency": "USD",
+    "company": "Q8",
     "color": "FF4FC3F7",
     "clientName": null,
     "costFormula": null,
@@ -1061,6 +1061,6 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "ПП №547 от 30.07.2026 ИСПОЛНЕН. Плательщик: ООО ВИЛОГ (ВТБ). Получатель: ВиДиИкс Сервисез - ФЗКО (VDX, ПСБ). 1,370,872.19 RUB. Инвойс INV260700646 от 21.07.2026. Автомобильный фрахт, соглашение ISP-003. Курс 81.3574. Alex 30.07.2026."
+    "notes": "ПП №547 от 30.07.2026 ИСПОЛНЕН. Плательщик: ООО ВИЛОГ (ВТБ). Получатель: ВиДиИкс Сервисез - ФЗКО (VDX, ПСБ). 1,370,872.19 RUB. Инвойс INV260700646 от 21.07.2026. Автомобильный фрахт, соглашение ISP-003. Курс 81.3574. Alex 30.07.2026. | Shenzhen Lingo Supply Chain Management Co., Ltd. (China Merchants Bank CMBCCNBS050, USD 755969239132000). 16,850 USD. Trucking ,300 + Pick-up ,300 + E-seal . INV260700646 dd 21.07.2026. Payer: Q8 GROUP LIMITED."
   }
 ]
