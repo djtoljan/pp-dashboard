@@ -666,7 +666,7 @@
     "sum": 18001,
     "currency": "USD",
     "company": "HMI",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "HMI",
     "costFormula": "18,001 USD / 0.994 + 65 = 18,175 USDT",
     "extra": "HMI (Константин)",
