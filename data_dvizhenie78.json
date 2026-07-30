@@ -244,11 +244,11 @@
     "costFormula": null,
     "extra": "Балтик Лэнд (Движение 78)",
     "rubles_received": "3328960.00 / 85357.93",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "3414317.93",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Пор.59 от 30.07.2026. Балтик лэнд → SW CHINA LIMITED (Hong Kong, OCBC WIHBHKHH, 802-403044-831). 36,862 USD. Freight invoice BL-06 dt. 07.07.2026. | ПП №1745 перевозка 3,328,960 RUB + ПП №1746 агентское 85,357.93 RUB (аг.договор 120525-B). Курс 80.80. ИСПОЛНЕНЫ 30.07.2026."
+    "notes": "Пор.59 от 30.07.2026. Балтик лэнд → SW CHINA LIMITED (Hong Kong, OCBC WIHBHKHH, 802-403044-831). 36,862 USD. Freight invoice BL-06 dt. 07.07.2026. | ПП №1745 перевозка 3,328,960 RUB + ПП №1746 агентское 85,357.93 RUB (аг.договор 120525-B). Курс 80.80. ИСПОЛНЕНЫ 30.07.2026. | Платежи из Мира Привелегий: Блэкшарк ПОЧТО→VDX. 3,414,317.93 RUB. Заявка 655. O:\\...\\балтик ленд\\вход 30.07.26."
   }
 ]
