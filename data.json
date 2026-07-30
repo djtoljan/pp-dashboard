@@ -1813,5 +1813,24 @@
     "notes": "Proforma INV GM20260722-1 dd 22.07.2026. Продавец: Goodly Cosmetics (Shanghai, China). Покупатель: ВТС (WTC). Powder 5,000 pcs @ .9 = ,500. EXW. 50% deposit ,250 + 50% balance ,250. Алина 30.07.2026.",
     "color": "FFFF0000",
     "extra": "ВТС"
+  },
+  {
+    "row": 90,
+    "date": "2026-07-29",
+    "sum": 7772.5,
+    "currency": "USD",
+    "company": "null",
+    "color": "FFFF0000",
+    "clientName": "ООО Эксперт",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
