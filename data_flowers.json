@@ -1834,7 +1834,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "AOA VENTURES (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Реквизиты AOA VENTURES LTD. AfrAsia Bank, SWIFT AFBLMUMU. Flowers/logistics",
@@ -1844,7 +1844,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10060,
-    "notes": null
+    "notes": " | BONBILL O2082752086604382208781 ot 30.07.2026 — Q8→AOA VENTURES LTD (AfrAsia Bank Ltd, MU07AFBL2501076818000000027USD). 10,000 USD. Invoice 028 dd 16.07.2026. Flowers & Logistics."
   },
   {
     "row": 105,
@@ -1852,7 +1852,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Milele Flowers (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Реквизиты Milele Flowers limited (Кения). KCB, SWIFT KCBLKENX. For flowers",
@@ -1862,7 +1862,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10060,
-    "notes": null
+    "notes": " | BONBILL O2082753442119548928662 ot 30.07.2026 — Q8→Milele Flowers limited (Kenya, KENYA COMMERCIAL BANK, 1203691181). 10,000 USD. Invoice 13003175 dd 11.07.2026. Flowers."
   },
   {
     "row": 106,
@@ -1870,7 +1870,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Luxus Blumen (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Реквизиты Luxus Blumen S.A. (Эквадор). PRODUBANCO, SWIFT PRODECEQ. Wells Fargo intermediary. For flowers",
@@ -1880,7 +1880,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10060,
-    "notes": null
+    "notes": " | BONBILL O2082754034728566784484 ot 30.07.2026 — Q8→Luxus Blumen S.A. (PRODUBANCO, 02005190602). 10,000 USD. Invoice 271876 dd 10.07.2026. Flowers."
   },
   {
     "row": 107,
@@ -1906,7 +1906,7 @@
     "sum": 20000,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "20000 EUR × kurs + 0.3% + 30 = ? USDT (nuzhen kross-kurs)",
     "extra": "Реквизиты Dolina Agro Ltd (Израиль). BANK LEUMI, SWIFT LUMIILITXXX. 20000 EUR",
@@ -1916,7 +1916,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null
+    "notes": " | BONBILL O2082758021812977664769 ot 30.07.2026 — Q8→Dolina Agro Ltd (BANK LEUMI LE-ISRAEL B.M., IL750107440000027660042). 20,000 EUR. Invoice 2907009 dd 29.07.2026. Flowers."
   },
   {
     "row": 109,
@@ -1924,7 +1924,7 @@
     "sum": 35000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "CEVA FREIGHT (Цветы)",
     "costFormula": "35000 + 0.3% + 30 = 35135 USDT",
     "extra": "Инвойс CEVA FREIGHT MANAGEMENT DE COLOMBIA S.A.S. Авиафрахт для Q8 Group. Invoice #34272 от 13.07.26",
@@ -1934,7 +1934,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 35135,
-    "notes": null
+    "notes": " | BONBILL O2082756147470794752728 ot 30.07.2026 — Q8→CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS (Citibank Colombia, 0073854016). 35,000 USD. Invoice 34272 dd 13.07.2026. Transportation Services."
   },
   {
     "row": 110,
@@ -1945,14 +1945,14 @@
     "clientName": "BELLARO S.A.S (Цветы)",
     "costFormula": "14000 + 0.3% + 30 = 14072 USDT",
     "extra": "BELLARO S.A.S (Колумбия). INTERNATIONAL FINANCE BANK (IFB), SWIFT IFBKUS3M, ABA 067011692. Account 004105036. USD 14000",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 14072,
-    "notes": null
+    "notes": " | BONBILL O2082752801418641408352 ot 30.07.2026 — Q8→BELLARO S.A.S (INTERNATIONAL FINANCE BANK (IFB), 004105036). 14,000 USD. Invoice 5140865 dd 08.04.2026. Flowers."
   },
   {
     "row": 111,
@@ -1960,17 +1960,17 @@
     "sum": 84900,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Bloom Market (Цветы)",
-    "costFormula": null,
+    "costFormula": "€84 900 / 0.869708586005 = $97618.91 + 0.3% + 30 = 97941.76 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Invoice BL-P01/300726 ot 30.07.2026. Bloom Market EOOD (Bulgaria). Rosa 130,000szt @ 0.53 = 68,900 EUR + logistics 16,000 EUR. Bulgarian-American Credit Bank, BGUSBGSF, BG12BGUS91601413755700. Buyer: Q8 Group Limited."
+    "sent_usdt": 97941.76,
+    "notes": "Invoice BL-P01/300726 ot 30.07.2026. Bloom Market EOOD (Bulgaria). Rosa 130,000szt @ 0.53 = 68,900 EUR + logistics 16,000 EUR. Bulgarian-American Credit Bank, BGUSBGSF, BG12BGUS91601413755700. Buyer: Q8 Group Limited. | BONBILL O208275860217882214477 ot 30.07.2026 — Q8→Bloom Market EOOD (Bulgarian-American Credit Bank, BG12BGUS91601413755700). 84,900 EUR. Invoice BL-P01/300726. Flowers."
   },
   {
     "row": 112,
@@ -1978,16 +1978,16 @@
     "sum": 40557.98,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Bloom Market (Цветы)",
-    "costFormula": null,
+    "costFormula": "€40 557,98 / 0.869708586005 = $46633.99 + 0.3% + 30 = 46803.89 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Invoice BL-P01/300726-2 ot 30.07.2026. Bloom Market EOOD (Bulgaria). Rosa 60,000szt @ 0.55 = 33,000 EUR + logistics 7,557.98 EUR. Bulgarian-American Credit Bank, BGUSBGSF."
+    "sent_usdt": 46803.89,
+    "notes": "Invoice BL-P01/300726-2 ot 30.07.2026. Bloom Market EOOD (Bulgaria). Rosa 60,000szt @ 0.55 = 33,000 EUR + logistics 7,557.98 EUR. Bulgarian-American Credit Bank, BGUSBGSF. | BONBILL O2082759075606691840196 ot 30.07.2026 — Q8→Bloom Market EOOD (Bulgarian-American Credit Bank, BG12BGUS91601413755700). 40,557.98 EUR. Invoice BL-P01/300726-2. Flowers & Logistics."
   }
 ]
