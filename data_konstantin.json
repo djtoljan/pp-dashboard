@@ -654,5 +654,23 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Payment from HMI to IMedical Tel Aviv Ltd (Israel). Bank Leumi LUMIILITXXX, IL23-0109-3200-0000-1182-008. 18,001 USD. inv 607533 dd 13.04.2026. Medical consultation, blood tests, PET CT, oncological treatment. Alex VDX 30.07.2026."
+  },
+  {
+    "row": 36,
+    "date": "2026-07-30",
+    "sum": 38131.4,
+    "currency": "EUR",
+    "company": "CODELINK",
+    "color": "FFFFFFFF",
+    "clientName": "CODELINK",
+    "costFormula": "38131.40 x 1.1473 = 43748.16 + 0.3% (131.24) + 60 = 43939.40 USDT",
+    "extra": "CODELINK (Константин)",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 43939.4,
+    "notes": "Payment from CODELINK to The British School of Barcelona (Spain, CaixaBank CAIXESBBXXX, ES18 2100 8630 4302 0005 5267). 38,131.40 EUR. Invoice 126-26 dd 29/06/2026. School fees - Margarita Nikonova (Year 6) & Makar Nikonov (Year 10). Alex VDX 30.07.2026."
   }
 ]
