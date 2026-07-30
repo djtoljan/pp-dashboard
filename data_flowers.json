@@ -1971,5 +1971,23 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Invoice BL-P01/300726 ot 30.07.2026. Bloom Market EOOD (Bulgaria). Rosa 130,000szt @ 0.53 = 68,900 EUR + logistics 16,000 EUR. Bulgarian-American Credit Bank, BGUSBGSF, BG12BGUS91601413755700. Buyer: Q8 Group Limited."
+  },
+  {
+    "row": 112,
+    "date": "2026-07-30",
+    "sum": 40557.98,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Bloom Market (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Invoice BL-P01/300726-2 ot 30.07.2026. Bloom Market EOOD (Bulgaria). Rosa 60,000szt @ 0.55 = 33,000 EUR + logistics 7,557.98 EUR. Bulgarian-American Credit Bank, BGUSBGSF."
   }
 ]
