@@ -1946,9 +1946,9 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 10060,
     "notes": null,
-    "calc": null
+    "calc": "ТЕЗ"
   },
   {
     "row": 105,
@@ -1957,7 +1957,7 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "Цветы",
+    "clientName": "Milele Flowers (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Реквизиты Milele Flowers limited (Кения). KCB, SWIFT KCBLKENX. For flowers",
     "rubles_received": null,
@@ -1965,9 +1965,9 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 10060,
     "notes": null,
-    "calc": null
+    "calc": "ТЕЗ"
   },
   {
     "row": 106,
@@ -1976,7 +1976,7 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "Цветы",
+    "clientName": "Luxus Blumen (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Реквизиты Luxus Blumen S.A. (Эквадор). PRODUBANCO, SWIFT PRODECEQ. Wells Fargo intermediary. For flowers",
     "rubles_received": null,
@@ -1984,28 +1984,28 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 10060,
     "notes": null,
-    "calc": null
+    "calc": "ТЕЗ"
   },
   {
     "row": 107,
     "date": "2026-07-29",
     "sum": 15000,
-    "currency": "EUR",
+    "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "Dolina Agro (Цветы)",
-    "costFormula": "15000 EUR × курс + 0.3% + 30 = ? USDT (нужен кросс-курс)",
-    "extra": "UNIFLOR L.L.C-FZ банковские реквизиты. 15 000 EUR. For flowers",
+    "clientName": "UNIFLOR (Цветы)",
+    "costFormula": "15000 + 0.3% + 30 = 15075 USDT",
+    "extra": "UNIFLOR L.L.C-FZ (Дубай). EMIRATES ISLAMIC, SWIFT MEBLAEADXXX. IBAN AE530340003708515772902. USD 15000. For flowers",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 15075,
     "notes": null,
-    "calc": null
+    "calc": "ТЕЗ"
   },
   {
     "row": 108,
@@ -2033,7 +2033,7 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "Цветы",
+    "clientName": "CEVA FREIGHT (Цветы)",
     "costFormula": "35000 + 0.3% + 30 = 35135 USDT",
     "extra": "Инвойс CEVA FREIGHT MANAGEMENT DE COLOMBIA S.A.S. Авиафрахт для Q8 Group. Invoice #34272 от 13.07.26",
     "rubles_received": null,
@@ -2041,8 +2041,27 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 35135,
     "notes": null,
-    "calc": null
+    "calc": "ТЕЗ"
+  },
+  {
+    "row": 110,
+    "date": "2026-07-29",
+    "sum": 14000,
+    "currency": "USD",
+    "calc": "ТЕЗ",
+    "company": "Q8",
+    "clientName": "BELLARO S.A.S (Цветы)",
+    "costFormula": "14000 + 0.3% + 30 = 14072 USDT",
+    "extra": "BELLARO S.A.S (Колумбия). INTERNATIONAL FINANCE BANK (IFB), SWIFT IFBKUS3M, ABA 067011692. Account 004105036. USD 14000",
+    "color": "FFFFFFFF",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 14072,
+    "notes": null
   }
 ]
