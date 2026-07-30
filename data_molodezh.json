@@ -750,7 +750,7 @@
     "vdx_rate": null,
     "exchange_to": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 10179.36,
     "notes": "Proforma INVOICE CL20260715001 dd 15.07.2026. SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI (Гонконг) → Q8 GROUP LIMITED. Серверные HDD 8TB/10TB/16TB, Intel X710 адаптеры, батарея. Банк: Standard Chartered HK (SCBLHKHH), сч.47413626978. От Alex (@KL1M3NT) для Вилог. | BONBILL 22.07 14:29: Q8->SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI (Standard Chartered HK), ,119, INV CL20260715001, ElParts. TX O2079816065076035584956. EXECUTED 🟢"
   },
   {
@@ -948,7 +948,8 @@
     "vdx_rate": "78.45",
     "received_usdt": "22107.04",
     "sent_rubles_vdx": "1736033.27",
-    "exchange_to": "VDX"
+    "exchange_to": "VDX",
+    "sent_usdt": 21873.33
   },
   {
     "row": 55,
