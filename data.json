@@ -1859,7 +1859,7 @@
     "company": null,
     "color": "FFFF0000",
     "clientName": "Дре Русланд",
-    "costFormula": null,
+    "costFormula": "20680/(1-0.35%)+100 = 20852.634 USDT",
     "extra": null,
     "rubles_received": "1645200.00 / 26323.20",
     "sent_rubles_vdx": 1665523.2,
