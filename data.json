@@ -1857,7 +1857,7 @@
     "sum": 18000,
     "currency": "EUR",
     "company": "LUXORA",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Дре Русланд",
     "costFormula": "20680/(1-0.35%)+100 = 20852.634 USDT",
     "extra": null,
