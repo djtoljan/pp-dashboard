@@ -1184,7 +1184,7 @@
     "company": "LEO",
     "color": "FFFFFF00",
     "clientName": "Эксперт",
-    "costFormula": null,
+    "costFormula": "7,772.50 USD * 1,005 + 100 = 7,911.36 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
