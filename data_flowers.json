@@ -1888,7 +1888,7 @@
     "sum": 15000,
     "currency": "USD",
     "company": "LEO",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "UNIFLOR (Цветы)",
     "costFormula": "15,000 USD * 1.005 + 100 = 15,175 USDT",
     "extra": "UNIFLOR L.L.C-FZ (Дубай). EMIRATES ISLAMIC, SWIFT MEBLAEADXXX. IBAN AE530340003708515772902. USD 15000. For flowers",
@@ -1898,7 +1898,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 15175,
-    "notes": "Была на Q8, переведена на LEO. Payment from LEO. Proforma INV 4/2026 dd 09.07.2026. UNIFLOR LLC-FZ (Dubai). Emirates Islamic, MEBLAEADXXX, AE530340003708515772902. Supply of fresh cut flowers South Africa - 6438 stems, 153 boxes. USD 15,000. 30.07.2026. Alex VDX. | LEO 30.07 PENDING APPROVAL, ref 0805-2116-0181-9851, total 15,044.75 USD"
+    "notes": "Была на Q8, переведена на LEO. Payment from LEO. Proforma INV 4/2026 dd 09.07.2026. UNIFLOR LLC-FZ (Dubai). Emirates Islamic, MEBLAEADXXX, AE530340003708515772902. Supply of fresh cut flowers South Africa - 6438 stems, 153 boxes. USD 15,000. 30.07.2026. Alex VDX. | LEO 30.07 PENDING APPROVAL, ref 0805-2116-0181-9851, total 15,044.75 USD | SWIFT pacs.008 31.07: Network Ack, ref S.155.1101819851, 15,000 USD EXECUTED"
   },
   {
     "row": 108,
