@@ -1869,5 +1869,24 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "ПП №541 от 30.07.2026. Плательщик: ООО ВТС (Raiffeisenbank). Получатель: Al Safi Bank (Kazakhstan) для FININVEST. 8,959,222.24 RUB. Контракт 25-12-12, inv 9211883909 d 12.01.26. HS 610822,621210. Без НДС. | ПП 542: 179,184.70 RUB = агентское вознаграждение 2% (1,935.04 EUR @92.60)"
+  },
+  {
+    "row": 93,
+    "date": "2026-07-31",
+    "sum": 50000,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
