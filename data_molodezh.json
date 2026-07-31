@@ -1138,5 +1138,42 @@
     "sent_usdt": null,
     "notes": "ПП №550 от 31.07.2026 ИСПОЛНЕН 12:27. Плательщик: ООО ВИЛОГ (ВТБ, БИК 044525411). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555). 263,667.89₽. {VO11100} Частичная оплата за товар по инвойсу №PRM-077-RCF260702-PM от 02.07.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS 8206000000), курс 81.4544. НДС не облагается.",
     "calc": null
+  },
+  {
+    "row": 65,
+    "date": "2026-07-30",
+    "sum": 32635,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Фри Лайнс Компани",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №19 от 30.07.2026 (Transfer Request No.19 from 30.07.2026). Принципал: АО Фри Лайнс Компани. Агент: VDX SERVICES - FZCO. Получатель: STLine OÜ (Таллин, Mere pst 4, 10111, рег.16701348, VAT EE102599192). AS LHV Pank, IBAN EE867700771009015833, SWIFT LHVBEE22. Инвойс 07-23/1 dd 23.07.2026, договор FLK от 01.01.2026. Курс 93.2789. RUB 3,044,156.90. Комиссия агента 70,211.03 руб. | Инвойс 07-23/1 dd 23.07.2026: TRANSPATH LOGISTIC LIMITED (5 Brayford Square, London E1 0SG, UK, code 16565909). Транспортная услуга: Germany 49196 (DE), 32,635 EUR. VAT 0%. Beneficiary: STLine OÜ (LHV Pank, EE867700771009015833, LHVBEE22). Оплата 30.07.2026.",
+    "calc": null
+  },
+  {
+    "row": 66,
+    "date": "2026-07-30",
+    "sum": 4047.5,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Эксперт",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №10 от 30.07.2026 (Transfer Request No.10 from 30.07.2026). Принципал: ООО Эксперт. Агент: VDX SERVICES - FZCO. Получатель: Shenzhen Yalina Cosmetic Co., Ltd / YALINA (HK) CO LTD, OCBC Wing Hang Bank Limited (Hong Kong), a/c 035 808 268499 831, SWIFT WIHBHKHH. 50% ADVANCE PAYMENT under Proforma Invoice No. INV202607 dd 24.07.2026. Курс 80.901. RUB 327,446.80. Комиссия агента 22,729.14 руб. | Проформа INV202607 dd 24.07.2026: Shenzhen Yalina Cosmetic Co., Ltd (Dongguan, China) → Q8 GROUP LIMITED. Косметические губки, итого 8,095.00 USD. Условия: 50% депозит + 50% баланс (50% = 4,047.50 USD). ПП 155760: YALINA (HK) CO LTD, OCBC Wing Hang Bank, 035 808 268499 831, WIHBHKHH, cosmetic sponge."
   }
 ]
