@@ -1191,7 +1191,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Заявка 31.07.2026: Payment from LEO. Pro-forma Invoice PI-OPT260720-R1 от 24.07.2026. Daeil Beauty Collection Co., Ltd. (Корея, IBKOKRSEXXX, a/c 115-089904-56-00011). 7,772.50 USD. OUR. Бенефициар: DAEIL BEAUTY COLLECTION. | VDX 31.07 19:41: Transaction Status PENDING APPROVAL (INITIATED). From: LEO SPOT CAPITAL (0123-7824-012, USD). To: DAEIL BEAUTY COLLECTION CO., LTD (IBKOKRSEXXX, 1150-8990-4560-0011, Korea). 7,772.50 USD, ref 0805-2126-0183-0262, tx date 03.08.2026. Cable 3 + provision 23 + fee 10 = 7,808.50. OUR. PI-OPT260720-R1 dd 24.07.2026."
+    "sent_usdt": 7911.36,
+    "notes": "Заявка 31.07.2026: Payment from LEO. Pro-forma Invoice PI-OPT260720-R1 от 24.07.2026. Daeil Beauty Collection Co., Ltd. (Корея, IBKOKRSEXXX, a/c 115-089904-56-00011). 7,772.50 USD. OUR. Бенефициар: DAEIL BEAUTY COLLECTION. | VDX 31.07 19:41: Transaction Status PENDING APPROVAL (INITIATED). From: LEO SPOT CAPITAL (0123-7824-012, USD). To: DAEIL BEAUTY COLLECTION CO., LTD (IBKOKRSEXXX, 1150-8990-4560-0011, Korea). 7,772.50 USD, ref 0805-2126-0183-0262, tx date 03.08.2026. Cable 3 + provision 23 + fee 10 = 7,808.50. OUR. PI-OPT260720-R1 dd 24.07.2026. | USDT отправлен на LEO SPOT 31.07.2026: 7,911.36 USDT (txid 9090091f84da987c8e0e266e0207e4ea4dd0aa0082410f5579f48e37eeb05a38)."
   }
 ]
