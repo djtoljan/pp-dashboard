@@ -1169,12 +1169,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "327446.80 / 22729.14",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Поручение №10 от 30.07.2026 (Transfer Request No.10 from 30.07.2026). Принципал: ООО Эксперт. Агент: VDX SERVICES - FZCO. Получатель: Shenzhen Yalina Cosmetic Co., Ltd / YALINA (HK) CO LTD, OCBC Wing Hang Bank Limited (Hong Kong), a/c 035 808 268499 831, SWIFT WIHBHKHH. 50% ADVANCE PAYMENT under Proforma Invoice No. INV202607 dd 24.07.2026. Курс 80.901. RUB 327,446.80. Комиссия агента 22,729.14 руб. | Проформа INV202607 dd 24.07.2026: Shenzhen Yalina Cosmetic Co., Ltd (Dongguan, China) → Q8 GROUP LIMITED. Косметические губки, итого 8,095.00 USD. Условия: 50% депозит + 50% баланс (50% = 4,047.50 USD). ПП 155760: YALINA (HK) CO LTD, OCBC Wing Hang Bank, 035 808 268499 831, WIHBHKHH, cosmetic sponge."
+    "notes": "Поручение №10 от 30.07.2026 (Transfer Request No.10 from 30.07.2026). Принципал: ООО Эксперт. Агент: VDX SERVICES - FZCO. Получатель: Shenzhen Yalina Cosmetic Co., Ltd / YALINA (HK) CO LTD, OCBC Wing Hang Bank Limited (Hong Kong), a/c 035 808 268499 831, SWIFT WIHBHKHH. 50% ADVANCE PAYMENT under Proforma Invoice No. INV202607 dd 24.07.2026. Курс 80.901. RUB 327,446.80. Комиссия агента 22,729.14 руб. | Проформа INV202607 dd 24.07.2026: Shenzhen Yalina Cosmetic Co., Ltd (Dongguan, China) → Q8 GROUP LIMITED. Косметические губки, итого 8,095.00 USD. Условия: 50% депозит + 50% баланс (50% = 4,047.50 USD). ПП 155760: YALINA (HK) CO LTD, OCBC Wing Hang Bank, 035 808 268499 831, WIHBHKHH, cosmetic sponge. | ПП №332 от 30.07.2026 (Проведено 30.07): ООО Эксперт (ЮНИКРЕДИТ) → VDX SERVICES - FZCO, 22,729.14₽, {VO21100} вознаграждение агента по поручению №10 от 30.07.2026, Аг.дог. 09-02-2/26 от 09.02.2026. | ПП №331 от 30.07.2026 (Проведено 30.07): ООО Эксперт (ЮНИКРЕДИТ) → VDX SERVICES - FZCO, 327,446.80₽, {VO11100} для Shenzhen Yalina Cosmetic Co., Ltd., Ag.-Of.27072026 dd 27.07.2026, PR.IN. INV202607 dd 24.07.2026, аг.дог. 09-02-2/26."
   },
   {
     "row": 67,
