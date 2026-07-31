@@ -1175,5 +1175,23 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Поручение №10 от 30.07.2026 (Transfer Request No.10 from 30.07.2026). Принципал: ООО Эксперт. Агент: VDX SERVICES - FZCO. Получатель: Shenzhen Yalina Cosmetic Co., Ltd / YALINA (HK) CO LTD, OCBC Wing Hang Bank Limited (Hong Kong), a/c 035 808 268499 831, SWIFT WIHBHKHH. 50% ADVANCE PAYMENT under Proforma Invoice No. INV202607 dd 24.07.2026. Курс 80.901. RUB 327,446.80. Комиссия агента 22,729.14 руб. | Проформа INV202607 dd 24.07.2026: Shenzhen Yalina Cosmetic Co., Ltd (Dongguan, China) → Q8 GROUP LIMITED. Косметические губки, итого 8,095.00 USD. Условия: 50% депозит + 50% баланс (50% = 4,047.50 USD). ПП 155760: YALINA (HK) CO LTD, OCBC Wing Hang Bank, 035 808 268499 831, WIHBHKHH, cosmetic sponge."
+  },
+  {
+    "row": 67,
+    "date": "2026-07-29",
+    "sum": 7772.5,
+    "currency": "USD",
+    "company": "LEO",
+    "color": "FFFFFF00",
+    "clientName": "Эксперт",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка 31.07.2026: Payment from LEO. Pro-forma Invoice PI-OPT260720-R1 от 24.07.2026. Daeil Beauty Collection Co., Ltd. (Корея, IBKOKRSEXXX, a/c 115-089904-56-00011). 7,772.50 USD. OUR. Бенефициар: DAEIL BEAUTY COLLECTION. | VDX 31.07 19:41: Transaction Status PENDING APPROVAL (INITIATED). From: LEO SPOT CAPITAL (0123-7824-012, USD). To: DAEIL BEAUTY COLLECTION CO., LTD (IBKOKRSEXXX, 1150-8990-4560-0011, Korea). 7,772.50 USD, ref 0805-2126-0183-0262, tx date 03.08.2026. Cable 3 + provision 23 + fee 10 = 7,808.50. OUR. PI-OPT260720-R1 dd 24.07.2026."
   }
 ]
