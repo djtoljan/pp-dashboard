@@ -2084,5 +2084,24 @@
     "sent_usdt": 11072.03,
     "notes": "Invoice 00040438 от 03.07.2026. VALENCIA PUJOTA JAIME (Эквадор, valentroses.com) → Q8 Group Limited. Розы (Mondial, Pomarosa, Full Monty), 14 связок. Total 11,009.00 USD. | Payment Order 31.07.2026: Jaime Valencia Pujota, 11,009.00 USD. BANCO DEL PACIFICO, SWIFT PACIECEGXXX, a/c 8733813. Tabacundo, Ecuador.",
     "calc": null
+  },
+  {
+    "date": "2026-07-31",
+    "sum": 50000,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "DBA Euro Plants (Цветы)",
+    "costFormula": null,
+    "extra": "DBA Euro Plants (Цветы)",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Proforma-RECHNUNG DBA31072026/01 от 31.07.2026. DBA Euro Plants GmbH (Trankeweg 8, Fürstenwalde, Германия) → Q8 Group Limited. Контракт 26.07.31/01, растения. 50,000.00 EUR. REVOLUT, IBAN LT193250010460027222, SWIFT REVOLT21. | Payment Order: 50,000.00 EUR, бенефициар DBA Euro Plants GmbH.",
+    "calc": null,
+    "row": 118
   }
 ]
