@@ -1081,5 +1081,43 @@
     "sent_usdt": null,
     "notes": "ПП №548 от 30.07.2026. ООО ВИЛОГ (ВТБ) → VDX (ПСБ Ярославль). 49,578.32₽. Частичная оплата за товар по инвойсу ENT-034-SHR-C2C20260729009M от 30.07.2026, дог. NZDLWL120525-A-USD, курс 83.3249. ИСПОЛНЕН.",
     "calc": null
+  },
+  {
+    "row": 62,
+    "date": "2026-07-31",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": "Вилог",
+    "rubles_received": null,
+    "sent_rubles_vdx": "785348.16",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "ПП №549 от 31.07.2026 ИСПОЛНЕН 12:13. Плательщик: ООО ВИЛОГ (ВТБ, БИК 044525411). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555). 785,348.16₽. {VO11100} Частичная оплата за товар по инвойсу №PRM-077-RCF260702-PM от 02.07.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS 8206000000), курс 81.8071. НДС не облагается.",
+    "calc": null
+  },
+  {
+    "row": 63,
+    "date": "2026-07-31",
+    "sum": 9600,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": "9,600 + 0.3% + 30 = 9,660.80 USDT",
+    "extra": "Вилог",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 9658.8,
+    "notes": null,
+    "calc": null
   }
 ]
