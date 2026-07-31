@@ -628,7 +628,7 @@
     "sum": 42545.67,
     "currency": "EUR",
     "company": "INTEGRA",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "42,545.67 EUR → 48,462 USD; 48,462/(1-0.35%)+100=48,732 USDT",
     "extra": null,
