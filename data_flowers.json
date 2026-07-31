@@ -2065,5 +2065,24 @@
     "sent_usdt": 10120.63,
     "notes": "Commercial Master Invoice 1089 от 29.07.2026. PACIFIC AIR CARGO S.A. (Эквадор) → Q8 Group Limited. Транспортные услуги (авиафрахт, розы). PRODUBANCO SWIFT PRODECEQ. Total 10,060.45 USD. | Payment Order 31.07.2026: 10,060.45 USD, PRODUBANCO.",
     "calc": null
+  },
+  {
+    "row": 117,
+    "date": "2026-07-31",
+    "sum": 11009,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VALENCIA PUJOTA JAIME (Цветы)",
+    "costFormula": "11,009 + 0.3% + 30 = 11,072.03 USDT",
+    "extra": "VALENCIA PUJOTA JAIME (Цветы)",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 11072.03,
+    "notes": null,
+    "calc": null
   }
 ]
