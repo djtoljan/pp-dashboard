@@ -1820,8 +1820,8 @@
     "date": "2026-07-29",
     "sum": 7772.5,
     "currency": "USD",
-    "company": "null",
-    "color": "FFFF0000",
+    "company": "LEO",
+    "color": "FFFFFFFF",
     "clientName": "ООО Эксперт",
     "costFormula": null,
     "extra": null,
@@ -1831,7 +1831,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Заявка 31.07.2026: Payment from LEO. Pro-forma Invoice PI-OPT260720-R1 от 24.07.2026. Daeil Beauty Collection Co., Ltd. (Корея, IBKOKRSEXXX, a/c 115-089904-56-00011). 7,772.50 USD. OUR. Бенефициар: DAEIL BEAUTY COLLECTION.",
     "calc": null
   },
   {
