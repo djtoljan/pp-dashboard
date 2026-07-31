@@ -1907,5 +1907,24 @@
     "sent_usdt": null,
     "notes": "Выписка Блэкшарк ПОЧТОБАНК 31.07.2026: приход 1,467,388.61₽ от АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» (ИНН 9909705580, счёт 40807810324600000016, БИК 044525411). {VO60081} Оплата по Агентскому Договору, НДС не облагается.",
     "calc": null
+  },
+  {
+    "row": 95,
+    "date": "2026-07-30",
+    "sum": 4047.5,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ООО Эксперт",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №10 от 30.07.2026 (Transfer Request No.10 from 30.07.2026). Принципал: ООО Эксперт. Агент: VDX SERVICES - FZCO. Получатель: Shenzhen Yalina Cosmetic Co., Ltd / YALINA (HK) CO LTD, OCBC Wing Hang Bank Limited (Hong Kong), a/c 035 808 268499 831, SWIFT WIHBHKHH. 50% ADVANCE PAYMENT under Proforma Invoice No. INV202607 dd 24.07.2026. Курс 80.901. RUB 327,446.80. Комиссия агента 22,729.14 руб.",
+    "calc": null
   }
 ]
