@@ -1989,5 +1989,24 @@
     "received_usdt": null,
     "sent_usdt": 46803.89,
     "notes": "Invoice BL-P01/300726-2 ot 30.07.2026. Bloom Market EOOD (Bulgaria). Rosa 60,000szt @ 0.55 = 33,000 EUR + logistics 7,557.98 EUR. Bulgarian-American Credit Bank, BGUSBGSF. | BONBILL O2082759075606691840196 ot 30.07.2026 — Q8→Bloom Market EOOD (Bulgarian-American Credit Bank, BG12BGUS91601413755700). 40,557.98 EUR. Invoice BL-P01/300726-2. Flowers & Logistics."
+  },
+  {
+    "row": 113,
+    "date": "2026-07-31",
+    "sum": 80000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ALIANZA LOGISTICS (Цветы)",
+    "costFormula": "80,000 + 0.3% + 30 = 80,270 USDT",
+    "extra": "ALIANZA LOGISTICS (Цветы)",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 80270,
+    "notes": null,
+    "calc": null
   }
 ]
