@@ -2008,5 +2008,24 @@
     "sent_usdt": 80270,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 114,
+    "date": "2026-07-31",
+    "sum": 108755,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ModestoGroup OU (Цветы)",
+    "costFormula": "108,755 + 0.3% + 30 = 109,111.27 USDT",
+    "extra": "ModestoGroup OU (Цветы)",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 109111.26,
+    "notes": null,
+    "calc": null
   }
 ]
