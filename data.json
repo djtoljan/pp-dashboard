@@ -1684,7 +1684,7 @@
     "sum": 41694.62,
     "currency": "USD",
     "company": null,
-    "color": "FFFF0000",
+    "color": "FF92D050",
     "clientName": "АО Донау Лаб. Москва",
     "costFormula": null,
     "extra": null,
@@ -1819,26 +1819,8 @@
     "date": "2026-07-30",
     "sum": 96751.86,
     "currency": "EUR",
-    "company": "FININVEST",
-    "color": "FFFFFFFF",
-    "clientName": "ВТС",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Поручение 70902 от 30.07.2026 по Агентскому соглашению №29-01. Принципал: ООО ВТС. Агент: FININVEST (Турция). Получатель: TRIUMPH INTERTRADE AG. Инвойс 9211883909 dd 12.01.2026. EUR/RUB 92.60. Вознаграждение агента 2% = 1,935.04 EUR / 179,184.70 RUB. ПП 541 (8,959,222.24) + ПП 542 (179,184.70): 8,959,222.24 RUB."
-  },
-  {
-    "row": 91,
-    "date": "2026-07-30",
-    "sum": null,
-    "currency": null,
     "company": null,
-    "color": "FF4FC3F7",
+    "color": "FFFFFFFF",
     "clientName": "ВТС",
     "costFormula": null,
     "extra": null,
@@ -1848,10 +1830,10 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "ПП №541 от 30.07.2026. Плательщик: ООО ВТС (Raiffeisenbank). Получатель: Al Safi Bank (Kazakhstan) для FININVEST. 8,959,222.24 RUB. Контракт 25-12-12, inv 9211883909 d 12.01.26. HS 610822,621210. Без НДС. | ПП 542: 179,184.70 RUB = агентское вознаграждение 2% (1,935.04 EUR @92.60)"
+    "notes": "Поручение 70902 от 30.07.2026 по Агентскому соглашению №29-01. Принципал: ООО ВТС. Агент: FININVEST (Турция). Получатель: TRIUMPH INTERTRADE AG. Инвойс 9211883909 dd 12.01.2026. EUR/RUB 92.60. Вознаграждение агента 2% = 1,935.04 EUR / 179,184.70 RUB. ПП 541 (8,959,222.24) + ПП 542 (179,184.70): 8,959,222.24 RUB. | ПП №541 от 30.07.2026. Плательщик: ООО ВТС (Raiffeisenbank). Получатель: Al Safi Bank (Kazakhstan) для FININVEST. 8,959,222.24 RUB. Контракт 25-12-12, inv 9211883909 d 12.01.26. HS 610822,621210. Без НДС. | ПП 542: 179,184.70 RUB = агентское вознаграждение 2% (1,935.04 EUR @92.60)"
   },
   {
-    "row": 92,
+    "row": 91,
     "date": "2026-07-31",
     "sum": 18000,
     "currency": "EUR",
@@ -1870,7 +1852,7 @@
     "calc": "Кросс-курс EUR/USD = 1.14891178 (18,000 EUR = 20,680.41 USD)"
   },
   {
-    "row": 93,
+    "row": 92,
     "date": "2026-07-31",
     "sum": null,
     "currency": null,
@@ -1889,7 +1871,7 @@
     "calc": null
   },
   {
-    "row": 94,
+    "row": 93,
     "date": "2026-07-31",
     "sum": null,
     "currency": null,
