@@ -392,7 +392,8 @@
     "received_usdt": 16833,
     "sent_usdt": 16513.47,
     "notes": "Rashel матрасные ткани (GIB20260000000090)",
-    "color": "FF92D050"
+    "color": "FF92D050",
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
     "row": 24,
@@ -584,7 +585,8 @@
     "vdx_rate": null,
     "notes": "Q8→WUXI WUNFA, инв.2026WF-6623, клиент Мосты. Расчёт ожидается. | BONBILL O2077269385537519616280 15.07.2026: Q8→WUXI WUNFA, 14,798.40 USD, EXECUTED",
     "received_usdt": 15100,
-    "exchange_to": "EVREST"
+    "exchange_to": "EVREST",
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
     "row": 35,
@@ -1108,7 +1110,7 @@
     "company": "INFINITE",
     "color": "FFFFFF00",
     "clientName": "Фри Лайнс Компани",
-    "costFormula": null,
+    "costFormula": "32 635 EUR → 37608/(1-0.35%)+100 = 37840.09 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": "3044156.90 / 70211.03",
@@ -1150,8 +1152,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "785348.16",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": 79.55,
+    "received_usdt": "9862.51",
     "sent_usdt": null,
     "notes": "ПП №549 от 31.07.2026 ИСПОЛНЕН 12:13. Плательщик: ООО ВИЛОГ (ВТБ, БИК 044525411). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555). 785,348.16₽. {VO11100} Частичная оплата за товар по инвойсу №PRM-077-RCF260702-PM от 02.07.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS 8206000000), курс 81.8071. НДС не облагается.",
     "calc": null
@@ -1188,8 +1190,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "263667.89",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": 79.55,
+    "received_usdt": "3311.18",
     "sent_usdt": null,
     "notes": "ПП №550 от 31.07.2026 ИСПОЛНЕН 12:27. Плательщик: ООО ВИЛОГ (ВТБ, БИК 044525411). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555). 263,667.89₽. {VO11100} Частичная оплата за товар по инвойсу №PRM-077-RCF260702-PM от 02.07.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS 8206000000), курс 81.4544. НДС не облагается.",
     "calc": null

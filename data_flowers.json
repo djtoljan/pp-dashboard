@@ -468,7 +468,8 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Распределение 9 904 715.95: стр.28 (1.5M WTB) + стр.32 (2 004 715.95 VDX) + стр.35 (6.4M Al Safi)",
-    "color": "FF4FC3F7"
+    "color": "FF4FC3F7",
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
     "row": 28,
@@ -485,7 +486,8 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Частичная оплата за цветы TFA-59/2706 от 27.06.26, 19 238,29 USD | перевод собственных средств Блэкшарк→ВТБ",
-    "color": "FF4FC3F7"
+    "color": "FF4FC3F7",
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
     "row": 29,
@@ -589,7 +591,8 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Блэкшарк ПОЧТО→Аль Сафи, 6,400,000₽ | VO10100 договор 0017/26 от 06.03.2026 | Al Safi выписка 01-13.07",
-    "color": "FF4FC3F7"
+    "color": "FF4FC3F7",
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
     "row": 35,
@@ -1736,7 +1739,8 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Перевод собственных средств Блэкшарк ПОЧТО→Al Safi. 2,244,517.57₽ от ГлобалЦвет (пор.95, договор WD-26)",
-    "color": "FF4FC3F7"
+    "color": "FF4FC3F7",
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
     "row": 99,
