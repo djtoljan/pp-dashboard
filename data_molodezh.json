@@ -1106,7 +1106,7 @@
     "sum": 32635,
     "currency": "EUR",
     "company": "INFINITE",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Фри Лайнс Компани",
     "costFormula": null,
     "extra": null,
@@ -1116,7 +1116,7 @@
     "vdx_rate": "79.71 / 79.71",
     "received_usdt": "38152.2110538201 / 879.9500560782838",
     "sent_usdt": null,
-    "notes": "Поручение №19 от 30.07.2026 (Transfer Request No.19 from 30.07.2026). Принципал: АО Фри Лайнс Компани. Агент: VDX SERVICES - FZCO. Получатель: STLine OÜ (Таллин, Mere pst 4, 10111, рег.16701348, VAT EE102599192). AS LHV Pank, IBAN EE867700771009015833, SWIFT LHVBEE22. Инвойс 07-23/1 dd 23.07.2026, договор FLK от 01.01.2026. Курс 93.2789. RUB 3,044,156.90. Комиссия агента 70,211.03 руб. | Инвойс 07-23/1 dd 23.07.2026: TRANSPATH LOGISTIC LIMITED (5 Brayford Square, London E1 0SG, UK, code 16565909). Транспортная услуга: Germany 49196 (DE), 32,635 EUR. VAT 0%. Beneficiary: STLine OÜ (LHV Pank, EE867700771009015833, LHVBEE22). Оплата 30.07.2026. | VDX 31.07: курс 79.71/79.71, тез 38,152.21 / 879.95 | 03.08: Заявка — Payment from INFINITE (30.07.2026, OUR). | 03.08 (Alex 08:35 UTC): Кросс-курс EUR/USD = 1.15240530. 32,635 EUR → 37,608.74 USD.",
+    "notes": "Поручение №19 от 30.07.2026 (Transfer Request No.19 from 30.07.2026). Принципал: АО Фри Лайнс Компани. Агент: VDX SERVICES - FZCO. Получатель: STLine OÜ (Таллин, Mere pst 4, 10111, рег.16701348, VAT EE102599192). AS LHV Pank, IBAN EE867700771009015833, SWIFT LHVBEE22. Инвойс 07-23/1 dd 23.07.2026, договор FLK от 01.01.2026. Курс 93.2789. RUB 3,044,156.90. Комиссия агента 70,211.03 руб. | Инвойс 07-23/1 dd 23.07.2026: TRANSPATH LOGISTIC LIMITED (5 Brayford Square, London E1 0SG, UK, code 16565909). Транспортная услуга: Germany 49196 (DE), 32,635 EUR. VAT 0%. Beneficiary: STLine OÜ (LHV Pank, EE867700771009015833, LHVBEE22). Оплата 30.07.2026. | VDX 31.07: курс 79.71/79.71, тез 38,152.21 / 879.95 | 03.08: Заявка — Payment from INFINITE (30.07.2026, OUR). | 03.08 (Alex 08:35 UTC): Кросс-курс EUR/USD = 1.15240530. 32,635 EUR → 37,608.74 USD. | 03.08 09:46 UTC: Transaction Confirmation PAYOUT — STATUS INITIATED. TRANSPATH LOGISTIC LIMITED → STLine OÜ (AS LHV Pank, EE867700771009015833), invoice 07-23/1, -32,635.00 EUR, SEPA. Account MT73CFTE28004000000000005036925.",
     "calc": null
   },
   {
