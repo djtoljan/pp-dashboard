@@ -1576,7 +1576,7 @@
     "sum": 95973,
     "currency": "EUR",
     "company": "OPTIMA FOOD",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Неско (ЭТБ)",
     "costFormula": "109201/(1-0.3%) = 109530 USDT",
     "extra": null,
@@ -1586,7 +1586,7 @@
     "vdx_rate": 79.2,
     "received_usdt": "109841.14",
     "sent_usdt": 109530,
-    "notes": "Поручение №16 от 28.07.2026. АО «НЕСКО САНКТ-ПЕТЕРБУРГ» → GLOBAL MARINE SUPPLY OU (Эстония). Инвойсы GLO-260657, GLO-260658, алкоголь. Курс 89.48. RUB: 8,587,664.04. Комиссия 1.6% = 137,402.62. PKO BP BPKOPLPWXXX. Агент: ОсОО Блэкшарк Трейд | Выписка ЭТБ 28.07: ПП№42 от Неско 8,587,664.04₽ (инв.GLO-260657/8, контракт 14/2022) + ПП№41 комиссия агента 137,402.62₽ (Пор.№16) + комиссия банка 17,175.33₽ (VO80050) | VDX уведомление 28.07: отправлено 8,708,126.66₽ на обмен (Энерготранс→VDX). Алкоголь, заявка 640 | VDX payment confirmed 28.07: Payment from OPTIMA FOOD → Global Marine Supply OU. 95,973.00 EUR. OUR. SWIFT BPKOPLPWXXXA. Банк BANK POLSKI S.A. Инвойсы GLO-260657 (90,300 EUR), GLO-260658 (5,673 EUR). Алкогольная продукция. Заявка 640 | Bobr 28.07: 109,530 USDT sent from Рабочий 3. Recipient: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8 | OPTIMA FOOD MT41 28.07: PAYOUT INITIATED 95,973 EUR → Global Marine Supply OU. SEPA. Status: INITIATED.",
+    "notes": "Поручение №16 от 28.07.2026. АО «НЕСКО САНКТ-ПЕТЕРБУРГ» → GLOBAL MARINE SUPPLY OU (Эстония). Инвойсы GLO-260657, GLO-260658, алкоголь. Курс 89.48. RUB: 8,587,664.04. Комиссия 1.6% = 137,402.62. PKO BP BPKOPLPWXXX. Агент: ОсОО Блэкшарк Трейд | Выписка ЭТБ 28.07: ПП№42 от Неско 8,587,664.04₽ (инв.GLO-260657/8, контракт 14/2022) + ПП№41 комиссия агента 137,402.62₽ (Пор.№16) + комиссия банка 17,175.33₽ (VO80050) | VDX уведомление 28.07: отправлено 8,708,126.66₽ на обмен (Энерготранс→VDX). Алкоголь, заявка 640 | VDX payment confirmed 28.07: Payment from OPTIMA FOOD → Global Marine Supply OU. 95,973.00 EUR. OUR. SWIFT BPKOPLPWXXXA. Банк BANK POLSKI S.A. Инвойсы GLO-260657 (90,300 EUR), GLO-260658 (5,673 EUR). Алкогольная продукция. Заявка 640 | Bobr 28.07: 109,530 USDT sent from Рабочий 3. Recipient: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8 | OPTIMA FOOD MT41 28.07: PAYOUT INITIATED 95,973 EUR → Global Marine Supply OU. SEPA. Status: INITIATED. | OPTIMA FOOD MT41 03.08: PAYOUT COMPLETED 95,973 EUR → Global Marine Supply OU. SEPA. Status: COMPLETED",
     "calc": "ТЕЗ"
   },
   {
@@ -1843,8 +1843,8 @@
     "date": "2026-08-03",
     "sum": 31009.88,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "LUXORA",
+    "color": "FFFFFFFF",
     "clientName": "Евроимпорт Запад",
     "costFormula": null,
     "extra": "Поручение №3 от 03.08.2026 (Transfer Request No.1 from EUROIMPORT ZAPAD LLC). Принципал: ООО «Евроимпорт Запад» (Мальцев Е.О.). Агент: ОсОО «Блэкшарк Трейд». Получатель: Mybox s.r.o (Racianska 88B, Bratislava 83102, Slovakia). Wise Europe S.A (Rue du Trône 100, Brussels), IBAN BE86 9058 3106 1550, IČO 57058997, VAT SK2122549462. Фактура №30260003 от 30.07.2026. Spare parts for agricultural machinery, Contract 16/07/2026 dd 16.07.26. Курс 92.3. RUB 2,862,211.92. Комиссия агента 45,795.39 ₽.",
