@@ -1848,13 +1848,13 @@
     "clientName": "Евроимпорт Запад",
     "costFormula": null,
     "extra": "Поручение №3 от 03.08.2026 (Transfer Request No.1 from EUROIMPORT ZAPAD LLC). Принципал: ООО «Евроимпорт Запад» (Мальцев Е.О.). Агент: ОсОО «Блэкшарк Трейд». Получатель: Mybox s.r.o (Racianska 88B, Bratislava 83102, Slovakia). Wise Europe S.A (Rue du Trône 100, Brussels), IBAN BE86 9058 3106 1550, IČO 57058997, VAT SK2122549462. Фактура №30260003 от 30.07.2026. Spare parts for agricultural machinery, Contract 16/07/2026 dd 16.07.26. Курс 92.3. RUB 2,862,211.92. Комиссия агента 45,795.39 ₽.",
-    "rubles_received": null,
+    "rubles_received": "2862211.92 / 45795.39",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "| Выписка Энерготрансбанк 03.08: ПП №60 (VO11100) 2,862,211.92 ₽ — перечисление по Поручению №3 (контракт 16/07/2026, запчасти) + ПП №61 (VO21100) 45,795.39 ₽ — агентское вознаграждение. От ООО Евроимпорт Запад (Энерготрансбанк, БИК 042748701). Банк. комиссия 8,586.64 (VO80050) — не включена.",
     "calc": null
   },
   {
