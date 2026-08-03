@@ -714,5 +714,24 @@
     "sent_usdt": 30038.05,
     "notes": "| 03.08: Кросс-курс EUR (Scream): 0.86469489035 USD/EUR (FX IBR 29,753.33 USD → 25,727.55 EUR; 25,870.20 → 29,918.30 USD).",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 38,
+    "date": "2026-08-03",
+    "sum": 25603.37,
+    "currency": "EUR",
+    "company": "TRANSPATH",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
