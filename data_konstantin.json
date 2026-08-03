@@ -695,5 +695,24 @@
     "received_usdt": 44070.83,
     "sent_usdt": 43948.24,
     "notes": "Payment from CODELINK to The British School of Barcelona (Spain, CaixaBank CAIXESBBXXX, ES18 2100 8630 4302 0005 5267). 38,131.40 EUR. Invoice 126-26 dd 29/06/2026. School fees - Margarita Nikonova (Year 6) & Makar Nikonov (Year 10). Alex VDX 30.07.2026. 28,131.40 EUR executed 30/07/2026 (Avis de débit, TX ID V-0047008570-0003906750-01000050018). 5,500 EUR executed 31/07/2026 (Avis de débit, TX ID V-0047010732-0003906937-01000050018). 4,500 EUR executed 31/07/2026 (Avis de débit, TX ID V-0047010736-0003906938-01000050018). ПОЛНОСТЬЮ ИСПОЛНЕНО: 38,131.40 EUR."
+  },
+  {
+    "row": 37,
+    "date": "2026-08-03",
+    "sum": 25870.2,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
