@@ -1856,5 +1856,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 93,
+    "date": "2026-08-03",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Стройтекинвест",
+    "costFormula": null,
+    "extra": "Стройтекинвест",
+    "rubles_received": "510000",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "{VO60081} Пополнение брокерского счета ОсОО Стройтекинвест по договору b10/1125 от 28.11.25г., лиц. счет L-310-152-D-b10/1125. Получатель: ОсОО Аспан Капитал (АО БАНК НБС, Иваново). ПП №595 от 03.08.2026, Raiffeisen → НБС. УПНО 10445257000000000308202600028866.",
+    "calc": null
   }
 ]
