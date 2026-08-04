@@ -1197,25 +1197,6 @@
     "calc": null
   },
   {
-    "row": 68,
-    "date": "2026-08-04",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
-    "clientName": "Кристалл Джет",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": "1201030.50 / 1201030.50 / 1201030.50 / 1201030.50 / 1070546.54",
-    "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "ПП №431, №432, №433, №434, №435 от 04.08.2026 ИСПОЛНЕНО. Плательщик: ООО Кристалл Джет (ГПБ Москва, БИК 044525823). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555). Суммы: 1 201 030.50 x4 / 1 070 546.54. {VO23210} Оплата за услуги по договору 210933/КД от 15.09.2021. НДС не облагается.",
-    "calc": null
-  },
-  {
     "row": 69,
     "date": "2026-08-04",
     "sum": 71368.14,
@@ -1226,12 +1207,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "1201030.50 / 1201030.50 / 1201030.50 / 1201030.50 / 1070546.54",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Proforma Invoice ST260804 от 04.08.2026 (Airport services and refueling 04.08.2026, 71,368.14 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 04.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. Hong Kong, 390205798, CITIHKHXXXX), назначение invoice No ST260804.",
+    "notes": "Proforma Invoice ST260804 от 04.08.2026 (Airport services and refueling 04.08.2026, 71,368.14 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 04.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. Hong Kong, 390205798, CITIHKHXXXX), назначение invoice No ST260804. | ПП №431-435 от 04.08.2026 ИСПОЛНЕНО: ООО Кристалл Джет (ГПБ Москва) → ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль). Суммы: 1 201 030.50 x4 / 1 070 546.54 = 5 874 668.54₽. {VO23210} Оплата за услуги по договору 210933/КД от 15.09.2021. НДС не облагается. Рубли на обмен VDX.",
     "calc": null
   }
 ]
