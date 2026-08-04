@@ -277,7 +277,7 @@
     "sum": null,
     "currency": "Балтик Лэнд (Движение 78)",
     "company": "12935.11",
-    "color": null,
+    "color": "FF4FC3F7",
     "clientName": null,
     "costFormula": null,
     "extra": null,
@@ -287,7 +287,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Выписка Блэкшарк ПОЧТОБАНК 04.08.2026: агентское вознаграждение 12,935.11₽ от ООО «БАЛТИК ЛЭНД» (ИНН 7813456956, ВТБ) {VO21100} по пор. 61 от 04.08.2026 к аг.договору 120525-B от 12.05.2025. Тело платежа пор.61 ждём.",
     "calc": null
   }
 ]

@@ -752,5 +752,24 @@
     "sent_usdt": 43159,
     "notes": "Инвойс Hub001/540 от 04.08.2026. Hubei Neoflam Lighter Manufacturing Co.,Ltd (Китай, China Construction Bank Hubei, IBAN 42050166723600000086, SWIFT PCBCCNBJHPX) → Q8 GROUP LIMITED (DBS Bank HK, 79807111801, DHBKHKHH). LIGHTERS, 43,000 USD. Payment Order от 04.08.2026, назначение FOR LIGHTERS.",
     "calc": null
+  },
+  {
+    "row": 40,
+    "date": "2026-08-04",
+    "sum": 40000,
+    "currency": "EUR",
+    "company": "TECHEQUIP",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
