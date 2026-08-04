@@ -752,7 +752,7 @@
     "rubles_received": "204322.20 / 12811.95",
     "sent_rubles_vdx": "217134.15",
     "exchange_to": "VDX",
-    "vdx_rate": null,
+    "vdx_rate": 76.7,
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Поручение №12 от 13.07.2026 (Transfer Request No.12). Принципал: ООО «Трак-Прайс» (Новосибирск). Агент: ОсОО «Блэкшарк Трейд». Получатель: SHANGHAI RUILANG INTERNATIONAL TRADING CO.,LTD (Китай, Bank of Shanghai, BOSHCNSHXXX). 17,923.00 CNY. Инвойс TPCK-260710 от 23.06.2026. Контракт 260623 от 23.06.2026. Курс 11.40 = 204,322.20₽. Комиссия агента 2.5%+100 USD = 12,811.95₽ (2.5%=5,108.05 + 100 USD=7,703.90). ПП №1517 13.07: тело 204,322.20₽ {VO11100} Трак-Прайс (Альфа-Банк)→Блэкшарк (Почтобанк). ПП №1516 13.07: комиссия 12,811.95₽ {VO21100}. Оба ИСПОЛНЕНО 13.07.2026. Товар: CABIN ASSY Difference (QINGLING), 1 шт. Условия: 50% предоплата + 50% до отгрузки. [Transaction Status 14.07.2026: Id 202607141436976834, PendingApproval, перевод 17,923.00 CNY TOMO TRADING GROUP→SHANGHAI RUILANG (BOSHCNSHXXX), комиссии 279.76 CNY, дебет 18,202.76 CNY, INV TPCK-260710. Ждём EXECUTED.] [John 04.08: отправка на ВИДИИКС 217,134.15₽ (тело 204,322.20 + комиссия 12,811.95), за кабины, заявка 599, вход 13.07.26.] [Заявка 04.08: Proforma Invoice TPCK-260710 от 23.06.2026 (SHANGHAI RUILANG), Payment from TOMO. Получатель: SHANGHAI RUILANG, Bank of Shanghai BOSHCNSHXXX, 03004233041. 17,923.00 CNY, OUR.]",
