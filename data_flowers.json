@@ -2107,5 +2107,24 @@
     "notes": "Proforma-RECHNUNG DBA31072026/01 от 31.07.2026. DBA Euro Plants GmbH (Trankeweg 8, Fürstenwalde, Германия) → Q8 Group Limited. Контракт 26.07.31/01, растения. 50,000.00 EUR. REVOLUT, IBAN LT193250010460027222, SWIFT REVOLT21. | Payment Order: 50,000.00 EUR, бенефициар DBA Euro Plants GmbH. | BONBILL 31.07 Q8 — EXECUTED (txid O2083116208881795072528)",
     "calc": null,
     "row": 118
+  },
+  {
+    "row": 119,
+    "date": "2026-08-04",
+    "sum": 43000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Hubei Neoflam (Цветы)",
+    "costFormula": "43000 + 0.3% + 30 = 43159 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 43159,
+    "notes": null,
+    "calc": null
   }
 ]
