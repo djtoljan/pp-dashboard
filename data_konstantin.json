@@ -759,7 +759,7 @@
     "sum": 40000,
     "currency": "EUR",
     "company": "TECHEQUIP",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -769,7 +769,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "TECHEQUIP MT89CFTE28004000000000005036928 04.08 12:07 UTC: TRANSACTION CONFIRMATION PAYOUT — Status INITIATED. ALG Export, IBAN FR7613807001283202173288810, Invoice F-2026-07-1 dd 20.07.2026, -40,000.00 EUR, SEPA. Ref MT89CFTE28004000000000005036928.",
     "calc": "Кросс-курс EUR/USD = 1.15178472 (40 000 EUR = 46 071.38 USD, 04.08.2026 12:04 UTC)"
   }
 ]
