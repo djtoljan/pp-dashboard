@@ -735,25 +735,6 @@
     "calc": "EUR/USD 1.15319478"
   },
   {
-    "row": 39,
-    "date": "2026-08-04",
-    "sum": 43000,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": "43000 + 0.3% + 30 = 43159 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 43159,
-    "notes": "Инвойс Hub001/540 от 04.08.2026. Hubei Neoflam Lighter Manufacturing Co.,Ltd (Китай, China Construction Bank Hubei, IBAN 42050166723600000086, SWIFT PCBCCNBJHPX) → Q8 GROUP LIMITED (DBS Bank HK, 79807111801, DHBKHKHH). LIGHTERS, 43,000 USD. Payment Order от 04.08.2026, назначение FOR LIGHTERS.",
-    "calc": null
-  },
-  {
     "row": 40,
     "date": "2026-08-04",
     "sum": 40000,
@@ -767,9 +748,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 46401.74,
     "sent_usdt": null,
-    "notes": "TECHEQUIP MT89CFTE28004000000000005036928 04.08 12:07 UTC: TRANSACTION CONFIRMATION PAYOUT — Status INITIATED. ALG Export, IBAN FR7613807001283202173288810, Invoice F-2026-07-1 dd 20.07.2026, -40,000.00 EUR, SEPA. Ref MT89CFTE28004000000000005036928.",
+    "notes": "TECHEQUIP MT89CFTE28004000000000005036928 04.08 12:07 UTC: TRANSACTION CONFIRMATION PAYOUT — Status INITIATED. ALG Export, IBAN FR7613807001283202173288810, Invoice F-2026-07-1 dd 20.07.2026, -40,000.00 EUR, SEPA. Ref MT89CFTE28004000000000005036928. | Bobr 04.08 14:12 UTC: вход 46,401.74 USDT на Рабочий 3 (от TX6kQeaQsy...). Под сделку TECHEQUIP 40,000 EUR (подтв. Scream). Q9 отправлена.",
     "calc": "Кросс-курс EUR/USD = 1.15178472 (40 000 EUR = 46 071.38 USD, 04.08.2026 12:04 UTC)"
   }
 ]
