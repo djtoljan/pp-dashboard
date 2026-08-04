@@ -1611,25 +1611,6 @@
   {
     "row": 82,
     "date": "2026-07-28",
-    "sum": 28875,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "ВТС",
-    "costFormula": "28,875 + 0.3% + 30 = 28,991.63 USDT",
-    "extra": "ВТС",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": "28991.62",
-    "notes": "Проформа HXX20260722 от 22.07.2026. Guangzhou Tinlee Leather Co., Ltd (Китай, Bank of China Guangdong). 1500 косметичек (vegan leather, 25*13*13см). EXW Guangzhou, 50% депозит. От Алины для ВТС.",
-    "calc": "ТЕЗ"
-  },
-  {
-    "row": 83,
-    "date": "2026-07-28",
     "sum": 41694.62,
     "currency": "USD",
     "company": null,
@@ -1647,7 +1628,7 @@
     "calc": null
   },
   {
-    "row": 84,
+    "row": 83,
     "date": "2026-07-28",
     "sum": 40101.52,
     "currency": "EUR",
@@ -1666,7 +1647,7 @@
     "calc": "РУБ"
   },
   {
-    "row": 85,
+    "row": 84,
     "date": "2026-07-29",
     "sum": 17500,
     "currency": "EUR",
@@ -1686,7 +1667,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 86,
+    "row": 85,
     "date": "2026-07-29",
     "sum": 130481.01,
     "currency": "USD",
@@ -1706,7 +1687,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 87,
+    "row": 86,
     "date": "2026-07-30",
     "sum": null,
     "currency": null,
@@ -1726,7 +1707,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 88,
+    "row": 87,
     "date": "2026-07-30",
     "sum": 87840,
     "currency": "EUR",
@@ -1745,7 +1726,7 @@
     "extra": "ВТС (Пор.74092)"
   },
   {
-    "row": 89,
+    "row": 88,
     "date": "2026-07-30",
     "sum": 14500,
     "currency": "USD",
@@ -1764,26 +1745,7 @@
     "extra": "ВТС"
   },
   {
-    "row": 90,
-    "date": "2026-07-30",
-    "sum": 96751.86,
-    "currency": "EUR",
-    "company": null,
-    "color": "FFFFFFFF",
-    "clientName": "ВТС",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": "8959222.24 / 179184.70",
-    "sent_rubles_vdx": "9138406.94",
-    "exchange_to": "Al Safi",
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Поручение 70902 от 30.07.2026 по Агентскому соглашению №29-01. Принципал: ООО ВТС. Агент: FININVEST (Турция). Получатель: TRIUMPH INTERTRADE AG. Инвойс 9211883909 dd 12.01.2026. EUR/RUB 92.60. Вознаграждение агента 2% = 1,935.04 EUR / 179,184.70 RUB. ПП 541 (8,959,222.24) + ПП 542 (179,184.70): 8,959,222.24 RUB. | ПП №541 от 30.07.2026. Плательщик: ООО ВТС (Raiffeisenbank). Получатель: Al Safi Bank (Kazakhstan) для FININVEST. 8,959,222.24 RUB. Контракт 25-12-12, inv 9211883909 d 12.01.26. HS 610822,621210. Без НДС. | ПП 542: 179,184.70 RUB = агентское вознаграждение 2% (1,935.04 EUR @92.60)",
-    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
-  },
-  {
-    "row": 91,
+    "row": 89,
     "date": "2026-07-31",
     "sum": 18000,
     "currency": "EUR",
@@ -1802,7 +1764,7 @@
     "calc": "Кросс-курс EUR/USD = 1.14891178 (18,000 EUR = 20,680.41 USD)"
   },
   {
-    "row": 92,
+    "row": 90,
     "date": "2026-07-31",
     "sum": null,
     "currency": null,
@@ -1822,7 +1784,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 93,
+    "row": 91,
     "date": "2026-07-31",
     "sum": null,
     "currency": null,
@@ -1842,7 +1804,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 94,
+    "row": 92,
     "date": "2026-08-03",
     "sum": 31009.88,
     "currency": "EUR",
@@ -1861,7 +1823,7 @@
     "calc": null
   },
   {
-    "row": 95,
+    "row": 93,
     "date": "2026-08-03",
     "sum": null,
     "currency": null,
