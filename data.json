@@ -1728,7 +1728,7 @@
   {
     "row": 88,
     "date": "2026-07-30",
-    "sum": 14500,
+    "sum": 7250,
     "currency": "USD",
     "calc": null,
     "company": null,
@@ -1740,7 +1740,7 @@
     "exchange_to": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Proforma INV GM20260722-1 dd 22.07.2026. Продавец: Goodly Cosmetics (Shanghai, China). Покупатель: ВТС (WTC). Powder 5,000 pcs @ .9 = ,500. EXW. 50% deposit ,250 + 50% balance ,250. Алина 30.07.2026.",
+    "notes": "Депозит по Proforma INV GM20260722-1 dd 22.07.2026. Продавец: Goodly Cosmetics (Shanghai, China). Покупатель: ВТС (WTC). Powder 5,000 pcs @ .9 = ,500. EXW. 50% deposit 7,250 + 50% balance 7,250 — в строке сумма = депозит 7,250 (Total 14,500), по указанию Scream 04.08.2026. Алина 30.07.2026.",
     "color": "FFFF0000",
     "extra": "ВТС"
   },
