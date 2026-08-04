@@ -560,10 +560,10 @@
     "rubles_received": "5824610.63",
     "sent_rubles_vdx": "5824610.63",
     "exchange_to": "VDX",
-    "vdx_rate": 77.45,
+    "vdx_rate": 76.7,
     "received_usdt": 75129.58,
     "sent_usdt": "75112",
-    "notes": "Проформа BS1-26.03.13 от 10.07.2026 | Blackshark Trade → LLC AquaRhyme (Акварайм) | Semi-Assembled STRO Skid, 3 шт | Поставщик: Xiamen Jiarong Technology Corp., Ltd. | частичная оплата: 75,606 USD = 5,824,610.63 RUB (курс 77.0390) — из них 74,849.94 USD по инвойсу Sunrise + 756.06 маржа | Получен инвойс от Sunrise: PT SUNRISE ELECTRONICS CORP (Бали) → Блэкшарк Трейд, Semi-Assembled STRO Skid Parts, 74,849.94 USD, счёт SM260514-1 от 13.07.2026 | Банк: Mandiri BMRIIDJA, USD 1450018092185 | John: Блэкшарк ПОЧТО→VDX 5,824,610.63₽ (Акварайм, заявка 600) STRO Skid | ПП №402 от 13.07.2026: Блэкшарк Трейд→VDX 5,824,610.63₽. VO60081. ИСПОЛНЕНО 14.07. | Proforma SM260522-1: SMARTSISTEMS PTE. LTD. (Сингапур)→Q8 GROUP. Semi-Assembled STRO Skid Parts, 74,857.43 USD. Citibank HK CITIHKHX. Payment Order: 74,857.43 USD к Smartsistems. | VDX 14.07: 75,129.58 USDT по курсу 77.45 | BONBILL O2077268320540819456899 15.07.2026: Q8→SMARTSISTEMS PTE. LTD., 74,857.43 USD, EXECUTED",
+    "notes": "Проформа BS1-26.03.13 от 10.07.2026 | Blackshark Trade → LLC AquaRhyme (Акварайм) | Semi-Assembled STRO Skid, 3 шт | Поставщик: Xiamen Jiarong Technology Corp., Ltd. | частичная оплата: 75,606 USD = 5,824,610.63 RUB (курс 77.0390) — из них 74,849.94 USD по инвойсу Sunrise + 756.06 маржа | Получен инвойс от Sunrise: PT SUNRISE ELECTRONICS CORP (Бали) → Блэкшарк Трейд, Semi-Assembled STRO Skid Parts, 74,849.94 USD, счёт SM260514-1 от 13.07.2026 | Банк: Mandiri BMRIIDJA, USD 1450018092185 | John: Блэкшарк ПОЧТО→VDX 5,824,610.63₽ (Акварайм, заявка 600) STRO Skid | ПП №402 от 13.07.2026: Блэкшарк Трейд→VDX 5,824,610.63₽. VO60081. ИСПОЛНЕНО 14.07. | Proforma SM260522-1: SMARTSISTEMS PTE. LTD. (Сингапур)→Q8 GROUP. Semi-Assembled STRO Skid Parts, 74,857.43 USD. Citibank HK CITIHKHX. Payment Order: 74,857.43 USD к Smartsistems. | VDX 14.07: 75,129.58 USDT по курсу 77.45 | BONBILL O2077268320540819456899 15.07.2026: Q8→SMARTSISTEMS PTE. LTD., 74,857.43 USD, EXECUTED [04.08: курс скорректирован на 76.7 по финальной таблице Daisy VDX 10-13.07]",
     "color": "FF92D050",
     "costFormula": "74857.43 + 0.3% + 30 = 75112 USDT"
   },
