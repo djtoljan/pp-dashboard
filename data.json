@@ -1888,7 +1888,7 @@
     "sum": 17923,
     "currency": "CNY",
     "company": "TOMO TRADING GROUP",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Трак-Прайс",
     "costFormula": "(17 923,00 CNY + 750) / 6.7805 * 1.007 = 2773; 2773 * 76,6647 / 0,995 = 213675,24",
     "extra": "Трак-Прайс",
