@@ -702,7 +702,7 @@
     "sum": 25870.2,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "€25,870.20 ÷ 0.86469489035 + 0.3% + 30 = 30,038.05 USDT",
     "extra": null,
@@ -712,7 +712,7 @@
     "vdx_rate": null,
     "received_usdt": 30167.89,
     "sent_usdt": 30038.05,
-    "notes": "| 03.08: Кросс-курс EUR (Scream): 0.86469489035 USD/EUR (FX IBR 29,753.33 USD → 25,727.55 EUR; 25,870.20 → 29,918.30 USD). | IBR 3088 03.08: PO 225, Q8→220-B d.o.o. (Serbia, OTP BANKA SRBIJA, OTPVRS22, RS3532****772, Bosanska 47, 11224 Vrcin), 25,870.20 EUR. Инв. 26010000023 dd 25.02.2026 + 26010000133 dd 28.07.2026, household appliances. Serial O2084220975792128000905. Fee 26.03 EUR. Статус: PROCESSING (🟡)",
+    "notes": "| 03.08: Кросс-курс EUR (Scream): 0.86469489035 USD/EUR (FX IBR 29,753.33 USD → 25,727.55 EUR; 25,870.20 → 29,918.30 USD). | IBR 3088 03.08: PO 225, Q8→220-B d.o.o. (Serbia, OTP BANKA SRBIJA, OTPVRS22, RS3532****772, Bosanska 47, 11224 Vrcin), 25,870.20 EUR. Инв. 26010000023 dd 25.02.2026 + 26010000133 dd 28.07.2026, household appliances. Serial O2084220975792128000905. Fee 26.03 EUR. Статус: PROCESSING (🟡) | BONBILL O2084220975792128000905 03.08.2026 18:12:58: Q8→220-B d.o.o., 25,870.20 EUR, OTP BANKA SRBIJA (RS35325960160000415772), inv 26010000023 dd 25.02.2026 + 26010000133 dd 28.07.2026, For Household Appliances. EXECUTED",
     "calc": "ТЕЗ"
   },
   {
