@@ -1628,7 +1628,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 82,
+    "row": 83,
     "date": "2026-07-28",
     "sum": 41694.62,
     "currency": "USD",
@@ -1647,7 +1647,7 @@
     "calc": null
   },
   {
-    "row": 83,
+    "row": 84,
     "date": "2026-07-28",
     "sum": 40101.52,
     "currency": "EUR",
@@ -1666,7 +1666,7 @@
     "calc": "РУБ"
   },
   {
-    "row": 84,
+    "row": 85,
     "date": "2026-07-29",
     "sum": 17500,
     "currency": "EUR",
@@ -1686,7 +1686,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 85,
+    "row": 86,
     "date": "2026-07-29",
     "sum": 130481.01,
     "currency": "USD",
@@ -1706,7 +1706,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 86,
+    "row": 87,
     "date": "2026-07-30",
     "sum": null,
     "currency": null,
@@ -1726,7 +1726,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 87,
+    "row": 88,
     "date": "2026-07-30",
     "sum": 87840,
     "currency": "EUR",
@@ -1764,7 +1764,7 @@
     "extra": "ВТС"
   },
   {
-    "row": 88,
+    "row": 90,
     "date": "2026-07-30",
     "sum": 96751.86,
     "currency": "EUR",
@@ -1783,7 +1783,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 89,
+    "row": 91,
     "date": "2026-07-31",
     "sum": 18000,
     "currency": "EUR",
@@ -1802,7 +1802,7 @@
     "calc": "Кросс-курс EUR/USD = 1.14891178 (18,000 EUR = 20,680.41 USD)"
   },
   {
-    "row": 90,
+    "row": 92,
     "date": "2026-07-31",
     "sum": null,
     "currency": null,
@@ -1822,7 +1822,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 91,
+    "row": 93,
     "date": "2026-07-31",
     "sum": null,
     "currency": null,
@@ -1842,7 +1842,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 92,
+    "row": 94,
     "date": "2026-08-03",
     "sum": 31009.88,
     "currency": "EUR",
@@ -1861,7 +1861,7 @@
     "calc": null
   },
   {
-    "row": 93,
+    "row": 95,
     "date": "2026-08-03",
     "sum": null,
     "currency": null,
@@ -1879,24 +1879,5 @@
     "notes": "{VO60081} Пополнение брокерского счета ОсОО Стройтекинвест по договору b10/1125 от 28.11.25г., лиц. счет L-310-152-D-b10/1125. Получатель: ОсОО Аспан Капитал (АО БАНК НБС, Иваново). ПП №595 от 03.08.2026, Raiffeisen → НБС. УПНО 10445257000000000308202600028866. Рубли сразу ушли на обменник Аспан (sent_rubles_vdx), а не получены от клиента.",
     "calc": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
-  },
-  {
-    "row": 94,
-    "date": "2026-08-04",
-    "sum": 17300,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "17,300 + 0.3% + 30 = 17,381.90 USDT",
-    "costFormula": "Инвойс DCTX26060211 от 26.06.2026: Trans-China Railway Freight, Q8 GROUP LIMITED, ж/д фрахт (Railway Freight 8650+8650), USD 17,300. Application for transfer: Xiamen Trans-China Multimodal Transport Co.,Ltd, CCB XIAMEN BRANCH PCBCCNBJSMX, сч.35150198110100004659",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 17381.9,
-    "notes": null,
-    "calc": null
   }
 ]
