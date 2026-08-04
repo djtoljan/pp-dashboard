@@ -530,7 +530,7 @@
     "sum": 161681.44,
     "currency": "EUR",
     "company": "INTEGRA",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "183700/(1-0.3%) = 184253 USDT",
     "extra": null,
@@ -540,7 +540,7 @@
     "vdx_rate": null,
     "received_usdt": 184619.3,
     "sent_usdt": 184253,
-    "notes": "Платёж от INTEGRA 28.07.2026. Babyliss sarl - Division PRO (Франция), JP Morgan CHASNL2X. Инвойс 7029733293 от 09.06.2026. Инструменты для укладки волос. EUR/USD кросс-курс: 1.13619288 (€161,681.00 → ,700.80). | INTEGRA TRADE MT73 28.07: PAYOUT INITIATED 161,681.44 EUR → Babyliss sarl. SEPA. Status: INITIATED. | INTEGRA TRADE MT73 28.07: PAYOUT INITIATED. Bobr: 184253 USDT OUT. | INTEGRA TRADE MT73 03.08: PAYOUT IN_PROGRESS 161,681.44 EUR → Babyliss sarl. SEPA. Invoice 7029859492 dd 15.07.2026. Status: IN_PROGRESS (ещё в процессе)",
+    "notes": "Платёж от INTEGRA 28.07.2026. Babyliss sarl - Division PRO (Франция), JP Morgan CHASNL2X. Инвойс 7029733293 от 09.06.2026. Инструменты для укладки волос. EUR/USD кросс-курс: 1.13619288 (€161,681.00 → ,700.80). | INTEGRA TRADE MT73 28.07: PAYOUT INITIATED 161,681.44 EUR → Babyliss sarl. SEPA. Status: INITIATED. | INTEGRA TRADE MT73 28.07: PAYOUT INITIATED. Bobr: 184253 USDT OUT. | INTEGRA TRADE MT73 03.08: PAYOUT IN_PROGRESS 161,681.44 EUR → Babyliss sarl. SEPA. Invoice 7029859492 dd 15.07.2026. Status: IN_PROGRESS (ещё в процессе) | INTEGRA TRADE MT73 04.08: PAYOUT COMPLETED 161,681.44 EUR → Babyliss sarl. SEPA. Status: COMPLETED.",
     "calc": "ТЕЗ",
     "margin": 366.3
   },
@@ -628,7 +628,7 @@
     "sum": 42545.67,
     "currency": "EUR",
     "company": "INTEGRA",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "42,545.67 EUR → 48,462 USD; 48,462/(1-0.35%)+100=48,732 USDT",
     "extra": null,
@@ -638,7 +638,7 @@
     "vdx_rate": null,
     "received_usdt": 48804.6889,
     "sent_usdt": "48732",
-    "notes": "Платёжный ордер от 29.07.2026. Payment from INTEGRA. Получатель: EUROCOLLECTION SP. z O.O. (Польша, 08-110 Siedlce). Банк: PKO BP SA (BPKOPLPWCSD). Счёт: PL32102044760000860202654416. Инвойс ZO 0169/26 dd 27.07.2026. 42,545.67 EUR. OUR. | USDT получен на Рабочий 3: 48804.6889 USDT (Константин EUROCOLLECTION). | W& Платежи расчёт: 42,545.67 EUR → 48,462 USD; 48,462/(1-0.35%)+100=48,732 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8.",
+    "notes": "Платёжный ордер от 29.07.2026. Payment from INTEGRA. Получатель: EUROCOLLECTION SP. z O.O. (Польша, 08-110 Siedlce). Банк: PKO BP SA (BPKOPLPWCSD). Счёт: PL32102044760000860202654416. Инвойс ZO 0169/26 dd 27.07.2026. 42,545.67 EUR. OUR. | USDT получен на Рабочий 3: 48804.6889 USDT (Константин EUROCOLLECTION). | W& Платежи расчёт: 42,545.67 EUR → 48,462 USD; 48,462/(1-0.35%)+100=48,732 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8. | INTEGRA TRADE MT73 04.08: PAYOUT COMPLETED 42,545.67 EUR → EUROCOLLECTION SP. z O.O. SEPA. Status: COMPLETED.",
     "calc": null
   },
   {
