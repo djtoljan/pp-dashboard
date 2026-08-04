@@ -1749,8 +1749,8 @@
     "date": "2026-07-30",
     "sum": 7250,
     "currency": "USD",
-    "calc": null,
-    "company": null,
+    "calc": "7 250 + 0.3% + 30 = 7 301.75 USDT (Q8 ТЕЗ, депозит 50% GM20260722-1)",
+    "company": "Q8",
     "costFormula": null,
     "clientName": "ВТС",
     "rubles_received": "583625 / 16804.38",
@@ -1759,8 +1759,8 @@
     "exchange_to": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Депозит по Proforma INV GM20260722-1 dd 22.07.2026. Продавец: Goodly Cosmetics (Shanghai, China). Покупатель: ВТС (WTC). Powder 5,000 pcs @ .9 = ,500. EXW. 50% deposit 7,250 + 50% balance 7,250 — в строке сумма = депозит 7,250 (Total 14,500), по указанию Scream 04.08.2026. Алина 30.07.2026.",
-    "color": "FFFF0000",
+    "notes": "Депозит по Proforma INV GM20260722-1 dd 22.07.2026. Продавец: Goodly Cosmetics (Shanghai, China). Покупатель: ВТС (WTC). Powder 5,000 pcs @ .9 = ,500. EXW. 50% deposit 7,250 + 50% balance 7,250 — в строке сумма = депозит 7,250 (Total 14,500), по указанию Scream 04.08.2026. Алина 30.07.2026. | 04.08: получен полный Powder invoice GM20260722-1 (Total 14,500 USD, 5,000 pcs @ 2.9). Привязан к строке, дубль не создан. | 04.08: Заявка Q8 Goodly Cosmetics 7,250 USD (депозит 50%, Proforma GM20260722-1). Бенефициар: Goodly Cosmetics (Yiwu) Co., LTD, CITIBANK HONG KONG, CITIHKHX, акк 3996000396176.",
+    "color": "FFFFFFFF",
     "extra": "ВТС"
   },
   {
