@@ -1995,5 +1995,24 @@
     "sent_usdt": null,
     "notes": "Блэкшарк Энерготранс → ВИДИКС, за мебель, заявка 662. ООО ДРЕ Русланд Трейдинг. Платежи из Мира Привелегий (операционка) t23683.",
     "calc": null
+  },
+  {
+    "row": 102,
+    "date": "2026-08-05",
+    "sum": 7920,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ВТС",
+    "costFormula": "7,920 + 0.3% + 30 = 7,973.76 USDT",
+    "extra": "ВТС",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 7973.76,
+    "notes": null,
+    "calc": null
   }
 ]
