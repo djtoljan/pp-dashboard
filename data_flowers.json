@@ -2173,7 +2173,7 @@
     "sum": 50000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "PACIFIC AIR CARGO (Цветы)",
     "costFormula": "50,000 + 0.3% + 30 = 50,180 USDT",
     "extra": null,
@@ -2183,7 +2183,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 50180,
-    "notes": "Commercial Master Invoice №598 от 30.07.2026 + Payment Order 05.08.2026. PACIFIC AIR CARGO S.A. (Эквадор, PRODUBANCO, PRODECEQ, акк 2005229691) → Q8 Group Limited. Транспортные услуги (авиафрахт, ROSAS). 50 000.00 USD. Алина 05.08.2026.",
+    "notes": "Commercial Master Invoice №598 от 30.07.2026 + Payment Order 05.08.2026. PACIFIC AIR CARGO S.A. (Эквадор, PRODUBANCO, PRODECEQ, акк 2005229691) → Q8 Group Limited. Транспортные услуги (авиафрахт, ROSAS). 50 000.00 USD. Алина 05.08.2026. | BONBILL (Q8) 05.08.2026 19:44:04 (txid O208496867822233190473): Q8 GROUP LIMITED → PACIFIC AIR CARGO SA (PRODUBANCO, PRODECEQ, акк 2005****691), 50 000,00 USD, Invoice 598 dd 30.07.2026 For Flowers Logistics. Handling fee 30 USD. Status Processing. Источник: IBR 3088.",
     "calc": "50 000 + 0.3% + 30 = 50 180 USDT (Q8 ТЕЗ)"
   }
 ]
