@@ -1949,13 +1949,13 @@
     "clientName": "Дре Русланд",
     "costFormula": null,
     "extra": null,
-    "rubles_received": null,
+    "rubles_received": "1497318.40 / 23957.09",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Поручение №34 от 05.08.2026 (Transfer Request No.34 from 05/08/26) по дог. №2701-27/1 от 27.01.26. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО Блэкшарк Трейд. Получатель: UAB VEGRANA (Литва, LT-05120, Vilnius, Laisves pr.60). PKO BANK POLSKI S.A, PL23102047240000320203654043, BPKOPLPW. 16 000,00 EUR. Оплата за мебель по инвойсу №6 от 01.07.2026 (PRELIMINARI SASKAITA-Faktūra №6, UAB VEGRANA, мебель: GRANDE BIG SOFA, CORTI/ASPEN/KRONOS NAROZNIK; полная сумма инвойса 29 155,00 EUR, PVM 0%, экспорт 41 ст.; получен 05.08.2026). Курс: 93.5824. RUB: 1 497 318,40. Комиссия агента 1.6% (23 957,09 руб).",
+    "notes": "Поручение №34 от 05.08.2026 (Transfer Request No.34 from 05/08/26) по дог. №2701-27/1 от 27.01.26. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО Блэкшарк Трейд. Получатель: UAB VEGRANA (Литва, LT-05120, Vilnius, Laisves pr.60). PKO BANK POLSKI S.A, PL23102047240000320203654043, BPKOPLPW. 16 000,00 EUR. Оплата за мебель по инвойсу №6 от 01.07.2026 (PRELIMINARI SASKAITA-Faktūra №6, UAB VEGRANA, мебель: GRANDE BIG SOFA, CORTI/ASPEN/KRONOS NAROZNIK; полная сумма инвойса 29 155,00 EUR, PVM 0%, экспорт 41 ст.; получен 05.08.2026). Курс: 93.5824. RUB: 1 497 318,40. Комиссия агента 1.6% (23 957,09 руб). | Выписка Энерготрансбанк 05.08: ПП №2537 (1 497 318,40₽ тело) + ПП №2538 (23 957,09₽ агентское вознаграждение 1,6%). Итого 1 521 275,49₽. Комиссия банка 4 491,96₽ (VO80050, не включается).",
     "calc": null
   }
 ]
