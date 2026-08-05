@@ -1234,5 +1234,24 @@
     "sent_usdt": "43159",
     "notes": "Bobr Alert 04.08.2026 12:47:39 UTC: приход 43,579.0 USDT на Рабочий 3 (TDE4qCrCNQn89VbUQVabaLdhDyhBMydqUx). Отправитель: TWsnppZqAb4td5FNroc6G1C5EqyvhbfWrT. Клиент по подтверждению Scream: Мосты (Молодёжь). | Заявка (Тип 4): Инвойс Hub001/540 — Hubei Neoflam Lighter Manufacturing Co.,Ltd (Jinshan Village, Huji Town, Zhongxiang City, Hubei, China; China Construction Bank Hubei Branch, No.709 Jianshe Avenue, Wuhan; IBAN 42050166723600000086; SWIFT PCBCCNBJHPX). Account: Q8 GROUP LIMITED (DBS Bank Hong Kong, 79807111801, DHBKHKHH). Payment Order 04/08/2026: 43,000 USD, FOR LIGHTERS. | BONBILL (Q8) 05.08.2026 13:34:57 (TXN O208487578610342297690): Q8 GROUP LIMITED → Hubei Neoflam Lighter Manufacturing Co.,Ltd, 43,000.00 USD, CCB 42050166723600000086. INVOICE Hub001540 dd 15.05.2026 FOR LIGHTERS.",
     "calc": null
+  },
+  {
+    "row": 70,
+    "date": "2026-08-05",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
