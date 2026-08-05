@@ -1982,18 +1982,18 @@
     "date": "2026-08-05",
     "sum": 7920,
     "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
+    "company": null,
+    "color": "FFFF0000",
     "clientName": "ВТС",
-    "costFormula": "7,920 + 0.3% + 30 = 7,973.76 USDT",
+    "costFormula": null,
     "extra": "ВТС",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 7973.76,
-    "notes": "Проформа GM20260803-22 dd 03.08.2026. Goodly Cosmetics (Yiwu/Shanghai, China) → WTC (ВТС). Lip Oil: Rich Red 3,000 + Dusty Rose 5,000 + Hot Honey 5,000 + Clear 3,000 pcs @ .99. Total 15,840 USD. EXW. 50% deposit 7,920 + 50% balance 7,920 — сумма в строке = депозит 7,920 (Total 15,840), по прецеденту GM20260722-1 (указание Scream 04.08). Алина 05.08.2026.",
-    "calc": "7 920 + 0.3% + 30 = 7 973.76 USDT (Q8 ТЕЗ, депозит 50% GM20260803-22)"
+    "sent_usdt": null,
+    "notes": "Проформа GM20260803-22 dd 03.08.2026. Goodly Cosmetics (Yiwu/Shanghai, China) → WTC (ВТС). Lip Oil: Rich Red 3,000 + Dusty Rose 5,000 + Hot Honey 5,000 + Clear 3,000 pcs @ .99. Total 15,840 USD. EXW. 50% deposit 7,920 + 50% balance 7,920 — сумма в строке = депозит 7,920 (Total 15,840), по прецеденту GM20260722-1 (указание Scream 04.08). Алина 05.08.2026. | Поручение №74324 от 05.08.2026 (Transfer request No 74324): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи». 7 920,00 USD → Goodly Cosmetics (Yiwu) Co., Ltd (CITIBANK N.A. HONG KONG, CITIHKHX, акк 3996000396176), invoice GM20260803-22 dd 03.08.2026, контракт ВТС/07/04/2026-01 dd 07.04.2026. Курс 81,5000. RUB 645 480,00. Комиссия агента 1,5% + 100 USD = 218,80 USD. | Инвойс услуг БиТрейд №74324 от 05.08.2026: посреднические услуги 218,80 USD @ 81,5000 = 17 832,20₽ (покупатель ООО «ВТС», дог. 27062025TК/1 от 24.06.2025). Маршрут БиТрейд (не Q8) — Q8-формула убрана, компания уточняется.",
+    "calc": null
   }
 ]
