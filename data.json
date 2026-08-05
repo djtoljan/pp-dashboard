@@ -1968,7 +1968,7 @@
     "clientName": "ВТС",
     "costFormula": "null",
     "extra": "СВЕТ",
-    "rubles_received": null,
+    "rubles_received": "3630746.27 / 62574.10",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
@@ -1988,12 +1988,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": 1511783.53,
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Блэкшарк Энерготранс → ВИДИКС, за мебель, заявка 662. ООО ДРЕ Русланд Трейдинг. Платежи из Мира Привелегий (операционка) t23683.",
     "calc": null
   }
 ]
