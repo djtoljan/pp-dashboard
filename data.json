@@ -1919,5 +1919,24 @@
     "sent_usdt": null,
     "notes": "Bobr Alert 04.08.2026 12:52:57 UTC: приход 6,242.27 USDT на Рабочий 3 (TDE4qCrCNQn89VbUQVabaLdhDyhBMydqUx). Отправитель: TUKdvDmviL7SSmf1Q379XXqo8qosod4rMP. Клиент по подтверждению Scream: КГ бр (Аренда).",
     "calc": null
+  },
+  {
+    "row": 98,
+    "date": "2026-07-30",
+    "sum": 96751.86,
+    "currency": "EUR",
+    "company": "FININVEST",
+    "color": "FF92D050",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
