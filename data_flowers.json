@@ -2156,16 +2156,15 @@
     "company": "Q8",
     "color": "FF92D050",
     "clientName": "Bloom Market (Цветы)",
-    "costFormula": "93 430 × 1.15515161 = 107 925,82 USD + 0,3% + 30 = 108 279,60 USDT (кросс-курс 05.08, FX IBR — из расчёта INFINITE)",
+    "costFormula": "93 430 × 1.1592285 = 108 306,72 USD + 0,3% + 30 = 108 661,64 USDT (кросс-курс 05.08, FX IBR 3088: 1 USD = 0,862642676311 EUR)",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 108894.692,
-    "sent_usdt": 108279.6,
-    "notes": "Invoice BL-P01/050826 от 05.08.2026. Bloom Market EOOD (Burgas, Bulgaria, Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG12BGUS91601413755700). ROSA 150 000 pcs @ €0.46 = €69 000 + логистика €24 430 = €93 430. Покупатель: Q8 Group Limited (HK). Кросс-курс EUR: ждём от Scream (последний FX IBR 3088: 0.86469489035 от 03.08). Алина 05.08.2026. | BONBILL (Q8) 05.08.2026 19:53:02 (txid O208497093479143833626): Q8 GROUP LIMITED → Bloom Market EOOD (Bulgarian-American Credit Bank, BGUSBGSF, BG12BGUS9160****700), 93 430,00 EUR, Invoice BL-P01/050826 dd 05.08.2026 For Flowers. Handling fee 25.97 EUR. Status Processing. Источник: IBR 3088.",
-    "calc": "93 430 × 1.15515161 = 107 925,82 → +0,3% + 30 = 108 279,60 USDT (Q8 ТЕЗ)"
+    "sent_usdt": 108661.64,
+    "notes": "Invoice BL-P01/050826 от 05.08.2026. Bloom Market EOOD (Burgas, Bulgaria, Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG12BGUS91601413755700). ROSA 150 000 pcs @ €0.46 = €69 000 + логистика €24 430 = €93 430. Покупатель: Q8 Group Limited (HK). Кросс-курс EUR: FX IBR 3088 05.08 — 1 USD = 0,862642676311 EUR (1 EUR = 1,1592285 USD). Алина 05.08.2026. | BONBILL (Q8) 05.08.2026 19:53:02 (txid O208497093479143833626): Q8 GROUP LIMITED → Bloom Market EOOD (Bulgarian-American Credit Bank, BGUSBGSF, BG12BGUS9160****700), 93 430,00 EUR, Invoice BL-P01/050826 dd 05.08.2026 For Flowers. Handling fee 25.97 EUR. Status Processing. Источник: IBR 3088."
   },
   {
     "row": 122,
@@ -2183,7 +2182,6 @@
     "vdx_rate": null,
     "received_usdt": 50400,
     "sent_usdt": 50180,
-    "notes": "Commercial Master Invoice №598 от 30.07.2026 + Payment Order 05.08.2026. PACIFIC AIR CARGO S.A. (Эквадор, PRODUBANCO, PRODECEQ, акк 2005229691) → Q8 Group Limited. Транспортные услуги (авиафрахт, ROSAS). 50 000.00 USD. Алина 05.08.2026. | BONBILL (Q8) 05.08.2026 19:44:04 (txid O208496867822233190473): Q8 GROUP LIMITED → PACIFIC AIR CARGO SA (PRODUBANCO, PRODECEQ, акк 2005****691), 50 000,00 USD, Invoice 598 dd 30.07.2026 For Flowers Logistics. Handling fee 30 USD. Status Processing. Источник: IBR 3088.",
-    "calc": "50 000 + 0.3% + 30 = 50 180 USDT (Q8 ТЕЗ)"
+    "notes": "Commercial Master Invoice №598 от 30.07.2026 + Payment Order 05.08.2026. PACIFIC AIR CARGO S.A. (Эквадор, PRODUBANCO, PRODECEQ, акк 2005229691) → Q8 Group Limited. Транспортные услуги (авиафрахт, ROSAS). 50 000.00 USD. Алина 05.08.2026. | BONBILL (Q8) 05.08.2026 19:44:04 (txid O208496867822233190473): Q8 GROUP LIMITED → PACIFIC AIR CARGO SA (PRODUBANCO, PRODECEQ, акк 2005****691), 50 000,00 USD, Invoice 598 dd 30.07.2026 For Flowers Logistics. Handling fee 30 USD. Status Processing. Источник: IBR 3088."
   }
 ]
