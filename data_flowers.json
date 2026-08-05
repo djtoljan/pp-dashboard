@@ -2164,8 +2164,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "Invoice BL-P01/050826 от 05.08.2026. Bloom Market EOOD (Burgas, Bulgaria, Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG12BGUS91601413755700). ROSA 150 000 pcs @ €0.46 = €69 000 + логистика €24 430 = €93 430. Покупатель: Q8 Group Limited (HK). Кросс-курс EUR: ждём от Scream (последний FX IBR 3088: 0.86469489035 от 03.08). Алина 05.08.2026.",
+    "calc": "€93 430 → USD (кросс-курс FX IBR, уточняется) + 0.3% + 30 — ждём курс"
   },
   {
     "row": 122,
@@ -2183,7 +2183,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 50180,
-    "notes": null,
-    "calc": null
+    "notes": "Commercial Master Invoice №598 от 30.07.2026 + Payment Order 05.08.2026. PACIFIC AIR CARGO S.A. (Эквадор, PRODUBANCO, PRODECEQ, акк 2005229691) → Q8 Group Limited. Транспортные услуги (авиафрахт, ROSAS). 50 000.00 USD. Алина 05.08.2026.",
+    "calc": "50 000 + 0.3% + 30 = 50 180 USDT (Q8 ТЕЗ)"
   }
 ]
