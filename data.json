@@ -1765,6 +1765,25 @@
   },
   {
     "row": 90,
+    "date": "2026-07-30",
+    "sum": 96751.86,
+    "currency": "EUR",
+    "company": "FININVEST",
+    "color": "FF92D050",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение 70902 от 30.07.2026 по Агентскому соглашению №29-01. Принципал: ООО ВТС. Агент: FININVEST (Турция). Получатель: TRIUMPH INTERTRADE AG. Инвойс 9211883909 dd 12.07.2026 (CNTR 25-12-12 dd 12.12.2025). EUR/RUB 92.60. Вознаграждение агента 2% = 1,935.04 EUR / 179,184.70 RUB. ПП 541 (8,959,222.24) + ПП 542 (179,184.70). | MT103/pacs.008 04.08.2026 ACKed: 96,751.86 EUR, Al Safi Bank (FININVEST KZ) → TRIUMPH INTERTRADE AG (Credit Suisse CH2704835159930992000), UETR bda45bbf-6931-4bf2-b122-9076a0a2e590, PREPAYMENT LINGERIE, INV.9211883909.",
+    "calc": null
+  },
+  {
+    "row": 91,
     "date": "2026-07-31",
     "sum": 18000,
     "currency": "EUR",
@@ -1783,7 +1802,7 @@
     "calc": "Кросс-курс EUR/USD = 1.14891178 (18,000 EUR = 20,680.41 USD)"
   },
   {
-    "row": 91,
+    "row": 92,
     "date": "2026-07-31",
     "sum": null,
     "currency": null,
@@ -1803,7 +1822,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 92,
+    "row": 93,
     "date": "2026-07-31",
     "sum": null,
     "currency": null,
@@ -1823,7 +1842,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 93,
+    "row": 94,
     "date": "2026-08-03",
     "sum": 31009.88,
     "currency": "EUR",
@@ -1842,7 +1861,7 @@
     "calc": null
   },
   {
-    "row": 94,
+    "row": 95,
     "date": "2026-08-03",
     "sum": null,
     "currency": null,
@@ -1862,7 +1881,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 95,
+    "row": 96,
     "date": "2026-08-04",
     "sum": null,
     "currency": null,
@@ -1882,7 +1901,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 96,
+    "row": 97,
     "date": "2026-08-04",
     "sum": null,
     "currency": null,
@@ -1902,7 +1921,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 97,
+    "row": 98,
     "date": "2026-08-04",
     "sum": null,
     "currency": null,
@@ -1921,26 +1940,7 @@
     "calc": null
   },
   {
-    "row": 98,
-    "date": "2026-07-30",
-    "sum": 96751.86,
-    "currency": "EUR",
-    "company": "FININVEST",
-    "color": "FF92D050",
-    "clientName": "ВТС",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Поручение 70902 от 30.07.2026 по Агентскому соглашению №29-01. Принципал: ООО ВТС. Агент: FININVEST (Турция). Получатель: TRIUMPH INTERTRADE AG. Инвойс 9211883909 dd 12.07.2026 (CNTR 25-12-12 dd 12.12.2025). EUR/RUB 92.60. Вознаграждение агента 2% = 1,935.04 EUR / 179,184.70 RUB. ПП 541 (8,959,222.24) + ПП 542 (179,184.70). | MT103/pacs.008 04.08.2026 ACKed: 96,751.86 EUR, Al Safi Bank (FININVEST KZ) → TRIUMPH INTERTRADE AG (Credit Suisse CH2704835159930992000), UETR bda45bbf-6931-4bf2-b122-9076a0a2e590, PREPAYMENT LINGERIE, INV.9211883909.",
-    "calc": null
-  },
-  {
-    "row": 100,
+    "row": 99,
     "date": "2026-08-05",
     "sum": 16000,
     "currency": "EUR",
