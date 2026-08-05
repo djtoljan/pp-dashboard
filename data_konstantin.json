@@ -759,7 +759,7 @@
     "sum": 299530,
     "currency": "EUR",
     "company": "INFINITE",
-    "color": "FFFFFF00",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": "299 530,00 × 1.15515161 = 346 003 USD; + 0,6% = 348 079 USDT",
     "extra": null,
