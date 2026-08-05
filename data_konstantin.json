@@ -752,5 +752,24 @@
     "sent_usdt": 46333,
     "notes": "TECHEQUIP MT89CFTE28004000000000005036928 04.08 12:07 UTC: TRANSACTION CONFIRMATION PAYOUT — Status INITIATED. ALG Export, IBAN FR7613807001283202173288810, Invoice F-2026-07-1 dd 20.07.2026, -40,000.00 EUR, SEPA. Ref MT89CFTE28004000000000005036928. | Bobr 04.08 14:12 UTC: вход 46,401.74 USDT на Рабочий 3 (от TX6kQeaQsy...). Под сделку TECHEQUIP 40,000 EUR (подтв. Scream). Q9 отправлена. | W& 04.08: расчёт 46071/(1-0.35%)+100 = 46,333 USDT. Bobr 04.08 15:50 UTC: OUT 46,333 USDT Рабочий 3 → TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8.",
     "calc": "Кросс-курс EUR/USD = 1.15178472 (40 000 EUR = 46 071.38 USD, 04.08.2026 12:04 UTC)"
+  },
+  {
+    "row": 40,
+    "date": "2026-08-05",
+    "sum": 299530,
+    "currency": "EUR",
+    "company": "INFINITE",
+    "color": "FFFFFF00",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": "Константин (Просто группа)",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
