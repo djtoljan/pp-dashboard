@@ -2012,7 +2012,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 7973.76,
-    "notes": null,
-    "calc": null
+    "notes": "Проформа GM20260803-22 dd 03.08.2026. Goodly Cosmetics (Yiwu/Shanghai, China) → WTC (ВТС). Lip Oil: Rich Red 3,000 + Dusty Rose 5,000 + Hot Honey 5,000 + Clear 3,000 pcs @ .99. Total 15,840 USD. EXW. 50% deposit 7,920 + 50% balance 7,920 — сумма в строке = депозит 7,920 (Total 15,840), по прецеденту GM20260722-1 (указание Scream 04.08). Алина 05.08.2026.",
+    "calc": "7 920 + 0.3% + 30 = 7 973.76 USDT (Q8 ТЕЗ, депозит 50% GM20260803-22)"
   }
 ]
