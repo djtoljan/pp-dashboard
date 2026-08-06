@@ -733,7 +733,7 @@
     "vdx_rate": null,
     "exchange_to": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 28916.4,
     "notes": "Новая заявка 13.07.2026. Payment_Doc_Prodema_Q8. REF 87177CJW0406390000035. Prodema Ltd via IFX | BONBILL 14.07: Q8→PRODEMA 28,800 USD. TxID O20769092792306892806922026-07-14. INV K787177. Исполнено.",
     "color": "FF92D050",
     "extra": "КГ бр (Аренда)",
