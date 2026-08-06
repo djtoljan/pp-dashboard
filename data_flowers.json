@@ -2289,7 +2289,7 @@
     "company": "LEO",
     "color": "FFFFFF00",
     "clientName": "UNIFLOR (Цветы)",
-    "costFormula": null,
+    "costFormula": "15,000.00 USD * 1.005 + 100 = 15,175 USDT",
     "extra": "UNIFLOR L.L.C-FZ (Дубай). EMIRATES ISLAMIC, SWIFT MEBLAEADXXX. IBAN AE530340003708515772902. USD 15000. INV 4/2026 dd 09.07.26",
     "rubles_received": null,
     "sent_rubles_vdx": null,
