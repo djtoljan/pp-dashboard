@@ -2275,5 +2275,24 @@
     "sent_usdt": 136391.6,
     "notes": "Invoice BL-P01/060826 от 06.08.2026. Bloom Market EOOD (Burgas, Bulgaria, Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG12BGUS91601413755700). ROSA 180 000 pcs @ €0.50 = €90 000 + логистика €27 347,87 = €117 347,87. VAT 0% (Art.138(1)). Покупатель: Q8 Group Limited (HK). Кросс-курс EUR: FX IBR 3088 06.08 — 1 USD = 0,86314560895 EUR (1 EUR = 1,158553 USD).",
     "calc": null
+  },
+  {
+    "row": 128,
+    "date": "2026-08-06",
+    "sum": 15000,
+    "currency": "USD",
+    "company": "LEO",
+    "color": "FFFFFF00",
+    "clientName": "UNIFLOR (Цветы)",
+    "costFormula": null,
+    "extra": "UNIFLOR L.L.C-FZ (Дубай). EMIRATES ISLAMIC, SWIFT MEBLAEADXXX. IBAN AE530340003708515772902. USD 15000. INV 4/2026 dd 09.07.26",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка 06.08.2026 (Alex VDX): Payment from LEO, OUR. Beneficiary: UNIFLOR L.L.C-FZ, Meydan Grandstand 6F, Meydan Road, Nad Al Sheba, Dubai. Emirates Islamic, MEBLAEADXXX, AE530340003708515772902. INV 4/2026 dd 09.07.26. 15,000.00 USD. | Transaction Status Details 06.08.2026 15:31:55: PENDING APPROVAL (INITIATED). LEO SPOT CAPITAL (a/c 0123-7824-012) → UNIFLOR L.L.C-FZ. Ref 0805-2186-0186-4926. Total debit 15,044.75 USD (cable 3.00 + provision 23.00 + fee 18.75). OUR. Purpose 2098.",
+    "calc": null
   }
 ]
