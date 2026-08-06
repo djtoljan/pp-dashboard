@@ -780,7 +780,7 @@
     "company": "INTEGRA",
     "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "38868/(1-0.35%)+100 = 39104.516 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
