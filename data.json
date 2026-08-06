@@ -553,7 +553,7 @@
     "vdx_rate": 76.7,
     "exchange_to": "VDX",
     "received_usdt": 38631.58,
-    "sent_usdt": null,
+    "sent_usdt": 38127.18,
     "notes": "Инвойс 71274 от 08.06.2026 | PT INNOVATIVE DATA FLOW (Бали) → ВТС | транспортные услуги 33 221,65€ | ПП №3434 ИСПОЛНЕНО 13.07 | Поручение №4 от 09.07.2026 | ООО «АГРО» → PT INNOVATIVE DATA FLOW (Бали) | инвойс 71274 от 08.06.2026, транспортные услуги 33 221,65€ | договор 2026/05/29-1 | курс 87.96 = 2,922,176.33₽ | комиссия 1.5% | Приход от ВТС VO21200 | инвойс 71274 PT INNOVATIVE DATA FLOW (Бали), транспортные услуги 33 221,65€ | ПП №3434 от 10.07, ИСПОЛНЕНО 13.07 | VTB БШТ выписка | Все 3 ПП привязаны: №3434 (2,922,176.33₽) + №3430 (303.43₽ посреднич.инв.4/1) + №3449 (14,949.74₽ посреднич.инв.4/2) | Договор 2026/05/29-1 к пор.4 | Ольга: транспорт списан, заявка на перевод Flow 33,221.65€, курс 87.96 | Ольга: доплата ПП3449 переведена, спрашивает про сроки отправки на Flow | IBR 3088 FX rate: 1 USD = 0.87464 EUR (38080→33306.33) | VTB выписка 13-14.07: ПП №42 от 13.07 БиТрейд→VDX 2,966,008.56₽ заяв.70. ИСПОЛНЕНО 13.07 14:33 | BONBILL 14.07 14:06: Q8 GROUP→PT INNOVATIVE DATA FLOW 33,221.65 EUR. BANK MANDIRI 1750003425542. INV 71274DD08062026. TxID O2076911130630029312567. | БиТрейд ВТБ→VDX | ПП №42 от 13.07.2026 | 2,966,008.56₽ за транспортные услуги | Агентский договор 4-01 от 13.05.2025 | заявка 70 | ИСПОЛНЕНО 13.07 14:33",
     "color": "FF92D050",
     "extra": "ВТС",
@@ -713,7 +713,7 @@
     "vdx_rate": 76.7,
     "exchange_to": "VDX",
     "received_usdt": 6974.29,
-    "sent_usdt": null,
+    "sent_usdt": 20749,
     "notes": "Курс VDX: 18,000 EUR → 20,577.11 USD (∼1.1432) | Поручение №28 от 13.07.2026 | ООО «Блэкшарк Энерго» → EXTOM-MEBLE SP ZO O SP K (Польша) | инвойс 46/26/DEX от 29.04.2026, мебель | договор 2701-27/1 от 27.01.26 | курс 88,05 = 1 584 900,00₽ | комиссия 1,6% (25 358,40₽) | частичная оплата счёта EXTOM на 40 558,71€ (Дре Русланд) | Приход: ПП №2516 1,584,900₽ (VO11100) + комиссия VO80050 4,754.70₽ + агент.вознагр. VO21100 25,358.40₽ | Перевод на VDX: 1,584,900₽ | Расчёт: 18,000 EUR → 20,577.11 USD @1.1432, /0.9965+100=20,749 USDT | 20,749×76.6647/0.995=1,598,709.41₽ | Доп.отправка на VDX: 1,605,683.70₽ (ПП №160, заявка 598)",
     "color": "FF92D050",
     "extra": "Дре Русланд",
@@ -833,7 +833,7 @@
     "vdx_rate": null,
     "exchange_to": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 25107.53,
     "notes": "Yiwu Genhan — IMX273LLR-C 960pcs PI#3K260618Q | advance PO 14.07.26 | BONBILL 17.07: O2076900476011544576193, Q8→Yiwu Genhan, 24,920 USD, JPMorgan HK, 2026-07-14 13:23:55. EXECUTED 🟢",
     "color": "FF92D050",
     "extra": "Платежи Компоненты",
@@ -1157,7 +1157,7 @@
     "vdx_rate": 78.635,
     "exchange_to": "VDX",
     "received_usdt": -10.9,
-    "sent_usdt": null,
+    "sent_usdt": 20686,
     "notes": "Faktura FV/3305/2026 от 24.06.2026. MAR-S Sp. z o.o. S.K.-A. (Польша) -> OOO DRE RUSSLAND TRADING. Мебель (диваны, кровати, уголки). 17,947.14 EUR. | Поручение Блэкшарк №1 от 20.07.2026. Курс 89.8998. RUB 1,613,444.30. Комиссия 1.6% | Updated TR №30: курс 90.21, RUB 1,619,011.49, комиссия 1.6% (25,904.18). | TR №30 v3: курс 89.70, RUB 1,609,858.45, комиссия 1.6% (25,757.73). | Выписка ЭТБ 20.07: ПП№2523 1,609,858.45₽ + ПП№2524 25,757.73₽ (агентское 1.6%) = rubles_received 1,635,616.18₽ | Кросс-курс EUR/USD: 1.1430 (17,947 EUR = 20,513.95 USD) | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading → MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED 🟡 | VDX CONFIRMATION 20.07 11:38 UTC: Luxora Trading -> MAR-S, SEPA, 17,947.14 EUR, INV FV/3305/2026. STATUS: INITIATED | RASCHEt: EUR->USD=1.1430, USDT=20 686, RUB=1 629 905,11 | VDX uvadomlenie 20.07: Blakshark->VDX 1,625,786.60 RUB, mebel, zayavka 618 (korrektsiya PP167) | PP No168 20.07: Blakshark ETB->VDX 1,625,786.60 RUB, zayavka 618, mebel. ISPOLNENO"
   },
   {
@@ -1272,7 +1272,8 @@
     "exchange_to": "VDX",
     "vdx_rate": 78.65,
     "received_usdt": 21778.43,
-    "calc": "ТЕЗ"
+    "calc": "ТЕЗ",
+    "sent_usdt": 21778.43
   },
   {
     "row": 65,
@@ -1330,7 +1331,7 @@
     "exchange_to": "VDX",
     "vdx_rate": 78.29,
     "received_usdt": 48.82,
-    "sent_usdt": null,
+    "sent_usdt": 6213,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
@@ -1350,7 +1351,7 @@
     "exchange_to": "VDX",
     "vdx_rate": 78.29,
     "received_usdt": 146.79,
-    "sent_usdt": null,
+    "sent_usdt": 24981,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
@@ -1426,7 +1427,7 @@
     "vdx_rate": 78.27,
     "exchange_to": "VDX",
     "received_usdt": 116.71,
-    "sent_usdt": null,
+    "sent_usdt": 17243,
     "notes": "Поручение №19 от 24.07.2026. Принципал: ИП Мазуренко И.А. Получатель: UAB EUROKUSTA (Литва, AB SEB bank CBVILT2X, LT357044060005218553). 15,000 EUR @ 88.89 = 1,333,350р. Комиссия 1.6% = 21,333.60р. Инвойс 8199 от 23.07.2026. STATE DUTY FOR VETERINARY SERVICES. | Alex VDX: Payment from TRANSPATH, INV 8199 dd 23.07.26, 15,000 EUR. Beneficiary: UAB Eurokusta (SEB, CBVILT2X, LT357044060005218553). OUR | Schet Eurokusta ot 23.07.26 (INV 8199): 15,000 EUR, SEB bank CBVILT2X | Energotransbank 24.07: PP431 1,333,350 RUB (veterinarnye uslugi) + PP432 21,333.60 (agentskoe voznagrazhdenie) ot IP Mazurenko po porucheniyu 19 | John 24.07: Блэкшарк ЭНЕРГОТРАНС→VDX, 1,358,744.40₽, вет.услуги, заявка 632, O:\\...\\ИП МАЗУРЕНКО ЭНЕРГОТРАНС\\вход 24.07.26 | ПП №174 24.07: Блэкшарк→VDX, 1,358,744.40₽, вет.услуги, заявка 632. ИСПОЛНЕНО | VDX 24.07: TRANSPATH→Eurokusta, 15,000 EUR, INV 8199, SEPA. Status: IN_PROGRESS (MT73) | MT73 CFTe 28.07: PAYOUT COMPLETED 15,000 EUR → UAB Eurokusta (SEPA). Status: COMPLETED.",
     "color": "FF92D050",
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
@@ -1527,7 +1528,7 @@
     "exchange_to": "VDX",
     "vdx_rate": 78.45,
     "received_usdt": "255.02",
-    "sent_usdt": null,
+    "sent_usdt": 34360,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
@@ -1547,7 +1548,7 @@
     "exchange_to": "VDX",
     "vdx_rate": 78.45,
     "received_usdt": "70.30",
-    "sent_usdt": null,
+    "sent_usdt": 20225,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
