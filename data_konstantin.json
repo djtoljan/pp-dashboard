@@ -759,7 +759,7 @@
     "sum": 299530,
     "currency": "EUR",
     "company": "INFINITE",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "299 530,00 × 1.15515161 = 346 003 USD; + 0,6% = 348 079 USDT",
     "extra": null,
@@ -769,7 +769,7 @@
     "vdx_rate": null,
     "received_usdt": 348828.27,
     "sent_usdt": 348079,
-    "notes": "Payment from INFINITE 05.08.2026 (Аlex @VDX_services): GROUPE SEB EXPORT MIDDLE E B (HSBC UAE, BBMEAEAD, a/c AE690200000026580852101). Invoice 4017275175 dd 06.07.26, 299 530,00 EUR, OUR. Вторая частичная оплата инвойса 4017275175 (первая — Row 26: 299 870 EUR от 24.07). Проформа SEB 1 500 000 EUR. Товар: Tefal/Moulinex. Плательщик: INFINITE. Жду кросс-курс для расчёта. | Расчёт 05.08.2026 (W&, t2911): 299 530,00 × 1.15515161 = 346 003 USD; + 0,6% = 348 079 USDT. Кошелёк INFINITE: TGKiahuQnjUJ5a1Cp1zNwUXJ13LYEaHxH3. | Bobr 05.08 12:06 UTC: IN 348 828,27 USDT на Рабочий 3 (от TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4 — кошелёк Константин). Под сделку INFINITE (расчёт 348 079 USDT, margin 749,27). | Bobr 05.08 12:12 UTC: OUT 348 079 USDT Рабочий 3 → TGKiahuQnjUJ5a1Cp1zNwUXJ13LYEaHxH3 (кошелёк INFINITE).",
+    "notes": "Payment from INFINITE 05.08.2026 (Аlex @VDX_services): GROUPE SEB EXPORT MIDDLE E B (HSBC UAE, BBMEAEAD, a/c AE690200000026580852101). Invoice 4017275175 dd 06.07.26, 299 530,00 EUR, OUR. Вторая частичная оплата инвойса 4017275175 (первая — Row 26: 299 870 EUR от 24.07). Проформа SEB 1 500 000 EUR. Товар: Tefal/Moulinex. Плательщик: INFINITE. Жду кросс-курс для расчёта. | Расчёт 05.08.2026 (W&, t2911): 299 530,00 × 1.15515161 = 346 003 USD; + 0,6% = 348 079 USDT. Кошелёк INFINITE: TGKiahuQnjUJ5a1Cp1zNwUXJ13LYEaHxH3. | Bobr 05.08 12:06 UTC: IN 348 828,27 USDT на Рабочий 3 (от TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4 — кошелёк Константин). Под сделку INFINITE (расчёт 348 079 USDT, margin 749,27). | Bobr 05.08 12:12 UTC: OUT 348 079 USDT Рабочий 3 → TGKiahuQnjUJ5a1Cp1zNwUXJ13LYEaHxH3 (кошелёк INFINITE). | SWIFT Outgoing Remittance SWF30433383 06.08.2026 (Тип 3 EXECUTED, Status Success): INFINITE SUNRISE ASI (PT. BANK RAKYAT INDONESIA, BRINIDJA, 0590***305) → GROUPE SEB EXPORT MIDDLE E B (HSBC UAE, BBMEAEADXXX, AE690200000026580852101). 299 530,00 EUR, Total fee 37,62 EUR, Total debit 299 567,62. Invoice 4017275175. UETR 0491d920. Value Date 06.08.2026.",
     "calc": "299 530 × 1.15515161 = 346 003 USD → +0,6% = 348 079 USDT (INFINITE)"
   }
 ]
