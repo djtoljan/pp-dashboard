@@ -2245,7 +2245,7 @@
     "sum": 25000,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "25 000 × 1.158553 = 28 963,83 USD + 0,3% + 30 = 29 080,72 USDT (кросс-курс 06.08, FX IBR 3088: 1 USD = 0,86314560895 EUR)",
     "extra": null,
@@ -2255,7 +2255,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 29080.72,
-    "notes": "Invoice 0034-093 ot 30.07.2026. Dolina Agro Ltd (Israel, Bank Leumi, SWIFT LUMIILITXXX, IBAN IL75107440000027660042) -> Q8 Group Limited (HK). 25 000,00 EUR, CIF Amst. 71 boxes. Payment Order 25 000 EUR. | Кросс-курс EUR 06.08 (FX IBR 3088): 1 USD = 0,86314560895 EUR (1 EUR = 1,158553 USD). Расчёт Q8: 25 000 × 1,158553 + 0,3% + 30 = 29 080,72 USDT."
+    "notes": "Invoice 0034-093 ot 30.07.2026. Dolina Agro Ltd (Israel, Bank Leumi, SWIFT LUMIILITXXX, IBAN IL75107440000027660042) -> Q8 Group Limited (HK). 25 000,00 EUR, CIF Amst. 71 boxes. Payment Order 25 000 EUR. | Кросс-курс EUR 06.08 (FX IBR 3088): 1 USD = 0,86314560895 EUR (1 EUR = 1,158553 USD). Расчёт Q8: 25 000 × 1,158553 + 0,3% + 30 = 29 080,72 USDT. | BONBILL Payment Certificate 06.08.2026 15:04:19 (Тип 7 Q8): Q8 GROUP LIMITED → Dolina Agro Ltd (BANK LEUMI LE-ISRAEL B.M., IL750107440000027660042). 25,000.00 EUR. Invoice 0043-093 DD 30.07.2026 For Flowers. TXID O208526066477078937620. EXECUTED 🟢"
   },
   {
     "row": 127,
