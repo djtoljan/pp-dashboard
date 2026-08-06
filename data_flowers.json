@@ -2238,5 +2238,24 @@
     "sent_usdt": null,
     "notes": "Выписка Блэкшарк ПОЧТОБАНК 05.08.2026: тело 5 793 760,85₽ {VO11200} + вознаграждение 144 844,02₽ {VO21100} от ООО ЦЕРЕРА (ИНН 9721131567), пор.43 от 05.08.2026, аг.договор WD-27 от 25.12.2025, контракт 10-02-2025 от 10.02.2025. | John/VDX 05.08.2026: Блэкшарк ПОЧТО → ВИДИКС, 5 938 604,87₽, цветы, заявка 665 (тело 5 793 760,85 + вознаграждение 144 844,02). | ПП №471 от 05.08.2026 ИСПОЛНЕНО: Блэкшарк ПОЧТО→VDX, 5 938 604.87₽, заяв.665 от 05.08.2026, цветы, Церера, VO60081.",
     "calc": null
+  },
+  {
+    "row": 126,
+    "date": "2026-08-06",
+    "sum": 25000,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": null,
+    "extra": "Invoice 0034-093 ot 30.07.2026. Dolina Agro Ltd (Israel, Bank Leumi, SWIFT LUMIILITXXX, IBAN IL75107440000027660042) -> Q8 Group Limited (HK). 25 000,00 EUR, CIF Amst. 71 boxes. Payment Order 25 000 EUR.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
