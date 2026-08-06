@@ -2256,5 +2256,24 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Invoice 0034-093 ot 30.07.2026. Dolina Agro Ltd (Israel, Bank Leumi, SWIFT LUMIILITXXX, IBAN IL75107440000027660042) -> Q8 Group Limited (HK). 25 000,00 EUR, CIF Amst. 71 boxes. Payment Order 25 000 EUR."
+  },
+  {
+    "row": 127,
+    "date": "2026-08-06",
+    "sum": 117347.87,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Bloom Market (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
