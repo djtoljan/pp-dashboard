@@ -1204,7 +1204,7 @@
     "company": "INFINITE",
     "color": "FFFFFFFF",
     "clientName": "Кристалл Джет",
-    "costFormula": null,
+    "costFormula": "71 368,14 + 0,4% = 71 654 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": "1201030.50 / 1201030.50 / 1201030.50 / 1201030.50 / 1070546.54",
@@ -1212,7 +1212,7 @@
     "vdx_rate": "80.8 / 80.8 / 80.8 / 80.8 / 80.8",
     "received_usdt": "14849.37 / 14849.37 / 14849.37 / 14849.37 / 13236.09",
     "sent_usdt": null,
-    "notes": "Proforma Invoice ST260804 от 04.08.2026 (Airport services and refueling 04.08.2026, 71,368.14 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 04.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. Hong Kong, 390205798, CITIHKHXXXX), назначение invoice No ST260804. | ПП №431 от 04.08.2026 ИСПОЛНЕНО: 1,201,030.50₽ (ООО Кристалл Джет, ГПБ Москва → ВиДиИкс Сервисез - ФЗКО, ПСБ Ярославль). ПП №432: 1,201,030.50₽. ПП №433: 1,201,030.50₽. ПП №434: 1,201,030.50₽. ПП №435: 1,070,546.54₽. Итого 5,874,668.54₽. {VO23210} Оплата за услуги по договору 210933/КД от 15.09.2021. НДС не облагается. Рубли на обмен VDX. | Заявка 06.08.2026 (Alex VDX): Payment from INFINITE, OUR. Beneficiary: FUJIA AUTOMAT LIMITED, 305-7 Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong. Citibank N.A. Hong Kong Branch, 49/F Champion Tower, 3 Garden Road, Central, HK. SWIFT CITIHKHXXXX, a/c 390205798. Inv ST260804 dd 04.08.26. 71,368.14 USD.",
+    "notes": "Proforma Invoice ST260804 от 04.08.2026 (Airport services and refueling 04.08.2026, 71,368.14 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 04.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. Hong Kong, 390205798, CITIHKHXXXX), назначение invoice No ST260804. | ПП №431 от 04.08.2026 ИСПОЛНЕНО: 1,201,030.50₽ (ООО Кристалл Джет, ГПБ Москва → ВиДиИкс Сервисез - ФЗКО, ПСБ Ярославль). ПП №432: 1,201,030.50₽. ПП №433: 1,201,030.50₽. ПП №434: 1,201,030.50₽. ПП №435: 1,070,546.54₽. Итого 5,874,668.54₽. {VO23210} Оплата за услуги по договору 210933/КД от 15.09.2021. НДС не облагается. Рубли на обмен VDX. | Заявка 06.08.2026 (Alex VDX): Payment from INFINITE, OUR. Beneficiary: FUJIA AUTOMAT LIMITED, 305-7 Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong. Citibank N.A. Hong Kong Branch, 49/F Champion Tower, 3 Garden Road, Central, HK. SWIFT CITIHKHXXXX, a/c 390205798. Inv ST260804 dd 04.08.26. 71,368.14 USD. | Расчёт 06.08.2026 (W& Платежи t2911): 71 368,14 + 0,4% = 71 654 USDT.",
     "calc": null
   },
   {
