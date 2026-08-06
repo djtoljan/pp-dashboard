@@ -1108,7 +1108,7 @@
     "sum": 32635,
     "currency": "EUR",
     "company": "INFINITE",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Фри Лайнс Компани",
     "costFormula": "32 635 EUR → 37608/(1-0.35%)+100 = 37840.09 USDT",
     "extra": null,
@@ -1118,7 +1118,7 @@
     "vdx_rate": "79.71 / 79.71",
     "received_usdt": "38152.2110538201 / 879.9500560782838",
     "sent_usdt": 37840.09,
-    "notes": "Поручение №19 от 30.07.2026 (Transfer Request No.19 from 30.07.2026). Принципал: АО Фри Лайнс Компани. Агент: VDX SERVICES - FZCO. Получатель: STLine OÜ (Таллин, Mere pst 4, 10111, рег.16701348, VAT EE102599192). AS LHV Pank, IBAN EE867700771009015833, SWIFT LHVBEE22. Инвойс 07-23/1 dd 23.07.2026, договор FLK от 01.01.2026. Курс 93.2789. RUB 3,044,156.90. Комиссия агента 70,211.03 руб. | Инвойс 07-23/1 dd 23.07.2026: TRANSPATH LOGISTIC LIMITED (5 Brayford Square, London E1 0SG, UK, code 16565909). Транспортная услуга: Germany 49196 (DE), 32,635 EUR. VAT 0%. Beneficiary: STLine OÜ (LHV Pank, EE867700771009015833, LHVBEE22). Оплата 30.07.2026. | VDX 31.07: курс 79.71/79.71, тез 38,152.21 / 879.95 | 03.08: Заявка — Payment from INFINITE (30.07.2026, OUR). | 03.08 (Alex 08:35 UTC): Кросс-курс EUR/USD = 1.15240530. 32,635 EUR → 37,608.74 USD. | 03.08 09:46 UTC: Transaction Confirmation PAYOUT — STATUS INITIATED. TRANSPATH LOGISTIC LIMITED → STLine OÜ (AS LHV Pank, EE867700771009015833), invoice 07-23/1, -32,635.00 EUR, SEPA. Account MT73CFTE28004000000000005036925.",
+    "notes": "Поручение №19 от 30.07.2026 (Transfer Request No.19 from 30.07.2026). Принципал: АО Фри Лайнс Компани. Агент: VDX SERVICES - FZCO. Получатель: STLine OÜ (Таллин, Mere pst 4, 10111, рег.16701348, VAT EE102599192). AS LHV Pank, IBAN EE867700771009015833, SWIFT LHVBEE22. Инвойс 07-23/1 dd 23.07.2026, договор FLK от 01.01.2026. Курс 93.2789. RUB 3,044,156.90. Комиссия агента 70,211.03 руб. | Инвойс 07-23/1 dd 23.07.2026: TRANSPATH LOGISTIC LIMITED (5 Brayford Square, London E1 0SG, UK, code 16565909). Транспортная услуга: Germany 49196 (DE), 32,635 EUR. VAT 0%. Beneficiary: STLine OÜ (LHV Pank, EE867700771009015833, LHVBEE22). Оплата 30.07.2026. | VDX 31.07: курс 79.71/79.71, тез 38,152.21 / 879.95 | 03.08: Заявка — Payment from INFINITE (30.07.2026, OUR). | 03.08 (Alex 08:35 UTC): Кросс-курс EUR/USD = 1.15240530. 32,635 EUR → 37,608.74 USD. | 03.08 09:46 UTC: Transaction Confirmation PAYOUT — STATUS INITIATED. TRANSPATH LOGISTIC LIMITED → STLine OÜ (AS LHV Pank, EE867700771009015833), invoice 07-23/1, -32,635.00 EUR, SEPA. Account MT73CFTE28004000000000005036925. | TRANSACTION CONFIRMATION PAYOUT MT73 06.08.2026 (Тип 3 EXECUTED, Status COMPLETED, Created 06.08.2026 07:46 UTC): TRANSPATH LOGISTIC LIMITED → STLine OÜ (AS LHV Pank, EE867700771009015833). 03.08.2026 09:46:50 UTC, SEPA, -32 635,00 EUR, Invoice 07-23/1 dd 23.07.2026. Account MT73CFTE28004000000000005036925.",
     "calc": null
   },
   {
@@ -1212,7 +1212,7 @@
     "vdx_rate": "80.8 / 80.8 / 80.8 / 80.8 / 80.8",
     "received_usdt": "14849.37 / 14849.37 / 14849.37 / 14849.37 / 13236.09",
     "sent_usdt": null,
-    "notes": "Proforma Invoice ST260804 от 04.08.2026 (Airport services and refueling 04.08.2026, 71,368.14 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 04.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. Hong Kong, 390205798, CITIHKHXXXX), назначение invoice No ST260804. | ПП №431 от 04.08.2026 ИСПОЛНЕНО: 1,201,030.50₽ (ООО Кристалл Джет, ГПБ Москва → ВиДиИкс Сервисез - ФЗКО, ПСБ Ярославль). ПП №432: 1,201,030.50₽. ПП №433: 1,201,030.50₽. ПП №434: 1,201,030.50₽. ПП №435: 1,070,546.54₽. Итого 5,874,668.54₽. {VO23210} Оплата за услуги по договору 210933/КД от 15.09.2021. НДС не облагается. Рубли на обмен VDX.",
+    "notes": "Proforma Invoice ST260804 от 04.08.2026 (Airport services and refueling 04.08.2026, 71,368.14 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 04.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. Hong Kong, 390205798, CITIHKHXXXX), назначение invoice No ST260804. | ПП №431 от 04.08.2026 ИСПОЛНЕНО: 1,201,030.50₽ (ООО Кристалл Джет, ГПБ Москва → ВиДиИкс Сервисез - ФЗКО, ПСБ Ярославль). ПП №432: 1,201,030.50₽. ПП №433: 1,201,030.50₽. ПП №434: 1,201,030.50₽. ПП №435: 1,070,546.54₽. Итого 5,874,668.54₽. {VO23210} Оплата за услуги по договору 210933/КД от 15.09.2021. НДС не облагается. Рубли на обмен VDX. | Заявка 06.08.2026 (Alex VDX): Payment from INFINITE, OUR. Beneficiary: FUJIA AUTOMAT LIMITED, 305-7 Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong. Citibank N.A. Hong Kong Branch, 49/F Champion Tower, 3 Garden Road, Central, HK. SWIFT CITIHKHXXXX, a/c 390205798. Inv ST260804 dd 04.08.26. 71,368.14 USD.",
     "calc": null
   },
   {
