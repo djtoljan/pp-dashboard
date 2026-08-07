@@ -2352,7 +2352,7 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 100,
     "sent_usdt": 3899,
     "notes": "Transaction Status Details PENDING APPROVAL 08.08.2026 00:42:19 (Тип 3 INITIATED): LEO SPOT CAPITAL → TESSAROSES S.A (BANCO PICHINCHA C.A., Ecuador), USD 3,780.84, TT, Ref 0805-2206-0187-5029, Transaction Date 10 Aug 2026, invoice 90614222 dd 03.07.26, Total Debit USD 3,816.84.",
     "calc": null
