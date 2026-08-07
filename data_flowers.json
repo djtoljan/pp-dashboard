@@ -2413,5 +2413,24 @@
     "sent_usdt": 40306,
     "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691, Ecuador). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡. ⚠️ Исправление: заявка была подписана EBF CARGO, но инвойс INV-3891011015 и банк.статус = PACIFIC AIR CARGO. | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡. ⚠️ Исправление: в заявке было указано EBF CARGO, но инвойс INV-3891011015 (Commercial Master Invoice) и SGB-статус — PACIFIC AIR CARGO S.A. | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡",
     "calc": null
+  },
+  {
+    "row": 135,
+    "date": "2026-08-07",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "HMI",
+    "color": "FFFFFFFF",
+    "clientName": "Luxus Blumen (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
