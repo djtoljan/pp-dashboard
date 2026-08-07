@@ -2325,7 +2325,7 @@
     "sum": 20000,
     "currency": "USD",
     "company": "HMI",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "DAVILA Y CURILLO (Цветы)",
     "costFormula": null,
     "extra": null,
@@ -2335,7 +2335,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "INV 260934 dd 30.07.26. DAVILA Y CURILLO CIA LTDA (Эквадор). PRODUBANCO, SWIFT PRODECEQ, IBAN 02041000516. Payment from HMI SGB, OUR. 20 000,00 USD.",
+    "notes": "INV 260934 dd 30.07.26. DAVILA Y CURILLO CIA LTDA (Эквадор). PRODUBANCO, SWIFT PRODECEQ, IBAN 02041000516. Payment from HMI SGB, OUR. 20 000,00 USD. | SGB Transaction Status 07.08.2026 (Task 2026080700062114, 14:25): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → DAVILA Y CURILLO CIA LTDA (PRODECEQ, 02041000516). 20 000,00 USD. invoice 260934 dd 30.07.26. Waiting for approval / Pending Approval 🟡",
     "calc": null
   },
   {
@@ -2363,7 +2363,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "HMI",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "SUBATI GROUPS (Цветы)",
     "costFormula": "INV SFL-270726 dd 27.07.26. SUBATI GROUPS LIMITED (Nairobi, Kenya). ABSA BANK KENYA PLC, SWIFT BARCKENX, Account 2035473753. Payment from HMI SGB, OUR. 10 000,00 USD.",
     "extra": null,
@@ -2373,7 +2373,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062119, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → SUBATI GROUPS LIMITED (BARCKENX, 2035473753, Nairobi Kenya). 10 000,00 USD. INV SFL-270726 dd 27.07.26. Waiting for approval / Pending Approval 🟡",
     "calc": null
   },
   {
@@ -2382,7 +2382,7 @@
     "sum": 40000,
     "currency": "USD",
     "company": "HMI",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "EBF CARGO (Цветы)",
     "costFormula": "INV INV-14543277732 dd 06.08.26. EBF CARGO CIA LTDA (Quito, Ecuador). PRODUBANCO, SWIFT PRODECEQ, Account 02005153421. Payment from HMI SGB, OUR. 40 000,00 USD.",
     "extra": null,
@@ -2392,7 +2392,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062116, 14:25): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → EBF CARGO CIA LTDA (PRODECEQ, 02005153421). 40 000,00 USD. INV-14543277732 dd 06.08.26. Waiting for approval / Pending Approval 🟡",
     "calc": null
   },
   {
@@ -2401,17 +2401,17 @@
     "sum": 40000,
     "currency": "USD",
     "company": "HMI",
-    "color": "FFFFFFFF",
-    "clientName": "EBF CARGO (Цветы)",
+    "color": "FFFFFF00",
+    "clientName": "PACIFIC AIR CARGO (Цветы)",
     "costFormula": "INV INV-3891011015 dd 06.08.26. EBF CARGO CIA LTDA (Quito, Ecuador). PRODUBANCO, SWIFT PRODECEQ, Account 02005153421. Payment from HMI SGB, OUR. 40 000,00 USD.",
-    "extra": null,
+    "extra": "PACIFIC AIR CARGO S.A. (Ecuador, PRODUBANCO, PRODECEQ). INV-3891011015 dd 06.08.26.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691, Ecuador). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡. ⚠️ Исправление: заявка была подписана EBF CARGO, но инвойс INV-3891011015 и банк.статус = PACIFIC AIR CARGO. | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡. ⚠️ Исправление: в заявке было указано EBF CARGO, но инвойс INV-3891011015 (Commercial Master Invoice) и SGB-статус — PACIFIC AIR CARGO S.A.",
     "calc": null
   }
 ]
