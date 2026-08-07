@@ -2404,14 +2404,14 @@
     "color": "FFFFFF00",
     "clientName": "PACIFIC AIR CARGO (Цветы)",
     "costFormula": "INV INV-3891011015 dd 06.08.26. EBF CARGO CIA LTDA (Quito, Ecuador). PRODUBANCO, SWIFT PRODECEQ, Account 02005153421. Payment from HMI SGB, OUR. 40 000,00 USD.",
-    "extra": "PACIFIC AIR CARGO S.A. (Ecuador, PRODUBANCO, PRODECEQ). INV-3891011015 dd 06.08.26.",
+    "extra": "INV-3891011015 dd 06.08.26. PACIFIC AIR CARGO S.A. (Ecuador, PRODUBANCO, PRODECEQ, Account 2005229691). Payment from HMI SGB, OUR. 40 000,00 USD.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691, Ecuador). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡. ⚠️ Исправление: заявка была подписана EBF CARGO, но инвойс INV-3891011015 и банк.статус = PACIFIC AIR CARGO. | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡. ⚠️ Исправление: в заявке было указано EBF CARGO, но инвойс INV-3891011015 (Commercial Master Invoice) и SGB-статус — PACIFIC AIR CARGO S.A.",
+    "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691, Ecuador). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡. ⚠️ Исправление: заявка была подписана EBF CARGO, но инвойс INV-3891011015 и банк.статус = PACIFIC AIR CARGO. | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡. ⚠️ Исправление: в заявке было указано EBF CARGO, но инвойс INV-3891011015 (Commercial Master Invoice) и SGB-статус — PACIFIC AIR CARGO S.A. | SGB Transaction Status 07.08.2026 (Task 2026080700062120, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → PACIFIC AIR CARGO SA (PRODECEQ, 2005229691). 40 000,00 USD. INV-3891011015 dd 06.08.26. Waiting for approval / Pending Approval 🟡",
     "calc": null
   }
 ]
