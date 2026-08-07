@@ -1202,7 +1202,7 @@
     "sum": 71368.14,
     "currency": "USD",
     "company": "INFINITE",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Кристалл Джет",
     "costFormula": "71 368,14 + 0,4% = 71 654 USDT",
     "extra": null,
@@ -1212,7 +1212,7 @@
     "vdx_rate": "80.8 / 80.8 / 80.8 / 80.8 / 80.8",
     "received_usdt": "14849.37 / 14849.37 / 14849.37 / 14849.37 / 13236.09",
     "sent_usdt": 71654,
-    "notes": "Proforma Invoice ST260804 от 04.08.2026 (Airport services and refueling 04.08.2026, 71,368.14 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 04.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. Hong Kong, 390205798, CITIHKHXXXX), назначение invoice No ST260804. | ПП №431 от 04.08.2026 ИСПОЛНЕНО: 1,201,030.50₽ (ООО Кристалл Джет, ГПБ Москва → ВиДиИкс Сервисез - ФЗКО, ПСБ Ярославль). ПП №432: 1,201,030.50₽. ПП №433: 1,201,030.50₽. ПП №434: 1,201,030.50₽. ПП №435: 1,070,546.54₽. Итого 5,874,668.54₽. {VO23210} Оплата за услуги по договору 210933/КД от 15.09.2021. НДС не облагается. Рубли на обмен VDX. | Заявка 06.08.2026 (Alex VDX): Payment from INFINITE, OUR. Beneficiary: FUJIA AUTOMAT LIMITED, 305-7 Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong. Citibank N.A. Hong Kong Branch, 49/F Champion Tower, 3 Garden Road, Central, HK. SWIFT CITIHKHXXXX, a/c 390205798. Inv ST260804 dd 04.08.26. 71,368.14 USD. | Расчёт 06.08.2026 (W& Платежи t2911): 71 368,14 + 0,4% = 71 654 USDT. | Bobr 06.08 08:27 UTC: OUT 71654 USDT с Рабочего 3 (TDE4qCrC...) на TNoXCMrohGyWRsLS9e6vfYJSDCRhJRe8Fo. Guarda Wallet TXID afc716c4d360caa7b20f64d7b55e21bdc23820ebb1bcc4770f6d7bda998cfe64. Q9: 🔴 ВЫХОД 06.08.2026 71654 USDT — Кристалл Джет (Молодёжь).",
+    "notes": "Proforma Invoice ST260804 от 04.08.2026 (Airport services and refueling 04.08.2026, 71,368.14 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 04.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. Hong Kong, 390205798, CITIHKHXXXX), назначение invoice No ST260804. | ПП №431 от 04.08.2026 ИСПОЛНЕНО: 1,201,030.50₽ (ООО Кристалл Джет, ГПБ Москва → ВиДиИкс Сервисез - ФЗКО, ПСБ Ярославль). ПП №432: 1,201,030.50₽. ПП №433: 1,201,030.50₽. ПП №434: 1,201,030.50₽. ПП №435: 1,070,546.54₽. Итого 5,874,668.54₽. {VO23210} Оплата за услуги по договору 210933/КД от 15.09.2021. НДС не облагается. Рубли на обмен VDX. | Заявка 06.08.2026 (Alex VDX): Payment from INFINITE, OUR. Beneficiary: FUJIA AUTOMAT LIMITED, 305-7 Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong. Citibank N.A. Hong Kong Branch, 49/F Champion Tower, 3 Garden Road, Central, HK. SWIFT CITIHKHXXXX, a/c 390205798. Inv ST260804 dd 04.08.26. 71,368.14 USD. | Расчёт 06.08.2026 (W& Платежи t2911): 71 368,14 + 0,4% = 71 654 USDT. | Bobr 06.08 08:27 UTC: OUT 71654 USDT с Рабочего 3 (TDE4qCrC...) на TNoXCMrohGyWRsLS9e6vfYJSDCRhJRe8Fo. Guarda Wallet TXID afc716c4d360caa7b20f64d7b55e21bdc23820ebb1bcc4770f6d7bda998cfe64. Q9: 🔴 ВЫХОД 06.08.2026 71654 USDT — Кристалл Джет (Молодёжь). | CashManagement Outgoing Remittance SWF30548571 07.08.2026 (Тип 3 EXECUTED, Status Success): INFINITE SUNRISE ASI (PT. BANK RAKYAT INDONESIA, BRINIDJA, 0590***305) → FUJIA AUTOMAT LIMITED (CITIBANK N.A., CITIHKHXXXX, 390205798). 71,368.14 USD, Total fee 33.90 USD, Total debit 71,402.04 USD. Inv ST260804. UETR 94b7160b-20af-4f6c-9584-da44311603ec. Value Date 07.08.2026.",
     "calc": null
   },
   {
