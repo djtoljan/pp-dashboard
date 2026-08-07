@@ -2356,5 +2356,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 132,
+    "date": "2026-08-07",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "HMI",
+    "color": "FFFFFFFF",
+    "clientName": "SUBATI GROUPS (Цветы)",
+    "costFormula": "INV SFL-270726 dd 27.07.26. SUBATI GROUPS LIMITED (Nairobi, Kenya). ABSA BANK KENYA PLC, SWIFT BARCKENX, Account 2035473753. Payment from HMI SGB, OUR. 10 000,00 USD.",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
