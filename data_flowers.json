@@ -2337,5 +2337,24 @@
     "sent_usdt": null,
     "notes": "INV 260934 dd 30.07.26. DAVILA Y CURILLO CIA LTDA (Эквадор). PRODUBANCO, SWIFT PRODECEQ, IBAN 02041000516. Payment from HMI SGB, OUR. 20 000,00 USD.",
     "calc": null
+  },
+  {
+    "row": 131,
+    "date": "2026-08-07",
+    "sum": 3780.84,
+    "currency": "USD",
+    "company": "LEO",
+    "color": "FFFFFFFF",
+    "clientName": "TESSAROSES (Цветы)",
+    "costFormula": "INV 90614222 dd 03.07.26. TESSAROSES S.A. (Quito, Ecuador). BANCO PICHINCHA, SWIFT PICHECEQ, IBAN 2100035225. Roses 7250 stems. Payment from LEO, OUR. 3 780,84 USD.",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
