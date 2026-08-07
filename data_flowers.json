@@ -2375,5 +2375,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 133,
+    "date": "2026-08-07",
+    "sum": 40000,
+    "currency": "USD",
+    "company": "HMI",
+    "color": "FFFFFFFF",
+    "clientName": "EBF CARGO (Цветы)",
+    "costFormula": "INV INV-14543277732 dd 06.08.26. EBF CARGO CIA LTDA (Quito, Ecuador). PRODUBANCO, SWIFT PRODECEQ, Account 02005153421. Payment from HMI SGB, OUR. 40 000,00 USD.",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
