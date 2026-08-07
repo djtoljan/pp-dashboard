@@ -796,7 +796,7 @@
     "sum": 25050.13,
     "currency": "EUR",
     "company": "CARGO",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(25 050,13 × 1,003 + 60) × 1,1540 = 29 063,81 USDT",
     "extra": "SIA REGINA TRADE (Latvia, Riga, Ilukstes str 32-72, LV 1082, VAT LV40103969575). Paysera LT, UAB, Pilaitės pr. 16, Vilnius, LT-04352, SWIFT EVIULT2VXXX, IBAN LT793500010011517070. Invoice REG270426 dd 27.04.2026. 25,050.13 EUR. OUR",
@@ -806,7 +806,7 @@
     "vdx_rate": null,
     "received_usdt": 29167.79,
     "sent_usdt": 29063.81,
-    "notes": "Заявка 06.08.2026 (Alex VDX): Payment from CARGO, OUR. Buyer: Cargo Pulse GmbH (Kolonnenstraße 8, 10827 Berlin, DE, VAT DE321407486, EURO DE45 1001 0123 4559 5692 21, SWIFT QNTODEB2XXX). Seller: SIA REGINA TRADE (Latvia, Riga, Ilukstes str 32-72, LV 1082, VAT LV40103969575, EORI LV40103969575). Paysera LT, UAB, Pilaitės pr. 16, Vilnius, LT-04352, Lithuania, SWIFT EVIULT2VXXX, IBAN LT793500010011517070. Invoice REG270426 dd 27.04.2026, payment bank transfer. 25,050.13 EUR: OSCULATI boat fittings (toggle/ladder/connector/switch/plug/seacock/filter/anode/vent etc.) + SPRADLING vinyl fabrics (NAU-9001, E122-2101, E122-4004, MRL-3210, MRL-3224, ZAN-3103, MES-3426). Net 1,921.18 / Gross 2,068.00 kg. | 👥 Решение Scream 06.08: клиент — Константин (Просто группа) (перенесено из Цветов, где строка была ошибочно создана как Cargo (Цветы)). | Расчёт 06.08.2026 (W& Платежи t2911): (25 050,13 × 1,003 + 60) × 1,1540 = 29 063,814 USDT. | Bobr 06.08 10:51 UTC: OUT 29,063.814 USDT с Рабочего 3 (TDE4qCrC...) на TDGz7gppFV7NG7FKoNL1fBn4Gt33SHa9EZ. Q9: 🔴 ВЫХОД 06.08.2026 29063.81 USDT — Константин (Просто группа). | Guarda Wallet TXID fa7105b64c6dc183b3be1cd6965039d55b57515390d851456fc52aa31b50c750 (tronscan.org). | Bobr 06.08 12:13 UTC: IN 68,330.19 USDT на Рабочий 3 от TX6kQeaQsy... (Константин). Разбивка Scream: 29,167.79 → строка 44 (CARGO, не-Q8). Q9: 🟢 ВХОД 06.08.2026 68330.19 USDT — Константин (Просто группа). | Банк.статус 07.08.2026 (скрин, Alex VDX): перевод -25 050,13 EUR → SIA REGINA TRADE (IBAN LT79 3500 0100 1151 7070, BIC EVIULT2VXXX), дата 06.08.2026, purpose inv REG270426 dd 27.04.26. INITIATED 🟡",
+    "notes": "Заявка 06.08.2026 (Alex VDX): Payment from CARGO, OUR. Buyer: Cargo Pulse GmbH (Kolonnenstraße 8, 10827 Berlin, DE, VAT DE321407486, EURO DE45 1001 0123 4559 5692 21, SWIFT QNTODEB2XXX). Seller: SIA REGINA TRADE (Latvia, Riga, Ilukstes str 32-72, LV 1082, VAT LV40103969575, EORI LV40103969575). Paysera LT, UAB, Pilaitės pr. 16, Vilnius, LT-04352, Lithuania, SWIFT EVIULT2VXXX, IBAN LT793500010011517070. Invoice REG270426 dd 27.04.2026, payment bank transfer. 25,050.13 EUR: OSCULATI boat fittings (toggle/ladder/connector/switch/plug/seacock/filter/anode/vent etc.) + SPRADLING vinyl fabrics (NAU-9001, E122-2101, E122-4004, MRL-3210, MRL-3224, ZAN-3103, MES-3426). Net 1,921.18 / Gross 2,068.00 kg. | 👥 Решение Scream 06.08: клиент — Константин (Просто группа) (перенесено из Цветов, где строка была ошибочно создана как Cargo (Цветы)). | Расчёт 06.08.2026 (W& Платежи t2911): (25 050,13 × 1,003 + 60) × 1,1540 = 29 063,814 USDT. | Bobr 06.08 10:51 UTC: OUT 29,063.814 USDT с Рабочего 3 (TDE4qCrC...) на TDGz7gppFV7NG7FKoNL1fBn4Gt33SHa9EZ. Q9: 🔴 ВЫХОД 06.08.2026 29063.81 USDT — Константин (Просто группа). | Guarda Wallet TXID fa7105b64c6dc183b3be1cd6965039d55b57515390d851456fc52aa31b50c750 (tronscan.org). | Bobr 06.08 12:13 UTC: IN 68,330.19 USDT на Рабочий 3 от TX6kQeaQsy... (Константин). Разбивка Scream: 29,167.79 → строка 44 (CARGO, не-Q8). Q9: 🟢 ВХОД 06.08.2026 68330.19 USDT — Константин (Просто группа). | Банк.статус 07.08.2026 (скрин, Alex VDX): перевод -25 050,13 EUR → SIA REGINA TRADE (IBAN LT79 3500 0100 1151 7070, BIC EVIULT2VXXX), дата 06.08.2026, purpose inv REG270426 dd 27.04.26. INITIATED 🟡 | ZAHLUNGSBELEG / PROOF OF PAYMENT (Qonto) 06.08.2026: Cargo Pulse GmbH (DE45100101234559569221, QNTODEB2XXX) → SIA REGINA TRADE (LT793500010011517070, EVIULT2VXXX), 25 050,13 EUR, ref inv REG270426 dd 27.04.26. Платёж исполнен → 🟢.",
     "calc": null,
     "row": 42
   },
@@ -846,6 +846,25 @@
     "received_usdt": 19354.89,
     "sent_usdt": 19344.08,
     "notes": "Заявка 06.08.2026 (Application for transfer 16_621.00_EUR_06.08.2026): Payment for glue to invoice No. D-BZT-34 dd 31.07.2026. Beneficiary bank: UAB Stanhope Financial (UPES G. 23, Vilnius, LT-08128, Lithuania), IBAN LT843981120000002353, SWIFT USTILT2VXXX. Beneficiary: BZT Master Cargo Kft (1141 Budapest, Mogyoródi út 85, Hungary). Customer: OMNEX TRADING LIMITED. 16,621.00 EUR. | Proforma D-BZT-34 от 31.07.2026 (issue 31.07, due 10.08.2026): PU200S/BK/4000 SUMMER RESIN KIT 50шт 4,156.00 + PU200W/BK/4000 Winter Resin Kit 150шт 12,465.00 = 16,621.00 EUR. Gross 6,033,257 HUF (MNB 362.99). | Bobr 07.08 12:22:42 UTC: IN 19 354,89 USDT на Рабочий 3 от TX6kQe…mYcP9 (Константин). Под заявку 16 621 EUR (BZT Master Cargo / OMNEX). | TRANSACTION CONFIRMATION PAYOUT MT35CFTE28004000000000005036930 07.08.2026 (Тип 3 INITIATED, Status INITIATED, Created 07.08.2026 13:59 UTC): OMNEX TRADING LIMITED → BZT Master Cargo Kft (IBAN LT843981120000002353), SEPA, -16,621.00 EUR, INV D-BZT-34 dd 31.07.26.",
+    "calc": null
+  },
+  {
+    "row": 45,
+    "date": "2026-08-06",
+    "sum": 38100,
+    "currency": "EUR",
+    "company": "CARGO",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": "LONGHI SPA (Italia, UNCRITM1335, IT04J0200822900000107382160). Invoice 557 DD 24/06/2026. 38 100,00 EUR. Платит Cargo Pulse GmbH.",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
     "calc": null
   }
 ]
