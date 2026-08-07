@@ -2344,7 +2344,7 @@
     "sum": 3780.84,
     "currency": "USD",
     "company": "LEO",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "TESSAROSES (Цветы)",
     "costFormula": "3,780.84 USD * 1.005 + 100 = 3,899 USDT",
     "extra": null,
@@ -2354,7 +2354,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 3899,
-    "notes": null,
+    "notes": "Transaction Status Details PENDING APPROVAL 08.08.2026 00:42:19 (Тип 3 INITIATED): LEO SPOT CAPITAL → TESSAROSES S.A (BANCO PICHINCHA C.A., Ecuador), USD 3,780.84, TT, Ref 0805-2206-0187-5029, Transaction Date 10 Aug 2026, invoice 90614222 dd 03.07.26, Total Debit USD 3,816.84.",
     "calc": null
   },
   {
