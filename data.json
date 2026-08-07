@@ -1382,7 +1382,7 @@
     "clientName": "ВТС",
     "costFormula": "78,000 + 0.4% = 78,312 USDT",
     "extra": "ВТС",
-    "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% predoplata ot 156,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX invoice 72694: 1,092 × 78.80 = 86,049.60₽. | VDX 22.07: 6,232,449.60 RUB na VDX, za oborudovanie, zayavka 78 | Alex VDX: INV GBIT20260717 dd 17.07.26, 78,000 USD, Payent from INFINITE, GOLDEN BOXX (HK), OUR | Bobr 24.07 13:07: 78,312 USDT OUT to TW6aXd...Hj (Infinite) | Инвойс услуг БиТрейд №72694 (2 часть) от 07.08.2026: посреднические услуги по проведению расчётов с иностранным поставщиком 1 092,00 USD @ курс 82,6000 = 90 199,20₽. Покупатель ООО «ВТС», дог. 27062025TК/1 от 24.06.2025. БиТрейд Кей Джи: ВТБ, р/с 40807810525640000008.",
+    "notes": "Поручение №72694 от 22.07.2026. Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (VDX). Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг). ICBC Asia, SWIFT UBHKHKHH, счёт 719530008863. Сумма: 78,000 USD (50% predoplata ot 156,000). Контракт: 21-07/1 dd 21.07.2026. Инвойс: GBIT20260717 dd 17.07.2026. Курс: 78.80 USD/RUB. RUB-эквивалент: 6,146,400 ₽. Комиссия агента: 1.4%. Ball Mill with Ceramic Grinding Jars GMS10-4, 6 шт. EXW Shanghai, TT. VDX invoice 72694: 1,092 × 78.80 = 86,049.60₽. | VDX 22.07: 6,232,449.60 RUB na VDX, za oborudovanie, zayavka 78 | Alex VDX: INV GBIT20260717 dd 17.07.26, 78,000 USD, Payent from INFINITE, GOLDEN BOXX (HK), OUR | Bobr 24.07 13:07: 78,312 USDT OUT to TW6aXd...Hj (Infinite)",
     "row": 70,
     "rubles_received": "6146400.00 / 86049.60",
     "sent_rubles_vdx": "6232449.60",
@@ -2131,7 +2131,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Инвойс услуг БиТрейд №72694 (2 часть) от 07.08.2026: посреднические услуги по проведению расчётов с иностранным поставщиком 1 092,00 USD @ курс 82,6000 = 90 199,20₽. Покупатель ООО «ВТС», дог. 27062025TК/1 от 24.06.2025. БиТрейд Кей Джи: ВТБ, р/с 40807810525640000008.",
     "calc": null
   }
 ]
