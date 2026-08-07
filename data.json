@@ -2114,5 +2114,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 109,
+    "date": "2026-08-07",
+    "sum": 78000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": "Поручение №72694 (2 часть) от 07.08.2026 (Transfer Request No 72694): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи» (Кыргызстан), дог. 20102025TК/2 от 20.10.2025. Получатель: GOLDEN BOXX DEVELOPMENT LIMITED (Гонконг, ICBC Asia, UBHKHKHH, счёт 719530008863). 78 000,00 USD. Инвойс GBIT20260717 dd 17.07.2026, контракт 21-07/1 dd 21.07.2026 (2-я часть, остаток 50% от 156 000). Курс 82,6000, RUB 6 442 800,00. Комиссия агента 1,4%. Срок 5-10 банк. дней.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
