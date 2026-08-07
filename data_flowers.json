@@ -2299,5 +2299,24 @@
     "sent_usdt": 15175,
     "notes": "Заявка 06.08.2026 (Alex VDX): Payment from LEO, OUR. Beneficiary: UNIFLOR L.L.C-FZ, Meydan Grandstand 6F, Meydan Road, Nad Al Sheba, Dubai. Emirates Islamic, MEBLAEADXXX, AE530340003708515772902. INV 4/2026 dd 09.07.26. 15,000.00 USD. | Transaction Status Details 06.08.2026 15:31:55: PENDING APPROVAL (INITIATED). LEO SPOT CAPITAL (a/c 0123-7824-012) → UNIFLOR L.L.C-FZ. Ref 0805-2186-0186-4926. Total debit 15,044.75 USD (cable 3.00 + provision 23.00 + fee 18.75). OUR. Purpose 2098. | Bobr 06.08 15:12 UTC: OUT 15,175 USDT с Рабочего 3 на TLmdAeQMFFfhFEqGkMZ4aiC86jvbhoDmiV (UNIFLOR). Guarda/TronScan hash 40f12dd2b5bdea3a206808fc73bf6e3ed00d55e25e595d88c5edb5753ba296db. Q9: 🔴 ВЫХОД 06.08.2026 15175 USDT — UNIFLOR (Цветы). Леджер: OUT 15175 USDT Рабочий 3 (q9_sent).",
     "calc": null
+  },
+  {
+    "row": 129,
+    "date": "2026-08-07",
+    "sum": 70534.58,
+    "currency": "EUR",
+    "company": "GREENGROW",
+    "color": "FFFFFFFF",
+    "clientName": "Bloom Market (Цветы)",
+    "costFormula": "INV BL-P01/070826 dd 07.08.26. Bloom Market EOOD (Burgas, Bulgaria, Bank Stanhope Financial UAB, IBAN LT453981120000002667, SWIFT USTILT2VXXX). ROSA 120000 pcs @ EUR 0.43 = EUR 51 600,00 + logistics EUR 18 934,58 = EUR 70 534,58. VAT 0% (Art.138(1)). Buyer: GREENGROW INTERNATIONAL LIMITED (UK). Payment from GREENGROW, OUR.",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
