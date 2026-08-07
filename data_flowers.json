@@ -2306,7 +2306,7 @@
     "sum": 70534.58,
     "currency": "EUR",
     "company": "GREENGROW",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Bloom Market (Цветы)",
     "costFormula": null,
     "extra": null,
@@ -2316,7 +2316,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "INV BL-P01/070826 dd 07.08.26. Bloom Market EOOD (Burgas, Bulgaria, Bank Stanhope Financial UAB, IBAN LT453981120000002667, SWIFT USTILT2VXXX). ROSA 120000 pcs @ EUR 0.43 = EUR 51 600,00 + logistics EUR 18 934,58 = EUR 70 534,58. VAT 0% (Art.138(1)). Buyer: GREENGROW INTERNATIONAL LIMITED (UK). Payment from GREENGROW, OUR.",
+    "notes": "INV BL-P01/070826 dd 07.08.26. Bloom Market EOOD (Burgas, Bulgaria, Bank Stanhope Financial UAB, IBAN LT453981120000002667, SWIFT USTILT2VXXX). ROSA 120000 pcs @ EUR 0.43 = EUR 51 600,00 + logistics EUR 18 934,58 = EUR 70 534,58. VAT 0% (Art.138(1)). Buyer: GREENGROW INTERNATIONAL LIMITED (UK). Payment from GREENGROW, OUR. | TRANSACTION CONFIRMATION PAYOUT 07.08.2026 10:19 UTC: Greengrow International Limited → Bloom Market EOOD (IBAN LT453981120000002667). invoice BL-P01/070826 dd 07.08.26, -70534.58 EUR. SEPA. Status: INITIATED 🟡",
     "calc": null
   },
   {
