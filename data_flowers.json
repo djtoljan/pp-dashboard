@@ -2318,5 +2318,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 130,
+    "date": "2026-08-07",
+    "sum": 20000,
+    "currency": "USD",
+    "company": "HMI",
+    "color": "FFFFFFFF",
+    "clientName": "DAVILA Y CURILLO (Цветы)",
+    "costFormula": "INV 260934 dd 30.07.26. DAVILA Y CURILLO CIA LTDA (Эквадор). PRODUBANCO, SWIFT PRODECEQ, IBAN 02041000516. Payment from HMI SGB, OUR. 20 000,00 USD.",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
