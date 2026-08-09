@@ -2099,25 +2099,6 @@
   {
     "row": 107,
     "date": "2026-08-07",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": null,
-    "clientName": null,
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
-  },
-  {
-    "row": 108,
-    "date": "2026-08-07",
     "sum": 78000,
     "currency": "USD",
     "company": null,
@@ -2135,7 +2116,7 @@
     "calc": null
   },
   {
-    "row": 109,
+    "row": 108,
     "date": "2026-08-07",
     "sum": null,
     "currency": null,
