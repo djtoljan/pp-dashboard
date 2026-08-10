@@ -2420,7 +2420,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "HMI",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Luxus Blumen (Цветы)",
     "costFormula": "10,000.00 USD / 0.994 + 65.00 = 10,125 USDT",
     "extra": null,
@@ -2430,7 +2430,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10125,
-    "notes": "INV 271876 dd 10.07.2026. LUXUS BLUMEN S.A. (Ecuador, PRODUBANCO, SWIFT PRODECEQ, iban 02005190602). Roses. Payment from HMI SGB, OUR. 10 000,00 USD. | Сводный HK-расчёт 07.08.2026: 10,000.00 USD / 0.994 + 65.00 = 10,125 USDT (в составе 226 654 USDT). | Bobr 07.08 19:01: OUT 226 654 USDT (Рабочий 3 → THGvgL4TZPnPi5sRCgbuFBkZBW68N9j4s9), в т.ч. Luxus Blumen 10 125. ⚠️ Инвойс 271876 также был оплачен Q8 30.07 (Row 106) — повторная оплата через HMI, подтверждена Scream.",
+    "notes": "INV 271876 dd 10.07.2026. LUXUS BLUMEN S.A. (Ecuador, PRODUBANCO, SWIFT PRODECEQ, iban 02005190602). Roses. Payment from HMI SGB, OUR. 10 000,00 USD. | Сводный HK-расчёт 07.08.2026: 10,000.00 USD / 0.994 + 65.00 = 10,125 USDT (в составе 226 654 USDT). | Bobr 07.08 19:01: OUT 226 654 USDT (Рабочий 3 → THGvgL4TZPnPi5sRCgbuFBkZBW68N9j4s9), в т.ч. Luxus Blumen 10 125. ⚠️ Инвойс 271876 также был оплачен Q8 30.07 (Row 106) — повторная оплата через HMI, подтверждена Scream. | SWIFT pacs.008 10.08.2026 (Alex @VDX_services): HUAMEI INTERNATIONAL TRADING LIMITED (SGBDBHB2) → LUXUS BLUMEN S.A. (PRODECEQ, 02005190602, Ecuador). 10 000,00 USD. invoice 271876 dd 10.07.26. Status ACKed (EXECUTED).",
     "calc": null
   }
 ]
