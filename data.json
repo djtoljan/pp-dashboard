@@ -2171,5 +2171,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 111,
+    "date": "2026-08-10",
+    "sum": 17630.23,
+    "currency": "EUR",
+    "company": "LUXORA",
+    "color": "FFFFFFFF",
+    "clientName": "Дре Русланд",
+    "costFormula": null,
+    "extra": "Поручение №35 от 10.08.2026 (Transfer Request No.35 from 10/08/26) по дог. 2701-27/1 от 27.01.26. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО «Блэкшарк Трейд». Получатель: MAR-S SP Z O O (Польша, BRALIN, ul. Namysłowska 9B). Santander Bank Polska S.A., SWIFT WBKPPLPP, IBAN PL86109011440000000122754883. Инвойс FV/3697/2026 от 23.07.2026 (мебель: диваны, кровати, уголки; фактура 74,047.00 PLN, курс 4.2 = 17,630.23 EUR). Курс 95.6000. RUB 1,685,449.99. Комиссия 1,6% (26,967.20). Срок 2-3 банк. дня",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
