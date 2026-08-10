@@ -847,5 +847,24 @@
     "sent_usdt": 19326.29,
     "notes": "Заявка 06.08.2026 (Application for transfer 16_621.00_EUR_06.08.2026): Payment for glue to invoice No. D-BZT-34 dd 31.07.2026. Beneficiary bank: UAB Stanhope Financial (UPES G. 23, Vilnius, LT-08128, Lithuania), IBAN LT843981120000002353, SWIFT USTILT2VXXX. Beneficiary: BZT Master Cargo Kft (1141 Budapest, Mogyoródi út 85, Hungary). Customer: OMNEX TRADING LIMITED. 16,621.00 EUR. | Proforma D-BZT-34 от 31.07.2026 (issue 31.07, due 10.08.2026): PU200S/BK/4000 SUMMER RESIN KIT 50шт 4,156.00 + PU200W/BK/4000 Winter Resin Kit 150шт 12,465.00 = 16,621.00 EUR. Gross 6,033,257 HUF (MNB 362.99). | Bobr 07.08 12:22:42 UTC: IN 19 354,89 USDT на Рабочий 3 от TX6kQe…mYcP9 (Константин). Под заявку 16 621 EUR (BZT Master Cargo / OMNEX). | TRANSACTION CONFIRMATION PAYOUT MT35CFTE28004000000000005036930 07.08.2026 (Тип 3 INITIATED, Status INITIATED, Created 07.08.2026 13:59 UTC): OMNEX TRADING LIMITED → BZT Master Cargo Kft (IBAN LT843981120000002353), SEPA, -16,621.00 EUR, INV D-BZT-34 dd 31.07.26.",
     "calc": null
+  },
+  {
+    "row": 45,
+    "date": "2026-08-10",
+    "sum": 226480.4,
+    "currency": "USD",
+    "company": "HMI",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "Payment from HMI → KitchenAid Europa Inc. (Nijverheidslaan 3 BP 5, B-1853 Strombeek-Bever, Belgium). BNP Paribas Fortis, SWIFT GEBABEBB, BE50001888300818. Invoice 6231292366 dd 06.07.26. 226,480.40 USD (частичная оплата, общая сумма инвойса 552,197.50 USD). OUR.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
