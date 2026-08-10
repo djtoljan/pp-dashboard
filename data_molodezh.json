@@ -1370,22 +1370,23 @@
     "calc": null
   },
   {
-    "row": 77,
+    "row": 78,
     "date": "2026-08-10",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
+    "sum": 17030.61,
+    "currency": "USD",
+    "company": "INFINITE",
+    "color": "FFFFFFFF",
     "clientName": "Кристалл Джет",
     "costFormula": null,
-    "extra": null,
+    "extra": "Кристалл Джет",
     "rubles_received": null,
     "sent_rubles_vdx": "934503.43 / 502566.47",
     "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "ПП №452 от 10.08.2026 ИСПОЛНЕН 14:37:16 + ПП №453 от 10.08.2026. Плательщик: ООО \"Кристалл Джет\" (ГПБ, БИК 044525823). Получатель: ВиДиИкс Сервисез - ФЗКО (VDX, ПСБ Ярославль, БИК 044525555). 934 503,43₽ + 502 566,47₽ = 1 437 069,90₽. {VO21200} Оплата за услуги по договору 210701/PJ от 01.07.2021. НДС не облагается.",
-    "calc": null
+    "notes": "Proforma Invoice ST260810-01 от 10.08.2026 (Airport services and refueling 10.08.2026, 17,030.61 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 10.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. HK, 390205798, CITIHKHXXXX), 17,030.61 USD, invoice No ST260810-01. Рубли на VDX (Кристалл Джет): 934,503.43 + 502,566.47 = 1,437,069.90₽ (ПП №452, №453 от 10.08.2026), подразумеваемый курс ~84.38. Курс VDX не подтверждён rate table — vdx_rate пуст.",
+    "calc": null,
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   }
 ]
