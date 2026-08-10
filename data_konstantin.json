@@ -856,14 +856,14 @@
     "company": "HMI",
     "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "226,480.40 / 0,997 + 65 = 227,227 USDT",
     "extra": "Payment from HMI → KitchenAid Europa Inc. (Nijverheidslaan 3 BP 5, B-1853 Strombeek-Bever, Belgium). BNP Paribas Fortis, SWIFT GEBABEBB, BE50001888300818. Invoice 6231292366 dd 06.07.26. 226,480.40 USD (частичная оплата, общая сумма инвойса 552,197.50 USD). OUR.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 227612.8,
-    "sent_usdt": null,
+    "sent_usdt": 227227,
     "notes": "Bobr Alert 10.08 12:34 MSK: IN 227,612.8 USDT на Рабочий 3 от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5 (Константин) = 226,480.40 × 1.005 | SGB 10.08 17:33 Task 2026081000010078: HUAMEI (HK) → KitchenAid Europa Inc. 226,480.40 USD, GEBABEBB, BE50001888300818, inv 6231292366 dd 06.07.26. Waiting for approval 🟡",
     "calc": null
   }
