@@ -2190,5 +2190,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 112,
+    "date": "2026-08-10",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "FININVEST",
+    "costFormula": null,
+    "extra": "Выписка Блэкшарк ПОЧТОБАНК 10.08.2026: приход от ФИНИНВЕСТ (АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ», ИНН 9909705580, счёт 40807810324600000016) 2 990 533,35 ₽ {VO60081} Оплата по Агентскому Договору",
+    "rubles_received": "2990533.35",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
