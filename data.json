@@ -2152,5 +2152,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 110,
+    "date": "2026-08-10",
+    "sum": 1536756.5,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": null,
+    "costFormula": null,
+    "extra": "Проформа HWG2026-0729-01PI от 29.07.2026. Продавец: HAEWON GLOBAL Co Ltd (Корея, IBK Pyeongchon, IBKOKRSEX, 931-038712-56-00019). Покупатель: ИП Сыромятникова Ольга Геннадьевна (44024, Омск, ул. Лермонтова 62, кв. 20). Товар: PET CHIPS YS-Y01 (IV 0.83), HS 3907610000, 230 МТ × RMB 6,681.55 = 1,536,756.50 RMB. Оплата: 100% до 15.08.2026, частичные платежи разрешены. FOB DALIAN → Владивосток. Контракт HWG2026-0729-01C от 29.07.2026. КЛИЕНТ НЕИЗВЕСТЕН - уточнить",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
