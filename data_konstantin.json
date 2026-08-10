@@ -862,9 +862,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 227612.8,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Bobr Alert 10.08 12:34 MSK: IN 227,612.8 USDT на Рабочий 3 от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5 (Константин) = 226,480.40 × 1.005",
     "calc": null
   }
 ]
