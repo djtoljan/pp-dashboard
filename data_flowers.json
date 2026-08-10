@@ -2325,7 +2325,7 @@
     "sum": 20000,
     "currency": "USD",
     "company": "HMI",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "DAVILA Y CURILLO (Цветы)",
     "costFormula": "20,000.00 USD / 0.994 + 65.00 = 20,186 USDT",
     "extra": null,
@@ -2335,7 +2335,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 20186,
-    "notes": "INV 260934 dd 30.07.26. DAVILA Y CURILLO CIA LTDA (Эквадор). PRODUBANCO, SWIFT PRODECEQ, IBAN 02041000516. Payment from HMI SGB, OUR. 20 000,00 USD. | SGB Transaction Status 07.08.2026 (Task 2026080700062114, 14:25): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → DAVILA Y CURILLO CIA LTDA (PRODECEQ, 02041000516). 20 000,00 USD. invoice 260934 dd 30.07.26. Waiting for approval / Pending Approval 🟡",
+    "notes": "INV 260934 dd 30.07.26. DAVILA Y CURILLO CIA LTDA (Эквадор). PRODUBANCO, SWIFT PRODECEQ, IBAN 02041000516. Payment from HMI SGB, OUR. 20 000,00 USD. | SGB Transaction Status 07.08.2026 (Task 2026080700062114, 14:25): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → DAVILA Y CURILLO CIA LTDA (PRODECEQ, 02041000516). 20 000,00 USD. invoice 260934 dd 30.07.26. Waiting for approval / Pending Approval 🟡 | SWIFT pacs.008 10.08.2026 (Alex @VDX_services): HUAMEI INTERNATIONAL TRADING LIMITED (SGBDBHB2) → DAVILA Y CURILLO CIA LTDA (PRODECEQ, 02041000516, Ecuador). 20 000,00 USD. invoice 260934 dd 30.07.26. Status ACKed (EXECUTED).",
     "calc": null
   },
   {
@@ -2363,7 +2363,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "HMI",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "SUBATI GROUPS (Цветы)",
     "costFormula": "10,000.00 USD / 0.994 + 65.00 = 10,125 USDT",
     "extra": null,
@@ -2373,7 +2373,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10125,
-    "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062119, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → SUBATI GROUPS LIMITED (BARCKENX, 2035473753, Nairobi Kenya). 10 000,00 USD. INV SFL-270726 dd 27.07.26. Waiting for approval / Pending Approval 🟡",
+    "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062119, 14:34): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → SUBATI GROUPS LIMITED (BARCKENX, 2035473753, Nairobi Kenya). 10 000,00 USD. INV SFL-270726 dd 27.07.26. Waiting for approval / Pending Approval 🟡 | SWIFT pacs.008 10.08.2026 (Alex @VDX_services): HUAMEI INTERNATIONAL TRADING LIMITED (HK, SGBDBHB2) → SUBATI GROUPS LIMITED (Кения, BARCKENX, 2035473753). 10 000,00 USD. INV SFL-270726 dd 27.07.26. Status ACKed (выполнено).",
     "calc": null
   },
   {
