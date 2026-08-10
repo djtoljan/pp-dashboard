@@ -2382,7 +2382,7 @@
     "sum": 40000,
     "currency": "USD",
     "company": "HMI",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "EBF CARGO (Цветы)",
     "costFormula": "40,000.00 USD / 0.994 + 65.00 = 40,306 USDT",
     "extra": null,
@@ -2392,7 +2392,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 40306,
-    "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062116, 14:25): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → EBF CARGO CIA LTDA (PRODECEQ, 02005153421). 40 000,00 USD. INV-14543277732 dd 06.08.26. Waiting for approval / Pending Approval 🟡",
+    "notes": " | SGB Transaction Status 07.08.2026 (Task 2026080700062116, 14:25): HUAMEI INTERNATIONAL TRADING LIMITED (HK) → EBF CARGO CIA LTDA (PRODECEQ, 02005153421). 40 000,00 USD. INV-14543277732 dd 06.08.26. Waiting for approval / Pending Approval 🟡 | SWIFT pacs.008 10.08.2026 (Alex @VDX_services): HUAMEI INTERNATIONAL TRADING LIMITED (SGBDBHB2) → EBF CARGO CIA LTDA (PRODECEQ, 02005153421, Ecuador). 40 000,00 USD. INV INV-14543277732 dd 06.08.26. Status ACKed (EXECUTED).",
     "calc": null
   },
   {
