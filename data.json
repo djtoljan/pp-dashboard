@@ -2144,13 +2144,13 @@
     "clientName": "Логолок",
     "costFormula": null,
     "extra": "Поручение №19 от 10.08.2026: ООО «Логолок»→Блэкшарк Трейд. Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (Hong Kong). China Construction Bank Shenzhen, PCBCCNBJSZX. Счёт NRA44250110076300002094. Инвойсы: PI0082KATE2643,2651,2659-ZDECL,2660-TAP,2662 (30%),2665 (50%),2667,2668. Контракт HICC/2025-09-11 от 11.09.2025. Курс 83.20. Сумма RUB: 3 476 748,29. Комиссия агента 1,6%+100$ = 63 947,97",
-    "rubles_received": null,
+    "rubles_received": "63947.97",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "ПП №216 от 10.08.2026: ООО «Логолок» (ТБанк) → ОсОО «Блэкшарк Трейд» (Почтабанк, 40807810100157518600). Агентское вознаграждение по дог. 02-09/25 от 02.09.2025, Поручение №19 от 10.08.2026. 63 947,97 ₽ {VO21100}. ИСПОЛНЕНО",
     "calc": null
   },
   {
