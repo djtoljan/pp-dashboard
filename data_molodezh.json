@@ -1330,5 +1330,24 @@
     "sent_usdt": null,
     "notes": "ПП №560 от 07.08.2026 ИСПОЛНЕН 14:10:29. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 46 251,00₽. {VO11100} Частичная оплата за товар по инвойсу №ENT-035-SHR-C2C20260805002M от 06.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 83,0359). НДС не облагается.",
     "calc": null
+  },
+  {
+    "row": 75,
+    "date": "2026-08-10",
+    "sum": 14540,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": "14,540 + 0.3% + 30 = 14,613.62 USDT",
+    "extra": "Вилог",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 14613.62,
+    "notes": "Заявка Вилог через Q8 (одна сделка, 2 поставщика). 1) Проформа PI YX04J260804-163 от 04.08.2026: GUANGZHOU XUHAN ELECTRONIC TECHNOLOGY CO., LIMITED (Китай). ThinkSystem 2.5 1.2TB 10K SAS HDD 20шт x $74 = $1,480 + ThinkSystem 3.5in 6TB 7.2K SATA HDD 20шт x $208 = $4,160 + Shipping $60. Итого $5,700. China Construction Bank (Asia), CCBQHKAX, 846210336112. 2) Проформа PMD20260807A3 от 07.08.2026: Pumida Electronics Co., Limited (HK). QDD-400G-SR4.2-BD Transceiver Modules 13шт x $680 = $8,840. ZHEJIANG CHOUZHOU COMMERCIAL BANK, CZCBCN2X, NRA15702002010590005618. Payment Orders совпадают с инвойсами. ТЕЗ: 14,540 + 0.3% + 30 = 14,613.62 USDT",
+    "calc": null
   }
 ]

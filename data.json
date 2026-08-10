@@ -2209,43 +2209,5 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
-  },
-  {
-    "row": 113,
-    "date": "2026-08-10",
-    "sum": 5700,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "Q8 (уточняется)",
-    "costFormula": "5,700 + 0.3% + 30 = 5,747.10 USDT",
-    "extra": "Проформа PI YX04J260804-163 от 04.08.2026. Продавец: GUANGZHOU XUHAN ELECTRONIC TECHNOLOGY CO., LIMITED (Китай). Покупатель: Q8 GROUP LIMITED. ThinkSystem 2.5 1.2TB 10K SAS HDD 20шт x  = ,480 + ThinkSystem 3.5in 6TB 7.2K SATA HDD 20шт x  = ,160 + Shipping . Итого ,700. Банк: China Construction Bank (Asia), SWIFT CCBQHKAX, счёт 846210336112. Payment Order: beneficiary GUANGZHOU XUHAN ELECTRONIC TECHNOLOGY CO., LIMITED, ,700 USD",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 5747.1,
-    "notes": null,
-    "calc": null
-  },
-  {
-    "row": 114,
-    "date": "2026-08-10",
-    "sum": 8840,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "Q8 (уточняется)",
-    "costFormula": "8,840 + 0.3% + 30 = 8,896.52 USDT",
-    "extra": "Проформа PMD20260807A3 от 07.08.2026. Продавец: Pumida Electronics Co., Limited (HK). Покупатель: Q8 GROUP LIMITED. QDD-400G-SR4.2-BD Transceiver Modules 13шт x  = ,840. Банк: ZHEJIANG CHOUZHOU COMMERCIAL BANK CO.,LTD, SWIFT CZCBCN2X, счёт NRA15702002010590005618. Payment Order: beneficiary Pumida Electronics Co., Limited, ,840 USD",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 8896.52,
-    "notes": null,
-    "calc": null
   }
 ]
