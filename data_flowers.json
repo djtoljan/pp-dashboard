@@ -2675,9 +2675,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": "158",
     "sent_usdt": null,
-    "notes": "Invoice 43599-026 dd 09.08.2026. Dolina Agro Ltd (Israel, 10 Bareket str., Industrial Park Caesarea 3088900, ID 515826436) → Q8 Group Limited (HK). CIF Amst: Aspidistra 70 (1000 @ 0.18), Ruscus 50 (1000 @ 0.16), Gypsophila 40 (1746 @ 0.59), Gypsophila 50 (20400 @ 1.00), Solidago 40 (15000 @ 0.50), Statiza 80 (1000 @ 0.73) = 30 000,14 EUR. Payment Order 11.08.2026: Dolina Agro Ltd, 30 000 EUR, Bank Leumi (LUMIILITXXX), IBAN IL750107440000027660042. ТЕЗ. Ждём кросс-курс EUR для расчёта.",
+    "notes": "Invoice 43599-026 dd 09.08.2026. Dolina Agro Ltd (Israel, 10 Bareket str., Industrial Park Caesarea 3088900, ID 515826436) → Q8 Group Limited (HK). CIF Amst: Aspidistra 70 (1000 @ 0.18), Ruscus 50 (1000 @ 0.16), Gypsophila 40 (1746 @ 0.59), Gypsophila 50 (20400 @ 1.00), Solidago 40 (15000 @ 0.50), Statiza 80 (1000 @ 0.73) = 30 000,14 EUR. Payment Order 11.08.2026: Dolina Agro Ltd, 30 000 EUR, Bank Leumi (LUMIILITXXX), IBAN IL750107440000027660042. ТЕЗ. Ждём кросс-курс EUR для расчёта. | received_usdt: +158 USDT (Bobr 11.08 10:37 UTC, TUWVRtf..., под заявку 30 000 EUR — Scream 11.08).",
     "calc": null
   }
 ]
