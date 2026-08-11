@@ -2553,7 +2553,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Incoflores (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": null,
@@ -2563,7 +2563,7 @@
     "vdx_rate": null,
     "received_usdt": "10160",
     "sent_usdt": 10060,
-    "notes": "Invoice 20261008062 dd 10.08.2026. Incoflores (Quito, Ecuador, Juan Montalvo S/N C.73). Q8 Group Limited (HK). Payment for cut flowers, 10 000 USD. PRODUBANCO, PRODECEQ, 2186004830. Ордер INCOFLORES_10000: Incoflores, 10 000 USD, PRODUBANCO PRODECEQ 02186004830. ТЕЗ. | received_usdt: 10160 USDT (10000 + 0.6% + 100, Scream 11.08.2026).",
+    "notes": "Invoice 20261008062 dd 10.08.2026. Incoflores (Quito, Ecuador, Juan Montalvo S/N C.73). Q8 Group Limited (HK). Payment for cut flowers, 10 000 USD. PRODUBANCO, PRODECEQ, 2186004830. Ордер INCOFLORES_10000: Incoflores, 10 000 USD, PRODUBANCO PRODECEQ 02186004830. ТЕЗ. | received_usdt: 10160 USDT (10000 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (239-PO, txid O2087115103811010560283): Q8 GROUP LIMITED → Incoflores (PRODUBANCO, PRODECEQ), 10 000,00 USD, handling fee 30 USD. Payment Date 2026-08-11. Status Processing. Подвешенное ПП (INITIATED, подтверждено Scream 11.08) → 🟡. Ждём EXECUTED → 🟢.",
     "calc": null
   },
   {
