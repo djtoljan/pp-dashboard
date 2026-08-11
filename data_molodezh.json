@@ -1443,5 +1443,24 @@
     "sent_usdt": null,
     "notes": "ПП №563 от 11.08.2026 ИСПОЛНЕН. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 122 005,72₽. {VO11100} Част. оплата за товар по инв. ENT-037-SHR-C2C20260810006M от 11.08.26, ENT-038-SHR-C2C20260805003M от 11.08.26, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 84,2581. НДС не облагается.",
     "calc": null
+  },
+  {
+    "row": 82,
+    "date": "2026-08-11",
+    "sum": null,
+    "currency": "Вилог",
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
