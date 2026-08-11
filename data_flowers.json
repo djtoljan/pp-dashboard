@@ -2591,7 +2591,7 @@
     "sum": 15467.66,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "ALIANZA LOGISTICS (Цветы)",
     "costFormula": "15467.66 + 0.3% + 30 = 15544.06 USDT",
     "extra": null,
@@ -2601,7 +2601,7 @@
     "vdx_rate": null,
     "received_usdt": "15660.47",
     "sent_usdt": 15544.06,
-    "notes": "Invoice INV-3803-1 dd 30.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Quito, Ecuador). Q8 GROUP LIMITED (HK). Shipment 145-1210 3803, 15 467.66 USD. PRODUBANCO, PRODECEQ, 02005144694. Ордер ALIANZA: 15 467.66 USD. ТЕЗ. | received_usdt: 15660.47 USDT (15467.66 + 0.6% + 100, Scream 11.08.2026).",
+    "notes": "Invoice INV-3803-1 dd 30.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Quito, Ecuador). Q8 GROUP LIMITED (HK). Shipment 145-1210 3803, 15 467.66 USD. PRODUBANCO, PRODECEQ, 02005144694. Ордер ALIANZA: 15 467.66 USD. ТЕЗ. | received_usdt: 15660.47 USDT (15467.66 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (243-PO, txid O2087143612600156160550): Q8 GROUP LIMITED → ALIANZA LOGISTIKA TDGE S.A., 15 467,66 USD, handling fee 30 USD. Payment Date 2026-08-11 19:46:29. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢.",
     "calc": null
   },
   {
