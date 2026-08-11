@@ -2584,5 +2584,24 @@
     "sent_usdt": 35135,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 144,
+    "date": "2026-08-11",
+    "sum": 15467.66,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ALIANZA LOGISTICS (Цветы)",
+    "costFormula": "15467.66 + 0.3% + 30 = 15544.06 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 15544.06,
+    "notes": null,
+    "calc": null
   }
 ]
