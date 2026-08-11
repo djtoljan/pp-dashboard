@@ -2082,7 +2082,7 @@
     "sum": 119066.96,
     "currency": "EUR",
     "company": "FININVEST",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ВТС",
     "costFormula": null,
     "extra": null,
@@ -2092,7 +2092,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Поручение 70902-1 от 06.08.2026 по Агентскому соглашению №29-01. Принципал: ООО ВТС. Агент: FININVEST (Турция). Получатель: TRIUMPH INTERTRADE AG. Инвойсы 9211883910 dd 12.01.2026 (109,222.72 EUR) + 9211883911 dd 12.01.2026 (9,844.24 EUR), CNTR 25-12-12 dd 12.01.2026. EUR/RUB 95.60 = 11,382,801.38 RUB. Вознаграждение агента 2% = 2,384.34 EUR / 227,656.10 RUR. ПП 543 (11,382,801.38 {VO11200}) + ПП 544 (227,656.10 {VO21100}) от 06.08.2026 на Аль Сафи (FININVEST KZ). 2nd truck TR. | Реквизиты TRIUMPH (для оплаты 119,066.96 EUR): TRIUMPH INTERTRADE AG, Richtiplatz 5, 8304 Wallisellen, Switzerland. IBAN CH27 0483 5159 9309 9200 0. UBS Switzerland AG (formerly Credit Suisse), Ohmstrasse 2/4, 8050 Zurich. SWIFT CRESCHZZ80A. Payment: INVOICES 9211883910 DD 22.12.2025; 9211883911 DD 22.12.2025.",
+    "notes": "Поручение 70902-1 от 06.08.2026 по Агентскому соглашению №29-01. Принципал: ООО ВТС. Агент: FININVEST (Турция). Получатель: TRIUMPH INTERTRADE AG. Инвойсы 9211883910 dd 12.01.2026 (109,222.72 EUR) + 9211883911 dd 12.01.2026 (9,844.24 EUR), CNTR 25-12-12 dd 12.01.2026. EUR/RUB 95.60 = 11,382,801.38 RUB. Вознаграждение агента 2% = 2,384.34 EUR / 227,656.10 RUR. ПП 543 (11,382,801.38 {VO11200}) + ПП 544 (227,656.10 {VO21100}) от 06.08.2026 на Аль Сафи (FININVEST KZ). 2nd truck TR. | Реквизиты TRIUMPH (для оплаты 119,066.96 EUR): TRIUMPH INTERTRADE AG, Richtiplatz 5, 8304 Wallisellen, Switzerland. IBAN CH27 0483 5159 9309 9200 0. UBS Switzerland AG (formerly Credit Suisse), Ohmstrasse 2/4, 8050 Zurich. SWIFT CRESCHZZ80A. Payment: INVOICES 9211883910 DD 22.12.2025; 9211883911 DD 22.12.2025. | SWIFT pacs.008.001.08 11.08.2026 (Alliance Cloud ASB1260811000001, Status ACKed, UETR 05f15895-e9c2-4965-a2c8-b9104f388641, CreDt 11.08.2026 07:07 UTC): Al Safi Bank (AILSKZ2K, FININVEST KZ, IBAN KZ189990172EUR001370) → TRIUMPH INTERTRADE AG (Credit Suisse/UBS CRESCHZZ80A, IBAN CH2704835159930992000). 119 066,96 EUR, SEPA/INGA. PREPAYMENT FOR LINGERIE, CNTR 25-12-12/1 DD 12.12.25, INV.9211883910 + 9211883911 DD 12.07.2026. EXECUTED 🟢",
     "calc": null
   },
   {
