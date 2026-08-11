@@ -2565,5 +2565,24 @@
     "sent_usdt": 10060,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 143,
+    "date": "2026-08-11",
+    "sum": 35000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "CEVA FREIGHT (Цветы)",
+    "costFormula": "35000 + 0.3% + 30 = 35135 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 35135,
+    "notes": null,
+    "calc": null
   }
 ]
