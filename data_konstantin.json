@@ -867,5 +867,24 @@
     "sent_usdt": 227227,
     "notes": "Bobr Alert 10.08 12:34 MSK: IN 227,612.8 USDT на Рабочий 3 от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5 (Константин) = 226,480.40 × 1.005 | SGB 10.08 17:33 Task 2026081000010078: HUAMEI (HK) → KitchenAid Europa Inc. 226,480.40 USD, GEBABEBB, BE50001888300818, inv 6231292366 dd 06.07.26. Waiting for approval 🟡",
     "calc": null
+  },
+  {
+    "row": 46,
+    "date": "2026-08-11",
+    "sum": 100738.61,
+    "currency": "EUR",
+    "company": "INFINITE",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
