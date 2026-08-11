@@ -2284,5 +2284,24 @@
     "sent_usdt": 21418.63,
     "notes": "Invoice 74318 dd 11.08.2026. Itrix Co., Ltd (Bangkok, Thailand, 725 S Metro Building, 20F Sukhumvit Rd). BILL TO: ООО «ВТС» (WTC, 117105 Moscow, Novodanilovskaya Nab. 4a). Sales Contract 20-09/01 dd 20.09.2025. Судовые запчасти (battery switch, deck fillers, hinges, clamps и др.), CHINA. Сумма 21 324,66 USD. Siam Commercial Bank (SICOTHBK), USD 468-000093-8-840; Bangkok Bank (BKKBTHBK), USD 840-855-0029-403748-501. ТЕЗ. | Инвойс услуг БиТрейд (ОсОО «БиТрейд Кей Джи», ИНН 9909705572) №74318 от 11.08.2026: посреднические услуги по проведению расчётов с иностранным поставщиком 319,87 USD @ курс 83,20 = 26 613,18 ₽. Покупатель ООО «ВТС», дог. 27062025ТК/1 от 24.06.2025. БиТрейд Кей Джи: ВТБ, р/с 40807810525640000008. | Поручение №74318 от 11.08.2026 (Transfer Request No 74318, прил.2 к дог. 20102025TК/2 от 20.10.2025): ООО «ВТС» → ОсОО «БиТрейд Кей Джи» (КР). Получатель: Itrix Co., Ltd. (725 S Metro Building, 20F, Sukhumvit Rd, Bangkok 10110). Siam Commercial Bank PCL, SICOTHBK, USD 468-000093-8-840. 21 324,66 USD. Sales Contract 20-09/01 dd 20.09.2025, инвойс 74318 dd 11.08.2026. Курс 83,2000 = 1 774 211,71 ₽. Комиссия агента 1,5% USD.",
     "calc": null
+  },
+  {
+    "row": 117,
+    "date": "2026-08-11",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ИП Осипенко",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "371516.78 / 20979.40",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
