@@ -893,7 +893,7 @@
     "sum": 22872.6,
     "currency": "EUR",
     "company": "TRANSPATH",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -903,7 +903,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Инвойс 260291 от 11.08.2026. AlteVia OÜ → Transpath Logistic Limited. Musical instruments. Coop Pank AS, EKRDEE22, EE794204278622781603. Due 17.08.2026. Заявка: Payment from TRANSPATH, OUR.",
+    "notes": "Инвойс 260291 от 11.08.2026. AlteVia OÜ → Transpath Logistic Limited. Musical instruments. Coop Pank AS, EKRDEE22, EE794204278622781603. Due 17.08.2026. Заявка: Payment from TRANSPATH, OUR. | TRANSACTION CONFIRMATION PAYOUT MT73CFTE28004000000000005036925 11.08.2026 (Тип 3 INITIATED, Status INITIATED, Created 11.08.2026 14:26 UTC): TRANSPATH LOGISTIC LIMITED → AlteVia OU (Coop Pank AS, IBAN EE794204278622781603). 11.08.2026 14:26 UTC, SEPA, -22 872,60 EUR, INV.260291 dd 11.08.26.",
     "calc": null
   }
 ]
