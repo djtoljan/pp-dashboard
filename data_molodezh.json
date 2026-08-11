@@ -1462,5 +1462,24 @@
     "sent_usdt": null,
     "notes": "ПП №564 от 11.08.2026 ИСПОЛНЕН 17:09:20. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 1 003 660,72₽. {VO11100} Частичная оплата за товар по инвойсу №LNR-181-LEAN080719 от 07.08.2026, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000), курс 84,6576. НДС не облагается. | Инвойс 080719 от 07.08.2026. KYLON SUPPLY LIMITED (HK, UNIT 9 1/F THE CLOUD, 111 TUNG CHAU STREET, TAI KOK TSUI; JPMorgan Chase Bank N.A. HK Branch, CHASHKHH, акк 63001412425) → YOUNGQ LIMITED (YQ-BEA). TPM2.0 Card (SPI) BC11TPMA02, 790 шт × 15,0070 = 11 855,53 USD. Заявка Вилог (Scream 11.08).",
     "calc": null
+  },
+  {
+    "row": 83,
+    "date": "2026-08-10",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Фри Лайнс Компани",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "151134.20 / 19768.48",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №21 от 10.08.2026. Принципал: АО «Фри Лайнс Компани» (Юникредит Банк, Москва). Получатель: VDX SERVICES - FZCO (ПСБ Ярославль). JS INTERNATIONAL KOREA — получатель конечный. Invoice 87615213726SVO,99993694090PEK dd 07.07.2026, аг.дог. 09-02-3/26 от 09.02.26. ПП №4016 тело 151 134,20₽ {VO21400} (10.08, Проведено 11.08) + ПП №4015 вознаграждение VDX 19 768,48₽ {VO21100} (пор.№21 от 10.08.2026). Итого на VDX: 170 902,68₽.",
+    "calc": null
   }
 ]
