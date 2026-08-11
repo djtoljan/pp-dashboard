@@ -1417,12 +1417,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "153096.97",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "ПП №562 от 11.08.2026 ИСПОЛНЕН. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 153 096,97₽. {VO11100} Част. оплата за товар по инвойсам №LNR-183-XYNET-20260807 от 10.08.2026, №LNR-184-BCH20260807 от 10.08.2026, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 84,2581. НДС не облагается.",
     "calc": null
   },
   {
@@ -1436,12 +1436,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "122005.72",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "ПП №563 от 11.08.2026 ИСПОЛНЕН. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 122 005,72₽. {VO11100} Част. оплата за товар по инв. ENT-037-SHR-C2C20260810006M от 11.08.26, ENT-038-SHR-C2C20260805003M от 11.08.26, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 84,2581. НДС не облагается.",
     "calc": null
   }
 ]
