@@ -2675,9 +2675,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": "37835.73",
+    "received_usdt": "34717.73",
     "sent_usdt": null,
-    "notes": "Invoice 43599-026 dd 09.08.2026. Dolina Agro Ltd (Israel, 10 Bareket str., Industrial Park Caesarea 3088900, ID 515826436) → Q8 Group Limited (HK). CIF Amst: Aspidistra 70 (1000 @ 0.18), Ruscus 50 (1000 @ 0.16), Gypsophila 40 (1746 @ 0.59), Gypsophila 50 (20400 @ 1.00), Solidago 40 (15000 @ 0.50), Statiza 80 (1000 @ 0.73) = 30 000,14 EUR. Payment Order 11.08.2026: Dolina Agro Ltd, 30 000 EUR, Bank Leumi (LUMIILITXXX), IBAN IL750107440000027660042. ТЕЗ. Ждём кросс-курс EUR для расчёта. | received_usdt: +158 USDT (Bobr 11.08 10:37 UTC, TUWVRtf..., под заявку 30 000 EUR — Scream 11.08). | received_usdt: 158 (Bobr 11.08) + 34 559,73 (возврат USDT по цветочной сделке, Scream 11.08) = 34 717,73 USDT. | received_usdt: +3118 USDT (Bobr 11.08 11:54 UTC, TUWVRtf..., под заявку 30 000 EUR — Scream 11.08).",
+    "notes": "Invoice 43599-026 dd 09.08.2026. Dolina Agro Ltd (Israel, 10 Bareket str., Industrial Park Caesarea 3088900, ID 515826436) → Q8 Group Limited (HK). CIF Amst: Aspidistra 70 (1000 @ 0.18), Ruscus 50 (1000 @ 0.16), Gypsophila 40 (1746 @ 0.59), Gypsophila 50 (20400 @ 1.00), Solidago 40 (15000 @ 0.50), Statiza 80 (1000 @ 0.73) = 30 000,14 EUR. Payment Order 11.08.2026: Dolina Agro Ltd, 30 000 EUR, Bank Leumi (LUMIILITXXX), IBAN IL750107440000027660042. ТЕЗ. Ждём кросс-курс EUR для расчёта. | received_usdt: +158 USDT (Bobr 11.08 10:37 UTC, TUWVRtf..., под заявку 30 000 EUR — Scream 11.08). | received_usdt: 158 (Bobr 11.08) + 34 559,73 (возврат USDT по цветочной сделке, Scream 11.08) = 34 717,73 USDT.",
     "calc": null
   },
   {
@@ -2694,9 +2694,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": "3118",
     "sent_usdt": 3039,
-    "notes": "Prefactura 001-001000000996 dd 18.07.2026. PACIFIC AIR CARGO S.A. (Quito, Ecuador, RUC 1791728726001, Tababela Nicolas Baquero S/N y 29 de Abril). FRESH CUT FLOWERS, 3 000,00 USD. Покупатель: HANDLE BY IP HANDLERS (KZ, Lininsky District, Gagarina 60). PRODUBANCO, PRODECEQ, акк 2005229691 (corriente). Ордер: PACIFIC AIR CARGO S.A., 3 000 USD, PRODUBANCO PRODECEQ 2005229691. Цветочный клиент, USDT (Scream 11.08). ТЕЗ.",
+    "notes": "Prefactura 001-001000000996 dd 18.07.2026. PACIFIC AIR CARGO S.A. (Quito, Ecuador, RUC 1791728726001, Tababela Nicolas Baquero S/N y 29 de Abril). FRESH CUT FLOWERS, 3 000,00 USD. Покупатель: HANDLE BY IP HANDLERS (KZ, Lininsky District, Gagarina 60). PRODUBANCO, PRODECEQ, акк 2005229691 (corriente). Ордер: PACIFIC AIR CARGO S.A., 3 000 USD, PRODUBANCO PRODECEQ 2005229691. Цветочный клиент, USDT (Scream 11.08). ТЕЗ. | received_usdt: 3 118 USDT (Bobr 11.08 11:54 UTC, под заявку PACIFIC AIR CARGO 3 000 USD — Scream 11.08).",
     "calc": null
   }
 ]
