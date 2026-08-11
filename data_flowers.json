@@ -2534,7 +2534,7 @@
     "sum": 20000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Rosaprima (Цветы)",
     "costFormula": "20000 + 0.3% + 30 = 20090 USDT",
     "extra": null,
@@ -2544,7 +2544,7 @@
     "vdx_rate": null,
     "received_usdt": "20220",
     "sent_usdt": 20090,
-    "notes": "Prebook #941991 dd 10.07.2026 (Truck 23.07). Rosaprima International LLC (Miami, 175 SW 7th St). Ship To: Q8 Group Limited (HK, 802422882). ROS AST 60, 50 boxes, 20 000 stems @ 1.00 = 20 000 USD. Customer: LTT Group GmbH. Carrier AA. Sales Rep Daniel Larrea. Ордер Rossa_Prima_20000: Rosaprima, 20 000 USD. ТЕЗ. | received_usdt: 20220 USDT (20000 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (240-PO, txid O2087131515636023296268): Q8 GROUP LIMITED → Rosaprima Cia Ltda. (Produbanco, PRODECEQ), 20 000,00 USD, handling fee 30 USD. Payment Date 2026-08-11 18:58:25. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢.",
+    "notes": "Prebook #941991 dd 10.07.2026 (Truck 23.07). Rosaprima International LLC (Miami, 175 SW 7th St). Ship To: Q8 Group Limited (HK, 802422882). ROS AST 60, 50 boxes, 20 000 stems @ 1.00 = 20 000 USD. Customer: LTT Group GmbH. Carrier AA. Sales Rep Daniel Larrea. Ордер Rossa_Prima_20000: Rosaprima, 20 000 USD. ТЕЗ. | received_usdt: 20220 USDT (20000 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (240-PO, txid O2087131515636023296268): Q8 GROUP LIMITED → Rosaprima Cia Ltda. (Produbanco, PRODECEQ), 20 000,00 USD, handling fee 30 USD. Payment Date 2026-08-11 18:58:25. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢. | BONBILL Payment Certificate 11.08.2026 18:58:25 (txid O2087131515636023296268): Q8 GROUP LIMITED → Rosaprima Cia Ltda. (Produbanco, PRODECEQ, акк 02005162277). 20 000,00 USD. Invoice 941991 DD 23.07.2026 For Flowers. EXECUTED 🟢",
     "calc": null
   },
   {
@@ -2648,7 +2648,7 @@
     "sum": 1900,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "SUBATI GROUPS (Цветы)",
     "costFormula": "1900 + 0.3% + 30 = 1935.70 USDT",
     "extra": null,
@@ -2658,7 +2658,7 @@
     "vdx_rate": null,
     "received_usdt": "2011.4",
     "sent_usdt": 1935.7,
-    "notes": "Sales Invoice SFL-070426 dd 07.04.2026. SUBATI GROUPS LIMITED (Nairobi, Kenya, P.O. Box 26530-00100). Цветы (SINGLE MIX/SPRAY MIX/SUMMER FLOWERS), 62 660 stems, 1 900 USD FCA. Ордер: SUBATI GROUPS, 1 900 USD, ABSA BANK KENYA BARCKENX 2035473753. ТЕЗ. | received_usdt: 2011.4 USDT (1900 + 0.6% + 100, Scream 11.08.2026).",
+    "notes": "Sales Invoice SFL-070426 dd 07.04.2026. SUBATI GROUPS LIMITED (Nairobi, Kenya, P.O. Box 26530-00100). Цветы (SINGLE MIX/SPRAY MIX/SUMMER FLOWERS), 62 660 stems, 1 900 USD FCA. Ордер: SUBATI GROUPS, 1 900 USD, ABSA BANK KENYA BARCKENX 2035473753. ТЕЗ. | received_usdt: 2011.4 USDT (1900 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (245-Invoice PO, txid O2087150762936369152782): Q8 GROUP LIMITED → SUBATI GROUPS, 1 900,00 USD, handling fee 30 USD. Payment Date 2026-08-11 20:14:54. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢.",
     "calc": null
   },
   {

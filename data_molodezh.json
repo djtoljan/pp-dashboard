@@ -1354,7 +1354,7 @@
     "sum": 8840,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Вилог",
     "costFormula": "8,840 + 0.3% + 30 = 8,896.52 USDT",
     "extra": "Вилог",
@@ -1364,7 +1364,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 8896.52,
-    "notes": "Заявка Вилог через Q8. Проформа PMD20260807A3 от 07.08.2026: Pumida Electronics Co., Limited (HK). QDD-400G-SR4.2-BD Transceiver Modules 13шт x $680 = $8,840. ZHEJIANG CHOUZHOU COMMERCIAL BANK CO.,LTD, SWIFT CZCBCN2X, счёт NRA15702002010590005618. Payment Order: beneficiary Pumida Electronics, $8,840 USD. ТЕЗ: 8,840 + 0.3% + 30 = 8,896.52 USDT",
+    "notes": "Заявка Вилог через Q8. Проформа PMD20260807A3 от 07.08.2026: Pumida Electronics Co., Limited (HK). QDD-400G-SR4.2-BD Transceiver Modules 13шт x $680 = $8,840. ZHEJIANG CHOUZHOU COMMERCIAL BANK CO.,LTD, SWIFT CZCBCN2X, счёт NRA15702002010590005618. Payment Order: beneficiary Pumida Electronics, $8,840 USD. ТЕЗ: 8,840 + 0.3% + 30 = 8,896.52 USDT | BONBILL Payment Certificate 11.08.2026 18:50:14 (txid O2087129458447351808598): Q8 GROUP LIMITED → Pumida Electronics Co., Limited (Zhejiang Chouzhou Commercial Bank, CZCBCN2X, акк NRA15702002010590005618). 8 840,00 USD. Invoice PMD20260807A3 DD 07.08.2026 For ElParts. EXECUTED 🟢",
     "calc": null
   },
   {
