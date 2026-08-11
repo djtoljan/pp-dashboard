@@ -2265,5 +2265,24 @@
     "sent_usdt": null,
     "notes": "Поручение №18 от 11.08.2026 (Transfer Request No.18, прил. к аг.договору 1902-26/1 от 19.02.2026). Принципал: АО «НЕСКО САНКТ-ПЕТЕРБУРГ». Агент: ОсОО «Блэкшарк Трейд». Получатель: GLOBAL MARINE SUPPLY OU (Spinati tee 16, Maardu 74117, Harjumaa, Estonia). PKO Bank Polski SA (BPKOPLPWXXX), IBAN PL71102049000000890235842116. 7 236,00 EUR. Назначение: contract 14/2022 dd 01.09.2023, invoice GLO-260472 от 15.06.2026, alcoholic products. Инвойс GLO-260472 dd 15.06.26: CATTIN SAUVAGE 420 pcs @5.30 = 2 226 + Joseph CATTIN 360 @8.11 = 2 919,60 + Cattin Libre Riesling 360 @4.42 = 1 591,20 + FAMILLE CATTIN Edelzwicker 120 @4.16 = 499,20; итого 7 236,00 EUR, VAT 0%. Срок 2-3 банк. дня. | Курс 95,2860, RUB 689 489,49, комиссия агента 1,6%+100$ (19 291,83). | Заявка (Тип 4) 11.08.2026 (Payment from OPTIMA FOOD, OUR): инвойс GLO-260472 dd 15.06.2026, Global Marine Supply OU, 7 236,00 EUR, CATTIN (Sauvage 420 pcs @5.30 = 2 226,00; Joseph CATTIN 360 @8.11 = 2 919,60; Riesling Bio 360 @4.42 = 1 591,20; Edelzwicker 120 @4.16 = 499,20). PKO Bank Polski BPKOPLPWXXXA, PL71102049000000890235842116.",
     "calc": null
+  },
+  {
+    "row": 116,
+    "date": "2026-08-11",
+    "sum": 21324.66,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ВТС",
+    "costFormula": "21324.66 + 0.3% + 30 = 21418.63 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 21418.63,
+    "notes": null,
+    "calc": null
   }
 ]
