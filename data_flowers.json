@@ -2641,5 +2641,24 @@
     "sent_usdt": 10060,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 147,
+    "date": "2026-08-11",
+    "sum": 1900,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "SUBATI GROUPS (Цветы)",
+    "costFormula": "1900 + 0.3% + 30 = 1935.70 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 1935.7,
+    "notes": null,
+    "calc": null
   }
 ]
