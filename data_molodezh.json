@@ -1405,5 +1405,24 @@
     "sent_usdt": null,
     "notes": "Поручение №20 от 10.08.2026. Принципал: АО «Фри Лайнс Компани» (Юникредит Банк). Получатель: VDX SERVICES - FZCO (ПСБ). STLine OÜ (Эстония) — получатель конечный. Инвойс №08-03/4 dd 03.08.2026, контракт FLK dd 01.01.2026, аг.дог. 09-02-3/26 от 09.02.26. ПП №4012 осн.платёж 6 716 466,18₽ (10.08, Проведено) + ПП №4013 вознаграждение VDX 130 619,83₽ (пор.№20 от 10.08.2026). Итого на VDX: 6 847 086,01₽.",
     "calc": null
+  },
+  {
+    "row": 80,
+    "date": "2026-08-11",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
