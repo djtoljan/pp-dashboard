@@ -2686,7 +2686,7 @@
     "sum": 38874,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "NINGBO FENDI (Цветы)",
     "costFormula": "38874 + 0.3% + 30 = 39020.62 USDT",
     "extra": null,
@@ -2696,7 +2696,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 39020.62,
-    "notes": "PO IBR 3088 11.08.2026 10:09:44 (TXID O2064968307416629385927): Q8 GROUP LIMITED → NINGBO FENDI INTERNATIONAL LOGISTICS CO., LTD (28-1 Zijinghui Office Bldg, Yinzhou, Ningbo, China). China Zheshang Bank Zhuhai, ZJCBCN2N, 33200****795. 38 874,00 USD, handling fee 30 USD. Invoice SHNBFD26070086 dd 24.07.2026 — OCEAN FREIGHT. Status Processing. ТЕЗ. Ждём BONBILL EXECUTED → 🟢.",
+    "notes": "PO IBR 3088 11.08.2026 10:09:44 (TXID O2064968307416629385927): Q8 GROUP LIMITED → NINGBO FENDI INTERNATIONAL LOGISTICS CO., LTD (28-1 Zijinghui Office Bldg, Yinzhou, Ningbo, China). China Zheshang Bank Zhuhai, ZJCBCN2N, 33200****795. 38 874,00 USD, handling fee 30 USD. Invoice SHNBFD26070086 dd 24.07.2026 — OCEAN FREIGHT. Status Processing. ТЕЗ. Ждём BONBILL EXECUTED → 🟢. | PO IBR 3088 11.08.2026 (238-PO, txid O2064968307416629385927): Q8 GROUP LIMITED → NINGBO FENDI (Zheshang Bank, ZJCBCN2N), 38 874,00 USD, handling fee 30 USD. Status Processing. Подвешенное ПП (INITIATED, как Incoflores 239-PO) → 🟡. Ждём EXECUTED → 🟢.",
     "calc": null
   }
 ]
