@@ -2303,24 +2303,5 @@
     "sent_usdt": null,
     "notes": "Выписка Блэкшарк ПОЧТОБАНК 11.08.2026: тело 371 516,78₽ {VO11100} по контракту 22/07 от 22.07.2026 за камень натуральный + агентское вознаграждение 20 979,40₽ {VO21100} по аг.договору 0503-26/1 от 05.03.2026. ИП Осипенко Виталий Петрович (ИНН 391800053601, счёт 40802810475000002003, БИК 042748877). Ждём отправку на обмен.",
     "calc": null
-  },
-  {
-    "row": 118,
-    "date": "2026-08-11",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": null,
-    "clientName": null,
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
   }
 ]
