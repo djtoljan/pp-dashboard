@@ -2698,5 +2698,24 @@
     "sent_usdt": 3039,
     "notes": "Prefactura 001-001000000996 dd 18.07.2026. PACIFIC AIR CARGO S.A. (Quito, Ecuador, RUC 1791728726001, Tababela Nicolas Baquero S/N y 29 de Abril). FRESH CUT FLOWERS, 3 000,00 USD. Покупатель: HANDLE BY IP HANDLERS (KZ, Lininsky District, Gagarina 60). PRODUBANCO, PRODECEQ, акк 2005229691 (corriente). Ордер: PACIFIC AIR CARGO S.A., 3 000 USD, PRODUBANCO PRODECEQ 2005229691. Цветочный клиент, USDT (Scream 11.08). ТЕЗ. | received_usdt: 3 118 USDT (Bobr 11.08 11:54 UTC, под заявку PACIFIC AIR CARGO 3 000 USD — Scream 11.08).",
     "calc": null
+  },
+  {
+    "row": 150,
+    "date": "2026-08-11",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ГлобалЦвет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "9917123.72 / 247928.09",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
