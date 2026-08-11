@@ -2344,7 +2344,7 @@
     "sum": 3780.84,
     "currency": "USD",
     "company": "LEO",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "TESSAROSES (Цветы)",
     "costFormula": "3,780.84 USD * 1.005 + 100 = 3,899 USDT",
     "extra": null,
@@ -2354,7 +2354,7 @@
     "vdx_rate": null,
     "received_usdt": 100,
     "sent_usdt": 3899,
-    "notes": "Transaction Status Details PENDING APPROVAL 08.08.2026 00:42:19 (Тип 3 INITIATED): LEO SPOT CAPITAL → TESSAROSES S.A (BANCO PICHINCHA C.A., Ecuador), USD 3,780.84, TT, Ref 0805-2206-0187-5029, Transaction Date 10 Aug 2026, invoice 90614222 dd 03.07.26, Total Debit USD 3,816.84.",
+    "notes": "Transaction Status Details PENDING APPROVAL 08.08.2026 00:42:19 (Тип 3 INITIATED): LEO SPOT CAPITAL → TESSAROSES S.A (BANCO PICHINCHA C.A., Ecuador), USD 3,780.84, TT, Ref 0805-2206-0187-5029, Transaction Date 10 Aug 2026, invoice 90614222 dd 03.07.26, Total Debit USD 3,816.84. | SWIFT pacs.008 (Network Ack) 11.08.2026 (BusinessMessageIdentifier S.155.2001875029, UETR 474c9ed5-566b-4aa9-9d4f-f0ad3635bda1): LEO SPOT CAPITAL (BBBAIDJAXXX) → TESSAROSES S.A (CHASUS33XXX). 3 780,84 USD, Ref 0805-2206-0187-5029. EXECUTED 🟢",
     "calc": null
   },
   {
@@ -2553,7 +2553,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Incoflores (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": null,
@@ -2563,7 +2563,7 @@
     "vdx_rate": null,
     "received_usdt": "10160",
     "sent_usdt": 10060,
-    "notes": "Invoice 20261008062 dd 10.08.2026. Incoflores (Quito, Ecuador, Juan Montalvo S/N C.73). Q8 Group Limited (HK). Payment for cut flowers, 10 000 USD. PRODUBANCO, PRODECEQ, 2186004830. Ордер INCOFLORES_10000: Incoflores, 10 000 USD, PRODUBANCO PRODECEQ 02186004830. ТЕЗ. | received_usdt: 10160 USDT (10000 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (239-PO, txid O2087115103811010560283): Q8 GROUP LIMITED → Incoflores (PRODUBANCO, PRODECEQ), 10 000,00 USD, handling fee 30 USD. Payment Date 2026-08-11. Status Processing. Подвешенное ПП (INITIATED, подтверждено Scream 11.08) → 🟡. Ждём EXECUTED → 🟢.",
+    "notes": "Invoice 20261008062 dd 10.08.2026. Incoflores (Quito, Ecuador, Juan Montalvo S/N C.73). Q8 Group Limited (HK). Payment for cut flowers, 10 000 USD. PRODUBANCO, PRODECEQ, 2186004830. Ордер INCOFLORES_10000: Incoflores, 10 000 USD, PRODUBANCO PRODECEQ 02186004830. ТЕЗ. | received_usdt: 10160 USDT (10000 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (239-PO, txid O2087115103811010560283): Q8 GROUP LIMITED → Incoflores (PRODUBANCO, PRODECEQ), 10 000,00 USD, handling fee 30 USD. Payment Date 2026-08-11. Status Processing. Подвешенное ПП (INITIATED, подтверждено Scream 11.08) → 🟡. Ждём EXECUTED → 🟢. | BONBILL Payment Certificate 11.08.2026 17:53:12 (txid O2087115103811010560283): Q8 GROUP LIMITED → Incoflores (PRODUBANCO, PRODECEQ, акк 02186004830). 10 000,00 USD. Invoice 20261008062 DD 10.08.2026 For Flowers. EXECUTED 🟢",
     "calc": null
   },
   {
