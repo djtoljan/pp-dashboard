@@ -2244,7 +2244,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Поручение №17 от 11.08.2026 (Transfer Request No.17, прил. к аг.договору 1902-26/1 от 19.02.2026). Принципал: АО «НЕСКО САНКТ-ПЕТЕРБУРГ». Агент: ОсОО «Блэкшарк Трейд». Получатель: TEQUILA SAN MATIAS DE JALISCO SA DE CV (Avenda Circunvalacion Agustin Yanez 2612, 44130 Guadalajara, Jal, Mexico). Banco Base SA (BBSEMXMXXXX), счёт 145320046410002022. 57 996,96 USD. Назначение: contract 102/2018 dd 26.02.2019, invoice INV/005396 dd 15.05.2026, alcoholic products. Доплата (CSM 15): инвойс INV/005396 на 115 993,92 USD (Pueblo Viejo Blanco 2016 cajas @49.58 = 99 953,28 + Reposado 224 cajas @71.61 = 16 040,64), FOB Altamira, 50% prepay / 50% BL 60 days — данная сумма = 50% доплата (57 996,96). Срок 2-3 банк. дня.",
     "calc": null
   },
   {
@@ -2263,7 +2263,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Поручение №18 от 11.08.2026 (Transfer Request No.18, прил. к аг.договору 1902-26/1 от 19.02.2026). Принципал: АО «НЕСКО САНКТ-ПЕТЕРБУРГ». Агент: ОсОО «Блэкшарк Трейд». Получатель: GLOBAL MARINE SUPPLY OU (Spinati tee 16, Maardu 74117, Harjumaa, Estonia). PKO Bank Polski SA (BPKOPLPWXXX), IBAN PL71102049000000890235842116. 7 236,00 EUR. Назначение: contract 14/2022 dd 01.09.2023, invoice GLO-260472 от 15.06.2026, alcoholic products. Инвойс GLO-260472 dd 15.06.26: CATTIN SAUVAGE 420 pcs @5.30 = 2 226 + Joseph CATTIN 360 @8.11 = 2 919,60 + Cattin Libre Riesling 360 @4.42 = 1 591,20 + FAMILLE CATTIN Edelzwicker 120 @4.16 = 499,20; итого 7 236,00 EUR, VAT 0%. Срок 2-3 банк. дня.",
     "calc": null
   }
 ]
