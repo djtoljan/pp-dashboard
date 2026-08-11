@@ -1386,5 +1386,24 @@
     "notes": "Proforma Invoice ST260810-01 от 10.08.2026 (Airport services and refueling 10.08.2026, 17,030.61 USD). Issued to: PT Infinite Sunrise Asia, Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581. Payment Order от 10.08.2026: бенефициар FUJIA AUTOMAT LIMITED (Citibank N.A. HK, 390205798, CITIHKHXXXX), 17,030.61 USD, invoice No ST260810-01. Рубли на VDX (Кристалл Джет): ПП №452 от 10.08.2026: 934,503.43₽; ПП №453 от 10.08.2026: 502,566.47₽. Итого 1,437,069.90₽, подразумеваемый курс ~84.38. Курс VDX не подтверждён rate table — vdx_rate пуст.",
     "calc": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
+  },
+  {
+    "row": 79,
+    "date": "2026-08-10",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Фри Лайнс Компани",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
