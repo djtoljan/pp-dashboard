@@ -2677,7 +2677,7 @@
     "vdx_rate": null,
     "received_usdt": "34717.73",
     "sent_usdt": null,
-    "notes": "Invoice 43599-026 dd 09.08.2026. Dolina Agro Ltd (Israel, 10 Bareket str., Industrial Park Caesarea 3088900, ID 515826436) → Q8 Group Limited (HK). CIF Amst: Aspidistra 70 (1000 @ 0.18), Ruscus 50 (1000 @ 0.16), Gypsophila 40 (1746 @ 0.59), Gypsophila 50 (20400 @ 1.00), Solidago 40 (15000 @ 0.50), Statiza 80 (1000 @ 0.73) = 30 000,14 EUR. Payment Order 11.08.2026: Dolina Agro Ltd, 30 000 EUR, Bank Leumi (LUMIILITXXX), IBAN IL750107440000027660042. ТЕЗ. Ждём кросс-курс EUR для расчёта. | received_usdt: +158 USDT (Bobr 11.08 10:37 UTC, TUWVRtf..., под заявку 30 000 EUR — Scream 11.08). | received_usdt: 158 (Bobr 11.08) + 34 559,73 (возврат USDT по цветочной сделке, Scream 11.08) = 34 717,73 USDT.",
+    "notes": "Invoice 43599-026 dd 09.08.2026. Dolina Agro Ltd (Israel, 10 Bareket str., Industrial Park Caesarea 3088900, ID 515826436) → Q8 Group Limited (HK). CIF Amst: Aspidistra 70 (1000 @ 0.18), Ruscus 50 (1000 @ 0.16), Gypsophila 40 (1746 @ 0.59), Gypsophila 50 (20400 @ 1.00), Solidago 40 (15000 @ 0.50), Statiza 80 (1000 @ 0.73) = 30 000,14 EUR. Payment Order 11.08.2026: Dolina Agro Ltd, 30 000 EUR, Bank Leumi (LUMIILITXXX), IBAN IL750107440000027660042. ТЕЗ. Ждём кросс-курс EUR для расчёта. | received_usdt: +158 USDT (Bobr 11.08 10:37 UTC, TUWVRtf..., под заявку 30 000 EUR — Scream 11.08). | received_usdt: 158 (Bobr 11.08) + 34 559,73 (возврат USDT по цветочной сделке, Scream 11.08) = 34 717,73 USDT. | FX IBR 3088 12.08.2026: обмен 185 888 USD → 160 541,17 EUR (1 USD = 0.86364462244 EUR, поставка 12.08). Обмен под 3 заявки (30 000 + 10 000 + Bloom Market ~120 476,58).",
     "calc": null
   },
   {
@@ -2734,7 +2734,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "| FX IBR 3088 12.08.2026: обмен 185 888 USD → 160 541,17 EUR (1 USD = 0.86364462244 EUR, поставка 12.08). Обмен под 3 заявки (30 000 + 10 000 + Bloom Market ~120 476,58).",
     "calc": null
   }
 ]
