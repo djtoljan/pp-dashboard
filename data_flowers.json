@@ -321,7 +321,7 @@
     "currency": "USD",
     "company": "Q8",
     "client": "10,000 + 0.3% + 30 = 10,060 USDT",
-    "extra": "Цветы",
+    "extra": "AOA VENTURES (Цветы)",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
@@ -330,7 +330,8 @@
     "sent_usdt": 10060,
     "notes": "AOA VENTURES LTD — inv.025, Mauritius, AfrAsia Bank | Rosaprima Cia (inv 928014)",
     "color": "FF92D050",
-    "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "clientName": "AOA VENTURES (Цветы)"
   },
   {
     "row": 20,
@@ -339,7 +340,7 @@
     "currency": "USD",
     "company": "Q8",
     "client": "20,000 + 0.3% + 30 = 20,090 USDT",
-    "extra": "Цветы",
+    "extra": "AOA VENTURES (Цветы)",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
@@ -348,7 +349,8 @@
     "sent_usdt": 20090,
     "notes": "AOA VENTURES LTD — 20k, Mauritius, AfrAsia Bank",
     "color": "FF92D050",
-    "costFormula": "20000 + 0.3% + 30 = 20090 USDT"
+    "costFormula": "20000 + 0.3% + 30 = 20090 USDT",
+    "clientName": "AOA VENTURES (Цветы)"
   },
   {
     "row": 21,
@@ -357,7 +359,7 @@
     "currency": "USD",
     "company": "Q8",
     "client": "10,000 + 0.3% + 30 = 10,060 USDT",
-    "extra": "Цветы",
+    "extra": "Milele Flowers (Цветы)",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
@@ -366,7 +368,8 @@
     "sent_usdt": 10060,
     "notes": "Milele Flowers — Kenya, KCB KCBLKENX",
     "color": "FF92D050",
-    "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "clientName": "Milele Flowers (Цветы)"
   },
   {
     "row": 22,
@@ -375,7 +378,7 @@
     "currency": "USD",
     "company": "Q8",
     "client": "10,000 + 0.3% + 30 = 10,060 USDT",
-    "extra": "Цветы",
+    "extra": "INCOFLORES (Цветы)",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
@@ -384,7 +387,8 @@
     "sent_usdt": 10060,
     "notes": "Incoflores — Ecuador, PRODUBANCO PRODECEQ",
     "color": "FF92D050",
-    "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "clientName": "INCOFLORES (Цветы)"
   },
   {
     "row": 23,
@@ -393,7 +397,7 @@
     "currency": "USD",
     "company": "Q8",
     "client": "10,000 + 0.3% + 30 = 10,060 USDT",
-    "extra": "Цветы",
+    "extra": "Novpec (Цветы)",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
@@ -402,7 +406,8 @@
     "sent_usdt": 10060,
     "notes": "Novpec S.A. — roses inv.10350, Ecuador, PICHINCHA",
     "color": "FF92D050",
-    "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "clientName": "Novpec (Цветы)"
   },
   {
     "row": 24,
@@ -411,7 +416,7 @@
     "currency": "USD",
     "company": "Q8",
     "client": "20,000 + 0.3% + 30 = 20,090 USDT",
-    "extra": "Цветы",
+    "extra": "Rosaprima (Цветы)",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
@@ -420,7 +425,8 @@
     "sent_usdt": 20090,
     "notes": "Rosaprima SO#928016 — 40k stems roses, Ecuador | Rosaprima Cia (inv 928016)",
     "color": "FF92D050",
-    "costFormula": "20000 + 0.3% + 30 = 20090 USDT"
+    "costFormula": "20000 + 0.3% + 30 = 20090 USDT",
+    "clientName": "Rosaprima (Цветы)"
   },
   {
     "row": 25,
@@ -429,7 +435,7 @@
     "currency": "USD",
     "company": "Q8",
     "client": "10,000 + 0.3% + 30 = 10,060 USDT",
-    "extra": "Цветы",
+    "extra": "Rosaprima (Цветы)",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
@@ -438,7 +444,8 @@
     "sent_usdt": 10060,
     "notes": "Rosaprima SO#928014 — 20k stems roses, Ecuador | Rosaprima Cia",
     "color": "FF92D050",
-    "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "clientName": "Rosaprima (Цветы)"
   },
   {
     "row": 26,
@@ -500,7 +507,7 @@
     "currency": "USD",
     "company": "Q8",
     "client": "10,000 + 0.3% + 30 = 10,060 USDT",
-    "extra": "Цветы",
+    "extra": "Novpec (Цветы)",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
@@ -509,7 +516,8 @@
     "sent_usdt": 10060,
     "notes": "Novpec S.A. (inv 10350)",
     "color": "FF92D050",
-    "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "clientName": "Novpec (Цветы)"
   },
   {
     "row": 30,
@@ -518,7 +526,7 @@
     "currency": "USD",
     "company": "Q8",
     "client": "10,000 + 0.3% + 30 = 10,060 USDT",
-    "extra": "Цветы",
+    "extra": "Milele Flowers (Цветы)",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
@@ -527,7 +535,8 @@
     "sent_usdt": 10060,
     "notes": "Milele Flowers (inv 1300/3150)",
     "color": "FF92D050",
-    "costFormula": "10000 + 0.3% + 30 = 10060 USDT"
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "clientName": "Milele Flowers (Цветы)"
   },
   {
     "row": 31,
