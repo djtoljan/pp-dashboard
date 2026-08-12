@@ -1423,7 +1423,8 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "ПП №562 от 11.08.2026 ИСПОЛНЕН. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 153 096,97₽. {VO11100} Част. оплата за товар по инвойсам №LNR-183-XYNET-20260807 от 10.08.2026, №LNR-184-BCH20260807 от 10.08.2026, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 84,2581. НДС не облагается.",
-    "calc": null
+    "calc": null,
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
     "row": 81,
@@ -1438,8 +1439,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "122005.72",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": 82.9,
+    "received_usdt": "1470.25",
     "sent_usdt": null,
     "notes": "ПП №563 от 11.08.2026 ИСПОЛНЕН. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 122 005,72₽. {VO11100} Част. оплата за товар по инв. ENT-037-SHR-C2C20260810006M от 11.08.26, ENT-038-SHR-C2C20260805003M от 11.08.26, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 84,2581. НДС не облагается.",
     "calc": null
@@ -1457,8 +1458,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "1003660.72 (VDX)",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": 82.9,
+    "received_usdt": "12094.78",
     "sent_usdt": null,
     "notes": "ПП №564 от 11.08.2026 ИСПОЛНЕН 17:09:20. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 1 003 660,72₽. {VO11100} Частичная оплата за товар по инвойсу №LNR-181-LEAN080719 от 07.08.2026, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000), курс 84,6576. НДС не облагается. | Инвойс 080719 от 07.08.2026. KYLON SUPPLY LIMITED (HK, UNIT 9 1/F THE CLOUD, 111 TUNG CHAU STREET, TAI KOK TSUI; JPMorgan Chase Bank N.A. HK Branch, CHASHKHH, акк 63001412425) → YOUNGQ LIMITED (YQ-BEA). TPM2.0 Card (SPI) BC11TPMA02, 790 шт × 15,0070 = 11 855,53 USD. Заявка Вилог (Scream 11.08).",
     "calc": null
@@ -1476,8 +1477,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "151134.20 / 19768.48",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": 82.9,
+    "received_usdt": "1821.27 / 238.22",
     "sent_usdt": 1914,
     "notes": "Поручение №21 от 10.08.2026. Принципал: АО «Фри Лайнс Компани» (Юникредит Банк, Москва). Получатель: VDX SERVICES - FZCO (ПСБ Ярославль). JS INTERNATIONAL KOREA — получатель конечный. Invoice 87615213726SVO,99993694090PEK dd 07.07.2026, аг.дог. 09-02-3/26 от 09.02.26. ПП №4016 тело 151 134,20₽ {VO21400} (10.08, Проведено 11.08) + ПП №4015 вознаграждение VDX 19 768,48₽ {VO21100} (пор.№21 от 10.08.2026). Итого на VDX: 170 902,68₽. | Transfer Request No.21 от 10.08.2026 (документ): 1 805,04 USD. JS INTERNATIONAL KOREA (5F, 786, Gukhoe-daero, Yeongdeungpo-gu, Seoul 07238, Republic of Korea). KEB HANA BANK, account 756-910002-27038, SWIFT KOEXKRSE. Курс 1 USD = 83.7290 RUB. Инвойс without number dd 2026-08-05. | Transaction Status Details 12.08.2026 19:44:13 (M.N., dedup exit 2 — повтор): PENDING APPROVAL (INITIATED). LEO SPOT CAPITAL (a/c 0123-7824-012) → JS INTERNATIONAL KOREA (KEB HANA BANK, KOEXKRSEXXX, 7569-1000-2270-38, 5F 786 Gukhoe-daero, Yeongdeungpo-gu, Seoul). USD 1 805,04. TT, cable 3,00 + provision 23,00 + fee 10,00 = total debit 1 841,04. OUR. Ref 0805-2246-0190-0824. Transaction date 13 Aug 2026. Purpose 2098. Short message: 2098 invoice dd 2026-08-05. | Bobr Alert 12.08 17:46 UTC: OUT 1 914,0 USDT с Рабочего 3 на TLmdAeQMFFfhFEqGkMZ4aiC86jvbhoDmiV (адрес из расчёта 17:34, JS INTERNATIONAL KOREA). Q9: 🔴 ВЫХОД 12.08.2026 1914 USDT — Фри Лайнс Компани (Молодёжь). Леджер: OUT 1914 USDT Рабочий 3 (q9_sent=true).",
     "calc": null
@@ -1495,8 +1496,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "285253.67",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": 82.9,
+    "received_usdt": "3437.5",
     "sent_usdt": null,
     "notes": "ПП №565 от 12.08.2026 ИСПОЛНЕН 15:17:18. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (VDX, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 285 253,67₽. {VO11100} Частичная оплата за товар по инвойсу №PAI-001-WHJCS12026081002 от 12.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000), по курсу 84,0217. НДС не облагается. (≈3 395 USD)",
     "calc": null
