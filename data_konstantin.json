@@ -950,7 +950,7 @@
     "sum": 9939,
     "currency": "EUR",
     "company": "Omnex",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -960,7 +960,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Заявка 12.08.2026 16:37 (t2911, W& Платежи (Т+С)/169): Payment from Omnex ❗️. Beneficiary: IK RCTS (Kengaraga 9-116, Riga, Latvia). Банк: AS SEB banka (Latvia), SWIFT UNLALV2X, a/c LV05UNLA0050002557002. Payment details: inv. KRG-1001 dd 14.07.2026. Amount: 9 939,00 EUR. OUR. Компания-плательщик: Omnex (подтверждено Scream 12.08 16:44: Константин (Просто группа)).",
+    "notes": "Заявка 12.08.2026 16:37 (t2911, W& Платежи (Т+С)/169): Payment from Omnex ❗️. Beneficiary: IK RCTS (Kengaraga 9-116, Riga, Latvia). Банк: AS SEB banka (Latvia), SWIFT UNLALV2X, a/c LV05UNLA0050002557002. Payment details: inv. KRG-1001 dd 14.07.2026. Amount: 9 939,00 EUR. OUR. Компания-плательщик: Omnex (подтверждено Scream 12.08 16:44: Константин (Просто группа)). | MT35 TRANSACTION CONFIRMATION 12.08.2026 13:46:04 UTC (Scream): PAYOUT, account MT35CFTE28004000000000005036930. OMNEX TRADING LIMITED → IK RCTS (IBAN LV05UNLA0050002557002), inv. KRG-1001 dd 14.07.2026, -9 939,0 EUR, SEPA. Status: INITIATED.",
     "calc": null
   }
 ]
