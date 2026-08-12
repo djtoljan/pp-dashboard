@@ -657,7 +657,7 @@
     "vdx_rate": null,
     "received_usdt": 11602.8,
     "sent_usdt": "11528",
-    "notes": "Платёжный ордер от 29.07.2026. Payment from Omnex. Получатель: IK RCTS (Латвия, LV-1050 Riga). Банк: AS SEB banka (UNLALV2X). Счёт: LV05UNLA0050002557002. Инвойс KRG-1001 dd 14.07.2026. 10,000 EUR. OUR. | USDT получен на Рабочий 3: 11602.8 USDT (Константин IK RCTS). | W& Платежи расчёт: 10,000 EUR → 11,388 USD; 11,388/(1-0.35%)+100=11,528 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8. | Omnex 29.07 15:32 UTC: TRANSACTION CONFIRMATION — STATUS: INITIATED. Payout 10,000 EUR to IK RCTS (SEPA). Ref: Inv KRG-1001 dd 14.07.2026. | VDX CONFIRMATION 03.08 13:31 UTC: MT35 COMPLETED, OMNEX TRADING LIMITED → IK RCTS (Латвия, LV05UNLA0050002557002), SEPA, -10000.00 EUR, Inv KRG-1001 dd 14.07.2026 | Повторная заявка 12.08 16:37 (t2911, W& Платежи (Т+С)/169): Payment from Omnex ❗️ → IK RCTS (Kengaraga 9-116, Riga, Latvia, AS SEB banka, UNLALV2X, LV05UNLA0050002557002), inv. KRG-1001 dd 14.07.2026, 9 939,00 EUR, OUR. Scream 12.08 16:44 подтвердил: Константин (Просто группа) — та же сделка (row 34, уже 🟢 EXECUTED 03.08 на 10 000 EUR). Сумма 9 939,00 vs 10 000,00 (разница 61,00) — отражено как уточнение заявки, цвет не меняю, дубль не создаю.",
+    "notes": "Платёжный ордер от 29.07.2026. Payment from Omnex. Получатель: IK RCTS (Латвия, LV-1050 Riga). Банк: AS SEB banka (UNLALV2X). Счёт: LV05UNLA0050002557002. Инвойс KRG-1001 dd 14.07.2026. 10,000 EUR. OUR. | USDT получен на Рабочий 3: 11602.8 USDT (Константин IK RCTS). | W& Платежи расчёт: 10,000 EUR → 11,388 USD; 11,388/(1-0.35%)+100=11,528 USDT. Адрес: TUrdaveFV4bnTgLxSDkttBMvKSTt36e1A8. | Omnex 29.07 15:32 UTC: TRANSACTION CONFIRMATION — STATUS: INITIATED. Payout 10,000 EUR to IK RCTS (SEPA). Ref: Inv KRG-1001 dd 14.07.2026. | VDX CONFIRMATION 03.08 13:31 UTC: MT35 COMPLETED, OMNEX TRADING LIMITED → IK RCTS (Латвия, LV05UNLA0050002557002), SEPA, -10000.00 EUR, Inv KRG-1001 dd 14.07.2026",
     "calc": null
   },
   {
@@ -942,6 +942,25 @@
     "received_usdt": 20710.28,
     "sent_usdt": null,
     "notes": "| Заявка 12.08.2026 (Payment from INTEGRA, OUR). Beneficiary: Laurastar SA (Rte de Montreux 149, CH-1618 Chatel-St-Denis, Switzerland). UBS Switzerland AG, CH-1630 Bulle, UBSWCHZH80A, CH16 0026 6266 3500 7464 D. 17 744,00 EUR. Invoices: Proforma 1031227 dd 06.08.26 — Steam Generator Laurastar LIFT EU Swiss Limited Edition 44шт × 188,00 = 8 272,00 + S Pure Xtreme EU 3шт × 410,00 = 1 230,00 (итого 9 502,00); Proforma 1031228 dd 04.08.26 — Steam Generator 44шт × 188,00 = 8 272,00. FCA Kapuvár, Hungary. Prepayment. VAT CHE-105.874.136. Customer ref 2026 AUG ORDER - GE/UZ, nr 1437635. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, 12.08.2026 09:23 UTC, Account MT73CFTE28004000000000005739981): INTEGRA TRADE LIMITED → Laurastar SA (UBS Switzerland AG, CH160026626635007464D), -17 774,00 EUR, Invoices 1031227 dd 06.08.26 + 1031228 dd 04.08.26, SEPA. Status: INITIATED. Подвешенное ПП → 🟡. Ждём EXECUTED → 🟢. | Bobr Alert 12.08 10:16 UTC: IN 20688.73 USDT на Рабочий 3 от TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4 (Константин) — часть сводного 111 672,02 USDT под заявку 17 774 EUR (Laurastar). Разбивка подтверждена Scream 12.08. | Расчёт Scream 12.08: €17 774 × 1,15380575 = $20 507,74 → +0,5% ($102,54) + $100 → 20 710,28 USDT (received).",
+    "calc": null
+  },
+  {
+    "row": 50,
+    "date": "2026-08-12",
+    "sum": 9939,
+    "currency": "EUR",
+    "company": "Omnex",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка 12.08.2026 16:37 (t2911, W& Платежи (Т+С)/169): Payment from Omnex ❗️. Beneficiary: IK RCTS (Kengaraga 9-116, Riga, Latvia). Банк: AS SEB banka (Latvia), SWIFT UNLALV2X, a/c LV05UNLA0050002557002. Payment details: inv. KRG-1001 dd 14.07.2026. Amount: 9 939,00 EUR. OUR. Компания-плательщик: Omnex (подтверждено Scream 12.08 16:44: Константин (Просто группа)).",
     "calc": null
   }
 ]
