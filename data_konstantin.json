@@ -905,5 +905,24 @@
     "sent_usdt": 26589.714,
     "notes": "Инвойс 260291 от 11.08.2026. AlteVia OÜ → Transpath Logistic Limited. Musical instruments. Coop Pank AS, EKRDEE22, EE794204278622781603. Due 17.08.2026. Заявка: Payment from TRANSPATH, OUR. | TRANSACTION CONFIRMATION PAYOUT MT73CFTE28004000000000005036925 11.08.2026 (Тип 3 INITIATED, Status INITIATED, Created 11.08.2026 14:26 UTC): TRANSPATH LOGISTIC LIMITED → AlteVia OU (Coop Pank AS, IBAN EE794204278622781603). 11.08.2026 14:26 UTC, SEPA, -22 872,60 EUR, INV.260291 dd 11.08.26. | Bobr Alert 11.08 17:54 MSK (14:54 UTC): IN 26 628,62 USDT на Рабочий 3 от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5 (Константин) = 22 872,60 EUR × 1,1642. Q9 отправлена, леджер записан (--q9). | Расчёт VDX (W& Платежи t2911) 11.08.2026: 22 872,60 EUR → 26397/(1-0.35%)+100 = 26 589,714 USDT. Кошелёк: TNhJTGuaE67o6TAQLEhPnHra38eNEnLtZ3. | Bobr Alert 11.08 19:31 МСК (16:31 UTC): OUT 26589.714 USDT с Рабочего 3 на TNhJTGuaE67o6TAQLEhPnHra38eNEnLtZ3 (сводный расчёт VDX). TXID: 02ac5fcbfd3abfc2e868a1b9c6b9f46e76fe9266e31f97919361adc06b6377f1 | Q9 отправлена, леджер записан (--q9).",
     "calc": null
+  },
+  {
+    "row": 48,
+    "date": "2026-08-12",
+    "sum": 78165.1,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": "Проформа 26-010-000139 от 10.08.2026 (važi do 25.08.2026). 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Serbia, Matični 17485059, PIB 102893403). OTP BANKA SRBIJA A.D., OTPVRS22, RS35325960160000415772; Intermediary: Deutsche Bank AG, DEUTDEFF. BREVILLE household appliances: VST072X Waffle maker 1500шт × 44,40 = 66 600,00; VST070X Sandwich Toaster 200шт × 42,60 = 8 520,00; VST071X Sandwich Press 12шт × 41,00 = 492,00; VCF183X Espresso 2шт × 145,90 = 291,80; VCF185X Slimline Barista 2шт × 176,75 = 353,50; VCF186X Compact Barista 2шт × 368,90 = 737,80; Transport 1 170,00. UKUPNO 78 165,10 EUR. Payment for proforma invoice 26-010-000139 dd 10.08.2026, home appliances. HS 8516797000, 8516710000.",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
