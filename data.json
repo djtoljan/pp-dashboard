@@ -2347,8 +2347,8 @@
     "date": "2026-08-12",
     "sum": 15700,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FF92D050",
     "clientName": "Экспресс-Орто",
     "costFormula": null,
     "extra": null,
@@ -2358,7 +2358,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Поручение №33 от 12.08.2026 (Transfer Request No.33, прил. к аг.договору 22/05 от 22.05.2025). Принципал: ООО «Экспресс-Орто». Агент: ОсОО «БиТрейд Кей Джи» (КР). Получатель: ÇAKMAKLAR Ortopedik Malzemeler Ltd.Sti (Mehmet Zahit Kotku Cad. No:3, 2306374 Yenimahalle/ANKARA/TURKEY). TURKIYE İŞ BANKASI A.S., SWIFT ISBKTRIS, EUR TR28 0006 4000 0024 2740 1245 14. 15 700,00 EUR. Контракт №80/2026 от 27.07.2026, Invoice EC12026000000072. Курс 1 USD = 95,7300 RUB, RUB 1 502 961,00. Комиссия агента 2,5% после зачисления. Срок 5-10 банк. дней. | ПП товар 12.08.2026 (Райффайзенбанк, ПРОВЕДЕНО 12 АВГ 2026): 1 502 961,00₽ {VO11100} For enrollment invoice N EC12026000000072 of 27.07.2026, Silicone Machine HS 9021399000, без НДС. Получатель ОсОО БиТрейд Кей Джи (ВТБ 40807810525640000008), плательщик ООО «Экспресс-Орто» (40702810700000237677). УПНО 10445257000000001208202600046703.",
+    "notes": "Поручение №33 от 12.08.2026 (Transfer Request No.33, прил. к аг.договору 22/05 от 22.05.2025). Принципал: ООО «Экспресс-Орто». Агент: ОсОО «БиТрейд Кей Джи» (КР). Получатель: ÇAKMAKLAR Ortopedik Malzemeler Ltd.Sti (Mehmet Zahit Kotku Cad. No:3, 2306374 Yenimahalle/ANKARA/TURKEY). TURKIYE İŞ BANKASI A.S., SWIFT ISBKTRIS, EUR TR28 0006 4000 0024 2740 1245 14. 15 700,00 EUR. Контракт №80/2026 от 27.07.2026, Invoice EC12026000000072. Курс 1 USD = 95,7300 RUB, RUB 1 502 961,00. Комиссия агента 2,5% после зачисления. Срок 5-10 банк. дней. | ПП товар 12.08.2026 (Райффайзенбанк, ПРОВЕДЕНО 12 АВГ 2026): 1 502 961,00₽ {VO11100} For enrollment invoice N EC12026000000072 of 27.07.2026, Silicone Machine HS 9021399000, без НДС. Получатель ОсОО БиТрейд Кей Джи (ВТБ 40807810525640000008), плательщик ООО «Экспресс-Орто» (40702810700000237677). УПНО 10445257000000001208202600046703. | Payment from Q8 12.08 (q8_ec12026_fixed): BENEFICIARY ÇAKMAKLAR Ort.Malz.Elk.Mak.İml.Paz.San.Ve Tic Ltd Şti (Mehmet Zahit Kotku Cad. No: 3/23, 06374 Yenimahalle/ANKARA). TURKIYE İS BANKASI A.S, TR28 0006 4000 0024 2740 1245 14 (EURO), ISBKTRIS. Payment under Invoice EC12026000000072 dd 27.07.2026 — orthopedic equipment (SILICINE MACHINE SLM.4500, SOCKET ROUTER FR.2500, accessories), HS 8477.0899.0000 / 8465.9300.0012, EX WORKS. Amount 15 700,00 EUR. (dedup exit 2 — совпал с поручением №33; Q8-платёж → 🟢).",
     "calc": null
   },
   {
