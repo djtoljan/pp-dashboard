@@ -924,5 +924,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 49,
+    "date": "2026-08-12",
+    "sum": 17744,
+    "currency": "EUR",
+    "company": "INTEGRA",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": "Заявка 12.08.2026 (Payment from INTEGRA, OUR). Beneficiary: Laurastar SA (Rte de Montreux 149, CH-1618 Chatel-St-Denis, Switzerland). UBS Switzerland AG, CH-1630 Bulle, UBSWCHZH80A, CH16 0026 6266 3500 7464 D. 17 744,00 EUR. Invoices: Proforma 1031227 dd 06.08.26 — Steam Generator Laurastar LIFT EU Swiss Limited Edition 44шт × 188,00 = 8 272,00 + S Pure Xtreme EU 3шт × 410,00 = 1 230,00 (итого 9 502,00); Proforma 1031228 dd 04.08.26 — Steam Generator 44шт × 188,00 = 8 272,00. FCA Kapuvár, Hungary. Prepayment. VAT CHE-105.874.136. Customer ref 2026 AUG ORDER - GE/UZ, nr 1437635.",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
