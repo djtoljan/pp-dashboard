@@ -920,9 +920,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 90983.29,
     "sent_usdt": null,
-    "notes": "| Проформа 26-010-000139 от 10.08.2026 (važi do 25.08.2026). 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Serbia, Matični 17485059, PIB 102893403). OTP BANKA SRBIJA A.D., OTPVRS22, RS35325960160000415772; Intermediary: Deutsche Bank AG, DEUTDEFF. BREVILLE household appliances: VST072X Waffle maker 1500шт × 44,40 = 66 600,00; VST070X Sandwich Toaster 200шт × 42,60 = 8 520,00; VST071X Sandwich Press 12шт × 41,00 = 492,00; VCF183X Espresso 2шт × 145,90 = 291,80; VCF185X Slimline Barista 2шт × 176,75 = 353,50; VCF186X Compact Barista 2шт × 368,90 = 737,80; Transport 1 170,00. UKUPNO 78 165,10 EUR. Payment for proforma invoice 26-010-000139 dd 10.08.2026, home appliances. HS 8516797000, 8516710000.",
+    "notes": "| Проформа 26-010-000139 от 10.08.2026 (važi do 25.08.2026). 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Serbia, Matični 17485059, PIB 102893403). OTP BANKA SRBIJA A.D., OTPVRS22, RS35325960160000415772; Intermediary: Deutsche Bank AG, DEUTDEFF. BREVILLE household appliances: VST072X Waffle maker 1500шт × 44,40 = 66 600,00; VST070X Sandwich Toaster 200шт × 42,60 = 8 520,00; VST071X Sandwich Press 12шт × 41,00 = 492,00; VCF183X Espresso 2шт × 145,90 = 291,80; VCF185X Slimline Barista 2шт × 176,75 = 353,50; VCF186X Compact Barista 2шт × 368,90 = 737,80; Transport 1 170,00. UKUPNO 78 165,10 EUR. Payment for proforma invoice 26-010-000139 dd 10.08.2026, home appliances. HS 8516797000, 8516710000. | Bobr Alert 12.08 10:16 UTC: IN 90983.29 USDT на Рабочий 3 от TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4 (Константин) — часть сводного 111 672,02 USDT под заявку 78 165,10 EUR (220-B). Разбивка подтверждена Scream 12.08.",
     "calc": null
   },
   {
@@ -939,9 +939,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 20688.73,
     "sent_usdt": null,
-    "notes": "| Заявка 12.08.2026 (Payment from INTEGRA, OUR). Beneficiary: Laurastar SA (Rte de Montreux 149, CH-1618 Chatel-St-Denis, Switzerland). UBS Switzerland AG, CH-1630 Bulle, UBSWCHZH80A, CH16 0026 6266 3500 7464 D. 17 744,00 EUR. Invoices: Proforma 1031227 dd 06.08.26 — Steam Generator Laurastar LIFT EU Swiss Limited Edition 44шт × 188,00 = 8 272,00 + S Pure Xtreme EU 3шт × 410,00 = 1 230,00 (итого 9 502,00); Proforma 1031228 dd 04.08.26 — Steam Generator 44шт × 188,00 = 8 272,00. FCA Kapuvár, Hungary. Prepayment. VAT CHE-105.874.136. Customer ref 2026 AUG ORDER - GE/UZ, nr 1437635. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, 12.08.2026 09:23 UTC, Account MT73CFTE28004000000000005739981): INTEGRA TRADE LIMITED → Laurastar SA (UBS Switzerland AG, CH160026626635007464D), -17 774,00 EUR, Invoices 1031227 dd 06.08.26 + 1031228 dd 04.08.26, SEPA. Status: INITIATED. Подвешенное ПП → 🟡. Ждём EXECUTED → 🟢.",
+    "notes": "| Заявка 12.08.2026 (Payment from INTEGRA, OUR). Beneficiary: Laurastar SA (Rte de Montreux 149, CH-1618 Chatel-St-Denis, Switzerland). UBS Switzerland AG, CH-1630 Bulle, UBSWCHZH80A, CH16 0026 6266 3500 7464 D. 17 744,00 EUR. Invoices: Proforma 1031227 dd 06.08.26 — Steam Generator Laurastar LIFT EU Swiss Limited Edition 44шт × 188,00 = 8 272,00 + S Pure Xtreme EU 3шт × 410,00 = 1 230,00 (итого 9 502,00); Proforma 1031228 dd 04.08.26 — Steam Generator 44шт × 188,00 = 8 272,00. FCA Kapuvár, Hungary. Prepayment. VAT CHE-105.874.136. Customer ref 2026 AUG ORDER - GE/UZ, nr 1437635. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, 12.08.2026 09:23 UTC, Account MT73CFTE28004000000000005739981): INTEGRA TRADE LIMITED → Laurastar SA (UBS Switzerland AG, CH160026626635007464D), -17 774,00 EUR, Invoices 1031227 dd 06.08.26 + 1031228 dd 04.08.26, SEPA. Status: INITIATED. Подвешенное ПП → 🟡. Ждём EXECUTED → 🟢. | Bobr Alert 12.08 10:16 UTC: IN 20688.73 USDT на Рабочий 3 от TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4 (Константин) — часть сводного 111 672,02 USDT под заявку 17 774 EUR (Laurastar). Разбивка подтверждена Scream 12.08.",
     "calc": null
   }
 ]
