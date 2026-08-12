@@ -836,7 +836,7 @@
     "sum": 16621,
     "currency": "EUR",
     "company": "OMNEX",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "16,621.00 EUR → 19,159/(1-0.35%)+100 = 19,326.29 USDT",
     "extra": "Proforma D-BZT-34 dd 31.07.2026. BZT Master Cargo Kft (1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó, Hungary, Tax 33020048-2-42). Beneficiary: SYMOCO PAYMENTS LTD, IBAN LT 843981120000002353, SWIFT USTILT2VXXX, UAB Stanhope Financial, Vilnius, Lithuania. 16,621.00 EUR. Платит OMNEX.",
@@ -846,7 +846,7 @@
     "vdx_rate": null,
     "received_usdt": 19354.89,
     "sent_usdt": 19326.29,
-    "notes": "Заявка 06.08.2026 (Application for transfer 16_621.00_EUR_06.08.2026): Payment for glue to invoice No. D-BZT-34 dd 31.07.2026. Beneficiary bank: UAB Stanhope Financial (UPES G. 23, Vilnius, LT-08128, Lithuania), IBAN LT843981120000002353, SWIFT USTILT2VXXX. Beneficiary: BZT Master Cargo Kft (1141 Budapest, Mogyoródi út 85, Hungary). Customer: OMNEX TRADING LIMITED. 16,621.00 EUR. | Proforma D-BZT-34 от 31.07.2026 (issue 31.07, due 10.08.2026): PU200S/BK/4000 SUMMER RESIN KIT 50шт 4,156.00 + PU200W/BK/4000 Winter Resin Kit 150шт 12,465.00 = 16,621.00 EUR. Gross 6,033,257 HUF (MNB 362.99). | Bobr 07.08 12:22:42 UTC: IN 19 354,89 USDT на Рабочий 3 от TX6kQe…mYcP9 (Константин). Под заявку 16 621 EUR (BZT Master Cargo / OMNEX). | TRANSACTION CONFIRMATION PAYOUT MT35CFTE28004000000000005036930 07.08.2026 (Тип 3 INITIATED, Status INITIATED, Created 07.08.2026 13:59 UTC): OMNEX TRADING LIMITED → BZT Master Cargo Kft (IBAN LT843981120000002353), SEPA, -16,621.00 EUR, INV D-BZT-34 dd 31.07.26.",
+    "notes": "Заявка 06.08.2026 (Application for transfer 16_621.00_EUR_06.08.2026): Payment for glue to invoice No. D-BZT-34 dd 31.07.2026. Beneficiary bank: UAB Stanhope Financial (UPES G. 23, Vilnius, LT-08128, Lithuania), IBAN LT843981120000002353, SWIFT USTILT2VXXX. Beneficiary: BZT Master Cargo Kft (1141 Budapest, Mogyoródi út 85, Hungary). Customer: OMNEX TRADING LIMITED. 16,621.00 EUR. | Proforma D-BZT-34 от 31.07.2026 (issue 31.07, due 10.08.2026): PU200S/BK/4000 SUMMER RESIN KIT 50шт 4,156.00 + PU200W/BK/4000 Winter Resin Kit 150шт 12,465.00 = 16,621.00 EUR. Gross 6,033,257 HUF (MNB 362.99). | Bobr 07.08 12:22:42 UTC: IN 19 354,89 USDT на Рабочий 3 от TX6kQe…mYcP9 (Константин). Под заявку 16 621 EUR (BZT Master Cargo / OMNEX). | TRANSACTION CONFIRMATION PAYOUT MT35CFTE28004000000000005036930 07.08.2026 (Тип 3 INITIATED, Status INITIATED, Created 07.08.2026 13:59 UTC): OMNEX TRADING LIMITED → BZT Master Cargo Kft (IBAN LT843981120000002353), SEPA, -16,621.00 EUR, INV D-BZT-34 dd 31.07.26. | TRANSACTION CONFIRMATION PAYOUT MT35CFTE28004000000000005036930 (Тип 3 EXECUTED, Status COMPLETED, Created 12.08.2026 07:17 UTC): OMNEX TRADING LIMITED → BZT Master Cargo Kft (IBAN LT843981120000002353), SEPA, -16,621.00 EUR, INV D-BZT-34 dd 31.07.26.",
     "calc": null
   },
   {
