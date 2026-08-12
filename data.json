@@ -2398,5 +2398,24 @@
     "sent_usdt": null,
     "notes": "Поручение №5 от 19.05.2026 (Transfer Request No.5, прил.1 к аг.договору 14-04/26 от 14.04.2026). Принципал: ООО «ЛОГИС». Агент: ОсОО «Блэкшарк Трейд» (КР). Получатель: Foshan Lihe Precise Machinery Co., Ltd (через ZHEN MAI INTERNATIONAL LIMITED, FLAT A19, 2/F Efficiency House, 35 Tai Yau St, San Po Kong, HK). CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED, CCBQHKAX, 846210384335 (USD). 58 000,00 USD. Инвойс 26030201-C, контракт 26030201-C от 13.05.2026. Курс 72,3497 = 4 196 282,60₽. Комиссия агента 1,7%+100$ = 71 336,80 + 7 234,97 = 78 571,77₽. Срок 5-10 банк. дней.",
     "calc": null
+  },
+  {
+    "row": 123,
+    "date": "2026-08-12",
+    "sum": 43696.2,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №68416 от 12.08.2026 (Transfer Request No.68416, прил.2 к дог. 20102025TК/2 от 20.10.2025). Принципал: ООО «ВТС». Агент: ОсОО «БиТрейд Кей Джи» (КР). Получатель: Itrix Co., Ltd. (Siam Commercial Bank PCL, SICOTHBK, USD 468-000093-8-840, BUILDING 2, RUTCHADAPISEK ROAD, CHATUCHAK, BANGKOK 10900). 43 696,20 USD. Инвойс 68416 dd 23.03.2026, Sales Contract 20-09/01 dd 20.09.2025. Курс 83,30 = 3 639 893,46₽. Комиссия агента 1,5% + 100 USD. | Инвойс услуг БиТрейд №68416 от 12.08.2026: посреднические услуги по проведению расчётов с иностранным поставщиком 755,44 USD (1,5% от 43 696,20 = 655,44 + 100) @ 83,30 = 62 928,40₽. Покупатель ООО «ВТС», дог. 27062025ТК/1 от 24.06.2025. БиТрейд Кей Джи: ВТБ, р/с 40807810525640000008. Срок 5-10 банк. дней.",
+    "calc": null
   }
 ]
