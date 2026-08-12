@@ -2341,5 +2341,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 120,
+    "date": "2026-08-12",
+    "sum": 15700,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Экспресс-Орто",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №33 от 12.08.2026 (Transfer Request No.33, прил. к аг.договору 22/05 от 22.05.2025). Принципал: ООО «Экспресс-Орто». Агент: ОсОО «БиТрейд Кей Джи» (КР). Получатель: ÇAKMAKLAR Ortopedik Malzemeler Ltd.Sti (Mehmet Zahit Kotku Cad. No:3, 2306374 Yenimahalle/ANKARA/TURKEY). TURKIYE İŞ BANKASI A.S., SWIFT ISBKTRIS, EUR TR28 0006 4000 0024 2740 1245 14. 15 700,00 EUR. Контракт №80/2026 от 27.07.2026, Invoice EC12026000000072. Курс 1 USD = 95,7300 RUB, RUB 1 502 961,00. Комиссия агента 2,5% после зачисления. Срок 5-10 банк. дней.",
+    "calc": null
   }
 ]
