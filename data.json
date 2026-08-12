@@ -2379,5 +2379,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 122,
+    "date": "2026-05-19",
+    "sum": 58000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ЛОГИС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №5 от 19.05.2026 (Transfer Request No.5, прил.1 к аг.договору 14-04/26 от 14.04.2026). Принципал: ООО «ЛОГИС». Агент: ОсОО «Блэкшарк Трейд» (КР). Получатель: Foshan Lihe Precise Machinery Co., Ltd (через ZHEN MAI INTERNATIONAL LIMITED, FLAT A19, 2/F Efficiency House, 35 Tai Yau St, San Po Kong, HK). CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED, CCBQHKAX, 846210384335 (USD). 58 000,00 USD. Инвойс 26030201-C, контракт 26030201-C от 13.05.2026. Курс 72,3497 = 4 196 282,60₽. Комиссия агента 1,7%+100$ = 71 336,80 + 7 234,97 = 78 571,77₽. Срок 5-10 банк. дней.",
+    "calc": null
   }
 ]
