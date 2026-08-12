@@ -2177,7 +2177,7 @@
     "sum": 17630.23,
     "currency": "EUR",
     "company": "LUXORA",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Дре Русланд",
     "costFormula": "17 630,23 EUR → 20342/(1-0.35%)+100 = 20 513,447 USDT",
     "extra": "Поручение №35 от 10.08.2026 (Transfer Request No.35 from 10/08/26) по дог. 2701-27/1 от 27.01.26. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО «Блэкшарк Трейд». Получатель: MAR-S SP Z O O (Польша, BRALIN, ul. Namysłowska 9B). Santander Bank Polska S.A., SWIFT WBKPPLPP, IBAN PL86109011440000000122754883. Инвойс FV/3697/2026 от 23.07.2026 (мебель: диваны, кровати, уголки; фактура 74,047.00 PLN, курс 4.2 = 17,630.23 EUR). Курс 95.6000. RUB 1,685,449.99. Комиссия 1,6% (26,967.20). Срок 2-3 банк. дня",
@@ -2435,25 +2435,6 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Инвойс Itrix 73946 dd 12.08.2026 (XLSX): TOTAL 18 126,58 USD — Density-200X 17 156,43 + Air shipping cost to Moscow 970,15. BILL TO: ООО «WTC» (ВТС), 117105 Moscow, Novodanilovskaya Nab., 4a. Sales Contract 20-09/01 dd 20.09.2025. Siam Commercial Bank (SICOTHBK), USD 468-000093-8-840; Bangkok Bank (BKKBTHBK), USD 840-855-0029-403748-501. Компания/поручение пока неизвестны — ждём. | Инвойс услуг БиТрейд №73946 от 12.08.2026: посреднические услуги по проведению расчётов с иностранным поставщиком 371,90 USD @ курс 83,30 = 30 979,16₽. Покупатель ООО «ВТС», дог. 27062025ТК/1 от 24.06.2025. БиТрейд Кей Джи: ВТБ, р/с 40807810525640000008. (1,5% от 18 126,58 = 271,90 + 100 = 371,90 ✓).",
-    "calc": null
-  },
-  {
-    "row": 125,
-    "date": "2026-08-12",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": null,
-    "clientName": null,
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
     "calc": null
   }
 ]
