@@ -2572,7 +2572,7 @@
     "sum": 35000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "CEVA FREIGHT (Цветы)",
     "costFormula": "35000 + 0.3% + 30 = 35135 USDT",
     "extra": null,
@@ -2582,7 +2582,7 @@
     "vdx_rate": null,
     "received_usdt": "35310",
     "sent_usdt": 35135,
-    "notes": "Invoice 34298 dd 08.08.2026. CEVA Freight Management de Colombia S.A.S (Bogotá, NIT 830.079.716-6). Q8 Group Limited (HK). AIR FREIGHT 35 000 USD. Citibank Colombia, 0073854016. Ордер: CEVA, 35 000 USD, Citibank Colombia CITICOBB 0073854016, transportation services. ТЕЗ. | received_usdt: 35310 USDT (35000 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (242-Invoice PO, txid O2087139581861429248439): Q8 GROUP LIMITED → CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS (Citibank Colombia, CITICOBB), 35 000,00 USD, handling fee 30 USD. Payment Date 2026-08-11 19:30:28. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢.",
+    "notes": "Invoice 34298 dd 08.08.2026. CEVA Freight Management de Colombia S.A.S (Bogotá, NIT 830.079.716-6). Q8 Group Limited (HK). AIR FREIGHT 35 000 USD. Citibank Colombia, 0073854016. Ордер: CEVA, 35 000 USD, Citibank Colombia CITICOBB 0073854016, transportation services. ТЕЗ. | received_usdt: 35310 USDT (35000 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (242-Invoice PO, txid O2087139581861429248439): Q8 GROUP LIMITED → CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS (Citibank Colombia, CITICOBB), 35 000,00 USD, handling fee 30 USD. Payment Date 2026-08-11 19:30:28. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢. | BONBILL O2087139581861429248439 11.08.2026 19:30:28: Q8 GROUP LIMITED → CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS (Citibank Colombia, 0073854016), 35 000,00 USD, Invoice 34298 dd 08.08.2026 (ForFreight). EXECUTED 🟢",
     "calc": null
   },
   {
@@ -2591,7 +2591,7 @@
     "sum": 15467.66,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "ALIANZA LOGISTICS (Цветы)",
     "costFormula": "15467.66 + 0.3% + 30 = 15544.06 USDT",
     "extra": null,
@@ -2601,7 +2601,7 @@
     "vdx_rate": null,
     "received_usdt": "15660.47",
     "sent_usdt": 15544.06,
-    "notes": "Invoice INV-3803-1 dd 30.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Quito, Ecuador). Q8 GROUP LIMITED (HK). Shipment 145-1210 3803, 15 467.66 USD. PRODUBANCO, PRODECEQ, 02005144694. Ордер ALIANZA: 15 467.66 USD. ТЕЗ. | received_usdt: 15660.47 USDT (15467.66 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (243-PO, txid O2087143612600156160550): Q8 GROUP LIMITED → ALIANZA LOGISTIKA TDGE S.A., 15 467,66 USD, handling fee 30 USD. Payment Date 2026-08-11 19:46:29. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢.",
+    "notes": "Invoice INV-3803-1 dd 30.07.2026. ALIANZA LOGISTIKA TDGE S.A. (Quito, Ecuador). Q8 GROUP LIMITED (HK). Shipment 145-1210 3803, 15 467.66 USD. PRODUBANCO, PRODECEQ, 02005144694. Ордер ALIANZA: 15 467.66 USD. ТЕЗ. | received_usdt: 15660.47 USDT (15467.66 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (243-PO, txid O2087143612600156160550): Q8 GROUP LIMITED → ALIANZA LOGISTIKA TDGE S.A., 15 467,66 USD, handling fee 30 USD. Payment Date 2026-08-11 19:46:29. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢. | BONBILL O2087143612600156160550 11.08.2026 19:46:29: Q8 GROUP LIMITED → ALIANZA LOGISTIKA TDGE S.A. (PRODUBANCO, 02005144694), 15 467,66 USD, INV-3803-1 dd 30.07.2026 (ForShipment). EXECUTED 🟢",
     "calc": null
   },
   {
@@ -2610,7 +2610,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Novpec (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": null,
@@ -2620,7 +2620,7 @@
     "vdx_rate": null,
     "received_usdt": "10160",
     "sent_usdt": 10060,
-    "notes": "Invoice 11146 dd 08.08.2026. NOVPEC S.A. (Quito, Ecuador). Q8 Group Limited (HK). Roses 9500 stems, 18.5 boxes, FOB 6505 + inland 138 + AWB 3357 = 10 000 USD. MAWB 369-1103-8305. Ордер NOVPEC_10000: Novpec S.A., 10 000 USD, Banco Guayaquil GUAYECEGXXX 48406459, Wells Fargo PNBPUS3NNYC. ТЕЗ. | received_usdt: 10160 USDT (10000 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (241-PO, txid O2087134026702913536500): Q8 GROUP LIMITED → Novpec S.A., 10 000,00 USD, handling fee 30 USD. Payment Date 2026-08-11 19:08:23. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢.",
+    "notes": "Invoice 11146 dd 08.08.2026. NOVPEC S.A. (Quito, Ecuador). Q8 Group Limited (HK). Roses 9500 stems, 18.5 boxes, FOB 6505 + inland 138 + AWB 3357 = 10 000 USD. MAWB 369-1103-8305. Ордер NOVPEC_10000: Novpec S.A., 10 000 USD, Banco Guayaquil GUAYECEGXXX 48406459, Wells Fargo PNBPUS3NNYC. ТЕЗ. | received_usdt: 10160 USDT (10000 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (241-PO, txid O2087134026702913536500): Q8 GROUP LIMITED → Novpec S.A., 10 000,00 USD, handling fee 30 USD. Payment Date 2026-08-11 19:08:23. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢. | BONBILL O2087134026702913536500 11.08.2026 19:08:23: Q8 GROUP LIMITED → Novpec S.A. (Banco Guayaquil, 48406459), 10 000,00 USD, Invoice 11146 dd 08.08.2026 (ForFlowers). EXECUTED 🟢",
     "calc": null
   },
   {
@@ -2629,7 +2629,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Collie Enterprises (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": null,
@@ -2639,7 +2639,7 @@
     "vdx_rate": null,
     "received_usdt": "10160",
     "sent_usdt": 10060,
-    "notes": "Proforma 202607-111031 dd 10.07.2026. COLLIE ENTERPRISES (Nairobi, Kenya). Q8 Group Limited (HK). Roses assorted (Baraka, PJ Dave, Redlands) + Expolanka Freight, 68 boxes, 27 480 stems, 10 063 USD → оплата 10 000 USD. Cooperative Bank of Kenya. Ордер COLLIE_ENTERPRISES_10000: 10 000 USD, Co-operative Bank KCOOKENA 02105001210001. ТЕЗ. | received_usdt: 10160 USDT (10000 + 0.6% + 100, Scream 11.08.2026).",
+    "notes": "Proforma 202607-111031 dd 10.07.2026. COLLIE ENTERPRISES (Nairobi, Kenya). Q8 Group Limited (HK). Roses assorted (Baraka, PJ Dave, Redlands) + Expolanka Freight, 68 boxes, 27 480 stems, 10 063 USD → оплата 10 000 USD. Cooperative Bank of Kenya. Ордер COLLIE_ENTERPRISES_10000: 10 000 USD, Co-operative Bank KCOOKENA 02105001210001. ТЕЗ. | received_usdt: 10160 USDT (10000 + 0.6% + 100, Scream 11.08.2026). | BONBILL O2087145897715695616905 11.08.2026 19:55:34: Q8 GROUP LIMITED → COLLIE ENTERPRISES (Cooperative Bank of Kenya, 02105001210001), 10 000,00 USD, inv 202607-111031 dd 10.07.2026 (ForFlowers). EXECUTED 🟢",
     "calc": null
   },
   {
@@ -2648,7 +2648,7 @@
     "sum": 1900,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "SUBATI GROUPS (Цветы)",
     "costFormula": "1900 + 0.3% + 30 = 1935.70 USDT",
     "extra": null,
@@ -2658,7 +2658,7 @@
     "vdx_rate": null,
     "received_usdt": "2011.4",
     "sent_usdt": 1935.7,
-    "notes": "Sales Invoice SFL-070426 dd 07.04.2026. SUBATI GROUPS LIMITED (Nairobi, Kenya, P.O. Box 26530-00100). Цветы (SINGLE MIX/SPRAY MIX/SUMMER FLOWERS), 62 660 stems, 1 900 USD FCA. Ордер: SUBATI GROUPS, 1 900 USD, ABSA BANK KENYA BARCKENX 2035473753. ТЕЗ. | received_usdt: 2011.4 USDT (1900 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (245-Invoice PO, txid O2087150762936369152782): Q8 GROUP LIMITED → SUBATI GROUPS, 1 900,00 USD, handling fee 30 USD. Payment Date 2026-08-11 20:14:54. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢.",
+    "notes": "Sales Invoice SFL-070426 dd 07.04.2026. SUBATI GROUPS LIMITED (Nairobi, Kenya, P.O. Box 26530-00100). Цветы (SINGLE MIX/SPRAY MIX/SUMMER FLOWERS), 62 660 stems, 1 900 USD FCA. Ордер: SUBATI GROUPS, 1 900 USD, ABSA BANK KENYA BARCKENX 2035473753. ТЕЗ. | received_usdt: 2011.4 USDT (1900 + 0.6% + 100, Scream 11.08.2026). | PO IBR 3088 11.08.2026 (245-Invoice PO, txid O2087150762936369152782): Q8 GROUP LIMITED → SUBATI GROUPS, 1 900,00 USD, handling fee 30 USD. Payment Date 2026-08-11 20:14:54. Status Processing. Подвешенное ПП (INITIATED) → 🟡. Ждём EXECUTED → 🟢. | BONBILL O2087150762936369152782 11.08.2026 20:14:54: Q8 GROUP LIMITED → SUBATI GROUPS LIMITED (ABSA BANK KENYA, 2035473753), 1 900,00 USD, INV SFL-070426 dd 07.04.2026 (ForFlowers). EXECUTED 🟢",
     "calc": null
   },
   {

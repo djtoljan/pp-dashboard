@@ -1335,7 +1335,7 @@
     "sum": 5700,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Вилог",
     "costFormula": "5,700 + 0.3% + 30 = 5,747.10 USDT",
     "extra": "Вилог",
@@ -1345,7 +1345,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 5747.1,
-    "notes": "Заявка Вилог через Q8. Проформа PI YX04J260804-163 от 04.08.2026: GUANGZHOU XUHAN ELECTRONIC TECHNOLOGY CO., LIMITED (Китай). ThinkSystem 2.5 1.2TB 10K SAS HDD 20шт x $74 = $1,480 + ThinkSystem 3.5in 6TB 7.2K SATA HDD 20шт x $208 = $4,160 + Shipping $60. Итого $5,700. China Construction Bank (Asia), CCBQHKAX, 846210336112. Payment Order: beneficiary GUANGZHOU XUHAN, $5,700 USD. ТЕЗ: 5,700 + 0.3% + 30 = 5,747.10 USDT",
+    "notes": "Заявка Вилог через Q8. Проформа PI YX04J260804-163 от 04.08.2026: GUANGZHOU XUHAN ELECTRONIC TECHNOLOGY CO., LIMITED (Китай). ThinkSystem 2.5 1.2TB 10K SAS HDD 20шт x $74 = $1,480 + ThinkSystem 3.5in 6TB 7.2K SATA HDD 20шт x $208 = $4,160 + Shipping $60. Итого $5,700. China Construction Bank (Asia), CCBQHKAX, 846210336112. Payment Order: beneficiary GUANGZHOU XUHAN, $5,700 USD. ТЕЗ: 5,700 + 0.3% + 30 = 5,747.10 USDT | BONBILL O2087128376287559680815 11.08.2026 18:45:56: Q8 GROUP LIMITED → GUANGZHOU XUHAN ELECTRONIC TECHNOLOGY CO., LIMITED (CCB Asia, 846210336112), 5 700,00 USD, Invoice YX04J260804-163 dd 04.08.2026 (ForThinkSystem). EXECUTED 🟢",
     "calc": null
   },
   {
