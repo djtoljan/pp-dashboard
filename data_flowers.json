@@ -2764,5 +2764,24 @@
     "sent_usdt": null,
     "notes": "Proforma-RECHNUNG Nr. DBA12082026/01 dd 12.08.2026. DBA Euro Plants GmbH (Trankeweg 8, 15517 Fürstenwalde/Spree, Германия; USt-IdNr DE369987532, HRB 20685 FF; директор Dainė Baumilė) → Q8 Group Limited (HK). Контракт 26.07.31/01, растения. 90 750,00 EUR, MwST 0%. REVOLUT, IBAN LT193250010460027222, SWIFT REVOLT21. Payment Order: 90 750,00 EUR → DBA Euro Plants GmbH (REVOLT21, LT193250010460027222). Q8 → ТЕЗ. ⬜ Step 3 (заявка, Scream 13.08 «Цветочный клиент»). Ждём кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × курс + 0.3% + 30).",
     "calc": null
+  },
+  {
+    "row": 153,
+    "date": "2026-08-13",
+    "sum": 8926.79,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Bloom Market (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
