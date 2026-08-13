@@ -656,5 +656,24 @@
     "sent_usdt": null,
     "notes": "Выписка ВТБ 13.08.2026 (счёт 40807810825640000009, Блэкшарк Трейд): приход 1 682 910,00₽ от RUE BELTAMOZHSERVICE MOGILEV BRANCH (УНП101561144, BY31AKBB30120479216857000000, BELARUSBANK, Могилёв). {VO11100 или агентские — назначение не указано}. Ждём заявку/уточнение.",
     "calc": null
+  },
+  {
+    "row": 35,
+    "date": "2026-08-13",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "НВ-ТРЕЙДИНГ",
+    "costFormula": null,
+    "extra": "заявка №5 от 13.08.2026, проформа-инвойс PROF47/2026, контракт №16/2024 от 20.05.2024, договор №0512-25/1 от 05.12.2025, оплата за батуты",
+    "rubles_received": "1271555.46/20344.88",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
