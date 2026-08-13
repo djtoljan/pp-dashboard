@@ -649,12 +649,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": "1682910.00",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "1682910.00",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Выписка ВТБ 13.08.2026 (счёт 40807810825640000009, Блэкшарк Трейд): приход 1 682 910,00₽ от RUE BELTAMOZHSERVICE MOGILEV BRANCH (УНП101561144, BY31AKBB30120479216857000000, BELARUSBANK, Могилёв). {VO11100 или агентские — назначение не указано}. Ждём заявку/уточнение.",
+    "notes": "Выписка ВТБ 13.08.2026 (счёт 40807810825640000009, Блэкшарк Трейд): приход 1 682 910,00₽ от RUE BELTAMOZHSERVICE MOGILEV BRANCH (УНП101561144, BY31AKBB30120479216857000000, BELARUSBANK, Могилёв). {VO11100 или агентские — назначение не указано}. Ждём заявку/уточнение. | 13.08: VDX-уведомление операционки — с Блэкшарк ВТБ на VDX: 1 682 910,00₽ за текстиль, заявка 684 (Hanlon project). sent_rubles_vdx = 1 682 910,00. | 13.08: VDX-уведомление операционки — с Блэкшарк ВТБ на VDX: 1 682 910,00₽ за текстиль, заявка 684 (Hanlon project). sent_rubles_vdx = 1 682 910,00. | 13.08: VDX-уведомление операционки — с Блэкшарк ВТБ на VDX: 1 682 910,00₽ за текстиль, заявка 684 (Hanlon project). sent_rubles_vdx = 1 682 910,00.",
     "calc": null
   },
   {
