@@ -310,7 +310,7 @@
     "sum": 29632.98,
     "currency": "EUR",
     "company": "OMNEX",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "29 632,98 EUR × 1.15322106 = 34 173,38 USD / (1-0.35%) + 100 = 34 393,40 USDT",
     "extra": null,
@@ -320,7 +320,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 34393.4,
-    "notes": "13.08: Заявка (Payment from OMNEX, OUR): 29 632,98 EUR → ICSEA HELEN SEWARD s.a.s. (VIA A. DE GASPERI, 8/A LAINATE MI). INTESA SANPAOLO SPA, BCITITMMXXX, IT85 Q030 6933 2201 0000 0000 723. Invoice 1024 dd 22/05/2026. ⬜ Step 3 (заявка — Scream: «Payment from X = просто заявка, цвет Белый»). | Кросс-курс EUR/USD = 1.15322106 (Alex VDX 13.08): 29 632,98 EUR → 34 173,38 USD; 34 173,38 / (1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX скрин FX — 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD). OMNEX: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX скрин FX — 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD). OMNEX: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX FX скрин: 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD) — кросс-курс для заявки OMNEX. Расчёт: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT.",
+    "notes": "13.08: Заявка (Payment from OMNEX, OUR): 29 632,98 EUR → ICSEA HELEN SEWARD s.a.s. (VIA A. DE GASPERI, 8/A LAINATE MI). INTESA SANPAOLO SPA, BCITITMMXXX, IT85 Q030 6933 2201 0000 0000 723. Invoice 1024 dd 22/05/2026. ⬜ Step 3 (заявка — Scream: «Payment from X = просто заявка, цвет Белый»). | Кросс-курс EUR/USD = 1.15322106 (Alex VDX 13.08): 29 632,98 EUR → 34 173,38 USD; 34 173,38 / (1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX скрин FX — 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD). OMNEX: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX скрин FX — 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD). OMNEX: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX FX скрин: 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD) — кросс-курс для заявки OMNEX. Расчёт: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08 10:14 UTC: MT35 TRANSACTION CONFIRMATION PAYOUT — OMNEX TRADING LIMITED (MT35CFTE28004000000000005036930) → ICSEA HELEN SEWARD s.a.s. (IBAN IT85Q0306933220100000000723), -29 632,98 EUR, Invoice 1595 dd 04.08.2026, SEPA. Status: INITIATED → 🟡. Ждём EXECUTED → 🟢.",
     "calc": "Кросс-курс EUR/USD = 1.15322106 (13.08.2026, Alex VDX): 29 632,98 EUR → 34 173,38 USD"
   }
 ]
