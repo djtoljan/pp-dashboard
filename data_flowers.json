@@ -2771,7 +2771,7 @@
     "sum": 8926.79,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Bloom Market (Цветы)",
     "costFormula": "8 926,79 / 0.864124011113 + 0.3% + 30 = 10 391,44 USDT",
     "extra": null,
@@ -2781,7 +2781,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10391.44,
-    "notes": "Инвойс Nr. BL-P01/130826 dd 13.08.2026. Bloom Market EOOD (Ul. Odrin No15, Et. 9 ofis 908, PK8000 Burgas, Bulgaria; Reg 208213027, VAT BG 208213027; директор Raivis Skrastins) → Q8 Group Limited (HK). ROSA 16 000 шт × 0,52 = 8 320,00 + Logistics services 606,79 = TOTAL 8 926,79 EUR, VAT 0% (Art.138(1) EU VAT Directive). Bulgarian-American Credit Bank, BG12BGUS91601413755700, BGUSBGSF. ⬜ Step 3 (заявка, Daisy 13.08). Q8 → ТЕЗ. Ждём кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × курс + 0.3% + 30). | Кросс-курс EUR/USD = 1.15724131 (IBR 3088 13.08): 8 926,79 EUR → 10 330,45 USD; 8 926,79 / 0.864124011113 + 0.3% + 30 = 10 391,44 USDT (Scream 13.08).",
+    "notes": "Инвойс Nr. BL-P01/130826 dd 13.08.2026. Bloom Market EOOD (Ul. Odrin No15, Et. 9 ofis 908, PK8000 Burgas, Bulgaria; Reg 208213027, VAT BG 208213027; директор Raivis Skrastins) → Q8 Group Limited (HK). ROSA 16 000 шт × 0,52 = 8 320,00 + Logistics services 606,79 = TOTAL 8 926,79 EUR, VAT 0% (Art.138(1) EU VAT Directive). Bulgarian-American Credit Bank, BG12BGUS91601413755700, BGUSBGSF. ⬜ Step 3 (заявка, Daisy 13.08). Q8 → ТЕЗ. Ждём кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × курс + 0.3% + 30). | Кросс-курс EUR/USD = 1.15724131 (IBR 3088 13.08): 8 926,79 EUR → 10 330,45 USD; 8 926,79 / 0.864124011113 + 0.3% + 30 = 10 391,44 USDT (Scream 13.08). | 13.08: BONBILL Payment Certificate (Q8 GROUP LIMITED → Bloom Market EOOD, Bulgarian-American Credit Bank, BG12BGUS91601413755700). EUR 8 926,79. Invoice BL-P01/130826 dd 13.08.2026 For Flowers. TxID O2087839394861023232337, 2026-08-13 17:51:16. → 🟢 EXECUTED.",
     "calc": null
   }
 ]
