@@ -912,7 +912,7 @@
     "sum": 78165.1,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "78 165,10 EUR × 1.15960032 (FX 12.08: 90 680 USD → 78 199,35 EUR, 1 USD = 0.862366092949) + 0.3% + 30 = 90 942,20 USDT",
     "extra": null,
@@ -922,7 +922,7 @@
     "vdx_rate": null,
     "received_usdt": 90961.74,
     "sent_usdt": 90942.2,
-    "notes": "| Проформа 26-010-000139 от 10.08.2026 (važi do 25.08.2026). 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Serbia, Matični 17485059, PIB 102893403). OTP BANKA SRBIJA A.D., OTPVRS22, RS35325960160000415772; Intermediary: Deutsche Bank AG, DEUTDEFF. BREVILLE household appliances: VST072X Waffle maker 1500шт × 44,40 = 66 600,00; VST070X Sandwich Toaster 200шт × 42,60 = 8 520,00; VST071X Sandwich Press 12шт × 41,00 = 492,00; VCF183X Espresso 2шт × 145,90 = 291,80; VCF185X Slimline Barista 2шт × 176,75 = 353,50; VCF186X Compact Barista 2шт × 368,90 = 737,80; Transport 1 170,00. UKUPNO 78 165,10 EUR. Payment for proforma invoice 26-010-000139 dd 10.08.2026, home appliances. HS 8516797000, 8516710000. | Bobr Alert 12.08 10:16 UTC: IN 90983.29 USDT на Рабочий 3 от TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4 (Константин) — часть сводного 111 672,02 USDT под заявку 78 165,10 EUR (220-B). Разбивка подтверждена Scream 12.08. | Расчёт Scream 12.08: 78 165,10 / 0.863615 + 0,5% = 90 961,74 USDT (received). | Receipt 252-PO 12.08 (IBR 3088): Q8 GROUP LIMITED → 220-B d.o.o. (Serbia), 78 165,10 EUR, инвойс 26010000139 dd 10.08.2026 (Household Appliances). OTP BANKA SRBIJA, OTPVRS22, RS3532****772, Bosanska 47, 11224 Vrcin. Handling fee 25,95 EUR. Payment status: PROCESSING (не EXECUTED — 🟢 ждёт BONBILL EXECUTED + txid). Transaction serial O208752331903218483263. Payment date 12.08.2026 20:55:18.",
+    "notes": "| Проформа 26-010-000139 от 10.08.2026 (važi do 25.08.2026). 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Serbia, Matični 17485059, PIB 102893403). OTP BANKA SRBIJA A.D., OTPVRS22, RS35325960160000415772; Intermediary: Deutsche Bank AG, DEUTDEFF. BREVILLE household appliances: VST072X Waffle maker 1500шт × 44,40 = 66 600,00; VST070X Sandwich Toaster 200шт × 42,60 = 8 520,00; VST071X Sandwich Press 12шт × 41,00 = 492,00; VCF183X Espresso 2шт × 145,90 = 291,80; VCF185X Slimline Barista 2шт × 176,75 = 353,50; VCF186X Compact Barista 2шт × 368,90 = 737,80; Transport 1 170,00. UKUPNO 78 165,10 EUR. Payment for proforma invoice 26-010-000139 dd 10.08.2026, home appliances. HS 8516797000, 8516710000. | Bobr Alert 12.08 10:16 UTC: IN 90983.29 USDT на Рабочий 3 от TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4 (Константин) — часть сводного 111 672,02 USDT под заявку 78 165,10 EUR (220-B). Разбивка подтверждена Scream 12.08. | Расчёт Scream 12.08: 78 165,10 / 0.863615 + 0,5% = 90 961,74 USDT (received). | Receipt 252-PO 12.08 (IBR 3088): Q8 GROUP LIMITED → 220-B d.o.o. (Serbia), 78 165,10 EUR, инвойс 26010000139 dd 10.08.2026 (Household Appliances). OTP BANKA SRBIJA, OTPVRS22, RS3532****772, Bosanska 47, 11224 Vrcin. Handling fee 25,95 EUR. Payment status: PROCESSING (не EXECUTED — 🟢 ждёт BONBILL EXECUTED + txid). Transaction serial O208752331903218483263. Payment date 12.08.2026 20:55:18. | BONBILL Payment Certificate 12.08.2026 20:55:18 (txid O208752331903218483263): Q8 GROUP LIMITED → 220-B d.o.o. (OTP BANKA SRBIJA A.D., RS35325960160000415772), 78 165,10 EUR, Invoice 26010000139 dd 10.08.2026 (ForHouseholdAppliances). EXECUTED 🟢",
     "calc": null
   },
   {
