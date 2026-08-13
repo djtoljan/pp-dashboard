@@ -303,5 +303,24 @@
     "sent_usdt": null,
     "notes": "13.08: Заявка (Payment from TECHEQUIP, OUR): 76 109,00 EUR → WZK SPRZET & PASZE LTD. (Office 330, Regico Offices, The Old Bank, 153 The Parade High Street, Watford WD17 1NA, UK). Banking Circle S.A., SXPYDKKK, DK8489000020645759. Payment details: inv 11082026-01 dd 11.08.26. ⬜ Step 3 (заявка — Scream: «Payment from TECHEQUIP = просто заявка, цвет Белый»). Ждём MT73/EXECUTED → 🟡/🟢. | Проформа-инвойс 11082026-01 dd 11.08.2026 (WZK SPRZET AND PASZE LTD. → TECHEQUIP SOLUTIONS LIMITED, Company 16574908, Manchester M40 8WN): Programmable Internet Wireless Thermostat 110 шт × 144,00 = 15 840,00; Remote Wireless light controller 150 × 6,83 = 1 024,50; 6 in 1 Home Automation Multifunction Sensor 120 × 193,00 = 23 160,00; LED Body Sensor Night Light 200 × 46,90 = 9 380,00; Smart Home IR Bluetooth WIFI Emitter 90 × 104,90 = 9 441,00; Active Smart Heating Hub 100 × 171,34 = 17 133,75; Order processing 129,75. Итого 76 109,00 EUR.",
     "calc": null
+  },
+  {
+    "row": 17,
+    "date": "2026-08-13",
+    "sum": 29632.98,
+    "currency": "EUR",
+    "company": "OMNEX",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
