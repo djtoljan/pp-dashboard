@@ -732,5 +732,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 39,
+    "date": "2026-08-13",
+    "sum": 40500,
+    "currency": "CNY",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": null,
+    "costFormula": null,
+    "extra": "Commercial Invoice XGHDH01 dd 10.08.2026 (Xi an Optical Metrology Co., Ltd, XI AN CITY, SHANXI PROVINCE, CHINA; Shandong Changyi Rural Commercial Bank, SCRBCNB2, акк 2360027884205000025415) → покупатель Q8 GROUP LIMITED (DBS Bank (Hong Kong) Limited, DHBKHKHH, акк 79807111801). Autocollimator AIM-100-Line, HS 9032899099, 1 SET = 40 500,00 CNY. + Payment Order 40 500 CNY: Xi an Optical Metrology Co., Ltd, SCRBCNB2, 2360027884205000025415. Компания Q8 (покупатель по инвойсу). Клиент уточняется.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
