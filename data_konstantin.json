@@ -272,7 +272,7 @@
     "sum": 27720.59,
     "currency": "EUR",
     "company": "TECHEQUIP",
-    "color": "FFFFFF00",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -282,7 +282,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "13.08: Заявка (Payment from TECHEQUIP, OUR): 27 720,59 EUR → Acoustic Energy Loudspeakers Ltd (Unit 1 Trull Farm, Trull, Tetbury, Gloucestershire GL8 8SQ, UK; Co. Reg 10636655, VAT GB263343709). HSBC UK, HBUKGB4B, GB13 HBUK 4012 7677 4556 44. Payment details: INV SO-010386 dd 03.08.26 + SO-009766 dd 05.01.26. ⬜ Step 3 (заявка, Scream 13.08: «Это просто заявка! Поэтому цвет Белый»). Ждём MT73/EXECUTED → 🟢. | Инвойсы Acoustic Energy (PDF): SO-009766 dd 05.01.2026 — AE3072 Base 5 шт × 17,00 = 85,00 € (PROFORMA); SO-010386 dd 03.08.2026 — колонки AE1002 Standmount (25+15+12 пар), AE105 On-Wall, AE1092/AE1202 Floorstander, AE3002, AE3092, Corinium, AE Sub, AE1 40th Anniversary, AE Active (итого ~27 635,59 €). BILL TO: TECHEQUIP SOLUTIONS LIMITED (Initial Business Centre, Unit 7, Wilson Business Park, Manchester M40 8WN, UK).",
     "calc": null
   }
 ]
