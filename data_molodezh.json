@@ -195,7 +195,7 @@
     "date": "2026-08-10",
     "sum": 69075,
     "currency": "EUR",
-    "company": null,
+    "company": "TRANSPATH",
     "color": "FFFFFF00",
     "clientName": "Фри Лайнс Компани",
     "costFormula": "79 699 / (1-0.35%) = 79 978.926 USDT",
@@ -206,7 +206,7 @@
     "vdx_rate": "82.5 / 82.5",
     "received_usdt": "81330.29956145454 / 1581.687396",
     "sent_usdt": 79978.93,
-    "notes": "Поручение №20 от 10.08.2026. Принципал: АО «Фри Лайнс Компани» (Юникредит Банк). Получатель: VDX SERVICES - FZCO (ПСБ). STLine OÜ (Эстония) — получатель конечный. Инвойс №08-03/4 dd 03.08.2026, контракт FLK dd 01.01.2026, аг.дог. 09-02-3/26 от 09.02.26. ПП №4012 осн.платёж 6 716 466,18₽ (10.08, Проведено) + ПП №4013 вознаграждение VDX 130 619,83₽ (пор.№20 от 10.08.2026). Итого на VDX: 6 847 086,01₽. | Transfer Request No.20 от 10.08.2026 (документ): 69 075,00 EUR. STLine OÜ (Tallinn, Mere pst 4, 10111 Estonia, Reg 16701348, VAT EE102599192). AS LHV Pank, IBAN EE867700771009015833, SWIFT LHVBEE22. Курс 1 EUR = 97.2344 RUB. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, 12.08.2026 09:06 UTC, Account MT73CFTE28004000000000005036925): TRANSPATH LOGISTIC LIMITED → STLine OU (IBAN EE867700771009015833), -69 075,00 EUR, INV. 08-03/4 dd 03.08.26, SEPA. Status: INITIATED (Created 09:19 UTC). Подвешенное ПП → 🟡. Ждём EXECUTED → 🟢. | Bobr Alert 12.08 17:43 UTC: OUT 112 277.271 USDT с Рабочего 3 на TNhJTGuaE67o6TAQLEhPnHra38eNEnLtZ3 — сводный (3 сделки: Фри Лайнс 79 978.926 / INTEGRA 20 679.027 / Omnex 11 619.318). Q9 отправлен, леджер --q9.",
+    "notes": "Поручение №20 от 10.08.2026. Принципал: АО «Фри Лайнс Компани» (Юникредит Банк). Получатель: VDX SERVICES - FZCO (ПСБ). STLine OÜ (Эстония) — получатель конечный. Инвойс №08-03/4 dd 03.08.2026, контракт FLK dd 01.01.2026, аг.дог. 09-02-3/26 от 09.02.26. ПП №4012 осн.платёж 6 716 466,18₽ (10.08, Проведено) + ПП №4013 вознаграждение VDX 130 619,83₽ (пор.№20 от 10.08.2026). Итого на VDX: 6 847 086,01₽. | Transfer Request No.20 от 10.08.2026 (документ): 69 075,00 EUR. STLine OÜ (Tallinn, Mere pst 4, 10111 Estonia, Reg 16701348, VAT EE102599192). AS LHV Pank, IBAN EE867700771009015833, SWIFT LHVBEE22. Курс 1 EUR = 97.2344 RUB. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, 12.08.2026 09:06 UTC, Account MT73CFTE28004000000000005036925): TRANSPATH LOGISTIC LIMITED → STLine OU (IBAN EE867700771009015833), -69 075,00 EUR, INV. 08-03/4 dd 03.08.26, SEPA. Status: INITIATED (Created 09:19 UTC). Подвешенное ПП → 🟡. Ждём EXECUTED → 🟢. | Bobr Alert 12.08 17:43 UTC: OUT 112 277.271 USDT с Рабочего 3 на TNhJTGuaE67o6TAQLEhPnHra38eNEnLtZ3 — сводный (3 сделки: Фри Лайнс 79 978.926 / INTEGRA 20 679.027 / Omnex 11 619.318). Q9 отправлен, леджер --q9. | 13.08: Scream — Payment from TRANSPATH: 69 075 EUR Фри Лайнс Компани (STLine OÜ, INV 08-03/4). Компания подтверждена: TRANSPATH LOGISTIC LIMITED. Остаётся 🟡 INITIATED, ждём EXECUTED → 🟢.",
     "calc": null
   },
   {
