@@ -1501,5 +1501,24 @@
     "sent_usdt": null,
     "notes": "ПП №565 от 12.08.2026 ИСПОЛНЕН 15:17:18. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (VDX, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 285 253,67₽. {VO11100} Частичная оплата за товар по инвойсу №PAI-001-WHJCS12026081002 от 12.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000), по курсу 84,0217. НДС не облагается. (≈3 395 USD)",
     "calc": null
+  },
+  {
+    "row": 85,
+    "date": "2026-08-12",
+    "sum": 92549.53,
+    "currency": "USD",
+    "company": "null",
+    "color": "FFFF0000",
+    "clientName": "Микромир",
+    "costFormula": "null",
+    "extra": "Проформа MICRHD20260810 от 10.08.2026. Поставщик: JYU INTL INDUSTRY LIMITED (Rm.1801, Easey Comm. Bldg., 253-261 Hennessy Road, Wanchai, HK). Покупатель: MICROWORLD LLC (ул. Кусковская, д.20А, Москва, 111141). Контракт № 25/03/26-01 от 25.03.2026. EXW. Компания пока неизвестна — ждём заявку/поручение",
+    "rubles_received": "null",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
