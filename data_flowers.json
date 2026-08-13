@@ -2781,7 +2781,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Инвойс Nr. BL-P01/130826 dd 13.08.2026. Bloom Market EOOD (Ul. Odrin No15, Et. 9 ofis 908, PK8000 Burgas, Bulgaria; Reg 208213027, VAT BG 208213027; директор Raivis Skrastins) → Q8 Group Limited (HK). ROSA 16 000 шт × 0,52 = 8 320,00 + Logistics services 606,79 = TOTAL 8 926,79 EUR, VAT 0% (Art.138(1) EU VAT Directive). Bulgarian-American Credit Bank, BG12BGUS91601413755700, BGUSBGSF. ⬜ Step 3 (заявка, Daisy 13.08). Q8 → ТЕЗ. Ждём кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × курс + 0.3% + 30).",
     "calc": null
   }
 ]
