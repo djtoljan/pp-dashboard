@@ -2745,5 +2745,24 @@
     "sent_usdt": 139946.36,
     "notes": "| FX IBR 3088 12.08.2026: обмен 185 888 USD → 160 541,17 EUR (1 USD = 0.86364462244 EUR, поставка 12.08). Обмен под 3 заявки (30 000 + 10 000 + Bloom Market ~120 476,58). | BONBILL O2087438513162289152471 12.08.2026 15:18:19: Q8 GROUP LIMITED → Bloom Market EOOD (Bulgarian-American Credit Bank, BG12BGUS91601413755700), 120 476,58 EUR, Invoice BL-P01/120826 dd 12.08.2026 (ForFlowers). EXECUTED 🟢 | ТЕЗ: 120 476,58 × 1.1578836642 + 0.3% + 30 = 139 946,36 USDT (кросс-курс FX IBR 3088 12.08.2026: 185 888 USD → 160 541,17 EUR, 1 EUR = 1.1578836642 USD).",
     "calc": null
+  },
+  {
+    "row": 152,
+    "date": "2026-08-12",
+    "sum": 90750,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "DBA Euro Plants (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
