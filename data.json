@@ -573,12 +573,12 @@
     "costFormula": "18 126,58 + 0.3% + 30 = 18 210,96 USDT",
     "extra": null,
     "rubles_received": "1509944.11 / 30979.16",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "1540923.27",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 18210.96,
-    "notes": "Инвойс Itrix 73946 dd 12.08.2026 (XLSX): TOTAL 18 126,58 USD — Density-200X 17 156,43 + Air shipping cost to Moscow 970,15. BILL TO: ООО «WTC» (ВТС), 117105 Moscow, Novodanilovskaya Nab., 4a. Sales Contract 20-09/01 dd 20.09.2025. Siam Commercial Bank (SICOTHBK), USD 468-000093-8-840; Bangkok Bank (BKKBTHBK), USD 840-855-0029-403748-501. Компания/поручение пока неизвестны — ждём. | Инвойс услуг БиТрейд №73946 от 12.08.2026: посреднические услуги по проведению расчётов с иностранным поставщиком 371,90 USD @ курс 83,30 = 30 979,16₽. Покупатель ООО «ВТС», дог. 27062025ТК/1 от 24.06.2025. БиТрейд Кей Джи: ВТБ, р/с 40807810525640000008. (1,5% от 18 126,58 = 271,90 + 100 = 371,90 ✓). | Выписка ВТБ БиТрейд 12.08.2026: ПП №3835 тело 1 509 944,11₽ {VO11100} (дог. 20-09/01 от 20.09.2025, инвойс 73946 от 12.08.2026, без НДС) + ПП №3836 агентское 30 979,16₽ {VO21100} (дог. 27062025TК/1, инвойс услуг 73946). Оба от ООО «ВТС» → БиТрейд (ВТБ 40807810525640000008). Перевод на VDX не виден — ждём заявку. | 13.08: Scream — Payment from Q8 12.08: 18 126,58 USD ВТС (Itrix 73946). Q8 → ТЕЗ. ⬜ Step 3, ждём BONBILL/EXECUTED для 🟢. | 13.08: Scream — Payment from Q8: 18 126,58 USD ВТС (Itrix 73946). ⬜ Step 3 (ордер на оплату Q8, не зелёнка). Ждём BONBILL/EXECUTED для 🟢. | 13.08: BONBILL Payment Certificate (Q8 GROUP LIMITED → Itrix Co., Ltd., Siam Commercial Bank PCL, 4680000938840). USD 18 126,58. Invoice 73946 dd 12.08.2026 For Tech Parts. TxID O2087823288012242944285, 2026-08-13 16:47:16. → 🟢 EXECUTED.",
+    "notes": "Инвойс Itrix 73946 dd 12.08.2026 (XLSX): TOTAL 18 126,58 USD — Density-200X 17 156,43 + Air shipping cost to Moscow 970,15. BILL TO: ООО «WTC» (ВТС), 117105 Moscow, Novodanilovskaya Nab., 4a. Sales Contract 20-09/01 dd 20.09.2025. Siam Commercial Bank (SICOTHBK), USD 468-000093-8-840; Bangkok Bank (BKKBTHBK), USD 840-855-0029-403748-501. Компания/поручение пока неизвестны — ждём. | Инвойс услуг БиТрейд №73946 от 12.08.2026: посреднические услуги по проведению расчётов с иностранным поставщиком 371,90 USD @ курс 83,30 = 30 979,16₽. Покупатель ООО «ВТС», дог. 27062025ТК/1 от 24.06.2025. БиТрейд Кей Джи: ВТБ, р/с 40807810525640000008. (1,5% от 18 126,58 = 271,90 + 100 = 371,90 ✓). | Выписка ВТБ БиТрейд 12.08.2026: ПП №3835 тело 1 509 944,11₽ {VO11100} (дог. 20-09/01 от 20.09.2025, инвойс 73946 от 12.08.2026, без НДС) + ПП №3836 агентское 30 979,16₽ {VO21100} (дог. 27062025TК/1, инвойс услуг 73946). Оба от ООО «ВТС» → БиТрейд (ВТБ 40807810525640000008). Перевод на VDX не виден — ждём заявку. | 13.08: Scream — Payment from Q8 12.08: 18 126,58 USD ВТС (Itrix 73946). Q8 → ТЕЗ. ⬜ Step 3, ждём BONBILL/EXECUTED для 🟢. | 13.08: Scream — Payment from Q8: 18 126,58 USD ВТС (Itrix 73946). ⬜ Step 3 (ордер на оплату Q8, не зелёнка). Ждём BONBILL/EXECUTED для 🟢. | 13.08: BONBILL Payment Certificate (Q8 GROUP LIMITED → Itrix Co., Ltd., Siam Commercial Bank PCL, 4680000938840). USD 18 126,58. Invoice 73946 dd 12.08.2026 For Tech Parts. TxID O2087823288012242944285, 2026-08-13 16:47:16. → 🟢 EXECUTED. | 13.08: VDX-уведомление операционки — с БиТрейд ВТБ на VDX: 1 540 923,27₽ за упрочняющее покрытие, заявка 95 (ВТС). = 1 509 944,11 (тело ПП 3835) + 30 979,16 (агентское ПП 3836). sent_rubles_vdx = 1 540 923,27.",
     "calc": null
   },
   {
@@ -683,7 +683,7 @@
     "currency": "EUR",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": null,
+    "clientName": "ВТС",
     "costFormula": null,
     "extra": "Инвойс Z26-331004 dd 10.08.2026 (Order A26-240901): 2k-belting GmbH (Bergstr. 46, 2102 Hagenbrunn, Austria, USt-ID ATU74224868) → Q8 Group Ltd (RM A22, 10/F, No.52 Hung To Rd, Kwun Tong, Hong Kong, TAX ID 80242882). ContiSecur BFA 0,8 l 1200 pcs (17,90 = 21 480,00 EUR) + Hardener Solution 1200 pcs (8,10 = 9 720,00 EUR). TOTAL DUE 31 200,00 EUR. 100% advance, net. Raiffeisenbank Noe-Wien, IBAN AT97 3200 0000 1478 9382, BIC RLNWATWW. FCA Hagenbrunn. Клиент неизвестен — ждём заявку/клиента.",
     "rubles_received": null,
@@ -692,7 +692,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": " | 13.08: Scream — клиент ВТС (Одиночные → Main).",
     "calc": null
   }
 ]
