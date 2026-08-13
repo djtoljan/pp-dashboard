@@ -253,7 +253,7 @@
     "date": "2026-08-11",
     "sum": 11855.53,
     "currency": "USD",
-    "company": "YQ-BEA",
+    "company": "SG",
     "color": "FFFFFF00",
     "clientName": "Вилог",
     "costFormula": "11 855,53 USD / 0.996 + 25 = 11 928 USDT",
@@ -264,7 +264,7 @@
     "vdx_rate": 82.9,
     "received_usdt": "12094.78",
     "sent_usdt": 11928,
-    "notes": "ПП №564 от 11.08.2026 ИСПОЛНЕН 17:09:20. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 1 003 660,72₽. {VO11100} Частичная оплата за товар по инвойсу №LNR-181-LEAN080719 от 07.08.2026, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000), курс 84,6576. НДС не облагается. | Инвойс 080719 от 07.08.2026. KYLON SUPPLY LIMITED (HK, UNIT 9 1/F THE CLOUD, 111 TUNG CHAU STREET, TAI KOK TSUI; JPMorgan Chase Bank N.A. HK Branch, CHASHKHH, акк 63001412425) → YOUNGQ LIMITED (YQ-BEA). TPM2.0 Card (SPI) BC11TPMA02, 790 шт × 15,0070 = 11 855,53 USD. Заявка Вилог (Scream 11.08). | 13.08: Alex VDX — Payment from YQ (YOUNGQ LIMITED/YQ-BEA) to KYLON SUPPLY LIMITED (JPMorgan Chase Bank N.A. HK Branch, CHASHKHH, a/c 63001412425). INVOICE 080719 dd 07.08.26. Amount 11 855,53 USD. OUR. Ждём EXECUTED для 🟢. | 13.08: Scream — Payment from YQ-BEA (KYLON, 11 855,53 USD, INV 080719) = INITIATED → 🟡. Ждём EXECUTED → 🟢. | 13.08: C расчёт (SG BEA): 11 855,53 USD / 0.996 + 25 = 11 928 USDT → sent_usdt. TXID TXyJVHgAnK2vnj34DkrLa36iehiac9VrYr.",
+    "notes": "ПП №564 от 11.08.2026 ИСПОЛНЕН 17:09:20. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 1 003 660,72₽. {VO11100} Частичная оплата за товар по инвойсу №LNR-181-LEAN080719 от 07.08.2026, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000), курс 84,6576. НДС не облагается. | Инвойс 080719 от 07.08.2026. KYLON SUPPLY LIMITED (HK, UNIT 9 1/F THE CLOUD, 111 TUNG CHAU STREET, TAI KOK TSUI; JPMorgan Chase Bank N.A. HK Branch, CHASHKHH, акк 63001412425) → YOUNGQ LIMITED (YQ-BEA). TPM2.0 Card (SPI) BC11TPMA02, 790 шт × 15,0070 = 11 855,53 USD. Заявка Вилог (Scream 11.08). | 13.08: Alex VDX — Payment from YQ (YOUNGQ LIMITED/YQ-BEA) to KYLON SUPPLY LIMITED (JPMorgan Chase Bank N.A. HK Branch, CHASHKHH, a/c 63001412425). INVOICE 080719 dd 07.08.26. Amount 11 855,53 USD. OUR. Ждём EXECUTED для 🟢. | 13.08: Scream — Payment from YQ-BEA (KYLON, 11 855,53 USD, INV 080719) = INITIATED → 🟡. Ждём EXECUTED → 🟢. | 13.08: C расчёт (SG BEA): 11 855,53 USD / 0.996 + 25 = 11 928 USDT → sent_usdt. TXID TXyJVHgAnK2vnj34DkrLa36iehiac9VrYr. | 13.08 19:03: Scream — компания YQ-BEA → SG (SG-BEA, SAISHENG GROUP LIMITED, Bank of East Asia).",
     "calc": null
   },
   {
