@@ -362,5 +362,24 @@
     "exchangeDocType": "Q8_VOUCHER",
     "transactionId": "202608141533380337045",
     "row": 19
+  },
+  {
+    "row": 20,
+    "date": "2026-08-14",
+    "sum": 94380,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "МИКРОМИР (Молодёжь)",
+    "costFormula": "null",
+    "extra": "Проформа MICRHD20260811 dd 11.08.2026 (JYU INTL INDUSTRY LIMITED, Rm.1801, Easey Comm. Bldg., 253-261 Hennessy Road, Wanchai, HK; China Construction Bank Shenzhen Branch, PCBCCNBJSZX, NRA44250100000800005578). Покупатель: Q8 GROUP LIMITED (DBS Bank (Hong Kong) Limited, DHBKHKHH). Контракт 25/03/26-01 от 25.03.2026, спецификация №05 от 10.08.2026. Электронные компоненты (QCN-19+, DDZ9697T-7, LTM4612MPV#PBF, MT47H64M16NF-25E, SFEM128GB1ED1TO-I-7G-111-STD, SFEM128GB2ED1TB-I-EF-121-STD), EXW Китай, 100% предоплата до 21.08.2026. ИТОГО 94 380,00 USD. + Payment Order 94 380 USD (JYU INTL, PCBCCNBJSZX, NRA44250100000800005578), инвойс MICRHD20260811 dd 11.08.2026. Агентский договор BTM1125-01 от 06.11.2025. ВБК: 26030034/1067/0000/2/1 (контракт 25/03/26-01), 25110001/1067/0000/4/1 (BTM1125-01).",
+    "rubles_received": "null",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 94693.14,
+    "notes": null,
+    "calc": null
   }
 ]
