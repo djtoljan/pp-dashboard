@@ -746,17 +746,17 @@
     "currency": "CNY",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": null,
-    "costFormula": null,
+    "clientName": "Вилог",
+    "costFormula": "40 500,00 CNY / 6,7387 (FX 14.08: 6 031 USD → 40 641,31 CNH) = 6 010,04 USD → Q8: 6 010,04 / 0,997 + 30 = 6 058,12 USDT",
     "extra": "Commercial Invoice XGHDH01 dd 10.08.2026 (Xi an Optical Metrology Co., Ltd, XI AN CITY, SHANXI PROVINCE, CHINA; Shandong Changyi Rural Commercial Bank, SCRBCNB2, акк 2360027884205000025415) → покупатель Q8 GROUP LIMITED (DBS Bank (Hong Kong) Limited, DHBKHKHH, акк 79807111801). Autocollimator AIM-100-Line, HS 9032899099, 1 SET = 40 500,00 CNY. + Payment Order 40 500 CNY: Xi an Optical Metrology Co., Ltd, SCRBCNB2, 2360027884205000025415. Компания Q8 (покупатель по инвойсу). Клиент уточняется.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "sent_usdt": 6058.12,
+    "notes": "BONBILL Exchange Voucher (Q8) 14.08.2026 15:33:37 UTC (txid 202608141533380337045): Q8 GROUP LIMITED (79807111801) продал USD 6 031,00 → купил CNH 40 641,31, курс 6,738736452517. Под заявку 40 500 CNY (инвойс XGHDH01, Autocollimator AIM-100-Line).",
+    "calc": "Обмен 14.08: 6 031 USD → 40 641,31 CNH (курс 6,7387)"
   },
   {
     "row": 40,
