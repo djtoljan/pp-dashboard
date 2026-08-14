@@ -322,43 +322,5 @@
     "sent_usdt": 34393.026,
     "notes": "13.08: Заявка (Payment from OMNEX, OUR): 29 632,98 EUR → ICSEA HELEN SEWARD s.a.s. (VIA A. DE GASPERI, 8/A LAINATE MI). INTESA SANPAOLO SPA, BCITITMMXXX, IT85 Q030 6933 2201 0000 0000 723. Invoice 1024 dd 22/05/2026. ⬜ Step 3 (заявка — Scream: «Payment from X = просто заявка, цвет Белый»). | Кросс-курс EUR/USD = 1.15322106 (Alex VDX 13.08): 29 632,98 EUR → 34 173,38 USD; 34 173,38 / (1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX скрин FX — 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD). OMNEX: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX скрин FX — 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD). OMNEX: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX FX скрин: 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD) — кросс-курс для заявки OMNEX. Расчёт: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08 10:14 UTC: MT35 TRANSACTION CONFIRMATION PAYOUT — OMNEX TRADING LIMITED (MT35CFTE28004000000000005036930) → ICSEA HELEN SEWARD s.a.s. (IBAN IT85Q0306933220100000000723), -29 632,98 EUR, Invoice 1595 dd 04.08.2026, SEPA. Status: INITIATED → 🟡. Ждём EXECUTED → 🟢. | 13.08: Scream расчёт прихода (сводный 122 654,79 USDT от Константина): 29 633,00 EUR × 1.15322106 = 34 173,39 USD → +0.5% + 100 = 34 444,26 USDT.",
     "calc": "Кросс-курс EUR/USD = 1.15322106 (13.08.2026, Alex VDX): 29 632,98 EUR → 34 173,38 USD"
-  },
-  {
-    "date": "2026-08-14",
-    "sum": 8470,
-    "currency": "EUR",
-    "company": "TRANSPATH",
-    "color": "FFFFFF00",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": "(8 470,00 EUR) 9787/(1-0.35%)+100 = 9921,375 USDT",
-    "extra": "Проформа-инвойс 1556 от 14.07.2026 (поставщик: Kazbek n. 51 – Etaj 1a, 10618 Sofia, Болгария; VAT BG206887027; EORI BGC206887027ZZZZ1; банк Bulgarian American credit bank, BG65BGUS91601412608400, SWIFT BGUSBGSF). Товар: WHITE 60*120 RET (JU) 241,200 MQ x 31,00 € = 7 477,20 € + OTHER COSTS 992,80 € = ИТОГО 8 470,00 €. HS 69072100. CUSTOMER NAME не указан — клиент неизвестен, ждём заявку/поручение.",
-    "rubles_received": "null",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 9921.375,
-    "notes": "| 14.08: Заявка (Payment from TRANSPATH, OUR): 8 470,00 EUR → ERS LOGISTIC OOD (Bulgarian American credit bank, BGUSBGSF, BG65BGUS91601412608400), INVOICE PROFORMA 1556 dd 14.07.26. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, Created 14.08.2026 13:29 UTC, Account MT73CFTE28004000000000005036925): TRANSPATH LOGISTIC LIMITED → ERS LOGISTIC OOD (Bulgarian American credit bank, BGUSBGSF, IBAN BG65BGUS91601412608400), SEPA, -8 470,00 EUR, INVOICE PROFORMA 1556 dd 14.07.26. Status: INITIATED → 🟡. Ждём EXECUTED → 🟢. | Bobr 14.08.2026 14:57 UTC: OUT 19738.39 USDT (Рабочий 3) → TN6SWruq... (сводный row 18+19, подтверждён).",
-    "calc": "Кросс-курс EUR/USD = 1.15549843 (8 470,00 EUR → 9 787,07 USD) [скриншот W& Платежи 14.08]",
-    "row": 18
-  },
-  {
-    "date": "2026-08-14",
-    "sum": 8380,
-    "currency": "EUR",
-    "company": "TRANSPATH",
-    "color": "FFFFFF00",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": "(8 380,00 EUR) 9683/(1-0.35%)+100 = 9817,01 USDT",
-    "extra": "Проформа-инвойс ERS0811.1 от 11.08.2026. Поставщик: ERS Polska Sp.z.o.o (ul. Ludwika Zamenhofa 29, Białystok, Polska; NIP 5423450204, VAT EU 5423450204). Транспортные услуги (Transport services) 1 шт, нетто 8 380,00 EUR, VAT 0,00 EUR, итого 8 380,00 EUR. PKO Bank Polski, PL57 1020 1332 0000 1202 1394 8932 (EUR), SWIFT BPKOPLPW. Оплата банковским переводом, срок 30 дней. CUSTOMER/Buyer не указан — клиент неизвестен, ждём заявку.",
-    "rubles_received": "null",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 9817.01,
-    "notes": "| 14.08: Заявка (Payment from TRANSPATH, OUR): 8 380,00 EUR → ERS Polska Sp.z.o.o (PKO Bank Polski, BPKOPLPW, PL57 1020 1332 0000 1202 1394 8932), INV. ERS0811.1 dd 11.08.26. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, Created 14.08.2026 13:34 UTC, Account MT73CFTE28004000000000005036925): TRANSPATH LOGISTIC LIMITED → ERS Polska Sp.z.o.o (PKO Bank Polski, BPKOPLPW, IBAN PL57102013320000120213948932), SEPA, -8 380,00 EUR, INV. ERS0811.1 dd 11.08.26. Status: INITIATED → 🟡. Ждём EXECUTED → 🟢. | Bobr 14.08.2026 14:57 UTC: OUT 19738.39 USDT (Рабочий 3) → TN6SWruq... (сводный row 18+19, подтверждён).",
-    "calc": "Кросс-курс EUR/USD = 1.15551426 (8 380,00 EUR → 9 683,20 USD) [скриншот W& Платежи 14.08]",
-    "row": 19
   }
 ]

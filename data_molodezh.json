@@ -381,5 +381,24 @@
     "sent_usdt": 94693.14,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 21,
+    "date": "2026-08-14",
+    "sum": 31710,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Эксперт (Молодёжь)",
+    "costFormula": null,
+    "extra": "Проформа BB2611 dd 21.07.2026 (KBP, 3rd Floor, A075, 2511 Seongji-gil, Mapogu, Seoul, Korea; Scarlett Choi/Choi Yeseul; WOORI BANK, 1081-801-031584, HVBKKRSEXXX). PO Issued by: Q8 GROUP LIMITED (DBS Bank (Hong Kong) Limited, DHBKHKHH). Concealer: GINGER 3 10 000 × 2.00 + VANILLA 2 5 000 × 2.00 + PINK 1 855 × 2.00 = 15 855 шт = 31 710,00 USD. EXW. + Payment Order 155411: 31 710,00 USD → KBP (WOORI BANK, 1081-801-031584, HVBKKRSEXXX), PAYMENT BY PROFORMA INVOICE NO. BB2611 DD 21.07.2026 FOR CONCEALERS. Компания Q8 (покупатель Q8 GROUP LIMITED). Клиент уточняется. Клиент: Эксперт (Молодёжь) — повторный платёж (Scream 14.08).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
