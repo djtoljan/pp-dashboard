@@ -794,7 +794,7 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": null,
-    "calc": null
+    "calc": "Кросс-курс EUR/USD = 1.15549843 (8 470,00 EUR → 9 787,07 USD) [скриншот W& Платежи 14.08]"
   },
   {
     "row": 42,
@@ -813,6 +813,6 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": null,
-    "calc": null
+    "calc": "Кросс-курс EUR/USD = 1.15551426 (8 380,00 EUR → 9 683,20 USD) [скриншот W& Платежи 14.08]"
   }
 ]
