@@ -745,8 +745,8 @@
     "sum": 26838.48,
     "currency": "USD",
     "company": "SG",
-    "color": "FFFFFFFF",
-    "clientName": null,
+    "color": "FF92D050",
+    "clientName": "ВТС",
     "costFormula": null,
     "extra": "Проформа InvoiceAL200726-001 dd 20.07.2026 (Duxal Group Ltd, 161 Queen's Road Central, Hong Kong; OCBC Bank (Hong Kong) Limited, WIHBHKHH, акк 802-474014-831) → покупатель Q8 GROUP LIMITED. Order 20860-130, 465 × .71 = 26 838,48 USD. T/T in advance, EXW. + Payment Order 26 838,48 USD: Duxal Group Ltd, OCBC Bank (Hong Kong) Limited, WIHBHKHH, 802-474014-831 (USD), инвойс InvoiceAL200726-001 dd 20.07.2026. Компания SG (Scream 13.08 19:03). Клиент уточняется.",
     "rubles_received": null,
@@ -755,7 +755,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "BONBILL Payment Certificate 14.08.2026 (txid O2088165830813679616992): Q8 GROUP LIMITED → Duxal Group Ltd (OCBC Bank (Hong Kong) Limited, акк 802-474014-831), USD 26 838,48, Invoice AL200726-001 dd 20.07.2026 For El Parts. → 🟢 EXECUTED. Клиент ВТС (Scream 14.08).",
     "calc": null
   },
   {
