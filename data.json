@@ -778,5 +778,24 @@
     "sent_usdt": null,
     "notes": "Выписка Блэкшарк ПОЧТОБАНК 14.08.2026 (документ 47 от 14.08.2026): приход 1 468 834,74₽ от АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» (ИНН 9909705580, счёт 40807810324600000016, БИК 044525411). {VO60081} Оплата по Агентскому Договору, НДС не облагается. rubles_received = 1 468 834,74. Ждём перевод на Al Safi/заявку.",
     "calc": null
+  },
+  {
+    "row": 41,
+    "date": "2026-08-12",
+    "sum": 65152.5,
+    "currency": "EUR",
+    "company": "null",
+    "color": "FFFF0000",
+    "clientName": "ИП Осипенко",
+    "costFormula": "null",
+    "extra": "GUEL",
+    "rubles_received": "null",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
