@@ -342,5 +342,25 @@
     "sent_usdt": null,
     "notes": "ПП на VDX №569 от 13.08.2026 ИСПОЛНЕНО 15:54:45. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 524 884,14₽. {VO11100} Частичная оплата за товар по инвойсу №INF-010-20260811 от 11.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 86,4861). НДС не облагается.",
     "calc": null
+  },
+  {
+    "date": "2026-08-13",
+    "sum": 40500,
+    "currency": "CNY",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": "6031/6.738736452517",
+    "extra": "Commercial Invoice XGHDH01 dd 10.08.2026 (Xi an Optical Metrology Co., Ltd, XI AN CITY, SHANXI PROVINCE, CHINA; Shandong Changyi Rural Commercial Bank, SCRBCNB2, акк 2360027884205000025415) → покупатель Q8 GROUP LIMITED (DBS Bank (Hong Kong) Limited, DHBKHKHH, акк 79807111801). Autocollimator AIM-100-Line, HS 9032899099, 1 SET = 40 500,00 CNY. + Payment Order 40 500 CNY: Xi an Optical Metrology Co., Ltd, SCRBCNB2, 2360027884205000025415. Компания Q8 (покупатель по инвойсу). Клиент уточняется.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 40641.31,
+    "notes": "BONBILL Exchange Voucher (Q8) 14.08.2026 15:33:37 UTC (txid 202608141533380337045): Q8 GROUP LIMITED (79807111801) продал USD 6 031,00 → купил CNH 40 641,31, курс 6,738736452517. Под заявку 40 500 CNY (инвойс XGHDH01, Autocollimator AIM-100-Line).",
+    "exchangeDocType": "Q8_VOUCHER",
+    "transactionId": "202608141533380337045",
+    "row": 19
   }
 ]
