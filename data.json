@@ -795,5 +795,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 42,
+    "date": "2026-08-14",
+    "sum": 8380,
+    "currency": "EUR",
+    "company": "null",
+    "color": "FFFF0000",
+    "clientName": "null",
+    "costFormula": "null",
+    "extra": "Проформа-инвойс ERS0811.1 от 11.08.2026. Поставщик: ERS Polska Sp.z.o.o (ul. Ludwika Zamenhofa 29, Białystok, Polska; NIP 5423450204, VAT EU 5423450204). Транспортные услуги (Transport services) 1 шт, нетто 8 380,00 EUR, VAT 0,00 EUR, итого 8 380,00 EUR. PKO Bank Polski, PL57 1020 1332 0000 1202 1394 8932 (EUR), SWIFT BPKOPLPW. Оплата банковским переводом, срок 30 дней. CUSTOMER/Buyer не указан — клиент неизвестен, ждём заявку.",
+    "rubles_received": "null",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
