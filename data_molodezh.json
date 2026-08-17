@@ -408,7 +408,7 @@
     "currency": "EUR",
     "company": "LEO",
     "color": "FFFFFFFF",
-    "clientName": "Leo Spot Capital (Молодёжь)",
+    "clientName": "Молодёжь",
     "costFormula": null,
     "extra": "Заявка (Тип 4): инвойс IMGlobe SIA 08-26/01 dd 15.08.2026 (сервисный период 15.07–15.08.2026, консалтинг по подбору запчастей для строительной техники, 30.01 ч × 130 EUR = 3 901,30 EUR) + Payment Order от 17.08.2026: 3 901,30 EUR → IMGlobe SIA (Latvia, Jurmala, Turaidas iela 19, LV-2015; Revolut Bank UAB, Vilnius, LT893250060683447854, REVOLT21, промежут. JPMorgan Chase CHASDEFX). BILL TO: Leo Spot Capital PT (Bali, Indonesia). Компания/группа уточняется.",
     "rubles_received": null,
@@ -417,7 +417,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Перенесено из Main Row 46 (Scream 17.08: Молодёжь). Заявка Тип 4: инвойс IMGlobe SIA 08-26/01 + Payment Order 17.08.2026, 3 901,30 EUR → IMGlobe (Revolut, LT893250060683447854, REVOLT21, CHASDEFX). BILL TO: Leo Spot Capital PT (Bali).",
+    "notes": "Перенесено из Main Row 46 (Scream 17.08: Молодёжь). Заявка Тип 4: инвойс IMGlobe SIA 08-26/01 + Payment Order 17.08.2026, 3 901,30 EUR → IMGlobe (Revolut, LT893250060683447854, REVOLT21, CHASDEFX). BILL TO: Leo Spot Capital PT (Bali). | Уточнение Scream 17.08: Leo = компания-плательщик (company LEO), клиент = Молодёжь.",
     "calc": null
   }
 ]
