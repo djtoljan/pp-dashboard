@@ -789,13 +789,13 @@
     "clientName": "Евроимпорт Запад",
     "costFormula": null,
     "extra": "Инвойс 40230 от 04.08.2026 (Best Delivery OÜ, Mustamae Tee 181-136, 12912 Tallinn, Эстония; VAT EE102227587, RG 14849518): Freight Service 2 FTL Italy-Rotterdam, 1 ед. x 5 583,70 EUR, VAT 0%, итого 5 583,70 EUR. Due 03-09-2026. Customer: TECHEQUIP SOLUTIONS LIMITED (UK). IBAN LT593130010154004777, BIC BZENLT22. Клиент по лейблу: ООО Евроимпорт запад (Fininvest/ЭТБ).",
-    "rubles_received": null,
+    "rubles_received": "553344.67 / 18856.57",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": " | Проформа INVOICE Proforma №40230 от 04.08.2026 (Best Delivery OÜ → EUROIMPORT ZAPAD LLC, 100% предоплата, Freight Service 2 FTL Italy-Rotterdam, 5 583,70 EUR) — версия инвойса с покупателем Евроимпорт, подтверждает клиента. Дубль строки не создавался. | Поручение №4 от 17.08.2026 (Transfer request No. 1 from EUROIMPORT ZAPAD LLC, прил. к дог. №20-07/26 от 20.07.26): Принципал EUROIMPORT ZAPAD LLC → Агент ОсОО «Блэкшарк Трейд». Получатель: Best Delivery OÜ (Mustamae Tee 181-136, 12912 Tallinn, Estonia; VAT EE102227587). Банк: UAB ZEN.COM (Литва), BIC BZENLT22XXX, IBAN LT593130010154004777. 5 583,70 EUR. Prepayment for Freight Service 2 FTL Italy-Rotterdam, Without Contract. Курс в поручении 90,1 → 503 091,37₽. Комиссия агента 18 317,01₽. Срок 2-3 банк. дня. | ПОРУЧЕНИЕ №4 от 17.08.2026 (PDF, ИСПРАВЛЕННОЕ, Transfer request No. 1 from EUROIMPORT ZAPAD LLC, прил. №4 к аг.договору №20-07/26 от 20.07.26): Принципал EUROIMPORT ZAPAD LLC (Мальцев Е.О.) → Агент ОсОО «Блэкшарк Трейд» (Курьянов Т.А.). Получатель: Best Delivery OÜ (Mustamae Tee 181-136, 12912 Tallinn, Эстония; VAT EE102227587, RG 14849518). Банк: UAB ZEN.COM (Литва), BIC BZENLT22XXX, IBAN LT593130010154004777. 5 583,70 EUR. Prepayment for Freight Service 2 FTL Italy-Rotterdam, Without Contract. КУРС 99,1 → 553 344,67₽. Комиссия агента 10 236,87 + 8 619,70 = 18 856,57₽. Срок 2-3 банк. дня.",
+    "notes": " | Проформа INVOICE Proforma №40230 от 04.08.2026 (Best Delivery OÜ → EUROIMPORT ZAPAD LLC, 100% предоплата, Freight Service 2 FTL Italy-Rotterdam, 5 583,70 EUR) — версия инвойса с покупателем Евроимпорт, подтверждает клиента. Дубль строки не создавался. | Поручение №4 от 17.08.2026 (Transfer request No. 1 from EUROIMPORT ZAPAD LLC, прил. к дог. №20-07/26 от 20.07.26): Принципал EUROIMPORT ZAPAD LLC → Агент ОсОО «Блэкшарк Трейд». Получатель: Best Delivery OÜ (Mustamae Tee 181-136, 12912 Tallinn, Estonia; VAT EE102227587). Банк: UAB ZEN.COM (Литва), BIC BZENLT22XXX, IBAN LT593130010154004777. 5 583,70 EUR. Prepayment for Freight Service 2 FTL Italy-Rotterdam, Without Contract. Курс в поручении 90,1 → 503 091,37₽. Комиссия агента 18 317,01₽. Срок 2-3 банк. дня. | ПОРУЧЕНИЕ №4 от 17.08.2026 (PDF, ИСПРАВЛЕННОЕ, Transfer request No. 1 from EUROIMPORT ZAPAD LLC, прил. №4 к аг.договору №20-07/26 от 20.07.26): Принципал EUROIMPORT ZAPAD LLC (Мальцев Е.О.) → Агент ОсОО «Блэкшарк Трейд» (Курьянов Т.А.). Получатель: Best Delivery OÜ (Mustamae Tee 181-136, 12912 Tallinn, Эстония; VAT EE102227587, RG 14849518). Банк: UAB ZEN.COM (Литва), BIC BZENLT22XXX, IBAN LT593130010154004777. 5 583,70 EUR. Prepayment for Freight Service 2 FTL Italy-Rotterdam, Without Contract. КУРС 99,1 → 553 344,67₽. Комиссия агента 10 236,87 + 8 619,70 = 18 856,57₽. Срок 2-3 банк. дня. | Выписка Энерготрансбанк 17.08.2026: ПП №62 — 553 344,67₽ {VO11200} по Поручению №4 от 17.08.2026, аг.договор 20-07/26 от 20.07.2026, инвойс №40230 от 04.08.2026 за экспедирование грузов (тело, курс 99,1) + ПП №63 — 18 856,57₽ {VO21100} агентское вознаграждение (пор. №4). От ООО «Евроимпорт Запад» (Энерготрансбанк). rubles_received = 553344.67 / 18856.57. Банк.комиссия 1 936,71₽ {VO80050} не учитывается.",
     "calc": null
   },
   {
@@ -808,13 +808,13 @@
     "clientName": "Дре Русланд",
     "costFormula": null,
     "extra": "Поручение №37 от 17.08.2026 (Transfer Request No. 37 from 17/08/26) по дог. №2701-27/1 от 27.01.26. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО «Блэкшарк Трейд». Получатель: FABRYKA MEBLI TARANKO ALEKSANDER TARANKO (POLAND, MORAG, 14-300, UL.PRZEMYSLOWA 21B). Bank Millennium S.A., BIGBPLPW, PL42116022020000000029395219, 02-593 Warszawa, ul. Stanislawa Zarna 2A. 16 615,96 EUR. Инвойс FPRO/0061/26 dd 03.08.2026 (мебель, 36 поз., FCA Morag). Курс 98,693 → 1 639 878,94 руб. Комиссия агента 1,6% (26 238,06 руб.). Срок 2-3 банк. дня.",
-    "rubles_received": null,
+    "rubles_received": "1639878.94 / 26238.06",
     "sent_rubles_vdx": "1660117",
     "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": " | VDX-уведомление операционки 17.08: с Блэкшарк ЭНЕРГОТРАНС на ВиДиИкс, 1 660 117₽ — за мебель, заявка 690, ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Доки: вход 17.08.26. → exchange_to = VDX. Ждём VDX-таблицу (курс/тез) для received_usdt.",
+    "notes": " | VDX-уведомление операционки 17.08: с Блэкшарк ЭНЕРГОТРАНС на ВиДиИкс, 1 660 117₽ — за мебель, заявка 690, ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Доки: вход 17.08.26. → exchange_to = VDX. Ждём VDX-таблицу (курс/тез) для received_usdt. | Выписка Энерготрансбанк 17.08.2026: ПП №2555 — 1 639 878,94₽ {VO11100} оплата по аг.договору 2701-27/1 от 27.01.2026, Поручение №37 от 17.08.2026, FAK FPRO/0061/26 от 03.08.2026, контракт №б/н от 01.08.2019, за мебель (тело) + ПП №2556 — 26 238,06₽ {VO21100} агентское вознаграждение (пор. №37). От ООО «ДРЕ Русланд Трейдинг» (Энерготрансбанк). rubles_received = 1639878.94 / 26238.06. Банк.комиссия 4 919,64₽ {VO80050} не учитывается.",
     "calc": null
   },
   {
