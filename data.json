@@ -778,5 +778,24 @@
     "notes": "| 14.08: Заявка (Payment from TRANSPATH, OUR): 8 380,00 EUR → ERS Polska Sp.z.o.o (PKO Bank Polski, BPKOPLPW, PL57 1020 1332 0000 1202 1394 8932), INV. ERS0811.1 dd 11.08.26. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, Created 14.08.2026 13:34 UTC, Account MT73CFTE28004000000000005036925): TRANSPATH LOGISTIC LIMITED → ERS Polska Sp.z.o.o (PKO Bank Polski, BPKOPLPW, IBAN PL57102013320000120213948932), SEPA, -8 380,00 EUR, INV. ERS0811.1 dd 11.08.26. Status: INITIATED → 🟡. Ждём EXECUTED → 🟢. | Bobr 14.08.2026 14:57 UTC: OUT 19738.39 USDT (Рабочий 3) → TN6SWruq... (сводный row 18+19, подтверждён). | 14.08 18:13: Перенесена из таблицы Константин в Main по указанию Scream (рубли Белтаможсервис Платежи по паспортам, строка 36 Main — пришли под эти сделки; НЕ соединять с рублёвой строкой). | Кросс-курс EUR/USD = 1.15551426 (8 380,00 EUR → 9 683,20 USD) [скриншот W& Платежи 14.08]",
     "calc": "ТЕЗ",
     "row": 40
+  },
+  {
+    "row": 41,
+    "date": "2026-08-17",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
