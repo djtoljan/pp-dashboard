@@ -795,7 +795,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": " | КУРС ПОДТВЕРЖДЁН (17.08 11:55, канал Fininvest/ЭТБ): курс евро = 98,815 — это запас на рост курса (чтобы за время отправки платежа не образовалась курсовая разница). Курс 90,1 неверный — в расчёт НЕ брать. Ждём рубли/расчёт — заполним по 98,815. | Проформа INVOICE Proforma №40230 от 04.08.2026 (Best Delivery OÜ → EUROIMPORT ZAPAD LLC, 100% предоплата, Freight Service 2 FTL Italy-Rotterdam, 5 583,70 EUR) — версия инвойса с покупателем Евроимпорт, подтверждает клиента. Дубль строки не создавался.",
+    "notes": " | Проформа INVOICE Proforma №40230 от 04.08.2026 (Best Delivery OÜ → EUROIMPORT ZAPAD LLC, 100% предоплата, Freight Service 2 FTL Italy-Rotterdam, 5 583,70 EUR) — версия инвойса с покупателем Евроимпорт, подтверждает клиента. Дубль строки не создавался. | Поручение №4 от 17.08.2026 (Transfer request No. 1 from EUROIMPORT ZAPAD LLC, прил. к дог. №20-07/26 от 20.07.26): Принципал EUROIMPORT ZAPAD LLC → Агент ОсОО «Блэкшарк Трейд». Получатель: Best Delivery OÜ (Mustamae Tee 181-136, 12912 Tallinn, Estonia; VAT EE102227587). Банк: UAB ZEN.COM (Литва), BIC BZENLT22XXX, IBAN LT593130010154004777. 5 583,70 EUR. Prepayment for Freight Service 2 FTL Italy-Rotterdam, Without Contract. Курс в поручении 90,1 → 503 091,37₽. Комиссия агента 18 317,01₽. Срок 2-3 банк. дня. | ⚠️ Курс: канал 17.08 поправит на 99,1 («Я поправлю 99,1») — ждём исправленное поручение/подтверждение. vdx_rate не ставится.",
     "calc": null
   },
   {
