@@ -778,5 +778,24 @@
     "notes": "| 14.08: Заявка (Payment from TRANSPATH, OUR): 8 380,00 EUR → ERS Polska Sp.z.o.o (PKO Bank Polski, BPKOPLPW, PL57 1020 1332 0000 1202 1394 8932), INV. ERS0811.1 dd 11.08.26. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, Created 14.08.2026 13:34 UTC, Account MT73CFTE28004000000000005036925): TRANSPATH LOGISTIC LIMITED → ERS Polska Sp.z.o.o (PKO Bank Polski, BPKOPLPW, IBAN PL57102013320000120213948932), SEPA, -8 380,00 EUR, INV. ERS0811.1 dd 11.08.26. Status: INITIATED → 🟡. Ждём EXECUTED → 🟢. | Bobr 14.08.2026 14:57 UTC: OUT 19738.39 USDT (Рабочий 3) → TN6SWruq... (сводный row 18+19, подтверждён). | 14.08 18:13: Перенесена из таблицы Константин в Main по указанию Scream (рубли Белтаможсервис Платежи по паспортам, строка 36 Main — пришли под эти сделки; НЕ соединять с рублёвой строкой). | Кросс-курс EUR/USD = 1.15551426 (8 380,00 EUR → 9 683,20 USD) [скриншот W& Платежи 14.08]",
     "calc": "ТЕЗ",
     "row": 40
+  },
+  {
+    "row": 41,
+    "date": "2026-08-17",
+    "sum": 5583.7,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Евроимпорт Запад",
+    "costFormula": null,
+    "extra": "Инвойс 40230 от 04.08.2026 (Best Delivery OÜ, Mustamae Tee 181-136, 12912 Tallinn, Эстония; VAT EE102227587, RG 14849518): Freight Service 2 FTL Italy-Rotterdam, 1 ед. x 5 583,70 EUR, VAT 0%, итого 5 583,70 EUR. Due 03-09-2026. Customer: TECHEQUIP SOLUTIONS LIMITED (UK). IBAN LT593130010154004777, BIC BZENLT22. Клиент по лейблу: ООО Евроимпорт запад (Fininvest/ЭТБ).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
