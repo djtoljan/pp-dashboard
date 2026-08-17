@@ -698,5 +698,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 38,
+    "date": "2026-08-17",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ГлобалЦвет (Цветы)",
+    "costFormula": null,
+    "extra": "Выписка Блэкшарк ПОЧТОБАНК 17.08.2026 (документы 870, 871 от 17.08): тело 2 702 533,53₽ {VO11200} по аг.договору WD-26 от 25.12.2025, контракт 01/11-2024 от 01.11.2024, поручение 102 от 17.08.2026 + агентское 67 563,34₽ {VO21100}. ООО ГЛОБАЛЦВЕТ (ИНН 9721133571, счёт 40702810110090006341). rubles_received = 2702533.53 / 67563.34. Ждём VDX-заявку.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
