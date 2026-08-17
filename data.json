@@ -797,5 +797,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 42,
+    "date": "2026-08-17",
+    "sum": 16615.96,
+    "currency": "EUR",
+    "company": "LUXORA",
+    "color": "FFFFFFFF",
+    "clientName": "Дре Русланд",
+    "costFormula": null,
+    "extra": "Поручение №37 от 17.08.2026 (Transfer Request No. 37 from 17/08/26) по дог. №2701-27/1 от 27.01.26. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ. Агент: ОсОО «Блэкшарк Трейд». Получатель: FABRYKA MEBLI TARANKO ALEKSANDER TARANKO (POLAND, MORAG, 14-300, UL.PRZEMYSLOWA 21B). Bank Millennium S.A., BIGBPLPW, PL42116022020000000029395219, 02-593 Warszawa, ul. Stanislawa Zarna 2A. 16 615,96 EUR. Инвойс FPRO/0061/26 dd 03.08.2026 (мебель, 36 поз., FCA Morag). Курс 98,693 → 1 639 878,94 руб. Комиссия агента 1,6% (26 238,06 руб.). Срок 2-3 банк. дня.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
