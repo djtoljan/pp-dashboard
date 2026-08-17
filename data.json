@@ -816,5 +816,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 43,
+    "date": "2026-08-14",
+    "sum": 19100.34,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Аметрин (Tez Iz)",
+    "costFormula": null,
+    "extra": "Поручение №7 от 14.08.2026 (Transfer Request No. 7 from 14.08.2026, прил. №1 к аг.договору 29/06-26-1 от 29.06.2026): Принципал ООО «АМЕТРИН» (Москва, Зотикова И.К.) → Агент ОсОО «Блэкшарк Трейд» (Курьянов Т.А.). Получатель: ANHUI AVID NEW MATERIAL CO.,LTD (№8 Huairen Road, Xuanzhou Industrial Zone (shuangqiao), Xuancheng City, Anhui). CITIBANK N.A. HONG KONG BRANCH, Branch 391, Bank 006, акк 3974000039148. 19 100,34 USD. Контракт ktk2502 от 12.01.2026, инвойс PO-2025122007 от 20.12.2025 (террасная доска WPC Decking, 1750 шт, FCA HeFeiBei). Курс 84,5449 → 1 614 836,34₽. Комиссия агента 24 222,55₽. Срок 2-3 банк. дня.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
