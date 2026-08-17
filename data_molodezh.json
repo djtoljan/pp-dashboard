@@ -417,7 +417,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Перенесено из Main Row 46 (Scream 17.08: Молодёжь). Заявка Тип 4: инвойс IMGlobe SIA 08-26/01 + Payment Order 17.08.2026, 3 901,30 EUR → IMGlobe (Revolut, LT893250060683447854, REVOLT21, CHASDEFX). BILL TO: Leo Spot Capital PT (Bali). | Уточнение Scream 17.08: Leo = компания-плательщик (company LEO), клиент = Молодёжь.",
+    "notes": "Перенесено из Main Row 46 (Scream 17.08: Молодёжь). Заявка Тип 4: инвойс IMGlobe SIA 08-26/01 + Payment Order 17.08.2026, 3 901,30 EUR → IMGlobe (Revolut, LT893250060683447854, REVOLT21, CHASDEFX). BILL TO: Leo Spot Capital PT (Bali). | Уточнение Scream 17.08: Leo = компания-плательщик (company LEO), клиент = Молодёжь. | Payment from LEO (W& Платежи t2911, 17.08 15:30): 3 901,30 EUR → IMGlobe SIA (Revolut Bank UAB, Konstitucijos ave. 21B, Vilnius, REVOLT21, LT893250060683447854), INV. 08-26/01 dd 15.08.26, OUR. Платёж отправлен — ждём Transaction Status (🟡/🟢).",
     "calc": null
   }
 ]
