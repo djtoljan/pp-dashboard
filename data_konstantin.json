@@ -322,5 +322,24 @@
     "sent_usdt": 34393.026,
     "notes": "13.08: Заявка (Payment from OMNEX, OUR): 29 632,98 EUR → ICSEA HELEN SEWARD s.a.s. (VIA A. DE GASPERI, 8/A LAINATE MI). INTESA SANPAOLO SPA, BCITITMMXXX, IT85 Q030 6933 2201 0000 0000 723. Invoice 1024 dd 22/05/2026. ⬜ Step 3 (заявка — Scream: «Payment from X = просто заявка, цвет Белый»). | Кросс-курс EUR/USD = 1.15322106 (Alex VDX 13.08): 29 632,98 EUR → 34 173,38 USD; 34 173,38 / (1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX скрин FX — 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD). OMNEX: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX скрин FX — 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD). OMNEX: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08: Alex VDX FX скрин: 1 EUR = 1.15322106 USD (29 633 EUR → 34 173,39 USD) — кросс-курс для заявки OMNEX. Расчёт: 29 632,98 × 1.15322106 = 34 173,38 USD → /(1-0.35%) + 100 = 34 393,40 USDT. | 13.08 10:14 UTC: MT35 TRANSACTION CONFIRMATION PAYOUT — OMNEX TRADING LIMITED (MT35CFTE28004000000000005036930) → ICSEA HELEN SEWARD s.a.s. (IBAN IT85Q0306933220100000000723), -29 632,98 EUR, Invoice 1595 dd 04.08.2026, SEPA. Status: INITIATED → 🟡. Ждём EXECUTED → 🟢. | 13.08: Scream расчёт прихода (сводный 122 654,79 USDT от Константина): 29 633,00 EUR × 1.15322106 = 34 173,39 USD → +0.5% + 100 = 34 444,26 USDT. | Кросс-курс EUR/USD = 1.15322106 (13.08.2026, Alex VDX): 29 632,98 EUR → 34 173,38 USD | 18.08: MT35 TRANSACTION CONFIRMATION PAYOUT (OMNEX TRADING LIMITED, MT35CFTE28004000000000005036930) — Status SUCCESS (EXECUTED): ICSEA HELEN SEWARD s.a.s., -29 632,98 EUR, Invoice 1595 dd 04.08.2026, SEPA. 🟡→🟢.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 18,
+    "date": "2026-08-18",
+    "sum": 13500,
+    "currency": "USD",
+    "company": "Profitlink",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
