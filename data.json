@@ -853,5 +853,24 @@
     "sent_usdt": null,
     "notes": " | Поручение №74864 от 18.08.2026 (Transfer Request No 74864, прил.2 к дог. 20102025TК/2 от 20.10.2025): Принципал ООО «ВТС» (Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (Курьянов А.А.). Получатель: DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan OSB 9. Cadde No:01 Melikgazi/Kayseri, Турция; GARANTİ BANKASI, KAYSERİ OSB, SWIFT TGBATRIS, TR20 0006 2001 1470 0009 0817 80). 44 842,03 USD. Назначение: Sales Contract № ВТС/24/13-12 dd 13.12.2024, инвойс №265894 dd 14.08.2026. Курс 86,20 → 3 865 382,99₽. Комиссия агента 1,5% + 100 USD. Срок 5-10 банк. дней. | Инвойс услуг БиТрейд №74864 от 18.08.2026 (дог. 27062025TК/1 от 24.06.2025): посреднические услуги по проведению расчётов с иностранным поставщиком, курс USD 86,20 → 772,63 USD = 66 600,74₽ (комиссия 1,5% + 100 USD по поручению 74864).",
     "calc": null
+  },
+  {
+    "row": 45,
+    "date": "2026-08-13",
+    "sum": 41875.44,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": "Инвойс Itrix №74630 dd 13.08.2026 (XLSX): Itrix Co., Ltd (725 S Metro Building, 20th Floor, Sukhumvit Road, Khlong Tan Nuea, Watthana, Bangkok 10110, Таиланд; Siam Commercial Bank PCL, SICOTHBK, USD 468-000093-8-840; Bangkok Bank, BKKBTHBK). BILL TO: ООО «ВТС» (WTC, 117105 Москва, Новоданиловская наб. 4А). Sales Contract №20-09/01 dd 20.09.2025. Товар: сетевое оборудование (C1300-48P-4G 682,44; IE-4010-16S12P ×2 7 444,83; C9200L-STACK-KIT 258,50; C9124AXE-ROW ×4 3 019,29; AIR-AP1542D-R-K9 ×2 930,60; CP-7841-K9 ×10 806,53; fluke 289 ×4 3 310,88; i9-10980XE ×2 558,36; N9K-C9336C-FX2 ×2 13 941,02; C8200-1N-4T 2 364,63; C9200L-24P-4G-E ×2 2 354,34; ST4000NM000B ×48 6 204,02). ИТОГО 41 875,44 USD.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
