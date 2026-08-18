@@ -457,5 +457,43 @@
     "sent_usdt": null,
     "notes": "Выписка Блэкшарк ПОЧТОБАНК 18.08.2026 (документы 442, 443 от 18.08): приход от ООО «БЕСТАКВАТИКС» (ИНН 7709875125, счёт 40702810102500113307, БИК 044525104) — тело 1 026 096,06₽ {VO21400} по инв. №MF/26/07/02 от 20.07.2026, №029.07.26.L от 27.07.2026, №MF-SERV/26/12/08 от 12.08.2026 + агентское 20 864,15₽ {VO21100} по аг.договору №201025/1 от 20.10.2025, поручение №5 от 18.08.2026. Инвойсы Multi Fish Lanka (PVT) Ltd (Шри-Ланка, Bank of Ceylon BCEYLKLX, акк 3418760) и PT Jupiter Indonesia (Bekasi): декоративные рыбы (guppy, platy, swordtail, molly, tetra, rainbow), CPT Москва. Курс ~85,508 (12 000 USD). Клиент новый — группа уточняется (Scream 18.08). | ПП №442 от 18.08.2026 ИСПОЛНЕНО (ООО «БЕСТАКВАТИКС», Банк Точка → ОсОО «Блэкшарк Трейд», Почтабанк Пермь): 1 026 096,06₽ {VO21400} по инв. MF/26/07/02 от 20.07.2026, 029.07.26.L от 27.07.2026, MF-SERV/26/12/08 от 12.08.2026, аг.дог. 201025/1 от 20.10.2025, поручение №5 от 18.08.2026. | ПП №443 от 18.08.2026 ИСПОЛНЕНО (ООО «БЕСТАКВАТИКС», Банк Точка → ОсОО «Блэкшарк Трейд», Почтабанк Пермь): 20 864,15₽ {VO21100} вознаграждение агента по аг.договору 201025/1 от 20.10.2025, поручение №5 от 18.08.2026. | Поручение №5 от 18.08.2026 (Transfer Request No. 5, прил.№1 к аг.договору 201025/1 от 20.10.2025): Принципал ООО «БЕСТАКВАТИКС» → Агент ОсОО «Блэкшарк Трейд». Получатель: Multi Fish Lanka (Pvt) Ltd (51 Molligoda Lane, Gampola 20500, Sri Lanka; Bank of Ceylon, Kandy Branch, акк 3418760, SWIFT BCEYLKLX). 11 999,72 USD по инвойсам MF/26/07/02 dd 20.07.2026 (рыба), 029.07.26.L dd 27.07.2026 (рыба, PT Jupiter Indonesia), MF-SERV/26/12/08 dd 12.08.2026 (услуги). Курс 85,51 → 1 026 096,06₽. Комиссия агента 20 864,15₽. Срок 2-3 банк. дня. | 18.08: PDF инвойс MF/26/07/02 dd 20.07.2026 (Multi Fish Lanka → Q8 GROUP LIMITED, рыба guppy/platy/swordtail/molly, AWB 072 7415 9945, CPT Москва, Total 511,70 USD) — уже учтён в этой строке, новая строка не создавалась. | 18.08: Payment Order 11 999,72 USD dd 18/08/2026: Multi Fish Lanka (Pvt) Ltd (51 Molligoda Lane, Gampola 20500, Sri Lanka; Bank of Ceylon, Kandy Branch, акк 3418760, SWIFT BCEYLKLX). Payment for invoice No: MF/26/07/02, 029.07.26.L, MF-SERV/26/12/08. — уже учтён в этой строке (поручение №5), новая строка не создавалась. | 18.08: PDF инвойс MF-SERV/26/12/08 dd 12.08.2026 (Multi Fish Lanka → Q8 GROUP LIMITED, услуги: payment for services 3 857,20 + storage/quarantine 5 785,82 = 9 643,02 USD) — уже учтён в этой строке, новая строка не создавалась. | 18.08: PDF инвойс 029.07.26.L dd 27.07.2026 (PT.JUPITER INDONESIA, Bekasi → Q8 GROUP LIMITED, рыба/креветки/улитки/крабы, FOB Jakarta, AWB 157-6902 4281, Total 1 845,00 USD) — уже учтён в этой строке (поручение №5), новая строка не создавалась. | VDX-уведомление операционки 18.08: с Блэкшарк ПОЧТОБАНК на ВиДиИкс, 1 046 960,21₽ — аквариумные рыбки, заявка 699, БестАкватикс. Доки: вход 18.08.26. → exchange_to = VDX. Сумма = 1 026 096,06 + 20 864,15 (совпадает). Ждём VDX-таблицу (курс/тез) для received_usdt. | ПП №504 от 18.08.2026 ИСПОЛНЕНО (ОсОО «Блэкшарк Трейд», Почтабанк Пермь → ВиДиИкс Сервисез - ФЗКО, ПСБ Ярославль): 1 046 960,21₽ {VO60081} по аг.дог. №4 от 31.03.2025, заявка 699 от 18.08.2026, за аквариумных рыбок. НДС не облагается. ЭП Палий К.К.",
     "calc": null
+  },
+  {
+    "row": 25,
+    "date": "2026-08-18",
+    "sum": 4550,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Мосты",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Payment Order dd 18/08/2026: 4 550,00 USD → NINGBO STONE AUTO ACCESSORY LIMIT CORPORATION (No.19th, east of tonghe road, Camel Mechanical and Electrical Industry Park, Ningbo, China; BANK OF NINGBO, NO.700 NINGNAN SOUTH ROAD, BKNBCN2N, акк 52012029000022629). Purpose: Invoices NL/FV#29405 dd 2026-08-10, autoparts. | Проформа REG202608 dd 03.08.2026 (NINGBO STONE AUTO ACCESSORY CO.,LTD): MOTOR WITHOUT GEARBOX FS 578-4720-011/012/031/032, 1300 pcs × 3,50 = 4 550,00 USD, FOB Ningbo. Buyer: PT DEWATA ARTA GLOBAL (Jalan Lingga Bumi Blok C Nomor 71, Dalung, Kabupaten Badung, Kuta Utara, Bali 80361, Индонезия; PT Bank Mandiri, BMRIIDJA, 1430 0365 1257 0 USD). T/T 30% advance + balance before shipment. Клиент неизвестен — уточнить (покупатель PT Dewata Arta Global, Бали).",
+    "calc": null
+  },
+  {
+    "row": 26,
+    "date": "2026-08-18",
+    "sum": 77435,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Мосты",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Payment Order dd 18/08/2026: 77 435,00 USD → Ozparts B.V. (Weena 690, 3012CN Rotterdam, Netherlands; VAT NL866335791B01, EORI NL866335791). Ebury Partners Belgium NV (Claude Debussylaan 26, Amsterdam), SWIFT EBPBNL22, NL97EBPB2845884133. Purpose: Invoices NL/FV#29405 dd 2026-08-10, autoparts. | Инвойс NL/FV#29405 dd 10.08.2026 (Ozparts B.V. → PT DEWATA ARTA GLOBAL, Jalan Lingga Bumi Blok C Nomor 71, Dalung, Kabupaten Badung, Kuta Utara, Bali 80361; PT Bank Mandiri, BMRIIDJA, 1430 0365 1257 0 USD): тормозные диски (Brake Disc DBA660X/2219X/2549S/2739S/2864S/3014S и др., HS 8708309190), Ship To Transportir Limited Polska (Pass 21, Blonie, Poland), FCA, 3 870,10 kg. Клиент неизвестен — уточнить (покупатель PT Dewata Arta Global, Бали).",
+    "calc": null
   }
 ]
