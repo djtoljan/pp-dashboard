@@ -428,15 +428,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "KBP (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "6000 + 0.3% + 30 = 6048 USDT",
     "extra": "Заявка (Тип 4): Проформа KBP №300127 dd 16.03.2026 (Shipper KBP, Room A075, 3rd floor, 25-11 Seongji-gil, Mapo-gu, Seoul, Корея; Attn: Yeseul Choi) + Платежное поручение 148956 от 17.08.2026: 6 000,00 USD → Choi Yeseul (KBP) (Woori Bank, HVBKKRSEXXX, 1081-801-031584). PAYMENT BY PROFORMA INVOICE NO. 300127 DD 16.03.2026 FOR PENCILS. Консигни: Q8 GROUP LIMITED (Hong Kong, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Kowloon). Товар: Lip Pencil #Naughty Girl/#Perfect Brown, Eye Pencil #Black Noire/#Black Brun — 12 000 pcs × $0.50 = 6 000 USD, FOB, Order 20251001 COSMETICS. Клиент/группа уточняется.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 6048,
     "notes": " | Перенесено из Main Row 44 (Scream 17.08: Молодёжь).",
-    "calc": null
+    "calc": "ТЕЗ"
   }
 ]
