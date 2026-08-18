@@ -438,5 +438,24 @@
     "sent_usdt": 6048,
     "notes": " | Перенесено из Main Row 44 (Scream 17.08: Молодёжь). | BONBILL Q8 6 000,00 USD (Q8 GROUP LIMITED → BONBILL LIMITED, инвойс 300127 dd 16.03.2026, FOR PENCILS, KBP) — исполнено, 🟢.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 24,
+    "date": "2026-07-15",
+    "sum": 100000,
+    "currency": "CNY",
+    "company": "null",
+    "color": "FFFF0000",
+    "clientName": "Кристалл Джет",
+    "costFormula": "null",
+    "extra": "null",
+    "rubles_received": "null",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
