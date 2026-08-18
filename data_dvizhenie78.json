@@ -191,5 +191,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 11,
+    "date": "2026-08-17",
+    "sum": 11940,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": "Поручение №65 от 17.08.2026 (аг.договор 120525-B от 12.05.2025). Принципал: ООО «Балтик лэнд» (ИНН 7813456956). Спецификация: услуги по контракту SKY/BL24 от 01.06.2026, Акты 032064, 032345, 033081, 032580, 032739. Получатель: SKY LOGISTICS HAVA KARA DENIZ TAS VE DIS TIC LTD STI (TURKIYE EMLAK KATILIM BANKASI, USD a/c TR940021100000070411500101, SWIFT EMLATRISXXX). Тело 11,940.00 USD = 1,009,466.11₽ по курсу 84.5449 + агентское 181.83 USD = 15,554.63₽ (1.5%).",
+    "rubles_received": "1009466.11",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
