@@ -331,16 +331,16 @@
     "company": "Profitlink",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "13500/0.992+100=13,708.871 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 13735,
-    "sent_usdt": null,
-    "notes": "18.08: Заявка (Payment from Profitlink, OUR): 13 500,00 USD → Konstantin Smirnov (Carrer de Mandri, 3, 6E Barcelona, Spain, 08022; CIF Y9194348C; tel +34 654495533; smirnovke909@gmail.com). Revolut Bank UAB (Calle Príncipe de Vergara 132, 4ª planta, 28002, Madrid, Spain), SWIFT REVOESM2, IBAN ES87 1583 0001 1490 6217 9184. Provision of marketing strategy services July–September 2026. Invoice No. 0707 dd 18.08.2026. ⬜ Step 3 (заявка с компанией Profitlink). | 18.08 13:53 UTC: IN 13 735,0 USDT на Рабочий 3 от TMLVrzsZF1gzUm1N6kGTv1B2KH1AjaSRM8 (Константин (Просто группа)) — под заявку Profitlink 13 500 USD (13 500 + 1% + 100 = 13 735). received_usdt = 13735.",
-    "calc": null
+    "sent_usdt": 13708.87,
+    "notes": "18.08: Заявка (Payment from Profitlink, OUR): 13 500,00 USD → Konstantin Smirnov (Carrer de Mandri, 3, 6E Barcelona, Spain, 08022; CIF Y9194348C; tel +34 654495533; smirnovke909@gmail.com). Revolut Bank UAB (Calle Príncipe de Vergara 132, 4ª planta, 28002, Madrid, Spain), SWIFT REVOESM2, IBAN ES87 1583 0001 1490 6217 9184. Provision of marketing strategy services July–September 2026. Invoice No. 0707 dd 18.08.2026. ⬜ Step 3 (заявка с компанией Profitlink). | 18.08 13:53 UTC: IN 13 735,0 USDT на Рабочий 3 от TMLVrzsZF1gzUm1N6kGTv1B2KH1AjaSRM8 (Константин (Просто группа)) — под заявку Profitlink 13 500 USD (13 500 + 1% + 100 = 13 735). received_usdt = 13735. | Расчёт (Scream 18.08): 13 500/0.992+100 = 13 708,871 USDT. sent_usdt = 13 708,87. Адрес получателя USDT: TL8iCmoPHAFFVAb7mTDG3b371okSTp4Amb.",
+    "calc": "ТЕЗ"
   },
   {
     "row": 19,
