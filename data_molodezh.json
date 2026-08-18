@@ -466,7 +466,7 @@
     "sum": 4550,
     "currency": "USD",
     "company": "DEWATA",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Мосты",
     "costFormula": null,
     "extra": null,
@@ -476,7 +476,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Payment Order dd 18/08/2026: 4 550,00 USD → NINGBO STONE AUTO ACCESSORY LIMIT CORPORATION (No.19th, east of tonghe road, Camel Mechanical and Electrical Industry Park, Ningbo, China; BANK OF NINGBO, NO.700 NINGNAN SOUTH ROAD, BKNBCN2N, акк 52012029000022629). Purpose: Invoices NL/FV#29405 dd 2026-08-10, autoparts. | Проформа REG202608 dd 03.08.2026 (NINGBO STONE AUTO ACCESSORY CO.,LTD): MOTOR WITHOUT GEARBOX FS 578-4720-011/012/031/032, 1300 pcs × 3,50 = 4 550,00 USD, FOB Ningbo. Buyer: PT DEWATA ARTA GLOBAL (Jalan Lingga Bumi Blok C Nomor 71, Dalung, Kabupaten Badung, Kuta Utara, Bali 80361, Индонезия; PT Bank Mandiri, BMRIIDJA, 1430 0365 1257 0 USD). T/T 30% advance + balance before shipment. Клиент подтверждён Scream 18.08.2026: Мосты (Молодёжь). | 18.08: Заявка (Payment from DEWATA, OUR): 4 550,00 USD → NINGBO STONE AUTO ACCESSORY LIMIT CORPORATION (BANK OF NINGBO, BKNBCN2N, акк 52012029000022629), инвойс NL/FV#29405 dd 10.08.2026. PDF проформы REG202608 dd 03.08.2026 (моторы FS 578-4720-011/012/031/032, 1300 шт × 3,5 USD, FOB Ningbo, T/T 30% advance). DEWATA = Мосты (Молодёжь, подтверждено Scream 18.08). | ⬜ Step 3: заявка (Payment from DEWATA, OUR) — компания DEWATA (PT Dewata Arta Global, Бали).",
+    "notes": "Payment Order dd 18/08/2026: 4 550,00 USD → NINGBO STONE AUTO ACCESSORY LIMIT CORPORATION (No.19th, east of tonghe road, Camel Mechanical and Electrical Industry Park, Ningbo, China; BANK OF NINGBO, NO.700 NINGNAN SOUTH ROAD, BKNBCN2N, акк 52012029000022629). Purpose: Invoices NL/FV#29405 dd 2026-08-10, autoparts. | Проформа REG202608 dd 03.08.2026 (NINGBO STONE AUTO ACCESSORY CO.,LTD): MOTOR WITHOUT GEARBOX FS 578-4720-011/012/031/032, 1300 pcs × 3,50 = 4 550,00 USD, FOB Ningbo. Buyer: PT DEWATA ARTA GLOBAL (Jalan Lingga Bumi Blok C Nomor 71, Dalung, Kabupaten Badung, Kuta Utara, Bali 80361, Индонезия; PT Bank Mandiri, BMRIIDJA, 1430 0365 1257 0 USD). T/T 30% advance + balance before shipment. Клиент подтверждён Scream 18.08.2026: Мосты (Молодёжь). | 18.08: Заявка (Payment from DEWATA, OUR): 4 550,00 USD → NINGBO STONE AUTO ACCESSORY LIMIT CORPORATION (BANK OF NINGBO, BKNBCN2N, акк 52012029000022629), инвойс NL/FV#29405 dd 10.08.2026. PDF проформы REG202608 dd 03.08.2026 (моторы FS 578-4720-011/012/031/032, 1300 шт × 3,5 USD, FOB Ningbo, T/T 30% advance). DEWATA = Мосты (Молодёжь, подтверждено Scream 18.08). | ⬜ Step 3: заявка (Payment from DEWATA, OUR) — компания DEWATA (PT Dewata Arta Global, Бали). | Transaction Status 18.08.2026 (ID 202608182334844208): NINGBO STONE 4 550,00 USD, Source: DEWATA ARTA GLOBAL, BANK OF NINGBO (BKNBCN2NXXX, акк 52012029000022629), Remarks: INV Invoices NL FV 29405 2026-08-10, Purpose: advance payment dibayar sebagian. Статус: Pending Approval. Комиссии: cable 5,00 + correspondent 25,00 + provision 5,69 = 35,69 USD. Total Debit: 4 585,69 USD. | 🟡 Подвешенное ПП (Pending Approval, 18.08.2026): ПП отправлено, ждём исполнения (EXECUTED).",
     "calc": null
   },
   {
