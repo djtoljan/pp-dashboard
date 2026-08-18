@@ -755,5 +755,24 @@
     "sent_usdt": 48306.75,
     "notes": "Commercial Master Invoice №984 dd 30.07.2026 (shipment 31.07.2026). PACIFIC AIR CARGO S.A. (Quito, Ecuador, RUC 1791728726001; NICOLAS BAQUERO S/N Y 29 ABRIL; PHONE 593 2 3945960) → Q8 GROUP LIMITED (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, HK) / IP HANDLERS BV (NOORDPOLDERWEG 20, 1432 JH AALSMEER, NL). Розы (ROSAS), AWB KLM (CIA REAL HOLANDESA DE AVIACION), 17 full boxes, TOTAL 48 132,35 USD. Реквизиты для перевода: PRODUBANCO (Ave Simón Bolívar S/N y Vía Nayón Centro Corporativo Ekopark, Torre 1, Quito), SWIFT PRODECEQ, акк 2005229691, transportation services. Клиент: PACIFIC AIR CARGO (Цветы), компания Q8. sent_usdt авто: 48132.35 + 0.3% + 30 = 48 306,75. | 18.08: IN 48 521,14 USDT на Рабочий 3 от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 (Цветы, подтверждено Scream 18.08) — под заявку 48 132,35 USD (инвойс 984). | 18.08: Q8GK-квитанция (BONBILL Q8): Q8 GROUP LIMITED → PACIFIC AIR CARGO SA, 48 132,35 USD, PRODUBANCO/PRODECEQ, акк 2005****691, transactionId O2089663279625535488165, Invoice 984 dd 30.07.2026 For Transportation Services. Платёж Q8 отправлен (квитанция) — ждём финальный EXECUTED → 🟢. | 18.08: BONBILL Q8 (Тип 7) → 🟢 сразу: Q8GK-квитанция transactionId O2089663279625535488165, Invoice 984 dd 30.07.2026, 48 132,35 USD — платёж Q8 исполнен.",
     "calc": null
+  },
+  {
+    "row": 41,
+    "date": "2026-08-18",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Церера (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "11882290.51 / 297057.26",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
