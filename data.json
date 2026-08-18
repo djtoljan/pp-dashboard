@@ -321,12 +321,12 @@
     "costFormula": null,
     "extra": "Выписка Блэкшарк ПОЧТОБАНК 10.08.2026: приход от ФИНИНВЕСТ (АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ», ИНН 9909705580, счёт 40807810324600000016) 2 990 533,35 ₽ {VO60081} Оплата по Агентскому Договору",
     "rubles_received": "2990533.35",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "2990533.35",
+    "exchange_to": "Al Safi",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": " | 18.08 (доки 10.08.26): уведомление операционки — с Блэкшарк ПОЧТОБАНК на Аль Сафи, 2 990 533,35₽, перевод собственных средств (ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ). Доки: вход 10.08.26, O:...БлэкШаркFININVEST -БШ-Цветы. → exchange_to = Al Safi, sent_rubles_vdx = 2990533.35.",
     "calc": null
   },
   {
@@ -883,13 +883,13 @@
     "clientName": "ВТС",
     "costFormula": null,
     "extra": "null",
-    "rubles_received": null,
+    "rubles_received": "1275980.00 / 27705.70",
     "sent_rubles_vdx": "1303739.70",
     "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Инвойс DML-260715A dd 15.07.2026 от YANGJIANG DAMINGLI INDUSTRY AND TRADE CO.,LTD (Guangdong, China; TEL +86 18023877734; kevin.rm@foxmail.com) на 100 000,00 CNY: 14 pcs silicone utensils set (CW14 Beige 500, White 900, Grey 300, Black 300), 2000 SET × 50,00 CNY = 100 000,00 CNY. EXW, FULL PAYMENT BEFORE SHIPMENT, delivery 5 AUG 2026. Покупатель: РТ Infinite Sunrise Asia (Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581, Индонезия). Бенефициар: YANGJIANG DAMINGLI INDUSTRY AND TRADE CO.,LTD, ICBC Beijing (SWIFT PCBCCN...), A/C 44050... | Контракт купли-продажи №18-08/1 от 18.08.2026 (Sales Contract, Москва): Продавец PT Infinite Sunrise Asia (RUSTAM UGLI IBROKHIMBEK RAKHMONOV) → Покупатель ООО «ВТС» (WTC, Москва, ген. директор Бондарев А.П.). Цены в CNY, 100% предоплата, условия в инвойсах/спецификациях. Клиент = ВТС (по контракту). Компания пока неизвестна — ждём заявку/поручение. | Поручение №73684 от 18.08.2026 (Transfer Request No 73684, прил. №2 к договору на оказание посреднических услуг №20102025TК/2 от 20.10.2025): Принципал ООО «ВТС» (Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (Кыргызстан, Курьянов А.А.). Получатель: YANGJIANG DAMINGLI INDUSTRY AND TRADE CO., LTD (Building 29, Zone A4, Wanyang Zhongchuangcheng Phase I, Baisha Town, Jiangcheng District, Yangjiang City, Guangdong, China; China Construction Bank Beijing, PCBCCNBJXXX, акк 44050175860800001997). 100 000,00 CNY по инвойсу DML-260715A dd 15.07.2026. Курс 12,7598 → 1 275 980,00 ₽. Комиссия агента 1,5% + 100 USD. Срок 5-10 банк. дней. | Инвойс услуг БиТрейд №73684 от 18.08.2026 (дог. 27062025TК/1 от 24.06.2025): посреднические услуги по проведению расчётов с иностранным поставщиком — 1 500,00 CNY @ 12,7598 = 19 139,70₽ + 100 USD @ 85,6600 = 8 566,00₽ = ИТОГО 27 705,70₽. | Платёжные реквизиты 73684: подтверждение перевода 100 000,00 CNY → YANGJIANG DAMINGLI (PCBCCNBJXXX, акк 44050175860800001997), PAYMENT BY INVOICE DML-260715A dd 15/07/2026. Принципал по реквизитам указан ИП Трушин И.С. (уточнить у Scream — в поручении принципал ООО «ВТС»). | VDX-уведомление операционки 18.08: с БиТрейд Кей Джи на ВиДиИкс, 1 303 739,70₽ — посуда, заявка 101, ООО ВТС. Доки: вход 18.08.26-3. → exchange_to = VDX. Сумма ~ 1 275 980,00 (100 000 CNY × 12,7598) + 27 705,70 (агентское БиТрейд 73684) = 1 303 685,70 (разница 54,00 — уточнить). Ждём VDX-таблицу (курс/тез) для received_usdt.",
+    "notes": "Инвойс DML-260715A dd 15.07.2026 от YANGJIANG DAMINGLI INDUSTRY AND TRADE CO.,LTD (Guangdong, China; TEL +86 18023877734; kevin.rm@foxmail.com) на 100 000,00 CNY: 14 pcs silicone utensils set (CW14 Beige 500, White 900, Grey 300, Black 300), 2000 SET × 50,00 CNY = 100 000,00 CNY. EXW, FULL PAYMENT BEFORE SHIPMENT, delivery 5 AUG 2026. Покупатель: РТ Infinite Sunrise Asia (Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581, Индонезия). Бенефициар: YANGJIANG DAMINGLI INDUSTRY AND TRADE CO.,LTD, ICBC Beijing (SWIFT PCBCCN...), A/C 44050... | Контракт купли-продажи №18-08/1 от 18.08.2026 (Sales Contract, Москва): Продавец PT Infinite Sunrise Asia (RUSTAM UGLI IBROKHIMBEK RAKHMONOV) → Покупатель ООО «ВТС» (WTC, Москва, ген. директор Бондарев А.П.). Цены в CNY, 100% предоплата, условия в инвойсах/спецификациях. Клиент = ВТС (по контракту). Компания пока неизвестна — ждём заявку/поручение. | Поручение №73684 от 18.08.2026 (Transfer Request No 73684, прил. №2 к договору на оказание посреднических услуг №20102025TК/2 от 20.10.2025): Принципал ООО «ВТС» (Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (Кыргызстан, Курьянов А.А.). Получатель: YANGJIANG DAMINGLI INDUSTRY AND TRADE CO., LTD (Building 29, Zone A4, Wanyang Zhongchuangcheng Phase I, Baisha Town, Jiangcheng District, Yangjiang City, Guangdong, China; China Construction Bank Beijing, PCBCCNBJXXX, акк 44050175860800001997). 100 000,00 CNY по инвойсу DML-260715A dd 15.07.2026. Курс 12,7598 → 1 275 980,00 ₽. Комиссия агента 1,5% + 100 USD. Срок 5-10 банк. дней. | Инвойс услуг БиТрейд №73684 от 18.08.2026 (дог. 27062025TК/1 от 24.06.2025): посреднические услуги по проведению расчётов с иностранным поставщиком — 1 500,00 CNY @ 12,7598 = 19 139,70₽ + 100 USD @ 85,6600 = 8 566,00₽ = ИТОГО 27 705,70₽. | Платёжные реквизиты 73684: подтверждение перевода 100 000,00 CNY → YANGJIANG DAMINGLI (PCBCCNBJXXX, акк 44050175860800001997), PAYMENT BY INVOICE DML-260715A dd 15/07/2026. Принципал по реквизитам указан ИП Трушин И.С. (уточнить у Scream — в поручении принципал ООО «ВТС»). | VDX-уведомление операционки 18.08: с БиТрейд Кей Джи на ВиДиИкс, 1 303 739,70₽ — посуда, заявка 101, ООО ВТС. Доки: вход 18.08.26-3. → exchange_to = VDX. Сумма ~ 1 275 980,00 (100 000 CNY × 12,7598) + 27 705,70 (агентское БиТрейд 73684) = 1 303 685,70 (разница 54,00 — уточнить). Ждём VDX-таблицу (курс/тез) для received_usdt. | Выписка БиТрейд (ВТБ) 18.08.2026 (док 3921, 3922): тело 1 275 980,00₽ {VO11200} по поручению 73684 (100 000 CNY × 12,7598) + агентское 27 705,70₽ {VO21100} (инвойс услуг 73684). rubles_received = 1275980.00 / 27705.70. На VDX ушло 1 303 739,70 (уведомление, заявка 101).",
     "calc": null
   },
   {
@@ -946,7 +946,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Payment Order dd 18/08/2026: 4 550,00 USD → NINGBO STONE AUTO ACCESSORY LIMIT CORPORATION (No.19th, east of tonghe road, Camel Mechanical and Electrical Industry Park, Ningbo, China; BANK OF NINGBO, NO.700 NINGNAN SOUTH ROAD, BKNBCN2N, акк 52012029000022629). Purpose: Invoices NL/FV#29405 dd 2026-08-10, autoparts. | Проформа REG202608 dd 03.08.2026 (NINGBO STONE AUTO ACCESSORY CO.,LTD): MOTOR WITHOUT GEARBOX FS 578-4720-011/012/031/032, 1300 pcs × 3,50 = 4 550,00 USD, FOB Ningbo. Buyer: PT DEWATA ARTA GLOBAL (Jalan Lingga Bumi Blok C Nomor 71, Dalung, Kabupaten Badung, Kuta Utara, Bali 80361, Индонезия; PT Bank Mandiri, BMRIIDJA, 1430 0365 1257 0 USD). T/T 30% advance + balance before shipment. Клиент неизвестен — уточнить (покупатель PT Dewata Arta Global, Бали).",
     "calc": null
   },
   {
@@ -965,7 +965,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Payment Order dd 18/08/2026: 77 435,00 USD → Ozparts B.V. (Weena 690, 3012CN Rotterdam, Netherlands; VAT NL866335791B01, EORI NL866335791). Ebury Partners Belgium NV (Claude Debussylaan 26, Amsterdam), SWIFT EBPBNL22, NL97EBPB2845884133. Purpose: Invoices NL/FV#29405 dd 2026-08-10, autoparts. | Инвойс NL/FV#29405 dd 10.08.2026 (Ozparts B.V. → PT DEWATA ARTA GLOBAL, Jalan Lingga Bumi Blok C Nomor 71, Dalung, Kabupaten Badung, Kuta Utara, Bali 80361; PT Bank Mandiri, BMRIIDJA, 1430 0365 1257 0 USD): тормозные диски (Brake Disc DBA660X/2219X/2549S/2739S/2864S/3014S и др., HS 8708309190), Ship To Transportir Limited Polska (Pass 21, Blonie, Poland), FCA, 3 870,10 kg. Клиент неизвестен — уточнить (покупатель PT Dewata Arta Global, Бали).",
     "calc": null
   }
 ]
