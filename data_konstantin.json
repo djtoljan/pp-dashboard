@@ -356,9 +356,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": "23091.56",
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Заявка на выплату 18.08.2026 (Тесс): Payment for proforma invoice Q8G20260819001 dd 19.08.26 for Goman Crawler Articulated Spider Lift X16. Beneficiary: Hubei Goman Heavy Industry Technology Co., Ltd (No.188 Doubu Avenue, Hannan District, Wuhan China). Банк: HUBEI BANK CORPORATION LIMITED, NO.86 ZHONGBEI ROAD, WUHAN, HBBKCNBNXXX, акк 10061240000000206. Сумма 154 000 CNY. Компания Q8. | IN 23 091,56 USDT от TMLVR (Константин) 18.08 — привязан (Q9+ledger, q9_sent=true).",
     "calc": null
   }
 ]
