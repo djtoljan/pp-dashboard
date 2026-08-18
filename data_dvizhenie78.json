@@ -183,7 +183,7 @@
     "clientName": "Балтик Лэнд (Движение 78)",
     "costFormula": null,
     "extra": "Поручение №66 от 17.08.2026 (аг.договор 120525-B от 12.05.2025). Принципал: ООО «Балтик лэнд» (ИНН 7813456956). Спецификация: услуги по контракту 01082024 от 01.08.2024. Получатель: SHENZHEN BFS INTERNATIONAL FORWARDING CO., LTD (VTB BANK SHANGHAI, CNY a/c 40807156400610003641, SWIFT VTBRCNSH). Тело 119,343.05 CNY = 1,489,270.00₽ по курсу 12.4789 + агентское 1,817.41 CNY = 22,679.26₽ (1.5%). Акты BFS 112-08674470 (50,957.52 CNY) + 112-08674466 (68,385.53 CNY) = 119,343.05 CNY.",
-    "rubles_received": "1489270.00",
+    "rubles_received": "1489270.00 / 22679.26",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
