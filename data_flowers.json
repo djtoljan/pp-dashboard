@@ -851,5 +851,43 @@
     "sent_usdt": 10060,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 46,
+    "date": "2026-08-19",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Novpec (Цветы)",
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "extra": "Инвойс NOVPEC 10641 dd 19.08.2026 (NOVPEC S.A., Quito, Ecuador; Banco Guayaquil S.A, GUAYECEGXXX, 48406459; Wells Fargo PNBPUS3NNYC 2000192321514). Roses 9500 stems, 18.5 boxes, FOB 6505 + inland 138 + AWB 3357 = 10 000 USD. MAWB 369-9930 2921. Q8 Group Limited (80242882).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 10060,
+    "notes": null,
+    "calc": null
+  },
+  {
+    "row": 47,
+    "date": "2026-08-19",
+    "sum": 4500,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "TESSAROSES (Цветы)",
+    "costFormula": "4500 + 0.3% + 30 = 4543.50 USDT",
+    "extra": "Ордер TESSAROSES_S.A_4500_00: TESSAROSES S.A. (Av. Eugenio Espejo S/N, Plaza del Rancho, Bloque 1, of. 309, Quito; BANCO PICHINCHA, PICHECEQ, 2100035225; JP Morgan Chase CHASUS33). PAYMENT FOR FLOWERS. | Заказ клиента RUFLORA (в PDF: purchase order of the client RUFLORA). Инвойс: TOTALS 7250 stems (розы Arco/Ecua/Tessa/Dali), FOB 4 500,00 USD. AWB 369-7536 67357, HAWB 369-7255 42425, FRESH LOGISTIC, ATLAS AIR. Q8 Group Limited. Клиент/группа уточняется.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 4543.5,
+    "notes": null,
+    "calc": null
   }
 ]
