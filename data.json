@@ -972,24 +972,5 @@
     "sent_usdt": null,
     "notes": "VDX-уведомление операционки 19.08 (t23683): с Блэкшарк ЭНЕРГОТРАНС на ВиДиИкс, 1 499 102,40₽ — страховые взносы, заявка 706 от 19.08.2026, ИП МАЗУРЕНКО. Доки: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БлэкШарк\\\\ИП МАЗУРЕНКО ЭНЕРГОТРАНС\\\\вход 19.08.26. ⚠️ Сумма не совпадает с Row 44 (1 505 102,40 = 1 481 400 + 23 702,40) — вероятно, отдельная заявка 706. | ПП на VDX №190 от 19.08.2026 ИСПОЛНЕНО (Энерготрансбанк)",
     "calc": null
-  },
-  {
-    "row": 51,
-    "date": "2026-08-19",
-    "sum": 12170.94,
-    "currency": "EUR",
-    "company": "CORE LINK TECHNOLOGIES LLC FZ",
-    "color": "FFFFFFFF",
-    "clientName": null,
-    "costFormula": null,
-    "extra": "Проформа Teklif2026-12972 от 10.08.2026 (VORTEKS Hav.Sav.Müh.Ltd.Şti., Etimesgut/ANKARA; QNB Finansbank İvedik Şb. EURO TR60 0011 1000 0000 0130 8866 69): Permanent Adhesive Labels, Net Toplam 12 170,94 EUR. Покупатель: CORE LINK TECHNOLOGIES LLC FZ. Платёжное поручение №156368 от 19.08.2026: PAYMENT BY PROFORMA INVOICE NO. TEKLIF2026-12972 DD 10.08.2026 FOR Permanent Adhesive Labels, бенефициар VORTEKS (QNB FINANSBANK, FNNBTRIS). Сумма 12 170,94 EUR. Клиент уточняется (CORE LINK = CODELINK/Константин?)",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
   }
 ]
