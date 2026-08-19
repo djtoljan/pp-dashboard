@@ -514,7 +514,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Поручение №11 от 18.08.2026 (Transfer request No. 11) к аг.договору №09-02-2/26 от 09.02.2026. Принципал: ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, Юникредит). Агент: VDX SERVICES - FZCO. Получатель: YUYAO MAXUN COMMUNICATION EQUIPMENT CO.,LTD. (NO.48 WEST ZHUBEI ROAD, MAZHU TOWN, YUYAO CITY, ZHEJIANG PROVINCE, CHINA; CHINA MERCHANTS BANK NINGBO BRANCH, a/c 5749-0394-4332-901, SWIFT CMBCCNBS286). 3 010,00 USD = 259 958,95 ₽ (курс 86,3651 ₽/USD), агентское 22 472,20 ₽. 100% PAYMENT under Proforma Invoice No. MX-2026-S0804 dd 04.08.2026 (FOR CONNECTORS). | ПП №344 от 18.08.2026 (проведено 19.08, Юникредит → VDX/ПСБ): 259 958,95₽ {VO11100} подлежащая перечислению для YUYAO MAXUN за товар по Ag.-Of.10082026 dd 10.08.2026, PR.IN. MX-2026-S0804 dd 04.08.2026, аг.дог. 09-02-2/26. | ПП №345 от 18.08.2026 (проведено 19.08): 22 472,20₽ {VO21100} вознаграждение агента по поручению №11, аг.дог. 09-02-2/26.",
+    "notes": "Поручение №11 от 18.08.2026 (Transfer request No. 11) к аг.договору №09-02-2/26 от 09.02.2026. Принципал: ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, Юникредит). Агент: VDX SERVICES - FZCO. Получатель: YUYAO MAXUN COMMUNICATION EQUIPMENT CO.,LTD. (NO.48 WEST ZHUBEI ROAD, MAZHU TOWN, YUYAO CITY, ZHEJIANG PROVINCE, CHINA; CHINA MERCHANTS BANK NINGBO BRANCH, a/c 5749-0394-4332-901, SWIFT CMBCCNBS286). 3 010,00 USD = 259 958,95 ₽ (курс 86,3651 ₽/USD), агентское 22 472,20 ₽. 100% PAYMENT under Proforma Invoice No. MX-2026-S0804 dd 04.08.2026 (FOR CONNECTORS). | ПП на VDX №344 от 18.08.2026 (проведено 19.08, Юникредит → VDX/ПСБ): 259 958,95₽ {VO11100} подлежащая перечислению для YUYAO MAXUN за товар по Ag.-Of.10082026 dd 10.08.2026, PR.IN. MX-2026-S0804 dd 04.08.2026, аг.дог. 09-02-2/26. | ПП на VDX №345 от 18.08.2026 (проведено 19.08): 22 472,20₽ {VO21100} вознаграждение агента по поручению №11, аг.дог. 09-02-2/26.",
     "calc": null
   },
   {
@@ -528,12 +528,12 @@
     "costFormula": null,
     "extra": "Проформа Teklif2026-12972 от 10.08.2026 (VORTEKS Hav.Sav.Müh.Ltd.Şti., Etimesgut/ANKARA; QNB Finansbank İvedik Şb. EURO TR60 0011 1000 0000 0130 8866 69): Permanent Adhesive Labels, Net Toplam 12 170,94 EUR. Покупатель: CORE LINK TECHNOLOGIES LLC FZ. Платёжное поручение №156368 от 19.08.2026: PAYMENT BY PROFORMA INVOICE NO. TEKLIF2026-12972 DD 10.08.2026 FOR Permanent Adhesive Labels, бенефициар VORTEKS (QNB FINANSBANK, FNNBTRIS). Сумма 12 170,94 EUR. Клиент уточняется (CORE LINK = CODELINK/Константин?)",
     "rubles_received": null,
-    "sent_rubles_vdx": "1264735.24 (VDX)",
+    "sent_rubles_vdx": "1264735.24",
     "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Клиент: Фрилайнс (Молодёжь) — подтверждено Scream 19.08.2026.  | ПП №4149 от 19.08.2026 (проведено 19.08, Юникредит → VDX/ПСБ): АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274, Юникредит БИК 044525545) → VDX SERVICES - FZCO (ИНН 9909710068, ПСБ Ярославль БИК 044525555, счёт 40807810000000015414), 1 264 735,24₽. {VO21200} Payment according to contract ADL-230223-FLC от 23.02.2023 for forwarding services. НДС не облагается. (Scream 19.08: рубли под сделку VORTEKS 12 170,94 EUR; курс ≈ 103,91 ₽/EUR).",
+    "notes": "Клиент: Фрилайнс (Молодёжь) — подтверждено Scream 19.08.2026.  | ПП на VDX №4149 от 19.08.2026 (проведено 19.08, Юникредит → VDX/ПСБ): АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274, Юникредит БИК 044525545) → VDX SERVICES - FZCO (ИНН 9909710068, ПСБ Ярославль БИК 044525555, счёт 40807810000000015414), 1 264 735,24₽. {VO21200} Payment according to contract ADL-230223-FLC от 23.02.2023 for forwarding services. НДС не облагается. (Scream 19.08: рубли под сделку VORTEKS 12 170,94 EUR; курс ≈ 103,91 ₽/EUR).",
     "calc": null
   }
 ]
