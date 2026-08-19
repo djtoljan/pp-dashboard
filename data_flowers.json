@@ -889,5 +889,43 @@
     "sent_usdt": 4543.5,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 48,
+    "date": "2026-08-19",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Rosaprima (Цветы)",
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "extra": "Prebook #945331 dd 31.07.2026 (Truck Date 07/31/2026). Rosaprima International LLC (Miami, 175 SW 7th Street, Suite 2301). ROS AST 60, 50 boxes, 20000 stems @ 0.50 = 10 000 USD. Customer: LTT Group GmbH (Furstenwalde). Ship To: Q8 Group Limited (HK, 80242882). Carrier: EBF Cargo. Account 553394. Sales Rep Daniel Larrea. THIS IS NOT A BILL.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 10060,
+    "notes": null,
+    "calc": null
+  },
+  {
+    "row": 49,
+    "date": "2026-08-19",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Flores de Conejera (Цветы)",
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "extra": "Инвойс №511902 dd 29.07.2026 (FLORES LA CONEJERA SAS, Calle 100 #19A-50 Of. 405, Bogota DC, Colombia; NIT 860.501.528-7; BANCOLOMBIA SA, COLOCOBM, счёт 13491600454). CLAVEL (гвоздика) ASSORTED SELECT, 25 full boxes, 50000 stems @ 0.20 = 10 000 USD. FOB. Q8 Group Limited (80242882).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 10060,
+    "notes": null,
+    "calc": null
   }
 ]
