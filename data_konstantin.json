@@ -360,5 +360,24 @@
     "sent_usdt": 23026.78,
     "notes": "Заявка на выплату 18.08.2026 (Тесс): Payment for proforma invoice Q8G20260819001 dd 19.08.26 for Goman Crawler Articulated Spider Lift X16. Beneficiary: Hubei Goman Heavy Industry Technology Co., Ltd (No.188 Doubu Avenue, Hannan District, Wuhan China). Банк: HUBEI BANK CORPORATION LIMITED, NO.86 ZHONGBEI ROAD, WUHAN, HBBKCNBNXXX, акк 10061240000000206. Сумма 154 000 CNY. Компания Q8. | IN 23 091,56 USDT от TMLVR (Константин) 18.08 — привязан (Q9+ledger, q9_sent=true). | 19.08: costFormula ждёт ТОЛЬКО курс Q8 CNY→USD (по правилу Q8: CNY→USD + 0.3% + 30) — НЕ ждёт VDX. received_usdt уже получен (23 091,56). | 19.08: Контракт Q8G20260819001 dd 19.08.2026 (Hubei Goman Heavy Industry Technology Co., Ltd, Wuhan; HUBEI BANK, HBBKCNBNXXX, 10061240000000206). Goman Crawler Articulated Spider Lift X16 ×2 (EXW 226 000 CNY) + запчасти. TOTAL 455 503,00 CNY − возврат 3 503 (запчасти) − 12 000 (доставка Wuhan→Shanghai) = 440 000,00 CNY. Оплата: 30% аванс T/T, 70% до отгрузки. | BONBILL Payment Certificate 19.08.2026 14:41:37 (txid O2089965994985521152329): Q8 GROUP LIMITED → Hubei Goman Heavy Industry Technology Co., Ltd (HUBEI BANK CORPORATION LIMITED, HBBKCNBNXXX, акк 10061240000000206), CNH 154 000,00. Invoice Q8G20260819001 dd 19.08.2026 For Goman Crawler Articulated Spider Lift X16. EXECUTED 🟢. sent_usdt: ждём курс Q8 CNY→USD (по правилу CNY→USD + 0.3% + 30). | FX Q8GK 19.08 14:33:34 (txid 202608191433349376822): Q8 продал 22 928 USD → купил 154 353,58 CNH, курс 6,73209977773. Под заявку 154 000 CNY (Goman). sent_usdt = 23 026,78 USDT.",
     "calc": null
+  },
+  {
+    "row": 20,
+    "date": "2026-08-19",
+    "sum": 262022,
+    "currency": "EUR",
+    "company": "TECHEQUIP",
+    "color": "FFFFFF00",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка 19.08.2026 (W& Платежи t2911): Payment from TECHEQUIP, OUR. Получатель: Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany; Deutsche Bank AG, Taunusanlage 12, 60325 Frankfurt am Main; SWIFT DEUTDE3B490, a/c DE03 4907 0028 0291 3713 00). Инвойс 3975038 dd 21.04.2026 — 262 022,00 EUR (по заявке; в инвойсе 314 160,00 EUR = 660 шт KAFFEEVOLLAUTOMAT CAFFEO BARISTA SMART TS × 476,00, Warenempfänger TECHNORIUM LLC, Chubinashvili 63, 0144 Tbilisi). ⚠️ Расхождение сумм заявки и инвойса — уточнить. | MT89 19.08 12:03 UTC: TRANSACTION CONFIRMATION PAYOUT — Status INITIATED. TECHEQUIP SOLUTIONS → Melitta Europa GmbH & Co. KG, IBAN DE03490700280291371300, Inv 3975038 dd 21.04.2026, -262 022,00 EUR, SEPA. Ref MT89CFTE28004000000000005036928. 🟡 INITIATED.",
+    "calc": null
   }
 ]
