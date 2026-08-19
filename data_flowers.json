@@ -828,9 +828,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 30883,
     "sent_usdt": 30721.2,
-    "notes": " | Инвойс №323 dd 18.08.2026: CONDOR ANDINO SAS (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; BANCOLOMBIA, COLOCOBM, счёт 55700015652) → Q8 Group Limited (80242882). FRESH CUT HYDRANGEAS 125 boxes, 38 249 stems @ 0.80 = 30 599,40 USD. FOB.",
+    "notes": " | Инвойс №323 dd 18.08.2026: CONDOR ANDINO SAS (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; BANCOLOMBIA, COLOCOBM, счёт 55700015652) → Q8 Group Limited (80242882). FRESH CUT HYDRANGEAS 125 boxes, 38 249 stems @ 0.80 = 30 599,40 USD. FOB. | 19.08: IN 61 363 USDT от TEV72g8Qt... (Цветы доплата) — received_usdt = 30 599,4 × 1,006 + 100 = 30 883 (Scream: разбивка прихода).",
     "calc": null
   },
   {
@@ -847,9 +847,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": null,
+    "notes": " | 19.08: IN 61 363 USDT (Цветы доплата) — received_usdt = 10 000 × 1,006 + 100 = 10 160 (Scream: Novpec S.A. ×2 -10000).",
     "calc": null
   },
   {
@@ -866,9 +866,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": null,
+    "notes": " | 19.08: IN 61 363 USDT (Цветы доплата) — received_usdt = 10 000 × 1,006 + 100 = 10 160 (Scream: Novpec S.A. ×2 -10000).",
     "calc": null
   },
   {
@@ -980,9 +980,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": null,
+    "notes": " | 19.08: IN 61 363 USDT (Цветы доплата) — received_usdt = 10 000 × 1,006 + 100 = 10 160 (Scream: Incoflores -10000).",
     "calc": null
   },
   {
