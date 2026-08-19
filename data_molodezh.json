@@ -523,17 +523,17 @@
     "sum": null,
     "currency": "Фри Лайнс Компани",
     "company": null,
-    "color": null,
+    "color": "FF4FC3F7",
     "clientName": null,
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "1264735.24",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "ПП №4149 от 19.08.2026 (проведено 19.08, Юникредит → VDX/ПСБ): АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274, Юникредит БИК 044525545) → VDX SERVICES - FZCO (ИНН 9909710068, ПСБ Ярославль БИК 044525555, счёт 40807810000000015414), 1 264 735,24₽. {VO21200} Payment according to contract ADL-230223-FLC от 23.02.2023 for forwarding services. НДС не облагается.",
     "calc": null
   }
 ]
