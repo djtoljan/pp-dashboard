@@ -984,5 +984,24 @@
     "sent_usdt": 10060,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 53,
+    "date": "2026-08-19",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Milele Flowers (Цветы)",
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "extra": "Инвойс 1300/3188 dd 25.07.2026 (Milele Flowers Ltd, P.O. Box 295-10218 Kangari, Kenya; Kenya Commercial Bank, KCBLKENX, 1203691181). Sprays mix 60cm, 30 boxes, 6000 stems @ 1.10 = 6600 FOB + freight 3400 = 10 000 USD. AWB 259-0227 2686. Remarks: NS INCOFLORES. Q8 Group Limited. Ордер Milele_Flowers_limited_10000: For Flowers, costs by customer.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 10060,
+    "notes": null,
+    "calc": null
   }
 ]
