@@ -845,7 +845,7 @@
     "sum": 15000,
     "currency": "EUR",
     "company": "TRANSPATH",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "ИП Мазуренко",
     "costFormula": null,
     "extra": null,

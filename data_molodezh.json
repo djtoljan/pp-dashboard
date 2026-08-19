@@ -509,12 +509,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "259958.95/22472.20",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Поручение №11 от 18.08.2026 (Transfer request No. 11) к аг.договору №09-02-2/26 от 09.02.2026. Принципал: ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, Юникредит). Агент: VDX SERVICES - FZCO. Получатель: YUYAO MAXUN COMMUNICATION EQUIPMENT CO.,LTD. (NO.48 WEST ZHUBEI ROAD, MAZHU TOWN, YUYAO CITY, ZHEJIANG PROVINCE, CHINA; CHINA MERCHANTS BANK NINGBO BRANCH, a/c 5749-0394-4332-901, SWIFT CMBCCNBS286). 3 010,00 USD = 259 958,95 ₽ (курс 86,3651 ₽/USD), агентское 22 472,20 ₽. 100% PAYMENT under Proforma Invoice No. MX-2026-S0804 dd 04.08.2026 (FOR CONNECTORS). | ПП №344 от 18.08.2026 (проведено 19.08, Юникредит → VDX/ПСБ): 259 958,95₽ {VO11100} подлежащая перечислению для YUYAO MAXUN за товар по Ag.-Of.10082026 dd 10.08.2026, PR.IN. MX-2026-S0804 dd 04.08.2026, аг.дог. 09-02-2/26. | ПП №345 от 18.08.2026 (проведено 19.08): 22 472,20₽ {VO21100} вознаграждение агента по поручению №11, аг.дог. 09-02-2/26.",
     "calc": null
   }
 ]
