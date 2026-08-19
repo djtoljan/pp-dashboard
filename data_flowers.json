@@ -806,12 +806,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": "3922150.90 / 98053.77",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "4020204.67 (VDX)",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Выписка Блэкшарк ПОЧТОБАНК 18.08.2026 (документы 503, 504 от 18.08): тело 3 922 150,90₽ {VO11200} по аг.договору WD-27 от 25.12.2025, контракт 2026-06-23 от 23.06.2026, поручение 49 от 18.08.2026 + вознаграждение 98 053,77₽ {VO21100} (2,5%). ООО ЦЕРЕРА (ИНН 9721131567, счёт 40702810010090006331). rubles_received = 3922150.90 / 98053.77. Ждём VDX-заявку.",
+    "notes": "Выписка Блэкшарк ПОЧТОБАНК 18.08.2026 (документы 503, 504 от 18.08): тело 3 922 150,90₽ {VO11200} по аг.договору WD-27 от 25.12.2025, контракт 2026-06-23 от 23.06.2026, поручение 49 от 18.08.2026 + вознаграждение 98 053,77₽ {VO21100} (2,5%). ООО ЦЕРЕРА (ИНН 9721131567, счёт 40702810010090006331). rubles_received = 3922150.90 / 98053.77. Ждём VDX-заявку. | VDX-уведомление операционки 19.08 (t23683): с Блэкшарк ПОЧТОБАНК на ВиДиИкс, 4 020 204,67₽ за цветы, заявка 703 от 18.08.2026. Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\ЦЕРЕРА\\вход 18.08.26-2. | ПП на VDX №? (номер не указан, ждём документ)",
     "calc": null
   },
   {
@@ -877,7 +877,7 @@
     "sum": 4500,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "TESSAROSES (Цветы)",
     "costFormula": "4500 + 0.3% + 30 = 4543.50 USDT",
     "extra": "Ордер TESSAROSES_S.A_4500_00: TESSAROSES S.A. (Av. Eugenio Espejo S/N, Plaza del Rancho, Bloque 1, of. 309, Quito; BANCO PICHINCHA, PICHECEQ, 2100035225; JP Morgan Chase CHASUS33). PAYMENT FOR FLOWERS. | Заказ клиента RUFLORA (в PDF: purchase order of the client RUFLORA). Инвойс: TOTALS 7250 stems (розы Arco/Ecua/Tessa/Dali), FOB 4 500,00 USD. AWB 369-7536 67357, HAWB 369-7255 42425, FRESH LOGISTIC, ATLAS AIR. Q8 Group Limited. Клиент/группа уточняется.",
@@ -887,7 +887,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 4543.5,
-    "notes": null,
+    "notes": " | BONBILL (Q8) 19.08.2026 16:55:29 (TXN O2089999682871885824343): Q8 GROUP LIMITED → TESSAROSES S.A. (BANCO PICHINCHA, a/c 210003522545), 4 500,00 USD. Invoice 90614222DD03072026 For Flowers.",
     "calc": null
   },
   {
@@ -953,7 +953,7 @@
     "sum": 108598.77,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "108 598,77 × 1,1643855545 + 0,3% + 30 = 126860,19 USDT",
     "extra": "Коммерческий инвойс AA-Q8-2026-0819 dd 19.08.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, Ul. Odrin No.15, Fl.9, of.908, Burgas 8000, Bulgaria; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 108 598,77 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8. | FX 19.08.2026 (Q8GK): продажа 126 458 USD → покупка 108 604,92 EUR, 1 USD = 0,858822092935 EUR, доставка 19.08.2026. Кросс-курс EUR→USD = 1,1643855545.",
@@ -963,7 +963,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 126860.19,
-    "notes": null,
+    "notes": " | BONBILL (Q8) 19.08.2026 16:49:57 (TXN O2089998288618127360113): Q8 GROUP LIMITED → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BG04BGUS91601413896300), 108 598,77 EUR. Invoice AAQ820260819DD19082026 For Flowers.",
     "calc": null
   },
   {
