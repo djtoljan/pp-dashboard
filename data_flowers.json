@@ -813,5 +813,24 @@
     "sent_usdt": null,
     "notes": "Выписка Блэкшарк ПОЧТОБАНК 18.08.2026 (документы 503, 504 от 18.08): тело 3 922 150,90₽ {VO11200} по аг.договору WD-27 от 25.12.2025, контракт 2026-06-23 от 23.06.2026, поручение 49 от 18.08.2026 + вознаграждение 98 053,77₽ {VO21100} (2,5%). ООО ЦЕРЕРА (ИНН 9721131567, счёт 40702810010090006331). rubles_received = 3922150.90 / 98053.77. Ждём VDX-заявку.",
     "calc": null
+  },
+  {
+    "row": 44,
+    "date": "2026-08-19",
+    "sum": 30599.4,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "уточняется (Q8GK t19)",
+    "costFormula": null,
+    "extra": "Инвойс №323 dd 18.08.2026 (CONDOR ANDINO SAS, NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; BANCOLOMBIA, CLL 10 # 8-48, COLOCOBM, счёт 55700015652) → Q8 GROUP LIMITED (80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). FRESH CUT HYDRANGEAS 125 боксов, 38 249 стеблей @ 0.80 = 30 599,40 USD. Клиент/группа уточняется.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
