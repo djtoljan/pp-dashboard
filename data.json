@@ -972,5 +972,24 @@
     "sent_usdt": null,
     "notes": "Заявка 19.08.2026 (W& Платежи t2911): Payment from TECHEQUIP, OUR. Получатель: Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany; Deutsche Bank AG, Taunusanlage 12, 60325 Frankfurt am Main; SWIFT DEUTDE3B490, a/c DE03 4907 0028 0291 3713 00). Инвойс 3975038 dd 21.04.2026 — 262 022,00 EUR (по заявке; в инвойсе 314 160,00 EUR = 660 шт KAFFEEVOLLAUTOMAT CAFFEO BARISTA SMART TS × 476,00, Warenempfänger TECHNORIUM LLC, Chubinashvili 63, 0144 Tbilisi). ⚠️ Расхождение сумм заявки и инвойса — уточнить.",
     "calc": null
+  },
+  {
+    "row": 51,
+    "date": "2026-08-19",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ИП Мазуренко",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "1499102.40 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "VDX-уведомление операционки 19.08 (t23683): с Блэкшарк ЭНЕРГОТРАНС на ВиДиИкс, 1 499 102,40₽ — страховые взносы, заявка 706 от 19.08.2026, ИП МАЗУРЕНКО. Доки: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БлэкШарк\\\\ИП МАЗУРЕНКО ЭНЕРГОТРАНС\\\\вход 19.08.26. ⚠️ Сумма не совпадает с Row 44 (1 505 102,40 = 1 481 400 + 23 702,40) — вероятно, отдельная заявка 706. | ПП на VDX №? (номер не указан, ждём документ)",
+    "calc": null
   }
 ]
