@@ -927,5 +927,24 @@
     "sent_usdt": 10060,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 50,
+    "date": "2026-08-19",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ALIANZA LOGISTICS (Цветы)",
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
+    "extra": "Инвойс INV-4103-1 dd 30.07.2026 (ALIANZA LOGISTIKA TDGE S.A. / LOGIZTIK-GROUP ECUADOR S.A., Av. InterOceanica OE6-73 y Gonzalez Suarez, Quito; PRODUBANCO, PRODECEQ, 02005144694). Shipment, 10 000 USD. Q8 Group Limited (80242882). DBS Bank (HK) 79807111801. Ордер ALIANZA_LOGISTIKA_TDGE_S.A._10000.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 10060,
+    "notes": null,
+    "calc": null
   }
 ]
