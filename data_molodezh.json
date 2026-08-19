@@ -497,5 +497,24 @@
     "sent_usdt": 77697.3,
     "notes": "Payment Order dd 18/08/2026: 77 435,00 USD → Ozparts B.V. (Weena 690, 3012CN Rotterdam, Netherlands; VAT NL866335791B01, EORI NL866335791). Ebury Partners Belgium NV (Claude Debussylaan 26, Amsterdam), SWIFT EBPBNL22, NL97EBPB2845884133. Purpose: Invoices NL/FV#29405 dd 2026-08-10, autoparts. | Инвойс NL/FV#29405 dd 10.08.2026 (Ozparts B.V. → PT DEWATA ARTA GLOBAL, Jalan Lingga Bumi Blok C Nomor 71, Dalung, Kabupaten Badung, Kuta Utara, Bali 80361; PT Bank Mandiri, BMRIIDJA, 1430 0365 1257 0 USD): тормозные диски (Brake Disc DBA660X/2219X/2549S/2739S/2864S/3014S и др., HS 8708309190), Ship To Transportir Limited Polska (Pass 21, Blonie, Poland), FCA, 3 870,10 kg. Клиент подтверждён Scream 18.08.2026: Мосты (Молодёжь). | ⬜ Step 3: заявка (Payment from DEWATA, OUR) — компания DEWATA (PT Dewata Arta Global, Бали). | ⬜ Step 3: компания Q8 (Scream 18.08: для 77 435 USD — Q8). Получатель Ozparts B.V. | BONBILL Payment Certificate 19.08.2026 14:14:34 (txid O2089959188062142464719): Q8 GROUP LIMITED → Ozparts B.V. (Ebury Partners Belgium NV, EBPBNL22, NL97EBPB2845884133), USD 77 435,00. Invoice NL/FV#29405 dd 10.08.2026 For Autoparts. EXECUTED 🟢.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 27,
+    "date": "2026-08-19",
+    "sum": 3010,
+    "currency": "USD",
+    "company": "ООО ЭКСПЕРТ",
+    "color": "FFFFFFFF",
+    "clientName": "Эксперт (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
