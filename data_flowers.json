@@ -1022,5 +1022,24 @@
     "sent_usdt": 24850.73,
     "notes": "Commercial Invoice INV-145-43278616 dd 11.08.2026 (EBF CARGO CIA LTDA, Av. Simón Bolívar s/n y vía Nayón, Centro Corporativo Ekopark, Torre 1, Quito, Ecuador; PRODUBANCO, SWIFT PRODECEQ, a/c 02005153421). CUSTOMER: Q8 Group Limited (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK, 80242882). AWB 145-43278616. Транспортные услуги (цветы): OTHER FLOWERS 2 650,00 + GREENS 2 680,84 + POT PLANTS FLOWERS 10 506,55 + POT PLANTS GREENS 8 909,10 = 24 746,49 USD. Payment details: transportation services. | Application for transfer: сумма 24 746 USD, EBF CARGO CIA LTDA (Ecuador, QUITO, Nicolas Baquero S/N y 29 de Abril), a/c 02005153421, PRODUBANCO (Av. Amazonas N35-211 y Japon, Quito, Ecuador), SWIFT PRODECEQ, reg 1791856600001. | Bobr 19.08.2026 09:23 UTC: IN 24 994,47 USDT на «Рабочий 3» от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 — под заявку 24 746,49 (Q8). Q9 отправлен, леджер записан. | PO IBR 291 (291-PO) 19.08.2026 18:51:06 (TXN O2090028776745467904649): Q8 GROUP LIMITED → EBF CARGO CIA LTDA, 24 746,00 USD, handling fee 30 USD, PRODUBANCO, PRODECEQ, a/c 0200****421, Invoice INV-145-43278616 dd 11.08.2026 For Flowers. Status Processing → INITIATED → 🟡. Ждём EXECUTED → 🟢.",
     "calc": null
+  },
+  {
+    "row": 55,
+    "date": "2026-08-19",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": "Выписка Блэкшарк ПОЧТОБАНК 19.08.2026 (документы 138, 139 от 19.08.2026): приход 10 048 779,93₽ {VO11200} Для зачисления по контракту 25/06-2026 от 25.06.2026, Оплата за цветочную продукцию (тело) + 251 219,50₽ {VO21100} Для зачисления по контракту WD-30 от 25.06.2026, Оплата вознаграждения Агенту. ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723). rubles_received = 10048779.93 / 251219.50. Ждём VDX-заявку.",
+    "rubles_received": "10048779.93 / 251219.50",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
