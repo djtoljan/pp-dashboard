@@ -207,7 +207,7 @@
     "received_usdt": 26628.62,
     "sent_usdt": 26589.714,
     "notes": "Инвойс 260291 от 11.08.2026. AlteVia OÜ → Transpath Logistic Limited. Musical instruments. Coop Pank AS, EKRDEE22, EE794204278622781603. Due 17.08.2026. Заявка: Payment from TRANSPATH, OUR. | TRANSACTION CONFIRMATION PAYOUT MT73CFTE28004000000000005036925 11.08.2026 (Тип 3 INITIATED, Status INITIATED, Created 11.08.2026 14:26 UTC): TRANSPATH LOGISTIC LIMITED → AlteVia OU (Coop Pank AS, IBAN EE794204278622781603). 11.08.2026 14:26 UTC, SEPA, -22 872,60 EUR, INV.260291 dd 11.08.26. | Bobr Alert 11.08 17:54 MSK (14:54 UTC): IN 26 628,62 USDT на Рабочий 3 от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5 (Константин) = 22 872,60 EUR × 1,1642. Q9 отправлена, леджер записан (--q9). | Расчёт VDX (W& Платежи t2911) 11.08.2026: 22 872,60 EUR → 26397/(1-0.35%)+100 = 26 589,714 USDT. Кошелёк: TNhJTGuaE67o6TAQLEhPnHra38eNEnLtZ3. | Bobr Alert 11.08 19:31 МСК (16:31 UTC): OUT 26589.714 USDT с Рабочего 3 на TNhJTGuaE67o6TAQLEhPnHra38eNEnLtZ3 (сводный расчёт VDX). TXID: 02ac5fcbfd3abfc2e868a1b9c6b9f46e76fe9266e31f97919361adc06b6377f1 | Q9 отправлена, леджер записан (--q9). | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 EXECUTED, Status COMPLETED, Created 14.08.2026 07:06 UTC): TRANSPATH LOGISTIC LIMITED → AlteVia OU (Coop Pank AS, IBAN EE794204278622781603), SEPA, -22 872,60 EUR, INV.260291 dd 11.08.26. → 🟢",
-    "calc": "ТЕЗ"
+    "calc": null
   },
   {
     "row": 12,
@@ -348,17 +348,17 @@
     "sum": 154000,
     "currency": "CNY",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "154 000 CNY (инвойс Q8G20260819001) → Q8 продал 22 928 USD по курсу 6,73209977773 (FX Q8GK 19.08: 22 928 USD → 154 353,58 CNH) + 0.3% + 30 = 23 026,78 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": "23091.56",
-    "sent_usdt": null,
-    "notes": "Заявка на выплату 18.08.2026 (Тесс): Payment for proforma invoice Q8G20260819001 dd 19.08.26 for Goman Crawler Articulated Spider Lift X16. Beneficiary: Hubei Goman Heavy Industry Technology Co., Ltd (No.188 Doubu Avenue, Hannan District, Wuhan China). Банк: HUBEI BANK CORPORATION LIMITED, NO.86 ZHONGBEI ROAD, WUHAN, HBBKCNBNXXX, акк 10061240000000206. Сумма 154 000 CNY. Компания Q8. | IN 23 091,56 USDT от TMLVR (Константин) 18.08 — привязан (Q9+ledger, q9_sent=true). | 19.08: costFormula ждёт ТОЛЬКО курс Q8 CNY→USD (по правилу Q8: CNY→USD + 0.3% + 30) — НЕ ждёт VDX. received_usdt уже получен (23 091,56). | 19.08: Контракт Q8G20260819001 dd 19.08.2026 (Hubei Goman Heavy Industry Technology Co., Ltd, Wuhan; HUBEI BANK, HBBKCNBNXXX, 10061240000000206). Goman Crawler Articulated Spider Lift X16 ×2 (EXW 226 000 CNY) + запчасти. TOTAL 455 503,00 CNY − возврат 3 503 (запчасти) − 12 000 (доставка Wuhan→Shanghai) = 440 000,00 CNY. Оплата: 30% аванс T/T, 70% до отгрузки.",
+    "sent_usdt": 23026.78,
+    "notes": "Заявка на выплату 18.08.2026 (Тесс): Payment for proforma invoice Q8G20260819001 dd 19.08.26 for Goman Crawler Articulated Spider Lift X16. Beneficiary: Hubei Goman Heavy Industry Technology Co., Ltd (No.188 Doubu Avenue, Hannan District, Wuhan China). Банк: HUBEI BANK CORPORATION LIMITED, NO.86 ZHONGBEI ROAD, WUHAN, HBBKCNBNXXX, акк 10061240000000206. Сумма 154 000 CNY. Компания Q8. | IN 23 091,56 USDT от TMLVR (Константин) 18.08 — привязан (Q9+ledger, q9_sent=true). | 19.08: costFormula ждёт ТОЛЬКО курс Q8 CNY→USD (по правилу Q8: CNY→USD + 0.3% + 30) — НЕ ждёт VDX. received_usdt уже получен (23 091,56). | 19.08: Контракт Q8G20260819001 dd 19.08.2026 (Hubei Goman Heavy Industry Technology Co., Ltd, Wuhan; HUBEI BANK, HBBKCNBNXXX, 10061240000000206). Goman Crawler Articulated Spider Lift X16 ×2 (EXW 226 000 CNY) + запчасти. TOTAL 455 503,00 CNY − возврат 3 503 (запчасти) − 12 000 (доставка Wuhan→Shanghai) = 440 000,00 CNY. Оплата: 30% аванс T/T, 70% до отгрузки. | BONBILL Payment Certificate 19.08.2026 14:41:37 (txid O2089965994985521152329): Q8 GROUP LIMITED → Hubei Goman Heavy Industry Technology Co., Ltd (HUBEI BANK CORPORATION LIMITED, HBBKCNBNXXX, акк 10061240000000206), CNH 154 000,00. Invoice Q8G20260819001 dd 19.08.2026 For Goman Crawler Articulated Spider Lift X16. EXECUTED 🟢. sent_usdt: ждём курс Q8 CNY→USD (по правилу CNY→USD + 0.3% + 30). | FX Q8GK 19.08 14:33:34 (txid 202608191433349376822): Q8 продал 22 928 USD → купил 154 353,58 CNH, курс 6,73209977773. Под заявку 154 000 CNY (Goman). sent_usdt = 23 026,78 USDT.",
     "calc": null
   }
 ]
