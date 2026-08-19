@@ -1018,9 +1018,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": "24994.47",
     "sent_usdt": 24850.73,
-    "notes": "Commercial Invoice INV-145-43278616 dd 11.08.2026 (EBF CARGO CIA LTDA, Av. Simón Bolívar s/n y vía Nayón, Centro Corporativo Ekopark, Torre 1, Quito, Ecuador; PRODUBANCO, SWIFT PRODECEQ, a/c 02005153421). CUSTOMER: Q8 Group Limited (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK, 80242882). AWB 145-43278616. Транспортные услуги (цветы): OTHER FLOWERS 2 650,00 + GREENS 2 680,84 + POT PLANTS FLOWERS 10 506,55 + POT PLANTS GREENS 8 909,10 = 24 746,49 USD. Payment details: transportation services. | Application for transfer: сумма 24 746 USD, EBF CARGO CIA LTDA (Ecuador, QUITO, Nicolas Baquero S/N y 29 de Abril), a/c 02005153421, PRODUBANCO (Av. Amazonas N35-211 y Japon, Quito, Ecuador), SWIFT PRODECEQ, reg 1791856600001.",
+    "notes": "Commercial Invoice INV-145-43278616 dd 11.08.2026 (EBF CARGO CIA LTDA, Av. Simón Bolívar s/n y vía Nayón, Centro Corporativo Ekopark, Torre 1, Quito, Ecuador; PRODUBANCO, SWIFT PRODECEQ, a/c 02005153421). CUSTOMER: Q8 Group Limited (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK, 80242882). AWB 145-43278616. Транспортные услуги (цветы): OTHER FLOWERS 2 650,00 + GREENS 2 680,84 + POT PLANTS FLOWERS 10 506,55 + POT PLANTS GREENS 8 909,10 = 24 746,49 USD. Payment details: transportation services. | Application for transfer: сумма 24 746 USD, EBF CARGO CIA LTDA (Ecuador, QUITO, Nicolas Baquero S/N y 29 de Abril), a/c 02005153421, PRODUBANCO (Av. Amazonas N35-211 y Japon, Quito, Ecuador), SWIFT PRODECEQ, reg 1791856600001. | Bobr 19.08.2026 09:23 UTC: IN 24 994,47 USDT на «Рабочий 3» от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 — под заявку 24 746,49 (Q8). Q9 отправлен, леджер записан.",
     "calc": null
   }
 ]
