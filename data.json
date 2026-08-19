@@ -981,15 +981,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": null,
-    "costFormula": null,
+    "costFormula": "41 740,02 + 0.3% + 30 = 41 895,24 USDT",
     "extra": "Инвойс №72726 dd 13.08.2026 от PT INNOVATIVE DATA FLOW (Flow; Benoa Square, Jalan Bypass I Gusti Ngurah Rai No.21A, Kedonganan Kuta, Badung, Bali 80361; BANK MANDIRI (Persero) PT, Jl. Uluwatu II No.112 X, Jimbaran, Badung-Bali, SWIFT BMRIIDJA, Bank Code 008, Branch 3292, USD 1750003421038) → Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). Order for payment for transport services 72726 dd 13.08.2026, TOTAL 41 740,02 USD, Due 18.08.2026. Клиент уточняется (группа ВТС-Fininvest).",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 41895.24,
     "notes": null,
-    "calc": null
+    "calc": "ТЕЗ"
   }
 ]
