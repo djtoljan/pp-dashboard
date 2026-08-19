@@ -767,12 +767,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": "11882290.51 / 297057.26",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "12179347.77 (VDX)",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": " | VDX-уведомление операционки 19.08 (t23683): с Блэкшарк ПОЧТОБАНК на ВиДиИкс, 12 179 347,77₽ за цветы, заявка 704 от 18.08.2026, ООО ЦЕРЕРА. Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\ЦЕРЕРА\\вход 18.08.26. | ПП на VDX №? (номер не указан, ждём документ)",
     "calc": null
   },
   {
@@ -820,7 +820,7 @@
     "sum": 30599.4,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Condor Andino (Цветы)",
     "costFormula": "30599.40 + 0.3% + 30 = 30 721,20 USDT",
     "extra": "Инвойс №323 dd 18.08.2026 (CONDOR ANDINO SAS, NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; BANCOLOMBIA, CLL 10 # 8-48, COLOCOBM, счёт 55700015652) → Q8 GROUP LIMITED (80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). FRESH CUT HYDRANGEAS 125 боксов, 38 249 стеблей @ 0.80 = 30 599,40 USD. Клиент/группа уточняется.",
@@ -830,7 +830,7 @@
     "vdx_rate": null,
     "received_usdt": 30883,
     "sent_usdt": 30721.2,
-    "notes": " | Инвойс №323 dd 18.08.2026: CONDOR ANDINO SAS (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; BANCOLOMBIA, COLOCOBM, счёт 55700015652) → Q8 Group Limited (80242882). FRESH CUT HYDRANGEAS 125 boxes, 38 249 stems @ 0.80 = 30 599,40 USD. FOB. | 19.08: IN 61 363 USDT от TEV72g8Qt... (Цветы доплата) — received_usdt = 30 599,4 × 1,006 + 100 = 30 883 (Scream: разбивка прихода).",
+    "notes": " | Инвойс №323 dd 18.08.2026: CONDOR ANDINO SAS (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; BANCOLOMBIA, COLOCOBM, счёт 55700015652) → Q8 Group Limited (80242882). FRESH CUT HYDRANGEAS 125 boxes, 38 249 stems @ 0.80 = 30 599,40 USD. FOB. | 19.08: IN 61 363 USDT от TEV72g8Qt... (Цветы доплата) — received_usdt = 30 599,4 × 1,006 + 100 = 30 883 (Scream: разбивка прихода). | BONBILL (Q8) 19.08.2026 15:54:29 (TXN O2089984329781477376300): Q8 GROUP LIMITED → CONDOR ANDINO SAS (BANCOLOMBIA, a/c 5570001565), 30 599,40 USD. Invoice 323 dd 18.08.2026 For Flowers.",
     "calc": null
   },
   {
@@ -839,7 +839,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Novpec (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Инвойс NOVPEC 10640 dd 18.08.2026 (NOVPEC S.A., Quito, Ecuador; Banco Guayaquil S.A, GUAYECEGXXX, 48406459; Wells Fargo PNBPUS3NNYC 2000192321514). Roses 9500 stems, 18.5 boxes, FOB 6505 + inland 138 + AWB 3357 = 10 000 USD. MAWB 071-6164 8355. Q8 Group Limited (80242882).",
@@ -849,7 +849,7 @@
     "vdx_rate": null,
     "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": " | 19.08: IN 61 363 USDT (Цветы доплата) — received_usdt = 10 000 × 1,006 + 100 = 10 160 (Scream: Novpec S.A. ×2 -10000).",
+    "notes": " | 19.08: IN 61 363 USDT (Цветы доплата) — received_usdt = 10 000 × 1,006 + 100 = 10 160 (Scream: Novpec S.A. ×2 -10000). | BONBILL (Q8) 19.08.2026 15:56:09 (TXN O2089984750562443264649): Q8 GROUP LIMITED → Novpec S.A. (Banco Guayaquil S.A., a/c 48406459), 10 000,00 USD. Invoice 10640 dd 18.08.2026 For Flowers.",
     "calc": null
   },
   {
@@ -858,7 +858,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Novpec (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Инвойс NOVPEC 10641 dd 19.08.2026 (NOVPEC S.A., Quito, Ecuador; Banco Guayaquil S.A, GUAYECEGXXX, 48406459; Wells Fargo PNBPUS3NNYC 2000192321514). Roses 9500 stems, 18.5 boxes, FOB 6505 + inland 138 + AWB 3357 = 10 000 USD. MAWB 369-9930 2921. Q8 Group Limited (80242882).",
@@ -868,7 +868,7 @@
     "vdx_rate": null,
     "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": " | 19.08: IN 61 363 USDT (Цветы доплата) — received_usdt = 10 000 × 1,006 + 100 = 10 160 (Scream: Novpec S.A. ×2 -10000).",
+    "notes": " | 19.08: IN 61 363 USDT (Цветы доплата) — received_usdt = 10 000 × 1,006 + 100 = 10 160 (Scream: Novpec S.A. ×2 -10000). | BONBILL (Q8) 19.08.2026 15:59:43 (TXN O2089985649561174016954): Q8 GROUP LIMITED → Novpec S.A. (Banco Guayaquil S.A., a/c 48406459), 10 000,00 USD. Invoice 10641 dd 19.08.2026 For Flowers.",
     "calc": null
   },
   {
@@ -896,7 +896,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Rosaprima (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Prebook #945331 dd 31.07.2026 (Truck Date 07/31/2026). Rosaprima International LLC (Miami, 175 SW 7th Street, Suite 2301). ROS AST 60, 50 boxes, 20000 stems @ 0.50 = 10 000 USD. Customer: LTT Group GmbH (Furstenwalde). Ship To: Q8 Group Limited (HK, 80242882). Carrier: EBF Cargo. Account 553394. Sales Rep Daniel Larrea. THIS IS NOT A BILL.",
@@ -906,7 +906,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10060,
-    "notes": null,
+    "notes": " | BONBILL (Q8) 19.08.2026 16:15:31 (TXN O2089989623542579200480): Q8 GROUP LIMITED → Rosaprima Cia Ltda. (Produbanco, a/c 02005162277), 10 000,00 USD. Invoice 945331 dd 31.07.2026 For Flowers.",
     "calc": null
   },
   {
@@ -915,7 +915,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Flores de Conejera (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Инвойс №511902 dd 29.07.2026 (FLORES LA CONEJERA SAS, Calle 100 #19A-50 Of. 405, Bogota DC, Colombia; NIT 860.501.528-7; BANCOLOMBIA SA, COLOCOBM, счёт 13491600454). CLAVEL (гвоздика) ASSORTED SELECT, 25 full boxes, 50000 stems @ 0.20 = 10 000 USD. FOB. Q8 Group Limited (80242882).",
@@ -925,7 +925,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10060,
-    "notes": null,
+    "notes": " | BONBILL (Q8) 19.08.2026 16:19:47 (TXN O208999069973807104010): Q8 GROUP LIMITED → FLORES DE CONEJERA SAS (BANCOLOMBIA SA, a/c 13401600454), 10 000,00 USD. Invoice 511902 dd 29.07.2026 FOR FLOWERS.",
     "calc": null
   },
   {
@@ -934,7 +934,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ALIANZA LOGISTICS (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Инвойс INV-4103-1 dd 30.07.2026 (ALIANZA LOGISTIKA TDGE S.A. / LOGIZTIK-GROUP ECUADOR S.A., Av. InterOceanica OE6-73 y Gonzalez Suarez, Quito; PRODUBANCO, PRODECEQ, 02005144694). Shipment, 10 000 USD. Q8 Group Limited (80242882). DBS Bank (HK) 79807111801. Ордер ALIANZA_LOGISTIKA_TDGE_S.A._10000.",
@@ -944,7 +944,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10060,
-    "notes": null,
+    "notes": " | BONBILL (Q8) 19.08.2026 16:37:43 (TXN O2089995212544933888650): Q8 GROUP LIMITED → LOGIZTIK-GROUP ECUADOR S.A. (BANCO DE LA PRODUCCION S.A. PRODUBANCO, a/c 020051446941), 10 000,00 USD. Invoice INV41031 dd 30.07.2026 For Shipment.",
     "calc": null
   },
   {
@@ -972,7 +972,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Incoflores (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Инвойс 20230711062 dd 05.08.2026 (Incoflores, Juan Montalvo S/N C.73, Pichincha, Quito, Ecuador; PRODUBANCO, PRODECEQ, 02186004830; Contrato F-001256 NS). Payment for cut flowers, 10 000 USD. Q8 Group Limited (80242882, HK). Ордер INCOFLORES_10000. НОВАЯ заявка (не дубль строки 24 — там инвойс 20261008062 dd 10.08.2026, уже 🟢).",
@@ -982,7 +982,7 @@
     "vdx_rate": null,
     "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": " | 19.08: IN 61 363 USDT (Цветы доплата) — received_usdt = 10 000 × 1,006 + 100 = 10 160 (Scream: Incoflores -10000).",
+    "notes": " | 19.08: IN 61 363 USDT (Цветы доплата) — received_usdt = 10 000 × 1,006 + 100 = 10 160 (Scream: Incoflores -10000). | BONBILL (Q8) 19.08.2026 15:52:49 (TXN O208998391164292300826): Q8 GROUP LIMITED → Incoflores (PRODUBANCO, a/c 0218600483), 10 000,00 USD. Invoice 20230711062 dd 05.08.2026 For Flowers.",
     "calc": null
   },
   {
@@ -991,7 +991,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Milele Flowers (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Инвойс 1300/3188 dd 25.07.2026 (Milele Flowers Ltd, P.O. Box 295-10218 Kangari, Kenya; Kenya Commercial Bank, KCBLKENX, 1203691181). Sprays mix 60cm, 30 boxes, 6000 stems @ 1.10 = 6600 FOB + freight 3400 = 10 000 USD. AWB 259-0227 2686. Remarks: NS INCOFLORES. Q8 Group Limited. Ордер Milele_Flowers_limited_10000: For Flowers, costs by customer.",
@@ -1001,7 +1001,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10060,
-    "notes": null,
+    "notes": " | BONBILL (Q8) 19.08.2026 16:29:06 (TXN O2089993041908727808716): Q8 GROUP LIMITED → Milele Flowers limited (KENYA COMMERCIAL BANK LIMITED, a/c 1203691181), 10 000,00 USD. Invoice 13003188 dd 25.07.2026 For Flowers.",
     "calc": null
   },
   {
