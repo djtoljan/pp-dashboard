@@ -1022,13 +1022,13 @@
     "clientName": "Дре Русланд",
     "costFormula": null,
     "extra": null,
-    "rubles_received": null,
+    "rubles_received": "1707304.25 / 27316.87",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Faktura VAT FS/1400/2026 dd 19.08.2026 от P.P.U.H «DĄBEK-MEBLE» EXPORT-IMPORT Małgorzata Dąbek (ul. Szpot 10, Opatów, 63-645 Łęka Opatowska, Польша; NIP PL 6190002352) — мебель VIVA (GRAND/ROMA/RELAX/STAR/SMART VIVA I-III, OLIMPIA, VERSO, LUIS, BOSTON 2LC/12LC, LATTE PREMIUM, BIS VIVA I-II), 98 шт., 24 позиции, 0% VAT. ИТОГО 17 325,00 EUR. Оплата до 26.08.2026 (przelew_santa). Банк: Santander Bank Polska S.A., IBAN PL40 1090 1144 0000 0001 0145 1116, SWIFT WBKPPLPP. Покупатель: ООО «Дре Русланд Трейдинг» (238520, Балтийск, Ленина 78А/1). | Поручение №38 от 20.08.2026 (Transfer Request No.38 from 20/08/26) по дог. 2701-27/1 от 27.01.26: Принципал ООО ДРЕ РУСЛАНД ТРЕЙДИНГ → Получатель P.P.U.H DABEK-MEBLE (63-645, POLAND, LEKA OPATOWSKA, OPATOW UL.SZPOT 10). SANTANDER BANK POLSKA S.A., WBKPPLPP, IBAN PL40109011440000000101451116. 17 325,00 EURO, курс 98.5457 → 1 707 304,25₽, комиссия агента 1,6% (27 316,87₽). Назначение: оплата за мебель по фактуре FS/1400/2026 от 19.08.2026. Срок 2-3 банк. дня.",
+    "notes": "Faktura VAT FS/1400/2026 dd 19.08.2026 от P.P.U.H «DĄBEK-MEBLE» EXPORT-IMPORT Małgorzata Dąbek (ul. Szpot 10, Opatów, 63-645 Łęka Opatowska, Польша; NIP PL 6190002352) — мебель VIVA (GRAND/ROMA/RELAX/STAR/SMART VIVA I-III, OLIMPIA, VERSO, LUIS, BOSTON 2LC/12LC, LATTE PREMIUM, BIS VIVA I-II), 98 шт., 24 позиции, 0% VAT. ИТОГО 17 325,00 EUR. Оплата до 26.08.2026 (przelew_santa). Банк: Santander Bank Polska S.A., IBAN PL40 1090 1144 0000 0001 0145 1116, SWIFT WBKPPLPP. Покупатель: ООО «Дре Русланд Трейдинг» (238520, Балтийск, Ленина 78А/1). | Поручение №38 от 20.08.2026 (Transfer Request No.38 from 20/08/26) по дог. 2701-27/1 от 27.01.26: Принципал ООО ДРЕ РУСЛАНД ТРЕЙДИНГ → Получатель P.P.U.H DABEK-MEBLE (63-645, POLAND, LEKA OPATOWSKA, OPATOW UL.SZPOT 10). SANTANDER BANK POLSKA S.A., WBKPPLPP, IBAN PL40109011440000000101451116. 17 325,00 EURO, курс 98.5457 → 1 707 304,25₽, комиссия агента 1,6% (27 316,87₽). Назначение: оплата за мебель по фактуре FS/1400/2026 от 19.08.2026. Срок 2-3 банк. дня. | Выписка Энерготрансбанк 20.08.2026 (Блэкшарк Трейд, счёт 40807810200000034895): ПП №2559 от 20.08.2026 — 1 707 304,25₽ {VO11100} по аг.договору 2701-27/1 от 27.01.2026, Поручение №38 от 20.08.2026, FS/1400/2026 от 19.08.2026, контракт 6/н от 17.09.2018, за мебель (тело); ПП №2560 от 20.08.2026 — 27 316,87₽ {VO21100} агентское вознаграждение, Поручение №38 (комиссия 1,6% ✓). Банк.ор. №3854146 — 5 121,91₽ {VO80050} комиссия за зачисление (не включаем). rubles_received = 1707304.25 / 27316.87.",
     "calc": null
   },
   {
@@ -1047,7 +1047,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Sąskaita faktūra LAS000000379 dd 14.08.2026 от MB LASKELA (Kalnų g. 29, Varniškių km. Vilniaus raj., Литва; Įmonės kodas 306335453; AS Citadele bankas, LT167290099017528052) → IĮ Ivan Mazurenko (236006 Kaliningrad, Naberežnaja Karbyševo 20-5; kodas 390701068179). Услуга: Draudimo įmokos pagal sutartį (страховые взносы по договору), 1 ед. × 15 000,00 EUR. ИТОГО 15 000,00 EUR. Клиент: ИП Мазуренко (Fininvest/ЭТБ). Компания пока неизвестна — ждём заявку/поручение.",
     "calc": null
   }
 ]
