@@ -1068,5 +1068,24 @@
     "sent_usdt": null,
     "notes": "Проформа-инвойс BDTWYT20260820-09 dd 20.08.2026 от LOONGTRUCK GROUP CO., LIMITED (Room B 15/F Kin Hing Industrial Building, 17-23 Shek Kin Street, Kwai Chung NT; Tel +86-17378301244, marin@loongtruck.com). Покупатель: TRAK-PRAIS (ООО «Трак-Прайс», 630027, Новосибирск, ул. Дунаевского, 16, оф.4; partner@isuzu.market). Товар: Кабина в сборе для Isuzu 700P ×3 @ 27 460 CNY = 82 380 CNY (спецификация: не включает жгут проводов/приборную панель/рулевую колонку/руль/блок зеркал; включает отделку салона, отопитель/вентилятор, электростеклоподъёмники, замки с ЦЗ) + доставка 2 900 CNY. ИТОГО 85 280,00 CNY. Условия оплаты: 60% (51 168 ¥) T/T при подтверждении заказа, 40% (34 112 ¥) T/T перед отправкой. FCA Jiangsu, поставка в течение 25 дней, валидность до 25.08.2026. Банк бенефициара: ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD, SWIFT CZCBCN2X, счёт FTN69701002010590010151; корр. CITIBANK N.A. NEW YORK CITIUS33XXX. | Контракт купли-продажи BDTWYT20260820-09 dd 20.08.2026 (8 стр.): Loongtruck Group Co., Limited → TRAK-PRAIS (Трак-Прайс). Право PRC, арбитраж CIETAC Southwest, английская версия преимущественна. Клиент = Трак-Прайс. Компания ждём заявку (аналогично row 51 — поставщик другой: Loongtruck vs CHONGQING BIG DATA). | Поручение №14 от 20.08.2026 (Transfer request No.14 from 20.08.2026, прил. №1 к аг.договору 1-07-07/25 от 07.07.2025): ООО «Трак-Прайс» → ОсОО «Блэкшарк Трейд» (КР). Получатель: Loongtruck Group Co., Limited (Room B 15/F Kin Hing Industrial Building, 17-23 Shek Kin Street, Kwai Chung NT). ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD, SWIFT CZCBCN2X, акк FTN69701002010590010151, адрес: Chouyin Mansion, No.158 Wangchao Road, Shangcheng District, Hangzhou. 85 280,00 CNY по инвойсу BDTWYT20260820-09 на основании контракта BDTWYT20260820-09. Курс 12,6301 → 1 077 094,92₽. Комиссия агента 2% + 100 USD (21 541,89 + 8 512,93 = 30 054,82₽). Срок 5-10 банк. дней. Подписан: Иткумов К.В. (принципал), Курьянов Т.А. (агент).",
     "calc": null
+  },
+  {
+    "row": 56,
+    "date": "2026-08-20",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Стройтекинвест",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
