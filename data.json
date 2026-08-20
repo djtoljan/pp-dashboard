@@ -973,5 +973,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 51,
+    "date": "2026-08-20",
+    "sum": 85280,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Трак-Прайс",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
