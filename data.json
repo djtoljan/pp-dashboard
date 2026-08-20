@@ -990,6 +990,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "Проформа-инвойс BDTWYT20260819-06 dd 19.08.2026 от CHONGQING BIG DATA TECHNOLOGY CO., LTD. (No. 68 Kecheng Rd, Erlang Street, Jiulongpo District, Chongqing, China; Tel +86-17378301244). Покупатель: TRAK-PRAIS (ООО «Трак-Прайс», 630027, Новосибирск, ул. Дунаевского, 16, оф.4). Товар: Кабина в сборе для Isuzu 700P ×3 @ 27 460 CNY = 82 380 CNY (спецификация: не включает жгут проводов/приборную панель/рулевую колонку/руль/блок зеркал; включает отделку салона, отопитель/вентилятор, электростеклоподъёмники, замки с ЦЗ) + доставка (от завода в Чунцине до места назначения) 2 900 CNY. ИТОГО 85 280,00 CNY. Условия оплаты: 60% (51 168 ¥) T/T при подтверждении заказа, 40% (34 112 ¥) T/T перед отправкой. FCA Jiangsu, поставка в течение 25 дней, валидность до 24.08.2026. Банк бенефициара: VTB BANK (PJSC) SHANGHAI BRANCH, SWIFT VTBRCNSH, счёт 40807156600610002507. | Контракт купли-продажи BDTWYT20260819-09 dd 19.08.2026 (8 стр.): продавец CHONGQING BIG DATA TECHNOLOGY → покупатель TRAK-PRAIS (Трак-Прайс). Право PRC, арбитраж CIETAC Southwest, английская версия преимущественна. Клиент = Трак-Прайс (по документу и отправителю «Трак-Прайс/Fininvest»). Группа/таблица уточняется (создано в Main, клиент новый, в clients-db не найден).",
+    "calc": null
+  },
+  {
+    "row": 52,
+    "date": "2026-08-20",
+    "sum": 36600,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Трак-Прайс",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
