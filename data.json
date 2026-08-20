@@ -1106,5 +1106,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 58,
+    "date": "2026-08-20",
+    "sum": 28800,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Инвойс K8-87177-CJW-0406-3900-00035 dd 31.07.2026 (PRODEMA LIMITED → Q8 GROUP LIMITED)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
