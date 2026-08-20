@@ -1051,7 +1051,7 @@
     "sum": 118328.3,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "118 328,30 × 1,172702134830 + 0,3% + 30 = 139210,14 USDT",
     "extra": "Коммерческий инвойс AA-Q8-2026-0820 dd 20.08.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, Ul. Odrin No.15, Fl.9, of.908, Burgas 8000, Bulgaria; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 118 328,30 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8.",
@@ -1061,7 +1061,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 139210.14,
-    "notes": " | FX 20.08.2026 (Q8GK): продажа 138 788 USD → покупка 118 348,89 EUR, 1 USD = 0,852731456948 EUR, доставка 20.08.2026. Кросс-курс EUR→USD = 1,172702134830."
+    "notes": " | FX 20.08.2026 (Q8GK): продажа 138 788 USD → покупка 118 348,89 EUR, 1 USD = 0,852731456948 EUR, доставка 20.08.2026. Кросс-курс EUR→USD = 1,172702134830. | BONBILL (Q8) 20.08.2026 15:38:04 (TXN O2090342588132491264437): Q8 GROUP LIMITED → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BG04BGUS91601413896300), 118 328,30 EUR. Invoice AA-Q8-2026-0820 (AAQ820260820DD20082026) For Flowers."
   },
   {
     "row": 57,
@@ -1069,7 +1069,7 @@
     "sum": 4447.62,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "FLORESDELMUNDO S.A. (Цветы)",
     "costFormula": "4447.62 + 0.3% + 30 = 4490.96 USDT",
     "extra": "Invoice 202608-1901 dd 19.08.2026. FLORESDELMUNDO S.A. (Ecuador, Quito, RUC 1792722039001; Produbanco, account 02005227311, SWIFT PRODECEQ) -> Q8 Group Limited (80242882, HK). 4 447,62 USD. Fresh cut flowers assorted, floral products. Оплата по инвойсу за поставку цветов.",
@@ -1079,7 +1079,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 4490.96,
-    "notes": null,
+    "notes": " | BONBILL (Q8) 20.08.2026 15:26:41 (TXN O2090339723217338368344): Q8 GROUP LIMITED → FLORESDELMUNDO S.A. (Produbanco, 02005227311), 4 447,62 USD. Invoice 202608-1901 (2026081901DD19082026) For Flowers.",
     "calc": null
   },
   {
@@ -1088,7 +1088,7 @@
     "sum": 30000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "30000 + 0.3% + 30 = 30120 USDT",
     "extra": "Invoice DA-200826-01 dd 20.08.2026. Dolina Agro Ltd (Israel, 10 Bareket str., Industrial Park Caesarea, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 30 000,00 USD, EXW. Roses 38 000 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Hermosa/Lola).",
@@ -1098,7 +1098,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 30120,
-    "notes": null,
+    "notes": " | BONBILL (Q8) 20.08.2026 15:33:07 (TXN O2090341344374554624618): Q8 GROUP LIMITED → Dolina Agro Ltd (Bank Leumi Le Israel B.M., IL750107440000027660042), 30 000,00 USD. Invoice DA-200826-01 (DA20082601DD20082026) For Flowers.",
     "calc": null
   }
 ]
