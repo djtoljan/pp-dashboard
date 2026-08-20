@@ -1109,15 +1109,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "EXPOFLORES JH S.A.S. (Цветы)",
-    "costFormula": null,
+    "costFormula": "10000 + 0,3% + 30 = 10060 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 10060,
+    "notes": "Инвойс 0005 dd 19.08.2026 от EXPOFLORES JH S.A.S. (Vereda la Amapola finca otra parte, El Retiro, Antioquia, Colombia; NIT 901.107.943-1, REGIMEN COMUN, comercial@expoflores.co; BANCOLOMBIA S.A.S., Carrera 48 #26-85 Medellin, SWIFT COLOCOBM, счёт 02300005295) → Q8 Group Limited (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). HYDRANGEA PREMIUM ASSORTED, 50 UD / 1429 tallos = 10 000,00 USD. «THESE FLOWERS ARE PRODUCT OF COLOMBIA AND QUALIFY FOR PREFERENTIAL TREATMENT UNDER TRADE PREFERENCE ACT». Клиент/группа: Цветы (Scream 20.08).",
     "calc": null
   }
 ]
