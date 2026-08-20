@@ -1182,5 +1182,24 @@
     "sent_usdt": null,
     "notes": "Проформа-инвойс 26-010-000142 dd 14.08.2026 (važi do 29.08.2026) от 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Сербия; Matični 17485059, PIB 102893403; тел/fax: ; текс. счёт 325-9500600027464-11). Покупатель: Q8 GROUP LIMITED (Room A22 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg 80242882-000-04-26-6). Товар: Dyson V16 Piston Animal New Model 492963 ×70 @ 510,58 EUR = 35 740,60 EUR, 0% PDV. | Заявка 20.08.2026 (Application for transfer 35_740.60_EUR_20.08.2026): Payment for household appliances to invoice No. 26-010-000142 dd 14.08.2026. Beneficiary: 220-B d.o.o. (OTP BANKA SRBIJA A.D., BULEVAR OSLOBODJENJA 80, NOVI SAD, IBAN RS35325960160000415772, SWIFT OTPVRS22, Bosanska 47, 11224 Vrčin). Платит Q8. Ждём кросс-курс EUR→USD для расчёта.",
     "calc": null
+  },
+  {
+    "row": 62,
+    "date": "2026-08-20",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ФИНИНВЕСТ",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "2226329.84",
+    "sent_rubles_vdx": "2226329.84 (Al Safi)",
+    "exchange_to": "Al Safi",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "calc": null,
+    "notes": "Выписка Блэкшарк ПОЧТОБАНК 20.08.2026 (документ 52 от 20.08.2026): приход 2 226 329,84₽ {VO60081} по Агентскому Договору от АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» (ИНН 9909705580, счёт 40807810324600000016, БИК 044525411). НДС не облагается. Ждём VDX-заявку. | Сводный перевод на Аль Сафи 8 948 426,33₽ (John/операционка 20.08): row 47 (2 124 889,62) + row 60 (2 871 674,94) + row 62 (2 226 329,84) = 7 222 894,40; невязка 1 725 531,93 (вероятно приход 19.08 — ждём выписку/уточнение)."
   }
 ]
