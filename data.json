@@ -1095,7 +1095,7 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "Инвойс 2600107 dd 15.07.2026 (PRODEMA LIMITED → Q8 GROUP LIMITED)",
+    "clientName": "Стройтекинвест (Аренда КГ)",
     "costFormula": "27000 + 0,3% + 30 = 27111 USDT",
     "extra": null,
     "rubles_received": null,
@@ -1104,7 +1104,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 27111,
-    "notes": "Инвойс 2600107 dd 15.07.2026 от PRODEMA LIMITED (Unit 1411, 14/F Cosco Tower, 183 Queen's Road Central, Sheung Wan, HK; Reg 3293131; sole director Frederic Basset) → Q8 GROUP LIMITED (Rm A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). Консалтинг 07.07-10.07.2026, 22,5 ч × 1 200 USD = 27 000,00 USD. Agreement 14-05-2026. Банк: DBS Bank (Hong Kong) Limited, DHBKHKHH, акк 7965-0987-8. Клиент/группа уточняется (создано в Main, отправитель «КГ бр (Аренда)»).",
+    "notes": "Инвойс 2600107 dd 15.07.2026 от PRODEMA LIMITED (Unit 1411, 14/F Cosco Tower, 183 Queen's Road Central, Sheung Wan, HK; Reg 3293131; sole director Frederic Basset) → Q8 GROUP LIMITED (Rm A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). Консалтинг 07.07-10.07.2026, 22,5 ч × 1 200 USD = 27 000,00 USD. Agreement 14-05-2026. Банк: DBS Bank (Hong Kong) Limited, DHBKHKHH, акк 7965-0987-8. Клиент/группа уточняется (создано в Main, отправитель «КГ бр (Аренда)»). | 20.08.2026 Scream: клиент = Стройтекинвест (Аренда КГ).",
     "calc": null
   },
   {
@@ -1114,7 +1114,7 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "Инвойс K8-87177-CJW-0406-3900-00035 dd 31.07.2026 (PRODEMA LIMITED → Q8 GROUP LIMITED)",
+    "clientName": "Стройтекинвест (Аренда КГ)",
     "costFormula": "28800 + 0,3% + 30 = 28916,40 USDT",
     "extra": null,
     "rubles_received": null,
@@ -1123,7 +1123,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 28916.4,
-    "notes": "Инвойс K8-87177-CJW-0406-3900-00035 dd 31.07.2026 от PRODEMA LIMITED (Unit 1411, 14/F Cosco Tower, 183 Queen's Road Central, Sheung Wan, HK; Reg 3293131; sole director Frederic Basset) → Q8 GROUP LIMITED. Консалтинг 21.07-25.07.2026, 24 ч × 1 200 USD = 28 800,00 USD. Agreement 14-05-2026, REF 87177-CJW-0406-3900-00035. Банк: IFX UK Ltd (33 Cavendish Square, London W1G 0PW), IFXSGB2L, IBAN GB49IFXS23229083164543. Клиент/группа уточняется (создано в Main, отправитель «КГ бр (Аренда)»).",
+    "notes": "Инвойс K8-87177-CJW-0406-3900-00035 dd 31.07.2026 от PRODEMA LIMITED (Unit 1411, 14/F Cosco Tower, 183 Queen's Road Central, Sheung Wan, HK; Reg 3293131; sole director Frederic Basset) → Q8 GROUP LIMITED. Консалтинг 21.07-25.07.2026, 24 ч × 1 200 USD = 28 800,00 USD. Agreement 14-05-2026, REF 87177-CJW-0406-3900-00035. Банк: IFX UK Ltd (33 Cavendish Square, London W1G 0PW), IFXSGB2L, IBAN GB49IFXS23229083164543. Клиент/группа уточняется (создано в Main, отправитель «КГ бр (Аренда)»). | 20.08.2026 Scream: клиент = Стройтекинвест (Аренда КГ).",
     "calc": null
   },
   {
@@ -1171,7 +1171,7 @@
     "currency": "EUR",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "Инвойс 26-010-000142 dd 14.08.2026 (220-B d.o.o. → Q8 GROUP LIMITED)",
+    "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
@@ -1180,7 +1180,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Проформа-инвойс 26-010-000142 dd 14.08.2026 (važi do 29.08.2026) от 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Сербия; Matični 17485059, PIB 102893403; тел/fax: ; текс. счёт 325-9500600027464-11). Покупатель: Q8 GROUP LIMITED (Room A22 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg 80242882-000-04-26-6). Товар: Dyson V16 Piston Animal New Model 492963 ×70 @ 510,58 EUR = 35 740,60 EUR, 0% PDV. | Заявка 20.08.2026 (Application for transfer 35_740.60_EUR_20.08.2026): Payment for household appliances to invoice No. 26-010-000142 dd 14.08.2026. Beneficiary: 220-B d.o.o. (OTP BANKA SRBIJA A.D., BULEVAR OSLOBODJENJA 80, NOVI SAD, IBAN RS35325960160000415772, SWIFT OTPVRS22, Bosanska 47, 11224 Vrčin). Платит Q8. Ждём кросс-курс EUR→USD для расчёта.",
+    "notes": "Проформа-инвойс 26-010-000142 dd 14.08.2026 (važi do 29.08.2026) от 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Сербия; Matični 17485059, PIB 102893403; тел/fax: ; текс. счёт 325-9500600027464-11). Покупатель: Q8 GROUP LIMITED (Room A22 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg 80242882-000-04-26-6). Товар: Dyson V16 Piston Animal New Model 492963 ×70 @ 510,58 EUR = 35 740,60 EUR, 0% PDV. | Заявка 20.08.2026 (Application for transfer 35_740.60_EUR_20.08.2026): Payment for household appliances to invoice No. 26-010-000142 dd 14.08.2026. Beneficiary: 220-B d.o.o. (OTP BANKA SRBIJA A.D., BULEVAR OSLOBODJENJA 80, NOVI SAD, IBAN RS35325960160000415772, SWIFT OTPVRS22, Bosanska 47, 11224 Vrčin). Платит Q8. Ждём кросс-курс EUR→USD для расчёта. | 20.08.2026 Scream: клиент = Константин (Просто группа).",
     "calc": null
   },
   {
