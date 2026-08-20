@@ -1082,5 +1082,24 @@
     "sent_usdt": 4490.96,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 58,
+    "date": "2026-08-20",
+    "sum": 30000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": "30000 + 0.3% + 30 = 30120 USDT",
+    "extra": "Invoice DA-200826-01 dd 20.08.2026. Dolina Agro Ltd (Israel, 10 Bareket str., Industrial Park Caesarea, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 30 000,00 USD, EXW. Roses 38 000 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Hermosa/Lola).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 30120,
+    "notes": null,
+    "calc": null
   }
 ]
