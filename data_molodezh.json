@@ -419,7 +419,7 @@
     "received_usdt": null,
     "sent_usdt": 4642,
     "notes": "Перенесено из Main Row 46 (Scream 17.08: Молодёжь). Заявка Тип 4: инвойс IMGlobe SIA 08-26/01 + Payment Order 17.08.2026, 3 901,30 EUR → IMGlobe (Revolut, LT893250060683447854, REVOLT21, CHASDEFX). BILL TO: Leo Spot Capital PT (Bali). | Уточнение Scream 17.08: Leo = компания-плательщик (company LEO), клиент = Молодёжь. | Payment from LEO (W& Платежи t2911, 17.08 15:30): 3 901,30 EUR → IMGlobe SIA (Revolut Bank UAB, Konstitucijos ave. 21B, Vilnius, REVOLT21, LT893250060683447854), INV. 08-26/01 dd 15.08.26, OUR. Платёж отправлен — ждём Transaction Status (🟡/🟢). | Transaction Status Details 17.08 19:39 (W& Платежи t1239, «3 901»): PENDING APPROVAL 17.08 19:38 — LEO SPOT CAPITAL PT (акк 0123-7824-012) → IMGlobe SIA (Revolut Bank UAB, REVOLT21XXX, LT893250060683447854, Jurmala LV-2015). EUR 3 901,30, Total Debit 3 945,30 (Cable 3,00 + Provision 9,00 + Transaction 32,00), OUR. Transaction Date 18.08.2026, Ref 0805-2296-0192-3302, Purpose 2490 Computer services, INV 08-26/01 dd 15.08.26. = INITIATED → 🟡. | Расчёт W& Платежи (t2911) 17.08 18:32 «LEO SPOT»: 3901,30 × 1,1585 × 1,005 + 100 = 4642 USDT. sent_usdt = 4642 (заполнено fill-calc.js, calc=ТЕЗ). Кошелёк получателя USDT: TLmdAeQMFFfhFEqGkMZ4aiC86jvbhoDmiV. | Transaction Status Details 17.08 22:42 (W& Платежи t1239, обновлённый): PENDING APPROVAL 17.08 22:42 — LEO SPOT CAPITAL → IMGlobe SIA (Revolut, REVOLT21XXX, LT893250060683447854). EUR 3 901,30, Total Debit 3 945,30, OUR. Transaction Date 18.08.2026, Ref 0805-2296-0192-3453, Purpose 2541 - Auxiliary insurance services / agent commissions / consulting (назначение ИСПРАВЛЕНО, было 2490 Computer services, ref ...3302), INV 08-26/01 dd 15.08.26. = INITIATED → 🟡 (статус не изменился). | 17.08 20:19 МСК: Bobr Alerts — OUT 4 642 USDT с Рабочего 3 (TDE4qCrCNQn89VbUQVabaLdhDyhBMydqUx) → TLmdAeQMFFfhFEqGkMZ4aiC86jvbhoDmiV (Guarda, txid ce215c63...24f6a2). Подтверждение по row 22 (LEO). Цвет/статус не меняется (USDT-движение). Q9 отправлен (🔴 ВЫХОД 17.08.2026 4642 USDT — LEO (Молодёжь)), леджер записан (q9_sent=true).",
-    "calc": "ТЕЗ"
+    "calc": null
   },
   {
     "row": 23,
@@ -438,7 +438,7 @@
     "received_usdt": null,
     "sent_usdt": 6048,
     "notes": " | Перенесено из Main Row 44 (Scream 17.08: Молодёжь). | BONBILL Q8 6 000,00 USD (Q8 GROUP LIMITED → BONBILL LIMITED, инвойс 300127 dd 16.03.2026, FOR PENCILS, KBP) — исполнено, 🟢. | 18.08: PO Q8GK (270-PO Choi Yeseul KBP 6000 USD, серийник O2089591806001020928454, Payment successful 18.08 13:54): Q8 GROUP LIMITED → Choi Yeseul (KBP), WOORI BANK HVBKKRSEXXX, 1081****584, INVOICE 300127 DD 16.03.2026 FOR PENCILS. Дубль строки — уже 🟢.",
-    "calc": "ТЕЗ"
+    "calc": null
   },
   {
     "row": 24,
@@ -495,7 +495,7 @@
     "received_usdt": null,
     "sent_usdt": 77697.3,
     "notes": "Payment Order dd 18/08/2026: 77 435,00 USD → Ozparts B.V. (Weena 690, 3012CN Rotterdam, Netherlands; VAT NL866335791B01, EORI NL866335791). Ebury Partners Belgium NV (Claude Debussylaan 26, Amsterdam), SWIFT EBPBNL22, NL97EBPB2845884133. Purpose: Invoices NL/FV#29405 dd 2026-08-10, autoparts. | Инвойс NL/FV#29405 dd 10.08.2026 (Ozparts B.V. → PT DEWATA ARTA GLOBAL, Jalan Lingga Bumi Blok C Nomor 71, Dalung, Kabupaten Badung, Kuta Utara, Bali 80361; PT Bank Mandiri, BMRIIDJA, 1430 0365 1257 0 USD): тормозные диски (Brake Disc DBA660X/2219X/2549S/2739S/2864S/3014S и др., HS 8708309190), Ship To Transportir Limited Polska (Pass 21, Blonie, Poland), FCA, 3 870,10 kg. Клиент подтверждён Scream 18.08.2026: Мосты (Молодёжь). | ⬜ Step 3: заявка (Payment from DEWATA, OUR) — компания DEWATA (PT Dewata Arta Global, Бали). | ⬜ Step 3: компания Q8 (Scream 18.08: для 77 435 USD — Q8). Получатель Ozparts B.V. | BONBILL Payment Certificate 19.08.2026 14:14:34 (txid O2089959188062142464719): Q8 GROUP LIMITED → Ozparts B.V. (Ebury Partners Belgium NV, EBPBNL22, NL97EBPB2845884133), USD 77 435,00. Invoice NL/FV#29405 dd 10.08.2026 For Autoparts. EXECUTED 🟢.",
-    "calc": "ТЕЗ"
+    "calc": null
   },
   {
     "row": 27,
