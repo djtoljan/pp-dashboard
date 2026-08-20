@@ -1182,24 +1182,5 @@
     "sent_usdt": null,
     "notes": "Проформа-инвойс 26-010-000142 dd 14.08.2026 (važi do 29.08.2026) от 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Сербия; Matični 17485059, PIB 102893403; тел/fax: ; текс. счёт 325-9500600027464-11). Покупатель: Q8 GROUP LIMITED (Room A22 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg 80242882-000-04-26-6). Товар: Dyson V16 Piston Animal New Model 492963 ×70 @ 510,58 EUR = 35 740,60 EUR, 0% PDV. | Заявка 20.08.2026 (Application for transfer 35_740.60_EUR_20.08.2026): Payment for household appliances to invoice No. 26-010-000142 dd 14.08.2026. Beneficiary: 220-B d.o.o. (OTP BANKA SRBIJA A.D., BULEVAR OSLOBODJENJA 80, NOVI SAD, IBAN RS35325960160000415772, SWIFT OTPVRS22, Bosanska 47, 11224 Vrčin). Платит Q8. Ждём кросс-курс EUR→USD для расчёта.",
     "calc": null
-  },
-  {
-    "row": 62,
-    "date": "2026-08-20",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": null,
-    "clientName": null,
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
   }
 ]
