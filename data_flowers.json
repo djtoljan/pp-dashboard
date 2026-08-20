@@ -1100,5 +1100,24 @@
     "sent_usdt": 30120,
     "notes": " | BONBILL (Q8) 20.08.2026 15:33:07 (TXN O2090341344374554624618): Q8 GROUP LIMITED → Dolina Agro Ltd (Bank Leumi Le Israel B.M., IL750107440000027660042), 30 000,00 USD. Invoice DA-200826-01 (DA20082601DD20082026) For Flowers.",
     "calc": null
+  },
+  {
+    "row": 59,
+    "date": "2026-08-20",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "EXPOFLORES JH S.A.S. (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
