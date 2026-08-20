@@ -562,7 +562,7 @@
     "sum": 2600,
     "currency": "USD",
     "company": null,
-    "color": "FFFF0000",
+    "color": "FF92D050",
     "clientName": "Мосты",
     "costFormula": null,
     "extra": null,
@@ -572,7 +572,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Invoice DG-2026-08-04 dd 04.08.2026 (CONGTANG SECRETARY LIMITED, Unit D3, 11/F, Luk Hop Industrial Building, No.8 Luk Hop Street, San Po Kong, Kowloon, HK; The Bank of East Asia Limited, BEASHKHH, a/c 01525668030265). TO: SINO SERVICE GROUP LIMITED. IRIDA STAR LIMITED 2023/24 налог (代缴税金): HKD 18 903 = USD 2 600. Клиент/группа уточняются. | Payment Order dd 18.08.2026 (bank transfer, 2 600,00 USD): Beneficiary CONGTANG SECRETARY LIMITED (Unit D3, 11/F, Luk Hop Industrial Building, No.8 Luk Hop Street, San Po Kong, Kowloon, HK), The Bank of East Asia Limited (10 des Voeux Road Central, HK), a/c 01525668030265, SWIFT BEASHKHH. Payment purpose: Invoices DG-2026-08-04 dd 04/08/2026.",
+    "notes": "Invoice DG-2026-08-04 dd 04.08.2026 (CONGTANG SECRETARY LIMITED, Unit D3, 11/F, Luk Hop Industrial Building, No.8 Luk Hop Street, San Po Kong, Kowloon, HK; The Bank of East Asia Limited, BEASHKHH, a/c 01525668030265). TO: SINO SERVICE GROUP LIMITED. IRIDA STAR LIMITED 2023/24 налог (代缴税金): HKD 18 903 = USD 2 600. Клиент/группа уточняются. | Payment Order dd 18.08.2026 (bank transfer, 2 600,00 USD): Beneficiary CONGTANG SECRETARY LIMITED (Unit D3, 11/F, Luk Hop Industrial Building, No.8 Luk Hop Street, San Po Kong, Kowloon, HK), The Bank of East Asia Limited (10 des Voeux Road Central, HK), a/c 01525668030265, SWIFT BEASHKHH. Payment purpose: Invoices DG-2026-08-04 dd 04/08/2026. | BONBILL (Q8) 20.08.2026 00:32:16 (TXN O2090114636799148032690): Q8 GROUP LIMITED → CONGTANG SECRETARY LIMITED (The Bank of East Asia Limited, a/c 01525668030265), 2 600,00 USD. Invoice sDG20260804 dd 04.08.2026 For IRIDAST AR Tools.",
     "calc": null
   }
 ]
