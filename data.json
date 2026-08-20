@@ -1125,5 +1125,24 @@
     "sent_usdt": 28916.4,
     "notes": "Инвойс K8-87177-CJW-0406-3900-00035 dd 31.07.2026 от PRODEMA LIMITED (Unit 1411, 14/F Cosco Tower, 183 Queen's Road Central, Sheung Wan, HK; Reg 3293131; sole director Frederic Basset) → Q8 GROUP LIMITED. Консалтинг 21.07-25.07.2026, 24 ч × 1 200 USD = 28 800,00 USD. Agreement 14-05-2026, REF 87177-CJW-0406-3900-00035. Банк: IFX UK Ltd (33 Cavendish Square, London W1G 0PW), IFXSGB2L, IBAN GB49IFXS23229083164543. Клиент/группа уточняется (создано в Main, отправитель «КГ бр (Аренда)»).",
     "calc": null
+  },
+  {
+    "row": 59,
+    "date": "2026-08-20",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
