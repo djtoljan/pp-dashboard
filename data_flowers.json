@@ -1063,5 +1063,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 57,
+    "date": "2026-08-20",
+    "sum": 4447.62,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "FLORESDELMUNDO S.A. (Цветы)",
+    "costFormula": "4447.62 + 0.3% + 30 = 4490.96 USDT",
+    "extra": "Invoice 202608-1901 dd 19.08.2026. FLORESDELMUNDO S.A. (Ecuador, Quito, RUC 1792722039001; Produbanco, account 02005227311, SWIFT PRODECEQ) -> Q8 Group Limited (80242882, HK). 4 447,62 USD. Fresh cut flowers assorted, floral products. Оплата по инвойсу за поставку цветов.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 4490.96,
+    "notes": null,
+    "calc": null
   }
 ]
