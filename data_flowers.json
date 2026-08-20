@@ -1128,15 +1128,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "SURANDINA DE FLORES (Цветы)",
-    "costFormula": null,
+    "costFormula": "5000 + 0,3% + 30 = 5045 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 5045,
+    "notes": "Инвойс 34594 dd 26.08.2026 (AGOSTO 26/2026) от C.I. SURANDINA DE FLORES SAS (Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia; NIT 900.137.094-6; surandina@hotmail.com) → Q8 Group Limited. HYDRANGEA (PREMIUM/SELECT ASSORTED/WHITE/PINK/LAVANDER/BLUE), 172 боксов, 5 470 стеблей, 9 позиций = 5 000,00 USD. Colombia preferential origin. | Ордер SURANDINA_5000: получатель CI SURANDINA DE FLORES, BANCOLOMBIA, COLOCOBM, счёт 34936346610 CORRIENTE, Cra. 21 #19-25, La Ceja, Colombia. Клиент/группа: Цветы (по аналогии с EXPOFLORES).",
     "calc": null
   }
 ]

@@ -1049,5 +1049,24 @@
     "sent_usdt": null,
     "notes": "Sąskaita faktūra LAS000000379 dd 14.08.2026 от MB LASKELA (Kalnų g. 29, Varniškių km. Vilniaus raj., Литва; Įmonės kodas 306335453; AS Citadele bankas, LT167290099017528052) → IĮ Ivan Mazurenko (236006 Kaliningrad, Naberežnaja Karbyševo 20-5; kodas 390701068179). Услуга: Draudimo įmokos pagal sutartį (страховые взносы по договору), 1 ед. × 15 000,00 EUR. ИТОГО 15 000,00 EUR. Клиент: ИП Мазуренко (Fininvest/ЭТБ). Компания пока неизвестна — ждём заявку/поручение.",
     "calc": null
+  },
+  {
+    "row": 55,
+    "date": "2026-08-20",
+    "sum": 85280,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Трак-Прайс",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
