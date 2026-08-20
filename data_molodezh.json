@@ -518,7 +518,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 29,
+    "row": 28,
     "date": "2026-08-19",
     "sum": 12170.94,
     "currency": "EUR",
@@ -538,7 +538,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 30,
+    "row": 29,
     "date": "2026-08-19",
     "sum": null,
     "currency": null,
@@ -557,8 +557,8 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 31,
-    "date": "2026-08-20",
+    "row": 30,
+    "date": "2026-08-19",
     "sum": 2600,
     "currency": "USD",
     "company": null,
@@ -572,7 +572,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Invoice DG-2026-08-04 dd 04.08.2026 (CONGTANG SECRETARY LIMITED, Unit D3, 11/F, Luk Hop Industrial Building, No.8 Luk Hop Street, San Po Kong, Kowloon, HK; The Bank of East Asia Limited, BEASHKHH, a/c 01525668030265). TO: SINO SERVICE GROUP LIMITED. IRIDA STAR LIMITED 2023/24 налог (代缴税金): HKD 18 903 = USD 2 600. Клиент/группа уточняются. | Payment Order dd 18.08.2026 (bank transfer, 2 600,00 USD): Beneficiary CONGTANG SECRETARY LIMITED (Unit D3, 11/F, Luk Hop Industrial Building, No.8 Luk Hop Street, San Po Kong, Kowloon, HK), The Bank of East Asia Limited (10 des Voeux Road Central, HK), a/c 01525668030265, SWIFT BEASHKHH. Payment purpose: Invoices DG-2026-08-04 dd 04/08/2026.",
     "calc": null
   }
 ]
