@@ -1086,9 +1086,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": "70000 / 225.96",
     "sent_usdt": 27111,
-    "notes": "Инвойс 2600107 dd 15.07.2026 от PRODEMA LIMITED (Unit 1411, 14/F Cosco Tower, 183 Queen's Road Central, Sheung Wan, HK; Reg 3293131; sole director Frederic Basset) → Q8 GROUP LIMITED (Rm A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). Консалтинг 07.07-10.07.2026, 22,5 ч × 1 200 USD = 27 000,00 USD. Agreement 14-05-2026. Банк: DBS Bank (Hong Kong) Limited, DHBKHKHH, акк 7965-0987-8. Клиент/группа уточняется (создано в Main, отправитель «КГ бр (Аренда)»). | 20.08.2026 Scream: клиент = Стройтекинвест (Аренда КГ).",
+    "notes": "Инвойс 2600107 dd 15.07.2026 от PRODEMA LIMITED (Unit 1411, 14/F Cosco Tower, 183 Queen's Road Central, Sheung Wan, HK; Reg 3293131; sole director Frederic Basset) → Q8 GROUP LIMITED (Rm A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). Консалтинг 07.07-10.07.2026, 22,5 ч × 1 200 USD = 27 000,00 USD. Agreement 14-05-2026. Банк: DBS Bank (Hong Kong) Limited, DHBKHKHH, акк 7965-0987-8. Клиент/группа уточняется (создано в Main, отправитель «КГ бр (Аренда)»). | 20.08.2026 Scream: клиент = Стройтекинвест (Аренда КГ). | Bobr Alert 21.08 11:30:18 и 11:37:54 UTC: IN 225,96 + 70 000 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TUKdvDmviL7SSmf1Q379XXqo8qosod4rMP — приход под строку 56 (Scream 21.08 15:14). received_usdt = 70000 / 225.96.",
     "calc": null
   },
   {
