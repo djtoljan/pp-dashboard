@@ -221,13 +221,13 @@
     "clientName": "Оникс (Движение 78)",
     "costFormula": null,
     "extra": "Поручение №31 от 21.08.2026 (прил. к аг.договору 020425-B от 02.04.2025). Принципал: ООО «Оникс» (190020, СПб, ул. Лифляндская 6, лит. М, пом. 28Н, офис 225, ИНН 7839125772, КПП 783901001, ген. директор Емельянов В.А.). Агент: ОсОО «Блэкшарк Трейд» (Курьянов Т.А.). Спецификация: товары по инвойсу №275686 от 13.08.2026. Получатель: EUROPEAN PADEL MARKET S.L. (Calle del Doctor Esquerdo 105, Madrid, 28007, Spain; Santander Bank, BSCHESMMXXX, IBAN ES43 0049 5130 5829 1630 4737). Перевод ДС платежным агентом: 6 665,63 EUR = 664 896,60₽ (курс 99,75 ₽/EUR) + агентское вознаграждение 170,91 EUR = 17 048,27₽. Итого 6 836,54 EUR. Срок 3-5 банк. дней.",
-    "rubles_received": null,
+    "rubles_received": "664896.60 / 17048.27",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "ПП №166 от 21.08.2026 ИСПОЛНЕН 21.08 10:36:40 (ВТБ Филиал Центральный → Почтабанк): 664 896,60₽ {VO11100} Оплата за товар по инвойсу 275686 от 13.08.2026, перевод ДС ПА поруч. 31 от 21.08.2026, к аг. договору 020425-B от 02.04.2025. Плательщик ООО «ОНИКС» (ИНН 7839125772, сч. 40702810526620000300) → ОсОО «Блэкшарк Трейд» (сч. 40807810100157518600). Тело платежа (агентское 17 048,27₽ — отдельным ПП). | ПП №167 от 21.08.2026 ИСПОЛНЕН 21.08 10:11:52 (ВТБ → Почтабанк): 17 048,27₽ {VO21100} Оплата за агентское вознаграждение по аг. договору 020425-B от 02.04.2025, поручение 31 от 21.08.2026. Плательщик ООО «ОНИКС» → ОсОО «Блэкшарк Трейд». rubles_received = 664896.60 / 17048.27. | Инвойс #275686 dd 13.08.2026 (English-версия, EUROPEAN PADEL MARKET S.L.): падель-ракетки (Head Coello Motion 2026, Adidas Cross It Light/Metalbone, Nox AT10 Genius 12K/18K, Bullpadel Hack 04/Xplo/Neuron, Nox ML10 Ventus/NeRBo, Wilson Endure Pro, Kombat Krakatoa, Royal Padel M27, Starvie Kenta и др.), VAT 0%. Бенефициар по инвойсу: Onix LLC (СПб, VTB, VTBRRUM2MS2). Согласуется с поручением №31. | Application for transfer (заявка на перевод) 6 665,63 EUR: Currency EUR, Amount 6 665.63, Beneficiary EUROPEAN PADEL MARKET S.L. (Calle del Doctor Esquerdo 105, Madrid 28007, Spain), Santander Bank (PAMPA, CAMINO DE CANTABRIA S/N, BAODILLA DEL MONTE, MADRID), IBAN ES43 0049 5130 5829 1630 4737, SWIFT BSCHESMMXXX. Purpose: PAYMENT FOR invoice №275686 dd 13.08.2026. Сумма и реквизиты совпадают с поручением №31.",
     "calc": null
   }
 ]
