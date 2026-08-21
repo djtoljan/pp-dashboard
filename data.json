@@ -923,7 +923,7 @@
     "sum": 15000,
     "currency": "EUR",
     "company": "TRANSPATH",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "ИП Мазуренко",
     "costFormula": "15 000,00 EUR → 17 480,57 USD /(1-0.3%) → 17 641,395 USDT",
     "extra": null,
