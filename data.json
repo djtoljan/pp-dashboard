@@ -1225,5 +1225,24 @@
     "sent_usdt": null,
     "notes": "Заявка (Payment from INFINITE, OUR, W& Платежи t2911 21.08): 62 100,00 USD → D-Line Auto Trading & Shipping - F.Z.E (Ajman Free Zone, Office C1-1F-SF7208, UAE; IFX Payment, 33 Cavendish Square, London, UK, SWIFT IFXSGB2L, GB94IFXS23229003164438), INV P-20260807/1 dd 07.08.26. Проформа-инвойс P-20260807/1 dd 07.08.2026: D-LINE AUTO TRADING & SHIPPING - F.Z.E → PT Infinite Sunrise Asia (Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581; TRN 412250115593; BRI BRINIDJA 59002000010305). Товар: Wheel Bearings/Shock Absorbers (14 позиций, 0% VAT), Payment DUE 30 days. Компания INFINITE. Клиент неизвестен — ждём заявку/поручение.",
     "calc": null
+  },
+  {
+    "row": 64,
+    "date": "2026-08-21",
+    "sum": 100000,
+    "currency": "USD",
+    "company": "INFINITE",
+    "color": "FFFFFFFF",
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка (Payment from INFINITE, OUR, W& Платежи t2911 21.08): 100 000,00 USD → Karam Al Arab General Trading LLC (Industrial Area 11, Warehouse #5, Sharjah, UAE; RAKBANK, Umm Hurrair Dubai, SWIFT NRAKAEAK, AE94 0400 0003 3373 6870 002), INV INV/2026/02692-93 dd 18.08.26. TAX INVOICE INV/2026/02692-93 dd 18/08/2026: Karam Al Arab General Trading LLC (TRN 104695189100003) → PT Infinite Sunrise Asia (Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581). Товар: TIMSS 50 ML EDP PARFUM 37 598 × 1,28 = 48 125,86 + MILAN 100ML EDP PARFUM 11 210 × 4,59 = 51 453,90 + DEPO RAF MALZEMESİ 94 × 2,55 = 239,70 + SILVAN 25 ML EMPTY BOX 310 × 0,20 = 63,24 + TIMSS 50 ML EMPTY BOX 230 × 0,51 = 117,30 = SUBTOTAL 100 000,00 USD, VAT 0%, Balance Due 100 000,00 USD. Компания INFINITE. Клиент неизвестен — ждём заявку/поручение.",
+    "calc": null
   }
 ]
