@@ -417,5 +417,43 @@
     "notes": "Проформа-инвойс 26-010-000142 dd 14.08.2026 (važi do 29.08.2026) от 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Сербия; Matični 17485059, PIB 102893403; тел/fax: ; текс. счёт 325-9500600027464-11). Покупатель: Q8 GROUP LIMITED (Room A22 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg 80242882-000-04-26-6). Товар: Dyson V16 Piston Animal New Model 492963 ×70 @ 510,58 EUR = 35 740,60 EUR, 0% PDV. | Заявка 20.08.2026 (Application for transfer 35_740.60_EUR_20.08.2026): Payment for household appliances to invoice No. 26-010-000142 dd 14.08.2026. Beneficiary: 220-B d.o.o. (OTP BANKA SRBIJA A.D., BULEVAR OSLOBODJENJA 80, NOVI SAD, IBAN RS35325960160000415772, SWIFT OTPVRS22, Bosanska 47, 11224 Vrčin). Платит Q8. Ждём кросс-курс EUR→USD для расчёта. | 20.08.2026 Scream: клиент = Константин (Просто группа). | 20.08.2026 перенесено из Main (row 61) — клиент определён Scream: Константин (Просто группа). | Кросс-курс EUR/USD = 1.17344 (FX Q8 21.08.2026: 157 628 USD → 134 329,56 EUR, 1 USD = 0.852193546215 EUR). Привязан Scream к row 22 (35 740,6 EUR) + Цветы row 61 (98 544,57 EUR). | BONBILL Payment Certificate 21.08.2026 14:33 (Тип 7 Q8): Q8 GROUP LIMITED → 220-B d.o.o. (OTP BANKA SRBIJA A.D., RS35325960160000415772). 35 740,60 EUR. Invoice 26-010-000142 dd 14.08.2026 For Household Appliances. TXID O209068860212733542465. EXECUTED 🟢 | 21.08.2026 Bobr-алерт: IN 42 249,23 USDT на Рабочий 4 от TX6kQeaQ... (адрес Константина) — Scream подтвердил: под заявку 35 740,60 EUR (row 22, 220-B). received_usdt = 42249.23.",
     "calc": "ТЕЗ",
     "row": 22
+  },
+  {
+    "row": 23,
+    "date": "2026-08-21",
+    "sum": 100000,
+    "currency": "USD",
+    "company": "INFINITE",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка (Payment from INFINITE, OUR, W& Платежи t2911 21.08): 100 000,00 USD → Karam Al Arab General Trading LLC (Industrial Area 11, Warehouse #5, Sharjah, UAE; RAKBANK, Umm Hurrair Dubai, SWIFT NRAKAEAK, AE94 0400 0003 3373 6870 002), INV INV/2026/02692-93 dd 18.08.26. TAX INVOICE INV/2026/02692-93 dd 18/08/2026: Karam Al Arab General Trading LLC (TRN 104695189100003) → PT Infinite Sunrise Asia (Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581). Товар: TIMSS 50 ML EDP PARFUM 37 598 × 1,28 = 48 125,86 + MILAN 100ML EDP PARFUM 11 210 × 4,59 = 51 453,90 + DEPO RAF MALZEMESİ 94 × 2,55 = 239,70 + SILVAN 25 ML EMPTY BOX 310 × 0,20 = 63,24 + TIMSS 50 ML EMPTY BOX 230 × 0,51 = 117,30 = SUBTOTAL 100 000,00 USD, VAT 0%, Balance Due 100 000,00 USD. Компания INFINITE. Клиент неизвестен — ждём заявку/поручение. | 🚨 Клиент: Константин (Просто группа) (Scream 21.08 18:07).",
+    "calc": null
+  },
+  {
+    "row": 24,
+    "date": "2026-08-21",
+    "sum": 62100,
+    "currency": "USD",
+    "company": "INFINITE",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка (Payment from INFINITE, OUR, W& Платежи t2911 21.08): 62 100,00 USD → D-Line Auto Trading & Shipping - F.Z.E (Ajman Free Zone, Office C1-1F-SF7208, UAE; IFX Payment, 33 Cavendish Square, London, UK, SWIFT IFXSGB2L, GB94IFXS23229003164438), INV P-20260807/1 dd 07.08.26. Проформа-инвойс P-20260807/1 dd 07.08.2026: D-LINE AUTO TRADING & SHIPPING - F.Z.E → PT Infinite Sunrise Asia (Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581; TRN 412250115593; BRI BRINIDJA 59002000010305). Товар: Wheel Bearings/Shock Absorbers (14 позиций, 0% VAT), Payment DUE 30 days. Компания INFINITE. Клиент неизвестен — ждём заявку/поручение. | 🚨 Клиент: Константин (Просто группа) (Scream 21.08 18:07).",
+    "calc": null
   }
 ]
