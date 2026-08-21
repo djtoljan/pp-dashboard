@@ -455,5 +455,24 @@
     "sent_usdt": 62573,
     "notes": "Заявка (Payment from INFINITE, OUR, W& Платежи t2911 21.08): 62 100,00 USD → D-Line Auto Trading & Shipping - F.Z.E (Ajman Free Zone, Office C1-1F-SF7208, UAE; IFX Payment, 33 Cavendish Square, London, UK, SWIFT IFXSGB2L, GB94IFXS23229003164438), INV P-20260807/1 dd 07.08.26. Проформа-инвойс P-20260807/1 dd 07.08.2026: D-LINE AUTO TRADING & SHIPPING - F.Z.E → PT Infinite Sunrise Asia (Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581; TRN 412250115593; BRI BRINIDJA 59002000010305). Товар: Wheel Bearings/Shock Absorbers (14 позиций, 0% VAT), Payment DUE 30 days. Компания INFINITE. Клиент неизвестен — ждём заявку/поручение. | 🚨 Клиент: Константин (Просто группа) (Scream 21.08 18:07). (Jalan Udayana No.164, Blahbatuh, Gianyar, Bali 80581; TRN 412250115593, VAT 6282230890785, BRI BRINIDJA 59002000010305). | Расчёт Scream 21.08 (Тип 11): кошелёк TPpKxwcYu4movDe9h95zRt5b966AefnjBJ. Итого по двум заявкам INFINITE: 100 500 + 62 573 = 163 073 USDT.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 25,
+    "date": "2026-08-24",
+    "sum": 25000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка (Q8GK t19, 25_000_USD_24_08_2026.xlsx + инвойс EN-250812-1 prepaid): платёж 25 000,00 USD (предоплата, Prepaid expense) по инвойсу EN-250812-1 dd 13.12.2025. Продавец/бенефициар: HANGZHOU LINAN XINRAN SOLAR EQUIPMENT CO., LTD (No.18 Datang Road, Jinan District Linan, Hangzhou, Zhejiang, China; Bank of China Zhejiang Branch Linan Sub-branch, SWIFT BKCHCNBJ910, CNAPS 104331052828, счёт 390958342541). Покупатель: Q8 GROUP LIMITED (DBS Bank (Hong Kong) Limited, DHBKHKHH, 18/F The Center, 99 Queen's Road Central, HK). Товар: Inner tank Enamel furnace line (Machine part / Equipment), 1 ед. × 54 044,00 USD Total FOB. Назначение: Inner tank Enamel furnace line, Invoice No. EN-250812 13.12.25. Клиент пока неизвестен — ждём заявку/поручение. | 🚨 Клиент: Константин (Просто группа) (Scream 21.08 18:10). Компания Q8 (Q8 GROUP LIMITED, DBS Bank Hong Kong) — из ордера.",
+    "calc": null
   }
 ]
