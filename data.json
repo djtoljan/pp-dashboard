@@ -1153,11 +1153,11 @@
   {
     "row": 60,
     "date": "2026-08-21",
-    "sum": null,
-    "currency": null,
+    "sum": 56554.52,
+    "currency": "USD",
     "company": null,
-    "color": null,
-    "clientName": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
@@ -1166,7 +1166,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Поручение №59184-3 от 21.08.2026 (Transfer Request No 59184-3 from 21.08.2026, Приложение №2 к договору на оказание консультационных услуг №20102025TК/2 от 20.10.2025): Принципал ООО «ВТС» (117105, Москва, Новоданиловская наб. 4А; ИНН 7735171132, ген. директор Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (Кыргызская Республика, директор Курьянов А.А.). Получатель: DDK GROUP LIMITED (UNIT B, 11/F YAM TZE COMMERCIAL BUILDING 23 THOMPSON ROAD WAN CHAI HK; JP Morgan Chase HONG KONG BRANCH, SWIFT CHASHKHHXXX, счёт 63115242745 USD, bank code 007, branch 863). Сумма 56 554,52 USD по инвойсам 6DDK27-08-25 dd 27.08.2025 и 7DDK27-08-25 dd 27.08.2025 (Договор ВТС/27/08/2025-01 от 27.08.2025). Курс 1 USD = 83,3550 → 4 714 102,01 RUB. Комиссия агента 2,5% = 1 413,86 USD (инвойс БиТрейд №59184-3 от 21.08.2026: 1 413,86 USD = 117 852,30 RUB, аванс −1 998,00 RUB, к оплате 115 854,30 RUB). Срок исполнения 5-10 банк. дней. | Проформа 7DDK27-08-25 dd 27.08.2025: DDK GROUP LIMITED → ООО «ВТС», товар TN80C196KC20 × 860 = 116 788,00 USD + Shipping 46 210,00 USD (3 851 834,55 RUB по курсу 83,355), JP Morgan Chase HONG KONG, CHASHKHHXXX, 63115242745 (USD). | Проформа 6DDK27-08-25 dd 27.08.2025: товар TN80C196KC20 × 885 = 120 183,00 USD + Shipping 26 838,48 USD (см. Main row 35). Клиент: ВТС. Компания пока неизвестна — ждём заявку.",
     "calc": null
   }
 ]
