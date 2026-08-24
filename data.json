@@ -1187,14 +1187,14 @@
     "color": "FFFFFFFF",
     "clientName": "ООО ЕТЕ",
     "costFormula": "46 433,28 + 0.3% + 30 = 46 602,58 USDT",
-    "extra": "3882286.54 / 58234.37",
-    "rubles_received": null,
+    "extra": null,
+    "rubles_received": "3882286.54 / 58234.37",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 46602.58,
-    "notes": null,
+    "notes": "Поручение №7 от 24.08.2026 (Transfer Request No 7, прил. к аг.договору 2026/05/29-1 от 29.05.2026). Принципал: ООО «ЕТЕ» (ИНН 9728133429). Агент: ОсОО «БиТрейт Кей Джи» (ИНН 9909705572). Получатель: PT INNOVATIVE DATA FLOW (BENOA SQUARE, JALAN BYPASS I GUSTI NGURAH RAI 21A, KEDONGANAN KUTA, BADUNG, BALI 80361; PT. Bank Mandiri (Persero) Tbk, SWIFT BMRIIDJA, счёт 1750003421038 USD). Инвойс 72228 от 14.08.2026 (транспорт, Transport Expedition Agreement 20-04/2026 от 20.04.2026). Курс 83,61 → 3 882 286,54₽. Комиссия агента 1,5% = 696,50 USD (инвойс услуг БиТрейд №7 от 24.08.2026, 58 234,37₽). ПП №3979 от 24.08.2026 ИСПОЛНЕНО (ВТБ): 3 882 286,54₽, {VO21200} оплата транспортных услуг по Дог. 20-04/2026, инвойс 72228, пор.7. | ПП №3980 от 24.08.2026 ИСПОЛНЕНО (ВТБ): 58 234,37₽, {VO21100} посреднические услуги, инв.7, Поручение 7. Плательщик инвойса: Q8 GROUP LIMITED (Scream 24.08).",
     "calc": null
   }
 ]
