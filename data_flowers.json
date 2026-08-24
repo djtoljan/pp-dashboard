@@ -1157,5 +1157,24 @@
     "sent_usdt": 116013.05,
     "notes": "Кросс-курс EUR/USD = 1.17344 (FX Q8 21.08.2026: 157 628 USD → 134 329,56 EUR, 1 USD = 0.852193546215 EUR). Привязан Scream к row 61 (98 544,57 EUR) + Константин row 22 (35 740,6 EUR). | BONBILL Payment Certificate 21.08.2026 14:30:32 (Тип 7 Q8): Q8 GROUP LIMITED → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BG04BGUS91601413896300). 98 544,57 EUR. Invoice AA-Q8-2026-0821 dd 21.08.2026 For Flowers. TXID O2090687980883804160281. EXECUTED 🟢",
     "calc": null
+  },
+  {
+    "row": 62,
+    "date": "2026-08-24",
+    "sum": null,
+    "currency": "Приоритет Маркет (Цветы)",
+    "company": "6829268.19 / 170731.70",
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
