@@ -474,5 +474,24 @@
     "sent_usdt": 25225,
     "notes": "Заявка (Q8GK t19, 25_000_USD_24_08_2026.xlsx + инвойс EN-250812-1 prepaid): платёж 25 000,00 USD (предоплата, Prepaid expense) по инвойсу EN-250812-1 dd 13.12.2025. Продавец/бенефициар: HANGZHOU LINAN XINRAN SOLAR EQUIPMENT CO., LTD (No.18 Datang Road, Jinan District Linan, Hangzhou, Zhejiang, China; Bank of China Zhejiang Branch Linan Sub-branch, SWIFT BKCHCNBJ910, CNAPS 104331052828, счёт 390958342541). Покупатель: Q8 GROUP LIMITED (DBS Bank (Hong Kong) Limited, DHBKHKHH, 18/F The Center, 99 Queen's Road Central, HK). Товар: Inner tank Enamel furnace line (Machine part / Equipment), 1 ед. × 54 044,00 USD Total FOB. Назначение: Inner tank Enamel furnace line, Invoice No. EN-250812 13.12.25. Клиент пока неизвестен — ждём заявку/поручение. | 🚨 Клиент: Константин (Просто группа) (Scream 21.08 18:10). Компания Q8 (Q8 GROUP LIMITED, DBS Bank Hong Kong) — из ордера. | Расчёт финальный Scream 21.08 (Тип 11): 25 000 + 0,5% + 100 = 25 225 USDT. Bobr IN 21.08 15:29 UTC: 188 721,80 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TX6kQeaQsy6bhGyHkuwKyYwodRDXtmYcP9 — сводный возврат ТЕЗ по заявкам Константина: 62 696,80 + 100 800 + 25 225. received_usdt = 25225.",
     "calc": null
+  },
+  {
+    "row": 26,
+    "date": "2026-08-24",
+    "sum": 230562.74,
+    "currency": "EUR",
+    "company": "red",
+    "color": null,
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
