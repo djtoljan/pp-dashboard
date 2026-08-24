@@ -1271,5 +1271,24 @@
     "sent_usdt": 45165,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 68,
+    "date": "2026-08-24",
+    "sum": 5000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Luxus Blumen (Цветы)",
+    "costFormula": "5 000 + 0.3% + 30 = 5 050 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 5045,
+    "notes": null,
+    "calc": null
   }
 ]
