@@ -1214,5 +1214,24 @@
     "sent_usdt": 7051,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 65,
+    "date": "2026-08-24",
+    "sum": 15000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Milele Flowers (Цветы)",
+    "costFormula": "15 000 + 0.3% + 30 = 15 075 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 15075,
+    "notes": null,
+    "calc": null
   }
 ]
