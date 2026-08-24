@@ -1195,5 +1195,24 @@
     "sent_usdt": 30120,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 64,
+    "date": "2026-08-24",
+    "sum": 7000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "KINGDOM FLOWERS SAS (Цветы)",
+    "costFormula": "7 000 + 0.3% + 30 = 7 051 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 7051,
+    "notes": null,
+    "calc": null
   }
 ]
