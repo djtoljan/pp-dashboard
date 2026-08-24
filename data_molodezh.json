@@ -761,7 +761,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 23199.3,
-    "notes": null,
-    "calc": null
+    "notes": "| Заявка (Тип 4): Проформа KBP №BB2615 dd 07.08.2026 (Shipper KBP, Room A075, 3rd floor, 25-11 Seongji-gil, Mapo-gu, Seoul, Корея; Attn: Scarlett Choi/Choi Yeseul; WOORI BANK, 1081-801-031584, HVBKKRSEXXX) + Платежное поручение 156738: 23 100,00 USD → Choi Yeseul (KBP). PAYMENT BY PROFORMA INVOICE NO. BB2615 DD 07.08.2026 FOR HIGHLIGHTER. PO Issued by: Q8 GROUP LIMITED (Hong Kong, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Kowloon). Товар: MakeSoul Highlighter Gold2 5 000 × 2.20 + Pink3 5 000 × 2.20 + White2 5 000 × 2.20 = 15 000 шт = 33 000,00 USD (EXW). Оплата: 70% аванс = 23 100 USD (текущий платёж), 30% перед отгрузкой. Компания Q8 (ТЕЗ). Клиент уточняется.",
+    "calc": "ТЕЗ"
   }
 ]
