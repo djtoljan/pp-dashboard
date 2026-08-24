@@ -481,7 +481,7 @@
     "sum": 230562.74,
     "currency": "EUR",
     "company": "red",
-    "color": null,
+    "color": "FFFF0000",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -491,7 +491,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Инвойс Melitta Europa GmbH & Co. KG №3974915 dd 24.03.2026 (PDF): Warenempfänger ANGLESEY FOOD COM (MR. ASKAR NAVRUZEV, BOBUR STREET 6, 100090 TASHKENT, WE-Nr 26157), FCA MINDEN, by truck. Товары (order for march): MILK FROTHER CREMIO WHITE 1014-01 (60 PC × 36,00 = 2 160,00), CREMIO BLACK 1014-02 (60 PC = 2 160,00), COFFEEMAKER EPOUR BLACK-CHROME (24 PC × 115,00 = 2 760,00), FILTERBAGS 1X4/40 TCF (288 PC × 0,58 = 167,04), MOLINO COFFEE GRINDER (20 PC × 29,00 = 580,00) и др. Nettobetrag 230 562,74 EUR = Bruttobetrag (tax-free export). | Заявка (XLSX melitta_3974915_2): Beneficiary Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany; Deutsche Bank, SWIFT DEUTDE3B490, a/c DE03 4907 0028 0291 3713 00). Details: Proforma-Invoice 3974915 dd 24.03.26, payer № 26157 for home appliances. ⚠️ В бланке заявки сумма 246 000 EUR ≠ инвойс 230 562,74 EUR — уточнить (брать сумму из Application/уточнить у Scream). → 🔴 (Step 0, компания неизвестна).",
     "calc": null
   }
 ]
