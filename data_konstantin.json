@@ -497,12 +497,12 @@
   {
     "row": 27,
     "date": "2026-08-25",
-    "sum": null,
-    "currency": null,
+    "sum": 2258693.61,
+    "currency": "RUB",
     "company": null,
     "color": "FF4FC3F7",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "приняли наличные, оплатили по счету",
+    "costFormula": "приняли наличные 2331000, оплатили по счету",
     "extra": null,
     "rubles_received": "2331000",
     "sent_rubles_vdx": null,
@@ -511,6 +511,6 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": null,
-    "calc": null
+    "calc": "РУБ"
   }
 ]
