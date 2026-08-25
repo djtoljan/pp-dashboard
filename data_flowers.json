@@ -1290,5 +1290,23 @@
     "sent_usdt": 5045,
     "notes": "| Q8-расчёт (исправлено 25.08): 5 000 + 0.3% + 30 = 5 045 USDT. Заявка Q8 (24.08, «Заявки Компания Q8»): INVOICE 273319 от 18.08.2026. LUXUS BLUMEN S.A. (Prov. Pichincha, Canton Pedro Moncayo, Parroquia Tabacundo, junto a ex flores de Monaco, sector Tupigachi-Ecuador; RUC 1792072794001; info@luxusblumen.com). To: Q8 Group Limited (80242882, HK). By order №621. AWB UIO 14512105682, AWB SVO LA1608040652. Roses 50-90cm, 16 994 stems, 57 мест. F.O.B. QUITO. TOTAL 5 000,00 USD. | Application (бланк): Beneficiary Luxus Blumen S.A. (PRODUBANCO, Av. Amazonas N35-211 y Japón QUITO; SWIFT PRODECEQ; счёт 02005190602; VAT 1792072794001; dir. Cesar Guerra), Intermediary WELLS FARGO BANK N.A. (PNBPUS3N NYC, 2000192321006). For flowers. 5 000,00 USD. → ⬜ (заявка, Q8). | IN 5000 USDT (24.08): сводный платёж Q8 (Bobr 18:59 МСК, от TEV72g8Qt... на Рабочий 4), доля по заявке. Сумма заявок 117 000 + 0.6% (702) + 600 = 118 302 (Scream 24.08). |  BONBILL Payment Certificate 25.08.2026 15:42:25 (txid O2092155621838290944708): Q8 GROUP LIMITED → Luxus Blumen S.A. (PRODUBANCO, 02005190602), 5 000,00 USD. Invoice 273319 dd 18.08.2026 For Flowers. EXECUTED → 🟢.",
     "calc": null
+  },
+  {
+    "row": 69,
+    "date": "2026-08-25",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "11219512.14 / 280487.80",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Выписка Блэкшарк ПОЧТОБАНК 25.08.2026: {VO11200} ПП №159 от 25.08 — ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723), 11 219 512,14₽ — Оплата за цветочную продукцию по контракту 25/06-2026 от 25.06.2026 (тело). + {VO21100} ПП №160 — 280 487,80₽ — Оплата вознаграждения Агенту по контракту WD-30 от 25.06.2026 (агентское). rubles_received = 11219512.14 / 280487.80."
   }
 ]
