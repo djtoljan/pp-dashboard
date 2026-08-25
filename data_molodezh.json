@@ -778,9 +778,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 8226,
     "sent_usdt": null,
-    "notes": " | Payment Order 8000 USD (аванс 30%) → ZIBO HONGZHENG CLOCK CO.,LTD (Bank of China Zibo Branch, акк 223414037251, Swift BKCHCNBJ500). Inv. HZC20260814 dd 14.08.26 for MECHANICAL CLOCK (проформа: 166 pcs, TOTAL 23 567,25 USD, FOB Qingdao; покупатель Q8 GROUP LIMITED, DBS Bank HK). Клиент: Мосты (Scream 25.08). ⬜ Step 3 (компания Q8 известна).",
+    "notes": " | Payment Order 8000 USD (аванс 30%) → ZIBO HONGZHENG CLOCK CO.,LTD (Bank of China Zibo Branch, акк 223414037251, Swift BKCHCNBJ500). Inv. HZC20260814 dd 14.08.26 for MECHANICAL CLOCK (проформа: 166 pcs, TOTAL 23 567,25 USD, FOB Qingdao; покупатель Q8 GROUP LIMITED, DBS Bank HK). Клиент: Мосты (Scream 25.08). ⬜ Step 3 (компания Q8 известна). | Bobr IN 25.08.2026 14:50 UTC: 8 226 USDT на Рабочий 4 от TF6rkCozFv3ZMFLVcuDXw51JhTGqhZ6VUk — ПОД СДЕЛКУ 8 000 USD (Мосты, ZIBO HONGZHENG HZC20260814, указание Scream 25.08). received_usdt = 8226 (bobr-20260825-145036). Q9 отправлен.",
     "calc": null
   },
   {
