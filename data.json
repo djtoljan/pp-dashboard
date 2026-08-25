@@ -1216,5 +1216,24 @@
     "sent_usdt": null,
     "notes": " | PI0082KATE2674 dd 06.08.2026: GRF3042 Guerrilla RF 25+ 1000шт × 2,0567 = 2 056,70 USD. | PI0082KATE2675-MINSMT dd 17.08.2026: Universal nozzle 31шт + freight 5 + 5% комиссия 139,07 = 2 925,42 USD. ИТОГО 6 PI = 50 080,10 USD. | Поручение №21 от 25.08.2026 (Transfer Request No. 21, прил. №1 к Аг.договору 02-09/25 от 02.09.2025): ООО «Логолок» → ОсОО «Блэкшарк Трейд». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (CCB Shenzhen, PCBCCNBJSZX, NRA44250110076300002094). 66 884,51 USD по инвойсам PI0082KATE2665 (частичная 50%), 2670, 2671, 2673, 2674, 2675-MINSMT, 2676-HK Chip Guest, 2677-ZDECL, контракт HICC/2025-09-11 от 11.09.2025. Курс 84,61 → 5 659 098,39₽. Комиссия агента 1,5% + 100 долл (84 886,48 + 8 461 = 93 347,48₽). Срок 5-10 банк. дней. Step 0 красный, компания ждёт заявку.",
     "calc": null
+  },
+  {
+    "row": 64,
+    "date": "2026-08-25",
+    "sum": 23000,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Дре Русланд",
+    "costFormula": null,
+    "extra": "Поручение №39 от 25.08.2026 (Transfer request No. 39 from 25/08/26, прил. к аг.договору 2701-27/1 от 27.01.26). Принципал: ООО «Дре Русланд Трейдинг». Агент: ОсОО «Блэкшарк Трейд». Получатель: EXTOM-MEBLE SP Z O O SP K (POLAND, KAZIMIERZOWO 6D, 82-300 ELBLAG; PEKAO SA, PL38124022651978001083347136, PKOPPLPW). 23 000,00 EUR по фактуре №175/26/DEX от 20.08.2026 (Dokument zbiorczy, BUFOR). Курс 98,62 → 2 268 260,00₽. Комиссия агента 1,6% = 36 292,16₽. Срок 2-3 банк. дня. Фактура 175/26/DEX dd 20.08.2026 (EXTOM-MEBLE, Elblag): мебель (D13U/D14RU/D15/D2A/D3A корпуса Artisan, AVELLINO fronts, BOSTON, HILTON, SEVILLA PET, LYON, BROLO, LINATE и др.), RAZEM 26 996,15 EUR — поручение 23 000 EUR (частичная оплата?). Step 0 красный, компания ждёт заявку.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
