@@ -1183,7 +1183,7 @@
     "sum": 30000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Rosaprima (Цветы)",
     "costFormula": "30 000 + 0.6% + 100 = 30 280 USDT",
     "extra": null,
@@ -1193,7 +1193,7 @@
     "vdx_rate": null,
     "received_usdt": 30280,
     "sent_usdt": 30280,
-    "notes": "Заявка Q8 (24.08, группа «Заявки Компания Q8»): Prebook #952431. Rosaprima International LLC (Miami, 175 SW 7th Street, Suite 2301, FL 33130; 1 (305) 644-8459). Customer: LTT Group GmbH (Lindenstrasse 63C, Furstenwalde/Spree, Brandenburg). Ship To: Q8 Group Limited (80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). Sales Rep Daniel Larrea. Truck Date 07/23/2026. Carrier EBF Cargo. Account 553394. ROS AST 60, 400 stems @ $1.000 = $30 000,00. TOTAL $30 000,00. | Application (бланк): Beneficiary Rosaprima Cia Ltda (Cananvalle Guachala Cayambe-Ecuador), PRODUBANCO, PRODECEQ, счёт 02005162277. 30 000,00 USD. → ⬜ (заявка, Q8). | IN 30000 USDT (24.08): сводный платёж Q8 (Bobr 18:59 МСК, от TEV72g8Qt... на Рабочий 4), доля по заявке. Сумма заявок 117 000 + 0.6% (702) + 600 = 118 302 (Scream 24.08). | Q8-расчёт (Scream 24.08): формула 30 000 + 0.6% + 100 = 30 280 USDT.",
+    "notes": "Заявка Q8 (24.08, группа «Заявки Компания Q8»): Prebook #952431. Rosaprima International LLC (Miami, 175 SW 7th Street, Suite 2301, FL 33130; 1 (305) 644-8459). Customer: LTT Group GmbH (Lindenstrasse 63C, Furstenwalde/Spree, Brandenburg). Ship To: Q8 Group Limited (80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). Sales Rep Daniel Larrea. Truck Date 07/23/2026. Carrier EBF Cargo. Account 553394. ROS AST 60, 400 stems @ $1.000 = $30 000,00. TOTAL $30 000,00. | Application (бланк): Beneficiary Rosaprima Cia Ltda (Cananvalle Guachala Cayambe-Ecuador), PRODUBANCO, PRODECEQ, счёт 02005162277. 30 000,00 USD. → ⬜ (заявка, Q8). | IN 30000 USDT (24.08): сводный платёж Q8 (Bobr 18:59 МСК, от TEV72g8Qt... на Рабочий 4), доля по заявке. Сумма заявок 117 000 + 0.6% (702) + 600 = 118 302 (Scream 24.08). | Q8-расчёт (Scream 24.08): формула 30 000 + 0.6% + 100 = 30 280 USDT. | BONBILL Payment Certificate 25.08.2026 15:33:57 (txid O2092153490884395008621): Q8 GROUP LIMITED → Rosaprima Cia Ltda. (Produbanco, PRODECEQ, акк 02005162277), 30 000,00 USD. Invoice 952431DD23072026 For Flowers. EXECUTED → 🟢.",
     "calc": null
   },
   {
