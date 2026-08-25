@@ -1201,5 +1201,24 @@
     "sent_usdt": null,
     "notes": " | 25.08: PDF-версия Поручения №39 (та же сделка EXTOM-MEBLE 23 000 EUR, инвойс 175/26/DEX) — дубль по содержимому, новая строка не создавалась.",
     "calc": null
+  },
+  {
+    "row": 63,
+    "date": "2026-08-25",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
