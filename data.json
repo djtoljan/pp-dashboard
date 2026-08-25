@@ -1201,20 +1201,20 @@
   {
     "row": 63,
     "date": "2026-08-25",
-    "sum": 45097.98,
+    "sum": 66884.51,
     "currency": "USD",
     "company": null,
     "color": "FFFF0000",
     "clientName": "Логолок",
     "costFormula": null,
-    "extra": "Проформы ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (CCB Shenzhen, PCBCCNBJSZX, NRA44250110076300002094) — новая партия Логолок, 4 PI: 0082KATE2670 dd 04.08.2026: Alumina Substrate 99.7% 20шт 839,90 + freight 5 + 5% комиссия 42,00 = 886,90 USD. 0082KATE2671 dd 04.08.2026: sb_tmsg44_v4 UGPCB 25шт 1 796,65 + freight 5 + 5% комиссия 89,83 = 1 891,48 USD. 0082KATE2673 dd 06.08.2026: LCD Waveshare 604шт = 11 290,26 USD. 0082KATE2677-ZDECL dd 20.08.2026: разъёмы/кабели 7566шт + freight 5 + 5% комиссия 1 477,35 = 31 029,34 USD. ИТОГО 45 097,98 USD. Контракт HICC/2025-09-11 dd 11.09.2025. Step 0 красный, компания неизвестна — ждём заявку.",
+    "extra": "Поручение №21 от 25.08.2026 (Transfer Request No. 21, прил. №1 к Аг.договору 02-09/25 от 02.09.2025): ООО «Логолок» → ОсОО «Блэкшарк Трейд». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (CCB Shenzhen, PCBCCNBJSZX, NRA44250110076300002094). 66 884,51 USD по инвойсам: PI0082KATE2665 (частичная 50% = 8 126,50), PI0082KATE2670 dd 04.08.2026: Alumina Substrate 99.7% 20шт = 886,90 USD. PI0082KATE2671 dd 04.08.2026: sb_tmsg44_v4 UGPCB 25шт = 1 891,48 USD. PI0082KATE2673 dd 06.08.2026: LCD Waveshare 604шт = 11 290,26 USD. PI0082KATE2674 dd 06.08.2026: GRF3042 Guerrilla RF 1000шт = 2 056,70 USD. PI0082KATE2675-MINSMT dd 17.08.2026: Universal nozzle 31шт = 2 925,42 USD. PI0082KATE2676-HK Chip Guest dd 20.08.2026: электронные компоненты 80906шт = 8 678,03 USD. PI0082KATE2677-ZDECL dd 20.08.2026: разъёмы/кабели 7566шт = 31 029,34 USD. ИТОГО 66 884,51 USD (вкл. 50% PI2665). Контракт HICC/2025-09-11 dd 11.09.2025. Курс 84,61 → 5 659 098,39₽. Комиссия агента 1,5% + 100 долл = 93 347,48₽. Step 0 красный, компания ждёт заявку.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": " | PI0082KATE2674 dd 06.08.2026: GRF3042 Guerrilla RF 25+ 1000шт × 2,0567 = 2 056,70 USD. | PI0082KATE2675-MINSMT dd 17.08.2026: Universal nozzle 31шт + freight 5 + 5% комиссия 139,07 = 2 925,42 USD. ИТОГО 6 PI = 50 080,10 USD. | Поручение №21 от 25.08.2026 (Transfer Request No. 21, прил. №1 к Аг.договору 02-09/25 от 02.09.2025): ООО «Логолок» → ОсОО «Блэкшарк Трейд». Получатель: ZHUZHOU UTRON INDUSTRIAL CO., LIMITED (CCB Shenzhen, PCBCCNBJSZX, NRA44250110076300002094). 66 884,51 USD по инвойсам PI0082KATE2665 (частичная 50%), 2670, 2671, 2673, 2674, 2675-MINSMT, 2676-HK Chip Guest, 2677-ZDECL, контракт HICC/2025-09-11 от 11.09.2025. Курс 84,61 → 5 659 098,39₽. Комиссия агента 1,5% + 100 долл (84 886,48 + 8 461 = 93 347,48₽). Срок 5-10 банк. дней. Step 0 красный, компания ждёт заявку.",
     "calc": null
   }
 ]
