@@ -1308,5 +1308,23 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Выписка Блэкшарк ПОЧТОБАНК 25.08.2026: {VO11200} ПП №159 от 25.08 — ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723), 11 219 512,14₽ — Оплата за цветочную продукцию по контракту 25/06-2026 от 25.06.2026 (тело). + {VO21100} ПП №160 — 280 487,80₽ — Оплата вознаграждения Агенту по контракту WD-30 от 25.06.2026 (агентское). rubles_received = 11219512.14 / 280487.80."
+  },
+  {
+    "row": 70,
+    "date": "2026-08-25",
+    "sum": 50656,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ModestoGroup (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Инвойс FL01/250826 dd 25.08.2026 от ModestoGroup OU (Reg. 16203107, K. Kärberi tn 18-2, Lasnamäe, 13919 Tallinn, Estonia; info@m-flowers.com; The Currency Cloud Limited, 1 Sheldon Square, London W2 6TT; IBAN GB32TCCL04143483461312, BIC TCCLGB3L): AA Kenyan rose mix 33 600,00 USD + AA Air logistics services 17 056,00 USD = TOTAL 50 656,00 USD. Bill to: Q8 Group Limited (Company 80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong). Заявка Q8 (ТЕЗ) ⬜ Step 3 — клиент уточняется (маркер «Заявки Компания Q8»). | Таблица: ЦВЕТЫ (цветочный клиент — m-flowers.com, Kenyan rose mix; перенесено из Main по указанию Scream 25.08)."
   }
 ]
