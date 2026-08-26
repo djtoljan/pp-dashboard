@@ -1212,16 +1212,16 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Эдельвейс Аудио",
-    "costFormula": null,
+    "costFormula": "(2 198,33 GBP) 3007,77 x 1.003 + 30 = 3046,79 USDT",
     "extra": "Заявка Q8 (ТЕЗ): Payment Order 2 198,33 GBP → Lean Business (18 The Sterling Complex, Ipswich, IP1 5AP, UK), Barclays Bank Plc, IBAN GB25 BARC 2044 5180 7448 67, Swift BARCGB22. Invoice LB262243 dd 25.08.2026 (CELESTION TSQ2145 2x + TSQ2460 2x, EX WORKS). Консигни: Q8 GROUP LIMITED (RM A22, 10/F, NO.52, HUNG TO ROAD, KWUN TONG, HONG KONG 999077, TAX 80242882). Маркер 'Молодежь' → таблица Молодёжь, конкретный клиент уточняется.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": " | Payment Order 2 198,33 GBP dd 25.08.2026 (Заявки Компания Q8): платёж → Lean Business (18 The Sterling Complex, Ipswich, IP1 5AP, UK), Barclays Bank Plc, IBAN GB25 BARC 2044 5180 7448 67, Swift BARCGB22. Invoice No. LB262243 dd 25.08.2026 (CELESTION TSQ2145 2x + TSQ2460 2x, EX WORKS). Консигни: Q8 GROUP LIMITED. Заявка Q8 (ТЕЗ) ⬜ Step 3 — клиент уточняется (маркер «Молодежь»). | Клиент: Эдельвейс Аудио (указание Scream 25.08).",
-    "calc": null
+    "sent_usdt": 3046.79,
+    "notes": " | Payment Order 2 198,33 GBP dd 25.08.2026 (Заявки Компания Q8): платёж → Lean Business (18 The Sterling Complex, Ipswich, IP1 5AP, UK), Barclays Bank Plc, IBAN GB25 BARC 2044 5180 7448 67, Swift BARCGB22. Invoice No. LB262243 dd 25.08.2026 (CELESTION TSQ2145 2x + TSQ2460 2x, EX WORKS). Консигни: Q8 GROUP LIMITED. Заявка Q8 (ТЕЗ) ⬜ Step 3 — клиент уточняется (маркер «Молодежь»). | Клиент: Эдельвейс Аудио (указание Scream 25.08). | Кросс-курс USD/GBP = 0.730883227293 (FX 26.08: 3040 USD → 2221.88 GBP; GBP/USD = 1.36821) — для расчёта Q8 по сделке в GBP (Эдельвейс Аудио).",
+    "calc": "ТЕЗ"
   },
   {
     "row": 64,
