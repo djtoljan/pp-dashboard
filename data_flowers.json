@@ -1346,5 +1346,24 @@
     "sent_usdt": 79768.5,
     "notes": "BONBILL Q8 26.08.2026 17:50:18 (Payment Certificate, txid O2092550194150375424943): Q8 GROUP LIMITED → Gulf Flowers FZCO (EMIRATES NBD BANK PJSC, AE300260000515395226402), USD 79 500,00, Invoice 1907Q8GDD19072026 For Flowers Under Contract GFQ8G20260521 dd 21.05.2026. 🟢 (BONBILL Q8, исполнено). Клиент уточняется (маркер «ПП компании Q8»).",
     "calc": null
+  },
+  {
+    "row": 72,
+    "date": "2026-08-26",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": "Выписка ПОЧТОБАНК 26.08.2026 (счёт 40807810100157518600, ОсОО «Блэкшарк Трейд»): приходы ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723): {VO11200} ПП №165 — 9 073 170,53₽ + ПП №169 — 6 829 267,57₽ — Оплата за цветочную продукцию по контракту 25/06-2026 от 25.06.2026 (тело). {VO21100} ПП №166 — 226 829,26₽ + ПП №170 — 170 731,69₽ — вознаграждение Агенту по контракту WD-30 от 25.06.2026 (агентское). rubles_received = 15902438.10 (тело) / 397560.95 (агентское) = 16299999.05. Ждём VDX-заявку.",
+    "rubles_received": "15902438.10 / 397560.95",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
