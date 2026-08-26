@@ -1365,5 +1365,24 @@
     "sent_usdt": null,
     "notes": "VDX-уведомление операционки 26.08 (t23693): с Блэкшарк ПОЧТОБАНК на ВиДиИкс, 16 299 999,05₽ — цветы, заявка 718 от 26.08.2026, ООО ПРИОРИТЕТ МАРКЕТ. Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 26.08.26. Сумма = 15 902 438,10 + 397 560,95 (совпадает). → exchange_to = VDX. | ПП на VDX №? (номер не указан, ждём документ)",
     "calc": null
+  },
+  {
+    "row": 73,
+    "date": "2026-08-26",
+    "sum": 28000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": "28000 + 0.3% + 30 = 28114 USDT",
+    "extra": "Invoice DA-260826-01 dd 26.08.2026. Dolina Agro Ltd (Israel, 10 Bareker str., Industrial Park Caesarea 38900, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 28 000,00 USD, EXW, Truck Interflowers. Roses 35 000 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma). Payment Order 28 000 USD.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 28114,
+    "notes": null,
+    "calc": null
   }
 ]
