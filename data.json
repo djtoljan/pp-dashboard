@@ -1325,7 +1325,7 @@
     "sum": 6987.73,
     "currency": "EUR",
     "company": "VESTORIA",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "НПК ПИКОМ (ЭТБ)",
     "costFormula": "6 987,73 EUR → 8 143 USD → 8143/(1-0.35%)+100 = 8 271,601 USDT",
     "extra": null,
