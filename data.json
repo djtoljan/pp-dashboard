@@ -1364,15 +1364,15 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "34 691,13 + 0.3% + 30 = 34 825,20 USDT",
-    "costFormula": null,
+    "clientName": null,
+    "costFormula": "34 691,13 + 0.3% + 30 = 34 825,20 USDT",
     "extra": "Заявка Тип 4: FREIGHT INVOICE HONG KONG ESENG INTERNATIONAL CO.,LIMITED, INV.AE2607X264 DD 21.07.2026, AG. 41-0101K-0626 dd 15.06.2026. Платит Q8 GROUP LIMITED (согласовано @paykot13). Клиент уточняется.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 34825.2,
     "notes": null,
     "calc": null
   }
