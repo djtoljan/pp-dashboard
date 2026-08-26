@@ -1356,5 +1356,24 @@
     "sent_usdt": null,
     "notes": "Инвойс №203 dd 26.08.2026 от PACIFIC AIR CARGO S.A. (Reg 1791728726001, Av. Nicolas Baquero S/N y 29 de Abril, Tababela, Ecuador; Banco Guayaquil, IBAN 41283319, SWIFT GUAYECEGXXX, Francisco P. Icaza 107 y Pichincha, Guayaquil) → «AVD», LLC (ООО «АВД», 236003 Калининград, Московский пр. 275, каб. 6; ОГРН 1183926000048, ИНН 3906362728, КПП 390601001, счёт 40702810300000024290, КБ «ЭНЕРГОТРАНСБАНК» (АО) Калининград, SWIFT ENGORU2KXXX). Цветы: ROSA 040/050/060/070/080/090/100, DIANTHUS, ALSTRO, ANTIR WHITE — всего 38 350 шт = 20 270,00 USD. Contract №AVD291025 от 29.10.2025, аванс до 30.09.2026, Truck GKA1907F/GKA73003. Маркер «АВД-Fininvest/ЭТБ». Step 0 красный, компания-плательщик уточняется (жду заявку). | Комиссия агента: 1,5% + 100 USD (указание Scream 26.08.2026). 20 270,00 × 1,5% = 304,05 + 100 = 404,05 USD.",
     "calc": null
+  },
+  {
+    "row": 71,
+    "date": "2026-08-26",
+    "sum": 34691.13,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "34 691,13 + 0.3% + 30 = 34 825,20 USDT",
+    "costFormula": null,
+    "extra": "Заявка Тип 4: FREIGHT INVOICE HONG KONG ESENG INTERNATIONAL CO.,LIMITED, INV.AE2607X264 DD 21.07.2026, AG. 41-0101K-0626 dd 15.06.2026. Платит Q8 GROUP LIMITED (согласовано @paykot13). Клиент уточняется.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
