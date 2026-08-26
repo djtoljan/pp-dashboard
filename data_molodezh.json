@@ -801,5 +801,43 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Инвойс PI 260825 dd 25.08.2026 от MINGYAO ELECTRONIC TECHNOLOGY LIMITED (Unit 3, 13/F, New Field Plaza, 1-17 Sai Lau Kok Road, Tsuen Wan, Hong Kong; Candice Ping, candice@tecmiyo.com; HSBC Hong Kong, 1 Queen's Road Central; акк 801692872838, Bank Code 004, Swift HSBCHKHHHKH): 64 GB Class 10 Micro SD Card SS-B-64msd (chip SanDisk, controller CBM Xingbang, write 10MB/s, read 20MB/s, full 64GB) 10 000 pcs × ,90 =  000,00. Покупатель: PT Infinite Sunrise Asia (Jalan Udayana No.164, Buruan, Blahbatuh, Gianyar, Bali 80581, Индонезия). Payment 100% in advance, EXW/FCA/FAS. + Payment Order 49 000,00 USD dd 26/08/2026 (Payment for invoice, GOODS). Маркер «Молодежь» → таблица Молодёжь. Step 0 красный, компания/клиент уточняется. | Клиент: Sensis (указание Scream 25.08). | Поручение Агенту VDX SERVICES - FZCO №1 от 26.08.2026 (аг.договор №9414/BSPB от 20.08.2026): Принципал ООО «Сенсис» (SENSIS CO. LTD., Гаджиев Б.К.) → Агент VDX SERVICES - FZCO. Получатель: MINGYAO ELECTRONIC TECHNOLOGY LIMITED (HSBC Hong Kong, акк 801692872838, SWIFT HSBCHKHHHKH). 49 000,00 USD по контракту MET-SS/2026/BSPB/USD от 17.08.2026, Invoice 260817. Курс 84,41 → 4 136 090,00 ₽. Вознаграждение Агента 41 529,72 ₽. Срок отправки 3 раб. дня. | ПП на VDX №595 от 26.08.2026 (Принято в банке, Ф-л ПАО «БАНК СПБ» в г. Москве, БИК 044525142, электронная подпись подтверждена): 4 136 090,00₽ {VO11100} — Оплата за товар по Поруч.№1 от 26.08.2026 к Агентскому Договору №9414/BSPB от 20.08.2026, Contract MET-SS/2026/BSPB/USD от 17.08.2026, Invoice 260817. ООО «Сенсис» (ИНН 7728599015, 40702810377000006220) → VDX SERVICES-FZCO (ПСБ Ярославль, 40807810000000015414). НДС не облагается. sent_rubles_vdx = 4136090, exchange_to = VDX. | ПП на VDX №597 от 26.08.2026 (Принято в банке, Ф-л ПАО «БАНК СПБ» в г. Москве, БИК 044525142): 41 529,72₽ {VO21100} — Оплата агентского вознаграждения по Поруч.№1 от 26.08.2026, к Агентскому Договору №9414/BSPB от 20.08.2026. ООО «Сенсис» (40702810377000006220) → VDX SERVICES-FZCO (ПСБ Ярославль, 40807810000000015414). НДС не облагается. sent_rubles_vdx = 4136090 / 41529.72 (тело ПП №595 + агентское ПП №597), exchange_to = VDX."
+  },
+  {
+    "row": 43,
+    "date": "2026-08-26",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "1659919.80 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "ПП на VDX №586 от 26.08.2026 ИСПОЛНЕН 15:29:05 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ». Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 1 659 919,80₽. {VO11100} Частичная оплата за товар по инвойсу №PRM-078-PI-PRM 20260803 от 04.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 86,2296). НДС не облагается. → 🔵 (рубли на VDX).",
+    "calc": null
+  },
+  {
+    "row": 44,
+    "date": "2026-08-26",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "215545.69 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "ПП на VDX №587 от 26.08.2026 ИСПОЛНЕН 15:23:32 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ». Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 215 545,69₽. {VO11100} Част.оплата за товар по инв. LNR-195-XYNET-20260824 от 25.08.2026, LNR-196-2026-08-19/1 от 25.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) по курсу 86,1528. НДС не облагается. → 🔵 (рубли на VDX).",
+    "calc": null
   }
 ]
