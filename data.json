@@ -1318,5 +1318,24 @@
     "sent_usdt": null,
     "notes": "Инвойс VCA2026000000243 dd 05.08.2026 от CMV LOJİSTİK ULUS. ARS. NAK. İTH. İHR. TURZ. SAN. TİC. LTD. ŞTİ (Merkez Kuledibi Mah. 130. Sok. Askar Güven Plaza Bina No:3 Kat 8/D 30 Hopa/Artvin, Turkey; Vakıflar Bankası, IBAN TR21 0001 5001 5804 8023 5594 26, SWIFT TVBATR2AXXX): перевозка TÜRKİYE KAYSERİ → RUSYA, транспорт 08 ABL 045 / 08 ABZ 123, 6 600,00 USD, VAT 0%. Покупатель: ETE LLC (ООО «ЕТЕ», 117246 Москва, Научный пр. 17, 37/15). + Поручение экспедитору №73266 dd 05.08.26 (Order to the Freight Forwarder CMV Lojistik): груз сэндвич-панели (84 группа), 27 мест, 15 900 кг, стоимость груза 47 260,14 USD, EXW, маршрут Turkey Kayseri → РФ, Тверская обл., Калининский р-н, пос. Дмитрово-Черкассы, д. 2А. Грузоотправитель: DENER INOVASYON / BILKA OTOMATIK KAPI (Kayseri). Согласованная стоимость ТЭО 6 600 USD. Step 0 красный, компания ждёт заявку.",
     "calc": null
+  },
+  {
+    "row": 69,
+    "date": "2026-08-26",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "НПК ПИКОМ (ЭТБ)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "706600.67 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "VDX-уведомление операционки 26.08: с Блэкшарк ЭНЕРГОТРАНС на ВиДиИкс, 706 600,67₽ — за обивочный материал, заявка 717 от 26.08.2026, ООО НПК ПИКОМ (НПК ПИКОМ Энергостранс). Доки на вход: O:_обменСВЕРКИСВЕРКИ ОКСАНЫВЭДБлэкШаркНПК ПИКОМ Энергострансвход 26.08.26. sent_rubles_vdx = 706600.67, exchange_to = VDX. Ждём заявку/привязку.",
+    "calc": null
   }
 ]
