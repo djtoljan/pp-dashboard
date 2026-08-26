@@ -1220,7 +1220,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 3046.79,
-    "notes": " | Payment Order 2 198,33 GBP dd 25.08.2026 (Заявки Компания Q8): платёж → Lean Business (18 The Sterling Complex, Ipswich, IP1 5AP, UK), Barclays Bank Plc, IBAN GB25 BARC 2044 5180 7448 67, Swift BARCGB22. Invoice No. LB262243 dd 25.08.2026 (CELESTION TSQ2145 2x + TSQ2460 2x, EX WORKS). Консигни: Q8 GROUP LIMITED. Заявка Q8 (ТЕЗ) ⬜ Step 3 — клиент уточняется (маркер «Молодежь»). | Клиент: Эдельвейс Аудио (указание Scream 25.08). | Кросс-курс USD/GBP = 0.730883227293 (FX 26.08: 3040 USD → 2221.88 GBP; GBP/USD = 1.36821) — для расчёта Q8 по сделке в GBP (Эдельвейс Аудио).",
+    "notes": " | Payment Order 2 198,33 GBP dd 25.08.2026 (Заявки Компания Q8): платёж → Lean Business (18 The Sterling Complex, Ipswich, IP1 5AP, UK), Barclays Bank Plc, IBAN GB25 BARC 2044 5180 7448 67, Swift BARCGB22. Invoice No. LB262243 dd 25.08.2026 (CELESTION TSQ2145 2x + TSQ2460 2x, EX WORKS). Консигни: Q8 GROUP LIMITED. Заявка Q8 (ТЕЗ) ⬜ Step 3 — клиент уточняется (маркер «Молодежь»). | Клиент: Эдельвейс Аудио (указание Scream 25.08). | Кросс-курс USD/GBP = 0.730883227293 (FX 26.08: 3040 USD → 2221.88 GBP; GBP/USD = 1.36821) — для расчёта Q8 по сделке в GBP (Эдельвейс Аудио). | BONBILL Q8 26.08.2026 14:14:20 (Payment Certificate, txid O209249584272755916826): Q8 GROUP LIMITED → Lean Business (Barclays Bank Plc, GB25BARC20445180744867), GBP 2 198,33, Invoice LB262243 dd 25.08.2026 (ForSpeakers, CELESTION). 🟢 (BONBILL Q8, исполнено).",
     "calc": "ТЕЗ"
   },
   {
