@@ -519,8 +519,8 @@
     "date": "2026-08-26",
     "sum": 100000,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "INTEGRA",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -530,7 +530,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Инвойс EVOCA S.p.A. №26001931 dd 31.01.2026 (кофемашины OCS PHEDRA EVO / SAE IPER PREMIUM / SAE MAGIC / NEWROYAL, HS 851671, FCA, оплата 150 дней, due 30.06.2026). Покупатель/грузополучатель: Anglesey Food Co (код 195993, Bobur Street 6, Tashkent, Узбекистан). Платёжное поручение (XLSX saga_26001931): 100 000,00 EUR → SAGA COFFEE S.P.A. (Evoca group, UniCredit Banca, UNCRITMMORR, IT13N0200805364000030086010, Largo F. Anzani 3, 00153 Roma), Payment for Invoice 26001931 dd 31.01.26, payer N 195993, coffee machines. Step 0 красный, компания-плательщик уточняется (жду заявку).",
+    "notes": "Инвойс EVOCA S.p.A. №26001931 dd 31.01.2026 (кофемашины OCS PHEDRA EVO / SAE IPER PREMIUM / SAE MAGIC / NEWROYAL, HS 851671, FCA, оплата 150 дней, due 30.06.2026). Покупатель/грузополучатель: Anglesey Food Co (код 195993, Bobur Street 6, Tashkent, Узбекистан). Платёжное поручение (XLSX saga_26001931): 100 000,00 EUR → SAGA COFFEE S.P.A. (Evoca group, UniCredit Banca, UNCRITMMORR, IT13N0200805364000030086010, Largo F. Anzani 3, 00153 Roma), Payment for Invoice 26001931 dd 31.01.26, payer N 195993, coffee machines. Step 0 красный, компания-плательщик уточняется (жду заявку). | Заявка 26.08.2026 (Payment from INTEGRA, OUR): 100 000,00 EUR → SAGA COFFEE S.P.A. (Loc. Casona 1066 Gaggio Montano (Bologna), Italy; UniCredit Banca, Largo F. Anzani 3, 00153 Roma, UNCRITMMORR, IT13N0200805364000030086010). Payment for Invoice 26001931 dd 31.01.26. Компания-плательщик: INTEGRA. ⬜ Step 3.",
     "calc": null
   }
 ]
