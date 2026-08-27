@@ -1382,7 +1382,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "VDX-уведомление операционки 26.08 (t23693): с Блэкшарк ПОЧТОБАНК на ВиДиИкс, 16 299 999,05₽ — цветы, заявка 718 от 26.08.2026, ООО ПРИОРИТЕТ МАРКЕТ. Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 26.08.26. Сумма = 15 902 438,10 + 397 560,95 (совпадает). → exchange_to = VDX. | ПП на VDX №? (номер не указан, ждём документ)",
+    "notes": "VDX-уведомление операционки 26.08 (t23693): с Блэкшарк ПОЧТОБАНК на ВиДиИкс, 16 299 999,05₽ — цветы, заявка 718 от 26.08.2026, ООО ПРИОРИТЕТ МАРКЕТ. Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 26.08.26. Сумма = 15 902 438,10 + 397 560,95 (совпадает). → exchange_to = VDX. | ПП на VDX №524 от 26.08.2026 ИСПОЛНЕНО (АО АКИБ «ПОЧТОБАНК» г. Пермь, 27.08.2026): 16 299 999,05₽ → ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, 40807810000000015414), {VO60081} оплата по агент.дог. №4 от 31.03.2025, заявка 718 от 26.08.2026, цветы, ООО ПРИОРИТЕТ МАРКЕТ",
     "calc": null
   },
   {
@@ -1412,15 +1412,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Dolina Agro (Цветы)",
-    "costFormula": "Invoice DA-260826-02 dd 26.08.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea 38900, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 50 000,00 EUR, EXW, Truck Interflowers. Roses 57 712 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma/Pomarosa). Payment Order 50 000 EUR. ТЕЗ. Ждём кросс-курс EUR для расчёта.",
+    "costFormula": "50 000,00 EUR × 1.1693518964 (FX Q8 27.08) + 0.3% + 30 = 58 673,00 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 58673,
+    "notes": "Кросс-курс EUR/USD = 1.1693518964 (FX Q8 27.08.2026: продажа 58 498 USD → покупка 50 026 EUR, 1 USD = 0.855174565548 EUR, delivery 27.08.2026)",
     "calc": null
   }
 ]
