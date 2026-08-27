@@ -1391,7 +1391,7 @@
     "sum": 28000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "28000 + 0.3% + 30 = 28114 USDT",
     "extra": "Invoice DA-260826-01 dd 26.08.2026. Dolina Agro Ltd (Israel, 10 Bareker str., Industrial Park Caesarea 38900, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 28 000,00 USD, EXW, Truck Interflowers. Roses 35 000 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma). Payment Order 28 000 USD.",
@@ -1401,7 +1401,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 28114,
-    "notes": null,
+    "notes": "BONBILL Payment Certificate 27.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → Dolina Agro Ltd (BANK LEUMI LE-ISRAEL B.M., IL750107440000027660042). 28 000,00 USD. Invoice DA-260826-01 dd 26.08.2026 For Flowers. TXID O2092861894753910784235. EXECUTED 🟢",
     "calc": null
   },
   {
@@ -1410,7 +1410,7 @@
     "sum": 50000,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "50 000,00 EUR × 1.1693518964 (FX Q8 27.08) + 0.3% + 30 = 58 673,00 USDT",
     "extra": null,
@@ -1420,7 +1420,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 58673,
-    "notes": "Кросс-курс EUR/USD = 1.1693518964 (FX Q8 27.08.2026: продажа 58 498 USD → покупка 50 026 EUR, 1 USD = 0.855174565548 EUR, delivery 27.08.2026)",
+    "notes": "Кросс-курс EUR/USD = 1.1693518964 (FX Q8 27.08.2026: продажа 58 498 USD → покупка 50 026 EUR, 1 USD = 0.855174565548 EUR, delivery 27.08.2026) | BONBILL Payment Certificate 27.08.2026 14:56:29 (Тип 7 Q8): Q8 GROUP LIMITED → Dolina Agro Ltd (BANK LEUMI LE-ISRAEL B.M., IL750107440000027660042). 50 000,00 EUR. Invoice DA-260826-02 dd 26.08.2026 For Flowers. TXID O2092868840542306304764. EXECUTED 🟢",
     "calc": null
   }
 ]
