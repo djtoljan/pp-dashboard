@@ -1437,9 +1437,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": "70520",
     "sent_usdt": 70240,
-    "notes": null,
+    "notes": "| Application/Заявка Q8 27.08.2026 (DOCX, «Заявки Компания Q8»): USD 70 000,00 → EBF CARGO CIA LTDA (Av. Simón Bolívar sn y vía Nayón, Ekopark torre 1, Quito, Ecuador; PRODUBANCO, PRODECEQ, a/c 02005153421), transportation services. | IN 70 520 USDT 27.08 (Bobr 08:42 UTC, от TEV72g8Qt... = Цветы доплата) под сделку 70 000 USD (70 000 + 0,6% + 100 = 70 520 ✓, подтверждено Scream 27.08). received_usdt = 70520.",
     "calc": null
   }
 ]
