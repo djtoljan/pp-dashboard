@@ -1429,7 +1429,7 @@
     "sum": 70000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "EBF CARGO (Цветы)",
     "costFormula": "70 000,00 + 0.3% + 30 = 70 240,00 USDT",
     "extra": "Commercial Invoice 2026-6502 dd 26.08.2026 от EBF CARGO CIA LTDA (Av. Simón Bolívar sn y vía Nayón, Centro Corporativo Ekopark torre 1, Quito, Ecuador; PRODUBANCO, SWIFT PRODECEQ, a/c 02005153421) → Q8 Group Limited (80242882, HK). PREPAYMENT FOR AIR TRANSPORTATION SERVICES, 70 000,00 USD, TAX 0%. Unsigned draft. Заявка Q8 27.08.2026.",
@@ -1439,7 +1439,7 @@
     "vdx_rate": null,
     "received_usdt": "70520",
     "sent_usdt": 70240,
-    "notes": "| Application/Заявка Q8 27.08.2026 (DOCX, «Заявки Компания Q8»): USD 70 000,00 → EBF CARGO CIA LTDA (Av. Simón Bolívar sn y vía Nayón, Ekopark torre 1, Quito, Ecuador; PRODUBANCO, PRODECEQ, a/c 02005153421), transportation services. | IN 70 520 USDT 27.08 (Bobr 08:42 UTC, от TEV72g8Qt... = Цветы доплата) под сделку 70 000 USD (70 000 + 0,6% + 100 = 70 520 ✓, подтверждено Scream 27.08). received_usdt = 70520.",
+    "notes": "| Application/Заявка Q8 27.08.2026 (DOCX, «Заявки Компания Q8»): USD 70 000,00 → EBF CARGO CIA LTDA (Av. Simón Bolívar sn y vía Nayón, Ekopark torre 1, Quito, Ecuador; PRODUBANCO, PRODECEQ, a/c 02005153421), transportation services. | IN 70 520 USDT 27.08 (Bobr 08:42 UTC, от TEV72g8Qt... = Цветы доплата) под сделку 70 000 USD (70 000 + 0,6% + 100 = 70 520 ✓, подтверждено Scream 27.08). received_usdt = 70520. | BONBILL Payment Certificate 27.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → EBF CARGO CIA LTDA (PRODUBANCO, PRODECEQ, a/c 02005153421). 70 000,00 USD. Invoice 2026-6502 dd 26.08.2026 For Transportation. TXID O2092908868035280896902. EXECUTED 🟢",
     "calc": null
   }
 ]
