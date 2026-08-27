@@ -1160,6 +1160,25 @@
   },
   {
     "row": 62,
+    "date": "2026-08-22",
+    "sum": 33333.33,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": "Коммерческий инвойс AA-Q8-2026-0822 dd 22.08.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No.15, Fl.9, of.908, Burgas 8000, Bulgaria; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 33 333,33 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
+  },
+  {
+    "row": 63,
     "date": "2026-08-24",
     "sum": null,
     "currency": null,
@@ -1178,7 +1197,7 @@
     "calc": null
   },
   {
-    "row": 63,
+    "row": 64,
     "date": "2026-08-24",
     "sum": 30000,
     "currency": "USD",
@@ -1197,7 +1216,7 @@
     "calc": null
   },
   {
-    "row": 64,
+    "row": 65,
     "date": "2026-08-24",
     "sum": 7000,
     "currency": "USD",
@@ -1216,7 +1235,7 @@
     "calc": null
   },
   {
-    "row": 65,
+    "row": 66,
     "date": "2026-08-24",
     "sum": 15000,
     "currency": "USD",
@@ -1235,7 +1254,7 @@
     "calc": null
   },
   {
-    "row": 66,
+    "row": 67,
     "date": "2026-08-24",
     "sum": 15000,
     "currency": "USD",
@@ -1254,7 +1273,7 @@
     "calc": null
   },
   {
-    "row": 67,
+    "row": 68,
     "date": "2026-08-24",
     "sum": 45000,
     "currency": "USD",
@@ -1273,7 +1292,7 @@
     "calc": null
   },
   {
-    "row": 68,
+    "row": 69,
     "date": "2026-08-24",
     "sum": 5000,
     "currency": "USD",
@@ -1292,7 +1311,7 @@
     "calc": null
   },
   {
-    "row": 69,
+    "row": 70,
     "date": "2026-08-25",
     "sum": null,
     "currency": null,
@@ -1310,7 +1329,7 @@
     "notes": "Выписка Блэкшарк ПОЧТОБАНК 25.08.2026: {VO11200} ПП №159 от 25.08 — ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723), 11 219 512,14₽ — Оплата за цветочную продукцию по контракту 25/06-2026 от 25.06.2026 (тело). + {VO21100} ПП №160 — 280 487,80₽ — Оплата вознаграждения Агенту по контракту WD-30 от 25.06.2026 (агентское). rubles_received = 11219512.14 / 280487.80. | VDX-уведомление операционки 26.08 (заявка 716 от 25.08.26, доки вход 25.08.26): с Блэкшарк ПОЧТОБАНК на ВиДиИкс, 11 499 999,94₽ — цветы, ООО ПРИОРИТЕТ МАРКЕТ. Сумма = 11 219 512,14 (тело) + 280 487,80 (агентское) — совпадает. sent_rubles_vdx = 11499999.94, exchange_to = VDX. Ждём VDX-таблицу (курс/тез) для received_usdt. | ПП на VDX №522 от 26.08.2026 ИСПОЛНЕНО (АО АКИБ «ПОЧТОБАНК» г. Пермь, БИК 045773705, 13:24 GMT+05): 11 499 999,94₽ {VO60081} — Оплата по агент.дог. №4 от 31.03.2025, согл. заяв.716 от 26.08.2026 за цветы. ОсОО «Блэкшарк Трейд» (40807810100157518600) → ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, 40807810000000015414). НДС не облагается."
   },
   {
-    "row": 70,
+    "row": 71,
     "date": "2026-08-25",
     "sum": 50656,
     "currency": "USD",
@@ -1329,7 +1348,7 @@
     "calc": null
   },
   {
-    "row": 71,
+    "row": 72,
     "date": "2026-08-26",
     "sum": 79500,
     "currency": "USD",
@@ -1348,7 +1367,7 @@
     "calc": null
   },
   {
-    "row": 72,
+    "row": 73,
     "date": "2026-08-26",
     "sum": null,
     "currency": null,
@@ -1367,7 +1386,7 @@
     "calc": null
   },
   {
-    "row": 73,
+    "row": 74,
     "date": "2026-08-26",
     "sum": 28000,
     "currency": "USD",
@@ -1386,7 +1405,7 @@
     "calc": null
   },
   {
-    "row": 74,
+    "row": 75,
     "date": "2026-08-26",
     "sum": 50000,
     "currency": "EUR",
@@ -1395,25 +1414,6 @@
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "Invoice DA-260826-02 dd 26.08.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea 38900, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 50 000,00 EUR, EXW, Truck Interflowers. Roses 57 712 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma/Pomarosa). Payment Order 50 000 EUR. ТЕЗ. Ждём кросс-курс EUR для расчёта.",
     "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
-  },
-  {
-    "row": 75,
-    "date": "2026-08-22",
-    "sum": 33333.33,
-    "currency": "EUR",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "Atlantic Avrora (Цветы)",
-    "costFormula": null,
-    "extra": "Коммерческий инвойс AA-Q8-2026-0822 dd 22.08.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No.15, Fl.9, of.908, Burgas 8000, Bulgaria; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 33 333,33 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
