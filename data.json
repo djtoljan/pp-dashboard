@@ -1278,7 +1278,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Инвойс FK 8/2026 от 27.07.2026 (Faktura końcowa, LEMAKOGROUP → LLC Professional): печенье LOTUS BISCOFF 250г 1000шт, крем BISCOFF Crunchy 380г 300шт, крем BISCOFF Gladki 400г 300шт, Organic Bourbon vanilla extract L80 80шт = 5 620,00 EUR, VAT 0%, EXW Olsztyn, 1 паллета. К оплате по поручению: 3 620,00 EUR. | Инвойс FK 9/2026 от 13.08.2026 (Faktura końcowa, LEMAKOGROUP → LLC Professional): ваниль L80 60шт 1 500 + ваниль L80/75мл 100шт 400 + BISCOFF Crunchy 350шт 1 155 + BISCOFF Gladki 100шт 330 + LEA & PERRINS WORCESTER SOS 290мл 1200шт 2 952 = 6 337,00 EUR, аванс FZ 8/2026 1 900,00 → due 4 437,00 EUR, VAT 0%. К оплате по поручению: 2 952,00 EUR. Итого по поручению №7: 6 572,00 EUR.",
+    "notes": "Инвойс FK 8/2026 от 27.07.2026 (Faktura końcowa, LEMAKOGROUP → LLC Professional): печенье LOTUS BISCOFF 250г 1000шт, крем BISCOFF Crunchy 380г 300шт, крем BISCOFF Gladki 400г 300шт, Organic Bourbon vanilla extract L80 80шт = 5 620,00 EUR, VAT 0%, EXW Olsztyn, 1 паллета. К оплате по поручению: 3 620,00 EUR. | Инвойс FK 9/2026 от 13.08.2026 (Faktura końcowa, LEMAKOGROUP → LLC Professional): ваниль L80 60шт 1 500 + ваниль L80/75мл 100шт 400 + BISCOFF Crunchy 350шт 1 155 + BISCOFF Gladki 100шт 330 + LEA & PERRINS WORCESTER SOS 290мл 1200шт 2 952 = 6 337,00 EUR, аванс FZ 8/2026 1 900,00 → due 4 437,00 EUR, VAT 0%. К оплате по поручению: 2 952,00 EUR. Итого по поручению №7: 6 572,00 EUR. | PDF Поручения №7 от 27.08.2026: курс конвертации 99,56 (НЕ vdx_rate), сумма к перечислению 654 308,32₽, комиссия агента 1,85% + 100$ (1,85% = 12 104,70₽ + 100$ = 8 536₽) = 20 640,70₽. Условие выполнения: получение Агентом скан-копии SWIFT/ПП.",
     "calc": null
   },
   {
