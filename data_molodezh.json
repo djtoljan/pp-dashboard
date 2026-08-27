@@ -943,16 +943,16 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "13 750,00 + 0.3% + 30 = 13 821,25 USDT",
-    "costFormula": null,
+    "clientName": null,
+    "costFormula": "13 750,00 + 0.3% + 30 = 13 821,25 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 13821.25,
+    "notes": "Инвойс OC202608183 dd 18.08.2026 (Proforma) + PO DOCX 27.08: WANPOWER GLOBAL CO., LIMITED (ROOM A1 11/F WINNER BUILDING 36 MAN YUE STREET HUNG HOM KL; China Construction Bank (Asia), SWIFT CCBQHKAXXXX, a/c 846210426909), 25 шт Seagate WUH721814AL5204 HDD × 550 USD = 13 750,00 USD. Покупатель: Q8 GROUP LIMITED.",
     "calc": null
   }
 ]
