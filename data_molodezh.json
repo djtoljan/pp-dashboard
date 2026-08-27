@@ -935,5 +935,24 @@
     "sent_usdt": null,
     "notes": "Поручение №15 от 27.08.2026 (аг.договор №09-02-2/26 от 09.02.2026, ООО «ЭКСПЕРТ» → VDX SERVICES - FZCO): тело для YIWU YINJI TRADING FIRM за товар по AG.-OF. №13082026, PR.IN. L045SH2320260813001 от 13.08.2026. ПП №364 от 27.08.2026 — 932 332,09₽ {VO11100} (тело). ПП №365 от 27.08.2026 — 35 980,26₽ {VO21100} (агентское по поручению №15). Принято 27.08.2026. → exchange_to = VDX. ПП на VDX №? (номер не указан, ждём документ).",
     "calc": null
+  },
+  {
+    "row": 50,
+    "date": "2026-08-27",
+    "sum": 13750,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "13 750,00 + 0.3% + 30 = 13 821,25 USDT",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
