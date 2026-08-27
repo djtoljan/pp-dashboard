@@ -1413,5 +1413,24 @@
     "sent_usdt": 47694.57,
     "notes": "| IN 47 909 USDT 27.08 (Bobr 08:35 UTC, от TS4s1fSUFP...) под сделку 47 522,00 USD (подтверждено Scream 27.08: клиент VDX, компания Q8). received_usdt = 47909 (47 522 × 1.00814 ≈ 47 909).",
     "calc": null
+  },
+  {
+    "row": 74,
+    "date": "2026-08-27",
+    "sum": 4037.5,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": "Проформа-инвойс HXX20260826 dd 26.08.2026 от Guangzhou Tinlee Leather Co., Ltd (4 Floor, 1 Block, No.3 Zhenda Road, Huadu District, GuangZhou, China; BANK OF CHINA GUANGDONG BRANCH, Swift bkchcnbj400, a/c 718565384704) → WTC (ВТС). Makeup bag (vegan leather, Beige, 29*16cm) 2 500 pcs × .23 = 8 075,00 USD. Contract №24-07/01 dd 24.07.2026, EXW Guangzhou. Terms: 50% deposit + balance before shipping. 27.08: переводим 50% = 4 037,50 USD, плательщик Q8 GROUP LIMITED.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
