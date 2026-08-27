@@ -1460,5 +1460,24 @@
     "sent_usdt": 19387.9,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 78,
+    "date": "2026-08-28",
+    "sum": 75000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ALIANZA LOGISTICS (Цветы)",
+    "costFormula": "75000 + 0.3% + 30 = 75255 USDT",
+    "extra": "Инвойс 10013086 dd 27.08.2026 (ALIANZA LOGISTIKA TDGE S.A., Ave. InterOceanica OE6-73 y Gonzalez Suarez, Tumbaco, Quito - Ecuador; PRODUBANCO, PRODECEQ, 02005144694). Payer: Q8 GROUP LIMITED (80242882). Air logistics services, 75 000.00 USD. Ордер ALIANZA_Q8_75000_USD_27-08-2026 (реквизиты DOCX).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 75255,
+    "notes": null,
+    "calc": null
   }
 ]
