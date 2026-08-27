@@ -1422,5 +1422,24 @@
     "sent_usdt": 58673,
     "notes": "Кросс-курс EUR/USD = 1.1693518964 (FX Q8 27.08.2026: продажа 58 498 USD → покупка 50 026 EUR, 1 USD = 0.855174565548 EUR, delivery 27.08.2026) | BONBILL Payment Certificate 27.08.2026 14:56:29 (Тип 7 Q8): Q8 GROUP LIMITED → Dolina Agro Ltd (BANK LEUMI LE-ISRAEL B.M., IL750107440000027660042). 50 000,00 EUR. Invoice DA-260826-02 dd 26.08.2026 For Flowers. TXID O2092868840542306304764. EXECUTED 🟢",
     "calc": null
+  },
+  {
+    "row": 76,
+    "date": "2026-08-27",
+    "sum": 70000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "EBF CARGO (Цветы)",
+    "costFormula": null,
+    "extra": "Commercial Invoice 2026-6502 dd 26.08.2026 от EBF CARGO CIA LTDA (Av. Simón Bolívar sn y vía Nayón, Centro Corporativo Ekopark torre 1, Quito, Ecuador; PRODUBANCO, SWIFT PRODECEQ, a/c 02005153421) → Q8 Group Limited (80242882, HK). PREPAYMENT FOR AIR TRANSPORTATION SERVICES, 70 000,00 USD, TAX 0%. Unsigned draft. Заявка Q8 27.08.2026.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
