@@ -1401,7 +1401,7 @@
     "sum": 47522,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "47 522,00 + 0.3% + 30 = 47694,57 USDT",
     "extra": "Инвойс SAIC20260825001 dd 25.08.2026 от SAIC ELECTRONICS LIMITED (Unit B, 22/F Arthur Commercial Building, 33 Arthur Street, Yau Ma Tei, KL; HSBC Hong Kong, 1 Queen's Road Central, SWIFT HSBCHKHHHKH, a/c 491-793683-838, Bank Code 004): 18 pcs Samsung MZILT3T8HBLS-00007 × US,640.00 = US,522.00, 100% ADVANCE. Клиент VDX, компания Q8 (Scream 27.08).",
@@ -1411,7 +1411,7 @@
     "vdx_rate": null,
     "received_usdt": "47909",
     "sent_usdt": 47694.57,
-    "notes": "| IN 47 909 USDT 27.08 (Bobr 08:35 UTC, от TS4s1fSUFP...) под сделку 47 522,00 USD (подтверждено Scream 27.08: клиент VDX, компания Q8). received_usdt = 47909 (47 522 × 1.00814 ≈ 47 909).",
+    "notes": "| IN 47 909 USDT 27.08 (Bobr 08:35 UTC, от TS4s1fSUFP...) под сделку 47 522,00 USD (подтверждено Scream 27.08: клиент VDX, компания Q8). received_usdt = 47909 (47 522 × 1.00814 ≈ 47 909). | BONBILL Payment Certificate 27.08.2026 18:17:36 (Тип 7 Q8): Q8 GROUP LIMITED → SAIC ELECTRONICS LIMITED (Hongkong and Shanghai Banking Corporation Limited, a/c 491-793683-838). 47 522,00 USD. Invoice SAIC20260825001 dd 25.08.2026 For Electronic. TXID O2092919449593184256169. EXECUTED 🟢",
     "calc": null
   },
   {
