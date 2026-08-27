@@ -878,5 +878,43 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 47,
+    "date": "2026-08-27",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Эксперт (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "3033383.50 / 63267.71 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №13 от 27.08.2026 (аг.договор №09-02-2/26 от 09.02.2026, ООО «ЭКСПЕРТ» → VDX SERVICES - FZCO): тело для KBP за товар по cont.476-EX24082026 от 24.08.2026, PR.IN. BB2616 от 24.08.2026. ПП №362 от 27.08.2026 — 3 033 383,50₽ {VO11100} (тело, Юникредит → ПСБ Ярославль, сч. 40807810000000015414). ПП №363 от 27.08.2026 — 63 267,71₽ {VO21100} (агентское по поручению №13). Проведено 27.08.2026. → exchange_to = VDX. ПП на VDX №? (номер не указан, ждём документ).",
+    "calc": null
+  },
+  {
+    "row": 48,
+    "date": "2026-08-27",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Эксперт (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "832320.88 / 35980.26 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №15 от 27.08.2026 (аг.договор №09-02-2/26 от 09.02.2026, ООО «ЭКСПЕРТ» → VDX SERVICES - FZCO): тело для ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD за товар по cont.321-EX170323 dd 17.03.2023, PR.IN. №HZH2026E60572 dd 14.08.2026. ПП №360 от 27.08.2026 — 832 320,88₽ {VO11100} (тело, Юникредит → ПСБ Ярославль, сч. 40807810000000015414). ПП №365 от 27.08.2026 — 35 980,26₽ {VO21100} (агентское по поручению №15). Проведено 27.08.2026. → exchange_to = VDX. ПП на VDX №? (номер не указан, ждём документ).",
+    "calc": null
   }
 ]
