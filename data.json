@@ -1424,13 +1424,13 @@
     "clientName": "ВТС",
     "costFormula": "4 037,50 + 0.3% + 30 = 4 079,61 USDT",
     "extra": "Проформа-инвойс HXX20260826 dd 26.08.2026 от Guangzhou Tinlee Leather Co., Ltd (4 Floor, 1 Block, No.3 Zhenda Road, Huadu District, GuangZhou, China; BANK OF CHINA GUANGDONG BRANCH, Swift bkchcnbj400, a/c 718565384704) → WTC (ВТС). Makeup bag (vegan leather, Beige, 29*16cm) 2 500 pcs × .23 = 8 075,00 USD. Contract №24-07/01 dd 24.07.2026, EXW Guangzhou. Terms: 50% deposit + balance before shipping. 27.08: переводим 50% = 4 037,50 USD, плательщик Q8 GROUP LIMITED.",
-    "rubles_received": null,
+    "rubles_received": "346619.38 / 13784.08",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 4079.61,
-    "notes": null,
+    "notes": "| Выписка БиТрейд ВТБ 27.08.2026 (счёт 40807810525640000008): приходы от ООО «ВТС» (ИНН 7735171132, счёт 40702810738000140608): ПП №4016 — 346 619,38₽ (тело, 4 037,50 USD × 85,85 ✓) + ПП №4017 — 13 784,08₽ (агентское 160,56 USD = 1,5% + 100$ × 85,85 ✓). rubles_received = 346619.38 / 13784.08. (Курс 85,85 — НЕ vdx_rate). Дебет счёта 27.08: ПП №80 565 820,99₽ на ВиДиИкс — это отдельная отправка (Main row 68, ЕТЕ, уже обработана). Банковская комиссия 690,30₽ не включается.",
     "calc": "ТЕЗ"
   }
 ]
