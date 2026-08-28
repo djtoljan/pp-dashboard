@@ -1478,7 +1478,7 @@
     "company": "LUXORA",
     "color": "FFFFFFFF",
     "clientName": "Дре Русланд",
-    "costFormula": "(7 150,00 EUR) 8325/(1-0.35%)+100 = 8454 USDT",
+    "costFormula": "(7 150,00 EUR) 8325/(1-0.35%)+100 = 8454 USDT; 8454 * 85,9541 / 0,995 = 730 307,50 руб",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
