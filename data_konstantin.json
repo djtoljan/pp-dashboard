@@ -551,5 +551,43 @@
     "sent_usdt": 251518,
     "notes": "| Проформа-инвойс 90218514 dd 07.08.2026 (PDF, «Константин Просто Группа»): DE'LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338, TRN 100352486300003; EMIRATES NBD, EBILAEAD) → ALSAHAM ALMUNEER GOODS WHOLESALERS L.L.C (Floor 23/24 Sheikh Zayed Road, The One Tower, Dubai, Account 390114, Tax Reg 693465). Товары: Braun IS7286BK SS INT ×3052 = 363 188,00 USD + IS9090BK SS INT ×2950 = 472 000,00 USD (HS 85164000, Китай). ИТОГО 835 188,00 USD, EX WORKS, PAYMENT IN ADVANCE, Order 115552061. Платёж 250 267,00 USD = предоплата по этому инвойсу (payer N 693465). | IN 27.08.2026 (2 транзакции, подтверждено Scream — под заявку 250 267,00): 230 000 USDT (10:07 UTC, от TWNpTxj7...) + 22 269,14 USDT (10:06 UTC, от TWhNDpeua...) = 252 269,14 USDT. received_usdt = 230000 / 22269.14. Q9 отправлены (🟢 ВХОД ×2 — Константин (Просто группа)), леджер записан. | Заявка 27.08.2026 («Ордера и Расчеты», INV_250_267_00_USD): Payment from INFINITE ❗ → DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD Al Qusais, SWIFT EBILAEAD, a/c AE690260000514449097303), Proforma-Invoice 90218514 dd 07.08.26, 250 267,00 USD, OUR. Компания = INFINITE. | Outgoing Remittance SWF32080814 (BRI Qlola Cash Mgmt, «Платежные Поручения») 28.08.2026 Status Success, Value Date 28/08/2026 13:51:03: INFINITE SUNRISE ASI (BRI, 0590********305) → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD BANK PJSC, EBILAEADXXX, AE690260000514449097303), 250 267,00 USD, Remark \"inv: 90218514\", ref 0374029094591703, UETR f42b397a-855a-4953-a99c-7a4de9868f7b, Total Fee 33,95. 🟢 EXECUTED.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 30,
+    "date": "2026-08-28",
+    "sum": 45535,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Проформа-инвойс 26-010-000127 dd 17.07.2026 (važi do 01.08.2026) от 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Сербия; Matični 17485059, PIB 102893403; текс. счёт 325-9500600027464-11). Покупатель: Q8 GROUP LIMITED (Room A22 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg 80242882-000-04-26-6). Товар: Smeg Kettle KLF03CREU ×96 = 8 448,00 + Smeg Toaster TSF01CREU ×25 = 2 200,00 + KitchenAid Tea Kettle 5KEK1522ECA ×10 = 1 270,00 + 5KEK1522EER ×10 = 1 270,00 + 5KEK1522EPT ×10 = 1 267,00 + BREVILLE Vaffle maker VST072X ×700 = 31 080,00. ИТОГО 45 535,00 EUR, 0% PDV. | Заявка 27.08.2026 (Application for transfer 45_535.00_EUR_27.08.2026): Payment for household appliances to invoice No. 26-010-000127 dd 17.07.2026. Beneficiary: 220-B d.o.o. (OTP BANKA SRBIJA A.D., BULEVAR OSLOBODJENJA 80, NOVI SAD, IBAN RS35325960160000415772, SWIFT OTPVRS22). Платит Q8. Ждём кросс-курс EUR→USD для расчёта.",
+    "calc": "ТЕЗ"
+  },
+  {
+    "row": 31,
+    "date": "2026-08-28",
+    "sum": 62866,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": "62 866,00 + 0.3% + 30 = 63 084,60 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 63084.6,
+    "notes": "Invoice and Packing List N 135-2026 dd 11.08.2026 от PT GEDE ARTHA SAMUDRA (Jalan Raya Kenderan, Desa/Kelurahan Kenderan, Kec. Tegallalang, Kab. Gianyar, Provinsi Bali, Индонезия; TIN 626417125907000; email pt.gas.id@gmail.com). Principal: Q8 Group Limited (HK). Payment agent: PT GEDE ARTHA SAMUDRA. Товар: electric goods, 1 lot = 62 866,00 USD. Terms of delivery: goods do not pass custom border of Indonesia. Payment within 180 days from date of invoice. Банк: PT. BANK RAKYAT INDONESIA (PERSERO) TBK (BRI I Building, Jalan Jenderal Sudirman 44-46, SWIFT BRINIDJA, USD a/c 055602000043300; корр.: SCBLUS33, IRVTUS3N, CITIUS33, BRINUS33, BOFAUS3N, OCBCSGSG, CZNBKRSE, BRINSGSG). | Заявка 27.08.2026 (Application for transfer 62866_USD_27.08.2026): 62 866,00 USD. Beneficiary: PT GEDE ARTHA SAMUDRA (BRI, BRINIDJA, USD a/c 055602000043300). Платит Q8. Q8-расчёт: 62 866 + 0.3% + 30 = 63 084,60 USDT.",
+    "calc": "ТЕЗ"
   }
 ]
