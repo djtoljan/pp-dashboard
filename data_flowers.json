@@ -1448,7 +1448,7 @@
     "sum": 19300,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Novpec (Цветы)",
     "costFormula": "19 300,00 + 0.3% + 30 = 19 387,90 USDT",
     "extra": null,
@@ -1458,7 +1458,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 19387.9,
-    "notes": null,
+    "notes": "BONBILL Payment Certificate 28.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → BONBILL LIMITED. 19 300,00 USD. Invoice 10642 DD20082026 For Flowers (Novpec). TXID O2093232414158618624577. EXECUTED → 🟢",
     "calc": null
   },
   {
@@ -1467,7 +1467,7 @@
     "sum": 75000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ALIANZA LOGISTICS (Цветы)",
     "costFormula": "75000 + 0.3% + 30 = 75255 USDT",
     "extra": "Инвойс 10013086 dd 27.08.2026 (ALIANZA LOGISTIKA TDGE S.A., Ave. InterOceanica OE6-73 y Gonzalez Suarez, Tumbaco, Quito - Ecuador; PRODUBANCO, PRODECEQ, 02005144694). Payer: Q8 GROUP LIMITED (80242882). Air logistics services, 75 000.00 USD. Ордер ALIANZA_Q8_75000_USD_27-08-2026 (реквизиты DOCX).",
@@ -1477,7 +1477,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 75255,
-    "notes": null,
+    "notes": "BONBILL Payment Certificate 28.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → LOGIZTIK-GROUP (ALIANZA LOGISTIKA TDGE S.A., PRODUBANCO, PRODECEQ, 02005144694). 75 000,00 USD. Invoice 10013086 dd 27.08.2026 For Air Logistics. TXID O209323312322668134484. EXECUTED → 🟢",
     "calc": null
   },
   {
@@ -1486,7 +1486,7 @@
     "sum": 67298.11,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "67 298,11 × 1.168639 + 0.3% + 30 = 78913.14 USDT",
     "extra": "Коммерческий инвойс AA-Q8-2026-0827 dd 27.08.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No.15, Fl.9, of.908, Burgas 8000, Bulgaria; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 67 298,11 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR->USD ждём для расчёта Q8.",
@@ -1496,7 +1496,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 78913.14,
-    "notes": "Кросс-курс EUR/USD = 1.168639 (FX Q8 28.08.2026: 78 678 USD → 67 324,46 EUR, 1 USD = 0.855696238947 EUR). Привязан Scream 28.08 «Под заявку 67 298,11» к row 79. Q8-расчёт: 67 298,11 × 1.168639 + 0.3% + 30 = 78913.14 USDT.",
+    "notes": "Кросс-курс EUR/USD = 1.168639 (FX Q8 28.08.2026: 78 678 USD → 67 324,46 EUR, 1 USD = 0.855696238947 EUR). Привязан Scream 28.08 «Под заявку 67 298,11» к row 79. Q8-расчёт: 67 298,11 × 1.168639 + 0.3% + 30 = 78913.14 USDT. | BONBILL Payment Certificate 28.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → BONBILL LIMITED. 67 298,11 EUR. Invoice DD27082026 For Flowers (Atlantic Avrora, AA-Q8-2026-0827). TXID O2093235045778194432525. EXECUTED → 🟢",
     "calc": null
   }
 ]

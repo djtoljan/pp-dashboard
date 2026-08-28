@@ -942,7 +942,7 @@
     "sum": 13750,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Вилог",
     "costFormula": "13 750,00 + 0.3% + 30 = 13 821,25 USDT",
     "extra": null,
@@ -952,7 +952,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 13821.25,
-    "notes": "Инвойс OC202608183 dd 18.08.2026 (Proforma) + PO DOCX 27.08: WANPOWER GLOBAL CO., LIMITED (ROOM A1 11/F WINNER BUILDING 36 MAN YUE STREET HUNG HOM KL; China Construction Bank (Asia), SWIFT CCBQHKAXXXX, a/c 846210426909), 25 шт Seagate WUH721814AL5204 HDD × 550 USD = 13 750,00 USD. Покупатель: Q8 GROUP LIMITED. | Клиент: Вилог (Scream 27.08.2026).",
+    "notes": "Инвойс OC202608183 dd 18.08.2026 (Proforma) + PO DOCX 27.08: WANPOWER GLOBAL CO., LIMITED (ROOM A1 11/F WINNER BUILDING 36 MAN YUE STREET HUNG HOM KL; China Construction Bank (Asia), SWIFT CCBQHKAXXXX, a/c 846210426909), 25 шт Seagate WUH721814AL5204 HDD × 550 USD = 13 750,00 USD. Покупатель: Q8 GROUP LIMITED. | Клиент: Вилог (Scream 27.08.2026). | BONBILL Payment Certificate 28.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → WANPOWER GLOBAL CO., LIMITED. 13 750,00 USD. Invoice OC202608183 dd 18.08.2026 For ElParts. TXID O2093231862007857152616. EXECUTED → 🟢",
     "calc": null
   }
 ]
