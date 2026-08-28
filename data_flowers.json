@@ -1498,5 +1498,23 @@
     "sent_usdt": 78913.14,
     "notes": "Кросс-курс EUR/USD = 1.168639 (FX Q8 28.08.2026: 78 678 USD → 67 324,46 EUR, 1 USD = 0.855696238947 EUR). Привязан Scream 28.08 «Под заявку 67 298,11» к row 79. Q8-расчёт: 67 298,11 × 1.168639 + 0.3% + 30 = 78913.14 USDT. | BONBILL Payment Certificate 28.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → BONBILL LIMITED. 67 298,11 EUR. Invoice DD27082026 For Flowers (Atlantic Avrora, AA-Q8-2026-0827). TXID O2093235045778194432525. EXECUTED → 🟢",
     "calc": null
+  },
+  {
+    "row": 80,
+    "date": "2026-08-28",
+    "sum": 12000,
+    "currency": "USD",
+    "company": "Q8",
+    "clientName": "CERES FRAMS (Цветы)",
+    "color": "FFFFFFFF",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": 12172,
+    "sent_usdt": 12066,
+    "costFormula": "12 000 + 0.3% + 30 = 12 066 USDT",
+    "calc": null,
+    "notes": "Заявка (Application for transfer) CERES FRAMS 12 000 USD (маркер «📨 Заявки Компания Q8»): THE AMOUNT USD 12 000. Beneficiary: CERES FRAMS (Via Tabacundo km 6 sector Cananvalle, Tabacundo-Ecuador). PRODUBANCO (AV. SIMON BOLIVAR VIA NAYON, QUITO ECUADOR), a/c 02005153545, SWIFT PRODECEQ. Intermediary: JPMORGAN CHASE BANK NA (CHASUS33), corr 512063592. Payment: Payment for flowers invoice 23-0924 dd 23.09.2024. Компания Q8. | IN 28.08.2026 под заявку: 12 172 USDT (Bobr, от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 → Рабочий 4, txid 123fe1bad5ef6cb84ea4dbfa27e7b0ed07c3f0f1242ab81ab937b331b62eb16a, Q9 🟢 ВХОД — Цветы). received_usdt = 12172."
   }
 ]
