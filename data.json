@@ -1469,5 +1469,24 @@
     "costFormula": null,
     "calc": null,
     "notes": "Выписка ВТБ БиТрейд 28.08 (счёт 40807810525640000008): {VO21200} ПП №475 от 28.08 — 19 195,01₽ Агентское вознаграждение за платёж Поставщику, контракт 22/05 от 22.05.2025 (ООО «ЭКСПРЕСС-ОРТО», ИНН 7722821513, счёт 40702810700000237677). ⚠️ Заявка/поручение не найдены — 🔵 рубли без заявки (guard-before-create: совпадений нет)."
+  },
+  {
+    "row": 77,
+    "date": "2026-08-28",
+    "sum": 7150,
+    "currency": "EUR",
+    "company": "LUXORA",
+    "color": "FFFFFFFF",
+    "clientName": "Дре Русланд",
+    "costFormula": "(7 150,00 EUR) 8325/(1-0.35%)+100 = 8454 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 8454,
+    "notes": null,
+    "calc": null
   }
 ]
