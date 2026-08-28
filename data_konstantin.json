@@ -591,5 +591,21 @@
     "sent_usdt": 63084.6,
     "notes": "Invoice and Packing List N 135-2026 dd 11.08.2026 от PT GEDE ARTHA SAMUDRA (Jalan Raya Kenderan, Desa/Kelurahan Kenderan, Kec. Tegallalang, Kab. Gianyar, Provinsi Bali, Индонезия; TIN 626417125907000; email pt.gas.id@gmail.com). Principal: Q8 Group Limited (HK). Payment agent: PT GEDE ARTHA SAMUDRA. Товар: electric goods, 1 lot = 62 866,00 USD. Terms of delivery: goods do not pass custom border of Indonesia. Payment within 180 days from date of invoice. Банк: PT. BANK RAKYAT INDONESIA (PERSERO) TBK (BRI I Building, Jalan Jenderal Sudirman 44-46, SWIFT BRINIDJA, USD a/c 055602000043300; корр.: SCBLUS33, IRVTUS3N, CITIUS33, BRINUS33, BOFAUS3N, OCBCSGSG, CZNBKRSE, BRINSGSG). | Заявка 27.08.2026 (Application for transfer 62866_USD_27.08.2026): 62 866,00 USD. Beneficiary: PT GEDE ARTHA SAMUDRA (BRI, BRINIDJA, USD a/c 055602000043300). Платит Q8. Q8-расчёт: 62 866 + 0.3% + 30 = 63 084,60 USDT. | BONBILL Payment Certificate 28.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → PT. BANK RAKYAT INDONESIA (PERSERO) TBK (BRI, USD a/c 055602000043300, SWIFT BRINIDJA). 62 866,00 USD. Invoice 135-2026 dd 11.08.2026 For El Goods (PT GEDE ARTHA SAMUDRA, Bali, Индонезия). TXID O2093249526197518336102. EXECUTED → 🟢",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 32,
+    "date": "2026-08-28",
+    "sum": 251029,
+    "currency": "USD",
+    "company": null,
+    "clientName": "Константин (Просто группа)",
+    "color": "FFFFFFFF",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "costFormula": null,
+    "calc": null,
+    "notes": "Проформа-инвойс 90218959 dd 27.08.2026 (De'Longhi Kenwood MEIA FZE, Jafza View 18 LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338, TRN 100352486300003) → MIA Group of Companies (PVT) LTD (STREET #16, INDUSTRIAL AREA, ISLAMABAD, PAKISTAN 44000). Товары (Order 115552061): Braun IS7286BK SS INT ×3052 = 363 188,00 + IS9090BK SS INT ×2950 = 472 000,00 (HS 85164000, Китай) = ИТОГО 835 188,00 USD, EX WORKS, PAYMENT IN ADVANCE, sea/shipment, valid up to 03.09.2026. Account No. 697497. | Application for transfer DeLonghiKenwood_251_029_00_USD 28.08.2026: Prepayment for Proforma-Invoice 90218959 dd 27.08.26, payer N 697497 for home appliances. Бенефициар: DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, Dubai, SWIFT EBILAEAD, a/c AE690260000514449097303). Сумма 251 029,00 USD. ⚠️ Тот же заказ 115552061/сумма 835 188, что и row 29 (проформа 90218514, ALSAHAM ALMUNEER) — возможно перевыставление; уточнить у Scream."
   }
 ]
