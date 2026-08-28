@@ -980,42 +980,6 @@
     "sum": null,
     "currency": null,
     "company": null,
-    "clientName": "Кристалл Джет",
-    "color": "FF4FC3F7",
-    "rubles_received": null,
-    "sent_rubles_vdx": "452177.14 (VDX)",
-    "exchange_to": "VDX",
-    "vdx_rate": 85.95,
-    "received_usdt": "5255.67",
-    "sent_usdt": null,
-    "costFormula": null,
-    "calc": null,
-    "notes": "ПП №454 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724). Плательщик: ООО «Кристалл Джет» (ИНН 7717665139, КПП 771401001). Получатель: ВИДИИКС СЕРВИСЕЗ - ФЗКО (ИНН 9909710068, КПП 772887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 452 177,14₽. {VO21400} Оплата за услуги по договору 210701/PJ от 01.07.2021 НДС не облагается. ⚠️ Договор 210701/PJ в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX."
-  },
-  {
-    "row": 53,
-    "date": "2026-08-28",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "clientName": "Кристалл Джет",
-    "color": "FF4FC3F7",
-    "rubles_received": null,
-    "sent_rubles_vdx": "734481.84 (VDX)",
-    "exchange_to": "VDX",
-    "vdx_rate": 85.95,
-    "received_usdt": "8536.91",
-    "sent_usdt": null,
-    "costFormula": null,
-    "calc": null,
-    "notes": "ПП №455 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724). Плательщик: ООО «Кристалл Джет» (ИНН 7717665139, КПП 771401001). Получатель: ВИДИИКС СЕРВИСЕЗ - ФЗКО (ИНН 9909710068, КПП 772887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 734 481,84₽. {VO21200} Оплата за услуги по договору 210701/PJ от 01.07.2021 НДС не облагается. ⚠️ Договор 210701/PJ в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX."
-  },
-  {
-    "row": 54,
-    "date": "2026-08-28",
-    "sum": null,
-    "currency": null,
-    "company": null,
     "clientName": "Вилог",
     "color": "FF4FC3F7",
     "rubles_received": null,
@@ -1029,7 +993,7 @@
     "notes": "ПП №591 от 28.08.2026 ИСПОЛНЕН 14:46:48 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 304 489,02₽. {VO11100} Част.оплата за товар по инв. ENT-045-SHR-C2C202608250012M от 27.08.26, ENT-047-SHR-C2C202608270013M от 27.08.26, дог. NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 87,6732. НДС не облагается. ⚠️ Инвойсы ENT-045/ENT-047 в таблицах не найдены — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   },
   {
-    "row": 55,
+    "row": 53,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -1047,7 +1011,7 @@
     "notes": "ПП №592 от 28.08.2026 ИСПОЛНЕН 15:11:15 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 594 511,97₽. {VO11100} Частичная оплата за товар по инвойсу №LNR-197-2026-08-25/2 от 26.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 87,6732). НДС не облагается. ⚠️ Инвойс LNR-197-2026-08-25/2 в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   },
   {
-    "row": 56,
+    "row": 54,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -1066,7 +1030,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 57,
+    "row": 55,
     "date": "2026-08-28",
     "sum": 13543.21,
     "currency": "USD",
@@ -1076,12 +1040,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
+    "sent_rubles_vdx": "452177.14 (VDX) / 734481.84 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": 85.95,
+    "received_usdt": "5255.67 / 8536.91",
     "sent_usdt": null,
-    "notes": "Инвойс ST260828-01 от 28.08.2026 (Proforma Invoice, Airport services and refueling 28.08.2026, 13 543,21 USD). Issued to: Leo Spot Capital PT (Biliq Sunset Office Space, Ruko Sunset Indah II No.10, Kuta, Badung, Bali 80361, Indonesia). | Payment Order от 28.08.2026: бенефициар FUJIA AUTOMAT LIMITED (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan Kowloon, Hong Kong; Citibank N.A., Hong Kong Branch, 49F Champion Tower, 3 Garden Road, Central HKG; a/c 390205798, SWIFT CITIHKHXXXX, Bank code 006, Branch 391). 13 543,21 USD. Назначение: invoice No ST260828-01. Компания LEO (по паттерну Leo Spot Capital, Scream 17.08: LEO = компания-плательщик).",
+    "notes": "Инвойс ST260828-01 от 28.08.2026 (Proforma Invoice, Airport services and refueling 28.08.2026, 13 543,21 USD). Issued to: Leo Spot Capital PT (Biliq Sunset Office Space, Ruko Sunset Indah II No.10, Kuta, Badung, Bali 80361, Indonesia). | Payment Order от 28.08.2026: бенефициар FUJIA AUTOMAT LIMITED (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan Kowloon, Hong Kong; Citibank N.A., Hong Kong Branch, 49F Champion Tower, 3 Garden Road, Central HKG; a/c 390205798, SWIFT CITIHKHXXXX, Bank code 006, Branch 391). 13 543,21 USD. Назначение: invoice No ST260828-01. Компания LEO (по паттерну Leo Spot Capital, Scream 17.08: LEO = компания-плательщик). | ПП на VDX №454 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): плательщик ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 452 177,14₽ {VO21400} Оплата за услуги по договору 210701/PJ от 01.07.2021 | ПП на VDX №455 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): плательщик ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 734 481,84₽ {VO21200} Оплата за услуги по договору 210701/PJ от 01.07.2021 | Сделка LEO 13 543,21 USD оплачена двумя ПП на VDX (№454 + №455, Кристалл Джет)",
     "calc": null
   }
 ]
