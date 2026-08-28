@@ -954,5 +954,23 @@
     "sent_usdt": 13821.25,
     "notes": "Инвойс OC202608183 dd 18.08.2026 (Proforma) + PO DOCX 27.08: WANPOWER GLOBAL CO., LIMITED (ROOM A1 11/F WINNER BUILDING 36 MAN YUE STREET HUNG HOM KL; China Construction Bank (Asia), SWIFT CCBQHKAXXXX, a/c 846210426909), 25 шт Seagate WUH721814AL5204 HDD × 550 USD = 13 750,00 USD. Покупатель: Q8 GROUP LIMITED. | Клиент: Вилог (Scream 27.08.2026). | BONBILL Payment Certificate 28.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → WANPOWER GLOBAL CO., LIMITED. 13 750,00 USD. Invoice OC202608183 dd 18.08.2026 For ElParts. TXID O2093231862007857152616. EXECUTED → 🟢",
     "calc": null
+  },
+  {
+    "row": 51,
+    "date": "2026-08-28",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "clientName": "Вилог",
+    "color": "FF4FC3F7",
+    "rubles_received": null,
+    "sent_rubles_vdx": "365454.17 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "costFormula": null,
+    "calc": null,
+    "notes": "ПП №590 от 28.08.2026 (ООО «ВИЛОГ», ИНН 7842215200, счёт 40702810717350002199, ВТБ БИК 044525411 → ВиДиИкс Сервисез - ФЗКО, ПСБ Ярославль, БИК 044525555, счёт 40807810000000015414): 365 454,17₽ {VO21100} Оплата по инвойсу №INV260800521 от 25.08.2026 за авиа фрахт по соглашению № TLF-001 от 28.08.2026 (по курсу 89,7849). НДС не облагается. Исполнен 28.08.2026 в 12:25:49. ⚠️ Инвойс INV260800521 в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   }
 ]

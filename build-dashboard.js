@@ -116,7 +116,10 @@ function build() {
 
       // Client rating — count non-blue deals by client
       if (client && col !== 'blue') {
-        const clientKey = client.toUpperCase();
+        // Для Молодёжь / Движение 78 / Цветы — агрегируем как единого клиента (группу),
+        // чтобы все компании группы в топ-10 считались одним клиентом
+        const groupAsClient = (f.label === 'Молодёжь' || f.label === 'Движение 78' || f.label === 'Цветы');
+        const clientKey = (groupAsClient ? f.label : client).toUpperCase();
         clientDealCount[clientKey] = (clientDealCount[clientKey] || 0) + 1;
       }
 
