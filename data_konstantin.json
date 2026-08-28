@@ -560,16 +560,18 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "45 535 EUR (220-B d.o.o., инвойс 26-010-000127) → Q8 продал 53 248 USD по курсу 0,855541523275 (купил 45 555,87 EUR; EUR/USD = 1,168856) → 53 248 + 0,3% + 30 = 53 437,74 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Проформа-инвойс 26-010-000127 dd 17.07.2026 (važi do 01.08.2026) от 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Сербия; Matični 17485059, PIB 102893403; текс. счёт 325-9500600027464-11). Покупатель: Q8 GROUP LIMITED (Room A22 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg 80242882-000-04-26-6). Товар: Smeg Kettle KLF03CREU ×96 = 8 448,00 + Smeg Toaster TSF01CREU ×25 = 2 200,00 + KitchenAid Tea Kettle 5KEK1522ECA ×10 = 1 270,00 + 5KEK1522EER ×10 = 1 270,00 + 5KEK1522EPT ×10 = 1 267,00 + BREVILLE Vaffle maker VST072X ×700 = 31 080,00. ИТОГО 45 535,00 EUR, 0% PDV. | Заявка 27.08.2026 (Application for transfer 45_535.00_EUR_27.08.2026): Payment for household appliances to invoice No. 26-010-000127 dd 17.07.2026. Beneficiary: 220-B d.o.o. (OTP BANKA SRBIJA A.D., BULEVAR OSLOBODJENJA 80, NOVI SAD, IBAN RS35325960160000415772, SWIFT OTPVRS22). Платит Q8. Ждём кросс-курс EUR→USD для расчёта.",
-    "calc": "ТЕЗ"
+    "sent_usdt": 53437.74,
+    "notes": "Проформа-инвойс 26-010-000127 dd 17.07.2026 (važi do 01.08.2026) от 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Сербия; Matični 17485059, PIB 102893403; текс. счёт 325-9500600027464-11). Покупатель: Q8 GROUP LIMITED (Room A22 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg 80242882-000-04-26-6). Товар: Smeg Kettle KLF03CREU ×96 = 8 448,00 + Smeg Toaster TSF01CREU ×25 = 2 200,00 + KitchenAid Tea Kettle 5KEK1522ECA ×10 = 1 270,00 + 5KEK1522EER ×10 = 1 270,00 + 5KEK1522EPT ×10 = 1 267,00 + BREVILLE Vaffle maker VST072X ×700 = 31 080,00. ИТОГО 45 535,00 EUR, 0% PDV. | Заявка 27.08.2026 (Application for transfer 45_535.00_EUR_27.08.2026): Payment for household appliances to invoice No. 26-010-000127 dd 17.07.2026. Beneficiary: 220-B d.o.o. (OTP BANKA SRBIJA A.D., BULEVAR OSLOBODJENJA 80, NOVI SAD, IBAN RS35325960160000415772, SWIFT OTPVRS22). Платит Q8. Ждём кросс-курс EUR→USD для расчёта. | Q8 Exchange Voucher 28.08.2026 (tx 202608281613169836284): Q8 продал 53 248 USD → купил 45 555,87 EUR (1 USD = 0,855541523275 EUR). Кросс-курс EUR/USD = 1,168856 → расчёт 53 413,53 USDT | Q8 Exchange Voucher 28.08.2026 (tx 202608281613169836284): Q8 продал 53 248 USD → купил 45 555,87 EUR (1 USD = 0,855541523275 EUR). Кросс-курс EUR/USD = 1,168856 → sent_usdt = 53 248 + 0,3% + 30 = 53 437,74 USDT",
+    "calc": "ТЕЗ",
+    "exchangeDocType": "Q8_VOUCHER",
+    "transactionId": "202608281613169836284"
   },
   {
     "row": 31,
