@@ -109,13 +109,13 @@ function build() {
         String(r.rubles_received).split('/').forEach(p => { totalRubRecv += parseFloat(p) || 0; });
       }
 
-      // Company pie — count non-blue deals
-      if (company && col !== 'blue') {
+      // Company pie — count non-blue deals (only valyutnye zayavki, skip RUB)
+      if (company && col !== 'blue' && cur.toUpperCase() !== 'RUB') {
         companyDealCount[company.toUpperCase()] = (companyDealCount[company.toUpperCase()] || 0) + 1;
       }
 
-      // Client rating — count non-blue deals by client
-      if (client && col !== 'blue') {
+      // Client rating — count non-blue deals by client (only valyutnye zayavki, skip RUB)
+      if (client && col !== 'blue' && cur.toUpperCase() !== 'RUB') {
         // Для Молодёжь / Движение 78 / Цветы — агрегируем как единого клиента (группу),
         // чтобы все компании группы в топ-10 считались одним клиентом
         const groupAsClient = (f.label === 'Молодёжь' || f.label === 'Движение 78' || f.label === 'Цветы');
