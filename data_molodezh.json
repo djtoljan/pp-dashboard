@@ -1047,5 +1047,24 @@
     "sent_usdt": 13711,
     "notes": "Инвойс ST260828-01 от 28.08.2026 (Proforma Invoice, Airport services and refueling 28.08.2026, 13 543,21 USD). Issued to: Leo Spot Capital PT (Biliq Sunset Office Space, Ruko Sunset Indah II No.10, Kuta, Badung, Bali 80361, Indonesia). | Payment Order от 28.08.2026: бенефициар FUJIA AUTOMAT LIMITED (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan Kowloon, Hong Kong; Citibank N.A., Hong Kong Branch, 49F Champion Tower, 3 Garden Road, Central HKG; a/c 390205798, SWIFT CITIHKHXXXX, Bank code 006, Branch 391). 13 543,21 USD. Назначение: invoice No ST260828-01. Компания LEO (по паттерну Leo Spot Capital, Scream 17.08: LEO = компания-плательщик). | ПП на VDX №454 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): плательщик ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 452 177,14₽ {VO21400} Оплата за услуги по договору 210701/PJ от 01.07.2021 | ПП на VDX №455 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): плательщик ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 734 481,84₽ {VO21200} Оплата за услуги по договору 210701/PJ от 01.07.2021 | Сделка LEO 13 543,21 USD оплачена двумя ПП на VDX (№454 + №455, Кристалл Джет) | 31.08.2026 (Scream): дата → 2026-08-31, компания → KIRANA (PT KIRANA GLOBAL HUB, Bank Mandiri BMRIIDJA). | Расчёт 31.08.2026 (📨 Ордера и Расчеты, KIRANA): (13 543,21 USD + 100) × 1,005 = 13 711 USDT (sent_usdt = 13711). Кошелёк отправки: TLcUPGpwKTV1fi8BtFnPN8shLtYKKQpPbN. | OUT 31.08.2026 (Bobr Alert 15:11:27 UTC, Рабочий 4): 13 711,0 USDT → TLcUPGpwKTV1fi8BtFnPN8shLtYKKQpPbN — по расчёту KIRANA (13 543,21 + 100) × 1,005 = 13 711 USDT. TXID 7aa4322040251c63a73713d696f7172395ee072cc0091b6d2dcc378183389d73. Q9 отправлен, леджер --q9. Цвет не меняется (USDT-перевод, ждём банковское EXECUTED → 🟢). | | Transaction Status 31.08.2026 (📨 Платежные Поручения): TX 202608312236712301, создан 31.08.2026 22:36:53 (GMT+7), статус PENDING APPROVAL (ещё не INITIATED), KIRANA GLOBAL HUB → FUJIA AUTOMAT LIMITED (a/c 390205798, CITIBANK N.A. HKG, BIC CITIHKHXXXX), 13 543,21 USD, Total Debit 13 590,14 USD (вкл. комиссии 46,93: cable 5,00 + correspondent 25,00 + provision 16,93), назначение: INV Payment for invoice ST260828-01 dated 2026-08-28. Ждём INITIATED → 🟡 / EXECUTED → 🟢 | 🚨 PENDING APPROVAL = INITIATED (решение Scream 31.08.2026) → 🟡. Transaction Status 31.08.2026 22:36:53 (GMT+7), TX 202608312236712301: KIRANA GLOBAL HUB → FUJIA AUTOMAT LIMITED (a/c 390205798, CITIBANK N.A. HKG, BIC CITIHKHXXXX), USD 13 543,21, Total Debit 13 590,14 (вкл. комиссии 46,93: cable 5,00 + correspondent 25,00 + provision 16,93), INV Payment for invoice ST260828-01 dated 2026-08-28.",
     "calc": null
+  },
+  {
+    "row": 56,
+    "date": "2026-08-31",
+    "sum": 100200,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": null,
+    "costFormula": null,
+    "extra": "Проформа PROF 9/8/2026 от 31.08.2026 (Investservis Pl Sp. z o.o., Польша → FININVEST ULUSLARARASI TİCARET ANONİM ŞİRKETİ, Турция): PAYMENT FOR TRIPARTITE AGREEMENT, 100 200,00 EUR, VAT 0%. Продавец: Investservis Pl, ul. Pułtuska 8C, 06-121 Pokrzywnica, NIP 5681635089, mBank IBAN PL20 1140 2000 0000 3712 2633 7680, SWIFT BREXPLPWMBK. Покупатель: FININVEST, Metropol İstanbul Sitesi, C1 Blok, 2B/376, 34758 İstanbul. Due 31.08.2026. 1 EUR = 4,3328 PLN (курс NBP). Клиент (принципал) уточняется.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
