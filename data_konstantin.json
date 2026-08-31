@@ -625,15 +625,15 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null
+    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 31.08.2026): Payment from INFINITE❗ OUR → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD, Al Qusais, EBILAEAD, AE690260000514449097303), INV 90218959 dd 27.08.26, 262 021,00 USD. Компания INFINITE (подтверждена). Step 3 ⬜, ждём исполнение/расчёт."
   },
   {
     "row": 34,
     "date": "2026-08-31",
     "sum": 56390.7,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "INTEGRA",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -643,7 +643,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Проформа-инвойс (DOCUMENTI INTERNI VENDITE 2128, 📨 Константин Просто Группа, 31.08.2026) от итальянского производителя кофемолок Eureka (Made In Italy, HS 8438-8010, Client Code 0004748; банк MONTE PASCHI SIENA, SWIFT PASCITMMSES, IBAN IT38I0103038100000001195002): NADIR TOUCH 65 (4 шт × 330,00 = 1 320,00), MIGNON SPECIALITA 55 (28×232,50−5% = 5 906,20; 10×232,50−5% = 2 109,36; 6×232,50−5% = 1 265,61; 2×232,50−5% = 421,87; 26×232,50−5% = 5 484,33), MIGNON SILENZIO 55 (25×205,00−8,5% = 4 689,38; 2×205,00−8,5% = 375,15; 10×205,00−8,5% = 1 875,75; 5×205,00−8,5% = 937,88; 30×205,00−8,5% = 5 627,25), HELIOS 65 (30×430,00−14,8% = 10 990,80; 26×430,00−14,8% = 9 525,36; 6×430,00−14,8% = 2 198,16; 10×430,00−14,8% = 3 663,60). ИТОГО 56 390,70 EUR. EXW, PAYMENT IN ADVANCE, LEAD TIME END OF AUGUST. Step 0 красный, компания ждёт заявку.",
+    "notes": "Проформа-инвойс (DOCUMENTI INTERNI VENDITE 2128, 📨 Константин Просто Группа, 31.08.2026) от итальянского производителя кофемолок Eureka (Made In Italy, HS 8438-8010, Client Code 0004748; банк MONTE PASCHI SIENA, SWIFT PASCITMMSES, IBAN IT38I0103038100000001195002): NADIR TOUCH 65 (4 шт × 330,00 = 1 320,00), MIGNON SPECIALITA 55 (28×232,50−5% = 5 906,20; 10×232,50−5% = 2 109,36; 6×232,50−5% = 1 265,61; 2×232,50−5% = 421,87; 26×232,50−5% = 5 484,33), MIGNON SILENZIO 55 (25×205,00−8,5% = 4 689,38; 2×205,00−8,5% = 375,15; 10×205,00−8,5% = 1 875,75; 5×205,00−8,5% = 937,88; 30×205,00−8,5% = 5 627,25), HELIOS 65 (30×430,00−14,8% = 10 990,80; 26×430,00−14,8% = 9 525,36; 6×430,00−14,8% = 2 198,16; 10×430,00−14,8% = 3 663,60). ИТОГО 56 390,70 EUR. EXW, PAYMENT IN ADVANCE, LEAD TIME END OF AUGUST. Step 0 красный, компания ждёт заявку. | Заявка (Тип 4, 📨 Ордера и Расчеты, 31.08.2026): Payment from INTEGRA❗️ OUR. Beneficiary: CONTI VALERIO S.R.L. (Via Luigi Longo, 39/41, 50019 Sesto Fiorentino (FI), Italy). Bank: MONTE PASCHI SIENA, Account IT38I0103038100000001195002, SWIFT PASCITMMSES. Payment details: Invoice 2128/PF dd 02.07.26. Amount 56 390,70 EUR. Поставщик = CONTI VALERIO S.R.L. (проформа 2128 = DOCUMENTI INTERNI VENDITE 2128, кофемолки Eureka MIGNON/HELIOS/NADIR). Компания INTEGRA. Step 3 ⬜. Расчёт ждём от Scream (не Q8).",
     "calc": null
   }
 ]
