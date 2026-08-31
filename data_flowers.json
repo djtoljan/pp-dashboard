@@ -1611,5 +1611,24 @@
     "sent_usdt": 10060,
     "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Incoflores = 10160 USDT (10000 × 1,006 + 100, Scream). Q9 отправлен. | BONBILL Payment Certificate 31.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → Incoflores (PRODUBANCO, PRODECEQ, a/c 02186004830). 10 000,00 USD. Invoice 20260831001 dd 31.08.2026 For Flowers. TXID O2094322462941642752319. EXECUTED → 🟢",
     "calc": null
+  },
+  {
+    "row": 86,
+    "date": "2026-08-31",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": "Выписка Блэкшарк Трейд ПОЧТОБАНК 31.08.2026 (предварительная, счёт 40807810100157518600): приходы от ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723): {VO11200} 3 058 085,00 ₽ — Оплата за цветочную продукцию, контракт 25/06-2026 от 25.06.2026 (тело) + {VO21100} 76 452,12 ₽ — Оплата вознаграждения Агенту, контракт WD-30 от 25.06.2026 (агентское). rubles_received = 3058085.00 / 76452.12. Прочие операции выписки уже зафиксированы (Дт ВиДиИкс 1 726 301,63 — Движение 78 row 16; Дт Аль Сафи 6 268 894,59 — row 80 Main; Кт ФИНИНВЕСТ 6 268 894,59 — row 80 Main).",
+    "rubles_received": "3058085.00 / 76452.12",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
