@@ -1090,7 +1090,7 @@
     "sum": 15000,
     "currency": "EUR",
     "company": "WAPA",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "ИП Мазуренко",
     "costFormula": "15 000 × 1,0025 + 80 = 15 117,50 USD × 1,17039 = 17 693,37 USDT",
     "extra": null,
