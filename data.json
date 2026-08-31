@@ -1287,7 +1287,7 @@
     "sum": 6600,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ООО ЕТЕ",
     "costFormula": "6600 + 0.3% + 30 = 6649.8 USDT",
     "extra": null,
