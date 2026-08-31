@@ -1545,24 +1545,5 @@
     "sent_usdt": null,
     "notes": "Выписка Блэкшарк ПОЧТОБАНК 31.08.2026 (документ 57 от 31.08.2026): приход 6 268 894,59р {VO60081} Оплата по Агентскому Договору, НДС не облагается, от АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» (ИНН 9909705580, счёт 40807810324600000016, БИК 044525411). rubles_received = 6268894.59. Ждём заявку/привязку.",
     "calc": null
-  },
-  {
-    "row": 81,
-    "date": "2026-08-28",
-    "sum": 200000,
-    "currency": "USD",
-    "company": "INFINITE",
-    "color": "FFFFFFFF",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": null,
-    "extra": "Заявка (Application, 28.08.2026, 📨 Константин Просто Группа): Payment for household appliances, invoice no 90218514. 200 000,00 USD → DeLonghi Kenwood MEIA FZE (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Dubai, UAE, PO Box 263338; TRN 100352486300003). Банк: JPMorgan Chase Bank (Great Britain, 25 Bank Street, Canary Wharf, London E14 5JP), IBAN GB23CHAS60924210018187, SWIFT CHASGB2L. Частичная оплата проформы 90218514 dd 14.08.2026 (общая 835 188,00 USD: Braun IS7286BK ×3052 = 363 188 + IS9090BK ×3052… см. row 29). Компания INFINITE (как row 29). Расчёт ждём от Scream.",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
   }
 ]
