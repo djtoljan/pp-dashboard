@@ -607,5 +607,24 @@
     "costFormula": "251 029,00 + 0,5% = 252 284 USDT",
     "calc": "ТЕЗ",
     "notes": "Проформа-инвойс 90218959 dd 27.08.2026 (De'Longhi Kenwood MEIA FZE, Jafza View 18 LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338, TRN 100352486300003) → MIA Group of Companies (PVT) LTD (STREET #16, INDUSTRIAL AREA, ISLAMABAD, PAKISTAN 44000). Товары (Order 115552061): Braun IS7286BK SS INT ×3052 = 363 188,00 + IS9090BK SS INT ×2950 = 472 000,00 (HS 85164000, Китай) = ИТОГО 835 188,00 USD, EX WORKS, PAYMENT IN ADVANCE, sea/shipment, valid up to 03.09.2026. Account No. 697497. | Application for transfer DeLonghiKenwood_251_029_00_USD 28.08.2026: Prepayment for Proforma-Invoice 90218959 dd 27.08.26, payer N 697497 for home appliances. Бенефициар: DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, Dubai, SWIFT EBILAEAD, a/c AE690260000514449097303). Сумма 251 029,00 USD. ⚠️ Тот же заказ 115552061/сумма 835 188, что и row 29 (проформа 90218514, ALSAHAM ALMUNEER) — возможно перевыставление; уточнить у Scream. | Заявка «Payment from INFINITE» 28.08.2026 (Тип 4): Beneficiary DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, Dubai, SWIFT EBILAEAD, a/c AE690260000514449097303), Payment details INV 90218959 dd 27.08.26, Amount 251 029,00 USD, OUR. → компания INFINITE, ⬜ Step 3. | Bobr Alert 28.08 13:29:27 UTC: IN 253 037,23 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5 (Константин/INFINITE) = 251 029,00 × 1,008 ✓ под сделку row 32. Q9: 🔴 ВХОД 28.08.2026 253037.23 USDT — Константин (Просто группа). Леджер записан (--q9, Рабочий 4). received_usdt = 253037.23."
+  },
+  {
+    "row": 33,
+    "date": "2026-08-31",
+    "sum": 262021,
+    "currency": "USD",
+    "company": "INFINITE",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "calc": null,
+    "extra": "Application for transfer DeLonghiKenwood_262_021_00_USD 31.08.2026: Payment for Proforma-Invoice 90218959 dd 27.08.26, payer N 697497 for home appliances. Бенефициар: DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, Dubai, SWIFT EBILAEAD, a/c AE690260000514449097303). Сумма 262 021,00 USD. ⚠️ Вторая частичная оплата проформы 90218959 (row 32 = 251 029, 28.08). Проформа 90218959 dd 27.08.2026: De'Longhi Kenwood MEIA FZE → MIA Group of Companies (PVT) LTD (Islamabad, Pakistan), Braun IS7286BK SS INT ×3052 = 363 188 + IS9090BK SS INT ×2950 = 472 000 = ИТОГО 835 188,00 USD, EX WORKS, PAYMENT IN ADVANCE, Order 115552061. Компания INFINITE по аналогии с row 32 (та же проформа) — уточнить при расчёте.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null
   }
 ]
