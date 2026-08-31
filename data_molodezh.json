@@ -1031,10 +1031,10 @@
   },
   {
     "row": 55,
-    "date": "2026-08-28",
+    "date": "2026-08-31",
     "sum": 13543.21,
     "currency": "USD",
-    "company": "LEO",
+    "company": "KIRANA",
     "color": "FFFFFFFF",
     "clientName": "Кристалл Джет (Молодёжь)",
     "costFormula": null,
@@ -1045,7 +1045,7 @@
     "vdx_rate": 85.95,
     "received_usdt": "5255.67 / 8536.91",
     "sent_usdt": null,
-    "notes": "Инвойс ST260828-01 от 28.08.2026 (Proforma Invoice, Airport services and refueling 28.08.2026, 13 543,21 USD). Issued to: Leo Spot Capital PT (Biliq Sunset Office Space, Ruko Sunset Indah II No.10, Kuta, Badung, Bali 80361, Indonesia). | Payment Order от 28.08.2026: бенефициар FUJIA AUTOMAT LIMITED (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan Kowloon, Hong Kong; Citibank N.A., Hong Kong Branch, 49F Champion Tower, 3 Garden Road, Central HKG; a/c 390205798, SWIFT CITIHKHXXXX, Bank code 006, Branch 391). 13 543,21 USD. Назначение: invoice No ST260828-01. Компания LEO (по паттерну Leo Spot Capital, Scream 17.08: LEO = компания-плательщик). | ПП на VDX №454 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): плательщик ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 452 177,14₽ {VO21400} Оплата за услуги по договору 210701/PJ от 01.07.2021 | ПП на VDX №455 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): плательщик ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 734 481,84₽ {VO21200} Оплата за услуги по договору 210701/PJ от 01.07.2021 | Сделка LEO 13 543,21 USD оплачена двумя ПП на VDX (№454 + №455, Кристалл Джет)",
+    "notes": "Инвойс ST260828-01 от 28.08.2026 (Proforma Invoice, Airport services and refueling 28.08.2026, 13 543,21 USD). Issued to: Leo Spot Capital PT (Biliq Sunset Office Space, Ruko Sunset Indah II No.10, Kuta, Badung, Bali 80361, Indonesia). | Payment Order от 28.08.2026: бенефициар FUJIA AUTOMAT LIMITED (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan Kowloon, Hong Kong; Citibank N.A., Hong Kong Branch, 49F Champion Tower, 3 Garden Road, Central HKG; a/c 390205798, SWIFT CITIHKHXXXX, Bank code 006, Branch 391). 13 543,21 USD. Назначение: invoice No ST260828-01. Компания LEO (по паттерну Leo Spot Capital, Scream 17.08: LEO = компания-плательщик). | ПП на VDX №454 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): плательщик ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 452 177,14₽ {VO21400} Оплата за услуги по договору 210701/PJ от 01.07.2021 | ПП на VDX №455 от 28.08.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): плательщик ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 734 481,84₽ {VO21200} Оплата за услуги по договору 210701/PJ от 01.07.2021 | Сделка LEO 13 543,21 USD оплачена двумя ПП на VDX (№454 + №455, Кристалл Джет) | 31.08.2026 (Scream): дата → 2026-08-31, компания → KIRANA (PT KIRANA GLOBAL HUB, Bank Mandiri BMRIIDJA).",
     "calc": null
   }
 ]
