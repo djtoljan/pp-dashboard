@@ -1516,5 +1516,24 @@
     "costFormula": "12 000 + 0.3% + 30 = 12 066 USDT",
     "calc": null,
     "notes": "Заявка (Application for transfer) CERES FRAMS 12 000 USD (маркер «📨 Заявки Компания Q8»): THE AMOUNT USD 12 000. Beneficiary: CERES FRAMS (Via Tabacundo km 6 sector Cananvalle, Tabacundo-Ecuador). PRODUBANCO (AV. SIMON BOLIVAR VIA NAYON, QUITO ECUADOR), a/c 02005153545, SWIFT PRODECEQ. Intermediary: JPMORGAN CHASE BANK NA (CHASUS33), corr 512063592. Payment: Payment for flowers invoice 23-0924 dd 23.09.2024. Компания Q8. | IN 28.08.2026 под заявку: 12 172 USDT (Bobr, от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 → Рабочий 4, txid 123fe1bad5ef6cb84ea4dbfa27e7b0ed07c3f0f1242ab81ab937b331b62eb16a, Q9 🟢 ВХОД — Цветы). received_usdt = 12172. | BONBILL Payment Certificate 28.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → BONBILL LIMITED. 12 000,00 USD. Invoice 300564 dd 28.08.2026 For Flowers (CERES FRAMS, Via Tabacundo km 6, Tabacundo-Ecuador; PRODUBANCO, PRODECEQ, a/c 02005153545). TXID O2093281864742731776423. EXECUTED → 🟢"
+  },
+  {
+    "row": 81,
+    "date": "2026-08-31",
+    "sum": 71219,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ModestoGroup (Цветы)",
+    "costFormula": "71 219,00 + 0.3% + 30 = 71 462,66 USDT",
+    "extra": "Инвойс FL01/310826 dd 31.08.2026 от ModestoGroup OU (Reg. 16203107, K. Karberi tn 18-2, Lasnamae, 13919 Tallinn, Estonia; info@m-flowers.com; The Currency Cloud Limited, 1 Sheldon Square, London W2 6TT; IBAN GB32TCCL04143483461312, BIC TCCLGB3L): AA Kenyan rose mix 50 400,00 + AA Air logistics services 20 819,00 = 71 219,00 USD. Bill to: Q8 Group Limited (80242882, Room A22 10/F No.52 Hung To Road, Kwun Tong, HK). Маркер 'Заявки Компания Q8'. Клиент: ModestoGroup (Цветы), продолжение серии FL01 (row 71 - FL01/250826 50 656 USD).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 71462.66,
+    "notes": null,
+    "calc": null
   }
 ]
