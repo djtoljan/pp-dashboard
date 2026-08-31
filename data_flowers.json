@@ -1561,7 +1561,7 @@
     "sum": 25000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ALIANZA LOGISTICS (Цветы)",
     "costFormula": "25000 + 0.3% + 30 = 25105 USDT",
     "extra": "Заявка Q8 (Application for transfer ALIANZA_25_000_3Ч): 25 000 USD, LOGIZTIK-GROUP ECUADOR S.A., PRODUBANCO, a/c 02005144694 | Инвойс 10013086 dd 31.08.2026: ALIANZA LOGISTIKA TDGE S.A. (Ave. InterOceanica OE6-73 y Gonzalez Suarez, Quito), Air logistics services, 25 000.00 USD, Payer Q8 GROUP LIMITED (80242882). ⚠️ Номер инвойса совпадает со строкой 78 (75 000 dd 27.08) — возможно доплата/перевыставление.",
@@ -1571,7 +1571,7 @@
     "vdx_rate": null,
     "received_usdt": 25250,
     "sent_usdt": 25105,
-    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля ALIANZA = 25250 USDT (25000 × 1,006 + 100, Scream). Q9 отправлен.",
+    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля ALIANZA = 25250 USDT (25000 × 1,006 + 100, Scream). Q9 отправлен. | BONBILL Payment Certificate 31.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → LOGIZTIK-GROUP ECUADOR S.A. (ALIANZA LOGISTIKA TDGE S.A., PRODUBANCO, PRODECEQ, a/c 02005144694). 25 000,00 USD. Invoice 10013086 dd 31.08.2026 For Air Logistics. TXID O2094323101042081792104. EXECUTED → 🟢",
     "calc": null
   },
   {
@@ -1580,7 +1580,7 @@
     "sum": 22325,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Condor Andino (Цветы)",
     "costFormula": "22325 + 0.3% + 30 = 22421.98 USDT",
     "extra": "Инвойс №325 dd 28.08.2026: CONDOR ANDINO SAS (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; BANCOLOMBIA, CLL 10 # 8-48, COLOCOBM, a/c 55700015652), FRESH CUT HYDRANGEAS 125 boxes / 27 906 stems @ 0.80 = 22 325.00 USD, Customer Q8 Group Limited (80242882).",
@@ -1590,7 +1590,7 @@
     "vdx_rate": null,
     "received_usdt": 22558.95,
     "sent_usdt": 22421.98,
-    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Condor Andino = 22558.95 USDT (22325 × 1,006 + 100, Scream). Q9 отправлен.",
+    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Condor Andino = 22558.95 USDT (22325 × 1,006 + 100, Scream). Q9 отправлен. | BONBILL Payment Certificate 31.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → CONDOR ANDINO SAS (BANCOLOMBIA, COLOCOBM, a/c 55700015652). 22 325,00 USD. Invoice 325 dd 28.08.2026 For Flowers (HYDRANGEAS 27 906 stems). TXID O2094323662411923456656. EXECUTED → 🟢",
     "calc": null
   },
   {
@@ -1599,7 +1599,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Incoflores (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Заявка Q8 (Application for transfer INCOFLORES_10000, 31.08.2026): 10 000 USD, Incoflores (Ecuador, Quito, La Armenia, Juan Leon Mera y Charles Darvin, cjt Prados de la Armenia, casa 73C), PRODUBANCO, PRODECEQ, a/c 02186004830. НОВАЯ заявка (не дубль строк 24/52 — там инвойсы 20261008062 dd 10.08.2026 и 20230711062 dd 05.08.2026, обе уже 🟢).",
@@ -1609,7 +1609,7 @@
     "vdx_rate": null,
     "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Incoflores = 10160 USDT (10000 × 1,006 + 100, Scream). Q9 отправлен.",
+    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Incoflores = 10160 USDT (10000 × 1,006 + 100, Scream). Q9 отправлен. | BONBILL Payment Certificate 31.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → Incoflores (PRODUBANCO, PRODECEQ, a/c 02186004830). 10 000,00 USD. Invoice 20260831001 dd 31.08.2026 For Flowers. TXID O2094322462941642752319. EXECUTED → 🟢",
     "calc": null
   }
 ]
