@@ -616,16 +616,16 @@
     "company": "INFINITE",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
-    "calc": null,
+    "costFormula": "262 021,00 USD + 0,5% = 263 331 USDT",
+    "calc": "ТЕЗ",
     "extra": "Application for transfer DeLonghiKenwood_262_021_00_USD 31.08.2026: Payment for Proforma-Invoice 90218959 dd 27.08.26, payer N 697497 for home appliances. Бенефициар: DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, Dubai, SWIFT EBILAEAD, a/c AE690260000514449097303). Сумма 262 021,00 USD. ⚠️ Вторая частичная оплата проформы 90218959 (row 32 = 251 029, 28.08). Проформа 90218959 dd 27.08.2026: De'Longhi Kenwood MEIA FZE → MIA Group of Companies (PVT) LTD (Islamabad, Pakistan), Braun IS7286BK SS INT ×3052 = 363 188 + IS9090BK SS INT ×2950 = 472 000 = ИТОГО 835 188,00 USD, EX WORKS, PAYMENT IN ADVANCE, Order 115552061. Компания INFINITE по аналогии с row 32 (та же проформа) — уточнить при расчёте.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 264117.17,
-    "sent_usdt": null,
-    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 31.08.2026): Payment from INFINITE❗ OUR → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD, Al Qusais, EBILAEAD, AE690260000514449097303), INV 90218959 dd 27.08.26, 262 021,00 USD. Компания INFINITE (подтверждена). Step 3 ⬜, ждём исполнение/расчёт. | IN 31.08.2026 (Bobr Alert 11:35 МСК, Рабочий 4, отправитель TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4): 264 117,17 USDT под заявку 262 021,00 USD (262 021 × 1,008 = 264 117,17). Q9 отправлен, леджер --q9."
+    "sent_usdt": 263331,
+    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 31.08.2026): Payment from INFINITE❗ OUR → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD, Al Qusais, EBILAEAD, AE690260000514449097303), INV 90218959 dd 27.08.26, 262 021,00 USD. Компания INFINITE (подтверждена). Step 3 ⬜, ждём исполнение/расчёт. | IN 31.08.2026 (Bobr Alert 11:35 МСК, Рабочий 4, отправитель TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4): 264 117,17 USDT под заявку 262 021,00 USD (262 021 × 1,008 = 264 117,17). Q9 отправлен, леджер --q9. | Расчёт 31.08.2026 (📨 Ордера и Расчеты, Infinite): 262 021,00 USD + 0,5% = 263 331 USDT (sent_usdt = 263331). Кошелёк отправки: TNiW2ZgWerAcmJrCZRdwds8RQ3mcFokBnt."
   },
   {
     "row": 34,
