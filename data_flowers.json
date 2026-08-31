@@ -1550,9 +1550,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": null,
+    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Flores de Conejera = 10160 USDT (10000 × 1,006 + 100, Scream). Q9 отправлен.",
     "calc": null
   },
   {
@@ -1569,9 +1569,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 25250,
     "sent_usdt": 25105,
-    "notes": null,
+    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля ALIANZA = 25250 USDT (25000 × 1,006 + 100, Scream). Q9 отправлен.",
     "calc": null
   },
   {
@@ -1588,9 +1588,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 22558.95,
     "sent_usdt": 22421.98,
-    "notes": null,
+    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Condor Andino = 22558.95 USDT (22325 × 1,006 + 100, Scream). Q9 отправлен.",
     "calc": null
   },
   {
@@ -1607,9 +1607,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": null,
+    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Incoflores = 10160 USDT (10000 × 1,006 + 100, Scream). Q9 отправлен.",
     "calc": null
   }
 ]
