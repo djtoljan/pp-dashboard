@@ -1523,7 +1523,7 @@
     "sum": 71219,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ModestoGroup (Цветы)",
     "costFormula": "71 219,00 + 0.3% + 30 = 71 462,66 USDT",
     "extra": "Инвойс FL01/310826 dd 31.08.2026 от ModestoGroup OU (Reg. 16203107, K. Karberi tn 18-2, Lasnamae, 13919 Tallinn, Estonia; info@m-flowers.com; The Currency Cloud Limited, 1 Sheldon Square, London W2 6TT; IBAN GB32TCCL04143483461312, BIC TCCLGB3L): AA Kenyan rose mix 50 400,00 + AA Air logistics services 20 819,00 = 71 219,00 USD. Bill to: Q8 Group Limited (80242882, Room A22 10/F No.52 Hung To Road, Kwun Tong, HK). Маркер 'Заявки Компания Q8'. Клиент: ModestoGroup (Цветы), продолжение серии FL01 (row 71 - FL01/250826 50 656 USD).",
@@ -1533,7 +1533,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 71462.66,
-    "notes": null,
+    "notes": "BONBILL Payment Certificate 31.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → THE CURRENCY CLOUD LIMITED (ModestoGroup OU, IBAN GB32TCCL04143483461312, BIC TCCLGB3L). 71 219,00 USD. Invoice FL01/310826 dd 31.08.2026 For Flowers. TXID O2094312996217159680518. EXECUTED → 🟢",
     "calc": null
   },
   {
@@ -1542,7 +1542,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Flores de Conejera (Цветы)",
     "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Заявка Q8 (Application for transfer FLORES_DE_CONEJERA_SAS_10000): 10 000 USD, FLORES DE CONEJERA SAS, BANCOLOMBIA, a/c 13401600454, COLOCOBM, CITIBANK NY CITIUS33 36006658, FOR FRESH CUT FLOWERS | Инвойс №511903 dd 20.08.2026: FLORES LA CONEJERA SAS (NIT 860.501.528-7, CALLE 100 #19A-50 OF. 405, BOGOTA DC, COLOMBIA), CLAVEL 25 full boxes, 50 000 stems @ 0.20 = 10 000 USD, FOB, BILL TO Q8 Group Limited (80242882).",
@@ -1552,7 +1552,7 @@
     "vdx_rate": null,
     "received_usdt": 10160,
     "sent_usdt": 10060,
-    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Flores de Conejera = 10160 USDT (10000 × 1,006 + 100, Scream). Q9 отправлен.",
+    "notes": "IN 31.08.2026 (Bobr Alert 08:37 МСК, сводный платёж 68 128,9 USDT от TEV72g8Qt... на Рабочий 4): доля Flores de Conejera = 10160 USDT (10000 × 1,006 + 100, Scream). Q9 отправлен. | BONBILL Payment Certificate 31.08.2026 (Тип 7 Q8): Q8 GROUP LIMITED → FLORES DE CONEJERA SAS (BANCOLOMBIA SA, a/c 13401600454). 10 000,00 USD. Invoice 511903 dd 20.08.2026 FOR FLOWERS. TXID O2094313689451724800839. EXECUTED → 🟢",
     "calc": null
   },
   {
