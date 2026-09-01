@@ -692,16 +692,16 @@
     "company": "INFINITE",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "253 400,00 USD × 1,005 = 254 667 USDT",
     "extra": "Application for transfer DeLonghiKenwood_253_400_00_USD 01.09.2026: Payment for Proforma-Invoice 90218959 dd 27.08.26, payer N 697497 for home appliances. Бенефициар: DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, Dubai, SWIFT EBILAEAD, a/c AE690260000514449097303). Сумма 253 400,00 USD. ⚠️ Третья частичная оплата проформы 90218959 (row 32 = 251 029, 28.08; row 34 = 262 021, 31.08). Проформа 90218959 dd 27.08.2026: De'Longhi Kenwood MEIA FZE → MIA Group of Companies (PVT) LTD (Islamabad, Pakistan), Braun IS7286BK SS INT ×3052 = 363 188 + IS9090BK SS INT ×2950 = 472 000 = ИТОГО 835 188,00 USD, EX WORKS, PAYMENT IN ADVANCE, Order 115552061. Компания INFINITE по аналогии с row 32/34 (та же проформа). Расчёт ждём от Scream.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 255427.2,
-    "sent_usdt": null,
+    "sent_usdt": 254667,
     "notes": " | 01.09.2026: получен повторный скан PI 90218959 (файл 90218959_PI_4, 📨 Константин Просто Группа) — та же проформа dd 27.08.2026, ИТОГО 835 188,00 USD. Новая строка не создавалась (проформа уже в базе, row 32/34/37). | Заявка подтверждена (📨 Ордера и Расчеты, 01.09.2026): Payment from INFINITE❗ OUR → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD, Al Qusais, EBILAEAD, AE690260000514449097303), INV 90218959 dd 27.08.26, 253 400,00 USD. Компания INFINITE подтверждена. | IN 01.09.2026 11:01 UTC (Bobr Alert, Рабочий 4): 255 427,20 USDT от TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4 (= Константин (Просто группа)) под заявку 253 400,00 USD (253 400 × 1,008 = 255 427,2 ✓ стандарт INFINITE). received_usdt = 255427.2. Q9 отправлен, леджер --q9. | 🚨 01.09.2026 (📨 Ордера и Расчеты): ЧАСТИЧНАЯ ОПЛАТА — 253 400,00 USD = часть проформы 90218959 (ИТОГО 835 188,00 USD).",
-    "calc": null
+    "calc": "ТЕЗ"
   },
   {
     "row": 38,
