@@ -249,26 +249,6 @@
   {
     "row": 14,
     "date": "2026-08-11",
-    "sum": 11855.53,
-    "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "Вилог",
-    "costFormula": "11 855,53 USD / 0.996 + 25 = 11 928 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": "1003660.72 (VDX)",
-    "exchange_to": "VDX",
-    "vdx_rate": 82.9,
-    "received_usdt": "12094.78",
-    "sent_usdt": 11928,
-    "notes": "ПП №564 от 11.08.2026 ИСПОЛНЕН 17:09:20. Плательщик: ООО «ВИЛОГ» (ВТБ, БИК 044525411, сч. 40702810717350002199). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 1 003 660,72₽. {VO11100} Частичная оплата за товар по инвойсу №LNR-181-LEAN080719 от 07.08.2026, дог. №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000), курс 84,6576. НДС не облагается. | Инвойс 080719 от 07.08.2026. KYLON SUPPLY LIMITED (HK, UNIT 9 1/F THE CLOUD, 111 TUNG CHAU STREET, TAI KOK TSUI; JPMorgan Chase Bank N.A. HK Branch, CHASHKHH, акк 63001412425) → YOUNGQ LIMITED (YQ-BEA). TPM2.0 Card (SPI) BC11TPMA02, 790 шт × 15,0070 = 11 855,53 USD. Заявка Вилог (Scream 11.08). | 13.08: Alex VDX — Payment from YQ (YOUNGQ LIMITED/YQ-BEA) to KYLON SUPPLY LIMITED (JPMorgan Chase Bank N.A. HK Branch, CHASHKHH, a/c 63001412425). INVOICE 080719 dd 07.08.26. Amount 11 855,53 USD. OUR. Ждём EXECUTED для 🟢. | 13.08: Scream — Payment from YQ-BEA (KYLON, 11 855,53 USD, INV 080719) = INITIATED → 🟡. Ждём EXECUTED → 🟢. | 13.08: C расчёт (SG BEA): 11 855,53 USD / 0.996 + 25 = 11 928 USDT → sent_usdt. TXID TXyJVHgAnK2vnj34DkrLa36iehiac9VrYr. | 13.08 19:03: Scream — компания YQ-BEA → SG (SG-BEA, SAISHENG GROUP LIMITED, Bank of East Asia). | Bobr Alert 14.08 07:30 UTC: OUT 11 928 USDT с Рабочего 3 на TXyJVHgAnK2vnj34DkrLa36iehiac9VrYr (Вилог, SG BEA, sent_usdt 11 928). Q9 отправлена, леджер записан (--q9). | 14.08: W& Платежи CHATS transfer: SAISHENG GROUP LIMITED (a/c 015-529-68-05785-4, CPLUS-SSA) → KYLON SUPPLY LIMITED (JPMorgan Chase Bank N.A., a/c 00763001412425), USD 11 855,53, OUR, INV 080719 dd 07.08.26, execution 17.08.2026 HKT. Статус не указан — ждём EXECUTED → 🟢. | Bobr Alert 24.08 18:07 МСК: IN 11 928 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 — возврат sent_usdt 11 928 (оплата по сделке прошла по CHATS SAISHENG→KYLON 17.08, USDT вернулись). Q9: 🟢 ВХОД 24.08.2026 11928 USDT — Вилог. Леджер записан (--q9). | 25.08 (Scream): строка переведена в 🔴 Step 0, компания убрана.",
-    "calc": null,
-    "txid": "d89651122d828e2ed76410ff42d75d10bcf1e32f4c3be144d3898d44113cec7e"
-  },
-  {
-    "row": 15,
-    "date": "2026-08-11",
     "sum": 1805.04,
     "currency": "USD",
     "company": "LEO",
@@ -286,7 +266,7 @@
     "calc": null
   },
   {
-    "row": 16,
+    "row": 15,
     "date": "2026-08-12",
     "sum": 3395,
     "currency": "USD",
@@ -305,7 +285,7 @@
     "calc": null
   },
   {
-    "row": 17,
+    "row": 16,
     "date": "2026-08-12",
     "sum": 92549.53,
     "currency": "USD",
@@ -324,7 +304,7 @@
     "calc": null
   },
   {
-    "row": 18,
+    "row": 17,
     "date": "2026-08-13",
     "sum": null,
     "currency": null,
@@ -360,10 +340,10 @@
     "notes": "BONBILL Exchange Voucher (Q8) 14.08.2026 15:33:37 UTC (txid 202608141533380337045): Q8 GROUP LIMITED (79807111801) продал USD 6 031,00 → купил CNH 40 641,31, курс 6,738736452517. Под заявку 40 500 CNY (инвойс XGHDH01, Autocollimator AIM-100-Line). | BONBILL Payment Certificate 25.08.2026 16:24:11 (txid O2092166132273381376267): Q8 GROUP LIMITED → Xi an Optical Metrology Co., Ltd (SHANDONG CHANGYI RURAL COMMERCIAL BANK, 2360027884205000025415), CNH 40 500,00. Invoice XGHDH01 dd 10.08.2026 For Autocollimator. EXECUTED → 🟢.",
     "exchangeDocType": "Q8_VOUCHER",
     "transactionId": "202608141533380337045",
-    "row": 19
+    "row": 18
   },
   {
-    "row": 20,
+    "row": 19,
     "date": "2026-08-14",
     "sum": 94380,
     "currency": "USD",
@@ -382,7 +362,7 @@
     "calc": null
   },
   {
-    "row": 21,
+    "row": 20,
     "date": "2026-08-14",
     "sum": 31710,
     "currency": "USD",
@@ -401,7 +381,7 @@
     "calc": null
   },
   {
-    "row": 22,
+    "row": 21,
     "date": "2026-08-17",
     "sum": 3901.3,
     "currency": "EUR",
@@ -420,7 +400,7 @@
     "calc": null
   },
   {
-    "row": 23,
+    "row": 22,
     "date": "2026-08-17",
     "sum": 6000,
     "currency": "USD",
@@ -439,7 +419,7 @@
     "calc": null
   },
   {
-    "row": 24,
+    "row": 23,
     "date": "2026-08-18",
     "sum": 11999.72,
     "currency": "USD",
@@ -458,7 +438,7 @@
     "calc": null
   },
   {
-    "row": 25,
+    "row": 24,
     "date": "2026-08-18",
     "sum": 4550,
     "currency": "USD",
@@ -477,7 +457,7 @@
     "calc": null
   },
   {
-    "row": 26,
+    "row": 25,
     "date": "2026-08-18",
     "sum": 77435,
     "currency": "USD",
@@ -496,7 +476,7 @@
     "calc": null
   },
   {
-    "row": 27,
+    "row": 26,
     "date": "2026-08-19",
     "sum": 3010,
     "currency": "USD",
@@ -515,7 +495,7 @@
     "calc": null
   },
   {
-    "row": 28,
+    "row": 27,
     "date": "2026-08-19",
     "sum": 12170.94,
     "currency": "EUR",
@@ -534,7 +514,7 @@
     "calc": null
   },
   {
-    "row": 29,
+    "row": 28,
     "date": "2026-08-19",
     "sum": null,
     "currency": null,
@@ -552,7 +532,7 @@
     "notes": "ПП на VDX №578 от 19.08.2026 ИСПОЛНЕНО (ВТБ): 413 751,33₽ → ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль). Частичная оплата за товар по инвойсу №PRM-078-PI-PRM 20260803 от 04.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (по курсу 86,8678). НДС не облагается. | Курс VDX не получен — ждём VDX-таблицу."
   },
   {
-    "row": 30,
+    "row": 29,
     "date": "2026-08-19",
     "sum": 2600,
     "currency": "USD",
@@ -571,7 +551,7 @@
     "calc": null
   },
   {
-    "row": 31,
+    "row": 30,
     "date": "2026-08-20",
     "sum": 14884.8,
     "currency": "USD",
@@ -590,7 +570,7 @@
     "calc": null
   },
   {
-    "row": 32,
+    "row": 31,
     "date": "2026-08-20",
     "sum": null,
     "currency": null,
@@ -609,7 +589,7 @@
     "notes": "ПП на VDX №579 от 20.08.2026 ИСПОЛНЕНО (ВТБ): 542 699,38₽ → ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль). Частичная оплата за товар по инвойсу №PRM-078-PI-PRM 20260803 от 04.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (по курсу 86,8319). НДС не облагается. | Курс VDX не получен — ждём VDX-таблицу."
   },
   {
-    "row": 33,
+    "row": 32,
     "date": "2026-08-20",
     "sum": null,
     "currency": null,
@@ -628,7 +608,7 @@
     "notes": "ПП на VDX №580 от 20.08.2026 ИСПОЛНЕНО (ВТБ): 204 575,96₽ → ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль). Част. оплата за товар по инв. LNR-191-RCF260819-LN от 20.08.2026, LNR-192-XYNET-20260819 от 20.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (по курсу 86,8319). НДС не облагается. | Курс VDX = 83.1 (VDX-таблица 21.08), received_usdt = 2459.34 USDT."
   },
   {
-    "row": 34,
+    "row": 33,
     "date": "2026-08-20",
     "sum": null,
     "currency": null,
@@ -647,7 +627,7 @@
     "notes": "ПП на VDX №581 от 20.08.2026 ИСПОЛНЕНО (ВТБ): 341 944,02₽ → ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль). Частичная оплата за товар по инв. ITK-010-RCF26081902-LN от 20.08.2026, ENT-043-PI013 от 20.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (по курсу 86,8319). НДС не облагается. | Курс VDX = 83.1 (VDX-таблица 21.08), received_usdt = 4110.73 USDT."
   },
   {
-    "row": 35,
+    "row": 34,
     "date": "2026-08-21",
     "sum": null,
     "currency": null,
@@ -666,7 +646,7 @@
     "calc": null
   },
   {
-    "row": 36,
+    "row": 35,
     "date": "2026-08-21",
     "sum": null,
     "currency": null,
@@ -686,7 +666,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 37,
+    "row": 36,
     "date": "2026-08-21",
     "sum": null,
     "currency": null,
@@ -706,7 +686,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 38,
+    "row": 37,
     "date": "2026-08-21",
     "sum": 23100,
     "currency": "USD",
@@ -726,7 +706,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 39,
+    "row": 38,
     "date": "2026-08-21",
     "sum": 2613.8,
     "currency": "USD",
@@ -746,7 +726,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 40,
+    "row": 39,
     "date": "2026-08-24",
     "sum": 169000,
     "currency": "CNY",
@@ -766,7 +746,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 41,
+    "row": 40,
     "date": "2026-08-25",
     "sum": 8000,
     "currency": "USD",
@@ -785,7 +765,7 @@
     "calc": null
   },
   {
-    "row": 42,
+    "row": 41,
     "date": "2026-08-25",
     "sum": 49000,
     "currency": "USD",
@@ -804,7 +784,7 @@
     "calc": null
   },
   {
-    "row": 43,
+    "row": 42,
     "date": "2026-08-26",
     "sum": null,
     "currency": null,
@@ -823,7 +803,7 @@
     "calc": null
   },
   {
-    "row": 44,
+    "row": 43,
     "date": "2026-08-26",
     "sum": null,
     "currency": null,
@@ -842,7 +822,7 @@
     "calc": null
   },
   {
-    "row": 45,
+    "row": 44,
     "date": "2026-08-26",
     "sum": null,
     "currency": null,
@@ -861,7 +841,7 @@
     "calc": null
   },
   {
-    "row": 46,
+    "row": 45,
     "date": "2026-08-27",
     "sum": 105000,
     "currency": "USD",
@@ -881,7 +861,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 47,
+    "row": 46,
     "date": "2026-08-27",
     "sum": 35000,
     "currency": "USD",
@@ -900,7 +880,7 @@
     "calc": null
   },
   {
-    "row": 48,
+    "row": 47,
     "date": "2026-08-27",
     "sum": 64152,
     "currency": "CNY",
@@ -919,7 +899,7 @@
     "calc": null
   },
   {
-    "row": 49,
+    "row": 48,
     "date": "2026-08-27",
     "sum": 10757.5,
     "currency": "USD",
@@ -938,7 +918,7 @@
     "calc": null
   },
   {
-    "row": 50,
+    "row": 49,
     "date": "2026-08-27",
     "sum": 13750,
     "currency": "USD",
@@ -957,7 +937,7 @@
     "calc": null
   },
   {
-    "row": 51,
+    "row": 50,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -976,7 +956,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 52,
+    "row": 51,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -994,7 +974,7 @@
     "notes": "ПП №591 от 28.08.2026 ИСПОЛНЕН 14:46:48 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 304 489,02₽. {VO11100} Част.оплата за товар по инв. ENT-045-SHR-C2C202608250012M от 27.08.26, ENT-047-SHR-C2C202608270013M от 27.08.26, дог. NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 87,6732. НДС не облагается. ⚠️ Инвойсы ENT-045/ENT-047 в таблицах не найдены — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   },
   {
-    "row": 53,
+    "row": 52,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -1012,7 +992,7 @@
     "notes": "ПП №592 от 28.08.2026 ИСПОЛНЕН 15:11:15 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 594 511,97₽. {VO11100} Частичная оплата за товар по инвойсу №LNR-197-2026-08-25/2 от 26.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 87,6732). НДС не облагается. ⚠️ Инвойс LNR-197-2026-08-25/2 в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   },
   {
-    "row": 54,
+    "row": 53,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -1031,7 +1011,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 55,
+    "row": 54,
     "date": "2026-08-31",
     "sum": 13543.21,
     "currency": "USD",
@@ -1050,13 +1030,13 @@
     "calc": null
   },
   {
-    "row": 56,
+    "row": 55,
     "date": "2026-08-31",
     "sum": 100200,
     "currency": "EUR",
     "company": null,
     "color": "FFFF0000",
-    "clientName": null,
+    "clientName": "Армяне (Молодёжь)",
     "costFormula": null,
     "extra": "Проформа PROF 9/8/2026 от 31.08.2026 (Investservis Pl Sp. z o.o., Польша → FININVEST ULUSLARARASI TİCARET ANONİM ŞİRKETİ, Турция): PAYMENT FOR TRIPARTITE AGREEMENT, 100 200,00 EUR, VAT 0%. Продавец: Investservis Pl, ul. Pułtuska 8C, 06-121 Pokrzywnica, NIP 5681635089, mBank IBAN PL20 1140 2000 0000 3712 2633 7680, SWIFT BREXPLPWMBK. Покупатель: FININVEST, Metropol İstanbul Sitesi, C1 Blok, 2B/376, 34758 İstanbul. Due 31.08.2026. 1 EUR = 4,3328 PLN (курс NBP). Клиент (принципал) уточняется.",
     "rubles_received": null,
