@@ -1066,5 +1066,24 @@
     "sent_usdt": 4112.54,
     "notes": " | BONBILL Payment Certificate 01.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → SHENZHEN LINGO SUPPLY (China Merchants Bank, CMBCCNBS050). 4 070,33 USD. INV 260800521 dd 25.08.2026 For Freight. TXID O209471392380157952045. EXECUTED 🟢",
     "calc": null
+  },
+  {
+    "row": 57,
+    "date": "2026-09-01",
+    "sum": null,
+    "currency": "Вилог",
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
