@@ -308,22 +308,22 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 17,
+    "row": 18,
     "date": "2026-09-01",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
+    "sum": 177845,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "ТЕТРА СТРОЙ (Движение 78)",
     "costFormula": null,
-    "extra": "ПП №1007 от 01.09.2026 ИСПОЛНЕНО (Альфа-Банк СПб → Почтабанк): ООО «ТЕТРА СТРОЙ» (ИНН 7841397780, КПП 781401001, счёт 40702810732130006973, Альфа-Банк БИК 044030786) → Блэкшарк Трейд (ИНН 9909705614, Почтабанк БИК 045773705, счёт 40807810100157518600). 496 370,01₽ {VO21100} Оплата агентского вознаграждения по агентскому договору №100826-СПБ от 10.08.2026, поручение №2 от 01.09.26. Без налога (НДС). rubles_received = 496370.01. Ждём заявку/привязку.",
-    "rubles_received": "496370.01",
+    "extra": "Проформа-инвойс 30082026 dd 30.08.2026 от ADEMSAN MAK. MUH. ASANSOR İNS. İSKELE SAN. VE TİC. LTD. ŞTİ (Dagyaka Mah 2002 Sokak No:11, Saray Kazan ANKARA/TURKEY, Tel +90 312 3942361) → Tetra Stroy LLC (ИНН 7841397780/КПП 781401001, 197183 СПб, Дибуновская 27 лит А пом 1Н; Северо-Западный банк Сбербанка). BMU System по Спецификации №1 от 23.07.2026 к Контракту №06/2026 от 23.07.2026 — 177 845,00 EUR, EXW ANKARA, Made in Turkey, гарантия 2 года. Оплата: Advance Payment → HALK BANK OSTIMKENT, IBAN TR32 0001 2001 4800 0058 1004 58, SWIFT TRHBTR2AXXX. Компания Q8 по аналогии с row 5 (ТЕТРА СТРОЙ, Движение 78) — уточнить при расчёте.",
+    "rubles_received": "18049809.17 / 496370.01",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "🔄 СЛИТО из row 17 (Scream/инвойс 30082026, 01.09.2026): рубли пришли по ПП №1008 (тело 18 049 809,17₽, {VO11100}, предоплата за оборудование СОФ по дог.№06/2026, инвойс 30082026 от 30.08.26, Агентский дог.№100826-СПБ, перевод ДС ПА поруч.№2 от 01.09.26) + ПП №1007 (агентское 496 370,01₽, {VO21100}). rubles_received = 18049809.17 / 496370.01. Ждём заявку/курс. | Проформа-инвойс 30082026 dd 30.08.2026 (ADEMSAN, Турция → Tetra Stroy): BMU System, 177 845,00 EUR, дог.06/2026 от 23.07.2026, EXW Ankara, Advance Payment, HALK BANK (TR32 0001 2001 4800 0058 1004 58, TRHBTR2AXXX). | Поручение №1 от 01.09.2026 (Transfer Request, прил. к аг.договору №100826-СПБ от 10.08.2026): Принципал ООО «Тетра Строй» (ИНН 7841397780, КПП 7831401001, СПб, Дибуновская 27 лит А пом 1Н, ген. дир. Урин А.И.) → Агент ООО «Блэкшарк Трейд» (Бишкек, ИНН 9909705614). Получатель: ADEMSAN MAKİNA MÜHENDİSLİK ASANSÖR İNŞAAT İSKELE SAN. VE TİC. LTD (ŞTİ. DAĞYAKA MAH. 2002 SOKAK NO:11 SARAY KAHRAMAN KAZAN ANKARA; Türkiye Halk Bankası AŞ, branch OSTIMKENT, TRHBTR2AXXX). Перевод ДС 177 845,00 EUR (18 049 809,17₽) + агентское 4 890,74 EUR (2,75% = 496 370,01₽) = ИТОГО 182 735,74 EUR (18 546 179,18₽). Курс 101,4918 ₽/EUR (из поручения, НЕ vdx_rate). Контракт 06/2026 от 23.07.2026, Спецификация №1 от 23.07.2026 (BMU System). Срок 3 банк. дня. | Application for transfer (DOCX, 01.09.2026): ADEMSAN, EUR 177 845,00, HALK BANK OSTIMKENT, TRHBTR2AXXX, CONTRACT №06/2026 from 23 July 2026.",
     "calc": null
   }
 ]
