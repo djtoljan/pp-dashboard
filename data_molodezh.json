@@ -1066,5 +1066,24 @@
     "sent_usdt": 4112.54,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 57,
+    "date": "2026-09-01",
+    "sum": 103885.4,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Поручение (Payment Order DOCX 01.09.2026, 📨 Молодежь): 103 885,40 USD → AGARO COIN AUCTION, S.L. (17220, SPAIN, SANT FELIU DE GUÍXOLS (GIRONA), CALLE AGARO NUM 89; BBVA, c/Sauceda 28, SWIFT BBVAESMMXXX, IBAN ES1101825117092010000115). PAYMENT BY PROFORMA INVOICE NO. HZH2026E60572 DD 14.08.2026 FOR MASSAGE CHAIRS. Step 0 красный, компания ждёт заявку. Клиент уточняется: AGARO — как row 45 (ИП Зольников), HZH2026E60572 — как row 47 (Эксперт).",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
