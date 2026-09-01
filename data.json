@@ -1626,5 +1626,24 @@
     "sent_usdt": 29518.2,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 85,
+    "date": "2026-09-01",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ФИНИНВЕСТ",
+    "costFormula": null,
+    "extra": "Выписка Блэкшарк Трейд ПОЧТОБАНК 01.09.2026 (предварительная, счёт 40807810100157518600): приход 1 698 082,05₽ {VO60081} Оплата по Агентскому Договору, НДС не облагается, от АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» (ИНН 9909705580, счёт 40807810324600000016, БИК 044525411). rubles_received = 1698082.05. Ждём заявку/привязку.",
+    "rubles_received": "1698082.05",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
