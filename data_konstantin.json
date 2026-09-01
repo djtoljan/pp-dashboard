@@ -711,15 +711,15 @@
     "company": "INTEGRA",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "261 366,00 EUR — себестоимость 0 (из возврата)",
     "extra": "Заявка 01.09.2026 (Payment from INTEGRA ❗️, из возврата, OUR): 261 366,00 EUR → Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany; Deutsche Bank AG, Taunusanlage 12, 60325 Frankfurt am Main, SWIFT DEUTDE3B490, a/c DE03 4907 0028 0291 3713 00). Payment details: 3975038 dd 21.04.26. Компания INTEGRA. ⬜ Step 3, расчёт ждём от Scream.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "sent_usdt": 0,
+    "notes": " | 🚨 Себестоимость 0 (Scream 01.09.2026): платёж из возврата, USDT не требуется. Компания INTEGRA подтверждена. sent_usdt = 0.",
+    "calc": "ТЕЗ"
   }
 ]
