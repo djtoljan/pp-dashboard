@@ -633,7 +633,7 @@
     "sum": 262021,
     "currency": "USD",
     "company": "INFINITE",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "262 021,00 USD + 0,5% = 263 331 USDT",
     "calc": "ТЕЗ",
@@ -644,7 +644,7 @@
     "vdx_rate": null,
     "received_usdt": 264117.17,
     "sent_usdt": 263331,
-    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 31.08.2026): Payment from INFINITE❗ OUR → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD, Al Qusais, EBILAEAD, AE690260000514449097303), INV 90218959 dd 27.08.26, 262 021,00 USD. Компания INFINITE (подтверждена). Step 3 ⬜, ждём исполнение/расчёт. | IN 31.08.2026 (Bobr Alert 11:35 МСК, Рабочий 4, отправитель TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4): 264 117,17 USDT под заявку 262 021,00 USD (262 021 × 1,008 = 264 117,17). Q9 отправлен, леджер --q9. | Расчёт 31.08.2026 (📨 Ордера и Расчеты, Infinite): 262 021,00 USD + 0,5% = 263 331 USDT (sent_usdt = 263331). Кошелёк отправки: TNiW2ZgWerAcmJrCZRdwds8RQ3mcFokBnt. | OUT 31.08.2026 (Bobr Alert 12:24 МСК, Рабочий 4): 263 331,0 USDT → TNiW2ZgWerAcmJrCZRdwds8RQ3mcFokBnt (txid cc3d35c00fa5eccef0d02dac535e947c2b2bc952537f87d9aa84771977cc97c5) — отправка по расчёту Infinite 263 331 USDT (262 021 + 0,5%). Q9 отправлен, леджер --q9. Цвет не меняется (USDT-перевод, ждём банковское EXECUTED → 🟢)."
+    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 31.08.2026): Payment from INFINITE❗ OUR → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD, Al Qusais, EBILAEAD, AE690260000514449097303), INV 90218959 dd 27.08.26, 262 021,00 USD. Компания INFINITE (подтверждена). Step 3 ⬜, ждём исполнение/расчёт. | IN 31.08.2026 (Bobr Alert 11:35 МСК, Рабочий 4, отправитель TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4): 264 117,17 USDT под заявку 262 021,00 USD (262 021 × 1,008 = 264 117,17). Q9 отправлен, леджер --q9. | Расчёт 31.08.2026 (📨 Ордера и Расчеты, Infinite): 262 021,00 USD + 0,5% = 263 331 USDT (sent_usdt = 263331). Кошелёк отправки: TNiW2ZgWerAcmJrCZRdwds8RQ3mcFokBnt. | OUT 31.08.2026 (Bobr Alert 12:24 МСК, Рабочий 4): 263 331,0 USDT → TNiW2ZgWerAcmJrCZRdwds8RQ3mcFokBnt (txid cc3d35c00fa5eccef0d02dac535e947c2b2bc952537f87d9aa84771977cc97c5) — отправка по расчёту Infinite 263 331 USDT (262 021 + 0,5%). Q9 отправлен, леджер --q9. Цвет не меняется (USDT-перевод, ждём банковское EXECUTED → 🟢). | Outgoing Remittance SWF32381731 (BRI Qlola Cash Mgmt, банковский документ) 01.09.2026, UETR 328f5842-0c86-458f-8508-2ca091e4250e, Reff 0374029168672703, Created 01/09/2026 05:57:17, Approved 07:40:42, Value Date 01/09/2026 09:05:15, Transacton Status Success: INFINITE SUNRISE ASI (PT BANK RAKYAT INDONESIA, BRINIDJA, 0590********305) → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD BANK PJSC, EBILAEADXXX, AE690260000514449097303), 262 021,00 USD, Remark Invoice 90218959, Total Fee 33,95, Total Debit 262 054,95. 🟢 EXECUTED."
   },
   {
     "row": 35,
