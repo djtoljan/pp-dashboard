@@ -709,7 +709,7 @@
     "sum": 261366,
     "currency": "EUR",
     "company": "INTEGRA",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "261 366,00 EUR — себестоимость 0 (из возврата)",
     "extra": "Заявка 01.09.2026 (Payment from INTEGRA ❗️, из возврата, OUR): 261 366,00 EUR → Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany; Deutsche Bank AG, Taunusanlage 12, 60325 Frankfurt am Main, SWIFT DEUTDE3B490, a/c DE03 4907 0028 0291 3713 00). Payment details: 3975038 dd 21.04.26. Компания INTEGRA. ⬜ Step 3, расчёт ждём от Scream.",
@@ -719,7 +719,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 0,
-    "notes": " | 🚨 Себестоимость 0 (Scream 01.09.2026): платёж из возврата, USDT не требуется. Компания INTEGRA подтверждена. sent_usdt = 0.",
+    "notes": " | 🚨 Себестоимость 0 (Scream 01.09.2026): платёж из возврата, USDT не требуется. Компания INTEGRA подтверждена. sent_usdt = 0. | MT73 TRANSACTION CONFIRMATION PAYOUT (Тип 3 INITIATED, Created 01.09.2026 14:05 UTC, Account MT73CFTE28004000000000005739981): INTEGRA TRADE LIMITED → Melitta Europa GmbH & Co. KG (Deutsche Bank, DE03490700280291371300), SEPA, -261 366,00 EUR, Invoice No. 3975038. Status: INITIATED → 🟡. Ждём EXECUTED → 🟢.",
     "calc": "ТЕЗ"
   }
 ]
