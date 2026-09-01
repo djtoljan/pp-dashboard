@@ -610,25 +610,6 @@
   },
   {
     "row": 33,
-    "date": "2026-09-01",
-    "sum": 200000,
-    "currency": "USD",
-    "company": "INFINITE",
-    "color": "FFFFFFFF",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": "200 000,00 USD + 0,5% = 201 000 USDT",
-    "extra": "Заявка (Application, 28.08.2026, 📨 Константин Просто Группа): Payment for household appliances, invoice no 90218514. 200 000,00 USD → DeLonghi Kenwood MEIA FZE (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Dubai, UAE, PO Box 263338; TRN 100352486300003). Банк: JPMorgan Chase Bank (Great Britain, 25 Bank Street, Canary Wharf, London E14 5JP), IBAN GB23CHAS60924210018187, SWIFT CHASGB2L. | 🚨 НОВАЯ СДЕЛКА (решение Scream 31.08.2026) — не частичная оплата row 29. Компания INFINITE. Расчёт ждём от Scream. | PI 90218514 dd 14.08.2026 (скан, 📨 Константин Просто Группа): De'Longhi Kenwood MEIA FZE → PT Infinite Sunrise Asia (Jalan Udayana No.164, Bali, Indonesia). 3 052 шт × 119,00 = 363 188,00 + 2 950 шт × 160,00 = 472 000,00 = ИТОГО 835 188,00 USD. EX WORKS, PAYMENT IN ADVANCE, Order 115552061, Account 693465. HS 85164000.",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": 201600,
-    "sent_usdt": 201000,
-    "notes": "Заявка (Application, 28.08.2026, 📨 Константин Просто Группа): Payment for household appliances, invoice no 90218514. 200 000,00 USD → DeLonghi Kenwood MEIA FZE (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Dubai, UAE, PO Box 263338; TRN 100352486300003). Банк (⚠️ НЕ ИСПОЛЬЗУЕТСЯ — Scream 31.08: INFINITE не платит на JPMorgan, платежи не доходят): JPMorgan Chase Bank (Great Britain, 25 Bank Street, London E14 5JP), IBAN GB23CHAS60924210018187, SWIFT CHASGB2L. ✅ РЕКВИЗИТЫ ДЛЯ ОПЛАТЫ: EMIRATES NBD, Al Qusais Branch, Dubai, SWIFT EBILAEAD, a/c AE690260000514449097303 (как обычно, row 29/32/34). | 🚨 НОВАЯ СДЕЛКА (решение Scream 31.08.2026) — не частичная оплата row 29. Компания INFINITE. Расчёт ждём от Scream. | PI 90218514 dd 14.08.2026 (скан, 📨 Константин Просто Группа): De'Longhi Kenwood MEIA FZE → PT Infinite Sunrise Asia (Jalan Udayana No.164, Bali, Indonesia). 3 052 шт × 119,00 = 363 188,00 + 2 950 шт × 160,00 = 472 000,00 = ИТОГО 835 188,00 USD. EX WORKS, PAYMENT IN ADVANCE, Order 115552061, Account 693465. HS 85164000. | Дата строки → 2026-08-31 (правило «заявка → дата = сегодня»). | Заявка подтверждена (📨 Ордера и Расчеты, 31.08.2026): Payment from INFINITE❗ OUR → DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, SWIFT EBILAEAD, a/c AE690260000514449097303), INV 90218514 dd 14.08.26, 200 000,00 USD. | Обновлённая Заявка (Application XLSX, 01.09.2026, 📨 Константин Просто Группа): 200 000,00 USD, for household appliances, invoice no 90218514 → DeLonghi Kenwood MEIA FZE (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Dubai, PO Box 263338). Банк бенефициара: EMIRATES NBD Bank PJSC (Baniyas Road, Deira, P.O. Box 777, Dubai, UAE), IBAN AE690260000514449097303, SWIFT EBILAEAD. Подтверждает ✅ реквизиты для оплаты (EMIRATES NBD, как row 29/32/34). | 01.09.2026 (📨 Ордера и Расчеты): ЧАСТИЧНАЯ ОПЛАТА — 200 000,00 USD = часть проформы 90218514 (ИТОГО 835 188,00 USD, De'Longhi Kenwood MEIA FZE → PT Infinite Sunrise Asia). При этом это НЕ частичная оплата row 29 (250 267,00 USD) — отдельная строка (решение Scream 31.08.2026). Расчёт ждём от Scream. | IN 01.09.2026 09:38 UTC (Bobr Alert, Рабочий 4): 201 865,73 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS (кошелёк Константин Просто Группа, подтверждено скриншотом 📨 Константин Просто Группа 01.09 12:38: -201 865,73 USDT → TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri). received_usdt = 201865.73. ⚠️ Сумма чуть выше стандарта INFINITE ×1,008 (200 000 × 1,008 = 201 600) — уточнить расчёт. Q9 отправлен, леджер --q9. | 🚨 РАЗБИВКА 01.09.2026 (Scream): платеж 201 865,73 USDT разделён — row 33 = 201 600,00 USDT (200 000 × 1,008, стандарт INFINITE), остаток 265,73 USDT → row 30 (компенсация минусовой маржи). | 📅 Дата строки → 2026-09-01 (Scream 01.09.2026).",
-    "calc": "ТЕЗ"
-  },
-  {
-    "row": 34,
     "date": "2026-08-31",
     "sum": 262021,
     "currency": "USD",
@@ -647,7 +628,7 @@
     "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 31.08.2026): Payment from INFINITE❗ OUR → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD, Al Qusais, EBILAEAD, AE690260000514449097303), INV 90218959 dd 27.08.26, 262 021,00 USD. Компания INFINITE (подтверждена). Step 3 ⬜, ждём исполнение/расчёт. | IN 31.08.2026 (Bobr Alert 11:35 МСК, Рабочий 4, отправитель TWNpTxj7L7LF28ps7Uiv3NGwDLfQWz4fW4): 264 117,17 USDT под заявку 262 021,00 USD (262 021 × 1,008 = 264 117,17). Q9 отправлен, леджер --q9. | Расчёт 31.08.2026 (📨 Ордера и Расчеты, Infinite): 262 021,00 USD + 0,5% = 263 331 USDT (sent_usdt = 263331). Кошелёк отправки: TNiW2ZgWerAcmJrCZRdwds8RQ3mcFokBnt. | OUT 31.08.2026 (Bobr Alert 12:24 МСК, Рабочий 4): 263 331,0 USDT → TNiW2ZgWerAcmJrCZRdwds8RQ3mcFokBnt (txid cc3d35c00fa5eccef0d02dac535e947c2b2bc952537f87d9aa84771977cc97c5) — отправка по расчёту Infinite 263 331 USDT (262 021 + 0,5%). Q9 отправлен, леджер --q9. Цвет не меняется (USDT-перевод, ждём банковское EXECUTED → 🟢). | Outgoing Remittance SWF32381731 (BRI Qlola Cash Mgmt, банковский документ) 01.09.2026, UETR 328f5842-0c86-458f-8508-2ca091e4250e, Reff 0374029168672703, Created 01/09/2026 05:57:17, Approved 07:40:42, Value Date 01/09/2026 09:05:15, Transacton Status Success: INFINITE SUNRISE ASI (PT BANK RAKYAT INDONESIA, BRINIDJA, 0590********305) → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD BANK PJSC, EBILAEADXXX, AE690260000514449097303), 262 021,00 USD, Remark Invoice 90218959, Total Fee 33,95, Total Debit 262 054,95. 🟢 EXECUTED."
   },
   {
-    "row": 35,
+    "row": 34,
     "date": "2026-08-31",
     "sum": 56390.7,
     "currency": "EUR",
@@ -666,7 +647,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 36,
+    "row": 35,
     "date": "2026-08-31",
     "sum": 24068.55,
     "currency": "EUR",
@@ -682,6 +663,25 @@
     "received_usdt": 28155.6,
     "sent_usdt": 28114.05,
     "notes": "Заявка (Application, 28.08.2026, 📨 Константин Просто Группа): Payment for household appliances, invoice no 90218514. 200 000,00 USD → DeLonghi Kenwood MEIA FZE (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Dubai, UAE, PO Box 263338; TRN 100352486300003). Банк: JPMorgan Chase Bank (Great Britain, 25 Bank Street, Canary Wharf, London E14 5JP), IBAN GB23CHAS60924210018187, SWIFT CHASGB2L. | PI 90218514 dd 14.08.2026 (скан, 📨 Константин Просто Группа): De'Longhi Kenwood MEIA FZE → PT Infinite Sunrise Asia (Jalan Udayana No.164, Bali, Indonesia). 3 052 шт × 119,00 = 363 188,00 + 2 950 шт × 160,00 = 472 000,00 = ИТОГО 835 188,00 USD. EX WORKS, PAYMENT IN ADVANCE, Order 115552061, Account 693465. HS 85164000. | 🚨 НОВАЯ СДЕЛКА (решение Scream 31.08.2026) — не частичная оплата row 29. Компания INFINITE (покупатель PT Infinite Sunrise Asia). Расчёт ждём от Scream. | Заявка подтверждена (📨 Ордера и Расчеты, 31.08.2026): Payment from Transpath❗ OUR → AlteVia OU (17-51 Tammepõllu tee, 74001 Haabneeme, Estonia; Coop Pank AS, Maakri 30, Tallinn 15014; SWIFT EKRDEE22; a/c EE794204278622781603), INV.260313 dd 31.08.26, 24 068,55 EUR. | Кросс-курс EUR/USD = 1.15985463 (31.08.2026, 12:18 UTC, 📨 Ордера и Расчеты): 24 069,00 EUR → 27 916,54 USD. | IN 31.08.2026 (Bobr Alert 13:23 UTC, Рабочий 4, отправитель TC4CXbtM8WKFvvsgbmc6TzYE4TDVEj5MeV): 28 155,6 USDT под заявку 24 068,55 EUR (AlteVia 260313, TRANSPATH). TXID 1c5329909fb6cdfff78550b7586debc19918ea4da3d1f892eb05c00ebd5d2df3. Q9 отправлен, леджер --q9. | MT73 TRANSACTION CONFIRMATION (📨 Платежные Поручения, 31.08.2026): TRANSPATH LOGISTIC LIMITED, a/c MT73CFTE28004000000000005036925 → AlteVia OU (IBAN EE794204278622781603), INV.260313 dd 31.08.26, -24 068,55 EUR, SEPA. Status: INITIATED, Created 31 August 2026 at 13:59:05 UTC. | Расчёт 31.08.2026 (📨 Ордера и Расчеты, INTEGRA/TRANSPATH): 27 916 / (1 - 0,35%) + 100 = 28 114,049 USDT. Сводно с INTEGRA (65 635,725) = 93 750 USDT. Кошелёк отправки: TCbRY9C4TpFmuhEEnXhHWhXR4D8WkPBBf8. | OUT 31.08.2026 (Bobr Alert 14:58:57 UTC, Рабочий 4): 93 750,0 USDT → TCbRY9C4TpFmuhEEnXhHWhXR4D8WkPBBf8 (сводный платёж INTEGRA 65 635,725 + TRANSPATH 28 114,049 = 93 750). TXID 17d8c9cf4e8578386ecd94cd18cdb07a36a514e7aab5627ae17ec038a6a5f7b9. Q9 отправлен, леджер --q9. Цвет не меняется (USDT-перевод, ждём банковское EXECUTED → 🟢).",
+    "calc": "ТЕЗ"
+  },
+  {
+    "row": 36,
+    "date": "2026-09-01",
+    "sum": 200000,
+    "currency": "USD",
+    "company": "INFINITE",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": "200 000,00 USD + 0,5% = 201 000 USDT",
+    "extra": "Заявка (Application, 28.08.2026, 📨 Константин Просто Группа): Payment for household appliances, invoice no 90218514. 200 000,00 USD → DeLonghi Kenwood MEIA FZE (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Dubai, UAE, PO Box 263338; TRN 100352486300003). Банк: JPMorgan Chase Bank (Great Britain, 25 Bank Street, Canary Wharf, London E14 5JP), IBAN GB23CHAS60924210018187, SWIFT CHASGB2L. | 🚨 НОВАЯ СДЕЛКА (решение Scream 31.08.2026) — не частичная оплата row 29. Компания INFINITE. Расчёт ждём от Scream. | PI 90218514 dd 14.08.2026 (скан, 📨 Константин Просто Группа): De'Longhi Kenwood MEIA FZE → PT Infinite Sunrise Asia (Jalan Udayana No.164, Bali, Indonesia). 3 052 шт × 119,00 = 363 188,00 + 2 950 шт × 160,00 = 472 000,00 = ИТОГО 835 188,00 USD. EX WORKS, PAYMENT IN ADVANCE, Order 115552061, Account 693465. HS 85164000.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": 201600,
+    "sent_usdt": 201000,
+    "notes": "Заявка (Application, 28.08.2026, 📨 Константин Просто Группа): Payment for household appliances, invoice no 90218514. 200 000,00 USD → DeLonghi Kenwood MEIA FZE (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Dubai, UAE, PO Box 263338; TRN 100352486300003). Банк (⚠️ НЕ ИСПОЛЬЗУЕТСЯ — Scream 31.08: INFINITE не платит на JPMorgan, платежи не доходят): JPMorgan Chase Bank (Great Britain, 25 Bank Street, London E14 5JP), IBAN GB23CHAS60924210018187, SWIFT CHASGB2L. ✅ РЕКВИЗИТЫ ДЛЯ ОПЛАТЫ: EMIRATES NBD, Al Qusais Branch, Dubai, SWIFT EBILAEAD, a/c AE690260000514449097303 (как обычно, row 29/32/34). | 🚨 НОВАЯ СДЕЛКА (решение Scream 31.08.2026) — не частичная оплата row 29. Компания INFINITE. Расчёт ждём от Scream. | PI 90218514 dd 14.08.2026 (скан, 📨 Константин Просто Группа): De'Longhi Kenwood MEIA FZE → PT Infinite Sunrise Asia (Jalan Udayana No.164, Bali, Indonesia). 3 052 шт × 119,00 = 363 188,00 + 2 950 шт × 160,00 = 472 000,00 = ИТОГО 835 188,00 USD. EX WORKS, PAYMENT IN ADVANCE, Order 115552061, Account 693465. HS 85164000. | Дата строки → 2026-08-31 (правило «заявка → дата = сегодня»). | Заявка подтверждена (📨 Ордера и Расчеты, 31.08.2026): Payment from INFINITE❗ OUR → DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, SWIFT EBILAEAD, a/c AE690260000514449097303), INV 90218514 dd 14.08.26, 200 000,00 USD. | Обновлённая Заявка (Application XLSX, 01.09.2026, 📨 Константин Просто Группа): 200 000,00 USD, for household appliances, invoice no 90218514 → DeLonghi Kenwood MEIA FZE (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Dubai, PO Box 263338). Банк бенефициара: EMIRATES NBD Bank PJSC (Baniyas Road, Deira, P.O. Box 777, Dubai, UAE), IBAN AE690260000514449097303, SWIFT EBILAEAD. Подтверждает ✅ реквизиты для оплаты (EMIRATES NBD, как row 29/32/34). | 01.09.2026 (📨 Ордера и Расчеты): ЧАСТИЧНАЯ ОПЛАТА — 200 000,00 USD = часть проформы 90218514 (ИТОГО 835 188,00 USD, De'Longhi Kenwood MEIA FZE → PT Infinite Sunrise Asia). При этом это НЕ частичная оплата row 29 (250 267,00 USD) — отдельная строка (решение Scream 31.08.2026). Расчёт ждём от Scream. | IN 01.09.2026 09:38 UTC (Bobr Alert, Рабочий 4): 201 865,73 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS (кошелёк Константин Просто Группа, подтверждено скриншотом 📨 Константин Просто Группа 01.09 12:38: -201 865,73 USDT → TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri). received_usdt = 201865.73. ⚠️ Сумма чуть выше стандарта INFINITE ×1,008 (200 000 × 1,008 = 201 600) — уточнить расчёт. Q9 отправлен, леджер --q9. | 🚨 РАЗБИВКА 01.09.2026 (Scream): платеж 201 865,73 USDT разделён — row 33 = 201 600,00 USDT (200 000 × 1,008, стандарт INFINITE), остаток 265,73 USDT → row 30 (компенсация минусовой маржи). | 📅 Дата строки → 2026-09-01 (Scream 01.09.2026).",
     "calc": "ТЕЗ"
   },
   {

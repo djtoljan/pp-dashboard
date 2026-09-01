@@ -861,25 +861,6 @@
   },
   {
     "row": 46,
-    "date": "2026-09-01",
-    "sum": 64152,
-    "currency": "CNY",
-    "company": "TOMO",
-    "color": "FFFFFFFF",
-    "clientName": "Эксперт (Молодёжь)",
-    "costFormula": "(64 152,00 CNY + 750) / 6,7219 * 1,007 = 9723 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": "832320.88 / 33980.12 (VDX)",
-    "exchange_to": "VDX",
-    "vdx_rate": 85.95,
-    "received_usdt": "9674.1 / 394.95",
-    "sent_usdt": 9723,
-    "notes": "Поручение №14 от 27.08.2026 (аг.договор №09-02-2/26 от 09.02.2026, ООО «ЭКСПЕРТ» → VDX SERVICES - FZCO): тело для ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD за товар по cont.321-EX170323 dd 17.03.2023, PR.IN. №HZH2026E60572 dd 14.08.2026. ПП №360 от 27.08.2026 — 832 320,88₽ {VO11100} (тело). ПП №361 от 27.08.2026 — 33 980,12₽ {VO21100} (агентское по поручению №14). Принято 27.08.2026. → exchange_to = VDX. ПП на VDX №360 от 27.08.2026 (тело 832 320,88₽) / №361 от 27.08.2026 (агентское 33 980,12₽). | Проформа-инвойс HZH2026E60572 dd 14.08.2026 (PI_A3580A-11, ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD, Wenzhou; FOB Ningbo, RMB) — привязан к Поручению №14. | ПП №157256 от 28.08.2026 (VDX → ZHEJIANG HAOZHONGHAO, валютный перевод): 64 152,00 CNY → ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD (NO.18 XINGLONG ROAD, FURNITURE GARDEN, WANQUAN INDUSTRY BASE, PINGYANG, WENZHOU, ZHEJIANG; ICBC ZHEJIANG PROVINCIAL BRANCH, NO.68-70 XINHEZHONG ROAD, PINGYANG; a/c 1203283209045761119, SWIFT ICBKCNBJZJP). PAYMENT BY PROFORMA INVOICE NO. HZH2026E60572 DD 14.08.2026 FOR MASSAGE CHAIRS. | Заявка (Тип 4, 📨 Ордера и Расчеты, 31.08.2026): Payment from TOMO❗️ OUR → ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD (NO.18 XINGLONG ROAD, FURNITURE GARDEN, WANQUAN INDUSTRY BASE, PINGYANG, WENZHOU, ZHEJIANG, CHINA; ICBC ZHEJIANG PROVINCIAL BRANCH, SWIFT ICBKCNBJZJP, a/c 1203283209045761119). INVOICE NO. HZH2026E60572 DD 14.08.2026. 64 152,00 CNY (первый депозит 64 152 по проформе, всего 213 840 CNY: 66 массажных кресел @ 3 240, FOB Ningbo). Компания TOMO. Step 3 ⬜. Расчёт ждём от Scream. | 📅 Дата строки → 2026-09-01 (Scream 01.09.2026: дата сегодняшняя, не 27.08).",
-    "calc": null
-  },
-  {
-    "row": 47,
     "date": "2026-08-27",
     "sum": 10757.5,
     "currency": "USD",
@@ -898,7 +879,7 @@
     "calc": null
   },
   {
-    "row": 48,
+    "row": 47,
     "date": "2026-08-27",
     "sum": 13750,
     "currency": "USD",
@@ -917,7 +898,7 @@
     "calc": null
   },
   {
-    "row": 49,
+    "row": 48,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -936,7 +917,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 50,
+    "row": 49,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -954,7 +935,7 @@
     "notes": "ПП №591 от 28.08.2026 ИСПОЛНЕН 14:46:48 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 304 489,02₽. {VO11100} Част.оплата за товар по инв. ENT-045-SHR-C2C202608250012M от 27.08.26, ENT-047-SHR-C2C202608270013M от 27.08.26, дог. NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 87,6732. НДС не облагается. ⚠️ Инвойсы ENT-045/ENT-047 в таблицах не найдены — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   },
   {
-    "row": 51,
+    "row": 50,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -972,7 +953,7 @@
     "notes": "ПП №592 от 28.08.2026 ИСПОЛНЕН 15:11:15 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 594 511,97₽. {VO11100} Частичная оплата за товар по инвойсу №LNR-197-2026-08-25/2 от 26.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 87,6732). НДС не облагается. ⚠️ Инвойс LNR-197-2026-08-25/2 в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   },
   {
-    "row": 52,
+    "row": 51,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -991,7 +972,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 53,
+    "row": 52,
     "date": "2026-08-31",
     "sum": 13543.21,
     "currency": "USD",
@@ -1010,7 +991,7 @@
     "calc": null
   },
   {
-    "row": 54,
+    "row": 53,
     "date": "2026-08-31",
     "sum": 100200,
     "currency": "EUR",
@@ -1026,6 +1007,25 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": null,
+    "calc": null
+  },
+  {
+    "row": 54,
+    "date": "2026-09-01",
+    "sum": 64152,
+    "currency": "CNY",
+    "company": "TOMO",
+    "color": "FFFFFFFF",
+    "clientName": "Эксперт (Молодёжь)",
+    "costFormula": "(64 152,00 CNY + 750) / 6,7219 * 1,007 = 9723 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "832320.88 / 33980.12 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": 85.95,
+    "received_usdt": "9674.1 / 394.95",
+    "sent_usdt": 9723,
+    "notes": "Поручение №14 от 27.08.2026 (аг.договор №09-02-2/26 от 09.02.2026, ООО «ЭКСПЕРТ» → VDX SERVICES - FZCO): тело для ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD за товар по cont.321-EX170323 dd 17.03.2023, PR.IN. №HZH2026E60572 dd 14.08.2026. ПП №360 от 27.08.2026 — 832 320,88₽ {VO11100} (тело). ПП №361 от 27.08.2026 — 33 980,12₽ {VO21100} (агентское по поручению №14). Принято 27.08.2026. → exchange_to = VDX. ПП на VDX №360 от 27.08.2026 (тело 832 320,88₽) / №361 от 27.08.2026 (агентское 33 980,12₽). | Проформа-инвойс HZH2026E60572 dd 14.08.2026 (PI_A3580A-11, ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD, Wenzhou; FOB Ningbo, RMB) — привязан к Поручению №14. | ПП №157256 от 28.08.2026 (VDX → ZHEJIANG HAOZHONGHAO, валютный перевод): 64 152,00 CNY → ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD (NO.18 XINGLONG ROAD, FURNITURE GARDEN, WANQUAN INDUSTRY BASE, PINGYANG, WENZHOU, ZHEJIANG; ICBC ZHEJIANG PROVINCIAL BRANCH, NO.68-70 XINHEZHONG ROAD, PINGYANG; a/c 1203283209045761119, SWIFT ICBKCNBJZJP). PAYMENT BY PROFORMA INVOICE NO. HZH2026E60572 DD 14.08.2026 FOR MASSAGE CHAIRS. | Заявка (Тип 4, 📨 Ордера и Расчеты, 31.08.2026): Payment from TOMO❗️ OUR → ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD (NO.18 XINGLONG ROAD, FURNITURE GARDEN, WANQUAN INDUSTRY BASE, PINGYANG, WENZHOU, ZHEJIANG, CHINA; ICBC ZHEJIANG PROVINCIAL BRANCH, SWIFT ICBKCNBJZJP, a/c 1203283209045761119). INVOICE NO. HZH2026E60572 DD 14.08.2026. 64 152,00 CNY (первый депозит 64 152 по проформе, всего 213 840 CNY: 66 массажных кресел @ 3 240, FOB Ningbo). Компания TOMO. Step 3 ⬜. Расчёт ждём от Scream. | 📅 Дата строки → 2026-09-01 (Scream 01.09.2026: дата сегодняшняя, не 27.08).",
     "calc": null
   },
   {
