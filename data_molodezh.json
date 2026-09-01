@@ -1047,5 +1047,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 56,
+    "date": "2026-09-01",
+    "sum": 4070.33,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": "4 070,33 + 0.3% + 30 = 4 112,54 USDT",
+    "extra": "Инвойс INV260800521 dd 25.08.2026 от Shenzhen Lingo Supply Chain Management Co.,LTD (YUEYUN BUILDING, LUOHU DISTRICT SHENZHEN, CHINA; China Merchants Bank, SWIFT CMBCCNBS050, a/c 755969239132000). Payer: Q8 GROUP LIMITED. AIR FREIGHT: 1 615,41 + 2 454,92 = 4 070,33 USD. PO DOCX (Currency Instruction) 01.09.2026 — реквизиты совпадают.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 4112.54,
+    "notes": null,
+    "calc": null
   }
 ]
