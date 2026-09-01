@@ -1126,5 +1126,24 @@
     "notes": "ПП на VDX №598 от 01.09.2026 ИСПОЛНЕН 16:28:05 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ, ИНН 9909710068, сч. 40807810000000015414). Назначение: {VO11100} Част. оплата за товар по инвойсам LNR-198-2026-08-28/1 от 31.08.26, AMT-133-WHSW20260828N02 от 28.08.26, договор NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) по курсу 88,1069. НДС не облагается.",
     "calc": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
+  },
+  {
+    "row": 60,
+    "date": "2026-09-01",
+    "sum": null,
+    "currency": "ИП Зольников (Молодёжь)",
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
