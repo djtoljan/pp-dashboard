@@ -1651,5 +1651,24 @@
     "notes": "VDX-уведомление операционки 31.08.2026 (📨 Отправки рублей ПП): с Блэкшарк ПОЧТОБАНК на ВиДиИкс, 2 999 999,03 ₽ — цветы, заявка 726, ООО ПРИОРИТЕТ МАРКЕТ (тело 2 926 828,32 + агентское 73 170,71). Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 31.08.26_1. | ПП на VDX №530 от 01.09.2026 ИСПОЛНЕНО (Почтабанк, 11:57 GMT+05, ID 13493171): ОсОО «Блэкшарк Трейд» (сч. 40807810100157518600) → ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 2 999 999,03₽. {VO60081} Оплата по агент.дог. №4 от 31.03.2025, согл. заяв.726 от 31.08.2026 за цветы. = тело 2 926 828,32 + агентское 73 170,71 (совпадает).",
     "calc": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
+  },
+  {
+    "row": 88,
+    "date": "2026-09-01",
+    "sum": 61222,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FF92D050",
+    "clientName": "EBF CARGO (Цветы)",
+    "costFormula": "61 222,00 + 0.3% + 30 = 61 435,67 USDT",
+    "extra": "BONBILL Payment Certificate 01.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → EBF CARGO CIA LTD (PRODUBANCO, PRODECEQ, a/c 02005153421). 61 222,00 USD. Invoice 2026-6502 dd 01.09.2026 For Transportation. TXID O2094714985820323840599. EXECUTED 🟢. Коммерческий инвойс 2026-6502 dd 01.09.2026: PREPAYMENT FOR AIR TRANSPORTATION, EBF CARGO CIA LTDA (Quito, Ecuador) → Q8 Group Limited. НОВАЯ сделка (не row 76 = 70 000).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 61435.67,
+    "notes": null,
+    "calc": null
   }
 ]
