@@ -1491,25 +1491,6 @@
   },
   {
     "row": 78,
-    "date": "2026-07-27",
-    "sum": 30000,
-    "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "ИП Осипенко",
-    "extra": "ИП Осипенко",
-    "costFormula": null,
-    "notes": "Поручение №12 от 27.07.2026 (Transfer Request No. 12 from 27.07.2026, прил. к Аг.договору №0503-26/1). Принципал: ИП Осипенко Виталий Петрович → Агент ОсОО «Блэкшарк Трейд». Получатель: Cherkezov LTD (Ilinden street, Town: Blagoevgrad, Zip 3000, Bulgaria; UNICREDIT BULBANK, IBAN BG03UNCR70001520072854, SWIFT UNCRBGSF, Address 22 Ivan Shishman street, Blagoevgrad). 30 000,00 EUR. Назначение: оплата по инвойсу 60-2026, контракт №09-022026 от 06.03.2026. Курс 88,8927 → 2 666 781,00₽. Комиссия агента 1,5% + 100 USD = 40 001,72 + 7 803,08 = 47 804,80₽. Срок 2-3 банк. дня. Step 0 красный, компания ждёт заявку.",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "calc": null
-  },
-  {
-    "row": 79,
     "date": "2026-08-31",
     "sum": null,
     "currency": null,
@@ -1529,7 +1510,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 80,
+    "row": 79,
     "date": "2026-08-31",
     "sum": null,
     "currency": null,
@@ -1549,7 +1530,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 81,
+    "row": 80,
     "date": "2026-08-31",
     "sum": 33435.03,
     "currency": "EUR",
@@ -1569,7 +1550,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 82,
+    "row": 81,
     "date": "2026-08-31",
     "sum": 32275,
     "currency": "USD",
@@ -1589,7 +1570,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 83,
+    "row": 82,
     "date": "2026-08-31",
     "sum": 2779.5,
     "currency": "USD",
