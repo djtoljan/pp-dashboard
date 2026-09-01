@@ -1607,5 +1607,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 84,
+    "date": "2026-09-01",
+    "sum": 29400,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Стройтекинвест (Аренда КГ)",
+    "costFormula": "29 400,00 + 0.3% + 30 = 29 518,20 USDT",
+    "extra": "Инвойс 2600108 dd 22.07.2026 от PRODEMA LIMITED (Unit 1411, 14/F Cosco Tower, 183 Queen's Road Central, Sheung Wan, HK; Reg 3293131; sole director Frederic Basset; Standard Chartered Bank (Hong Kong) Limited, SWIFT SCBLHKHH, a/c 36896597748) → Q8 GROUP LIMITED (Rm A22, 10/F, No.52 Hung To Road, Kwun Tong, HK). Консалтинг 13.07-16.07.2026, 24,5 ч × 1 200 USD = 29 400,00 USD, соглашение от 14-05-2026.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 29518.2,
+    "notes": null,
+    "calc": null
   }
 ]
