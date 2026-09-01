@@ -1666,9 +1666,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 61690,
     "sent_usdt": 61435.67,
-    "notes": null,
+    "notes": " | IN 01.09.2026 10:17 UTC (Bobr Alert, Рабочий 4): 61 690,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы доплата) под заявку 61 222,00 USD (подтверждено Scream 01.09.2026). received_usdt = 61690. Q9 отправлен, леджер --q9.",
     "calc": null
   }
 ]
