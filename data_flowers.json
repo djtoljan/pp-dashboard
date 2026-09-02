@@ -1802,8 +1802,27 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 50400,
     "sent_usdt": 50180,
+    "notes": "IN 02.09.2026 (Bobr Alert, Рабочий 4): 30 940,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (23:25 МСК) + 19 460,00 USDT от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 (23:30 МСК) = 50 400 USDT под заявку ModestoGroup FL01-020926 50 000,00 USD (50 000 × 1.008; подтверждено Scream 02.09.2026). received_usdt = 50400. Q9 отправлен (2 IN), леджер --q9 (bobr-20260902-202524, bobr-20260902-203000).",
+    "calc": null
+  },
+  {
+    "row": 96,
+    "date": "2026-09-02",
+    "sum": 61218.4,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": "Коммерческий инвойс AA-Q8-2026-0902-2 dd 02.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 61 218,40 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8. Продолжение серии AA (row 51/56/61/62/79/90/92).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
