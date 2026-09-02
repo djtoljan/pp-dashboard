@@ -1709,5 +1709,24 @@
     "sent_usdt": 58438.15,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 91,
+    "date": "2026-09-02",
+    "sum": 35000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "CEVA FREIGHT (Цветы)",
+    "costFormula": "35000 + 0.3% + 30 = 35135 USDT",
+    "extra": "Коммерческий инвойс CEVA dd 02.09.2026 (CEVA Freight Management de Colombia S.A.S, NIT 830.079.716-6, Bogotá, Avda El Dorado No. 97-51 Of. 105). TRANSPORTATION SERVICES, 1 lot = 35 000,00 USD. Q8 Group Limited (80242882, HK) - покупатель. Citibank Colombia, CITICOBB, a/c 0073854016. Заявка: USD 35 000,00, вид платежа только не из России, transportation services.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 35135,
+    "notes": null,
+    "calc": null
   }
 ]
