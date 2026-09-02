@@ -1663,5 +1663,24 @@
     "sent_usdt": 32982.6,
     "notes": "Клиент VDX (Scream 02.09.2026). | IN 02.09.2026 11:49 МСК (Bobr Alert, Рабочий 4): 33 014,00 USDT от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 под заявку MELINO 28 278,58 EUR (подтверждено Scream 02.09.2026). received_usdt = 33014. Q9 отправлен, леджер --q9. | Кросс-курс EUR/USD = 1.161799402645 (FX Q8 02.09.2026: продажа 232 288 USD → покупка 199 938,13 EUR, 1 USD = 0,860733802594 EUR). Привязан Scream 02.09.2026 к заявке 28 278,58 EUR (row 87, MELINO TURIZM). | | BONBILL Payment Certificate 02.09.2026 17:55:34 (Тип 7 Q8): Q8 GROUP LIMITED → MELINO TURIZM SEYAHAT ANONIM SIRKETI (DENIZBANK A.S., TR33001340000183302000000428). 28 278,58 EUR. Invoice 280801 DD 28.08.2026 For Trvl Deals. TXID O2095088232231469056463. EXECUTED 🟢",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 88,
+    "date": "2026-09-02",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
