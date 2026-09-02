@@ -1661,7 +1661,7 @@
     "vdx_rate": null,
     "received_usdt": "33014",
     "sent_usdt": null,
-    "notes": "Клиент VDX (Scream 02.09.2026). | IN 02.09.2026 11:49 МСК (Bobr Alert, Рабочий 4): 33 014,00 USDT от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 под заявку MELINO 28 278,58 EUR (подтверждено Scream 02.09.2026). received_usdt = 33014. Q9 отправлен, леджер --q9.",
+    "notes": "Клиент VDX (Scream 02.09.2026). | IN 02.09.2026 11:49 МСК (Bobr Alert, Рабочий 4): 33 014,00 USDT от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 под заявку MELINO 28 278,58 EUR (подтверждено Scream 02.09.2026). received_usdt = 33014. Q9 отправлен, леджер --q9. | Кросс-курс EUR/USD = 1.161799402645 (FX Q8 02.09.2026: продажа 232 288 USD → покупка 199 938,13 EUR, 1 USD = 0,860733802594 EUR). Привязан Scream 02.09.2026 к заявке 28 278,58 EUR (row 87, MELINO TURIZM).",
     "calc": null
   }
 ]
