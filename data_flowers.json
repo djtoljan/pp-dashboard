@@ -1697,7 +1697,7 @@
     "sum": 58233.45,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "58 233,45 × 1.161508 + 0.3% + 30 = 67 871,55 USDT",
     "extra": "Коммерческий инвойс AA-Q8-2026-0828 dd 28.08.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No.15, Fl.9, of.908, Burgas 8000, Bulgaria; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 58 233,45 EUR (Scream: валюта EUR). Q8 Group Limited (80242882, HK). Оплата банковским переводом. | 🚨 ВАЛЮТА ИСПРАВЛЕНА: EUR (Scream 02.09.2026: инвойс AA-Q8-2026-0828 в EUR, не USD).",
@@ -1707,7 +1707,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 67871.55,
-    "notes": "🚨 ИСПРАВЛЕНО 02.09.2026 (личка Scream): к заявке 58 233,45 EUR (row 90) относится FX Q8 02.09.2026 #3 — продажа 118 800 USD → покупка 102 280,80 EUR, 1 USD = 0,860949569270 EUR (ранее ошибочно стоял FX #1 232 288 USD / 1.161799402645 — он для заявок 177 845 EUR и 28 278,58 EUR). Кросс-курс EUR/USD = 1.161508218011 (FX Q8 02.09.2026 #3: продажа 118 800 USD → покупка 102 280,80 EUR, 1 USD = 0,860949569270 EUR). Привязан Scream 02.09.2026 к заявке 58 233,45 EUR (row 90, Atlantic Avrora AA-Q8-2026-0828). Q8-расчёт: 58 233,45 × 1.161508 + 0.3% + 30 = 67 871,55 USDT.",
+    "notes": "🚨 ИСПРАВЛЕНО 02.09.2026 (личка Scream): к заявке 58 233,45 EUR (row 90) относится FX Q8 02.09.2026 #3 — продажа 118 800 USD → покупка 102 280,80 EUR, 1 USD = 0,860949569270 EUR (ранее ошибочно стоял FX #1 232 288 USD / 1.161799402645 — он для заявок 177 845 EUR и 28 278,58 EUR). Кросс-курс EUR/USD = 1.161508218011 (FX Q8 02.09.2026 #3: продажа 118 800 USD → покупка 102 280,80 EUR, 1 USD = 0,860949569270 EUR). Привязан Scream 02.09.2026 к заявке 58 233,45 EUR (row 90, Atlantic Avrora AA-Q8-2026-0828). Q8-расчёт: 58 233,45 × 1.161508 + 0.3% + 30 = 67 871,55 USDT. | | BONBILL Payment Certificate 02.09.2026 17:39:39 (Тип 7 Q8): Q8 GROUP LIMITED → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BG04BGUS91601413896300). 58 233,45 EUR. Invoice AAQ820260828DD28082026 For Flowers. TXID O2095084226394324992364. EXECUTED 🟢",
     "calc": null
   },
   {
@@ -1716,7 +1716,7 @@
     "sum": 35000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "CEVA FREIGHT (Цветы)",
     "costFormula": "35000 + 0.3% + 30 = 35135 USDT",
     "extra": "Коммерческий инвойс CEVA dd 02.09.2026 (CEVA Freight Management de Colombia S.A.S, NIT 830.079.716-6, Bogotá, Avda El Dorado No. 97-51 Of. 105). TRANSPORTATION SERVICES, 1 lot = 35 000,00 USD. Q8 Group Limited (80242882, HK) - покупатель. Citibank Colombia, CITICOBB, a/c 0073854016. Заявка: USD 35 000,00, вид платежа только не из России, transportation services.",
@@ -1726,7 +1726,7 @@
     "vdx_rate": null,
     "received_usdt": 35310,
     "sent_usdt": 35135,
-    "notes": "IN 02.09.2026 07:48 МСК (Bobr Alert, Рабочий 4): 35 310,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы) под заявку CEVA 35 000,00 USD (подтверждено Scream 02.09.2026). received_usdt = 35310. Q9 отправлен, леджер --q9 (txid 286d557e5c93bed20d0779f41a9a0c4dfbfbfc74ba1a35b23e327780d2d04e3d).",
+    "notes": "IN 02.09.2026 07:48 МСК (Bobr Alert, Рабочий 4): 35 310,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы) под заявку CEVA 35 000,00 USD (подтверждено Scream 02.09.2026). received_usdt = 35310. Q9 отправлен, леджер --q9 (txid 286d557e5c93bed20d0779f41a9a0c4dfbfbfc74ba1a35b23e327780d2d04e3d). | | BONBILL Payment Certificate 02.09.2026 17:42:25 (Тип 7 Q8): Q8 GROUP LIMITED → CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS (Citibank Colombia, 0073854016). 35 000,00 USD. Invoice DD02092026 For Transportation Services. TXID O2095084924301344768515. EXECUTED 🟢",
     "calc": null
   },
   {
@@ -1735,7 +1735,7 @@
     "sum": 42275,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "42 275,00 × 1.161508 + 0.3% + 30 = 49 280,07 USDT",
     "extra": "Коммерческий инвойс AA-Q8-2026-0902 dd 02.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 43 137,00 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8 (как AA-Q8-2026-0819/0820/0821/0822/0827). | 🚨 СУММА ЗАЯВКИ = 42 275,00 EUR (Scream 02.09.2026: заявка вместо 43 137 EUR по инвойсу; IN 50 532 USDT = под заявку 42 275).",
@@ -1745,7 +1745,7 @@
     "vdx_rate": null,
     "received_usdt": "50532",
     "sent_usdt": 49280.07,
-    "notes": "IN 02.09.2026 11:31 МСК (Bobr Alert, Рабочий 4): 50 532,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы) под заявку Atlantic Avrora 42 275,00 EUR (row 92; подтверждено Scream 02.09.2026 — заявка 42 275 вместо 43 137 EUR по инвойсу AA-Q8-2026-0902). received_usdt = 50532. Q9 отправлен, леджер --q9. | 🚨 ИСПРАВЛЕНО 02.09.2026 (личка Scream): к заявке 42 275,00 EUR (row 92) относится FX Q8 02.09.2026 #3 — продажа 118 800 USD → покупка 102 280,80 EUR, 1 USD = 0,860949569270 EUR (ранее ошибочно стоял FX #2 45 000 USD / 1.161739428558 — он для заявки 33 435,03 EUR). Кросс-курс EUR/USD = 1.161508218011 (FX Q8 02.09.2026 #3: продажа 118 800 USD → покупка 102 280,80 EUR, 1 USD = 0,860949569270 EUR). Привязан Scream 02.09.2026 к заявке 42 275,00 EUR (row 92, Atlantic Avrora AA-Q8-2026-0902). Q8-расчёт: 42 275,00 × 1.161508 + 0.3% + 30 = 49 280,07 USDT.",
+    "notes": "IN 02.09.2026 11:31 МСК (Bobr Alert, Рабочий 4): 50 532,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы) под заявку Atlantic Avrora 42 275,00 EUR (row 92; подтверждено Scream 02.09.2026 — заявка 42 275 вместо 43 137 EUR по инвойсу AA-Q8-2026-0902). received_usdt = 50532. Q9 отправлен, леджер --q9. | 🚨 ИСПРАВЛЕНО 02.09.2026 (личка Scream): к заявке 42 275,00 EUR (row 92) относится FX Q8 02.09.2026 #3 — продажа 118 800 USD → покупка 102 280,80 EUR, 1 USD = 0,860949569270 EUR (ранее ошибочно стоял FX #2 45 000 USD / 1.161739428558 — он для заявки 33 435,03 EUR). Кросс-курс EUR/USD = 1.161508218011 (FX Q8 02.09.2026 #3: продажа 118 800 USD → покупка 102 280,80 EUR, 1 USD = 0,860949569270 EUR). Привязан Scream 02.09.2026 к заявке 42 275,00 EUR (row 92, Atlantic Avrora AA-Q8-2026-0902). Q8-расчёт: 42 275,00 × 1.161508 + 0.3% + 30 = 49 280,07 USDT. | | BONBILL Payment Certificate 02.09.2026 17:58:16 (Тип 7 Q8): Q8 GROUP LIMITED → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BG04BGUS91601413896300). 42 275,00 EUR. Invoice AAQ820260902DD02092026 For Flowers. TXID O2095088912258170880288. EXECUTED 🟢",
     "calc": null
   }
 ]
