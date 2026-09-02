@@ -1145,5 +1145,24 @@
     "sent_usdt": null,
     "notes": "ПП на VDX №303 от 01.09.2026 ИСПОЛНЕН 17:50:49 (Филиал Центральный Банка ВТБ, БИК 044525411, сч. 40802810306800000211). Плательщик: ИП Зольников Дмитрий Владимирович (ИНН 772900240228, КПП 772900240228). Получатель: LLC «VDX SERVICES-FZCO» (ИНН 9909710068, КПП 772887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 1 100 000,00₽. {VO20500} Оплата за товар по контракту #1-8-26 от 26/08/2026, дополнительное соглашение №1 от 31/08/2026. НДС не облагается. sent_rubles_vdx = 1100000, exchange_to = VDX.",
     "calc": null
+  },
+  {
+    "date": "2026-09-02",
+    "sum": 18070,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": null,
+    "costFormula": null,
+    "extra": "Заявка (📨 Молодежь, 02.09.2026): проформа PI-20260810005 dd ? от Dongguan Miaosen Electronic Technology Co., Ltd. (молнии, 18 070,00 USD) → Q8 GROUP LIMITED (покупатель, DHBKHKHH, 79807111801). Beneficiary: Dongguan Miaosen (JPMorgan ChaseBank N.A., Singapore Branch, CHASSGSG, 10141409627693). Клиент Молодёжи уточняется у Scream. Компания Q8 (ТЕЗ).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Payment Order dd 02/09/2026 (📨 Молодежь): 9 000,00 USD → Dongguan Miaosen Electronic Technology Co., LTD. (8 Shenton Way, #45-01 AXA Tower, Singapore; JPMorgan ChaseBank N.A. Singapore Branch, CHASSGSG, a/c 10141409627693), Inv. 20260810005. ⚠️ PO 9 000 USD ≠ проформа 18 070 USD — уточнить: аванс/частичная оплата или будет второй PO. Клиент уточняется у Scream. Q8-формула (сумма+0,3%+30) после подтверждения суммы сделки.",
+    "calc": null,
+    "row": 61
   }
 ]
