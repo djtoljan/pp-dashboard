@@ -1181,7 +1181,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 46513.23,
-    "notes": null,
+    "notes": "Payment Order dd 02/09/2026 (Scream/ФИН): 46 344,2 USD → ZHEJIANG NAWAS INDUSTRY AND TRADE CO., LTD. (AgBank Zhejiang, ABOCCNBJ110, a/c 19628014040013966), Inv. NAW 04/1-2026 dd 26.08.2026 (Aluminum/Bimetal radiators, FOB Ningbo, TOTAL 46 344,2 USD). Заявка мостов (клиент Мосты, Молодёжь). Q8 (ТЕЗ). Мост USDT 56 293 (Bobr IN 02.09, заявки 9000 + 46344.2) — в леджере/Q9 17:04. received_usdt разбивка между заявками 9000/46344.2 уточняется.",
     "calc": null
   }
 ]
