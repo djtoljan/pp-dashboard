@@ -1728,5 +1728,24 @@
     "sent_usdt": 35135,
     "notes": "IN 02.09.2026 07:48 МСК (Bobr Alert, Рабочий 4): 35 310,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы) под заявку CEVA 35 000,00 USD (подтверждено Scream 02.09.2026). received_usdt = 35310. Q9 отправлен, леджер --q9 (txid 286d557e5c93bed20d0779f41a9a0c4dfbfbfc74ba1a35b23e327780d2d04e3d).",
     "calc": null
+  },
+  {
+    "row": 92,
+    "date": "2026-09-02",
+    "sum": 43137,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": "Коммерческий инвойс AA-Q8-2026-0902 dd 02.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 43 137,00 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8 (как AA-Q8-2026-0819/0820/0821/0822/0827).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
