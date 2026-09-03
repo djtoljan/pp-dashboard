@@ -1729,7 +1729,7 @@
     "sum": 17207.45,
     "currency": "EUR",
     "company": "LUXORA",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Дре Русланд",
     "costFormula": "(17 207,45 EUR → 20 009,50 USD) 20009.5/0.9965+100 = 20180 USDT; 20180 × 86,9963 / 0,995 = 1 764 388,07 ₽",
     "extra": "Поручение №42 от 03.09.2026 (Transfer request No. 42 from 03/09/26) по аг.договору №2701-27/1 от 27.01.26г. Принципал: ООО ДРЕ РУСЛАНД ТРЕЙДИНГ → Агент ОсОО «Блэкшарк Трейд». Получатель: MEBLE STOLAR JURASIK SP. K. (63-604, POLAND, BARANOW, UL.JANKOWY 83C). Santander Bank Polska S.A., WBKPPLPP, IBAN PL19109011440000000014137526. Инвойс 06/E/08/26 от 18.08.2026 (мебель). Курс 101.10 (НЕ vdx_rate), RUB 1 739 673,20, комиссия 1,6% = 27 834,77. Step 0, компания ждёт заявку.",
