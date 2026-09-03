@@ -773,9 +773,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 03.09.2026): Payment from INFINITE ❗ → DE LONGHI KENWOOD MEIA FZE, INV 90218514 dd 14.08.26, 150 000,00 USD, OUR. Ждём IN USDT и расчёт.",
+    "received_usdt": 151200,
+    "sent_usdt": 150750,
+    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 03.09.2026): Payment from INFINITE ❗ → DE LONGHI KENWOOD MEIA FZE, INV 90218514 dd 14.08.26, 150 000,00 USD, OUR. Ждём IN USDT и расчёт. | IN 03.09.2026 11:45:42 UTC (Bobr Alert, Рабочий 4): 151 200,0 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS (кошелёк Константин Просто Группа) под заявку 150 000 USD DeLonghi (INV 90218514, row 41). received_usdt = 151200 (150 000 × 1.008). Скрин OUT 151200 (кошелёк Константина, Guarda) подтверждает. Q9 отправлен, леджер --q9. | OUT 03.09.2026 12:42:51 UTC (Bobr Alert, Рабочий 4): 150 750,0 USDT → THLXsGP2Nvh5DFK3DUhoE66hVcrx5MEABq — sent_usdt = 150750 (150 000 × 1.005). Q9 отправлен, леджер --q9. Ждём исполнение (MT73/EXECUTED → 🟢).",
     "calc": null,
     "row": 41
   }
