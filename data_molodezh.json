@@ -1183,5 +1183,43 @@
     "sent_usdt": 46513.23,
     "notes": "Payment Order dd 02/09/2026 (Scream/ФИН): 46 344,2 USD → ZHEJIANG NAWAS INDUSTRY AND TRADE CO., LTD. (AgBank Zhejiang, ABOCCNBJ110, a/c 19628014040013966), Inv. NAW 04/1-2026 dd 26.08.2026 (Aluminum/Bimetal radiators, FOB Ningbo, TOTAL 46 344,2 USD). Заявка мостов (клиент Мосты, Молодёжь). Q8 (ТЕЗ). Мост USDT 56 293 (Bobr IN 02.09, заявки 9000 + 46344.2) — в леджере/Q9 17:04. received_usdt разбивка между заявками 9000/46344.2 уточняется. | BONBILL Payment Certificate 03.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → ZHEJIANG NAWAS INDUSTRY AND TRADE CO., LTD. (Agricultural Bank of China Zhejiang Branch, ABOCCNBJ110, a/c 19628014040013966). 46 344,20 USD. Invoice NAW 04/1-2026 dd 26.08.2026 (Aluminum/Bimetal radiators) For Aluminium. TXID O20953983412979630089. EXECUTED → 🟢",
     "calc": null
+  },
+  {
+    "row": 63,
+    "date": "2026-09-03",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "169342.39 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "costFormula": null,
+    "notes": "ПП на VDX №600 от 03.09.2026 ИСПОЛНЕН (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 169 342,39₽. {VO21100} Оплата по инвойсу №SZHSE26070784A от 24.07.2026 за фрахт по договору №SWILWL010126 от 01.01.2026 (по курсу 88,7362, курс из ПП — НЕ vdx_rate). НДС не облагается. ⚠️ Инвойс SZHSE26070784A в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX.",
+    "calc": null
+  },
+  {
+    "row": 64,
+    "date": "2026-09-03",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "535079.28 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "costFormula": null,
+    "notes": "ПП на VDX №601 от 03.09.2026 ИСПОЛНЕН 15:53:37 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ, сч. 40807810000000015414). 535 079,28₽. {VO11100} Част.оплата за товар по инв. ENT-049-SHR-C2C202608310017M от 01.09.2026, PRM-079-20260901 от 01.09.2026, договор NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) по курсу 88,7362 (курс из ПП — НЕ vdx_rate). НДС не облагается. ⚠️ Инвойсы ENT-049-SHR-C2C202608310017M / PRM-079-20260901 в таблицах не найдены — 🔵 отправка на VDX без заявки. exchange_to = VDX.",
+    "calc": null
   }
 ]
