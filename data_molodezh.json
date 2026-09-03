@@ -1151,7 +1151,7 @@
     "sum": 9000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Мосты (Молодёжь)",
     "costFormula": "9 000,00 + 0,3% + 30 = 9 057,00 USDT",
     "extra": "Заявка (📨 Молодежь, 02.09.2026): ПО ОРДЕРУ 9 000,00 USD (Payment Order dd 02/09/2026) → Dongguan Miaosen Electronic Technology Co., Ltd. (8 Shenton Way, #45-01 AXA Tower, Singapore; JPMorgan Chase Bank N.A. Singapore Branch, CHASSGSG, a/c 10141409627693), Inv. 20260810005 (молнии). Проформа PI-20260810005 = 18 070,00 USD (полная стоимость партии) → Q8 GROUP LIMITED (покупатель, DHBKHKHH, 79807111801). Сумма заявки = 9 000 USD по ордеру (Scream 02.09.2026: заявка на 9000 по ордеру, Мосты). Клиент: Мосты (Молодёжь). Компания Q8 (ТЕЗ).",
@@ -1161,7 +1161,7 @@
     "vdx_rate": null,
     "received_usdt": "9154.29",
     "sent_usdt": 9057,
-    "notes": "Payment Order dd 02/09/2026 (📨 Молодежь): 9 000,00 USD → Dongguan Miaosen (JPMorgan Singapore, CHASSGSG, 10141409627693), Inv. 20260810005. ⚠️ Проформа 18 070 USD = полная стоимость партии, заявка ПО ОРДЕРУ = 9 000 USD (подтверждено Scream 02.09.2026, клиент Мосты (Молодёжь)). Q8-формула: 9 000 + 0,3% + 30 = 9 057 USDT. received_usdt — из моста 56 293 (Bobr IN 02.09), разбивка между заявками 9000 и 46344.2 уточняется (по 46344.2 ждём доки).",
+    "notes": "Payment Order dd 02/09/2026 (📨 Молодежь): 9 000,00 USD → Dongguan Miaosen (JPMorgan Singapore, CHASSGSG, 10141409627693), Inv. 20260810005. ⚠️ Проформа 18 070 USD = полная стоимость партии, заявка ПО ОРДЕРУ = 9 000 USD (подтверждено Scream 02.09.2026, клиент Мосты (Молодёжь)). Q8-формула: 9 000 + 0,3% + 30 = 9 057 USDT. received_usdt — из моста 56 293 (Bobr IN 02.09), разбивка между заявками 9000 и 46344.2 уточняется (по 46344.2 ждём доки). | BONBILL Payment Certificate 03.09.2026 14:39:40 (Тип 7 Q8): Q8 GROUP LIMITED → Dongguan Miaosen Electronic Technology Co., Ltd. (JPMorgan Chase Bank N.A., a/c 10141409627693). 9 000,00 USD. Invoice 20260810005 (молнии/zipper). TXID O2095401321669722112216. EXECUTED → 🟢",
     "calc": null,
     "row": 61
   },
@@ -1171,7 +1171,7 @@
     "sum": 46344.2,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Мосты (Молодёжь)",
     "costFormula": "46 344,2 + 0,3% + 30 = 46 513,23 USDT",
     "extra": "Заявка (02.09.2026): ПО ОРДЕРУ 46 344,2 USD (Payment Order dd 02/09/2026) → ZHEJIANG NAWAS INDUSTRY AND TRADE CO., LTD. (Industrial Production Base of Longchuan Natural Village, Tongfu Village, Longshan Town, Yongkang City, Zhejiang; AGRICULTURAL BANK OF CHINA ZHEJIANG BRANCH, SWIFT ABOCCNBJ110, a/c 19628014040013966), Inv. NAW 04/1-2026 dd 26.08.2026 (Aluminum/Bimetal radiators, FOB Ningbo, TOTAL 46 344,2 USD). Клиент: Мосты (Молодёжь). Компания Q8 (ТЕЗ). Мост USDT 56 293 (IN 02.09) под заявки 9000 + 46344.2.",
@@ -1181,7 +1181,7 @@
     "vdx_rate": null,
     "received_usdt": "47138.71",
     "sent_usdt": 46513.23,
-    "notes": "Payment Order dd 02/09/2026 (Scream/ФИН): 46 344,2 USD → ZHEJIANG NAWAS INDUSTRY AND TRADE CO., LTD. (AgBank Zhejiang, ABOCCNBJ110, a/c 19628014040013966), Inv. NAW 04/1-2026 dd 26.08.2026 (Aluminum/Bimetal radiators, FOB Ningbo, TOTAL 46 344,2 USD). Заявка мостов (клиент Мосты, Молодёжь). Q8 (ТЕЗ). Мост USDT 56 293 (Bobr IN 02.09, заявки 9000 + 46344.2) — в леджере/Q9 17:04. received_usdt разбивка между заявками 9000/46344.2 уточняется.",
+    "notes": "Payment Order dd 02/09/2026 (Scream/ФИН): 46 344,2 USD → ZHEJIANG NAWAS INDUSTRY AND TRADE CO., LTD. (AgBank Zhejiang, ABOCCNBJ110, a/c 19628014040013966), Inv. NAW 04/1-2026 dd 26.08.2026 (Aluminum/Bimetal radiators, FOB Ningbo, TOTAL 46 344,2 USD). Заявка мостов (клиент Мосты, Молодёжь). Q8 (ТЕЗ). Мост USDT 56 293 (Bobr IN 02.09, заявки 9000 + 46344.2) — в леджере/Q9 17:04. received_usdt разбивка между заявками 9000/46344.2 уточняется. | BONBILL Payment Certificate 03.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → ZHEJIANG NAWAS INDUSTRY AND TRADE CO., LTD. (Agricultural Bank of China Zhejiang Branch, ABOCCNBJ110, a/c 19628014040013966). 46 344,20 USD. Invoice NAW 04/1-2026 dd 26.08.2026 (Aluminum/Bimetal radiators) For Aluminium. TXID O20953983412979630089. EXECUTED → 🟢",
     "calc": null
   }
 ]

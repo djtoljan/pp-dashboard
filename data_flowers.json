@@ -1794,7 +1794,7 @@
     "sum": 50000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ModestoGroup (Цветы)",
     "costFormula": "50 000,00 + 0.3% + 30 = 50 180,00 USDT",
     "extra": "Инвойс FL01-020926 dd 02.09.2026 от ModestoGroup OU (Reg. 16203107, K. Karberi tn 18-2, Lasnamae, 13919 Tallinn, Estonia; info@m-flowers.com; The Currency Cloud Limited, 1 Sheldon Square, London W2 6TT; IBAN GB32TCCL04143483461312, BIC TCCLGB3L): AA Kenyan rose mix 33 600,00 + AA Air logistics services 16 400,00 = 50 000,00 USD. Bill to: Q8 Group Limited (80242882, Room A22 10/F No.52 Hung To Road, Kwun Tong, HK). Маркер 'Заявки Компания Q8'. Клиент: ModestoGroup (Цветы), продолжение серии FL01 (row 71 - FL01/250826 50 656 USD; row 81 - FL01/310826 71 219 USD). Step 3, компания Q8 (ТЕЗ).",
@@ -1804,7 +1804,7 @@
     "vdx_rate": null,
     "received_usdt": 50400,
     "sent_usdt": 50180,
-    "notes": "IN 02.09.2026 (Bobr Alert, Рабочий 4): 30 940,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (23:25 МСК) + 19 460,00 USDT от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 (23:30 МСК) = 50 400 USDT под заявку ModestoGroup FL01-020926 50 000,00 USD (50 000 × 1.008; подтверждено Scream 02.09.2026). received_usdt = 50400. Q9 отправлен (2 IN), леджер --q9 (bobr-20260902-202524, bobr-20260902-203000).",
+    "notes": "IN 02.09.2026 (Bobr Alert, Рабочий 4): 30 940,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (23:25 МСК) + 19 460,00 USDT от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 (23:30 МСК) = 50 400 USDT под заявку ModestoGroup FL01-020926 50 000,00 USD (50 000 × 1.008; подтверждено Scream 02.09.2026). received_usdt = 50400. Q9 отправлен (2 IN), леджер --q9 (bobr-20260902-202524, bobr-20260902-203000). | BONBILL Payment Certificate 03.09.2026 14:44:40 (Тип 7 Q8): Q8 GROUP LIMITED → THE CURRENCY CLOUD LIMITED (ModestoGroup OU, IBAN GB32TCCL04143483461312, BIC TCCLGB3L). 50 000,00 USD. Invoice FL01-020926 dd 02.09.2026 For Flowers. TXID O2095402581739307008903. EXECUTED → 🟢",
     "calc": null
   },
   {
@@ -1815,15 +1815,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Atlantic Avrora (Цветы)",
-    "costFormula": null,
+    "costFormula": "61 218,40 × 1.165356581311 (FX Q8 03.09) + 0,3% + 30 = 71585,29 USDT",
     "extra": "Коммерческий инвойс AA-Q8-2026-0902-2 dd 02.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 61 218,40 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8. Продолжение серии AA (row 51/56/61/62/79/90/92).",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": "71585.29",
+    "notes": "Кросс-курс EUR/USD = 1.165356581311 (FX Q8 03.09.2026: продажа 70 700 USD → покупка 60 668,12 EUR, 1 USD = 0,858106450881 EUR, delivery 03.09.2026). Привязан Scream 03.09.2026 «под заявку 02.09.2026 61 218,4 EUR Atlantic Avrora (Цветы)» к row 96 (инвойс AA-Q8-2026-0902-2 dd 02.09.2026). Q8-расчёт: 61 218,40 × 1.165356581311 + 0,3% + 30 = 71585,29 USDT",
     "calc": null
   }
 ]

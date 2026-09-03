@@ -1669,7 +1669,7 @@
     "sum": 30928.22,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "30 928,22 + 0,3% + 30 = 31 051,00 USDT",
     "extra": "Заявка Тип 4 (📨 Ордера и Расчеты !, 02.09.2026): Payment from ❗️ → HONG KONG ESENG INTERNATIONAL CO., LIMITED (NO.27 12F Block I Golden Industrial Bldg, 16-26 Kwai Tak St, Kwai Chung NT; China CITIC Bank International Limited, 61-65 Des Voeux Road Central, HK, KWHKHKHH, a/c 711-1-38362101). Сводный фрахтовый счёт за июль-август: INV.AE2607X277,278,253,171,073,114,036,341 + INV.AE2608X034,040,090,149,087,025,151,142 DD.07-08.2026 = 30 928,22 USD. Компания Q8 (по аналогии row 69 ESENG — платит Q8 GROUP LIMITED), клиент уточняется у Scream (row 69 был VDX).",
@@ -1679,7 +1679,7 @@
     "vdx_rate": null,
     "received_usdt": 31121,
     "sent_usdt": 31051,
-    "notes": "30 928,22 USD, OUR. Ждём подтверждение клиента и расчёт. Q8-формула (сумма+0,3%+30) после подтверждения. Клиент VDX (Scream 02.09.2026). | IN 02.09.2026 16:45 МСК (Bobr Alert, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri): 31 121,00 USDT от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 под заявку VDX 30 928,22 USD (HONG KONG ESENG, подтверждено Scream 02.09.2026). received_usdt = 31121. Q9 отправлен, леджер --q9.",
+    "notes": "30 928,22 USD, OUR. Ждём подтверждение клиента и расчёт. Q8-формула (сумма+0,3%+30) после подтверждения. Клиент VDX (Scream 02.09.2026). | IN 02.09.2026 16:45 МСК (Bobr Alert, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri): 31 121,00 USDT от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 под заявку VDX 30 928,22 USD (HONG KONG ESENG, подтверждено Scream 02.09.2026). received_usdt = 31121. Q9 отправлен, леджер --q9. | BONBILL Payment Certificate 03.09.2026 14:37:04 (Тип 7 Q8): Q8 GROUP LIMITED → HONG KONG ESENG INTERNATIONAL CO., LIMITED (China CITIC Bank International Ltd, KWHKHKHH, a/c 711-1-38362101). 30 928,22 USD. Сводный фрахт: Invoices AE2607X277 till AE2607X341A and AE2608X034 till AE2608X142 DD 07-08.2026 For Freight. TXID O2095400669472227328993. EXECUTED → 🟢",
     "calc": null,
     "row": 87
   },
