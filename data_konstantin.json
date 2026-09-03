@@ -778,5 +778,23 @@
     "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 03.09.2026): Payment from INFINITE ❗ → DE LONGHI KENWOOD MEIA FZE, INV 90218514 dd 14.08.26, 150 000,00 USD, OUR. Ждём IN USDT и расчёт. | IN 03.09.2026 11:45:42 UTC (Bobr Alert, Рабочий 4): 151 200,0 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS (кошелёк Константин Просто Группа) под заявку 150 000 USD DeLonghi (INV 90218514, row 41). received_usdt = 151200 (150 000 × 1.008). Скрин OUT 151200 (кошелёк Константина, Guarda) подтверждает. Q9 отправлен, леджер --q9. | OUT 03.09.2026 12:42:51 UTC (Bobr Alert, Рабочий 4): 150 750,0 USDT → THLXsGP2Nvh5DFK3DUhoE66hVcrx5MEABq — sent_usdt = 150750 (150 000 × 1.005). Q9 отправлен, леджер --q9. Ждём исполнение (MT73/EXECUTED → 🟢).",
     "calc": null,
     "row": 41
+  },
+  {
+    "row": 42,
+    "date": "2026-09-03",
+    "sum": 36181,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Медицинский счёт №607640 от 16.06.2026 (RESTORED COPY, 📨 Константин Просто Группа, 03.09.2026): лечение в Schneider Children's Medical Center (Sackler School of Medicine, Tel-Aviv University), пациент Шерстобитова Лана (Sherstobitova Lana), Order No 23947 / Patient No 23947, Patient ID 600006028. Позиции (USD): Surgery 4 = 7 723,00; доп. мультидисциплинарная бригада = 3 145,00; стационар до 3 дней = 3 761,00; 4+ день = 2 181,00; стационар с химиотерапией до 6 дней = 15 200,00; доп. день ICU = 2 651,00; анализы крови/лаборатория = 1 258,00; типирование крови = 262,00. ИТОГО = 36 181,00 USD. Beneficiary: IMedical Tel Aviv Ltd (14 Weizman St, Tel-Aviv 64239 Israel; Bank Leumi Le Israel B.M., Ashdod Business Branch, Ashdod Israel; Swift LUMIILITXXX; IBAN IL23-0109-3200-0000-1182-008). Application for transfer (36_181_00_USD.xlsx): Order No 607640 from 16/06/26; Patient No 23947; 36 181,00 USD. Компания-плательщик ❗️ не указана (нет «Payment from») — строка 🔴 Step 0, ждём заявку/компанию (аналогично Profitlink row 18: платёж физлицу/клинике)."
   }
 ]
