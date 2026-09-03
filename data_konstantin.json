@@ -727,7 +727,7 @@
     "sum": 23600,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "23 600,00 + 0,5% + 100 = 23 818,00 USDT",
     "extra": "Заявка 03.09.2026 (Application XLSX 23_600_USD_03.09.26_1, 📨 Константин Просто Группа, «Возьмите в работу с Q8»): 23 600,00 USD → HONG KONG HUIYANG YITONG INTERNATIONAL LOGISTICS CO., LIMITED (Room 802, Building 4, Zhongfu Square, Yiwu, Zhejiang; ZHEJIANG CHOUZHOU COMMERCIAL BANK CO.,LTD, NO.161 Bayi South Street, Jinhua City, Zhejiang, CHINA; CZCBCN2X, NRA15702002010590000783). Purpose: for the goods. Invoice в бланке: 1595 04/08/2026. | COMMERCIAL INVOICE HY-202601 (artificial flowers, 5×40HQ: TKRU4309461/HPCU4234980/RZZU0102544/CICU5016325/RZZU0048870; EXW, TT BEFORE SHIPMENT): HONG KONG HUIYANG YITONG → Q8 GROUP LIMITED (DBS Bank HK, DHBKHKHH, 79807111801). TOTAL по инвойсу 23 452,02 USD (заявка = 23 600,00 — сумма из Application). Компания Q8 (покупатель по инвойсу).",
@@ -737,7 +737,7 @@
     "vdx_rate": null,
     "received_usdt": 23818,
     "sent_usdt": null,
-    "notes": "IN 03.09.2026 08:53:48 UTC (Bobr Alert, Рабочий 4): 61 389,4 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS (кошелёк Константин Просто Группа) — сводный платёж: HUIYANG 23 818,00 (23 600 + 0,5% + 100) + Transforever 37 571,425 (37 285 + 0,5% + 100) = 61 389,425 ✓ (разбивка Scream 03.09.2026). received_usdt = 23818. Q9 отправлен, леджер --q9. | Уточнённая заявка (XLSX 23_600_USD_03.09.26_1_2, 12:53, 📨 Константин Просто Группа): Invoice = INVOICE:HY-202601 DATE: 20260102 (в 1-й версии бланка поле Invoice = 1595 04/08/2026 — уточнено на HY-202601). Бенефициар/банк без изменений. Сумма 23 600,00 USD (Application). Новая строка НЕ создавалась (row 39 уже существует, received_usdt = 23818).",
+    "notes": "IN 03.09.2026 08:53:48 UTC (Bobr Alert, Рабочий 4): 61 389,4 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS (кошелёк Константин Просто Группа) — сводный платёж: HUIYANG 23 818,00 (23 600 + 0,5% + 100) + Transforever 37 571,425 (37 285 + 0,5% + 100) = 61 389,425 ✓ (разбивка Scream 03.09.2026). received_usdt = 23818. Q9 отправлен, леджер --q9. | Уточнённая заявка (XLSX 23_600_USD_03.09.26_1_2, 12:53, 📨 Константин Просто Группа): Invoice = INVOICE:HY-202601 DATE: 20260102 (в 1-й версии бланка поле Invoice = 1595 04/08/2026 — уточнено на HY-202601). Бенефициар/банк без изменений. Сумма 23 600,00 USD (Application). Новая строка НЕ создавалась (row 39 уже существует, received_usdt = 23818). | BONBILL Payment Certificate 03.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → HONG KONG HUIYANG YITONG INTERNATIONAL LOGISTICS CO., LIMITED (ZHEJIANG CHOUZHOU COMMERCIAL BANK CO.,LTD, CZCBCN2X, NRA15702002010590000783). 23 600,00 USD. Invoice 1595 dd 04.08.2026 For Art Flowers. TXID O2095446359112024064239. EXECUTED → 🟢",
     "calc": null,
     "row": 39
   },
