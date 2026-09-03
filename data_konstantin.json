@@ -746,7 +746,7 @@
     "sum": 37285,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "37 285,00 + 0,5% + 100 = 37 571,425 USDT",
     "extra": "Заявка 03.09.2026 (Application XLSX 37_285USD_03.09.2026, 📨 Константин Просто Группа, капшн «Q8 платит»): 37 285,00 USD → TRANSFOREVER INTERNATIONAL FORWARDING CO., LTD (RM1211, Baihuo Plaza(W), NO 3020, Shennan East RD, Luohu district, Shenzhen 518001, China; THE BANK OF EAST ASIA, LIMITED, 10 Des Voeux Road, Central, Hong Kong; BEASHKHH, 01526568036219). Purpose: Payment by invoice #1549 for freight-forwarding services. | INVOICE #1549 dd 25/08/2026 (TRANSFOREVER → Q8 GROUP LIMITED, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK): Freight forwarding services, 4 USD × 9 321,25 = 37 285,00 USD. Компания Q8 (Q8 платит).",
@@ -756,7 +756,7 @@
     "vdx_rate": null,
     "received_usdt": 37571.425,
     "sent_usdt": null,
-    "notes": "IN 03.09.2026 08:53:48 UTC (Bobr Alert, Рабочий 4): 61 389,4 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS — сводный платёж: HUIYANG 23 818 + Transforever 37 571,425 = 61 389,425 ✓ (Scream 03.09.2026). received_usdt = 37571.425. Q9 отправлен, леджер --q9.",
+    "notes": "IN 03.09.2026 08:53:48 UTC (Bobr Alert, Рабочий 4): 61 389,4 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS — сводный платёж: HUIYANG 23 818 + Transforever 37 571,425 = 61 389,425 ✓ (Scream 03.09.2026). received_usdt = 37571.425. Q9 отправлен, леджер --q9. | BONBILL Payment Certificate 03.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → TRANSFOREVER INTERNATIONAL FORWARDING CO., LTD (The Bank of East Asia, Limited, BEASHKHH, 01526568036219). 37 285,00 USD. Invoice #1549 dd 25.08.2026 For Freight Services. TXID O2095444693000257536686. EXECUTED → 🟢",
     "calc": null,
     "row": 40
   },
