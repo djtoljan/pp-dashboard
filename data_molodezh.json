@@ -1196,8 +1196,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "169342.39 (VDX)",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": 87.15,
+    "received_usdt": "1941.17",
     "sent_usdt": null,
     "costFormula": null,
     "notes": "ПП на VDX №600 от 03.09.2026 ИСПОЛНЕН (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 169 342,39₽. {VO21100} Оплата по инвойсу №SZHSE26070784A от 24.07.2026 за фрахт по договору №SWILWL010126 от 01.01.2026 (по курсу 88,7362, курс из ПП — НЕ vdx_rate). НДС не облагается. ⚠️ Инвойс SZHSE26070784A в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX.",
@@ -1220,7 +1220,8 @@
     "sent_usdt": null,
     "costFormula": null,
     "notes": "ПП на VDX №601 от 03.09.2026 ИСПОЛНЕН 15:53:37 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ, сч. 40807810000000015414). 535 079,28₽. {VO11100} Част.оплата за товар по инв. ENT-049-SHR-C2C202608310017M от 01.09.2026, PRM-079-20260901 от 01.09.2026, договор NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) по курсу 88,7362 (курс из ПП — НЕ vdx_rate). НДС не облагается. ⚠️ Инвойсы ENT-049-SHR-C2C202608310017M / PRM-079-20260901 в таблицах не найдены — 🔵 отправка на VDX без заявки. exchange_to = VDX.",
-    "calc": null
+    "calc": null,
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
     "row": 65,
@@ -1234,8 +1235,8 @@
     "rubles_received": null,
     "sent_rubles_vdx": "849119.21 (VDX) / 1071839.59 (VDX)",
     "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "vdx_rate": "87.15 / 87.15",
+    "received_usdt": "9733.45 / 12286.49",
     "sent_usdt": null,
     "costFormula": null,
     "notes": "Proforma Invoice ST260903-01 от 03.09.2026 (Airport services and refueling 03.09.2026, 21 719,36 USD). Issued to: PT KIRANA GLOBAL HUB (Jalan Subak Sari 13, Tibubeneng, Kuta Utara, Badung, Bali). | Payment Order 03/09/2026 (📨 Молодежь): бенефициар FUJIA AUTOMAT LIMITED (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan Kowloon, Hong Kong; Citibank N.A., Hong Kong Branch, 49F Champion Tower, 3 Garden Road, Central HKG; a/c 390205798, SWIFT CITIHKHXXXX, Bank code 006, Branch 391), 21 719,36 USD, invoice ST260903-01. Компания KIRANA (по паттерну row 52, PT Kirana Global Hub). | ПП №505 от 03.09.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 849 119,21₽ {VO21200} Оплата за услуги по договору 210701/PJ от 01.07.2021 | ПП №506 от 03.09.2026 ИСПОЛНЕНО (ГПБ АО г Москва): ООО «Кристалл Джет» → ВИДИИКС СЕРВИСЕЗ - ФЗКО, 1 071 839,59₽ {VO21400} Оплата за услуги по договору 210701/PJ от 01.07.2021. Итого 1 920 958,80₽ ≈ 21 719,36 USD. → exchange_to = VDX. Ждём VDX (курс/received_usdt) и исполнение (INITIATED → 🟡 / EXECUTED → 🟢).",
