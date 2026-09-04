@@ -787,14 +787,14 @@
     "company": null,
     "color": "FFFF0000",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "36 181,00 + 0,45% + 100 = 36 443,82 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 36498.09,
-    "sent_usdt": null,
-    "notes": "Медицинский счёт №607640 от 16.06.2026 (RESTORED COPY, 📨 Константин Просто Группа, 03.09.2026): лечение в Schneider Children's Medical Center (Sackler School of Medicine, Tel-Aviv University), пациент Шерстобитова Лана (Sherstobitova Lana), Order No 23947 / Patient No 23947, Patient ID 600006028. Позиции (USD): Surgery 4 = 7 723,00; доп. мультидисциплинарная бригада = 3 145,00; стационар до 3 дней = 3 761,00; 4+ день = 2 181,00; стационар с химиотерапией до 6 дней = 15 200,00; доп. день ICU = 2 651,00; анализы крови/лаборатория = 1 258,00; типирование крови = 262,00. ИТОГО = 36 181,00 USD. Beneficiary: IMedical Tel Aviv Ltd (14 Weizman St, Tel-Aviv 64239 Israel; Bank Leumi Le Israel B.M., Ashdod Business Branch, Ashdod Israel; Swift LUMIILITXXX; IBAN IL23-0109-3200-0000-1182-008). Application for transfer (36_181_00_USD.xlsx): Order No 607640 from 16/06/26; Patient No 23947; 36 181,00 USD. Компания-плательщик ❗️ не указана (нет «Payment from») — строка 🔴 Step 0, ждём заявку/компанию (аналогично Profitlink row 18: платёж физлицу/клинике). | IN 04.09.2026 08:49 МСК (Bobr Alert 05:49 UTC, Рабочий 4): 36 498,09 USDT от TC4CXbtM8WKFvvsgbmc6TzYE4TDVEj5MeV (кошелёк Константина, скрин 04.09). Scream 04.09.2026: под заявку row 42 (36 181,00 USD). received_usdt = 36498.09. Q9 отправлен, леджер --q9 (txid 341c478b5b869b15b401be9c3b78052cb746bad5f5cf83b9988bd4ef93f223c3)."
+    "sent_usdt": 36443.82,
+    "notes": "Медицинский счёт №607640 от 16.06.2026 (RESTORED COPY, 📨 Константин Просто Группа, 03.09.2026): лечение в Schneider Children's Medical Center (Sackler School of Medicine, Tel-Aviv University), пациент Шерстобитова Лана (Sherstobitova Lana), Order No 23947 / Patient No 23947, Patient ID 600006028. Позиции (USD): Surgery 4 = 7 723,00; доп. мультидисциплинарная бригада = 3 145,00; стационар до 3 дней = 3 761,00; 4+ день = 2 181,00; стационар с химиотерапией до 6 дней = 15 200,00; доп. день ICU = 2 651,00; анализы крови/лаборатория = 1 258,00; типирование крови = 262,00. ИТОГО = 36 181,00 USD. Beneficiary: IMedical Tel Aviv Ltd (14 Weizman St, Tel-Aviv 64239 Israel; Bank Leumi Le Israel B.M., Ashdod Business Branch, Ashdod Israel; Swift LUMIILITXXX; IBAN IL23-0109-3200-0000-1182-008). Application for transfer (36_181_00_USD.xlsx): Order No 607640 from 16/06/26; Patient No 23947; 36 181,00 USD. Компания-плательщик ❗️ не указана (нет «Payment from») — строка 🔴 Step 0, ждём заявку/компанию (аналогично Profitlink row 18: платёж физлицу/клинике). | IN 04.09.2026 08:49 МСК (Bobr Alert 05:49 UTC, Рабочий 4): 36 498,09 USDT от TC4CXbtM8WKFvvsgbmc6TzYE4TDVEj5MeV (кошелёк Константина, скрин 04.09). Scream 04.09.2026: под заявку row 42 (36 181,00 USD). received_usdt = 36498.09. Q9 отправлен, леджер --q9 (txid 341c478b5b869b15b401be9c3b78052cb746bad5f5cf83b9988bd4ef93f223c3). | OUT 04.09.2026 10:05:30 UTC (Bobr Alert, Рабочий 4): 36 443,82 USDT → TAT4mLs1J6iJf4pEDVJvJVB5pPcNo89udR. Scream 04.09.2026: расчёт = 36 181,00 + 0,45% (36 343,82) + 100 $ фикс за платёжку и Swift = 36 443,82 USDT. sent_usdt = 36443.82. Q9 отправлен, леджер --q9 (txid 6b09dea4206c0808fc32bf09e6493db18cfd770329d021f3e901c217b62ab4d8)."
   }
 ]
