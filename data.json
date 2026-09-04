@@ -1635,16 +1635,18 @@
     "company": "Q8",
     "color": "FF92D050",
     "clientName": "VDX",
-    "costFormula": "28 278,58 EUR × 1.161799 + 0.3% + 30 = 32 982,60 USDT",
+    "costFormula": "28310/6.70809097382",
     "extra": "Проформа-инвойс 280801 dd 28.08.2026 (e-Arşiv, MELİNO TURİZM SEYAHAT ANONİM ŞİRKETİ, Antalya; VKN 6141416316, Sicil 112865; Denizbank DENITRISXXX, EUR TR33 0013 4000 0183 3020 0000 04): туристические услуги (Hizmet ihracatı 302-11/1-a, KDV 0%): Voyage Belek — SUDIA OLEG 07.09.2026 (3 750,60 EUR) + Rixos Sungate Club Diamond — KUGUSHEV SERGEI 22.09.2026 (15 544,49 EUR) + Regnum Carya — SHAYKHET VLADIMIR 19.09.2026 (8 983,49 EUR). ИТОГО 28 278,58 EUR. All bank charges borne by client. | Заявка Q8 (Payment from ❗️, 📨 Заявки Компания Q8, 02.09.2026): 28 278,58 EUR → MELINO TURIZM (Denizbank, DENITRISXXX, TR33 0013 4000 0183 3020 0000 04), INV.280801 DD 28.08.2026, OUR. Компания Q8 (ТЕЗ). Клиент уточняется у Scream.",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": "33014",
-    "sent_usdt": 32982.6,
+    "sent_usdt": 189906.05,
     "notes": "Клиент VDX (Scream 02.09.2026). | IN 02.09.2026 11:49 МСК (Bobr Alert, Рабочий 4): 33 014,00 USDT от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 под заявку MELINO 28 278,58 EUR (подтверждено Scream 02.09.2026). received_usdt = 33014. Q9 отправлен, леджер --q9. | Кросс-курс EUR/USD = 1.161799402645 (FX Q8 02.09.2026: продажа 232 288 USD → покупка 199 938,13 EUR, 1 USD = 0,860733802594 EUR). Привязан Scream 02.09.2026 к заявке 28 278,58 EUR (row 87, MELINO TURIZM). | | BONBILL Payment Certificate 02.09.2026 17:55:34 (Тип 7 Q8): Q8 GROUP LIMITED → MELINO TURIZM SEYAHAT ANONIM SIRKETI (DENIZBANK A.S., TR33001340000183302000000428). 28 278,58 EUR. Invoice 280801 DD 28.08.2026 For Trvl Deals. TXID O2095088232231469056463. EXECUTED 🟢",
-    "calc": "ТЕЗ"
+    "calc": null,
+    "exchangeDocType": "Q8_VOUCHER",
+    "transactionId": "202609041415464342003"
   },
   {
     "row": 86,
