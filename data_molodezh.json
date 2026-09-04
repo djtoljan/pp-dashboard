@@ -1269,15 +1269,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "ИП Зольников (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "248 203,00 USD + 0,3% + 30 = 248 977,61 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 248977.61,
+    "notes": "Инвойс №9 dd 04.09.2026 (Invoice, 📨 Молодежь, 04.09.2026): AGARO COIN AUCTION, S.L. (17220 Sant Feliu de Guíxols - Girona, Calle Agaro 89, Испания; BBVA, IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX) → BILL TO: Q8 GROUP LIMITED (DBS Bank (Hong Kong) Limited). 15 лотов иностранных мировых и римских монет (коллекционные монеты с аукциона) = 248 203,00 USD, VAT 0%, доставка 0. | Payment Order 04.09.2026 (docx, 📨 Молодежь): 248 203 USD → AGARO COIN AUCTION S.L. (BBVA), PAYMENT BY INVOICE NO. 9 DD 04.09.2026. Заявка Тип 4: инвойс + ордер → ⬜ Step 3. Клиент: ИП Зольников (по файлу «Agaro-IP ZDV 248 203» / прошлая сделка row 54 Agaro→Зольников, ИНН 772900240228). Компания Q8 (billed to Q8 Group Limited). Q8-формула: 248 203,00 + 0,3% + 30 = 248 977,61 USDT (sent_usdt сразу). Ждём INITIATED → 🟡.",
     "calc": null
   }
 ]
