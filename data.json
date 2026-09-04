@@ -1810,7 +1810,7 @@
     "currency": "USD",
     "company": null,
     "color": "FFFF0000",
-    "clientName": "Хайвэй (уточняется у Scream)",
+    "clientName": "VDX",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
@@ -1819,7 +1819,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Поручение на «хайвэй» (04.09.2026, 📨 Ордера и Расчеты): оплата по инвойсу + контракту на сумму 115 466,00 USD за LED-светильники (просьба в назначении платежа указать «Payment for LED Lighting», как просит поставщик). Проформа-инвойс (15433_inv-ag, Date 9/1/2026, №8): GOLDMAN INTERNATIONAL LIMITED (Flat/Rm A 12/F, ZJ 300, 300 Lockhart Road, Wan Chai, Hong Kong; sale@goldman.international), Contract № 2442/02 от 14.04.2026. LED FLOODLIGHT AURO-PRO-FL-HNTR-50/150/200 (DC12-24V/AC220V, IP66), 6 позиций: 11 928,00 + 12 780,00 + 61 420,00 + 2 583,00 + 21 475,00 + 5 280,00 = 115 466,00 USD. Shipping 0, Bank Charge 0. EXW, 100% TT, 15 business days after payment. Банк: China Construction Bank (Asia) Corporation Limited, 20/F CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon, HK, SWIFT CCBQHKAXXXX, счёт 8462 1030 8591. Step 0 красный — клиент/группа и расчёт уточняются у Scream. | Заявка подтверждена (📨 Ордера и Расчеты, 04.09.2026, Payment from ❗️ OUR): GOLDMAN INTERNATIONAL LIMITED (Flat/Rm A 12/F, ZJ 300, 300 Lockhart Road, Wan Chai, HK), CCB (Asia) 20/F CCB Centre, 18 Wang Chiu Road, Kowloon Bay, HK, Swift CCBQHKAXXXX, Account 8462 1030 8591. Payment details: Payment for LED Lighting, INV. 8 DD.01.09.26, Contract 2442/02 dd 14.04.2026. Amount 115 466,00 USD, OUR. Плательщик не указан (❗️) — «хайвэй» уточняется у Scream. Расчёт ждём от Scream.",
+    "notes": "Поручение на «хайвэй» (04.09.2026, 📨 Ордера и Расчеты): оплата по инвойсу + контракту на сумму 115 466,00 USD за LED-светильники (просьба в назначении платежа указать «Payment for LED Lighting», как просит поставщик). Проформа-инвойс (15433_inv-ag, Date 9/1/2026, №8): GOLDMAN INTERNATIONAL LIMITED (Flat/Rm A 12/F, ZJ 300, 300 Lockhart Road, Wan Chai, Hong Kong; sale@goldman.international), Contract № 2442/02 от 14.04.2026. LED FLOODLIGHT AURO-PRO-FL-HNTR-50/150/200 (DC12-24V/AC220V, IP66), 6 позиций: 11 928,00 + 12 780,00 + 61 420,00 + 2 583,00 + 21 475,00 + 5 280,00 = 115 466,00 USD. Shipping 0, Bank Charge 0. EXW, 100% TT, 15 business days after payment. Банк: China Construction Bank (Asia) Corporation Limited, 20/F CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon, HK, SWIFT CCBQHKAXXXX, счёт 8462 1030 8591. Step 0 красный — клиент/группа и расчёт уточняются у Scream. | Заявка подтверждена (📨 Ордера и Расчеты, 04.09.2026, Payment from ❗️ OUR): GOLDMAN INTERNATIONAL LIMITED (Flat/Rm A 12/F, ZJ 300, 300 Lockhart Road, Wan Chai, HK), CCB (Asia) 20/F CCB Centre, 18 Wang Chiu Road, Kowloon Bay, HK, Swift CCBQHKAXXXX, Account 8462 1030 8591. Payment details: Payment for LED Lighting, INV. 8 DD.01.09.26, Contract 2442/02 dd 14.04.2026. Amount 115 466,00 USD, OUR. Плательщик не указан (❗️) — «хайвэй» уточняется у Scream. Расчёт ждём от Scream. | ✅ Клиент подтверждён Scream 04.09.2026: VDX (строка в Main, как MELINO row 85/ESENG row 87). Плательщик по ордеру ❗️ — компания ждёт заявку/уточнение.",
     "calc": null
   }
 ]
