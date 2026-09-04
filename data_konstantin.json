@@ -765,7 +765,7 @@
     "sum": 150000,
     "currency": "USD",
     "company": "INFINITE",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": "Заявка 03.09.2026 (XLSX 150_000_USD_03.09.26 + «Ордера и Расчеты» 03.09.2026: Payment from INFINITE ❗ OUR → DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, UAE, PO Box 263338; EMIRATES NBD, Al Qusais Branch, EBILAEAD, AE690260000514449097303), INV 90218514 dd 14.08.26, 150 000,00 USD). ⚠️ Частичная оплата проформы 90218514 dd 14.08.2026 (ИТОГО 835 188,00 USD; row 36 = 200 000, row 29 = 250 267 — отдельные строки). PI 90218514 dd 14.08.2026: DeLonghi Kenwood MEIA FZE → PT Infinite Sunrise Asia (Jalan Udayana No.164, Bali, Indonesia), Braun IS7286BK SS INT ×3052 = 363 188,00 + IS9090BK SS INT ×2950 = 472 000,00 = 835 188,00 USD, EX WORKS, PAYMENT IN ADVANCE, Order 115552061, Account 693465. Компания INFINITE.",
@@ -775,7 +775,7 @@
     "vdx_rate": null,
     "received_usdt": 151200,
     "sent_usdt": 150750,
-    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 03.09.2026): Payment from INFINITE ❗ → DE LONGHI KENWOOD MEIA FZE, INV 90218514 dd 14.08.26, 150 000,00 USD, OUR. Ждём IN USDT и расчёт. | IN 03.09.2026 11:45:42 UTC (Bobr Alert, Рабочий 4): 151 200,0 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS (кошелёк Константин Просто Группа) под заявку 150 000 USD DeLonghi (INV 90218514, row 41). received_usdt = 151200 (150 000 × 1.008). Скрин OUT 151200 (кошелёк Константина, Guarda) подтверждает. Q9 отправлен, леджер --q9. | OUT 03.09.2026 12:42:51 UTC (Bobr Alert, Рабочий 4): 150 750,0 USDT → THLXsGP2Nvh5DFK3DUhoE66hVcrx5MEABq — sent_usdt = 150750 (150 000 × 1.005). Q9 отправлен, леджер --q9. Ждём исполнение (MT73/EXECUTED → 🟢).",
+    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 03.09.2026): Payment from INFINITE ❗ → DE LONGHI KENWOOD MEIA FZE, INV 90218514 dd 14.08.26, 150 000,00 USD, OUR. Ждём IN USDT и расчёт. | IN 03.09.2026 11:45:42 UTC (Bobr Alert, Рабочий 4): 151 200,0 USDT от TH9goEqVzBokmTVdRvhMy8j2E1WtvZdPKS (кошелёк Константин Просто Группа) под заявку 150 000 USD DeLonghi (INV 90218514, row 41). received_usdt = 151200 (150 000 × 1.008). Скрин OUT 151200 (кошелёк Константина, Guarda) подтверждает. Q9 отправлен, леджер --q9. | OUT 03.09.2026 12:42:51 UTC (Bobr Alert, Рабочий 4): 150 750,0 USDT → THLXsGP2Nvh5DFK3DUhoE66hVcrx5MEABq — sent_usdt = 150750 (150 000 × 1.005). Q9 отправлен, леджер --q9. Ждём исполнение (MT73/EXECUTED → 🟢). | | MT103 Payment Confirmation (Bank Mandiri Indonesia, BMRIIDJAXXXX, koprabymandiri.com) 04.09.2026 12:22 GMT+7: Message User Ref OPF1697488492, Sender's Ref 0999102551161702, UETR ae3e6971-5aee-4492-9ade-5430c012367f, Settlement 04.09.2026 USD 150 000,00, Charge OUR: PT INFINITE SUNRISE ASIA (BMRIIDJA) → DE LONGHI KENWOOD MEIA FZE (EMIRATES NBD, EBILAEADXXX, AE690260000514449097303), /INV/PAYMENT UNDER INVOICE 90218514 DD 14.08.26. EXECUTED 🟢",
     "calc": null,
     "row": 41
   },
