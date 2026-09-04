@@ -1867,6 +1867,25 @@
   },
   {
     "row": 99,
+    "date": "2026-09-03",
+    "sum": 5000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "SURANDINA DE FLORES (Цветы)",
+    "costFormula": "5 000,00 + 0,3% + 30 = 5 045,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 5045,
+    "notes": "Инвойс 99582 dd 03.09.2026 (SEPTEMBER 03/2026) от C.I. SURANDINA DE FLORES SAS (Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia; NIT 900.137.094-6; surandina@hotmail.com; CARGEX) → Q8 Group Limited (80242882, HK). HYDRANGEA PREMIUM/SELECT ASSORTED/WHITE/PINK/LAVANDER/BLUE, 237 боксов, 7 615 стеблей, 9 позиций = 5 000,00 USD. Colombia preferential origin. ⚠️ НОВАЯ заявка — row 60 (инвойсы 34584/34594 dd 26.08, 172 бокса) уже 🟢. | Ордер SURANDINA_5000 (DOC): получатель CI SURANDINA DE FLORES, BANCOLOMBIA, COLOCOBM, счёт 34936346610 CORRIENTE, Cra. 21 #19-25, La Ceja, Colombia (реквизиты совпадают с row 60). Компания Q8 (ТЕЗ, покупатель по инвойсу). Клиент: Цветы (по аналогии row 60). Q8-расчёт: 5 000 + 0,3% + 30 = 5 045 USDT. Сообщение Q8: «100 теза за пп отдадим. Ещё надо за поиск платежа отдать 50 евро» — доп. условия по заявке, уточняются.",
+    "calc": null
+  },
+  {
+    "row": 100,
     "date": "2026-09-04",
     "sum": 51494.37,
     "currency": "EUR",
@@ -1885,7 +1904,7 @@
     "calc": null
   },
   {
-    "row": 100,
+    "row": 101,
     "date": "2026-09-04",
     "sum": 40000,
     "currency": "EUR",
