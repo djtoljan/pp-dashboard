@@ -1890,7 +1890,7 @@
     "sum": 51494.37,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "51 494,37 × 1,1670498688 (FX Q8 04.09: 106 658 USD → 91 391,12 EUR, 1 USD = 0,85686141333 EUR) + 0,3% + 30 = 60 306,79 USDT",
     "extra": null,
@@ -1900,7 +1900,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 60306.79,
-    "notes": "Коммерческий инвойс AA-Q8-2026-0904 dd 04.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 51 494,37 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8. | Заявка 04.09.2026 (Scream): 51 494,37 EUR → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300), Invoice AA-Q8-2026-0904 dd 04.09.2026, payment for invoice. ⬜ Step 3 (Q8, ТЕЗ). | | FX Q8 04.09.2026 (Scream): 1 USD = 0,85686141333 EUR → 1 EUR = 1,1670498688 USD (106 658 USD → 91 391,12 EUR). Кросс-курс для заявки Atlantic Avrora 51 494,37 EUR (row 99). Q8-расчёт: 51 494,37 × 1,1670498688 + 0,3% + 30 = 60 306,79 USDT.",
+    "notes": "Коммерческий инвойс AA-Q8-2026-0904 dd 04.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 51 494,37 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8. | Заявка 04.09.2026 (Scream): 51 494,37 EUR → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300), Invoice AA-Q8-2026-0904 dd 04.09.2026, payment for invoice. ⬜ Step 3 (Q8, ТЕЗ). | | FX Q8 04.09.2026 (Scream): 1 USD = 0,85686141333 EUR → 1 EUR = 1,1670498688 USD (106 658 USD → 91 391,12 EUR). Кросс-курс для заявки Atlantic Avrora 51 494,37 EUR (row 99). Q8-расчёт: 51 494,37 × 1,1670498688 + 0,3% + 30 = 60 306,79 USDT. | | BONBILL Payment Certificate 04.09.2026 14:41:18 (Тип 7 Q8): Q8 GROUP LIMITED → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BG04BGUS91601413896300), 51 494,37 EUR. Invoice AAQ8-2026-0904 dd 04.09.2026 For Flowers. TXID O2095764122309361664129. EXECUTED → 🟢",
     "calc": null
   },
   {
@@ -1909,7 +1909,7 @@
     "sum": 40000,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "40 000,00 × 1,1670498688 (FX Q8 04.09: 106 658 USD → 91 391,12 EUR, 1 USD = 0,85686141333 EUR) + 0,3% + 30 = 46 852,04 USDT",
     "extra": null,
@@ -1919,7 +1919,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 46852.04,
-    "notes": "Invoice DA-040926-01 dd 04.09.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 40 000,00 EUR, EXW, Truck Interflowers. Roses 46 070 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma/Pomarosa). Farm invoices DA-040926-E1..E9. | Заявка 04.09.2026 (Scream, сумма подтверждена 40 000,00 EUR; в Application docx стояло 50 000 — ошибка, сумма по инвойсу): 40 000,00 EUR → Dolina Agro Ltd (Bank Leumi Le Israel B.M., LUMIILITXXX, IL750107440000027660042), Invoice DA-040926-01 dd 04.09.2026, вид платежа: только не из России. ⬜ Step 3 (Q8, ТЕЗ). | | FX Q8 04.09.2026 (Scream): 1 USD = 0,85686141333 EUR → 1 EUR = 1,1670498688 USD (106 658 USD → 91 391,12 EUR). Кросс-курс для заявки Dolina Agro 40 000 EUR (row 100). Q8-расчёт: 40 000 × 1,1670498688 + 0,3% + 30 = 46 852,04 USDT.",
+    "notes": "Invoice DA-040926-01 dd 04.09.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 40 000,00 EUR, EXW, Truck Interflowers. Roses 46 070 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma/Pomarosa). Farm invoices DA-040926-E1..E9. | Заявка 04.09.2026 (Scream, сумма подтверждена 40 000,00 EUR; в Application docx стояло 50 000 — ошибка, сумма по инвойсу): 40 000,00 EUR → Dolina Agro Ltd (Bank Leumi Le Israel B.M., LUMIILITXXX, IL750107440000027660042), Invoice DA-040926-01 dd 04.09.2026, вид платежа: только не из России. ⬜ Step 3 (Q8, ТЕЗ). | | FX Q8 04.09.2026 (Scream): 1 USD = 0,85686141333 EUR → 1 EUR = 1,1670498688 USD (106 658 USD → 91 391,12 EUR). Кросс-курс для заявки Dolina Agro 40 000 EUR (row 100). Q8-расчёт: 40 000 × 1,1670498688 + 0,3% + 30 = 46 852,04 USDT. | | BONBILL Payment Certificate 04.09.2026 14:39:07 (Тип 7 Q8): Q8 GROUP LIMITED → Dolina Agro Ltd (BANK LEUMI LE-ISRAEL B.M., IL750107440000027660042), 40 000,00 EUR. Invoice DA-040926-01 dd 04.09.2026 For Flowers. TXID O2095763571383336960541. EXECUTED → 🟢",
     "calc": null
   },
   {
