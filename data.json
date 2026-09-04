@@ -1802,5 +1802,24 @@
     "sent_usdt": null,
     "notes": "Инвойс 001-LOG-1 dd 03.09.2026 (ATLAS INDUSTRIAL GROUP LTD → «LOGIS» LLC): оборудование для литья (Mold Cylinder, Hot Runner 48 Cavities, CRM, Tie Bar, Plasticizing Unit и др., 15 поз.), TOTAL 83.496,00 EUR. Контракт №001-LOGIS dd 03.09.2026 (ATLAS INDUSTRIAL GROUP LTD, Seller → «LOGIS» LLC, Buyer). DAP Ростов-на-Дону. Отсрочка платежа до 200 дней. Продавец: ATLAS INDUSTRIAL GROUP LTD (Piccadilly Business Centre, Unit C, Manchester M12 6AE, UK; EKTICO/OpenPayd Malta, IBAN MT23CFTE28004000000000005734091, BIC CFTEMTM1). Цепочка: Petagros-Com SRL (MD) → ATLAS (контракт ATLAS-004-CON, инвойс 004-ATLAS-INV, тоже 83.496,00 EUR). Покупатель: «LOGIS» LLC (107150 Москва, Донецкая 34К3, оф.715; Сбербанк SABRRUMM, 4070281038710003943). Packing list LOG-001 (For Invoice 001-LOG-INNV, truck 77EZ310/99ZF310, 16 pcs / 4 pls, 10 437 кг). Покупатель-клиент: ООО «ЛОГИС» (Main, как row 32). Step 0, компания-плательщик ждёт заявку/поручение.",
     "calc": null
+  },
+  {
+    "row": 94,
+    "date": "2026-09-04",
+    "sum": 115466,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Хайвэй (уточняется у Scream)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение на «хайвэй» (04.09.2026, 📨 Ордера и Расчеты): оплата по инвойсу + контракту на сумму 115 466,00 USD за LED-светильники (просьба в назначении платежа указать «Payment for LED Lighting», как просит поставщик). Проформа-инвойс (15433_inv-ag, Date 9/1/2026, №8): GOLDMAN INTERNATIONAL LIMITED (Flat/Rm A 12/F, ZJ 300, 300 Lockhart Road, Wan Chai, Hong Kong; sale@goldman.international), Contract № 2442/02 от 14.04.2026. LED FLOODLIGHT AURO-PRO-FL-HNTR-50/150/200 (DC12-24V/AC220V, IP66), 6 позиций: 11 928,00 + 12 780,00 + 61 420,00 + 2 583,00 + 21 475,00 + 5 280,00 = 115 466,00 USD. Shipping 0, Bank Charge 0. EXW, 100% TT, 15 business days after payment. Банк: China Construction Bank (Asia) Corporation Limited, 20/F CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon, HK, SWIFT CCBQHKAXXXX, счёт 8462 1030 8591. Step 0 красный — клиент/группа и расчёт уточняются у Scream. | Заявка подтверждена (📨 Ордера и Расчеты, 04.09.2026, Payment from ❗️ OUR): GOLDMAN INTERNATIONAL LIMITED (Flat/Rm A 12/F, ZJ 300, 300 Lockhart Road, Wan Chai, HK), CCB (Asia) 20/F CCB Centre, 18 Wang Chiu Road, Kowloon Bay, HK, Swift CCBQHKAXXXX, Account 8462 1030 8591. Payment details: Payment for LED Lighting, INV. 8 DD.01.09.26, Contract 2442/02 dd 14.04.2026. Amount 115 466,00 USD, OUR. Плательщик не указан (❗️) — «хайвэй» уточняется у Scream. Расчёт ждём от Scream.",
+    "calc": null
   }
 ]
