@@ -1241,5 +1241,24 @@
     "costFormula": null,
     "notes": "Proforma Invoice ST260903-01 от 03.09.2026 (Airport services and refueling 03.09.2026, 21 719,36 USD). Issued to: PT KIRANA GLOBAL HUB (Jalan Subak Sari 13, Tibubeneng, Kuta Utara, Badung, Bali). | Payment Order 03/09/2026 (📨 Молодежь): бенефициар FUJIA AUTOMAT LIMITED (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan Kowloon, Hong Kong; Citibank N.A., Hong Kong Branch, 49F Champion Tower, 3 Garden Road, Central HKG; a/c 390205798, SWIFT CITIHKHXXXX, Bank code 006, Branch 391), 21 719,36 USD, invoice ST260903-01. Компания KIRANA (по паттерну row 52, PT Kirana Global Hub). | ПП №505 от 03.09.2026 ИСПОЛНЕНО (ГПБ АО г Москва, БИК 044525823, сч. 40702810900000021724): ООО «Кристалл Джет» (ИНН 7717665139) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ Ярославль, сч. 40807810000000015414), 849 119,21₽ {VO21200} Оплата за услуги по договору 210701/PJ от 01.07.2021 | ПП №506 от 03.09.2026 ИСПОЛНЕНО (ГПБ АО г Москва): ООО «Кристалл Джет» → ВИДИИКС СЕРВИСЕЗ - ФЗКО, 1 071 839,59₽ {VO21400} Оплата за услуги по договору 210701/PJ от 01.07.2021. Итого 1 920 958,80₽ ≈ 21 719,36 USD. → exchange_to = VDX. Ждём VDX (курс/received_usdt) и исполнение (INITIATED → 🟡 / EXECUTED → 🟢).",
     "calc": null
+  },
+  {
+    "row": 66,
+    "date": "2026-09-04",
+    "sum": 940497.69,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Радойл (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
