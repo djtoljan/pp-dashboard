@@ -1873,15 +1873,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Atlantic Avrora (Цветы)",
-    "costFormula": null,
+    "costFormula": "51 494,37 × 1,1670498688 (FX Q8 04.09: 106 658 USD → 91 391,12 EUR, 1 USD = 0,85686141333 EUR) + 0,3% + 30 = 60 306,79 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Коммерческий инвойс AA-Q8-2026-0904 dd 04.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 51 494,37 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8. | Заявка 04.09.2026 (Scream): 51 494,37 EUR → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300), Invoice AA-Q8-2026-0904 dd 04.09.2026, payment for invoice. ⬜ Step 3 (Q8, ТЕЗ).",
+    "sent_usdt": 60306.79,
+    "notes": "Коммерческий инвойс AA-Q8-2026-0904 dd 04.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 51 494,37 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8. | Заявка 04.09.2026 (Scream): 51 494,37 EUR → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300), Invoice AA-Q8-2026-0904 dd 04.09.2026, payment for invoice. ⬜ Step 3 (Q8, ТЕЗ). | | FX Q8 04.09.2026 (Scream): 1 USD = 0,85686141333 EUR → 1 EUR = 1,1670498688 USD (106 658 USD → 91 391,12 EUR). Кросс-курс для заявки Atlantic Avrora 51 494,37 EUR (row 99). Q8-расчёт: 51 494,37 × 1,1670498688 + 0,3% + 30 = 60 306,79 USDT.",
     "calc": null
   },
   {
@@ -1892,15 +1892,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Dolina Agro (Цветы)",
-    "costFormula": null,
+    "costFormula": "40 000,00 × 1,1670498688 (FX Q8 04.09: 106 658 USD → 91 391,12 EUR, 1 USD = 0,85686141333 EUR) + 0,3% + 30 = 46 852,04 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Invoice DA-040926-01 dd 04.09.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 40 000,00 EUR, EXW, Truck Interflowers. Roses 46 070 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma/Pomarosa). Farm invoices DA-040926-E1..E9. | Заявка 04.09.2026 (Scream, сумма подтверждена 40 000,00 EUR; в Application docx стояло 50 000 — ошибка, сумма по инвойсу): 40 000,00 EUR → Dolina Agro Ltd (Bank Leumi Le Israel B.M., LUMIILITXXX, IL750107440000027660042), Invoice DA-040926-01 dd 04.09.2026, вид платежа: только не из России. ⬜ Step 3 (Q8, ТЕЗ).",
+    "sent_usdt": 46852.04,
+    "notes": "Invoice DA-040926-01 dd 04.09.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 40 000,00 EUR, EXW, Truck Interflowers. Roses 46 070 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma/Pomarosa). Farm invoices DA-040926-E1..E9. | Заявка 04.09.2026 (Scream, сумма подтверждена 40 000,00 EUR; в Application docx стояло 50 000 — ошибка, сумма по инвойсу): 40 000,00 EUR → Dolina Agro Ltd (Bank Leumi Le Israel B.M., LUMIILITXXX, IL750107440000027660042), Invoice DA-040926-01 dd 04.09.2026, вид платежа: только не из России. ⬜ Step 3 (Q8, ТЕЗ). | | FX Q8 04.09.2026 (Scream): 1 USD = 0,85686141333 EUR → 1 EUR = 1,1670498688 USD (106 658 USD → 91 391,12 EUR). Кросс-курс для заявки Dolina Agro 40 000 EUR (row 100). Q8-расчёт: 40 000 × 1,1670498688 + 0,3% + 30 = 46 852,04 USDT.",
     "calc": null
   }
 ]
