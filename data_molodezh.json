@@ -1260,5 +1260,24 @@
     "sent_usdt": null,
     "notes": "Поручение №2 от 04.09.2026 (Transfer Request No.2, прил. №1 к Агентскому договору RDVX260203 от 27.04.2026): Принципал ООО «Группа Компаний «РАДОЙЛ» → платёж FUJIA AUTOMAT LIMITED (CURRENXIE LIMITED, Citibank N.A. Hong Kong, SWIFT CITIHKHX, a/c 006-391-390205798) по инвойсу ST260814-01 от 14.08.2026 (Proforma, сырьё для косметики 940 497,69 CNY), контракт 0113052024/FRAD от 13.05.2024. Рублёвый эквивалент 12 277 256,85 ₽ (курс 13,0540), комиссия агента 98 218,05 ₽. Пакет документов: Поручение №2 + Proforma ST260814-01 + Payment Order 04.09.2026 (📨 Молодёжь).",
     "calc": null
+  },
+  {
+    "row": 67,
+    "date": "2026-09-04",
+    "sum": 248203,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ИП Зольников (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
