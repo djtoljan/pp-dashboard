@@ -1883,5 +1883,24 @@
     "sent_usdt": null,
     "notes": "Коммерческий инвойс AA-Q8-2026-0904 dd 04.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 51 494,37 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8. | Заявка 04.09.2026 (Scream): 51 494,37 EUR → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300), Invoice AA-Q8-2026-0904 dd 04.09.2026, payment for invoice. ⬜ Step 3 (Q8, ТЕЗ).",
     "calc": null
+  },
+  {
+    "row": 100,
+    "date": "2026-09-04",
+    "sum": 40000,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
