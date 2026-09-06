@@ -1279,5 +1279,43 @@
     "notes": "ПП на VDX №603 от 04.09.2026 ИСПОЛНЕН 04.09 16:43:40 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200). Получатель: ВиДиИкс Сервисез - ФЗКО (ПСБ, сч. 40807810000000015414). 44 755,57 ₽. {VO11100} Част.оплата за товар по инв. PRM-079-20260901 от 01.09.2026, договор NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) по курсу 88,6249 (курс из ПП — НЕ vdx_rate). Подписант: Мельникова С.С. НДС не облагается.",
     "calc": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
+  },
+  {
+    "row": 68,
+    "date": "2026-09-04",
+    "sum": 20604.5,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "БЕСТАКВАТИКС (Молодёжь)",
+    "costFormula": "20604.50 + 0.3% + 30 = 20716.32 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 20696.31,
+    "notes": null,
+    "calc": null
+  },
+  {
+    "row": 69,
+    "date": "2026-08-24",
+    "sum": 376.28,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "БЕСТАКВАТИКС (Молодёжь)",
+    "costFormula": "376.28 + 0.3% + 30 = 407.41 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 407.41,
+    "notes": null,
+    "calc": null
   }
 ]
