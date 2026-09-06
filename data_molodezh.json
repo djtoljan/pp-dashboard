@@ -1336,5 +1336,24 @@
     "sent_usdt": 1212.54,
     "notes": "Инвойс 030.08.26.L dd 25.08.2026 (📨 Молодежь 06.09.2026). PT.JUPITER INDONESIA (Bekasi, with MULTIFISH LANKA Pvt. Ltd; рыбы/улитки, FOB Jakarta) → Q8 GROUP LIMITED (DBS Bank HK). Orders 100/591/625. Total Invoice Value = 1 179,00 USD. Банк: Multi Fish Lanka (USD Bank of Ceylon 3418760). Клиент: БЕСТАКВАТИКС (Молодёжь). Компания Q8 (ТЕЗ). ⬜ Step 3, ждём заявку/поручение. | XLSX 25082026 INVOICE TERBANG SVO (📨 Молодежь 06.09.2026, товар): PT.JUPITER INDONESIA инвойс 030.08.26.LSVO dd 25.08.2026, консигни = Bestaquatics (Москва), FOB Jakarta, AWB 157-6885 3536, рейс QR955/QR339 SVO. Total Inv. Value = 1 179,00 USD (Fresh 759,71 + Packing 419,29). Банк получателя Multi Fish Lanka — тот же инвойс (дубль PDF 030.08.26.L), ПОДТВЕРЖДЕНИЕ клиента БЕСТАКВАТИКС.",
     "calc": null
+  },
+  {
+    "row": 71,
+    "date": "2026-09-07",
+    "sum": 10159.78,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFF0000",
+    "clientName": "БЕСТАКВАТИКС (Молодёжь)",
+    "costFormula": null,
+    "extra": "Payment Order dd 07/09/2026 (заявка на оплату). Beneficiary: MULTI FISH LANKA (PVT) LTD (51 Molligoda Lane, Gampola 20500, Sri Lanka; Bank of Ceylon, Kandy Branch, акк 3418760, SWIFT BCEYLKLX). Сумма 10 159,78 USD. Назначение (Payment purpose): Payment for invoice No MF/26/08/04 dd 24.08.26; 030.08.26.L dd 25.08.26; MF-SERV/26/04/09 dd 04.09.26. = заявка на оплату по инвойсам rows 69 (376,28) + 70 (1 179,00) + 68 (20 604,50) — частичная (10 159,78 < 22 159,78). Scream 06.09: одна строка-заявка на 10 159,78, инвойсы 68-70 отдельными строками как есть. Клиент БЕСТАКВАТИКС (Молодёжь), компания Q8 (ТЕЗ). Step 0 красный, ждём рублёвую заявку/оплату.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
