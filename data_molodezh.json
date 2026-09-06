@@ -1317,5 +1317,24 @@
     "sent_usdt": 407.41,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 70,
+    "date": "2026-08-25",
+    "sum": 1179,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "БЕСТАКВАТИКС (Молодёжь)",
+    "costFormula": "1179.00 + 0.3% + 30 = 1212.54 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 1212.54,
+    "notes": null,
+    "calc": null
   }
 ]
