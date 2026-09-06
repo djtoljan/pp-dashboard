@@ -1994,5 +1994,24 @@
     "sent_usdt": 17582.5,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 106,
+    "date": "2026-09-04",
+    "sum": 51159,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Condor Andino (Цветы)",
+    "costFormula": "51159 + 0.3% + 30 = 51 342,48 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 51342.48,
+    "notes": null,
+    "calc": null
   }
 ]
