@@ -425,7 +425,7 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FF92D050",
-    "clientName": "БЕСТАКВАТИКС",
+    "clientName": "БЕСТАКВАТИКС (Молодёжь)",
     "costFormula": "11 999,72 + 0.3% + 30 = 12 065,72 USDT",
     "extra": null,
     "rubles_received": "1026096.06 / 20864.15",
@@ -1296,7 +1296,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 20696.31,
-    "notes": null,
+    "notes": "Инвойс MF-SERV/26/04/09 dd 04.09.2026 (📨 Молодежь 06.09.2026). MULTI FISH LANKA (PVT) LTD (51 Molligoda Lane, Gampola 20500, Sri Lanka; Bank of Ceylon, Kandy Branch, акк 3418760, SWIFT BCEYLKLX) → Q8 GROUP LIMITED (DBS Bank HK). Услуги за август 2026 (facts of services rendered as of August 2026): payment for services 8 241,80 + storage and quarantine 12 362,70 = 20 604,50 USD. Клиент: БЕСТАКВАТИКС (Молодёжь, по аналогии row 23 MF-инвойсы). Компания Q8 (ТЕЗ, консигни/плательщик). ⬜ Step 3, ждём заявку/поручение. | XLS Bestaquatics_SERV No.8 (📨 Молодежь 06.09.2026, тот же инвойс MF-SERV/26/04/09 dd 04.09.2026,  604,50): консигни = Bestaquatics (Ferganskiy Passage 7/4, Москва 109507) — ПОДТВЕРЖДЕНИЕ клиента БЕСТАКВАТИКС. | Payment Order 07/09/2026 (DOCX  159,78 → Multi Fish Lanka BCEYLKLX): MF/26/08/04 + 030.08.26.L + MF-SERV/26/04/09 — 10 159,78 < 22 159,78 (сумма 3 инвойсов) — частичная оплата, структура у Scream.",
     "calc": null
   },
   {
@@ -1315,7 +1315,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 407.41,
-    "notes": null,
+    "notes": "Инвойс MF/26/08/04 dd 24.08.2026 (📨 Молодежь 06.09.2026). MULTI FISH LANKA (PVT) LTD (Bank of Ceylon, Kandy Branch, акк 3418760, SWIFT BCEYLKLX) → Q8 GROUP LIMITED (DBS Bank HK). Декоративные рыбы Sri Lankan origin (guppy/swordtail/molly), AWB 072 7423 7726. Total = 376,28 USD. Клиент: БЕСТАКВАТИКС (Молодёжь). Компания Q8 (ТЕЗ). ⬜ Step 3, ждём заявку/поручение. | XLS SVO - INVOICE 2026-08-24 (📨 Молодежь 06.09.2026, товар): MF/26/RU/08/04 dd 24.08.2026, консигни = Bestaquatics (Москва 109507), fishes, AWB 072 7423 7726, ,28 — тот же инвойс (дубль PDF MF/26/08/04), ПОДТВЕРЖДЕНИЕ клиента БЕСТАКВАТИКС.",
     "calc": null
   },
   {
@@ -1334,7 +1334,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 1212.54,
-    "notes": null,
+    "notes": "Инвойс 030.08.26.L dd 25.08.2026 (📨 Молодежь 06.09.2026). PT.JUPITER INDONESIA (Bekasi, with MULTIFISH LANKA Pvt. Ltd; рыбы/улитки, FOB Jakarta) → Q8 GROUP LIMITED (DBS Bank HK). Orders 100/591/625. Total Invoice Value = 1 179,00 USD. Банк: Multi Fish Lanka (USD Bank of Ceylon 3418760). Клиент: БЕСТАКВАТИКС (Молодёжь). Компания Q8 (ТЕЗ). ⬜ Step 3, ждём заявку/поручение.",
     "calc": null
   }
 ]
