@@ -1875,5 +1875,24 @@
     "notes": "Выписка Блэкшарк Трейд ПОЧТОБАНК с 04.09.2026 по 07.09.2026 (07.09.2026 12:00 GMT+05): Кт 06.09.2026 {VO60081} 6 570 434,74₽ по Агентскому Договору от ФИНИНВЕСТ (док 60). rubles_received = 6570434.74. Ждём перевод/заявку (Al Safi/привязку). | 06.09.2026 (📨 Отправки рублей ПП): с Блэкшарк ПОЧТОБАНК на Аль Сафи, 6 570 434,74₽ — перевод собственных средств (ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ). Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\FININVEST -БШ-Цветы\\вход 06.09.26. sent_rubles_vdx = 6570434.74, exchange_to = Al Safi. Ждём заявку/привязку.",
     "calc": null,
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
+  },
+  {
+    "row": 98,
+    "date": "2026-09-07",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
