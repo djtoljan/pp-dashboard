@@ -2013,5 +2013,24 @@
     "sent_usdt": 17582.5,
     "notes": "Invoice DA-060926-01 dd 06.09.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 17 500,00 USD, EXW, Truck Interflowers. Roses 22 500 stems (Fantasy/Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma). 📨 Заявки Компания Q8 (06.09.2026). Payment Order 17 500,00 USD (Bank Leumi, LUMIILITXXX, IL750107440000027660042) — тот же бенефициар. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 17 500 + 0.3% + 30 = 17 582,50 USDT.",
     "calc": null
+  },
+  {
+    "row": 107,
+    "date": "2026-09-07",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": "Выписка Блэкшарк Трейд ПОЧТОБАНК 07.09.2026 (счёт 40807810100157518600): приходы от ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723): док 214 {VO11200} 9 465 365,16₽ — Оплата за цветочную продукцию, контракт 25/06-2026 от 25.06.2026 (тело) + док 215 {VO21100} 236 634,13₽ — Оплата вознаграждения Агенту, контракт WD-30 от 25.06.2026 (агентское 2,5% = 236 634,129 ✓). rubles_received = 9465365.16 / 236634.13. 🔵 рубли без заявки — ждём VDX-заявку.",
+    "rubles_received": "9465365.16 / 236634.13",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
