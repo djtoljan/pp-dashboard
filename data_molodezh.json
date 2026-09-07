@@ -1356,5 +1356,24 @@
     "sent_usdt": null,
     "notes": " | Payment Order dd 07/09/2026 (📨 Молодёжь): 12 161,84 USD → ATExpress Trading Co.,ltd (16F B Bldg South, Huguang RD, Shushan, Hefei; HUISHANG BANK HEFEI BRANCH 4/F 626 HuangShan Rd, SWIFT HFCBCNSHXXX, a/c 223024446151000004). PAYMENT PURPOSE: Inv. AHTECH260819GC-15 dd 2026-8-24, inverter. = платёжное поручение компании Q8 (ТЕЗ) под row 71. ⬜ Step 3 остаётся, USDT 12 457 на Рабочий 4 пришли (Bobr 07.09). Ждём исполнение (BONBILL/EXECUTED) → 🟢.",
     "calc": null
+  },
+  {
+    "row": 72,
+    "date": "2026-09-07",
+    "sum": 4432.58,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Фри Лайнс Компани",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "calc": null,
+    "notes": "Поручение №22 от 07.09.2026 (Transfer Request No. 22, Приложение №1 к Агентскому договору №09-02-3/26 от 09.02.2026): Принципал АО «Фри Лайнс Компани» (Юникредит Банк, Москва) → Агент ООО «VDX SERVICES - FZCO» (сч. VDX ПСБ). Платёж 4 432,58 USD, получатель PAYLOAD MALDIVES PVT LTD (H. Maaram, 1st Floor, Ameeru Ahmed Magu, Male'-20077, Republic of Maldives; Bank of Ceylon, 12 Boduthakurufaanu Magu Male', 20094; SWIFT BCEYMVMV; a/c USD 019101129831 / 6320 3422 14). Инвойс №PLMV-26-0965 dd 11/06/2026. Курс 1 USD = 87,4559 → 387 655,27₽. Комиссия агента 25 244,29₽. Срок 2-3 банк. дня. Подписи: Паршин В.В. (Фри Лайнс), Hikmat Ahmadov (VDX). Step 0 🔴 — компания/заявка ждут (по прецеденту Фри Лайнс-сделок в Молодёжь: финансирует оператор, напр. LEO/TRANSPATH). Ждём ПП на агентский счёт VDX и заявку."
   }
 ]
