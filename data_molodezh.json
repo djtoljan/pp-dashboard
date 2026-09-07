@@ -785,6 +785,25 @@
   },
   {
     "row": 42,
+    "date": "2026-08-25",
+    "sum": 1179,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "БЕСТАКВАТИКС (Молодёжь)",
+    "costFormula": "1179.00 + 0.3% + 30 = 1212.54 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 1212.54,
+    "notes": "Инвойс 030.08.26.L dd 25.08.2026 (📨 Молодежь 06.09.2026). PT.JUPITER INDONESIA (Bekasi, with MULTIFISH LANKA Pvt. Ltd; рыбы/улитки, FOB Jakarta) → Q8 GROUP LIMITED (DBS Bank HK). Orders 100/591/625. Total Invoice Value = 1 179,00 USD. Банк: Multi Fish Lanka (USD Bank of Ceylon 3418760). Клиент: БЕСТАКВАТИКС (Молодёжь). Компания Q8 (ТЕЗ). ⬜ Step 3, ждём заявку/поручение. | XLSX 25082026 INVOICE TERBANG SVO (📨 Молодежь 06.09.2026, товар): PT.JUPITER INDONESIA инвойс 030.08.26.LSVO dd 25.08.2026, консигни = Bestaquatics (Москва), FOB Jakarta, AWB 157-6885 3536, рейс QR955/QR339 SVO. Total Inv. Value = 1 179,00 USD (Fresh 759,71 + Packing 419,29). Банк получателя Multi Fish Lanka — тот же инвойс (дубль PDF 030.08.26.L), ПОДТВЕРЖДЕНИЕ клиента БЕСТАКВАТИКС.",
+    "calc": null
+  },
+  {
+    "row": 43,
     "date": "2026-08-26",
     "sum": null,
     "currency": null,
@@ -803,7 +822,7 @@
     "calc": null
   },
   {
-    "row": 43,
+    "row": 44,
     "date": "2026-08-26",
     "sum": null,
     "currency": null,
@@ -822,7 +841,7 @@
     "calc": null
   },
   {
-    "row": 44,
+    "row": 45,
     "date": "2026-08-26",
     "sum": null,
     "currency": null,
@@ -841,7 +860,7 @@
     "calc": null
   },
   {
-    "row": 45,
+    "row": 46,
     "date": "2026-08-27",
     "sum": 35000,
     "currency": "USD",
@@ -860,7 +879,7 @@
     "calc": null
   },
   {
-    "row": 46,
+    "row": 47,
     "date": "2026-08-27",
     "sum": 10757.5,
     "currency": "USD",
@@ -879,7 +898,7 @@
     "calc": null
   },
   {
-    "row": 47,
+    "row": 48,
     "date": "2026-08-27",
     "sum": 13750,
     "currency": "USD",
@@ -898,7 +917,7 @@
     "calc": null
   },
   {
-    "row": 48,
+    "row": 49,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -917,7 +936,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 49,
+    "row": 50,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -935,7 +954,7 @@
     "notes": "ПП №591 от 28.08.2026 ИСПОЛНЕН 14:46:48 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 304 489,02₽. {VO11100} Част.оплата за товар по инв. ENT-045-SHR-C2C202608250012M от 27.08.26, ENT-047-SHR-C2C202608270013M от 27.08.26, дог. NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 87,6732. НДС не облагается. ⚠️ Инвойсы ENT-045/ENT-047 в таблицах не найдены — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   },
   {
-    "row": 50,
+    "row": 51,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -953,7 +972,7 @@
     "notes": "ПП №592 от 28.08.2026 ИСПОЛНЕН 15:11:15 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 594 511,97₽. {VO11100} Частичная оплата за товар по инвойсу №LNR-197-2026-08-25/2 от 26.08.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 87,6732). НДС не облагается. ⚠️ Инвойс LNR-197-2026-08-25/2 в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   },
   {
-    "row": 51,
+    "row": 52,
     "date": "2026-08-28",
     "sum": null,
     "currency": null,
@@ -972,7 +991,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 52,
+    "row": 53,
     "date": "2026-08-31",
     "sum": 13543.21,
     "currency": "USD",
@@ -991,7 +1010,7 @@
     "calc": null
   },
   {
-    "row": 53,
+    "row": 54,
     "date": "2026-08-31",
     "sum": 100200,
     "currency": "EUR",
@@ -1010,7 +1029,7 @@
     "calc": null
   },
   {
-    "row": 54,
+    "row": 55,
     "date": "2026-09-01",
     "sum": 64152,
     "currency": "CNY",
@@ -1029,7 +1048,7 @@
     "calc": null
   },
   {
-    "row": 55,
+    "row": 56,
     "date": "2026-09-01",
     "sum": 103885.4,
     "currency": "USD",
@@ -1049,7 +1068,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 56,
+    "row": 57,
     "date": "2026-09-01",
     "sum": 4070.33,
     "currency": "USD",
@@ -1068,7 +1087,7 @@
     "calc": null
   },
   {
-    "row": 57,
+    "row": 58,
     "date": "2026-09-01",
     "sum": null,
     "currency": null,
@@ -1088,7 +1107,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 58,
+    "row": 59,
     "date": "2026-09-01",
     "sum": null,
     "currency": null,
@@ -1108,7 +1127,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 59,
+    "row": 60,
     "date": "2026-09-01",
     "sum": null,
     "currency": null,
@@ -1144,10 +1163,10 @@
     "sent_usdt": 9057,
     "notes": "Payment Order dd 02/09/2026 (📨 Молодежь): 9 000,00 USD → Dongguan Miaosen (JPMorgan Singapore, CHASSGSG, 10141409627693), Inv. 20260810005. ⚠️ Проформа 18 070 USD = полная стоимость партии, заявка ПО ОРДЕРУ = 9 000 USD (подтверждено Scream 02.09.2026, клиент Мосты (Молодёжь)). Q8-формула: 9 000 + 0,3% + 30 = 9 057 USDT. received_usdt — из моста 56 293 (Bobr IN 02.09), разбивка между заявками 9000 и 46344.2 уточняется (по 46344.2 ждём доки). | BONBILL Payment Certificate 03.09.2026 14:39:40 (Тип 7 Q8): Q8 GROUP LIMITED → Dongguan Miaosen Electronic Technology Co., Ltd. (JPMorgan Chase Bank N.A., a/c 10141409627693). 9 000,00 USD. Invoice 20260810005 (молнии/zipper). TXID O2095401321669722112216. EXECUTED → 🟢",
     "calc": null,
-    "row": 60
+    "row": 61
   },
   {
-    "row": 61,
+    "row": 62,
     "date": "2026-09-02",
     "sum": 46344.2,
     "currency": "USD",
@@ -1166,7 +1185,7 @@
     "calc": null
   },
   {
-    "row": 62,
+    "row": 63,
     "date": "2026-09-03",
     "sum": null,
     "currency": null,
@@ -1185,7 +1204,7 @@
     "calc": null
   },
   {
-    "row": 63,
+    "row": 64,
     "date": "2026-09-03",
     "sum": null,
     "currency": null,
@@ -1204,7 +1223,7 @@
     "calc": null
   },
   {
-    "row": 64,
+    "row": 65,
     "date": "2026-09-03",
     "sum": 21719.36,
     "currency": "USD",
@@ -1223,7 +1242,7 @@
     "calc": null
   },
   {
-    "row": 65,
+    "row": 66,
     "date": "2026-09-04",
     "sum": 940497.69,
     "currency": "CNY",
@@ -1242,7 +1261,7 @@
     "calc": null
   },
   {
-    "row": 66,
+    "row": 67,
     "date": "2026-09-04",
     "sum": 248203,
     "currency": "USD",
@@ -1261,7 +1280,7 @@
     "calc": null
   },
   {
-    "row": 67,
+    "row": 68,
     "date": "2026-09-04",
     "sum": null,
     "currency": null,
@@ -1281,7 +1300,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 68,
+    "row": 69,
     "date": "2026-09-04",
     "sum": 20604.5,
     "currency": "USD",
@@ -1300,45 +1319,7 @@
     "calc": null
   },
   {
-    "row": 69,
-    "date": "2026-08-24",
-    "sum": 376.28,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "БЕСТАКВАТИКС (Молодёжь)",
-    "costFormula": "376.28 + 0.3% + 30 = 407.41 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 407.41,
-    "notes": "Инвойс MF/26/08/04 dd 24.08.2026 (📨 Молодежь 06.09.2026). MULTI FISH LANKA (PVT) LTD (Bank of Ceylon, Kandy Branch, акк 3418760, SWIFT BCEYLKLX) → Q8 GROUP LIMITED (DBS Bank HK). Декоративные рыбы Sri Lankan origin (guppy/swordtail/molly), AWB 072 7423 7726. Total = 376,28 USD. Клиент: БЕСТАКВАТИКС (Молодёжь). Компания Q8 (ТЕЗ). ⬜ Step 3, ждём заявку/поручение. | XLS SVO - INVOICE 2026-08-24 (📨 Молодежь 06.09.2026, товар): MF/26/RU/08/04 dd 24.08.2026, консигни = Bestaquatics (Москва 109507), fishes, AWB 072 7423 7726, ,28 — тот же инвойс (дубль PDF MF/26/08/04), ПОДТВЕРЖДЕНИЕ клиента БЕСТАКВАТИКС.",
-    "calc": null
-  },
-  {
     "row": 70,
-    "date": "2026-08-25",
-    "sum": 1179,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "БЕСТАКВАТИКС (Молодёжь)",
-    "costFormula": "1179.00 + 0.3% + 30 = 1212.54 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 1212.54,
-    "notes": "Инвойс 030.08.26.L dd 25.08.2026 (📨 Молодежь 06.09.2026). PT.JUPITER INDONESIA (Bekasi, with MULTIFISH LANKA Pvt. Ltd; рыбы/улитки, FOB Jakarta) → Q8 GROUP LIMITED (DBS Bank HK). Orders 100/591/625. Total Invoice Value = 1 179,00 USD. Банк: Multi Fish Lanka (USD Bank of Ceylon 3418760). Клиент: БЕСТАКВАТИКС (Молодёжь). Компания Q8 (ТЕЗ). ⬜ Step 3, ждём заявку/поручение. | XLSX 25082026 INVOICE TERBANG SVO (📨 Молодежь 06.09.2026, товар): PT.JUPITER INDONESIA инвойс 030.08.26.LSVO dd 25.08.2026, консигни = Bestaquatics (Москва), FOB Jakarta, AWB 157-6885 3536, рейс QR955/QR339 SVO. Total Inv. Value = 1 179,00 USD (Fresh 759,71 + Packing 419,29). Банк получателя Multi Fish Lanka — тот же инвойс (дубль PDF 030.08.26.L), ПОДТВЕРЖДЕНИЕ клиента БЕСТАКВАТИКС.",
-    "calc": null
-  },
-  {
-    "row": 71,
     "date": "2026-09-06",
     "sum": 10159.78,
     "currency": "USD",
