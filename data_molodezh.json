@@ -1305,7 +1305,7 @@
     "sum": 10159.78,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FFFFFFFF",
     "clientName": "БЕСТАКВАТИКС (Молодёжь)",
     "costFormula": "10159.78 + 0.3% + 30 = 10220.26 USDT",
     "extra": "Payment Order dd 07/09/2026 (заявка на оплату). Beneficiary: MULTI FISH LANKA (PVT) LTD (51 Molligoda Lane, Gampola 20500, Sri Lanka; Bank of Ceylon, Kandy Branch, акк 3418760, SWIFT BCEYLKLX). Сумма 10 159,78 USD. Назначение (Payment purpose): Payment for invoice No MF/26/08/04 dd 24.08.26; 030.08.26.L dd 25.08.26; MF-SERV/26/04/09 dd 04.09.26. = заявка на оплату по инвойсам rows 69 (376,28) + 70 (1 179,00) + 68 (20 604,50) — частичная (10 159,78 < 22 159,78). Scream 06.09: одна строка-заявка на 10 159,78, инвойсы 68-70 отдельными строками как есть. Клиент БЕСТАКВАТИКС (Молодёжь), компания Q8 (ТЕЗ). Step 0 красный, ждём рублёвую заявку/оплату.",
