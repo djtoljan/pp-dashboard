@@ -811,9 +811,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 40300,
     "sent_usdt": 40150,
-    "notes": "Application for transfer 40000_usd_07.09.2026 (заявка): 40 000,00 USD → YIWU XINTU FREIGHT (как выше), invoice 0530 dd 28.08.2026, cosmetics goods, OUR. Компания Q8 (ТЕЗ). Строка создана 07.09.2026 (Scream: клиент = Константин Просто группа). costFormula (Q8): 40 000 + 0,3% + 30 = 40 150 USDT. Ждём USDT-движение/подтверждение для received_usdt (63 500 USDT 07.09 = Xfee пополнение Рабочий 4, НЕ под эту заявку).",
+    "notes": "Application for transfer 40000_usd_07.09.2026 (заявка): 40 000,00 USD → YIWU XINTU FREIGHT (как выше), invoice 0530 dd 28.08.2026, cosmetics goods, OUR. Компания Q8 (ТЕЗ). Строка создана 07.09.2026 (Scream: клиент = Константин Просто группа). costFormula (Q8): 40 000 + 0,3% + 30 = 40 150 USDT. Ждём USDT-движение/подтверждение для received_usdt (63 500 USDT 07.09 = Xfee пополнение Рабочий 4, НЕ под эту заявку). | IN 07.09.2026 09:05 UTC (Bobr Alert, Рабочий 4): 40 300 USDT от TX6kQeaQsy6bhGyHkuwKyYwodRDXtmYcP9 (кошелёк Константин Просто Группа) — под заявку 40 000 USD (YIWU XINTU, Scream 07.09).",
     "calc": null
   }
 ]
