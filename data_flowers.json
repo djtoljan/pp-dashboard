@@ -1946,16 +1946,16 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "DBA Euro Plants (Цветы)",
-    "costFormula": null,
+    "costFormula": "62655.10 EUR * 1.166566 + 0.3% + 30 = 73340.57 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Proforma-RECHNUNG Nr. DBA03092026/01 dd 03.09.2026 (по контракту 26.07.31/01). DBA Euro Plants GmbH (Trankeweg 8, 15517 Fürstenwalde/Spree, Германия; USt-IdNr DE369987532, HRB 20685 FF; директор Dainė Baumilė) -> Q8 Group Limited (80242882, HK). Payment for the plants according the contract no. 26.07.31/01, 62 655,10 EUR, MwST 0%. REVOLUT, IBAN LT193250010460027222, SWIFT REVOLT21. 📨 Заявки Компания Q8 (06.09.2026). Payment Order 62 655,10 EUR на того же бенефициара. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка: проформа+ПО). ЖДЁМ кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × кросс-курс + 0.3% + 30). После получения курса — применить Q8-расчёт.",
-    "calc": null
+    "sent_usdt": 73340.57,
+    "notes": "Proforma-RECHNUNG Nr. DBA03092026/01 dd 03.09.2026 (по контракту 26.07.31/01). DBA Euro Plants GmbH (Trankeweg 8, 15517 Fürstenwalde/Spree, Германия; USt-IdNr DE369987532, HRB 20685 FF; директор Dainė Baumilė) -> Q8 Group Limited (80242882, HK). Payment for the plants according the contract no. 26.07.31/01, 62 655,10 EUR, MwST 0%. REVOLUT, IBAN LT193250010460027222, SWIFT REVOLT21. 📨 Заявки Компания Q8 (06.09.2026). Payment Order 62 655,10 EUR на того же бенефициара. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка: проформа+ПО). ЖДЁМ кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × кросс-курс + 0.3% + 30). После получения курса — применить Q8-расчёт. | Кросс-курс EUR/USD = 1.166566 (Scream 08.09, FX Q8: sell 223 800 USD -> buy 191 845,16 EUR, курс 1 USD=0.857217). Q8-расчёт: 62 655,10 × 1.166566 × 1.003 + 30 = 73 340,57 USDT.",
+    "calc": "ТЕЗ"
   },
   {
     "row": 104,
@@ -1984,16 +1984,16 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Atlantic Avrora (Цветы)",
-    "costFormula": null,
+    "costFormula": "129136.06 EUR * 1.166566 + 0.3% + 30 = 151127.64 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Коммерческий инвойс AA-Q8-2026-0906 dd 06.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin 15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300) -> Q8 Group Limited (80242882, HK). Fresh cut flowers assorted, 1 lot = 129 136,06 EUR. 📨 Заявки Компания Q8 (06.09.2026). Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). ЖДЁМ кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × курс + 0.3% + 30). Продолжение серии AA (rows 51/56/61/62/79/90/92/96/100).",
-    "calc": null
+    "sent_usdt": 151127.64,
+    "notes": "Коммерческий инвойс AA-Q8-2026-0906 dd 06.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin 15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300) -> Q8 Group Limited (80242882, HK). Fresh cut flowers assorted, 1 lot = 129 136,06 EUR. 📨 Заявки Компания Q8 (06.09.2026). Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). ЖДЁМ кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × курс + 0.3% + 30). Продолжение серии AA (rows 51/56/61/62/79/90/92/96/100). | Кросс-курс EUR/USD = 1.166566 (Scream 08.09, FX Q8: sell 223 800 USD -> buy 191 845,16 EUR, курс 1 USD=0.857217). Q8-расчёт: 129 136,06 × 1.166566 × 1.003 + 30 = 151 127,64 USDT.",
+    "calc": "ТЕЗ"
   },
   {
     "row": 106,
