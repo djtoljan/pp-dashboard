@@ -992,25 +992,6 @@
   },
   {
     "row": 53,
-    "date": "2026-08-31",
-    "sum": 100200,
-    "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "Армяне (Молодёжь)",
-    "costFormula": null,
-    "extra": "Проформа PROF 9/8/2026 от 31.08.2026 (Investservis Pl Sp. z o.o., Польша → FININVEST ULUSLARARASI TİCARET ANONİM ŞİRKETİ, Турция): PAYMENT FOR TRIPARTITE AGREEMENT, 100 200,00 EUR, VAT 0%. Продавец: Investservis Pl, ul. Pułtuska 8C, 06-121 Pokrzywnica, NIP 5681635089, mBank IBAN PL20 1140 2000 0000 3712 2633 7680, SWIFT BREXPLPWMBK. Покупатель: FININVEST, Metropol İstanbul Sitesi, C1 Blok, 2B/376, 34758 İstanbul. Due 31.08.2026. 1 EUR = 4,3328 PLN (курс NBP). Клиент (принципал) уточняется.",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "Payment Order dd 02.09.2026 (📨 Молодежь): 100 200,00 EUR → Investservis Pl Sp. z o.o. (ul. Pułtuska 8C, 06-121 Pokrzywnica, Polska; mBank S.A., ul. Prosta 18, 00-850 Warszawa; PL20 1140 2004 0000 3712 2633 7680, SWIFT BREXPLPWMBK; Intermed. Deutsche Bank AG Frankfurt, DEUTDEFF). Payment purpose: Payment for PROF 9/8/2026. Подтверждает заявку row 53 (проформа PROF 9/8/2026 dd 31.08.2026, Investservis, 100 200,00 EUR). Компания (плательщик) — ждём заявку/уточнение. | Банковские инструкции Investservis Pl Sp. z o.o. (📨 Молодежь, 02.09.2026): NIP 5681635089, REGON 540448981, ul. Pułtuska 8C, 06-121 Pokrzywnica; счёт EUR PL20 1140 2004 0000 3712 2633 7680 (mBank S.A., ul. Prosta 18, 00-850 Warszawa). Корсчета для EUR: 1) Commerzbank AG Frankfurt (COBADEFF), 2) Deutsche Bank AG Frankfurt (DEUTDEFF), 3) Erste Group Bank AG Vienna (GIBAATWGXXX), 4) Intesa Sanpaolo S.p.A. Milan (BCITITMM).",
-    "calc": null
-  },
-  {
-    "row": 54,
     "date": "2026-09-01",
     "sum": 64152,
     "currency": "CNY",
@@ -1029,7 +1010,7 @@
     "calc": null
   },
   {
-    "row": 55,
+    "row": 54,
     "date": "2026-09-01",
     "sum": 103885.4,
     "currency": "USD",
@@ -1049,7 +1030,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 56,
+    "row": 55,
     "date": "2026-09-01",
     "sum": 4070.33,
     "currency": "USD",
@@ -1068,7 +1049,7 @@
     "calc": null
   },
   {
-    "row": 57,
+    "row": 56,
     "date": "2026-09-01",
     "sum": null,
     "currency": null,
@@ -1088,7 +1069,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 58,
+    "row": 57,
     "date": "2026-09-01",
     "sum": null,
     "currency": null,
@@ -1108,7 +1089,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 59,
+    "row": 58,
     "date": "2026-09-01",
     "sum": null,
     "currency": null,
@@ -1144,10 +1125,10 @@
     "sent_usdt": 9057,
     "notes": "Payment Order dd 02/09/2026 (📨 Молодежь): 9 000,00 USD → Dongguan Miaosen (JPMorgan Singapore, CHASSGSG, 10141409627693), Inv. 20260810005. ⚠️ Проформа 18 070 USD = полная стоимость партии, заявка ПО ОРДЕРУ = 9 000 USD (подтверждено Scream 02.09.2026, клиент Мосты (Молодёжь)). Q8-формула: 9 000 + 0,3% + 30 = 9 057 USDT. received_usdt — из моста 56 293 (Bobr IN 02.09), разбивка между заявками 9000 и 46344.2 уточняется (по 46344.2 ждём доки). | BONBILL Payment Certificate 03.09.2026 14:39:40 (Тип 7 Q8): Q8 GROUP LIMITED → Dongguan Miaosen Electronic Technology Co., Ltd. (JPMorgan Chase Bank N.A., a/c 10141409627693). 9 000,00 USD. Invoice 20260810005 (молнии/zipper). TXID O2095401321669722112216. EXECUTED → 🟢",
     "calc": null,
-    "row": 60
+    "row": 59
   },
   {
-    "row": 61,
+    "row": 60,
     "date": "2026-09-02",
     "sum": 46344.2,
     "currency": "USD",
@@ -1166,7 +1147,7 @@
     "calc": null
   },
   {
-    "row": 62,
+    "row": 61,
     "date": "2026-09-03",
     "sum": null,
     "currency": null,
@@ -1185,7 +1166,7 @@
     "calc": null
   },
   {
-    "row": 63,
+    "row": 62,
     "date": "2026-09-03",
     "sum": null,
     "currency": null,
@@ -1204,7 +1185,7 @@
     "calc": null
   },
   {
-    "row": 64,
+    "row": 63,
     "date": "2026-09-03",
     "sum": 21719.36,
     "currency": "USD",
@@ -1223,14 +1204,14 @@
     "calc": null
   },
   {
-    "row": 65,
+    "row": 64,
     "date": "2026-09-04",
     "sum": 940497.69,
     "currency": "CNY",
     "company": null,
     "color": "FFFF0000",
     "clientName": "Радойл (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "940 497,69 CNY × 0,14899718 = 140 132 USDT; 140 132 + 0,7% = 141 113 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": "12277256.85 / 98218.05 (VDX)",
@@ -1242,7 +1223,7 @@
     "calc": null
   },
   {
-    "row": 66,
+    "row": 65,
     "date": "2026-09-04",
     "sum": 248203,
     "currency": "USD",
@@ -1261,7 +1242,7 @@
     "calc": null
   },
   {
-    "row": 67,
+    "row": 66,
     "date": "2026-09-04",
     "sum": null,
     "currency": null,
@@ -1281,26 +1262,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 68,
-    "date": "2026-09-04",
-    "sum": 20604.5,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "БЕСТАКВАТИКС (Молодёжь)",
-    "costFormula": "20604.50 + 0.3% + 30 = 20716.32 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 20696.31,
-    "notes": "Инвойс MF-SERV/26/04/09 dd 04.09.2026 (📨 Молодежь 06.09.2026). MULTI FISH LANKA (PVT) LTD (51 Molligoda Lane, Gampola 20500, Sri Lanka; Bank of Ceylon, Kandy Branch, акк 3418760, SWIFT BCEYLKLX) → Q8 GROUP LIMITED (DBS Bank HK). Услуги за август 2026 (facts of services rendered as of August 2026): payment for services 8 241,80 + storage and quarantine 12 362,70 = 20 604,50 USD. Клиент: БЕСТАКВАТИКС (Молодёжь, по аналогии row 23 MF-инвойсы). Компания Q8 (ТЕЗ, консигни/плательщик). ⬜ Step 3, ждём заявку/поручение. | XLS Bestaquatics_SERV No.8 (📨 Молодежь 06.09.2026, тот же инвойс MF-SERV/26/04/09 dd 04.09.2026,  604,50): консигни = Bestaquatics (Ferganskiy Passage 7/4, Москва 109507) — ПОДТВЕРЖДЕНИЕ клиента БЕСТАКВАТИКС. | Payment Order 07/09/2026 (DOCX  159,78 → Multi Fish Lanka BCEYLKLX): MF/26/08/04 + 030.08.26.L + MF-SERV/26/04/09 — 10 159,78 < 22 159,78 (сумма 3 инвойсов) — частичная оплата, структура у Scream.",
-    "calc": null
-  },
-  {
-    "row": 69,
+    "row": 67,
     "date": "2026-09-06",
     "sum": 10159.78,
     "currency": "USD",
@@ -1319,7 +1281,7 @@
     "calc": null
   },
   {
-    "row": 70,
+    "row": 68,
     "date": "2026-09-07",
     "sum": null,
     "currency": null,
@@ -1339,7 +1301,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 71,
+    "row": 69,
     "date": "2026-09-07",
     "sum": 12161.84,
     "currency": "USD",
@@ -1358,7 +1320,7 @@
     "calc": null
   },
   {
-    "row": 72,
+    "row": 70,
     "date": "2026-09-07",
     "sum": 4432.58,
     "currency": "USD",
