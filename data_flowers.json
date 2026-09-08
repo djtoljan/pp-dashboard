@@ -2047,9 +2047,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": "14664",
     "sent_usdt": 14551.43,
-    "notes": null,
+    "notes": "Bobr IN 08.09.2026 (Рабочий 4, 04:56 UTC): 14 664,00 USDT от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 — пополнение под заявку P.A.G Flowers 14 478,00 USD (row 108 Q8), sent_usdt 14 551,43 (14 664 ≈ ×1.008, паттерн Q8-депозита Цветы). received_usdt=14664. Q9 отправлен, леджер (--q9). Ждём исполнение (BONBILL/EXECUTED) → 🟢.",
     "calc": null
   }
 ]
