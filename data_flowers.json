@@ -1944,7 +1944,7 @@
     "sum": 62655.1,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "DBA Euro Plants (Цветы)",
     "costFormula": "62655.10 EUR * 1.166566 + 0.3% + 30 = 73340.57 USDT",
     "extra": null,
@@ -1954,7 +1954,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 73340.57,
-    "notes": "Proforma-RECHNUNG Nr. DBA03092026/01 dd 03.09.2026 (по контракту 26.07.31/01). DBA Euro Plants GmbH (Trankeweg 8, 15517 Fürstenwalde/Spree, Германия; USt-IdNr DE369987532, HRB 20685 FF; директор Dainė Baumilė) -> Q8 Group Limited (80242882, HK). Payment for the plants according the contract no. 26.07.31/01, 62 655,10 EUR, MwST 0%. REVOLUT, IBAN LT193250010460027222, SWIFT REVOLT21. 📨 Заявки Компания Q8 (06.09.2026). Payment Order 62 655,10 EUR на того же бенефициара. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка: проформа+ПО). ЖДЁМ кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × кросс-курс + 0.3% + 30). После получения курса — применить Q8-расчёт. | Кросс-курс EUR/USD = 1.166566 (Scream 08.09, FX Q8: sell 223 800 USD -> buy 191 845,16 EUR, курс 1 USD=0.857217). Q8-расчёт: 62 655,10 × 1.166566 × 1.003 + 30 = 73 340,57 USDT.",
+    "notes": "Proforma-RECHNUNG Nr. DBA03092026/01 dd 03.09.2026 (по контракту 26.07.31/01). DBA Euro Plants GmbH (Trankeweg 8, 15517 Fürstenwalde/Spree, Германия; USt-IdNr DE369987532, HRB 20685 FF; директор Dainė Baumilė) -> Q8 Group Limited (80242882, HK). Payment for the plants according the contract no. 26.07.31/01, 62 655,10 EUR, MwST 0%. REVOLUT, IBAN LT193250010460027222, SWIFT REVOLT21. 📨 Заявки Компания Q8 (06.09.2026). Payment Order 62 655,10 EUR на того же бенефициара. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка: проформа+ПО). ЖДЁМ кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × кросс-курс + 0.3% + 30). После получения курса — применить Q8-расчёт. | Кросс-курс EUR/USD = 1.166566 (Scream 08.09, FX Q8: sell 223 800 USD -> buy 191 845,16 EUR, курс 1 USD=0.857217). Q8-расчёт: 62 655,10 × 1.166566 × 1.003 + 30 = 73 340,57 USDT. | BONBILL Payment Certificate 08.09.2026 12:42:11 (Тип 7 Q8 EUR): Q8 GROUP LIMITED → DBA Euro Plants GmbH (REVOLUT BANK UAB, LT193250010460027222). 62 655,10 EUR. Invoice DBA/03/09/2601 dd 03.09.2026 For Plants. TXID O2097183694719680512174. EXECUTED → 🟢",
     "calc": "ТЕЗ"
   },
   {
@@ -1963,7 +1963,7 @@
     "sum": 51159,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Condor Andino (Цветы)",
     "costFormula": "51159 + 0.3% + 30 = 51 342,48 USDT",
     "extra": null,
@@ -1973,7 +1973,7 @@
     "vdx_rate": null,
     "received_usdt": "51565.9",
     "sent_usdt": 51342.48,
-    "notes": "Инвойс №329 dd 04.09.2026: CONDOR ANDINO SAS (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; BANCOLOMBIA, CLL 10 # 8-48, COLOCOBM, a/c 55700015652) → Q8 Group Limited (TIN 80242882, HK). FRESH CUT HYDRANGEAS, 125 boxes / 63 949 stems @ 0.80 = 51 159,00 USD. Ship-to: MAQNOLIYA FLOVERS LLC. 📨 Заявки Компания Q8 (06.09.2026). Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 51 159 + 0.3% + 30 = 51 342,48 USDT. | ВХОД USDT 06.09.2026 21:05 (Bobr, Рабочий 4 TKrAyPuM..., sender TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM): 51 565,9 USDT — клиент Condor Andino (Цветы) пополнил под заявку 51 159 USD (row 104).",
+    "notes": "Инвойс №329 dd 04.09.2026: CONDOR ANDINO SAS (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; BANCOLOMBIA, CLL 10 # 8-48, COLOCOBM, a/c 55700015652) → Q8 Group Limited (TIN 80242882, HK). FRESH CUT HYDRANGEAS, 125 boxes / 63 949 stems @ 0.80 = 51 159,00 USD. Ship-to: MAQNOLIYA FLOVERS LLC. 📨 Заявки Компания Q8 (06.09.2026). Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 51 159 + 0.3% + 30 = 51 342,48 USDT. | ВХОД USDT 06.09.2026 21:05 (Bobr, Рабочий 4 TKrAyPuM..., sender TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM): 51 565,9 USDT — клиент Condor Andino (Цветы) пополнил под заявку 51 159 USD (row 104). | BONBILL Payment Certificate 08.09.2026 12:49:33 (Тип 7 Q8): Q8 GROUP LIMITED → CONDOR ANDINO SAS (BANCOLOMBIA, a/c 55700015652). 51 159,00 USD. Invoice 329 dd 04.09.2026 For Flowers. TXID O2097185549524795392557. EXECUTED → 🟢",
     "calc": null
   },
   {
@@ -1982,7 +1982,7 @@
     "sum": 129136.06,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "129136.06 EUR * 1.166566 + 0.3% + 30 = 151127.64 USDT",
     "extra": null,
@@ -1992,7 +1992,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 151127.64,
-    "notes": "Коммерческий инвойс AA-Q8-2026-0906 dd 06.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin 15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300) -> Q8 Group Limited (80242882, HK). Fresh cut flowers assorted, 1 lot = 129 136,06 EUR. 📨 Заявки Компания Q8 (06.09.2026). Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). ЖДЁМ кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × курс + 0.3% + 30). Продолжение серии AA (rows 51/56/61/62/79/90/92/96/100). | Кросс-курс EUR/USD = 1.166566 (Scream 08.09, FX Q8: sell 223 800 USD -> buy 191 845,16 EUR, курс 1 USD=0.857217). Q8-расчёт: 129 136,06 × 1.166566 × 1.003 + 30 = 151 127,64 USDT.",
+    "notes": "Коммерческий инвойс AA-Q8-2026-0906 dd 06.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin 15, Et.9, of.908, Burgas, Bulgaria PK8000; Bulgarian-American Credit Bank, SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300) -> Q8 Group Limited (80242882, HK). Fresh cut flowers assorted, 1 lot = 129 136,06 EUR. 📨 Заявки Компания Q8 (06.09.2026). Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). ЖДЁМ кросс-курс EUR/USD для расчёта sent_usdt (EUR: сумма × курс + 0.3% + 30). Продолжение серии AA (rows 51/56/61/62/79/90/92/96/100). | Кросс-курс EUR/USD = 1.166566 (Scream 08.09, FX Q8: sell 223 800 USD -> buy 191 845,16 EUR, курс 1 USD=0.857217). Q8-расчёт: 129 136,06 × 1.166566 × 1.003 + 30 = 151 127,64 USDT. | BONBILL Payment Certificate 08.09.2026 12:44:39 (Тип 7 Q8 EUR): Q8 GROUP LIMITED → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BGUSBGSF, BG04BGUS91601413896300). 129 136,06 EUR. Invoice AA-Q8-2026-0906 dd 06.09.2026 For Flowers. TXID O2097184317749985280747. EXECUTED → 🟢",
     "calc": "ТЕЗ"
   },
   {
@@ -2001,7 +2001,7 @@
     "sum": 17500,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "17500 + 0.3% + 30 = 17 582,50 USDT",
     "extra": null,
@@ -2011,7 +2011,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 17582.5,
-    "notes": "Invoice DA-060926-01 dd 06.09.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 17 500,00 USD, EXW, Truck Interflowers. Roses 22 500 stems (Fantasy/Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma). 📨 Заявки Компания Q8 (06.09.2026). Payment Order 17 500,00 USD (Bank Leumi, LUMIILITXXX, IL750107440000027660042) — тот же бенефициар. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 17 500 + 0.3% + 30 = 17 582,50 USDT.",
+    "notes": "Invoice DA-060926-01 dd 06.09.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 17 500,00 USD, EXW, Truck Interflowers. Roses 22 500 stems (Fantasy/Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma). 📨 Заявки Компания Q8 (06.09.2026). Payment Order 17 500,00 USD (Bank Leumi, LUMIILITXXX, IL750107440000027660042) — тот же бенефициар. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 17 500 + 0.3% + 30 = 17 582,50 USDT. | BONBILL Payment Certificate 08.09.2026 12:46:49 (Тип 7 Q8): Q8 GROUP LIMITED → Dolina Agro Ltd (BANK LEUMI LE ISRAEL B.M., a/c IL75-0107-4400-0000-2766-004). 17 500,00 USD. Invoice DA/06/09/2601 dd 06.09.2026 For Flowers. TXID O2097184862418108416874. EXECUTED → 🟢",
     "calc": null
   },
   {
@@ -2039,7 +2039,7 @@
     "sum": 14478,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "P.A.G Flowers (Цветы)",
     "costFormula": "14478.00 + 0.3% + 30 = 14551.43 USDT",
     "extra": "Proforma invoice dd 07.09.26: P.A.G Flowers Ltd (P.O.B 2116, Holon, Israel; HAPOALIM, Keren ha Yesod 1 Holon, a/c 471963, SWIFT POALILIT, IBAN IL59-0127-5800-0000-0471-963) -> Q8 GROUP LIMITED (80242882, Room A22 10/F No.52 Hung To Road, Kwun Tong, HK). Flowers Mix 25000 @0.40 = 10000.00 + Freight/Logistic 4478.00 = 14478.00 USD. 4 pallets / 25000 pcs. Fresh Productions. Q8 TeZ (Flowers). zaiavka",
@@ -2049,7 +2049,7 @@
     "vdx_rate": null,
     "received_usdt": "14664",
     "sent_usdt": 14551.43,
-    "notes": "Bobr IN 08.09.2026 (Рабочий 4, 04:56 UTC): 14 664,00 USDT от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 — пополнение под заявку P.A.G Flowers 14 478,00 USD (row 108 Q8), sent_usdt 14 551,43 (14 664 ≈ ×1.008, паттерн Q8-депозита Цветы). received_usdt=14664. Q9 отправлен, леджер (--q9). Ждём исполнение (BONBILL/EXECUTED) → 🟢.",
+    "notes": "Bobr IN 08.09.2026 (Рабочий 4, 04:56 UTC): 14 664,00 USDT от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 — пополнение под заявку P.A.G Flowers 14 478,00 USD (row 108 Q8), sent_usdt 14 551,43 (14 664 ≈ ×1.008, паттерн Q8-депозита Цветы). received_usdt=14664. Q9 отправлен, леджер (--q9). Ждём исполнение (BONBILL/EXECUTED) → 🟢. | BONBILL Payment Certificate 08.09.2026 14:36:33 (Тип 7 Q8): Q8 GROUP LIMITED → P.A.G Flowers Ltd (HAPOALIM, POALILIT, a/c 471963). 14 478,00 USD. Invoice DD07092026ForFlowersAndLogistic. TXID O2097212476595765248388. EXECUTED → 🟢",
     "calc": null
   }
 ]
