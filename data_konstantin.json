@@ -843,15 +843,15 @@
     "company": "INFINITE",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "241 414,00 USD + 0,5% = 242 621,07 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": "243345.31",
-    "sent_usdt": null,
-    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 08.09.2026): Payment from INFINITE ❗ OUR → DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, SWIFT EBILAEAD, a/c AE690260000514449097303), INV 90218514 dd 14.08.26, 241 414,00 USD. Компания INFINITE подтверждена. Новая сделка (частичная оплата проформы 90218514, заказ 115552061, ИТОГО 835 188 USD) — не дубль row 36(200k)/41(150k). Ждём IN USDT от Константин и расчёт. | 🛠 ИСПРАВЛЕНО 08.09.2026 (📨 Константин Просто Группа, «Исправленная заявка»): сумма ЗАЯВКИ = **214 414,00 USD** (не 241 414). Файл 214_414_USD_08.09.2026.xlsx: DeLonghi Kenwood MEIA FZE, EMIRATES NBD Bank PJSC (Baniyas Road Deira, P.O.Box 777, Dubai), AE690260000514449097303, EBILAEAD, purpose for household appliances invoice no 90218514. Валюта USD. | 🛠 РЕШЕНИЕ #48195 (📨 Ордера и Расчеты «вот замена точная копия», 08.09): фактическая сделка = **241 414,00 USD** (не 214 414 — повторный косяк). Пришёл IN USDT 243 345,31 = 241 414 × 1,008 ✓. row 45 сумма возвращена 241 414.",
-    "calc": null
+    "sent_usdt": "242621.07",
+    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 08.09.2026): Payment from INFINITE ❗ OUR → DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, SWIFT EBILAEAD, a/c AE690260000514449097303), INV 90218514 dd 14.08.26, 241 414,00 USD. Компания INFINITE подтверждена. Новая сделка (частичная оплата проформы 90218514, заказ 115552061, ИТОГО 835 188 USD) — не дубль row 36(200k)/41(150k). Ждём IN USDT от Константин и расчёт. | 🛠 ИСПРАВЛЕНО 08.09.2026 (📨 Константин Просто Группа, «Исправленная заявка»): сумма ЗАЯВКИ = **214 414,00 USD** (не 241 414). Файл 214_414_USD_08.09.2026.xlsx: DeLonghi Kenwood MEIA FZE, EMIRATES NBD Bank PJSC (Baniyas Road Deira, P.O.Box 777, Dubai), AE690260000514449097303, EBILAEAD, purpose for household appliances invoice no 90218514. Валюта USD. | 🛠 РЕШЕНИЕ #48195 (📨 Ордера и Расчеты «вот замена точная копия», 08.09): фактическая сделка = **241 414,00 USD** (не 214 414 — повторный косяк). Пришёл IN USDT 243 345,31 = 241 414 × 1,008 ✓. row 45 сумма возвращена 241 414. | Расчёт Infinite (📨 Ордера и Расчеты 08.09): 241 414 USD + 0,5% = 242 621,07 USDT. Кошелёк отправки TS5aBsgpauBbACMqvRPzEZVqupdTZxwBgr. sent_usdt = 242621.07. Ждём Bobr OUT.",
+    "calc": "ТЕЗ"
   }
 ]
