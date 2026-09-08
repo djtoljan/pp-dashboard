@@ -1337,5 +1337,24 @@
     "sent_usdt": 4475.88,
     "calc": null,
     "notes": "Поручение №22 от 07.09.2026 (Transfer Request No. 22, Приложение №1 к Агентскому договору №09-02-3/26 от 09.02.2026): Принципал АО «Фри Лайнс Компани» (Юникредит Банк, Москва) → Агент ООО «VDX SERVICES - FZCO» (сч. VDX ПСБ). Платёж 4 432,58 USD, получатель PAYLOAD MALDIVES PVT LTD (H. Maaram, 1st Floor, Ameeru Ahmed Magu, Male'-20077, Republic of Maldives; Bank of Ceylon, 12 Boduthakurufaanu Magu Male', 20094; SWIFT BCEYMVMV; a/c USD 019101129831 / 6320 3422 14). Инвойс №PLMV-26-0965 dd 11/06/2026. Курс 1 USD = 87,4559 → 387 655,27₽. Комиссия агента 25 244,29₽. Срок 2-3 банк. дня. Подписи: Паршин В.В. (Фри Лайнс), Hikmat Ahmadov (VDX). Step 0 🔴 — компания/заявка ждут (по прецеденту Фри Лайнс-сделок в Молодёжь: финансирует оператор, напр. LEO/TRANSPATH). Ждём ПП на агентский счёт VDX и заявку. | ПП №4364 от 07.09.2026 ПРОВЕДЕН 07.09 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545): АО «Фри Лайнс Компани» (ИНН 9727130961, сч. 40702810720010003274) → VDX SERVICES-FZCO (ПСБ Ярославль, сч. 40807810000000015414), 25 244,29₽ {VO21100} Оплата вознаграждения по поручению №22 от 07.09.2026 на основании аг.договора №09-02-3/26 от 09.02.2026. → комиссия агента пор.22 = 25 244,29₽ на VDX (fee). sent_rubles_vdx += 25244.29. Тело поручения №22 (4 432,58 USD, PAYLOAD MALDIVES) ждём отдельным ПП. | ПП на VDX №4363 от 07.09.2026 ПРОВЕДЕН 07.09 (АО ЮНИКРЕДИТ БАНК Г МОСКВА → VDX SERVICES-FZCO/ПСБ Ярославль): тело поручения №22, 387 655,27₽ {VO21400} подлежащие перечислению для PAYLOAD MALDIVES PVT LTD, Payment under invoice PLMV-26-0965 dd 11.06.2026, аг.дог. №09-02-3/26 от 09.02.26, НДС не облагается. | ПП на VDX №4364 от 07.09.2026: вознаграждение 25 244,29₽ {VO21100} (комиссия агента пор.22). Итого на VDX: 412 899,56₽ = тело 387 655,27 + fee 25 244,29. | Платежное поручение от 07.09.2026 (файл payment order 3 (15).docx, категория ›Молодёжь): PAYMENT ORDER PAYLOAD MALDIVES PVT LTD dd 07/09/2026, AMOUNT 4 432,58 USD, BANK Bank of Ceylon (12 Boduthakurufaanu Magu Male, BCEYMVMV, a/c 6320 3422 14 USD), PAYMENT PURPOSE: Payment for transport service under invoice number PLMV-26-096 DATE 11/06/2026. — подтверждает конечного получателя/платёж по поручению №22, дубль сделки Row 72 (сумма/бенефициар/инвойс совпали), НОВУЮ строку НЕ создаю. Остаёмся Step 0 🔴 — компания-оператор/заявка ждут. | ЗАЯВКА/ИНВОЙС PLMV-26-096 dd 11.06.2026 (Tax Invoice PAYLOAD MALDIVES PVT LTD): BILL TO: Q8 GROUP LIMITED (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Kowloon, HK). Freight Charges, SUBTOTAL 4 432.58 USD, GST 0, TOTAL 4 432.58 USD, due immediately, cross cheque/Online Transfer/TT to PAYLOAD MALDIVES PVT LTD / Bank of Ceylon, a/c 6320 3422 14 USD, SWIFT BCEYMVMV. Payment Request 07.09.2026 @CScream1: прошу оплатить 4 432,58 USD от Q8 (C$AI, Молодежь). Компания-плательщик = Q8 (оператор финансирует сделку). Step 0 -> Step 3: компания Q8 + инвойс известны. Q8-расчёт: 4432.58 + 0.3% + 30 = 4475.88 USDT. Цвет FFFF0000 -> белый W (color FFFFFFFF). | BONBILL Payment Certificate 08.09.2026 14:27 (Тип 7 Q8): Q8 GROUP LIMITED → PAYLOAD MALDIVES PVT LTD (Bank of Ceylon, a/c 6320 3422 14). 4 432,58 USD. Invoice PLMV-26-0965 dd 11/06/2026 For Transport Service. TXID O2097210073280544768619. EXECUTED → 🟢"
+  },
+  {
+    "row": 71,
+    "date": "2026-09-08",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "603450.07 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "calc": null,
+    "notes": "ПП на VDX №606 от 08.09.2026 ИСПОЛНЕН 08.09 15:43:21 (ВТБ Филиал «Центральный», БИК 044525411, сч. 40702810717350002199). Плательщик: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, подписант Мельникова С.С.). Получатель: ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ Ярославль, БИК 044525555, сч. 40807810000000015414). 603 450,07₽. {VO11100} Частичная оплата за товар по инвойсу №PAI-002-WHJCS12026090701 от 08.09.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 89,1886 — курс из ПП, НЕ vdx_rate). НДС не облагается. ⚠️ Инвойс PAI-002-WHJCS12026090701 в таблицах не найден — 🔵 отправка на VDX без заявки. exchange_to = VDX."
   }
 ]
