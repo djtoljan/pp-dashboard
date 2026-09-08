@@ -830,9 +830,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 10200,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "IN 08.09.2026 08:37 UTC (Bobr Alert, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri): 10 200,00 USDT от TBfLLGTjQ2z7fr9p94eJHWhdhamEB2J1Q2 под заявку 10 000,00 USD (DENJOY, Константин Просто Группа, Scream 08.09). received_usdt=10200. Ждём исполнение → 🟢.",
     "calc": null
   }
 ]
