@@ -2051,5 +2051,43 @@
     "sent_usdt": 14551.43,
     "notes": "Bobr IN 08.09.2026 (Рабочий 4, 04:56 UTC): 14 664,00 USDT от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 — пополнение под заявку P.A.G Flowers 14 478,00 USD (row 108 Q8), sent_usdt 14 551,43 (14 664 ≈ ×1.008, паттерн Q8-депозита Цветы). received_usdt=14664. Q9 отправлен, леджер (--q9). Ждём исполнение (BONBILL/EXECUTED) → 🟢. | BONBILL Payment Certificate 08.09.2026 14:36:33 (Тип 7 Q8): Q8 GROUP LIMITED → P.A.G Flowers Ltd (HAPOALIM, POALILIT, a/c 471963). 14 478,00 USD. Invoice DD07092026ForFlowersAndLogistic. TXID O2097212476595765248388. EXECUTED → 🟢",
     "calc": null
+  },
+  {
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "calc": null,
+    "row": 109,
+    "date": "2026-09-08",
+    "rubles_received": "9249254.94 / 231231.37",
+    "notes": "Выписка Блэкшарк Трейд ПОЧТОБАНК 08.09.2026 (счёт 40807810100157518600, предв. сформ. 17:51): приход от ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723): док 219 {VO11200} 9 249 254,94₽ по контракту 01-07-2026 от 01.07.2026 (цветочная продукция, тело) + док 220 {VO21100} 231 231,37₽ по контракту WD-30 от 25.06.2026 (вознаграждение Агенту, 2,5% ✓). rubles_received = 9249254.94 / 231231.37. Ждём VDX-заявку."
+  },
+  {
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "calc": null,
+    "row": 110,
+    "date": "2026-09-08",
+    "rubles_received": "5092174.75 / 127304.37",
+    "notes": "Выписка Блэкшарк Трейд ПОЧТОБАНК 08.09.2026: приход от ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341): док 221 {VO11200} 5 092 174,75₽ по контракту 25/06-2026 от 25.06.2026 (цветочная продукция, тело) + док 222 {VO21100} 127 304,37₽ по контракту WD-30 от 25.06.2026 (вознаграждение Агенту, 2,5% ✓). rubles_received = 5092174.75 / 127304.37. Ждём VDX-заявку."
   }
 ]
