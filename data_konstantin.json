@@ -834,5 +834,24 @@
     "sent_usdt": null,
     "notes": "IN 08.09.2026 08:37 UTC (Bobr Alert, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri): 10 200,00 USDT от TBfLLGTjQ2z7fr9p94eJHWhdhamEB2J1Q2 под заявку 10 000,00 USD (DENJOY, Константин Просто Группа, Scream 08.09). received_usdt=10200. Ждём исполнение → 🟢.",
     "calc": null
+  },
+  {
+    "row": 45,
+    "date": "2026-09-08",
+    "sum": 241414,
+    "currency": "USD",
+    "company": "INFINITE",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка подтверждена (📨 Ордера и Расчеты, 08.09.2026): Payment from INFINITE ❗ OUR → DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, PO Box 263338; EMIRATES NBD, Al Qusais Branch, SWIFT EBILAEAD, a/c AE690260000514449097303), INV 90218514 dd 14.08.26, 241 414,00 USD. Компания INFINITE подтверждена. Новая сделка (частичная оплата проформы 90218514, заказ 115552061, ИТОГО 835 188 USD) — не дубль row 36(200k)/41(150k). Ждём IN USDT от Константин и расчёт.",
+    "calc": null
   }
 ]
