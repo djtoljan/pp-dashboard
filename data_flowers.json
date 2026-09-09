@@ -2089,5 +2089,24 @@
     "date": "2026-09-08",
     "rubles_received": "5092174.75 / 127304.37",
     "notes": "Выписка Блэкшарк Трейд ПОЧТОБАНК 08.09.2026: приход от ООО «ПРИОРИТЕТ МАРКЕТ» (ИНН 6000004341): док 221 {VO11200} 5 092 174,75₽ по контракту 25/06-2026 от 25.06.2026 (цветочная продукция, тело) + док 222 {VO21100} 127 304,37₽ по контракту WD-30 от 25.06.2026 (вознаграждение Агенту, 2,5% ✓). rubles_received = 5092174.75 / 127304.37. Ждём VDX-заявку. | Операционка 08.09.2026 (📨 Отправки рублей ПП): с Блэкшарк ПОЧТО на ВиДиИкс, 5 219 479,12₽ — цветы, заявка 743, ООО ПРИОРИТЕТ МАРКЕТ. Доки: O:_обменСВЕРКИСВЕРКИ ОКСАНЫВЭДБлэкШаркПриоритет маркетвход 08.09.26. Сумма = тело 5 092 174,75 + агентское 127 304,37 ✓. sent_rubles_vdx = 5219479.12, exchange_to = VDX. | ПП на VDX №549 от 08.09.2026 (нерезидента) (📨 Отправки рублей ПП, исп; доставлено iBank 08.09 18:48 GMT+05, ЭП ПОДЛИННА): ОсОО «Блэкшарк Трейд» (ИНН 9909705614, ПОЧТОБАНК Пермь, сч 40807810100157518600, БИК 045773705) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, ПСБ Ярославль, БИК 044525555, сч 40807810000000015414), 5 219 479,12₽. {VO60081} Оплата по агент.дог. № 4 от 31.03.2025, согл. заяв.743 от 08.09.2026г. за цветы. НДС не облагается. Закрепляет заявку 743 → row 110 sent_rubles_vdx = 5219479.12 подтверждён (ПП нерезидента, цвет не меняется)."
+  },
+  {
+    "row": 111,
+    "date": "2026-09-09",
+    "sum": 35000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "CEVA FREIGHT (Цветы)",
+    "costFormula": "35000 + 0.3% + 30 = 35135 USDT",
+    "extra": "Инвойс №34273 REISSUED dd 08.09.2026 (CEVA Freight Management de Colombia S.A.S., NIT 830.079.716-6, Bogotá, Av El Dorado 102-20 Of 203-204; Citibank Colombia, CTA CTE 0073854016). AIR FREIGHT 35 000,00 USD. BILL TO Q8 Group Limited (80242882, HK, Room A22 10/F No.52 Hung To Road Kwun Tong). | Ордер (заявка на перевод): USD 35 000,00, beneficiary CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS, a/c 0073854016, SWIFT CITICOBB, Citibank Colombia, Carrera 9A No. 99-02 Bogotá D.C., payment details: transportation services.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 35135,
+    "notes": "Заявка 09.09.2026 (Scream, FINIVEST AI): инвойс CEVA №34273 REISSUED dd 08.09.2026 + ордер 35 000 USD (CITICOBB 0073854016, transportation services). ТЕЗ-сделка Q8. Расчёт Q8 сразу: 35000 + 0.3% + 30 = 35135 USDT (sent_usdt = 35135). Ждём USDT-приход (received_usdt) и исполнение ПП → 🟢.",
+    "calc": null
   }
 ]
