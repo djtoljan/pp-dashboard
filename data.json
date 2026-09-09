@@ -619,7 +619,7 @@
     "currency": "EUR",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": null,
+    "clientName": "ООО «Альфатехформ»",
     "costFormula": null,
     "calc": null,
     "extra": null,
@@ -629,6 +629,6 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Заявка Q8 09.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс HAEWON GLOBAL Co., Ltd (14117, #13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea) → Q8 GROUP LIMITED (80242882, HK). Spare parts для ТПА/литьевых машин (oil collection tray 1600×874,5×135,2; T-Seal; energy chain 2143×174×94; sliding plate for mold platen; control cable; injection cylinder seals и др.), tarif 84779080000, 11 карт. TOTAL 108 900,00 EUR = 99 174,00 товар + 2 600,00 delivery + 7 126,00 (комиссия 7%). | Заявка-перевод 09.09.docx: 65 340 EUR (= 60% от 108 900) → HAEWON GLOBAL (Industrial Bank of Korea, IBKOKRSEXXX, a/c 931-038712-56-00019). Строка ⬜ компания Q8. 🚨 КЛИЕНТ УТОЧНЯЕТСЯ (Scream) — аналоги rows 21/25 (литьё/ТПА: ЛОГИС/Альфатехформ?)."
+    "notes": "Заявка Q8 09.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс HAEWON GLOBAL Co., Ltd (14117, #13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea) → Q8 GROUP LIMITED (80242882, HK). Spare parts для ТПА/литьевых машин (oil collection tray 1600×874,5×135,2; T-Seal; energy chain 2143×174×94; sliding plate for mold platen; control cable; injection cylinder seals и др.), tarif 84779080000, 11 карт. TOTAL 108 900,00 EUR = 99 174,00 товар + 2 600,00 delivery + 7 126,00 (комиссия 7%). | Заявка-перевод 09.09.docx: 65 340 EUR (= 60% от 108 900) → HAEWON GLOBAL (Industrial Bank of Korea, IBKOKRSEXXX, a/c 931-038712-56-00019). Строка ⬜ компания Q8. 🚨 КЛИЕНТ УТОЧНЯЕТСЯ (Scream) — аналоги rows 21/25 (литьё/ТПА: ЛОГИС/Альфатехформ?). | КЛИЕНТ ПОДТВЕРЖДЁН Scream 09.09.2026 20:50: заявка HAEWON GLOBAL (инвойс 108 900 EUR, запчасти ТПА, заявка-перевод 65 340 = 60%) = ООО «Альфатехформ» (вторая сделка Альфатехформ, row 25 = ATLAS INDUSTRIAL GROUP 110 559,89 EUR — отдельная). Строка ⬜ компания Q8, ждёт оплату/статус."
   }
 ]
