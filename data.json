@@ -546,13 +546,13 @@
     "clientName": "ОМИА",
     "costFormula": null,
     "extra": "Поручение Blackshark Trade LLC (платёжное поручение на перевод ден. средств, 09.09.2026): получатель HENAN MINMETALS EAST INDUSTRIAL CO., LTD (NO 1159, RENMIN ROAD, JIAOZUO CITY, HENAN, CHINA), банк VTB BANK (PJSC) SHANGHAI BRANCH, Beneficiary Bank Code 767290000018, SWIFT VTBRCNSH, a/c 40807156900610012048. Сумма 153 661,03 CNY, Payment under contract 28072022 dt 28.07.2022 for goods, HS 2811220000 (фумед-силика), prepayment, transfer fee OUR. | Инвойс (Commercial Invoice) HJ2606099010 dd 09.06.2026: HENAN MINMETALS EAST INDUSTRIAL CO., LTD → покупатель Omya Algol Rus (Москва), фумед-силика HJSIL300/HMMAT205/HMMAT562/HJSILR274, PO AP30-001322, контракт 28072022, TOTAL 263 897,20 CNY (CIF St-Petersburg) — поручение на 153 661,03 CNY = предоплата части инвойса (~58%). НБС-Fininvest (t725), 📨 Молодёжь-поток отсутствует — Scream: «омиа в main».",
-    "rubles_received": null,
+    "rubles_received": "1979799.44 / 107648.38",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Создана 09.09.2026 по пакету 📨 НБС-Fininvest (t725): поручение Blackshark Trade CNY 153 661,03 + инвойс HJ2606099010 (HENAN MINMETALS, фумед-силика, контракт 28072022 от 28.07.2022). Клиент ОМИА → Main (Scream 09.09). Строка 🔴 — ждём заявку/компанию.",
+    "notes": "Создана 09.09.2026 по пакету 📨 НБС-Fininvest (t725): поручение Blackshark Trade CNY 153 661,03 + инвойс HJ2606099010 (HENAN MINMETALS, фумед-силика, контракт 28072022 от 28.07.2022). Клиент ОМИА → Main (Scream 09.09). Строка 🔴 — ждём заявку/компанию. | ПП №556 от 09.09.2026 ИСПОЛНЕНО (АО БАНК НБС г. Иваново, iBank, ЭП Гончаров В., ID 5324941): «ПроКонстракт Лимитед» (ИНН 9909756175, сч 40807810511000083884, БИК 044525949) → ОсОО «Блэкшарк Трейд» (ИНН 9909705614, КПП 772887001, сч 40807810825640000009, ВТБ БИК 044525411), 1 979 799,44₽ {VO60081} Оплата за диоксид кремния для исполнения Поручения №3 от 09.09.2026 к Агентскому договору №01-2406 от 24.06.2026, НДС не облагается = тело row ✓ (153 661,03 CNY × 12,8842 = 1 979 799,44). | ПП №557 от 09.09.2026 ИСПОЛНЕНО (АО БАНК НБС, iBank, ЭП, ID 5324944): тот же плательщик/получатель, 107 648,38₽ {VO60081} Оплата вознаграждения агента по Агентскому договору №01-2406 от 24.06.2026 согласно Поручению №3 от 09.09.2026 = агентское row ✓. rubles_received = 1979799.44 / 107648.38.",
     "calc": null
   },
   {
