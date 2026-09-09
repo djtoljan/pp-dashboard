@@ -822,18 +822,18 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "10000 + 0.3% + 30 = 10060 USDT",
     "extra": "Application for transfer 10 000,00 USD → DENJOY DENTAL CO., LTD (HUNAN BRANCH BANK OF CHINA, BKCHCNBJ970, a/c 582057368019). Purpose: Payment for Invoice No. DYW26040812 of 27.08.2026 (outstanding 50% balance 2024 order DYW24040822). Платит Q8 (Scream 08.09.2026). Клиент Константин (Просто группа).",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 10200,
-    "sent_usdt": null,
-    "notes": "IN 08.09.2026 08:37 UTC (Bobr Alert, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri): 10 200,00 USDT от TBfLLGTjQ2z7fr9p94eJHWhdhamEB2J1Q2 под заявку 10 000,00 USD (DENJOY, Константин Просто Группа, Scream 08.09). received_usdt=10200. Ждём исполнение → 🟢.",
-    "calc": null
+    "sent_usdt": 10060,
+    "notes": "IN 08.09.2026 08:37 UTC (Bobr Alert, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri): 10 200,00 USDT от TBfLLGTjQ2z7fr9p94eJHWhdhamEB2J1Q2 под заявку 10 000,00 USD (DENJOY, Константин Просто Группа, Scream 08.09). received_usdt=10200. Ждём исполнение → 🟢. | BONBILL Payment Certificate 08.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → DENJOY DENTAL CO., LTD (BANK OF CHINA, a/c 582057368019). 10 000,00 USD. Invoice DYW26040812 dd 27.08.2026 For Denjoy (Microscope). TXID O2097336292294656000597, payment 08.09.2026 22:48:33. EXECUTED → 🟢",
+    "calc": "ТЕЗ"
   },
   {
     "row": 45,
