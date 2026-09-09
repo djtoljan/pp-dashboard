@@ -403,5 +403,24 @@
     "sent_usdt": "11947.85",
     "notes": "Заявка Best Aquatics 11 882,2 USD (Scream 09.09.2026: «Все инвойсы это клиент Бест Акватикс — одна заявка на 11882.2 USD»). Основания: Aqua Biotech Innovations S8/8/2026 4 647,79 USD (dd 09.08.2026) + S9/9/2026 20 247,76 USD (dd 09.09.2026) — услуги отбора/хранения и карантин. Компания Q8 (ТЕЗ), клиент БЕСТАКВАТИКС (Молодёжь). Q8-расчёт сразу: 11882.2 + 0.3% + 30 = 11947.85 USDT → sent_usdt = 11947.85. Ждём IN USDT и исполнение (BONBILL/EXECUTED → 🟢). | Инвойс-основание: AQUA BIOTECH SUMMARY INVOICE no. 8/8/2026 (рыба, отгрузка 3 Aug 2026, AWB 555-4450 7702, SU273) = 999,55 USD (Fish & Plants). | Инвойс-основание: AQUA BIOTECH SUMMARY INVOICE no. 9/9/2026 (рыба, отгрузка 7 Sep 2026, AWB 555-4450 7724, SU273) = 987,70 USD (Fish & Plants). | Поручение №9 от 09.09.2026 (Transfer Request No. 9, Прил. №1 к аг.договору №201025/1 от 20.10.2025): ООО «Бестакватикс» → ОсОО «Блэкшарк Трейд», платёж в ин. валюте AQUA BIOTECH INNOVATIONS CO., LTD. (KASIKORNBANK, a/c 0541103007, KASITHBK, Таиланд) по инвойсам 08/08/2026 от 03/08/2026, S8/8/2026 от 09/08/2026, 09/09/2026 от 07/09/2026, S9/9/2026 от 09/09/2026. Сумма поручения 26 882,80 USD (все 4 инвойса), курс 86,48 → 2 324 824,54₽, комиссия агента 36 545,89₽. ⚠️ Заявка row 21 = 11 882,2 USD (решение Scream 09.09) — сумма поручения больше, разбивка/доп. заявки уточняются.",
     "calc": null
+  },
+  {
+    "row": 22,
+    "date": "2026-09-09",
+    "sum": 5951324,
+    "currency": "JPY",
+    "company": "Q8",
+    "color": "FFFF0000",
+    "clientName": "Евразия (Молодёжь)",
+    "costFormula": null,
+    "extra": "Invoice & Packing List MIYOSHI SHOJI (19-9 Nagahama-cho, Kanda-machi, Miyako-gun, Fukuoka, Japan; банк 2-5-24 Taharashinmachi Kokura-minami-ku Kitakyushu Fukuoka, SWIFT NISIJPJT, a/c 0861957) → Q8 GROUP LIMITED (HK), ref MSHY260909-4111 dd 09.09.2026, порт Hakata. Бывшие автозапчасти (NOSE CUT 111×12 751 = 1 415 361; REAR GATE 61×3 750 = 228 750; TRUNK 31×6 001 = 186 031; RACK AND PINION 58×3 000 = 174 000; DOOR 41×2 250 = 92 250; TIRE WITH WHEEL 76×5 251 = 399 076; FenderPanel 85×1 200 = 102 000; Tail Lamp 135×3 300 = 445 500; FRONT KNUCKLE 64×4 500 = 288 000; FRONT STRUTT 85×2 250 = 191 250; REAR SHOCK 33×3 000 = 99 000; Arm 128×1 500 = 192 000; DOOR MIRROR 58×2 250 = 130 500; DRIVE SHAFT FRONT 86×3 750 = 322 500; REAR DRUM CUT 99×4 500 = 445 500; KEY & CYLINDER 81×3 000 = 243 000; FENDER LINER 108×2 250 = 243 000; REAR STRUTT 84×3 750 = 315 000; MONITOR 11×30 003 = 330 033; NOSE CUT HEAD LAMP 36×3 000 = 108 573), 1471 ед. TOTAL = GRAND TOTAL ¥5 951 324 JPY. Рамка: контракт MSHY260909-4111 dd 09.09.2026 (MIYOSHI SHOJI ↔ Q8 GROUP LIMITED, бывшие автозапчасти, JPY, лимит 40 000 000 JPY).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Создана 09.09.2026 (📨 Молодежь): тест-клиент Евразия (Молодёжь), сделка JPY — Invoice MIYOSHI SHOJI ¥5 951 324 по контракту MSHY260909-4111 (покупатель Q8 GROUP LIMITED). Scream 09.09: «Тест клиент jpy Евразия молодежь». Под него пришёл тест IN 10 USDT (Рабочий 4). Строка 🔴 — расчёт/курс ждём.",
+    "calc": null
   }
 ]
