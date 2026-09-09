@@ -535,5 +535,24 @@
     "sent_usdt": null,
     "notes": "Создана 09.09.2026 по пакету 📨 ООО Дре русланд трейдинг - Fininvest/ЭТБ: фактура 05/E/08/26 + Поручение №43 (Transfer Request No.43 от 09.09.2026). Курс 100,4989 → RUB 2 759 512,87, комиссия агента 1,6% = 44 152,21. Компания ждёт заявку (по аналогии row 9 — LUXORA). | Выписка Энерготрансбанк (ОсОО «Блэкшарк Трейд», счёт 40807810200000034895) 09.09.2026: ПП №2574 от ООО «ДРЕ Русланд Трейдинг» 2 759 512,87₽ {VO11200} — оплата по агентскому Договору №2701-27/1 от 27.01.2026, Поручение №43 от 09.09.2026, №05/Е/08/26 от 18.08.2026, контракт б/н от 17.09.2018, за мебель; ПП №2575 44 152,21₽ {VO21100} — агентское вознаграждение (Поручение №43). Комиссия банка за зачисление 8 278,54₽. Итого зачислено 2 803 665,08₽.",
     "calc": null
+  },
+  {
+    "row": 29,
+    "date": "2026-09-09",
+    "sum": 153661.03,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ОМИА",
+    "costFormula": null,
+    "extra": "Поручение Blackshark Trade LLC (платёжное поручение на перевод ден. средств, 09.09.2026): получатель HENAN MINMETALS EAST INDUSTRIAL CO., LTD (NO 1159, RENMIN ROAD, JIAOZUO CITY, HENAN, CHINA), банк VTB BANK (PJSC) SHANGHAI BRANCH, Beneficiary Bank Code 767290000018, SWIFT VTBRCNSH, a/c 40807156900610012048. Сумма 153 661,03 CNY, Payment under contract 28072022 dt 28.07.2022 for goods, HS 2811220000 (фумед-силика), prepayment, transfer fee OUR. | Инвойс (Commercial Invoice) HJ2606099010 dd 09.06.2026: HENAN MINMETALS EAST INDUSTRIAL CO., LTD → покупатель Omya Algol Rus (Москва), фумед-силика HJSIL300/HMMAT205/HMMAT562/HJSILR274, PO AP30-001322, контракт 28072022, TOTAL 263 897,20 CNY (CIF St-Petersburg) — поручение на 153 661,03 CNY = предоплата части инвойса (~58%). НБС-Fininvest (t725), 📨 Молодёжь-поток отсутствует — Scream: «омиа в main».",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Создана 09.09.2026 по пакету 📨 НБС-Fininvest (t725): поручение Blackshark Trade CNY 153 661,03 + инвойс HJ2606099010 (HENAN MINMETALS, фумед-силика, контракт 28072022 от 28.07.2022). Клиент ОМИА → Main (Scream 09.09). Строка 🔴 — ждём заявку/компанию.",
+    "calc": null
   }
 ]
