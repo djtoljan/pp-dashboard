@@ -2096,7 +2096,7 @@
     "sum": 35000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "CEVA FREIGHT (Цветы)",
     "costFormula": "35000 + 0.3% + 30 = 35135 USDT",
     "extra": "Инвойс №34273 REISSUED dd 08.09.2026 (CEVA Freight Management de Colombia S.A.S., NIT 830.079.716-6, Bogotá, Av El Dorado 102-20 Of 203-204; Citibank Colombia, CTA CTE 0073854016). AIR FREIGHT 35 000,00 USD. BILL TO Q8 Group Limited (80242882, HK, Room A22 10/F No.52 Hung To Road Kwun Tong). | Ордер (заявка на перевод): USD 35 000,00, beneficiary CEVA FREIGHT MANAGEMENT DE COLOMBIA SAS, a/c 0073854016, SWIFT CITICOBB, Citibank Colombia, Carrera 9A No. 99-02 Bogotá D.C., payment details: transportation services.",
@@ -2106,7 +2106,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 35135,
-    "notes": "Заявка 09.09.2026 (Scream, FINIVEST AI): инвойс CEVA №34273 REISSUED dd 08.09.2026 + ордер 35 000 USD (CITICOBB 0073854016, transportation services). ТЕЗ-сделка Q8. Расчёт Q8 сразу: 35000 + 0.3% + 30 = 35135 USDT (sent_usdt = 35135). Ждём USDT-приход (received_usdt) и исполнение ПП → 🟢.",
+    "notes": "Заявка 09.09.2026 (Scream, FINIVEST AI): инвойс CEVA №34273 REISSUED dd 08.09.2026 + ордер 35 000 USD (CITICOBB 0073854016, transportation services). ТЕЗ-сделка Q8. Расчёт Q8 сразу: 35000 + 0.3% + 30 = 35135 USDT (sent_usdt = 35135). Ждём USDT-приход (received_usdt) и исполнение ПП → 🟢. | BONBILL Payment Certificate 09.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → CEVA FREIGHT MANAGEMENT DE COLOMBIA S.A.S. (Citibank Colombia, CITICOBB, a/c 0073854016). 35 000,00 USD. Invoice 34273 DD 08.09.2026 For Freight (transportation services). TXID O209756618465122713631. EXECUTED → 🟢",
     "calc": null
   },
   {
