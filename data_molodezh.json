@@ -400,8 +400,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 11947.85,
-    "notes": null,
+    "sent_usdt": "11947.85",
+    "notes": "Заявка Best Aquatics 11 882,2 USD (Scream 09.09.2026: «Все инвойсы это клиент Бест Акватикс — одна заявка на 11882.2 USD»). Основания: Aqua Biotech Innovations S8/8/2026 4 647,79 USD (dd 09.08.2026) + S9/9/2026 20 247,76 USD (dd 09.09.2026) — услуги отбора/хранения и карантин. Компания Q8 (ТЕЗ), клиент БЕСТАКВАТИКС (Молодёжь). Q8-расчёт сразу: 11882.2 + 0.3% + 30 = 11947.85 USDT → sent_usdt = 11947.85. Ждём IN USDT и исполнение (BONBILL/EXECUTED → 🟢). | Инвойс-основание: AQUA BIOTECH SUMMARY INVOICE no. 8/8/2026 (рыба, отгрузка 3 Aug 2026, AWB 555-4450 7702, SU273) = 999,55 USD (Fish & Plants). | Инвойс-основание: AQUA BIOTECH SUMMARY INVOICE no. 9/9/2026 (рыба, отгрузка 7 Sep 2026, AWB 555-4450 7724, SU273) = 987,70 USD (Fish & Plants).",
     "calc": null
   }
 ]
