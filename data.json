@@ -527,13 +527,13 @@
     "clientName": "Дре Русланд",
     "costFormula": null,
     "extra": "Фактура FAKTURA nr 05/E/08/26 z 18.08.2026 (MEBLE STOLAR JURASIK SPÓŁKA KOMANDYTOWA, Jankowy 83C, 63-604 Baranów, Polska; NIP PL6190009986; Santander Bank Polska S.A. (ERSTE BANK POLSKA), SWIFT WBKPPLPP; EUR PL19109011440000000014137526 / PLN PL54109011440000000014004879): meble skrzyniowe (szafy/komody/toaletki, kod 94036010), 54 позиции, 150 szt, 497 paczek, 11 palet, waga 21 406,1 kg netto. Razem netto/brutto 118 344,60 zł, VAT 0%. Płatność w euro, kurs wymiany 4,31 = 27 458,14 euro. EXW, termin 01.09.2026. Nabywca: OOO \"DRE RUSSLAND TRADING\" (LENINA 78A/1, 238520 BALTISK, RF). | Поручение №43 от 09.09.2026 (Transfer Request No.43 from 09/09/26, прил. к аг.договору №2701-27/1 от 27.01.26г.): Принципал ООО «ДРЕ РУСЛАНД ТРЕЙДИНГ» → Агент ОсОО «Блэкшарк Трейд». Получатель: MEBLE STOLAR JURASIK SP.K. (63-604, POLAND, BARANOW, UL.JANKOWY 83C), SANTANDER BANK POLSKA S.A., WBKPPLPP, IBAN PL19109011440000000014137526. 27 458,14 EURO, оплата по фактуре 05/E/08/26 от 18.08.2026 (мебель). Курс 100,4989 (НЕ vdx_rate) → RUB 2 759 512,87. Комиссия агента 1,6% = 44 152,21. Срок 2-3 банк. дня. Step 0 красный, компания ждёт заявку (по аналогии row 9: LUXORA).",
-    "rubles_received": null,
+    "rubles_received": "2759512.87 / 44152.21",
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Создана 09.09.2026 по пакету 📨 ООО Дре русланд трейдинг - Fininvest/ЭТБ: фактура 05/E/08/26 + Поручение №43 (Transfer Request No.43 от 09.09.2026). Курс 100,4989 → RUB 2 759 512,87, комиссия агента 1,6% = 44 152,21. Компания ждёт заявку (по аналогии row 9 — LUXORA).",
+    "notes": "Создана 09.09.2026 по пакету 📨 ООО Дре русланд трейдинг - Fininvest/ЭТБ: фактура 05/E/08/26 + Поручение №43 (Transfer Request No.43 от 09.09.2026). Курс 100,4989 → RUB 2 759 512,87, комиссия агента 1,6% = 44 152,21. Компания ждёт заявку (по аналогии row 9 — LUXORA). | Выписка Энерготрансбанк (ОсОО «Блэкшарк Трейд», счёт 40807810200000034895) 09.09.2026: ПП №2574 от ООО «ДРЕ Русланд Трейдинг» 2 759 512,87₽ {VO11200} — оплата по агентскому Договору №2701-27/1 от 27.01.2026, Поручение №43 от 09.09.2026, №05/Е/08/26 от 18.08.2026, контракт б/н от 17.09.2018, за мебель; ПП №2575 44 152,21₽ {VO21100} — агентское вознаграждение (Поручение №43). Комиссия банка за зачисление 8 278,54₽. Итого зачислено 2 803 665,08₽.",
     "calc": null
   }
 ]
