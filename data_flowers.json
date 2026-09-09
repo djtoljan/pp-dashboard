@@ -2115,7 +2115,7 @@
     "sum": 58922.73,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "58922.73 × 1.167878474709181 + 0.3% + 30 = 69051.03 USDT",
     "extra": "Коммерческий инвойс AA-Q8-2026-0908 dd 08.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No.15, Et.9, of.908, Burgas 8000, Bulgaria; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 58 922,73 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8.",
@@ -2125,7 +2125,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 69051.03,
-    "notes": "Заявка Q8 09.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0908 dd 08.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 58 922,73 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD → расчёт Q8 (сумма × курс + 0,3% + 30). | Кросс-курс EUR/USD = 1.167878474709181 (FX Q8 09.09.2026: продажа 68 828 USD → покупка 58 934,21 EUR, 1 USD = 0,85625347299 EUR, delivery 09.09.2026).",
+    "notes": "Заявка Q8 09.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0908 dd 08.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 58 922,73 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD → расчёт Q8 (сумма × курс + 0,3% + 30). | Кросс-курс EUR/USD = 1.167878474709181 (FX Q8 09.09.2026: продажа 68 828 USD → покупка 58 934,21 EUR, 1 USD = 0,85625347299 EUR, delivery 09.09.2026). | BONBILL Payment Certificate 09.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → BONBILL LIMITED, 58 922,73 EUR. Invoice AAQ820260908DD08092026 For Flowers (Atlantic Avrora EOOD, AA-Q8-2026-0908 dd 08.09.2026). TXID O2097567997173563392646. EXECUTED → 🟢",
     "calc": null
   }
 ]
