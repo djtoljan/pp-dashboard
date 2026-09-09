@@ -2108,5 +2108,24 @@
     "sent_usdt": 35135,
     "notes": "Заявка 09.09.2026 (Scream, FINIVEST AI): инвойс CEVA №34273 REISSUED dd 08.09.2026 + ордер 35 000 USD (CITICOBB 0073854016, transportation services). ТЕЗ-сделка Q8. Расчёт Q8 сразу: 35000 + 0.3% + 30 = 35135 USDT (sent_usdt = 35135). Ждём USDT-приход (received_usdt) и исполнение ПП → 🟢.",
     "calc": null
+  },
+  {
+    "row": 112,
+    "date": "2026-09-09",
+    "sum": 58922.73,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": "Коммерческий инвойс AA-Q8-2026-0908 dd 08.09.2026 (Atlantic Avrora EOOD, Reg 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No.15, Et.9, of.908, Burgas 8000, Bulgaria; Bulgarian-American Credit Bank, BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers assorted, 1 lot = 58 922,73 EUR. Q8 Group Limited (80242882, HK). Оплата банковским переводом. Курс EUR→USD ждём для расчёта Q8.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка Q8 09.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0908 dd 08.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 58 922,73 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD → расчёт Q8 (сумма × курс + 0,3% + 30).",
+    "calc": null
   }
 ]
