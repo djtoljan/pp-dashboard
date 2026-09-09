@@ -474,5 +474,24 @@
     "sent_usdt": 69051.03,
     "notes": "Заявка Q8 09.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0908 dd 08.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 58 922,73 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD → расчёт Q8 (сумма × курс + 0,3% + 30). | Кросс-курс EUR/USD = 1.167878474709181 (FX Q8 09.09.2026: продажа 68 828 USD → покупка 58 934,21 EUR, 1 USD = 0,85625347299 EUR, delivery 09.09.2026). | BONBILL Payment Certificate 09.09.2026 (Тип 7 Q8): Q8 GROUP LIMITED → BONBILL LIMITED, 58 922,73 EUR. Invoice AAQ820260908DD08092026 For Flowers (Atlantic Avrora EOOD, AA-Q8-2026-0908 dd 08.09.2026). TXID O2097567997173563392646. EXECUTED → 🟢",
     "calc": null
+  },
+  {
+    "row": 26,
+    "date": "2026-09-09",
+    "sum": 50048,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ModestoGroup (Цветы)",
+    "costFormula": "50 048,00 + 0,3% + 30 = 50 228,14 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 50228.14,
+    "calc": null,
+    "notes": "Инвойс FL01/040926 dd 04.09.2026 (ModestoGroup OU, Reg. 16203107, K. Kärberi tn 18-2, Lasnamäe, 13919 Tallinn, Estonia; info@m-flowers.com; The Currency Cloud Limited, 1 Sheldon Square, London W2 6TT; IBAN GB32TCCL04143483461312, BIC TCCLGB3L): AA Kenyan rose mix 44 000,00 + AA Air logistics services 6 048,00 = 50 048,00 USD. Bill to: Q8 Group Limited (80242882, HK). Продолжение серии FL01 (row 8 = FL01-020926 50 000 USD). 📨 Заявки Компания Q8 (09.09.2026): заявка на перевод 50 048,00 USD → Modestogroup OU, TCCLGB3L. Q8-расчёт: 50 048 + 0,3% + 30 = 50 228,14 USDT (sent_usdt). Строка ⬜ — ждём BONBILL/🟢."
   }
 ]
