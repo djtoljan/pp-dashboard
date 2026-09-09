@@ -418,9 +418,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 39990,
     "sent_usdt": null,
-    "notes": "Создана 09.09.2026 (📨 Молодежь): тест-клиент Евразия (Молодёжь), сделка JPY — Invoice MIYOSHI SHOJI ¥5 951 324 по контракту MSHY260909-4111 (покупатель Q8 GROUP LIMITED). Scream 09.09: «Тест клиент jpy Евразия молодежь». Под него пришёл тест IN 10 USDT (Рабочий 4). Строка 🔴 — расчёт/курс ждём.",
+    "notes": "Создана 09.09.2026 (📨 Молодежь): тест-клиент Евразия (Молодёжь), сделка JPY — Invoice MIYOSHI SHOJI ¥5 951 324 по контракту MSHY260909-4111 (покупатель Q8 GROUP LIMITED). Scream 09.09: «Тест клиент jpy Евразия молодежь». Под него пришёл тест IN 10 USDT (Рабочий 4). Строка 🔴 — расчёт/курс ждём. | Bobr Alert 09.09.2026 11:05:48 UTC: IN 39 990,00 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TQ3q5LXScb2EFt7f7MAQvmqtVZGd1MQS5S (тот же адрес, что тест IN 10 USDT «под Евразию», Scream 09.09). 39 990 × 148,82 ≈ ¥5 951 324 — покрывает инвойс MIYOSHI (row 22, тест-клиент Евразия (Молодёжь), JPY). received_usdt = 39990. Q9 отправлен, леджер IN_39990 (q9:true). Расчёт/курс для sent_usdt ждём (тест).",
     "calc": null
   }
 ]
