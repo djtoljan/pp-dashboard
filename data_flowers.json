@@ -481,7 +481,7 @@
     "sum": 50048,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ModestoGroup (Цветы)",
     "costFormula": "50 048,00 + 0,3% + 30 = 50 228,14 USDT",
     "extra": null,
@@ -492,7 +492,7 @@
     "received_usdt": "50448",
     "sent_usdt": 50228.14,
     "calc": null,
-    "notes": "Инвойс FL01/040926 dd 04.09.2026 (ModestoGroup OU, Reg. 16203107, K. Kärberi tn 18-2, Lasnamäe, 13919 Tallinn, Estonia; info@m-flowers.com; The Currency Cloud Limited, 1 Sheldon Square, London W2 6TT; IBAN GB32TCCL04143483461312, BIC TCCLGB3L): AA Kenyan rose mix 44 000,00 + AA Air logistics services 6 048,00 = 50 048,00 USD. Bill to: Q8 Group Limited (80242882, HK). Продолжение серии FL01 (row 8 = FL01-020926 50 000 USD). 📨 Заявки Компания Q8 (09.09.2026): заявка на перевод 50 048,00 USD → Modestogroup OU, TCCLGB3L. Q8-расчёт: 50 048 + 0,3% + 30 = 50 228,14 USDT (sent_usdt). Строка ⬜ — ждём BONBILL/🟢. | IN 09.09.2026 17:18 UTC (Bobr Alert, Рабочий 4): 50 448,00 USDT от TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM = Q8-фондирование под заявку ModestoGroup FL01/040926 50 048 USD (50 048 × 1.008, прецедент row 8: 50 000 × 1.008 = 50 400). Q9 🟢 ВХОД 50448 USDT отправлен, леджер записан (q9_sent=true). received_usdt = 50448. Ждём BONBILL/🟢."
+    "notes": "Инвойс FL01/040926 dd 04.09.2026 (ModestoGroup OU, Reg. 16203107, K. Kärberi tn 18-2, Lasnamäe, 13919 Tallinn, Estonia; info@m-flowers.com; The Currency Cloud Limited, 1 Sheldon Square, London W2 6TT; IBAN GB32TCCL04143483461312, BIC TCCLGB3L): AA Kenyan rose mix 44 000,00 + AA Air logistics services 6 048,00 = 50 048,00 USD. Bill to: Q8 Group Limited (80242882, HK). Продолжение серии FL01 (row 8 = FL01-020926 50 000 USD). 📨 Заявки Компания Q8 (09.09.2026): заявка на перевод 50 048,00 USD → Modestogroup OU, TCCLGB3L. Q8-расчёт: 50 048 + 0,3% + 30 = 50 228,14 USDT (sent_usdt). Строка ⬜ — ждём BONBILL/🟢. | IN 09.09.2026 17:18 UTC (Bobr Alert, Рабочий 4): 50 448,00 USDT от TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM = Q8-фондирование под заявку ModestoGroup FL01/040926 50 048 USD (50 048 × 1.008, прецедент row 8: 50 000 × 1.008 = 50 400). Q9 🟢 ВХОД 50448 USDT отправлен, леджер записан (q9_sent=true). received_usdt = 50448. Ждём BONBILL/🟢. | BONBILL Payment Certificate 10.09.2026 14:22:53 (Тип 7 Q8, txid O2097933812465008640658): Q8 GROUP LIMITED → Modestogroup OU (THE CURRENCY CLOUD LIMITED, счёт GB32TCCL04143483461312). USD 50 048,00. Invoice FL01040926 DD 04092026 For Flowers. EXECUTED → 🟢."
   },
   {
     "row": 27,
