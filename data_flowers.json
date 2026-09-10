@@ -15,7 +15,7 @@
     "vdx_rate": null,
     "received_usdt": 61690,
     "sent_usdt": 61435.67,
-    "notes": " | IN 01.09.2026 10:17 UTC (Bobr Alert, Рабочий 4): 61 690,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы доплата) под заявку 61 222,00 USD (подтверждено Scream 01.09.2026). received_usdt = 61690. Q9 отправлен, леджер --q9. | Коммерческий инвойс EBF CARGO CIA LTDA. №2026-6502 dd 01/09/2026 (📨 FINIVEST AI 10.09.2026 19:43, файл «EBF_CARGO_Invoice_60000_USD.pdf»): CUSTOMER Q8 Group Limited (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong, Company No. 80242882), AMOUNT «PREPAYMENT FOR AIR TRANSPORTATION» **60 000,00 USD** (SUBTOTAL/TAX 0%/TOTAL), банк получателя PRODUBANCO, SWIFT PRODECEQ, a/c 02005153421 — те же реквизиты, что в BONBILL-сертификате. 🚨 ЭТОТ ЖЕ инвойс (номер+дата+бенефициар+реквизиты) уже учтён в строке 1: BONBILL Payment Certificate 01.09.2026 = 61 222,00 USD, TXID O2094714985820323840599, EXECUTED 🟢, received_usdt 61 690, sent_usdt 61 435,67. Повтор → новая строка НЕ создана (dedup по содержимому дал NEW_ROW только из-за суммы: 60 000 у инвойса против 61 222 у сертификата). Разница **1 222,00 USD** = часть сертификата сверх суммы инвойса (сертификат включает комиссию Q8) — состав уточняется у владельца.",
+    "notes": " | IN 01.09.2026 10:17 UTC (Bobr Alert, Рабочий 4): 61 690,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы доплата) под заявку 61 222,00 USD (подтверждено Scream 01.09.2026). received_usdt = 61690. Q9 отправлен, леджер --q9. | Коммерческий инвойс EBF CARGO CIA LTDA. №2026-6502 dd 01/09/2026 (📨 FINIVEST AI 10.09.2026 19:43, файл «EBF_CARGO_Invoice_60000_USD.pdf»): CUSTOMER Q8 Group Limited (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong, Company No. 80242882), AMOUNT «PREPAYMENT FOR AIR TRANSPORTATION» **60 000,00 USD** (SUBTOTAL/TAX 0%/TOTAL), банк получателя PRODUBANCO, SWIFT PRODECEQ, a/c 02005153421 — те же реквизиты, что в BONBILL-сертификате. 🚨 ЭТОТ ЖЕ инвойс (номер+дата+бенефициар+реквизиты) уже учтён в строке 1: BONBILL Payment Certificate 01.09.2026 = 61 222,00 USD, TXID O2094714985820323840599, EXECUTED 🟢, received_usdt 61 690, sent_usdt 61 435,67. Повтор → новая строка НЕ создана (dedup по содержимому дал NEW_ROW только из-за суммы: 60 000 у инвойса против 61 222 у сертификата). Разница **1 222,00 USD** = часть сертификата сверх суммы инвойса (сертификат включает комиссию Q8) — состав уточняется у владельца. | 🚩 Уточнение 10.09.2026 (Scream): коммерческий инвойс EBF CARGO на 60 000,00 USD — это НОВАЯ заявка компании Q8 (Цветы row 32), не документ этой строки; у EBF CARGO номер 2026-6502 повторяется (август 70 000, сентябрь 61 222, новая 60 000).",
     "calc": null
   },
   {
@@ -587,6 +587,25 @@
     "received_usdt": 22917.3,
     "sent_usdt": 22793.89,
     "notes": "Заявка Q8 10.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0910-2 dd 10.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 19 432,14 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD под эту заявку → расчёт Q8 (сумма × курс + 0,3% + 30). FX-скрин 10.09 (1 USD = 0.856304109093 EUR, buy 58 372,53 EUR) привязан к заявке row 30 (58 345,58 EUR) — под эту строку курс не выдавался. | Bobr IN 10.09.2026 09:22:03 UTC: 22 917,3 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM — под заявку 19 432,14 EUR (инвойс AA-Q8-2026-0910-2, Atlantic Avrora). Scream 10.09.2026: «под заявку 19,432.14». Q9 отправлен, леджер IN с --q9 (txid a2fe2b6790e1b364df42597212c3dfdfa81f8fbf861bee59b2e769201a458935). received_usdt = 22917.3. | BONBILL Payment Certificate 10.09.2026 17:14:03 (Тип 7 Q8, txid O2097976890475282432137): Q8 GROUP LIMITED → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BGUSBGSF, счёт BG04BGUS91601413896300). EUR 19 432,14. Invoice AAQ8202609102 DD 10092026 For Flowers. EXECUTED → 🟢.",
+    "calc": null
+  },
+  {
+    "row": 32,
+    "date": "2026-09-10",
+    "sum": 60000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "EBF CARGO (Цветы)",
+    "costFormula": "60 000,00 + 0,3% + 30 = 60 210,00 USDT",
+    "extra": "Commercial Invoice EBF CARGO CIA LTDA. №2026-6502 dd 01/09/2026 (📨 FINIVEST AI «Заявки Компания Q8» 10.09.2026): CUSTOMER Q8 Group Limited (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong, Company No. 80242882); «PREPAYMENT FOR AIR TRANSPORTATION» = 60 000,00 USD (SUBTOTAL/TAX 0%/TOTAL). Бенефициар: EBF CARGO CIA LTDA (Av. Simon Bolivar s/n y Via Nayon, Centro Corporativo Ekopark Torre 1, Quito, Ecuador), банк PRODUBANCO (Av. Amazonas 4545 y Pereira), SWIFT PRODECEQ, a/c 02005153421.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": 60460,
+    "sent_usdt": 60210,
+    "notes": "Новая заявка компании Q8 на 60 000,00 USD (📨 FINIVEST AI 10.09.2026, файл EBF_CARGO_Invoice_60000_USD.pdf). Scream 10.09.2026 19:55: «Под заявку 60000 три транзакции» → received_usdt = 60 460 = три прихода USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) 10.09.2026: 7 060,0 (16:48:00 UTC, от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA, txid 781a9d65273691dd6735dd0e1037ef77d1f96b9042e282b3d8c7a8ae203dcc3d) + 19 400,0 (16:50:30 UTC, от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4, txid 183cba387406782a02a72eab08c70e371b0cbf068746860cc68b8c2461969cd4) + 34 000,0 (16:53:48 UTC, от TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM, txid 9053d913cf4af5566dfccbf8043e0954adf81a0c11ad2c0ac6ce49c8714baca9). Q9 по всем трём отправлен, леджер q9_sent=true. 🚩 Уточнение: коммерческий инвойс №2026-6502 на 60 000 — НЕ документ строки 1 (там BONBILL-сертификат 61 222 dd 01.09.2026, 🟢); номер 2026-6502 у EBF CARGO повторяется.",
     "calc": null
   }
 ]
