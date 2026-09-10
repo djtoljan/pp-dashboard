@@ -531,5 +531,24 @@
     "sent_usdt": 35135,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 29,
+    "date": "2026-09-10",
+    "sum": 15000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "UNIFLOR (Цветы)",
+    "costFormula": "15000 + 0.3% + 30 = 15 075,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 15075,
+    "notes": null,
+    "calc": null
   }
 ]
