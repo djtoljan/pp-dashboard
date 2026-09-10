@@ -15,7 +15,7 @@
     "vdx_rate": null,
     "received_usdt": 61690,
     "sent_usdt": 61435.67,
-    "notes": " | IN 01.09.2026 10:17 UTC (Bobr Alert, Рабочий 4): 61 690,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы доплата) под заявку 61 222,00 USD (подтверждено Scream 01.09.2026). received_usdt = 61690. Q9 отправлен, леджер --q9.",
+    "notes": " | IN 01.09.2026 10:17 UTC (Bobr Alert, Рабочий 4): 61 690,00 USDT от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA (= Цветы доплата) под заявку 61 222,00 USD (подтверждено Scream 01.09.2026). received_usdt = 61690. Q9 отправлен, леджер --q9. | Коммерческий инвойс EBF CARGO CIA LTDA. №2026-6502 dd 01/09/2026 (📨 FINIVEST AI 10.09.2026 19:43, файл «EBF_CARGO_Invoice_60000_USD.pdf»): CUSTOMER Q8 Group Limited (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong, Company No. 80242882), AMOUNT «PREPAYMENT FOR AIR TRANSPORTATION» **60 000,00 USD** (SUBTOTAL/TAX 0%/TOTAL), банк получателя PRODUBANCO, SWIFT PRODECEQ, a/c 02005153421 — те же реквизиты, что в BONBILL-сертификате. 🚨 ЭТОТ ЖЕ инвойс (номер+дата+бенефициар+реквизиты) уже учтён в строке 1: BONBILL Payment Certificate 01.09.2026 = 61 222,00 USD, TXID O2094714985820323840599, EXECUTED 🟢, received_usdt 61 690, sent_usdt 61 435,67. Повтор → новая строка НЕ создана (dedup по содержимому дал NEW_ROW только из-за суммы: 60 000 у инвойса против 61 222 у сертификата). Разница **1 222,00 USD** = часть сертификата сверх суммы инвойса (сертификат включает комиссию Q8) — состав уточняется у владельца.",
     "calc": null
   },
   {
