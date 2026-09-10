@@ -620,7 +620,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "ООО «Альфатехформ»",
-    "costFormula": "108 900,00 × 1,1681093187055014 (FX Q8 10.09.2026: 145 448 USD → 124 515,74 EUR, 1 USD = 0,856084258542 EUR) + 0,3% + 30 = 127 618,73 USDT",
+    "costFormula": "65 340,00 × 1,1681093187055014 (FX Q8 10.09.2026: 145 448 USD → 124 515,74 EUR, 1 USD = 0,856084258542 EUR) + 0,3% + 30 = 76 583,24 USDT",
     "calc": "ТЕЗ",
     "extra": null,
     "rubles_received": null,
@@ -628,7 +628,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 127618.73,
-    "notes": "Заявка Q8 09.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс HAEWON GLOBAL Co., Ltd (14117, #13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea) → Q8 GROUP LIMITED (80242882, HK). Spare parts для ТПА/литьевых машин (oil collection tray 1600×874,5×135,2; T-Seal; energy chain 2143×174×94; sliding plate for mold platen; control cable; injection cylinder seals и др.), tarif 84779080000, 11 карт. TOTAL 108 900,00 EUR = 99 174,00 товар + 2 600,00 delivery + 7 126,00 (комиссия 7%). | Заявка-перевод 09.09.docx: 65 340 EUR (= 60% от 108 900) → HAEWON GLOBAL (Industrial Bank of Korea, IBKOKRSEXXX, a/c 931-038712-56-00019). Строка ⬜ компания Q8. 🚨 КЛИЕНТ УТОЧНЯЕТСЯ (Scream) — аналоги rows 21/25 (литьё/ТПА: ЛОГИС/Альфатехформ?). | КЛИЕНТ ПОДТВЕРЖДЁН Scream 09.09.2026 20:50: заявка HAEWON GLOBAL (инвойс 108 900 EUR, запчасти ТПА, заявка-перевод 65 340 = 60%) = ООО «Альфатехформ» (вторая сделка Альфатехформ, row 25 = ATLAS INDUSTRIAL GROUP 110 559,89 EUR — отдельная). Строка ⬜ компания Q8, ждёт оплату/статус."
+    "sent_usdt": 76583.24,
+    "notes": "Заявка Q8 09.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс HAEWON GLOBAL Co., Ltd (14117, #13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea) → Q8 GROUP LIMITED (80242882, HK). Spare parts для ТПА/литьевых машин (oil collection tray 1600×874,5×135,2; T-Seal; energy chain 2143×174×94; sliding plate for mold platen; control cable; injection cylinder seals и др.), tarif 84779080000, 11 карт. TOTAL 108 900,00 EUR = 99 174,00 товар + 2 600,00 delivery + 7 126,00 (комиссия 7%). | Заявка-перевод 09.09.docx: 65 340 EUR (= 60% от 108 900) → HAEWON GLOBAL (Industrial Bank of Korea, IBKOKRSEXXX, a/c 931-038712-56-00019). Строка ⬜ компания Q8. 🚨 КЛИЕНТ УТОЧНЯЕТСЯ (Scream) — аналоги rows 21/25 (литьё/ТПА: ЛОГИС/Альфатехформ?). | КЛИЕНТ ПОДТВЕРЖДЁН Scream 09.09.2026 20:50: заявка HAEWON GLOBAL (инвойс 108 900 EUR, запчасти ТПА, заявка-перевод 65 340 = 60%) = ООО «Альфатехформ» (вторая сделка Альфатехформ, row 25 = ATLAS INDUSTRIAL GROUP 110 559,89 EUR — отдельная). Строка ⬜ компания Q8, ждёт оплату/статус. | FX Q8 10.09.2026 (скриншот): 145 448 USD → 124 515,74 EUR, 1 USD = 0,856084258542 EUR (1 EUR = 1,1681093187 USD). Под заявки: 65 340,00 (эта, 60% от 108 900) + 17 124,00 (row 19) + 41 974,42 (row 32) = 124 438,42 EUR (буфер 77,32 EUR). Q8-расчёт поставлен на 65 340,00 EUR = 76 583,24 USDT (база — заявка-перевод 60%, не вся сумма инвойса 108 900)."
   }
 ]
