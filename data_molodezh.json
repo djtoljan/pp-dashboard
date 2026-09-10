@@ -523,18 +523,18 @@
     "date": "2026-09-09",
     "sum": 8318.65,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "Фри Лайнс Компани",
-    "costFormula": null,
+    "costFormula": "8318.65 + 0.3% + 30 = 8373.61 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 8373.61,
+    "notes": "Поручение №23 от 09.09.2026 (Transfer Request No. 23, Приложение №1 к Агентскому договору №09-02-3/26 от 09.02.2026): Принципал АО «Фри Лайнс Компани» → Агент ООО «VDX SERVICES - FZCO» (сч. VDX ПСБ). Платёж 8 318,65 USD, получатель KMP FREIGHT PRIVATE LIMITED (PLOT NO 23A, 2ND MAIN ROAD, RAMACHANDRA NAGAR, GERUGAMBAKKAM, CHENNAI, TAMIL NADU, 600122; банк HDFC BANK, FIRST FLOOR, NO 10, ARCOT ROAD, LAKSHMI NAGAR, CHENNAI 600116 TAMILNADU; SWIFT HDFCINBBCHE; a/c EUR 50200056844129). Инвойс №1118266471001469 dd 10.07.2026, контракт №FLK13012026-2 от 13/01/2026. Курс 1 USD = 87,3448 (из поручения, НЕ vdx_rate) → 726 590,82₽. Комиссия агента 32 000,78₽. Срок 2-3 банк. дня. Подписи: Паршин В.В. (Фри Лайнс), Hikmat Ahmadov (VDX). | Payment Order dd 10/09/2026 (файл payment order 5.docx, категория ›Молодёжь): BENEFICIARY KMP FREIGHT PRIVATE LIMITED (PLOT NO 23A, 2ND MAIN ROAD, RAMACHANDRA NAGAR, GERUGAMBAKKAM, CHENNAI, TAMIL NADU, 600122), BANK HDFC BANK (FIRST FLOOR, NO 10, ARCOT ROAD, LAKSHMI NAGAR, CHENNAI 600116, TAMILNADU), ACCOUNT 50200056837301 (USD), SWIFT HDFCINBBCHE, AMOUNT 8 318,65 USD, PAYMENT METHOD 100% afterpayment, PAYMENT PURPOSE: Payment for transport service under invoice number 1118266471001469 dd 2026-07-10. — подтверждает конечного получателя/платёж по поручению №23, дубль сделки (сумма/бенефициар/инвойс совпали), НОВУЮ строку НЕ создаю. | ЗАЯВКА/ИНВОЙС (TAX INVOICE KMP FREIGHT PRIVATE LIMITED, файл KMP JULY): BILL TO: Q8 GROUP LIMITED (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Kowloon, HK). Invoice No 1118266471001469 dd 10-JUL-2026, Total in USD 8318.65 (позиции: 1118266471001469 — 2 260; 1118266471001550 — 495; 1118266471001594 — 718; 1118266471001948 — 4 543,8; 1118266471000880 — 301,85; всего 5 позиций). Export under LUT, IGST/CGST/SGST 0. Банк: HDFC BANK (a/c USD 50200056837301 / EUR 50200056844129, SWIFT HDFCINBBCHE). Компания-плательщик = Q8. Step 0 → Step 3: компания Q8 + инвойс известны. Q8-расчёт: 8318.65 + 0.3% + 30 = 8373.61 USDT (sent_usdt сразу). Цвет 🔴 → ⬜.",
     "calc": null
   }
 ]
