@@ -550,5 +550,24 @@
     "sent_usdt": 15075,
     "notes": "Proforma INV 4/2026 dd 09.07.2026. UNIFLOR L.L.C-FZ (Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, UAE; Emirates Islamic, SWIFT MEBLAEADXXX, IBAN AE530340003708515772902). Supply of fresh-cut flowers of South Africa origin — 6438 stems, 153 boxes. 15 000,00 USD. Buyer: Q8 Group Limited (80242882, HK). 📨 Заявки Компания Q8 (10.09.2026). Payment Order (SWIFT, поле 57 MEBLAEADXXX / 59 UNIFLOR L.L.C-FZ) 15 000,00 USD. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 15 000 + 0.3% + 30 = 15 075,00 USDT. ⚠️ Тот же INV 4/2026 dd 09.07.2026 уже исполнен в августе 2026 (платёж от LEO, EXECUTED 10.08.2026) — возможный повтор, уточнить у Scream.",
     "calc": null
+  },
+  {
+    "row": 30,
+    "date": "2026-09-10",
+    "sum": 58345.58,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": "Коммерческий инвойс AA-Q8-2026-0910 dd 10.09.2026 (Atlantic Avrora EOOD, Reg. Nr. 208330386, VAT Nr. BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No.15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Director Aleksandrs Rakovskis; Bulgarian-American Credit Bank, SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers, assorted, 1 lot = EUR 58 345,58. Buyer: Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Terms: As per agreement.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Заявка Q8 10.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0910 dd 10.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 58 345,58 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD → расчёт Q8 (сумма × курс + 0,3% + 30).",
+    "calc": null
   }
 ]
