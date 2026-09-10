@@ -510,6 +510,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 43560.2,
+    "notes": "Invoice DA-090926-01 dd 09.09.2026. Dolina Agro Ltd (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) -> Q8 Group Limited (80242882, HK). 43 400,00 USD, EXW, Truck Interflowers. Roses 55 500 stems (Explorer/Freedom/Pink Floyd/White Chocolate/Kahala/Mondial/Lola/Paloma). Farm invoices DA-090926-01..08. Payment Order 43 400,00 USD (Bank Leumi, LUMIILITXXX, IL750107440000027660042) — тот же бенефициар. 📨 Заявки Компания Q8 (10.09.2026). Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 43 400 + 0.3% + 30 = 43 560,20 USDT.",
+    "calc": null
+  },
+  {
+    "row": 28,
+    "date": "2026-09-10",
+    "sum": 35000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ALIANZA LOGISTICS (Цветы)",
+    "costFormula": "35000 + 0.3% + 30 = 35 135,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 35135,
     "notes": null,
     "calc": null
   }
