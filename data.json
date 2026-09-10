@@ -668,5 +668,24 @@
     "sent_usdt": 47181.99,
     "notes": "Scream 10.09.2026: клиент VDX (аналогично заявкам 30/31 — туризм/оплаты для UK). Строка ⬜, компания Q8 (ТЕЗ).",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 36,
+    "date": "2026-09-10",
+    "sum": 31762,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Трак-Прайс",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
