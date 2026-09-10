@@ -584,9 +584,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 22917.3,
     "sent_usdt": 22793.89,
-    "notes": "Заявка Q8 10.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0910-2 dd 10.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 19 432,14 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD под эту заявку → расчёт Q8 (сумма × курс + 0,3% + 30). FX-скрин 10.09 (1 USD = 0.856304109093 EUR, buy 58 372,53 EUR) привязан к заявке row 30 (58 345,58 EUR) — под эту строку курс не выдавался.",
+    "notes": "Заявка Q8 10.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0910-2 dd 10.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 19 432,14 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD под эту заявку → расчёт Q8 (сумма × курс + 0,3% + 30). FX-скрин 10.09 (1 USD = 0.856304109093 EUR, buy 58 372,53 EUR) привязан к заявке row 30 (58 345,58 EUR) — под эту строку курс не выдавался. | Bobr IN 10.09.2026 09:22:03 UTC: 22 917,3 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM — под заявку 19 432,14 EUR (инвойс AA-Q8-2026-0910-2, Atlantic Avrora). Scream 10.09.2026: «под заявку 19,432.14». Q9 отправлен, леджер IN с --q9 (txid a2fe2b6790e1b364df42597212c3dfdfa81f8fbf861bee59b2e769201a458935). received_usdt = 22917.3.",
     "calc": null
   }
 ]
