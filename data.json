@@ -748,5 +748,24 @@
     "sent_usdt": null,
     "notes": "ПРОФОРМА-ИНВОЙС YH260415 dd 23.04.2026 (SHANDONG JIAYU PRECISION MACHINERY CO.,LTD, No. 68 Fuqian Road, Guanqiao Town, Tengzhou City, Zaozhuang City, Shandong Province) — продавец; EXW TENGZHOU, 1 позиция: LATHE 225-CNC - D1-3\" FANUC 0i-TF PLUS (linear 2 axis X/Z, ось C, CAMLOCK D1-3\", B32, 380V 50Hz 3ph, метрическая) + комплектация (патрон RÛHM Ø125, MULTIFIX, toolholders, люнет) — 1 SET × ￥1 695 750,00 = TOTAL VALUE ￥1 695 750,00 CNY. Условия: PAYMENT BY T/T AT SIGHT; 20% при подписании PI и 80% по получении уведомления о готовности оборудования (до отгрузки); отгрузка в течение 1,5 мес. после аванса; страхование на покупателе; гарантия 12 мес.; арбитраж CIETAC (право КНР). Бенефициар: VTB BANK (PJSC) SHANGHAI BRANCH (OFFICE 2503-2505, SHANGHAI TOWER, 501 MIDDLE YINCHENG ROAD, SHANGHAI, CHINA 20012), Beneficiary Bank Code 767290000018, SWIFT VTBRCNSH, счёт 4080 7156 5006 1005 2071 (CNY). | ЗАЯВЛЕНИЕ НА ВАЛЮТНЫЙ ПЕРЕВОД (бланк ОсОО «Блэкшарк Трейд», 📨 НБС-Fininvest t113, файл «CNY 1 356 600,00 Новый Свет.docx»): Дата платежа (planned) 23.04.2026; сумма в теле документа 1 356 000,00 CNY (⚠️ в имени файла и по расчёту 80% от проформы = 1 356 600,00 CNY — принял 1 356 600,00, т.к. 1 695 750 × 80% = 1 356 600 ✓, в заявлении опечатка); назначение: Contract # 5АС 23 April 2026 / PROFORMA INVOICE NO. YH260415 DATE: 2026-4-23, 80% T/T UPON RECEIVING THE NOTIFICATION; товар LATHE 225-CNC - D1-3\" FANUC 0i-TF PLUS; аванс/постоплата 20%; комиссия за перевод OUR. | Сделка новая: в 5 таблицах, архивах (июнь/июль/август) и clients-db ничего по SHANDONG JIAYU / YH260415 / 1 356 600 CNY нет. Клиент «Новый Свет» (из имени файла и топика НБС-Fininvest t113) в clients-db отсутствует → создано в Main. Step 0 🔴 — компания/таблица/дата уточняются (дата строки = дата документов 23.04.2026).",
     "calc": null
+  },
+  {
+    "row": 40,
+    "date": "2026-09-08",
+    "sum": 82241.5,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
