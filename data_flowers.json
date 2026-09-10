@@ -529,7 +529,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 35135,
-    "notes": null,
+    "notes": "Invoice 10013087 dd 10-09-2026. ALIANZA LOGISTIKA TDGE S.A. (Ave. InterOceanica OE6-73 y Gonzalez Suarez, Tumbaco, Quito, Ecuador) -> Q8 GROUP LIMITED (80242882, HK). Air logistics services, 35 000,00 USD. Beneficiary: LOGIZTIK-GROUP ECUADOR S.A. (BANCO DE LA PRODUCCION S.A. PRODUBANCO, AMAZONAS 3775 Quito, SWIFT PRODECEQ, a/c 02005144694). 📨 Заявки Компания Q8 (10.09.2026). Payment Order 35 000,00 USD (PRODUBANCO PRODECEQ, 02005144694) — тот же бенефициар. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 35 000 + 0.3% + 30 = 35 135,00 USDT.",
     "calc": null
   },
   {
@@ -548,7 +548,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 15075,
-    "notes": null,
+    "notes": "Proforma INV 4/2026 dd 09.07.2026. UNIFLOR L.L.C-FZ (Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, UAE; Emirates Islamic, SWIFT MEBLAEADXXX, IBAN AE530340003708515772902). Supply of fresh-cut flowers of South Africa origin — 6438 stems, 153 boxes. 15 000,00 USD. Buyer: Q8 Group Limited (80242882, HK). 📨 Заявки Компания Q8 (10.09.2026). Payment Order (SWIFT, поле 57 MEBLAEADXXX / 59 UNIFLOR L.L.C-FZ) 15 000,00 USD. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 15 000 + 0.3% + 30 = 15 075,00 USDT. ⚠️ Тот же INV 4/2026 dd 09.07.2026 уже исполнен в августе 2026 (платёж от LEO, EXECUTED 10.08.2026) — возможный повтор, уточнить у Scream.",
     "calc": null
   }
 ]
