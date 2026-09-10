@@ -519,7 +519,7 @@
     "sum": 35000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ALIANZA LOGISTICS (Цветы)",
     "costFormula": "35000 + 0.3% + 30 = 35 135,00 USDT",
     "extra": null,
@@ -529,7 +529,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 35135,
-    "notes": "Invoice 10013087 dd 10-09-2026. ALIANZA LOGISTIKA TDGE S.A. (Ave. InterOceanica OE6-73 y Gonzalez Suarez, Tumbaco, Quito, Ecuador) -> Q8 GROUP LIMITED (80242882, HK). Air logistics services, 35 000,00 USD. Beneficiary: LOGIZTIK-GROUP ECUADOR S.A. (BANCO DE LA PRODUCCION S.A. PRODUBANCO, AMAZONAS 3775 Quito, SWIFT PRODECEQ, a/c 02005144694). 📨 Заявки Компания Q8 (10.09.2026). Payment Order 35 000,00 USD (PRODUBANCO PRODECEQ, 02005144694) — тот же бенефициар. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 35 000 + 0.3% + 30 = 35 135,00 USDT.",
+    "notes": "Invoice 10013087 dd 10-09-2026. ALIANZA LOGISTIKA TDGE S.A. (Ave. InterOceanica OE6-73 y Gonzalez Suarez, Tumbaco, Quito, Ecuador) -> Q8 GROUP LIMITED (80242882, HK). Air logistics services, 35 000,00 USD. Beneficiary: LOGIZTIK-GROUP ECUADOR S.A. (BANCO DE LA PRODUCCION S.A. PRODUBANCO, AMAZONAS 3775 Quito, SWIFT PRODECEQ, a/c 02005144694). 📨 Заявки Компания Q8 (10.09.2026). Payment Order 35 000,00 USD (PRODUBANCO PRODECEQ, 02005144694) — тот же бенефициар. Q8 → ТЕЗ (Цветы). ⬜ Step 3 (заявка). sent_usdt: 35 000 + 0.3% + 30 = 35 135,00 USDT. | BONBILL Payment Certificate 10.09.2026 15:07:48 (Тип 7 Q8, txid O2097945118198857728381): Q8 GROUP LIMITED → LOGIZTIK-GROUP ECUADOR S.A. (BANCO DE LA PRODUCCION S.A. PRODUBANCO, SWIFT PRODECEQ, счёт 02005144694). USD 35 000,00. Invoice 10013087 DD 10092026 For Air Logistics Services. EXECUTED → 🟢.",
     "calc": null
   },
   {
@@ -576,7 +576,7 @@
     "sum": 19432.14,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "19432.14 / 0.856199782603 (FX Q8 10.09.2026: 1 USD = 0.856199782603 EUR) + 0.3% + 30 = 22793.89 USDT",
     "extra": "Коммерческий инвойс AA-Q8-2026-0910-2 dd 10.09.2026 (Atlantic Avrora EOOD, Reg. Nr. 208330386, VAT Nr. BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No.15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Director Aleksandrs Rakovskis; Bulgarian-American Credit Bank, SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers, assorted, 1 lot = EUR 19 432,14. Buyer: Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Terms: As per agreement.",
@@ -586,7 +586,7 @@
     "vdx_rate": null,
     "received_usdt": 22917.3,
     "sent_usdt": 22793.89,
-    "notes": "Заявка Q8 10.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0910-2 dd 10.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 19 432,14 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD под эту заявку → расчёт Q8 (сумма × курс + 0,3% + 30). FX-скрин 10.09 (1 USD = 0.856304109093 EUR, buy 58 372,53 EUR) привязан к заявке row 30 (58 345,58 EUR) — под эту строку курс не выдавался. | Bobr IN 10.09.2026 09:22:03 UTC: 22 917,3 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM — под заявку 19 432,14 EUR (инвойс AA-Q8-2026-0910-2, Atlantic Avrora). Scream 10.09.2026: «под заявку 19,432.14». Q9 отправлен, леджер IN с --q9 (txid a2fe2b6790e1b364df42597212c3dfdfa81f8fbf861bee59b2e769201a458935). received_usdt = 22917.3.",
+    "notes": "Заявка Q8 10.09.2026 (📨 Заявки Компания Q8): коммерческий инвойс AA-Q8-2026-0910-2 dd 10.09.2026, Atlantic Avrora EOOD → Q8 Group Limited, 19 432,14 EUR, fresh cut flowers assorted. ТЕЗ-сделка Q8 (EUR). Ждём FX кросс-курс EUR→USD под эту заявку → расчёт Q8 (сумма × курс + 0,3% + 30). FX-скрин 10.09 (1 USD = 0.856304109093 EUR, buy 58 372,53 EUR) привязан к заявке row 30 (58 345,58 EUR) — под эту строку курс не выдавался. | Bobr IN 10.09.2026 09:22:03 UTC: 22 917,3 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM — под заявку 19 432,14 EUR (инвойс AA-Q8-2026-0910-2, Atlantic Avrora). Scream 10.09.2026: «под заявку 19,432.14». Q9 отправлен, леджер IN с --q9 (txid a2fe2b6790e1b364df42597212c3dfdfa81f8fbf861bee59b2e769201a458935). received_usdt = 22917.3. | BONBILL Payment Certificate 10.09.2026 17:14:03 (Тип 7 Q8, txid O2097976890475282432137): Q8 GROUP LIMITED → Atlantic Avrora EOOD (Bulgarian-American Credit Bank, BGUSBGSF, счёт BG04BGUS91601413896300). EUR 19 432,14. Invoice AAQ8202609102 DD 10092026 For Flowers. EXECUTED → 🟢.",
     "calc": null
   }
 ]
