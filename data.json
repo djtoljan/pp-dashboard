@@ -814,15 +814,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": null,
-    "costFormula": null,
+    "costFormula": "10757.4 + 0.3% + 30 = 10819.67 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "sent_usdt": 10819.67,
+    "notes": "Payment Order (📨 ПП компании Q8, файл Payment Doc.1.docx, 10.09.2026): THE AMOUNT AND THE CURRENCY TO TRANSFER — 10 757,40 USD; BENEFICIARY THJ(HK) Technology Limited (Room 4502, Metropolitan Heights at Century Place, No.3018 Shennan Middle Road, Futian District, Shenzhen, CN); ACCOUNT 8462 1028 6032; SWIFT CCBQHKAXXXX; BANK China Construction Bank (Asia) Corporation Limited (20/F, CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon, HONGKONG); банк-посредник и назначение платежа не заполнены. Компания Q8 → ⬜ Step 3. Расчёт Q8 сразу: 10757.4 + 0.3% + 30 = 10819.67 USDT. ⚠️ Соответствует проформе THJ(HK) THJ260305011 (TOTAL(USD) 10 757,40; набор компонентов = как в Main row 23 / PT SINGA 18S13-04-26, 20 055,79 USD). Клиент по строке не указан (в документах только Q8) — уточнить.",
+    "calc": "ТЕЗ"
   }
 ]
