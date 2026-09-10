@@ -708,7 +708,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "Поручение №3 от 09.09.2026 (Transfer request No.3 from 09.09.2026, прил. №1 к Агентскому договору №13-05/26 от 09.09.2026): Принципал ООО «Лукрум» (LLC Lukrum) → Агент ОсОО «Блэкшарк Трейд». Получатель: BR 39 SP. Z O.O (NIP 5821625152, Poland, 14-500 Braniewo, Zeromskiego 14). Bank Millenium SA, IBAN PL 49 1160 2202 0000 0002 5202 7650 (PLN), SWIFT BIGBPLPW (UL. STANISLAWA ZARYNA 2A, 02-593 WARSZAWA). Сумма платежа: 35 805,09 PLN / 8 307,31 EUR. Назначение: Faktura pro forma 5/09/2026 (oryginal), Kontrakt NR 01/2024 (02.01.2024). Курс конвертации 99,2525 (EUR→RUB, проверка: 8 307,31 × 99,2525 = 824 521,28 ✓) → 824 521,28₽. Комиссия агента 1,85% = 15 253,64₽ + 100 долл = 8 545,94₽, итого 23 799,58₽. Срок 2-3 банковских дня. Подписи: Щеглов Е.С. (Лукрум), Курьянов Т.А. (Блэкшарк). Step 0 🔴 — компания/заявка ждут.",
+    "notes": "Поручение №3 от 09.09.2026 (Transfer request No.3 from 09.09.2026, прил. №1 к Агентскому договору №13-05/26 от 09.09.2026): Принципал ООО «Лукрум» (LLC Lukrum) → Агент ОсОО «Блэкшарк Трейд». Получатель: BR 39 SP. Z O.O (NIP 5821625152, Poland, 14-500 Braniewo, Zeromskiego 14). Bank Millenium SA, IBAN PL 49 1160 2202 0000 0002 5202 7650 (PLN), SWIFT BIGBPLPW (UL. STANISLAWA ZARYNA 2A, 02-593 WARSZAWA). Сумма платежа: 35 805,09 PLN / 8 307,31 EUR. Назначение: Faktura pro forma 5/09/2026 (oryginal), Kontrakt NR 01/2024 (02.01.2024). Курс конвертации 99,2525 (EUR→RUB, проверка: 8 307,31 × 99,2525 = 824 521,28 ✓) → 824 521,28₽. Комиссия агента 1,85% = 15 253,64₽ + 100 долл = 8 545,94₽, итого 23 799,58₽. Срок 2-3 банковских дня. Подписи: Щеглов Е.С. (Лукрум), Курьянов Т.А. (Блэкшарк). Step 0 🔴 — компания/заявка ждут. | Подписанное Приложение №1 (Поручение №3 от 09.09.2026, к Агентскому договору №13-05/26 от 09.09.2026) получено 10.09.2026 (📨 ООО Лукрум-Fininvest/ЭТБ, цветной скан 2 стр.): реквизиты совпадают с PDF-версией — Принципал ООО «Лукрум» → Агент ОсОО «Блэкшарк Трейд»; 35 805,09 PLN / 8 307,31 EUR, BR 39 SP. Z O.O (Bank Millenium SA, IBAN PL 49 1160 2202 0000 0002 5202 7650, SWIFT BIGBPLPW), Faktura pro forma 5/09/2026, Kontrakt NR 01/2024, курс 99,2525 → 824 521,28₽, комиссия агента 1,85% + 100 долл = 23 799,58₽. Подписи и печати обеих сторон на месте (Принципал — подпись + печать «Лукрум», Агент — подпись + печать «Блэкшарк Трейд»).",
     "calc": null
   },
   {
@@ -728,6 +728,25 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "Инвойс Itrix №75668 dd 09.09.2026 (Itrix Co., Ltd., 725 S Metro Building, 20th Floor, Sukhumvit Road, Khlong Tan Nuea Subdistrict, Watthana District, Bangkok, Thailand 10110; Siam Commercial Bank PCL, SWIFT SICOTHBK, A/C USD 468-000093-8-840 / EUR 468-000094-6-978 / CNY 468-000095-4-156; Bangkok Bank PCL, SWIFT BKKBTHBK, THB 855-0-88156-2 / USD 840-855-0029-403748-501 / EUR 978-855-0029-403755-501 / CNY 156-855-0029-403763-501). BILL TO / SHIP TO: Limited Liability Company «WTC» = ООО «ВТС» (117105, Москва, Новоданиловская наб. 4А, пом. 11/2/6). Sales Contract №20-09/01 dd 20/09/2025. 15 позиций: SSD HGST 480Gb SAS Ultrastar SS530 WUSTR1548ASS204 ×2 = 298,17; Cisco CP-7821-K9 ×36 = 2 887,15; Cisco CP-3905 ×80 = 4 030,50; Fluke LIQ-100 ×1 = 1 974,12; Fluke SFPOWERMETER 3327069 ×1 = 1 439,47; Hynix 32GB DDR4-2666 ECC REG ×2 = 462,69; Huawei STLZU2NVME7680 7.68TB NVMe (OceanStor Dorado 3000 V6) ×1 = 7 986,98; HP 805358-B21 64GB DDR4-2400 ×2 = 668,32; HP 809208-B21 128GB DDR4 ×2 = 1 490,88; PX05SRB192Y 1.92TB SSD ×2 = 904,80; ST900MP0146 900GB SAS ×2 = 637,48; HP 844283-001 400GB SAS SFF ×1 = 159,37; HP 873103-001 1.92TB SAS cMLC ×1 = 472,97; Intel X710-DA2 ×40 = 3 495,85; Kingston KSM32RS8/8HDR ×60 = 4 935,30. SUBTOTAL = TOTAL 31 844,05 USD (TAX 0, shipping 0, discount 0). = новая заявка ВТС → Itrix, в таблицах не было. Step 0 🔴 — компания/заявка ждут (по прецеденту Itrix-сделок ВТС, контракт 20-09/01: компания Q8, но bill-to в этом инвойсе = ООО «ВТС», ждём отдельную заявку/поручение).",
+    "calc": null
+  },
+  {
+    "row": 39,
+    "date": "2026-04-23",
+    "sum": 1356600,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Новый Свет",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
     "calc": null
   }
 ]
