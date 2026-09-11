@@ -668,7 +668,7 @@
     "vdx_rate": null,
     "received_usdt": 47252,
     "sent_usdt": 47181.99,
-    "notes": "Scream 10.09.2026: клиент VDX (аналогично заявкам 30/31 — туризм/оплаты для UK). Строка ⬜, компания Q8 (ТЕЗ). | Сводный IN 160 155,0 USDT на Рабочий 4 от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 (10.09.2026 11:42:21 UTC) — Scream 10.09.2026: покрывает заявки VDX 20 000,00 USD × 1,0045 + 100 = 20 190 + 50 850,00 × 1,0045 + 100 = 51 179 + 41 248,38 × 1,0045 + 100 = 41 534 + 47 010,96 × 1,003 + 100 = 47 252 = 160 155. received_usdt по строке = 47252 (заявка 47010.96 USD).",
+    "notes": "Scream 10.09.2026: клиент VDX (аналогично заявкам 30/31 — туризм/оплаты для UK). Строка ⬜, компания Q8 (ТЕЗ). | Сводный IN 160 155,0 USDT на Рабочий 4 от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 (10.09.2026 11:42:21 UTC) — Scream 10.09.2026: покрывает заявки VDX 20 000,00 USD × 1,0045 + 100 = 20 190 + 50 850,00 × 1,0045 + 100 = 51 179 + 41 248,38 × 1,0045 + 100 = 41 534 + 47 010,96 × 1,003 + 100 = 47 252 = 160 155. received_usdt по строке = 47252 (заявка 47010.96 USD). | BONBILL Payment Certificate 11.09.2026 14:16:17 (Тип 7 Q8, txid O2098294540753567744643): Q8 GROUP LIMITED → OKAR DIS TICARET LIMITED SIRKETI (TURKIYE VAKIFLAR BANKASI T.A.O., счёт TR230001500158048024789738). USD 47 010,96. Invoice 090926 DD 09092026 For Alum Number Plate. EXECUTED → 🟢 (цвет FF92D050).",
     "calc": "ТЕЗ"
   },
   {
@@ -810,7 +810,7 @@
     "sum": 10757.4,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": null,
     "costFormula": "10757.4 + 0.3% + 30 = 10819.67 USDT",
     "extra": null,
