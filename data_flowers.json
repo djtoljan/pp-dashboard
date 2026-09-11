@@ -626,5 +626,24 @@
     "sent_usdt": 16078,
     "notes": "Заявка Q8 (📨 «Заявки Компания Q8» 11.09.2026; DOCX «DSV AIR & SEA SAS 16000,00.docx» + скан PRO-FORMA INVOICE): платёж в пользу DSV AIR & SEA SAS (Diagonal 25 G No. 95 A-85, Piso 3, Torre 3), банк Citibank N.A (111 Wall Street, New York, NY 10043 USA), SWIFT CITIUS33, IBAN/счёт 30616439 / ABA 021000089; 32A Amount **USD 16 000,00**, 71A Details of Charges OUR; назначение «pro forma payment from June 16, 2026». PRO-FORMA INVOICE DSV Air & Sea SAS (NIT 900 618.834-4; CUSTOMER Q8 Group Limited, Company Number 80242882) dd 6/16/2026: Weight 2500, Rate $2.40 xKG, TOTAL AMOUNT $30 000,00 в скане ⚠️ (не сходится арифметически и с суммой заявки — в бланке платежа и имени файла 16 000,00; к оплате принята заявка 16 000,00 USD, расхождение уточнить у Scream). = заявка Q8 (компания видна) → Step 3 ⬜; расчёт Q8 проставлен: 16 000 + 0,3% + 30 = 16078 USDT. ⚠️ Клиент в документах не указан — требует подтверждения Scream. | 🔄 Перенесено из Main 11.09.2026 (исходная строка 61): Scream — «Цветы» → клиент = Цветы, таблица Цветов. | 🟢 Bobr IN 11.09.2026 09:53:12 UTC: 16 196,0 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4 — Scream 11.09.2026: «под заявку 16000» → received_usdt = 16 196 (txid 146b0d7d436667e2ce4378d1011ac707c40bb8fa43cff044510bfb8777ac7e8a, Q9 отправлен). Заявка 16 000 USD (DSV AIR & SEA SAS), расчёт 16 078 USDT — приход на 118 USDT больше (Scream не корректировал).",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 34,
+    "date": "2026-09-11",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "8721999.93 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "calc": null,
+    "notes": "📨 Отправка рублей (📨 Отправки рублей ПП. 11.09.2026, Scream): с Блэкшарк (Почтобанк, счёт 40807810100157518600) на ВДХ/VDX — **8 721 999,93 ₽**, цветы, **заявка 757**; ООО «ПРИОРИТЕТ МАРКЕТ» | Доки на вход: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 11.09.26 | sent_rubles_vdx = 8 721 999,93, exchange_to = VDX. ⚠️ Соответствующие входящие кредиты Приоритет Маркет (тело + агентское 2,5%) в Цветах пока не отражены: по предварительной сверке 2,5% даёт тело 8 509 268,22 + агентское 212 731,71 = 8 721 999,93 — подтвердить по документам, когда придут. Ждём VDX-таблицу для received_usdt."
   }
 ]
