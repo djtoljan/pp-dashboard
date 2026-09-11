@@ -1012,5 +1012,24 @@
     "sent_usdt": 4864.46,
     "notes": "Proforma Invoice Hong Kong Dongen Industrial Co., Limited №DEGLE2026090401 dd 04.09.2026 (📨 Молодежь 11.09.2026, файл «4820_USD_INVOICE_Hong_Kong_Dongen_Industrial_Co_,_Limited_2.pdf»): Buyer Q8 GROUP LIMITED (HK) ← Seller Hong Kong Dongen Industrial Co., Limited (FLAT/RM 917A BLK A 9/F New Mandarin Plaza, No 14 Science Museum Rd, Tsim Sha Tsui, Hong Kong; банк OCBC Bank (Hong Kong) Limited, счёт 802-681316-831, SWIFT WIHBHKHH / WIHBHKHHXXX, 161 Queen’s Road, Central, HK). Позиции: 02356PUC L1-L-NLSAS8TV5 8TB 7.2K RPM NL-SAS Disk Unit (3.5\") ×4 × $630 = $2 520; 02354CDM DAE62435U4EV5 SAS Disk Enclosure (4U, 24 slots) ×1 = $2 200; 04052252 HS-SAS-3-02 кабель 48G Mini SAS HD 3м ×2 × $50 = $100. ИТОГО 4 820,00 USD. = новая заявка (Тип 4): компания Q8 известна из инвойса → Step 3 ⬜; расчёт Q8 проставлен сразу: 4 820 + 0,3% + 30 = 4 864,46 USDT. ⚠️ клиент не указан (пришло в группе «Молодежь», buyer = Q8) — строка заведена в Main, требует подтверждения клиента у Scream. | Payment Order / реквизиты платежа (DOCX «PO 4820 USD Hong Kong Dongen Industrial Co., Limited.docx», 11.09.2026, 📨 Молодежь): Beneficiary Hong Kong Dongen Industrial Co., Limited (FLAT/RM 917A BLK A 9/F New Mandarin Plaza, No 14 Science Museum Rd, Tsim Sha Tsui, Hong Kong); Beneficiary bank OCBC Bank (Hong Kong) Limited (161 Queen’s Road, Central, HK); SWIFT/BIC WIHBHKHH / WIHBHKHHXXX; IBAN/Account 802-681316-831; Amount 4 820 USD. = реквизиты заявки строки 53 (совпадают с Proforma Invoice DEGLE2026090401). Новой строки нет, цвет ⬜ без изменений.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 54,
+    "date": "2026-09-11",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Стройтекинвест (Аренда КГ)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "9275000",
+    "exchange_to": "ОсОО «Аспан Капитал»",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "ПП №738 от 11.09.2026 ПРОВЕДЕНО 11.09.2026 (АО «РАЙФФАЙЗЕНБАНК» г. Москва, БИК 044525700; подпись Соловьев Дмитрий Александрович; УПНО 10445257000000001109202600013282): плательщик Представительство СТРОЙТЕКИНВЕСТ (ИНН 9909648483, счёт 40807810100000002093, Райффайзенбанк) → получатель ОсОО «Аспан Капитал» (ИНН 9909698364, КПП 668587001, АО БАНК НБС Г ИВАНОВО, БИК 044525949, счёт 40807810411000083609), 9 275 000,00₽. {VO60081} Пополнение брокерского счета ОсОО «Стройтекинвест» по договору b10/1125 от 28.11.25г., лиц. счет L-310-152-D-b10/1125. НДС не облагается. = рубли ушли получателю (sent_rubles_vdx), не обменнику (аналогично прецеденту ПП №702). Заявки нет — новая 🔵 строка (guard-before-create пройден, совпадений с инвойсами нет).",
+    "calc": null
   }
 ]
