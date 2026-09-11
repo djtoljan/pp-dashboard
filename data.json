@@ -753,7 +753,7 @@
     "sum": 41120.75,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ВТС",
     "costFormula": "41 120,75 / 0.858793738601 (FX Q8 11.09.2026: 1 USD = 0.858793738601 EUR) + 0,3% + 30 = 48055.63 USDT",
     "extra": null,
