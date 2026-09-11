@@ -607,5 +607,24 @@
     "sent_usdt": 60210,
     "notes": "Новая заявка компании Q8 на 60 000,00 USD (📨 FINIVEST AI 10.09.2026, файл EBF_CARGO_Invoice_60000_USD.pdf). Scream 10.09.2026 19:55: «Под заявку 60000 три транзакции» → received_usdt = 60 460 = три прихода USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) 10.09.2026: 7 060,0 (16:48:00 UTC, от TEV72g8QtFBb7MQpHBM6BookRwMKKFKQdA, txid 781a9d65273691dd6735dd0e1037ef77d1f96b9042e282b3d8c7a8ae203dcc3d) + 19 400,0 (16:50:30 UTC, от TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4, txid 183cba387406782a02a72eab08c70e371b0cbf068746860cc68b8c2461969cd4) + 34 000,0 (16:53:48 UTC, от TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM, txid 9053d913cf4af5566dfccbf8043e0954adf81a0c11ad2c0ac6ce49c8714baca9). Q9 по всем трём отправлен, леджер q9_sent=true. 🚩 Уточнение: коммерческий инвойс №2026-6502 на 60 000 — НЕ документ строки 1 (там BONBILL-сертификат 61 222 dd 01.09.2026, 🟢); номер 2026-6502 у EBF CARGO повторяется. | BONBILL Payment Certificate 11.09.2026 14:04:28 (Тип 7 Q8, txid O2098291567944138752725): Q8 GROUP LIMITED → EBF CARGO CIA LTDA (PRODUBANCO, счёт 02005153421). USD 60 000,00. Invoice 20266502 For Air Freight. EXECUTED → 🟢.",
     "calc": null
+  },
+  {
+    "row": 33,
+    "date": "2026-09-11",
+    "sum": 16000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Цветы",
+    "costFormula": "16000 + 0.3% + 30 = 16078 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 16078,
+    "notes": "Заявка Q8 (📨 «Заявки Компания Q8» 11.09.2026; DOCX «DSV AIR & SEA SAS 16000,00.docx» + скан PRO-FORMA INVOICE): платёж в пользу DSV AIR & SEA SAS (Diagonal 25 G No. 95 A-85, Piso 3, Torre 3), банк Citibank N.A (111 Wall Street, New York, NY 10043 USA), SWIFT CITIUS33, IBAN/счёт 30616439 / ABA 021000089; 32A Amount **USD 16 000,00**, 71A Details of Charges OUR; назначение «pro forma payment from June 16, 2026». PRO-FORMA INVOICE DSV Air & Sea SAS (NIT 900 618.834-4; CUSTOMER Q8 Group Limited, Company Number 80242882) dd 6/16/2026: Weight 2500, Rate $2.40 xKG, TOTAL AMOUNT $30 000,00 в скане ⚠️ (не сходится арифметически и с суммой заявки — в бланке платежа и имени файла 16 000,00; к оплате принята заявка 16 000,00 USD, расхождение уточнить у Scream). = заявка Q8 (компания видна) → Step 3 ⬜; расчёт Q8 проставлен: 16 000 + 0,3% + 30 = 16078 USDT. ⚠️ Клиент в документах не указан — требует подтверждения Scream. | 🔄 Перенесено из Main 11.09.2026 (исходная строка 61): Scream — «Цветы» → клиент = Цветы, таблица Цветов.",
+    "calc": "ТЕЗ"
   }
 ]
