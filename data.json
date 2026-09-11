@@ -974,5 +974,24 @@
     "sent_usdt": null,
     "notes": "INVOICE TRIUMPH INTERTRADE AG (Richtiplatz 5, CH-8304 Wallisellen) №**9211999179 dd 11.02.2026** (📨 ВТС-Fininvest t1715, 10.09.2026; письмо Наргизы: «Высылаю 7 инвойсов от TRIUMPH INTERTRADE AG для оплаты одним платежом 274 783,54EUR от Fininvest. И реквизиты TRIUMPH INTERTRADE AG. Не переводила инвойсы в PDF, чтобы удобнее было редактировать»), Original, VAT exempt export (Art. 146 EU RL 2006/112): Bill-to / Ship-to / Sold-to — FININVEST ULUSLARARASI TICARET ANONIM SIRKETI (Ataturk Mah., Ertugrul Gazi Sk., Metropol Istanbul C1 Blok No: 2 B Daire: 376, Atasehir/Istanbul, TÜRKİYE); B.L. 8052230484; Your Order «2nd_SL_runn_10.12» / Sales Order 123592419 dd 10.12.2025; Delivery 8052230484 dd 11.02.2026; Total Billing Quantity 4.152; Payment Terms «Up to 12.04.2026 without deduction»; EXW agreed warehouse (Ship From Obernai Cedex FR). EUR: Total Billing Net Value 21 040,30; VAT 0 % = 0,00; **TOTAL BILLING AMOUNT 21 040,30 EUR**. Позиции — sloggi men GO Natural Hipster C2P и др. Это **7-й, заключительный инвойс** пакета: 93 581,46 + 5 232,18 + 2 083,20 + 54 208,37 + 58 658,25 + 39 979,78 + 21 040,30 = **274 783,54 EUR** ✓ (один платёж ООО «МАЯК» → TRIUMPH INTERTRADE AG, UBS Switzerland AG, IBAN CH27 0483 5159 9309 9200 0, SWIFT CRESCHZZ80A). Клиент — **MAYAK LLC** (принципал по поручению, ген. директор Илизаров И.Б.). ⚠️ В письме Наргизы платёж назван «от Fininvest» — если клиент/плательщик должен быть FININVEST, поправить во всех 7 строках. Step 0 🔴.",
     "calc": null
+  },
+  {
+    "row": 52,
+    "date": "2026-07-31",
+    "sum": 36400,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Stiflex",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
