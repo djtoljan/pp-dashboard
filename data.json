@@ -1145,5 +1145,24 @@
     "sent_usdt": null,
     "notes": "Предварительная выписка АО АКИБ «Почтобанк» по счёту ОсОО «Блэкшарк Трейд» 40807810100157518600 за 11.09.2026 (📨 Платежи из Мира Привелегий, сформирована 11.09.2026 14:06 GMT+05:00): приход от ООО «ФАЛЬКОН ГРУПП» (ИНН 9718253967, счёт 40702810610001600413, БИК 044525974) {VO11100} Оплата по Контракту б/н от 11.09.2026 и Инвойсу KZ-000345 от 11.09.2026 г. за товар (автомобиль BMW X3) и Агентскому договору №08-09/26-1 от 08.09.2026 — 6151450.79₽ (ТЕЛО). Плюс агентское вознаграждение по Поручению №5 от 11.09.2026 (док. 404) {VO21100} — 67665.96₽. rubles_received = 6151450.79 / 67665.96. Заявки/поручения документом пока не приходили — 🔵 (приход без заявки); валютная сумма и получатель ждут. Привязка агентских к инвойсам сделана по порядку документов выписки (пор.№2 → KZ-000342, №3 → KZ-000343, №5 → KZ-000345; для KZ-000344 поручение/агентское не поступало) — требует подтверждения Scream. | 📨 Отправки рублей ПП. (11.09.2026): с Блэкшарк (Почтобанк, счёт 40807810100157518600) на ВДХ/VDX — 6219116.75₽, за автомобиль, заявка 751; ООО ФАЛЬКОН ГРУПП. Доки на вход: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\ФАЛЬКОН ГРУПП\\вход 11.09.26\\3. Сверка: тело 6151450.79 + агентское 67665.96 = 6219116.75 ✓. sent_rubles_vdx = 6219116.75, exchange_to = VDX. Ждём VDX-таблицу (курс/тез) для received_usdt.",
     "calc": null
+  },
+  {
+    "row": 61,
+    "date": "2026-09-10",
+    "sum": 71250,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Трак-Прайс",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "PROFORMA INVOICE YANGZHOU JINRUN IMPORT&EXPORT CO.,LTD (East of Xingyuan Second Road, Chengnan Industrial Concentration Zone, Baoying County, Yangzhou City, Jiangsu Province, China; тел. 0086-514-88991702; felix@jinrunauto.com) → Limited liability company TRAK-PRAIS (630027, г. Новосибирск, ул. Дунаевского, д. 16, оф. 4; контакт Иткумов Константин Викторович) (📨 Трак-Прайс/Fininvest 11.09.2026, файл «PI FOR TRAK-PRAIS 26091001.pdf»). PI No. **JR26091001M** dd 2026/09/10, контракт JR25062101M dd 2025/05/21, EXW JRCY FACTORY. Позиции: JR-JN-801 CABIN SHELL (VIN LJ11RVBFXR1908029) 1 × 6 500 RMB; JR-IZL10-101 DOOR ASSY LH7,RH7 (ISUZU NPR) 14 × 1 800 = 25 200; JR-IZL10-601 DOOR FRAME ASSY LH2,RH3 (LHD) 5 × 450 = 2 250; JR-IZL10W-201 FRONT PANEL ASSY (WIDE) 5 × 140 = 700; JR-JN-801 CABIN ASSY (VIN LJ11RVBFXR1908029) 1 × 28 000; JR-T5G-801 CABIN SHELL (HOWO C5) 1 × 8 600. SUB-TOTAL 27 шт = **71 250 RMB**. Банк: Industrial and Commercial Bank of China, Jiangsu Provincial Branch (Baoying County, Yangzhou City, Jiangsu Province, China); Beneficiary Yangzhou Jinrun Import And Export Co., LTD; A/C (RMB) 1108200109100080954; SWIFT ICBKCNBJJSP; CNAPS 102312220018. = новая сделка Трак-Прайс (Тип 1 проформа) → Step 0 🔴; поручение/компания ждут. guard find-merge-on-invoice пройден (строк для слияния нет). | КОНТРАКТ № JR25062101M от 21 июня 2025 г. (PDF «Контракт_кабины_сборные_постоплата_180_дней_от_21_06_25.pdf», 📨 Трак-Прайс/Fininvest 11.09.2026): Продавец «Yangzhou Jinrun Import & Export CO., LTD» (East of Xingyuan Second Road, Chengnan Industrial Concentration Zone, Baoying county, Yangzhou city, Jiangsu province, China; директор Yan Min) — Покупатель ООО «Трак-прайс» (директор Иткумов Константин Викторович). Ст.1: товар на условиях EXW (Ex Works), завод Продавца, Чунцин; количество/ассортимент/цены — в подписанных инвойсах. Ст.2: договор действует до 31.12.2028 (по расчётам — до исполнения обязательств). Ст.3: поставка в РФ в течение 20 дней с момента подписания инвойса; в течение 2 дней после отгрузки Продавец направляет коммерческий инвойс, упаковочный лист, релиз коносамента, сертификат происхождения (по запросу). Ст.4: общая стоимость не определена, цены в RMB. Ст.5: оплата в китайских юанях не позднее **180 дней с момента получения товара** (постоплата); расходы/комиссии банка Продавца — за счёт Продавца, банка Покупателя и банков-корреспондентов — за счёт Покупателя; **оплата производится в пользу третьего лица с участием агента**. Реквизиты Продавца: ICBC Jiangsu Provincial Branch (Baoying County, Yangzhou City, Jiangsu Province, China), бенефициар YANGZHOU JINRUN IMPORT&EXPORT CO., LTD, счёт 1108200109100080954, SWIFT ICBKCNBJJSP, CNAPS 102312220018. ⚠️ В контракте дата 21.06.2025, а в PI JR26091001M указан контракт JR25062101M dd 2025/05/21 — расхождение в дате, уточнить. = контракт-основание по сделке (PI JR26091001M, 71 250 RMB).",
+    "calc": null
   }
 ]
