@@ -926,16 +926,16 @@
     "company": "UK",
     "color": "FFFFFF00",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "20000.00 USD × 1,0045 + 100 = 20190 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "PAYMENT ORDER DEBIT ADVICE (📨 Платежи VDX 11.09.2026, файл «Frigate Aero Tours 20k usd.pdf»): Remitter TRAVELCOM LIMITED (IBAN GB72TONI04282200006501) → Beneficiary Frigate Aero Tours Co.LTD (счёт 1660312291, банк BIC BIRDJPJZ), сумма 20 000,00 USD («twenty thousand US dollars»), назначение «INV.90001335 dd.24.08.2026», Execution Date 09/11/2026. = INITIATED (дебетовый совет/подвешенная ПП) → статус 🟡. Компания UK, клиент VDX (по аналогии со строками 29–31 — те же tourism-платежи TRAVELCOM/TONIO). ⚠️ Строка создана по документу без заявки; финансирование USDT (возможно, OUT 20 190 USDT от 11.09) — уточнить.",
-    "calc": null
+    "received_usdt": 20190,
+    "sent_usdt": 20190,
+    "notes": "PAYMENT ORDER DEBIT ADVICE (📨 Платежи VDX 11.09.2026, файл «Frigate Aero Tours 20k usd.pdf»): Remitter TRAVELCOM LIMITED (IBAN GB72TONI04282200006501) → Beneficiary Frigate Aero Tours Co.LTD (счёт 1660312291, банк BIC BIRDJPJZ), сумма 20 000,00 USD («twenty thousand US dollars»), назначение «INV.90001335 dd.24.08.2026», Execution Date 09/11/2026. = INITIATED (дебетовый совет/подвешенная ПП) → статус 🟡. Компания UK, клиент VDX (по аналогии со строками 29–31 — те же tourism-платежи TRAVELCOM/TONIO). ⚠️ Строка создана по документу без заявки; финансирование USDT (возможно, OUT 20 190 USDT от 11.09) — уточнить. | 🟢 ВХОД 11.09.2026 150 197 USDT — Толик (возмещение VDX): сводный приход 09:12:18 UTC (txid 6c95f098a515…, Bobr) покрывает заявки VDX row 49 (20 190) + row 50 (130 007,41). received_usdt заполнен по этому приходу.",
+    "calc": "ТЕЗ"
   },
   {
     "row": 50,
@@ -945,16 +945,16 @@
     "company": "UK",
     "color": "FFFFFF00",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "129325.45 USD × 1,0045 + 100 = 130007.41 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "PAYMENT ORDER DEBIT ADVICE (📨 Платежи VDX 11.09.2026, файл «Bunny Holdings 129325.45 usd.pdf»): Remitter TRAVELCOM LIMITED (IBAN GB72TONI04282200006501) → Beneficiary BUNNY HOLDINGS (BVI) LTD (счёт 7730000284590, банк BIC MALBMVMV), сумма 129 325,45 USD («one hundred twenty-nine thousand three hundred twenty-five US dollars forty-five cents»), назначение «inv. 347289314 dd 10.09.2026», Execution Date 09/11/2026. = INITIATED (дебетовый совет/подвешенная ПП) → статус 🟡. Компания UK, клиент VDX. Сверка с USDT: выплата на кошелёк VDX 130 007,41 USDT (11.09 11:41:57 UTC, txid 261462e6fefb59a4948daa1742fd584dbfc364e0482094d9031633793a1b9dab) = 129 325,45 + 0,45% + 100 ✓ — это заявка 129 325,45 (Scream 11.09.2026: «под заявки VDX 20000 и 129 325,45»).",
-    "calc": null
+    "received_usdt": 130007.41,
+    "sent_usdt": 130007.41,
+    "notes": "PAYMENT ORDER DEBIT ADVICE (📨 Платежи VDX 11.09.2026, файл «Bunny Holdings 129325.45 usd.pdf»): Remitter TRAVELCOM LIMITED (IBAN GB72TONI04282200006501) → Beneficiary BUNNY HOLDINGS (BVI) LTD (счёт 7730000284590, банк BIC MALBMVMV), сумма 129 325,45 USD («one hundred twenty-nine thousand three hundred twenty-five US dollars forty-five cents»), назначение «inv. 347289314 dd 10.09.2026», Execution Date 09/11/2026. = INITIATED (дебетовый совет/подвешенная ПП) → статус 🟡. Компания UK, клиент VDX. Сверка с USDT: выплата на кошелёк VDX 130 007,41 USDT (11.09 11:41:57 UTC, txid 261462e6fefb59a4948daa1742fd584dbfc364e0482094d9031633793a1b9dab) = 129 325,45 + 0,45% + 100 ✓ — это заявка 129 325,45 (Scream 11.09.2026: «под заявки VDX 20000 и 129 325,45»). | 🟢 ВХОД 11.09.2026 150 197 USDT — Толик (возмещение VDX): сводный приход 09:12:18 UTC (txid 6c95f098a515…, Bobr) покрывает заявки VDX row 49 (20 190) + row 50 (130 007,41). received_usdt заполнен по этому приходу.",
+    "calc": "ТЕЗ"
   },
   {
     "row": 51,
