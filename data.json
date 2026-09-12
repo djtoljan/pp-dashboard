@@ -484,40 +484,40 @@
   {
     "row": 26,
     "date": "2026-09-09",
-    "sum": 20055.79,
+    "sum": 4177.5,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFF0000",
+    "color": "FF92D050",
     "clientName": "ВТС",
-    "costFormula": "20055.79 + 0.3% + 30 = 20145.96 USDT",
-    "extra": null,
-    "rubles_received": "1736544.62 / 43413.20",
-    "sent_rubles_vdx": "1779957.82",
-    "exchange_to": "VDX",
-    "vdx_rate": 86.45,
-    "received_usdt": "20568.86",
-    "sent_usdt": 20145.96,
-    "calc": "ТЕЗ",
-    "notes": "Поручение №69582-1 от 07.09.2026 (Transfer Request No 69582-1, Приложение №2 к договору на оказание посреднических услуг №20102025TК/2 от 20.10.2025): Принципал ООО «ВТС» (Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (КР, Курьянов А.А.). Платёж 20 055,79 USD, получатель PT SINGA SUPPLIER INTERNATIONAL (Jalan Abasan Gang Padi No 1, Tibubeneng, Kuta Utara, Badung, Bali 80361; KCP Kerobokan Bank Clearing, SWIFT BMRIIDJA, a/c 1450017070406 USD, bank clearing code 008-3292, адрес Jalan Raya Kerobokan No 104 Kuta Utara 80361). Инвойс №18S13-04-26 dd 13.04.2026, Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. Курс 86,5857 (НЕ vdx_rate), сумма 1 736 544,62₽. Комиссия агента 2,5%. Срок 5-10 банк. дней. | Выписка ВТБ БиТрейд 07.09.2026: ПП №4174 от 07.09.2026 (ООО «ВТС», счёт ВТБ 40702810700250001265, БИК 044525411 → ООО «БиТрейд Кей Джи» ВТБ 40807810525640000008): 1 736 544,62₽ = тело row ✓ (20 055,79 USD × 86,5857). Вне счёта Сбер — пришло со счёта ВТС/ВТБ. rubles_received = 1736544.62. Агентское (2,5% = 501,39 USD) — ждём отдельным ПП. Step 0 🔴 — компания/заявка по умолчанию (ВТС/возможно Q8 ТЕЗ по прецеденту), ждём агентское ПП и заявку на отправку на VDX. | ПП №4175 от 07.09.2026 ИСПОЛНЕН 07.09.2026 в 14:24:46 (Филиал Центральный Банка ВТБ): ООО «ВТС» (счёт ВТБ 40702810700250001265) → ООО «БиТрейд Кей Джи» (ВТБ 40807810525640000008), 43 413,20₽ {VO21100} Оплата услуг по Договору на посреднические услуги 20102025TК/2 от 20.10.25, поручение 69582-1 от 07.09.2026, инвойс услуг 69582-1 от 07.09.2026 = агентское row 102 ✓ (2,5% от 20 055,79 = 501,39 USD @ 86,5857 = 43 413,20). rubles_received = 1736544.62 / 43413.20. | 📨 Scream/C 07.09: «Первый платёж 20 055,79 USD от ВТС — оплата по контракту Singa. Оплата поставщику видимо от Q8.» → компания Q8 (ТЕЗ). ⬜ Step 3. Ждём заявку Q8 + отправку на VDX. | Проформа-инвойс №18S13-04-26 dd 13.04.2026 (PT SINGA SUPPLIER INTERNATIONAL, Jalan Abasan Gang Padi No 1 Tibubeneng Kuta Utara Badung Bali 80361; PDF от ВТС-Fininvest 07.09): электронные компоненты (ADG406BPZ 100, MAX881REUB+ 500, CY23EP09ZXI-1H 200, CG2H40045F 5, CGH40010F 17 и др.), Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. BILL/SHIP TO: ООО «ВТС» (WTC, 117105 Москва, Новоданиловская наб. 4А / Варшавское ш., 9). TOTAL 20 055,79 USD = 1 736 544,62 RUR (курс 86,5857 ✓). Bank: PT BANK MANDIRI (PERSERO) Tbk, KCP Kerobokan, SWIFT BMRIIDJA, a/c 1450017070406 USD, clearing 008-3292, Jalan Raya Kerobokan No.104 Kuta Utara 80361. = совпадает с телом row 102 ✓, компания Q8 (Scream). ⬜ Step 3, ждём заявку Q8 и отправку на VDX. | 📨 Отправки рублей ПП 07.09.2026: с БиТрейд (ВТБ) на ВиДиИкс, 1 779 957,82₽ — комплектующие, заявка 118 от 07.09.2026, ООО ВТС. Доки: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БиТрейдКейДжи\\\\ВТС\\\\вход 07.09.26_2. Сумма = тело 1 736 544,62 + агентское 43 413,20 (row 102, SINGA 69582-1) = 1 779 957,82 ✓ точное совпадение. sent_rubles_vdx = 1779957.82, exchange_to = VDX. Ждём VDX-таблицу (курс/тез) для received_usdt. | ПП №93 от 07.09.2026 ИСПОЛНЕН 07.09.2026 в 17:52:12 (non-resident order, Филиал Центральный Банка ВТБ): ОсОО «БиТрейд Кей Джи» (сч. 40807810525640000008) → ВиДиИкс Сервисез - ФЗКО (ПСБ г. Ярославль, сч. 40807810000000015414), 1 779 957,82₽ {VO60081} Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.118 от 07.09.2026г. за комплектующие, НДС не облагается. Подпись: Курьянов А.А. = отправка row 102 на VDX ✓. | VDX Rate Table 08.09 (Scream): курс 86.45 → 20568.86 USDT. | Проформа-инвойс THJ(HK) Technology Limited (файл THJ260305011-GR.xls, 📨 Заявки Компания Q8, 10.09.2026; лист HH90165): P.I NO. THJ260305011, P.O NO. CONT.THJ-IN-12.23, Payment Terms TT, гарантия 60 дней, контакт Amy Ma (amy.ma@thjelec.com), ATTN Kirill; SHIP TO / BILL TO: Q8 GROUP LIMITED (ATTN RIZWAN FAJAR YAHYA) — 28 позиций электронных компонентов (ADG406BPZ ×100, MAX881REUB+ ×500, CY23EP09ZXI-1H ×200, CG2H40045F ×5, CGH40010F ×17, AD9851BRSZ, LMF750-20B27, PAH300S24-12, TQP369185, HMC253AQS24E, UCC27517ADBVR и др.); банковский сбор 30,00; TOTAL(USD) 10 757,40. Банк: China Construction Bank (Asia) Corporation Limited, SWIFT CCBQHKAXXXX, Beneficiary THJ(HK)TECHNOLOGY LIMITED, счёт 8462 1028 6032 (bank code 009, branch 846). 🚨 Набор компонентов = как в проформе PT SINGA №18S13-04-26 (row 23, 20 055,79 USD: ADG406BPZ 100, MAX881REUB+ 500, CY23EP09ZXI-1H 200, CG2H40045F 5, CGH40010F 17), но сумма меньше (10 757,40 против 20 055,79) — поставщик THJ(HK), вероятно, часть заказа/подтверждение цены. Уточнить у Scream: это отдельная сделка Q8 → THJ (нужна ли отдельная строка) или поставщицкая проформа к row 23."
-  },
-  {
-    "row": 27,
-    "date": "2026-09-09",
-    "sum": 4147.5,
-    "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "ВТС",
-    "costFormula": null,
+    "costFormula": "4177.5 + 0.3% + 30 = 4220.03 USDT",
     "extra": null,
     "rubles_received": "359114.19 / 8978.07",
     "sent_rubles_vdx": "368092.26",
     "exchange_to": "VDX",
     "vdx_rate": 86.45,
     "received_usdt": "4253.61",
-    "sent_usdt": null,
-    "calc": null,
-    "notes": "Поручение №66496 от 07.09.2026 (Transfer Request No 66496, Приложение №2 к договору на оказание посреднических услуг №20102025TК/2 от 20.10.2025): Принципал ООО «ВТС» (Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (КР, Курьянов А.А.). Платёж 4 147,50 USD, получатель PT SINGA SUPPLIER INTERNATIONAL (Jalan Abasan Gang Padi No 1, Tibubeneng, Kuta Utara, Badung, Bali 80361; KCP Kerobokan Bank Clearing, SWIFT BMRIIDJA, a/c 1450017070406 USD, clearing 008-3292, Jalan Raya Kerobokan No 104). Инвойс №17S02-03-26 dd 02.03.2026, Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. Курс 86,5857 (НЕ vdx_rate), сумма 359 114,19₽. Комиссия агента 2,5%. Срок 5-10 банк. дней. | Выписка ВТБ БиТрейд 07.09.2026: ПП №4179 от 07.09.2026 (ООО «ВТС», счёт ВТБ 40702810700250001265 → БиТрейд Кей Джи ВТБ 40807810525640000008): 359 114,19₽ = тело row ✓ (4 147,50 USD × 86,5857). rubles_received = 359114.19. | ПП №4177 от 07.09.2026: 8 978,07₽ = агентское row ✓ (2,5% от 4 147,50 = 103,69 USD @ 86,5857 = 8 978,07). rubles_received = 359114.19 / 8978.07. Step 0 🔴 — компания предположительно Q8 (оплата поставщику от Q8, паттерн row 102), ждём заявку/подтверждение. Агентское 2,5% отмечено. | Проформа-инвойс №17S02-03-26 dd 02.03.2026 (PT SINGA SUPPLIER INTERNATIONAL; PDF от ВТС-Fininvest 07.09): электронные компоненты (CGH40010F, LMF750-20B27, AD9851BRSZ, CGH40006S, ROS-2400-1019+, AD9910BSVZ, LT1121AIS8-3.3 и др.), Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. BILL/SHIP TO: ООО «ВТС» (WTC, 117105 Москва, Новоданиловская наб. 4А). TOTAL 4 147,50 USD = 359 114,19 RUR (курс 86,5857 ✓). Bank: PT BANK MANDIRI (PERSERO) Tbk KCP Kerobokan, BMRIIDJA, a/c 1450017070406 USD, clearing 008-3292. = совпадает с телом row 103 ✓. Ждём заявку/компанию (вероятно Q8 как row 102) → ⬜ Step 3. | Инвойс услуг БиТрейд №66496 от 07.09.2026 (ОсОО «БиТрейд Кей Джи», ИНН/КПП 9909705572/772887001, дог. 20102025TК/2 от 20.10.2025): посреднические услуги по проведению расчётов с иностранным поставщиком — 103,69 USD @ курс 86,5857 = 8 978,07₽ ✓ (2,5% от 4 147,50 = 103,69 ✓, совпадает с агентским, ПП №4177). Покупатель ООО «ВТС» (117105 Москва, Варшавское ш. 9 стр.1, ИНН 7735171132). | 📨 Отправки рублей ПП 07.09.2026: с БиТрейд (ВТБ) на ВиДиИкс, 368 092,26₽ — комплектующие, заявка 119 от 07.09.2026, ООО ВТС. Доки: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БиТрейдКейДжи\\\\ВТС\\\\вход 07.09.26_3. Сумма = тело 359 114,19 + агентское 8 978,07 (row 103, SINGA 66496) = 368 092,26 ✓ точное совпадение. sent_rubles_vdx = 368092.26, exchange_to = VDX. Ждём VDX-таблицу (курс/тез) для received_usdt. | ПП №94 от 07.09.2026 ИСПОЛНЕН 07.09.2026 в 18:03:53 (non-resident order, Филиал Центральный Банка ВТБ): ОсОО «БиТрейд Кей Джи» (сч. 40807810525640000008) → ВиДиИкс Сервисез - ФЗКО (ПСБ г. Ярославль, сч. 40807810000000015414), 368 092,26₽ {VO60081} Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.119 от 07.09.2026г. за комплектующие, НДС не облагается. Подпись: Курьянов А.А. = отправка row 103 на VDX ✓. | ДТ (ГТД) №10131010/080326/5066199 от 09.03.2026 (декларант Буденная О.А., RU03): импорт компонентов PT SINGA SUPPLIER INTERNATIONAL → ООО «ВТС» (ИНН 7735171132), инвойс 17S02-03-26 dd 02.03.2026, товар 8504408300, стоимость 4147.50 USD (совпадает с row). Подтверждает таможенное оформление сделки. | VDX Rate Table 08.09 (Scream): курс 86.45 → 4253.61 USDT. | Проформа-инвойс THJ(HK) Technology Limited (файл THJ251226010-GR.xls, 📨 Заявки Компания Q8, 10.09.2026; лист HH90165): P.O NO. CONT.THJ-IN-12.23, P.I NO. THJ251226010, Payment Terms TT, гарантия 60 дней, контакт Amy Ma (amy.ma@thjelec.com); SHIP TO / BILL TO: Q8 GROUP LIMITED (ATTN RIZWAN FAJAR YAHYA; ATTN Kirill). Позиции (электронные компоненты): CGH40010F ×6 @92.05; LMF750-20B27 ×1 @90.10; AD8040ARUZ ×6 @1.72; AD8346ARUZ ×6 @2.30; AD9851BRSZ ×6 @9.00; CGH40006S ×6 @58.59; CGH40010F ×17 @92.05; ROS-2400-1019+ ×25 @34.70; ROS-2800-719R+ ×5 @51.85; AD9851BRSZ ×10 @8.45; LT1121AIS8-3.3#PBF ×25 @2.00; X4C09F1-30S ×30 @5.02; AD9910BSVZ ×2 @49.37. SUBTOTAL 4 147,50 + Bank Charge 30,00 = TOTAL 4 177,50 (в файле подпись «TOTAL(RMB)», по значениям — USD). Банк: China Construction Bank (Asia) Corporation Limited, SWIFT CCBQHKAXXXX, Beneficiary THJ(HK)TECHNOLOGY LIMITED, счёт 8462 1028 6032. 🚨 ТОТ ЖЕ ТОВАР, что в проформе PT SINGA 17S02-03-26 (4 147,50 USD): список компонентов и суммы совпадают 1:1, разница только банковский сбор 30 USD (4 147,50 + 30 = 4 177,50). Уточнить у Scream: THJ — отдельная сделка Q8 → THJ (тогда создаётся отдельная строка) или тот же товар/поставщик, и строка 24 остаётся как есть."
+    "sent_usdt": 4220.03,
+    "calc": "ТЕЗ",
+    "notes": "Поручение №69582-1 от 07.09.2026 (Transfer Request No 69582-1, Приложение №2 к договору на оказание посреднических услуг №20102025TК/2 от 20.10.2025): Принципал ООО «ВТС» (Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (КР, Курьянов А.А.). Платёж 20 055,79 USD, получатель PT SINGA SUPPLIER INTERNATIONAL (Jalan Abasan Gang Padi No 1, Tibubeneng, Kuta Utara, Badung, Bali 80361; KCP Kerobokan Bank Clearing, SWIFT BMRIIDJA, a/c 1450017070406 USD, bank clearing code 008-3292, адрес Jalan Raya Kerobokan No 104 Kuta Utara 80361). Инвойс №18S13-04-26 dd 13.04.2026, Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. Курс 86,5857 (НЕ vdx_rate), сумма 1 736 544,62₽. Комиссия агента 2,5%. Срок 5-10 банк. дней. | Выписка ВТБ БиТрейд 07.09.2026: ПП №4174 от 07.09.2026 (ООО «ВТС», счёт ВТБ 40702810700250001265, БИК 044525411 → ООО «БиТрейд Кей Джи» ВТБ 40807810525640000008): 1 736 544,62₽ = тело row ✓ (20 055,79 USD × 86,5857). Вне счёта Сбер — пришло со счёта ВТС/ВТБ. rubles_received = 1736544.62. Агентское (2,5% = 501,39 USD) — ждём отдельным ПП. Step 0 🔴 — компания/заявка по умолчанию (ВТС/возможно Q8 ТЕЗ по прецеденту), ждём агентское ПП и заявку на отправку на VDX. | ПП №4175 от 07.09.2026 ИСПОЛНЕН 07.09.2026 в 14:24:46 (Филиал Центральный Банка ВТБ): ООО «ВТС» (счёт ВТБ 40702810700250001265) → ООО «БиТрейд Кей Джи» (ВТБ 40807810525640000008), 43 413,20₽ {VO21100} Оплата услуг по Договору на посреднические услуги 20102025TК/2 от 20.10.25, поручение 69582-1 от 07.09.2026, инвойс услуг 69582-1 от 07.09.2026 = агентское row 102 ✓ (2,5% от 20 055,79 = 501,39 USD @ 86,5857 = 43 413,20). rubles_received = 1736544.62 / 43413.20. | 📨 Scream/C 07.09: «Первый платёж 20 055,79 USD от ВТС — оплата по контракту Singa. Оплата поставщику видимо от Q8.» → компания Q8 (ТЕЗ). ⬜ Step 3. Ждём заявку Q8 + отправку на VDX. | Проформа-инвойс №18S13-04-26 dd 13.04.2026 (PT SINGA SUPPLIER INTERNATIONAL, Jalan Abasan Gang Padi No 1 Tibubeneng Kuta Utara Badung Bali 80361; PDF от ВТС-Fininvest 07.09): электронные компоненты (ADG406BPZ 100, MAX881REUB+ 500, CY23EP09ZXI-1H 200, CG2H40045F 5, CGH40010F 17 и др.), Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. BILL/SHIP TO: ООО «ВТС» (WTC, 117105 Москва, Новоданиловская наб. 4А / Варшавское ш., 9). TOTAL 20 055,79 USD = 1 736 544,62 RUR (курс 86,5857 ✓). Bank: PT BANK MANDIRI (PERSERO) Tbk, KCP Kerobokan, SWIFT BMRIIDJA, a/c 1450017070406 USD, clearing 008-3292, Jalan Raya Kerobokan No.104 Kuta Utara 80361. = совпадает с телом row 102 ✓, компания Q8 (Scream). ⬜ Step 3, ждём заявку Q8 и отправку на VDX. | 📨 Отправки рублей ПП 07.09.2026: с БиТрейд (ВТБ) на ВиДиИкс, 1 779 957,82₽ — комплектующие, заявка 118 от 07.09.2026, ООО ВТС. Доки: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БиТрейдКейДжи\\\\ВТС\\\\вход 07.09.26_2. Сумма = тело 1 736 544,62 + агентское 43 413,20 (row 102, SINGA 69582-1) = 1 779 957,82 ✓ точное совпадение. sent_rubles_vdx = 1779957.82, exchange_to = VDX. Ждём VDX-таблицу (курс/тез) для received_usdt. | ПП №93 от 07.09.2026 ИСПОЛНЕН 07.09.2026 в 17:52:12 (non-resident order, Филиал Центральный Банка ВТБ): ОсОО «БиТрейд Кей Джи» (сч. 40807810525640000008) → ВиДиИкс Сервисез - ФЗКО (ПСБ г. Ярославль, сч. 40807810000000015414), 1 779 957,82₽ {VO60081} Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.118 от 07.09.2026г. за комплектующие, НДС не облагается. Подпись: Курьянов А.А. = отправка row 102 на VDX ✓. | VDX Rate Table 08.09 (Scream): курс 86.45 → 20568.86 USDT. | Проформа-инвойс THJ(HK) Technology Limited (файл THJ260305011-GR.xls, 📨 Заявки Компания Q8, 10.09.2026; лист HH90165): P.I NO. THJ260305011, P.O NO. CONT.THJ-IN-12.23, Payment Terms TT, гарантия 60 дней, контакт Amy Ma (amy.ma@thjelec.com), ATTN Kirill; SHIP TO / BILL TO: Q8 GROUP LIMITED (ATTN RIZWAN FAJAR YAHYA) — 28 позиций электронных компонентов (ADG406BPZ ×100, MAX881REUB+ ×500, CY23EP09ZXI-1H ×200, CG2H40045F ×5, CGH40010F ×17, AD9851BRSZ, LMF750-20B27, PAH300S24-12, TQP369185, HMC253AQS24E, UCC27517ADBVR и др.); банковский сбор 30,00; TOTAL(USD) 10 757,40. Банк: China Construction Bank (Asia) Corporation Limited, SWIFT CCBQHKAXXXX, Beneficiary THJ(HK)TECHNOLOGY LIMITED, счёт 8462 1028 6032 (bank code 009, branch 846). 🚨 Набор компонентов = как в проформе PT SINGA №18S13-04-26 (row 23, 20 055,79 USD: ADG406BPZ 100, MAX881REUB+ 500, CY23EP09ZXI-1H 200, CG2H40045F 5, CGH40010F 17), но сумма меньше (10 757,40 против 20 055,79) — поставщик THJ(HK), вероятно, часть заказа/подтверждение цены. Уточнить у Scream: это отдельная сделка Q8 → THJ (нужна ли отдельная строка) или поставщицкая проформа к row 23. | 🚫 ДУБЛЬ-МЕРЖ 12.09.2026: строка 43 (Payment Order Q8 → THJ(HK), КОРРЕКТНАЯ сумма сделки 4 177,50 USD = THJ251226010, BONBILL EXECUTED 11.09.2026 14:14:07 txid O2098293994583883776337) признана ТОЙ ЖЕ сделкой (Scream 12.09.2026) → строка 43 удалена, объединена с этой. | ✅ 12.09.2026 (Scream): КОРРЕКТНАЯ сумма сделки 4 177,50 USD (= PT SINGA 4 147,50 + банк. сбор 30,00 = THJ(HK) проформа THJ251226010). Q8 → THJ(HK) Technology Limited, BONBILL EXECUTED 11.09.2026 14:14:07 (txid O2098293994583883776337). Расчёт Q8: 4177.5 + 0.3% + 30 = 4220.03 USDT. Строка переведена 🟢. | 🔧 12.09.2026 (Scream): рублёвая составляющая ИСПРАВЛЕНА — перепутана со строкой 27. Теперь: rubles_received 359114.19 / 8978.07, sent_rubles_vdx 368092.26 (НЕ 1779957.82), vdx_rate 86.45, received_usdt 4253.61. Рубли 1736544.62 / 43413.20 / 1779957.82 → перенесены на строку 27 (PT SINGA 20055.79 USD)."
+  },
+  {
+    "row": 27,
+    "date": "2026-09-09",
+    "sum": 10757.4,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FF92D050",
+    "clientName": "ВТС",
+    "costFormula": "10757.4 + 0.3% + 30 = 10819.67 USDT",
+    "extra": null,
+    "rubles_received": "1736544.62 / 43413.20",
+    "sent_rubles_vdx": "1779957.82",
+    "exchange_to": "VDX",
+    "vdx_rate": 86.45,
+    "received_usdt": "20568.86",
+    "sent_usdt": 10819.67,
+    "calc": "ТЕЗ",
+    "notes": "Поручение №66496 от 07.09.2026 (Transfer Request No 66496, Приложение №2 к договору на оказание посреднических услуг №20102025TК/2 от 20.10.2025): Принципал ООО «ВТС» (Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (КР, Курьянов А.А.). Платёж 4 147,50 USD, получатель PT SINGA SUPPLIER INTERNATIONAL (Jalan Abasan Gang Padi No 1, Tibubeneng, Kuta Utara, Badung, Bali 80361; KCP Kerobokan Bank Clearing, SWIFT BMRIIDJA, a/c 1450017070406 USD, clearing 008-3292, Jalan Raya Kerobokan No 104). Инвойс №17S02-03-26 dd 02.03.2026, Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. Курс 86,5857 (НЕ vdx_rate), сумма 359 114,19₽. Комиссия агента 2,5%. Срок 5-10 банк. дней. | Выписка ВТБ БиТрейд 07.09.2026: ПП №4179 от 07.09.2026 (ООО «ВТС», счёт ВТБ 40702810700250001265 → БиТрейд Кей Джи ВТБ 40807810525640000008): 359 114,19₽ = тело row ✓ (4 147,50 USD × 86,5857). rubles_received = 359114.19. | ПП №4177 от 07.09.2026: 8 978,07₽ = агентское row ✓ (2,5% от 4 147,50 = 103,69 USD @ 86,5857 = 8 978,07). rubles_received = 359114.19 / 8978.07. Step 0 🔴 — компания предположительно Q8 (оплата поставщику от Q8, паттерн row 102), ждём заявку/подтверждение. Агентское 2,5% отмечено. | Проформа-инвойс №17S02-03-26 dd 02.03.2026 (PT SINGA SUPPLIER INTERNATIONAL; PDF от ВТС-Fininvest 07.09): электронные компоненты (CGH40010F, LMF750-20B27, AD9851BRSZ, CGH40006S, ROS-2400-1019+, AD9910BSVZ, LT1121AIS8-3.3 и др.), Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. BILL/SHIP TO: ООО «ВТС» (WTC, 117105 Москва, Новоданиловская наб. 4А). TOTAL 4 147,50 USD = 359 114,19 RUR (курс 86,5857 ✓). Bank: PT BANK MANDIRI (PERSERO) Tbk KCP Kerobokan, BMRIIDJA, a/c 1450017070406 USD, clearing 008-3292. = совпадает с телом row 103 ✓. Ждём заявку/компанию (вероятно Q8 как row 102) → ⬜ Step 3. | Инвойс услуг БиТрейд №66496 от 07.09.2026 (ОсОО «БиТрейд Кей Джи», ИНН/КПП 9909705572/772887001, дог. 20102025TК/2 от 20.10.2025): посреднические услуги по проведению расчётов с иностранным поставщиком — 103,69 USD @ курс 86,5857 = 8 978,07₽ ✓ (2,5% от 4 147,50 = 103,69 ✓, совпадает с агентским, ПП №4177). Покупатель ООО «ВТС» (117105 Москва, Варшавское ш. 9 стр.1, ИНН 7735171132). | 📨 Отправки рублей ПП 07.09.2026: с БиТрейд (ВТБ) на ВиДиИкс, 368 092,26₽ — комплектующие, заявка 119 от 07.09.2026, ООО ВТС. Доки: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БиТрейдКейДжи\\\\ВТС\\\\вход 07.09.26_3. Сумма = тело 359 114,19 + агентское 8 978,07 (row 103, SINGA 66496) = 368 092,26 ✓ точное совпадение. sent_rubles_vdx = 368092.26, exchange_to = VDX. Ждём VDX-таблицу (курс/тез) для received_usdt. | ПП №94 от 07.09.2026 ИСПОЛНЕН 07.09.2026 в 18:03:53 (non-resident order, Филиал Центральный Банка ВТБ): ОсОО «БиТрейд Кей Джи» (сч. 40807810525640000008) → ВиДиИкс Сервисез - ФЗКО (ПСБ г. Ярославль, сч. 40807810000000015414), 368 092,26₽ {VO60081} Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.119 от 07.09.2026г. за комплектующие, НДС не облагается. Подпись: Курьянов А.А. = отправка row 103 на VDX ✓. | ДТ (ГТД) №10131010/080326/5066199 от 09.03.2026 (декларант Буденная О.А., RU03): импорт компонентов PT SINGA SUPPLIER INTERNATIONAL → ООО «ВТС» (ИНН 7735171132), инвойс 17S02-03-26 dd 02.03.2026, товар 8504408300, стоимость 4147.50 USD (совпадает с row). Подтверждает таможенное оформление сделки. | VDX Rate Table 08.09 (Scream): курс 86.45 → 4253.61 USDT. | Проформа-инвойс THJ(HK) Technology Limited (файл THJ251226010-GR.xls, 📨 Заявки Компания Q8, 10.09.2026; лист HH90165): P.O NO. CONT.THJ-IN-12.23, P.I NO. THJ251226010, Payment Terms TT, гарантия 60 дней, контакт Amy Ma (amy.ma@thjelec.com); SHIP TO / BILL TO: Q8 GROUP LIMITED (ATTN RIZWAN FAJAR YAHYA; ATTN Kirill). Позиции (электронные компоненты): CGH40010F ×6 @92.05; LMF750-20B27 ×1 @90.10; AD8040ARUZ ×6 @1.72; AD8346ARUZ ×6 @2.30; AD9851BRSZ ×6 @9.00; CGH40006S ×6 @58.59; CGH40010F ×17 @92.05; ROS-2400-1019+ ×25 @34.70; ROS-2800-719R+ ×5 @51.85; AD9851BRSZ ×10 @8.45; LT1121AIS8-3.3#PBF ×25 @2.00; X4C09F1-30S ×30 @5.02; AD9910BSVZ ×2 @49.37. SUBTOTAL 4 147,50 + Bank Charge 30,00 = TOTAL 4 177,50 (в файле подпись «TOTAL(RMB)», по значениям — USD). Банк: China Construction Bank (Asia) Corporation Limited, SWIFT CCBQHKAXXXX, Beneficiary THJ(HK)TECHNOLOGY LIMITED, счёт 8462 1028 6032. 🚨 ТОТ ЖЕ ТОВАР, что в проформе PT SINGA 17S02-03-26 (4 147,50 USD): список компонентов и суммы совпадают 1:1, разница только банковский сбор 30 USD (4 147,50 + 30 = 4 177,50). Уточнить у Scream: THJ — отдельная сделка Q8 → THJ (тогда создаётся отдельная строка) или тот же товар/поставщик, и строка 24 остаётся как есть. | 🚫 ДУБЛЬ-МЕРЖ 12.09.2026: строка 44 (Payment Order Q8 → THJ(HK), КОРРЕКТНАЯ сумма сделки 10 757,40 USD = THJ260305011, BONBILL EXECUTED 11.09.2026 14:18:55 txid O2098295201981399040478) признана ТОЙ ЖЕ сделкой (Scream 12.09.2026) → строка 44 удалена, объединена с этой. | ✅ 12.09.2026 (Scream): КОРРЕКТНАЯ сумма сделки 10 757,40 USD (= проформа THJ(HK) THJ260305011, набор компонентов как у PT SINGA 18S13-04-26). Q8 → THJ(HK) Technology Limited, BONBILL EXECUTED 11.09.2026 14:18:55 (txid O2098295201981399040478). Расчёт Q8: 10757.4 + 0.3% + 30 = 10819.67 USDT. Строка переведена 🟢. | 🔧 12.09.2026 (Scream): рублёвая составляющая ИСПРАВЛЕНА — перепутана со строкой 26. Теперь: rubles_received 1736544.62 / 43413.20, sent_rubles_vdx 1779957.82, vdx_rate 86.45, received_usdt 20568.86. Рубли 359114.19 / 8978.07 / 368092.26 → перенесены на строку 26 (PT SINGA 4147.50 USD)."
   },
   {
     "row": 28,
@@ -807,44 +807,6 @@
   {
     "row": 43,
     "date": "2026-09-10",
-    "sum": 4177.5,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FF92D050",
-    "clientName": null,
-    "costFormula": "4177.5 + 0.3% + 30 = 4220.03 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 4220.03,
-    "notes": "Payment Order (📨 Заявки Компания Q8, файл Payment Doc.2.docx, 10.09.2026): THE AMOUNT AND THE CURRENCY TO TRANSFER — 4 177,50 USD; BENEFICIARY THJ(HK) Technology Limited (Room 4502, Metropolitan Heights at Century Place, No.3018 Shennan Middle Road, Futian District, Shenzhen, CN); ACCOUNT 8462 1028 6032; SWIFT CCBQHKAXXXX; BANK China Construction Bank (Asia) Corporation Limited (20/F, CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon, HONGKONG); банк-посредник и назначение платежа не заполнены. Компания Q8 (bill-to проформы THJ251226010 = Q8 GROUP LIMITED) → ⬜ Step 3. Расчёт Q8 сразу: 4177.5 + 0.3% + 30 = 4220.03 USDT. ⚠️ Тот же товар, что в Main row 24 (ВТС → БиТрейд → PT SINGA, инвойс 17S02-03-26, 4 147,50 USD): список компонентов совпадает 1:1, разница — банковский сбор 30 USD (4 147,50 + 30 = 4 177,50). Клиент по строке не указан (в документах только Q8) — уточнить. | BONBILL Payment Certificate 11.09.2026 14:14:07 (Тип 7 Q8, txid O2098293994583883776337): Q8 GROUP LIMITED → THJ(HK) Technology Limited (CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED, счёт 846210286032). USD 4 177,50. Invoice THJ251226010 DD 26122025 For El Goods. EXECUTED → 🟢 (цвет FF92D050).",
-    "calc": "ТЕЗ"
-  },
-  {
-    "row": 44,
-    "date": "2026-09-10",
-    "sum": 10757.4,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FF92D050",
-    "clientName": null,
-    "costFormula": "10757.4 + 0.3% + 30 = 10819.67 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 10819.67,
-    "notes": "Payment Order (📨 ПП компании Q8, файл Payment Doc.1.docx, 10.09.2026): THE AMOUNT AND THE CURRENCY TO TRANSFER — 10 757,40 USD; BENEFICIARY THJ(HK) Technology Limited (Room 4502, Metropolitan Heights at Century Place, No.3018 Shennan Middle Road, Futian District, Shenzhen, CN); ACCOUNT 8462 1028 6032; SWIFT CCBQHKAXXXX; BANK China Construction Bank (Asia) Corporation Limited (20/F, CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon, HONGKONG); банк-посредник и назначение платежа не заполнены. Компания Q8 → ⬜ Step 3. Расчёт Q8 сразу: 10757.4 + 0.3% + 30 = 10819.67 USDT. ⚠️ Соответствует проформе THJ(HK) THJ260305011 (TOTAL(USD) 10 757,40; набор компонентов = как в Main row 23 / PT SINGA 18S13-04-26, 20 055,79 USD). Клиент по строке не указан (в документах только Q8) — уточнить. | BONBILL Payment Certificate 11.09.2026 14:18:55 (Тип 7 Q8, txid O2098295201981399040478): Q8 GROUP LIMITED → THJ(HK) Technology Limited (CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED, счёт 846210286032). USD 10 757,40. Invoice THJ260305011 DD 05032026 For El Parts. EXECUTED → 🟢 (цвет FF92D050).",
-    "calc": "ТЕЗ"
-  },
-  {
-    "row": 45,
-    "date": "2026-09-10",
     "sum": 88906,
     "currency": "USD",
     "company": null,
@@ -862,7 +824,7 @@
     "calc": null
   },
   {
-    "row": 46,
+    "row": 44,
     "date": "2026-09-10",
     "sum": 71250,
     "currency": "CNY",
@@ -881,7 +843,7 @@
     "calc": null
   },
   {
-    "row": 47,
+    "row": 45,
     "date": "2026-09-11",
     "sum": null,
     "currency": null,
@@ -900,7 +862,7 @@
     "calc": null
   },
   {
-    "row": 48,
+    "row": 46,
     "date": "2026-09-11",
     "sum": 86712,
     "currency": "EUR",
@@ -919,7 +881,7 @@
     "calc": null
   },
   {
-    "row": 49,
+    "row": 47,
     "date": "2026-09-11",
     "sum": 20000,
     "currency": "USD",
@@ -938,7 +900,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 50,
+    "row": 48,
     "date": "2026-09-11",
     "sum": 129325.45,
     "currency": "USD",
@@ -957,7 +919,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 51,
+    "row": 49,
     "date": "2026-09-11",
     "sum": 46978.8,
     "currency": "EUR",
@@ -976,7 +938,7 @@
     "notes": "INVOICE **GLO-260975** от 27.08.2026 (GMS-MNT-58; 📨 Неско- Fininvest/ЭТБ 11.09.2026): Purchaser/Consignee: **Joint-Stock Company NESCO SAINT-PETERSBURG** (Russia, 193149, Leningrad region, g.p. Sverdlovskoe, d. Novosaratovka, Pokrovskaya doroga st., d.8A pom.1, office 38; Reg.Nr 7806045105, KMKR 470601001). Поставщик: **Global Marine Supply OÜ** (Spinati 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg.nr 11152291; банк PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW). Контракт Nr.14/2022 от 01.09.2023. Позиции: Liqueur Minttu Peppermint 40% 50CL (12btl/case) — 19 320 btl × 4,30 = 83 076,00 EUR; Liqueur Minttu Polar Pear 32% 50CL — 2 520 btl × 4,40 = 11 088,00 EUR. Итого по инвойсу: **94 164,00 EUR**. К оплате (предоплата 50%): **46 978,80 EUR**. Рукописно: «Предоплата 50% по инвойсу N GLO-260975 от 27.08.2026, за алкогольную продукцию, за вычетом кредит-ноты N SAT-000062 от 08.09.2026, к оплате 46 978,80 Евро». Кредит-нота **SAT-000062 от 08.09.2026** (Global Marine Supply OÜ, банк LHV bank, IBAN EE607700771005537881, SWIFT LHVBEE22): −103,20 EUR за брак этикеток (PO GMS MNT-53). Сверка: 94 164,00 / 2 = 47 082,00 − 103,20 = **46 978,80 EUR** ✓. ТН ВЭД 2208701000. ⚠️ Компания-плательщик/канал (Fininvest/ЭТБ) и заявка пока не подтверждены — строка заведена в работу (🔵)."
   },
   {
-    "row": 52,
+    "row": 50,
     "date": "2026-09-11",
     "sum": 21993.6,
     "currency": "EUR",
@@ -995,7 +957,7 @@
     "notes": "INVOICE **GLO-260974** от 26.08.2026 (GMS-57; 📨 Неско- Fininvest/ЭТБ 11.09.2026): Purchaser/Consignee: **Joint-Stock Company NESCO SAINT-PETERSBURG** (Russia, 193149, Leningrad region, g.p. Sverdlovskoe, d. Novosaratovka, Pokrovskaya doroga st., d.8A pom.1, office 38; Reg.Nr 7806045105, KMKR 470601001). Поставщик: **Global Marine Supply OÜ** (Spinati 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg.nr 11152291; банк PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW). Контракт Nr.14/2022 от 01.09.2023. Позиции: Vodka-Koskenkorva 40% 50cl 1 728 btl × 3,68 = 6 359,04; 40% 1L 1 920 × 5,13 = 9 849,60; Blueberry Juniper 37,5% 1L 768 × 5,72 = 4 392,96; Lemon,Lime,Yarrow 37,5% 1L 768 × 5,72 = 4 392,96; Raspberry Pine 37,5% 1L 384 × 5,72 = 2 196,48; Rhubarb 21% 50cl 1 728 × 4,86 = 8 398,08; Ginger 21% 50cl 1 728 × 4,86 = 8 398,08. Итого по инвойсу: **43 987,20 EUR**. К оплате (предоплата 50%): **21 993,60 EUR**. Рукописно: «Предоплата 50% по инвойсу N GLO-260974 от 26.08.2026, за алкогольную продукцию, на сумму 21 993,60 Евро». Сверка: 43 987,20 / 2 = **21 993,60 EUR** ✓. ТН ВЭД 2208601100, 2208906909, 2208701000. ⚠️ Компания-плательщик/канал (Fininvest/ЭТБ) и заявка пока не подтверждены — строка заведена в работу (🔵)."
   },
   {
-    "row": 53,
+    "row": 51,
     "date": "2026-09-11",
     "sum": 6534.7,
     "currency": "EUR",
@@ -1014,7 +976,7 @@
     "notes": "INVOICE **GLO-260662** от 03.09.2026 (ORDER NR SGM-Fentimans-18; 📨 Неско- Fininvest/ЭТБ 11.09.2026) | Поставщик: **Global Marine Supply OÜ** (Spinati 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg.nr 11152291; банк PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW). Purchaser/Consignee: **Joint-Stock Company NESCO SAINT-PETERSBURG** (Russia, 193149, Leningrad region, g.p. Sverdlovskoe, d. Novosaratovka, Pokrovskaya doroga st., d.8A pom.1, office 38; Reg.Nr 7806045105, KMKR 470601001). Контракт Nr.14/2022 от 01.09.2023. | Позиции (безалкогольная продукция Fentimans): CURIOCITY COLA 12x275ML 1 296 pcs × 1,28 = 1 658,88; ROSE LEMONADE 12x275ML 1 296 × 1,28 = 1 658,88; GINGER BEER 12x275ML 2 592 × 1,28 = 3 317,76. Итого по инвойсу: **6 635,52 EUR**. | Рукописно: «Предоплата по инвойсу N GLO-260662 от 03.09.2026 за безалкогольную продукцию, за вычетом кредит-ноты N SAT-000043 от 07.09.2026 к оплате **6 534,70 ЕВРО**». Кредит-нота **SAT-000043 от 07.09.2026** (Global Marine Supply OÜ, LHV bank, IBAN EE607700771005537881, SWIFT LHVBEE22): −100,82 EUR за брак этикеток (PO GMS-16 Fentimans). Сверка: 6 635,52 − 100,82 = **6 534,70 EUR** ✓. ТН ВЭД 2202100000. | ⚠️ Компания-плательщик/канал (Fininvest/ЭТБ) и заявка пока не подтверждены — строка заведена в работу (🔵)."
   },
   {
-    "row": 54,
+    "row": 52,
     "date": "2026-09-11",
     "sum": 30750,
     "currency": "EUR",
