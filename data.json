@@ -1021,15 +1021,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "150000 + 0.3% + 30 = 150480.00 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "sent_usdt": 150480,
+    "notes": "📄 14.09.2026 (📨 Платежи VDX, файл «INV 150 000,00 USD (3).pdf», 2 стр.) — PAYMENT ORDER **«Payment from Q8❗️»**: Beneficiary **Chaozhou Nanji Stainless Steel Co., Ltd** (Daliao Houpian, Xianle Er village, Caitang Town, Chao'an District, Chaozhou City); Beneficiary bank **China Construction Bank Corporation Chaozhou Caitang sub-branch** (1-2/F, comprehensive building of CCB, Caitang Town, Chaoan District, Chaozhou City, Guangdong Province); SWIFT **PCBCCNBJGDC**, Account **44050180729900000910**; Payment details **«Invoice No 00yt-005267 FROM 20260702»**; Amount **150 000,00 USD**; **OUR**. Приложен Order № 00yt-005267 от 02.07.2026 (Chaozhou Nanji Stainless Steel Co., Ltd — посуда/кухонные изделия, серии ga/kt; TOTAL по заказу 212 318,00 USD) → **150 000,00 USD = частичная оплата (предоплата) по заявке**; сумма строки = сумме заявки. Клиент строки — **VDX** (как по заявкам 30/31/37/41, 📨 Платежи VDX). Компания **Q8** (ТЕЗ), расчёт Q8 проставлен сразу: 150 000 + 0,3% + 30 = **150 480,00 USDT**. Ждём INITIATED/подтверждение исполнения (🟡/🟢). | 📄 14.09.2026 (📨 Платежи VDX, файл «INV 150 000,00 USD (3).pdf», 2 стр.) — PAYMENT ORDER **«Payment from Q8❗️»**: Beneficiary **Chaozhou Nanji Stainless Steel Co., Ltd** (Daliao Houpian, Xianle Er village, Caitang Town, Chao'an District, Chaozhou City); Beneficiary bank **China Construction Bank Corporation Chaozhou Caitang sub-branch** (1-2/F, comprehensive building of CCB, Caitang Town, Chaoan District, Chaozhou City, Guangdong Province); SWIFT **PCBCCNBJGDC**, Account **44050180729900000910**; Payment details **«Invoice No 00yt-005267 FROM 20260702»**; Amount **150 000,00 USD**; **OUR**. Приложен Order № 00yt-005267 от 02.07.2026 (Chaozhou Nanji Stainless Steel Co., Ltd — посуда/кухонные изделия, серии ga/kt; TOTAL по заказу **212 318,00 USD**) → **150 000,00 USD = частичная оплата (предоплата) по заявке**; сумма строки = сумме заявки. Клиент строки — **VDX** (как по заявкам 30/31/37/41 из «📨 Платежи VDX»). Компания **Q8** (ТЕЗ), расчёт Q8 проставлен сразу: 150 000 + 0,3% + 30 = **150 480,00 USDT**. Ждём INITIATED → 🟡 и исполнение → 🟢.",
+    "calc": "ТЕЗ"
   }
 ]
