@@ -879,5 +879,24 @@
     "sent_usdt": null,
     "notes": "PVM sąskaita faktūra / Invoice EUPA nr. 8209 dd 09.09.2026 (документ получен 13.09.2026, документ-дата 09.09.2026). Продавец: UAB \"Eurokusta\" (S. Žukausko g. 4-103, LT-08244 Vilnius, Литва; jm.kodas 300153942, PVM LT100002141018; AB SEB bankas, SWIFT CBVILT2X, A/s LT357044060005218553). Покупатель (клиент): IP Mazurenko Ivan Aleksejevič (236006 Kaliningrad, Naberežnaja Karbyševa; kodas 390701068179). Услуга: Valstybės rinkliava už veterinarijos paslaugas (CVED) — госпошлина за ветеринарные услуги, 15 000,00 EUR, НДС 0 (не объект НДС, PVM100). Итого 15 000,00 EUR. Sąskaitą išrašė: Rima Simanavičienė. Источник: 📨 ИП Мазуренко И.А. - Fininvest/ЭТБ. Компания не определена (Fininvest/ЭТБ). Компания ждёт заявку/плательщика. (Прецедент: авг. строки 48 TRANSPATH и 57 WAPA — тот же клиент, 15 000 EUR CVED.) | 🗓️ 14.09.2026 (Scream): заявка на сегодня от Мазуренко.",
     "calc": null
+  },
+  {
+    "row": 47,
+    "date": "2026-09-14",
+    "sum": 31200,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Стройтекинвест (Аренда КГ)",
+    "costFormula": "31 200,00 + 0.3% + 30 = 31 323,60 USDT",
+    "extra": "Заявка Q8 (📨 Заявки Компания Q8, 14.09.2026; бланк «Payment_Doc_Prodema_31200_USD_2600110»): Wire Transfer (SWIFT) 31 200,00 USD → PRODEMA LIMITED (Unit 1411, 14/Floor, Cosco Tower, 183 Queen's Road Central, Sheung Wan, Hong Kong; DBS Bank (Hong Kong) Limited, The Center, 99 Queen's Road Central, Central, Hong Kong; a/c 7965-0987-8, SWIFT DHBK-HKHH), назначение «Invoice 2600110». Инвойс 2600110 dd 13.08.2026 (📨 КГ бр (Аренда)): консалтинг 03.08–07.08.2026, 26 ч × 1 200 USD = 31 200,00 USD, Agreement 14-05-2026. Сумма заявки = сумме инвойса. Счёт DBS — новый для Prodema (прежние платежи шли на SCB a/c 36896597748).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 31323.6,
+    "notes": null,
+    "calc": null
   }
 ]
