@@ -848,7 +848,7 @@
     "sum": 129325.45,
     "currency": "USD",
     "company": "UK",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "129325.45 USD × 1,0045 + 100 = 130007.41 USDT",
     "extra": null,
@@ -1067,7 +1067,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 14.09.2026 (📨 Платежи VDX, сообщение R101559 + файл «09._2026._ИНВОЙС.docx»): **платёж 62 668,20 USD** → **Zhejiang Kingdiesel Power Machinery Co.,Ltd.** (No.20 Zili Road, Lutou Industrial Area, Yongkang City, Zhejiang, China); банк **Agricultural Bank of China, Yongkang Branch** (No.3388 East Jiuling Road, Yongkang city, Jinhua 321300 Zhejiang), SWIFT **ABOCCNBJ110**, счёт **19628014040014337**. Назначение: «{VO11200} Оплата по контракту **№HI-29/03/2024 от 29.03.2024**, 24040005/2440/0000/9/1, за товары народного потребления. НДС не облагается». Приложенный инвойс (PI, Date **2026/8/7**): GASOLINE GENERATOR — **694 PCS × $90,30 = 62 668,20 USD**; условия оплаты USD **30% ADVANCE PAYMENT, 70% BALANCE** до загрузки контейнера; FOB Ningbo. Клиент строки — **VDX** (как по заявкам 29–31/37/41/44/54 из «📨 Платежи VDX»). ⚠️ Компания-плательщик в сообщении не названа (нет «Payment from …») — строка **🔴 Step 0**; по сумме/инвойсу/контракту в 5 таблицах совпадений нет. Сумма строки = сумме платежа.",
     "calc": null
   }
 ]
