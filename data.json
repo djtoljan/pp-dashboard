@@ -905,7 +905,7 @@
     "sum": 27900,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Стройтекинвест (Аренда КГ)",
     "costFormula": "27 900,00 + 0.3% + 30 = 28 013,70 USDT",
     "extra": "Заявка Q8 (📨 Заявки Компания Q8, 14.09.2026; бланк «Payment_Doc_Prodema_27900_USD_2600111»): Wire Transfer (SWIFT) 27 900,00 USD → PRODEMA LIMITED (Unit 1411, 14/Floor, Cosco Tower, 183 Queen's Road Central, Sheung Wan, Hong Kong; Standard Chartered Bank (Hong Kong) Limited, a/c 36896597748, SWIFT SCBLHKHH), назначение «Invoice 2600111». Инвойс 2600111 dd 21.08.2026 (📨 КГ бр (Аренда)): консалтинг 11.08–14.08.2026, 23,25 ч × 1 200 USD = 27 900,00 USD, Agreement 14-05-2026. Сумма заявки = сумме инвойса.",
@@ -934,7 +934,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 27411.9,
-    "notes": null,
+    "notes": "BONBILL Payment Certificate 14.09.2026 (Тип 7 Q8, файл «27300.00.pdf», 📨 ПП компании Q8): Q8 GROUP LIMITED → PRODEMA LTD, 27 300,00 USD, Invoice 2600112 dd 27.08.2026 (REF 87177-CJW-0406-3900-00035, For Consulting Services 19.08–21.08.2026). TXID O2099394140579168256231. EXECUTED → 🟢.",
     "calc": "ТЕЗ"
   },
   {
