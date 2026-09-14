@@ -974,5 +974,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 52,
+    "date": "2026-09-14",
+    "sum": 11547.15,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ЛОГИС",
+    "costFormula": null,
+    "extra": "COMMERCIAL INVOICE GD-00260902-15 dd 02.09.2026 (REVISED; 📨 Логис/Fininvest, 14.09.2026): SHIPPER/продавец GD IND Corp. (105, Gajwa IC Intellectual Industry Center, 585-20, Gajwa-dong, Seo-gu, Incheon, Korea; тел. 82-32-584-1584; банк Industrial Bank of Korea Gajwagongdan branch, SWIFT IBKOKRSE, a/c 491-068021-56-00018) → BUYER Q8 GROUP LIMITED (RM A22, 10/F, No. 52 HUNG TO ROAD, Kwun Tong, Hong Kong; +852 93846516); notify party = consignee, bear-grip@bk.ru (Mikhail Baranov). ORDER PO#00015: GD IRON GRIP EXT 90/80, GRIP 80/70, PINCH GRIP HANDLE, GRIP 3/4 STEP, GRIP N (Y/B/R), GRIP TAPE, Hanging Wrist Roller V Premium, Wrist Roller V.W, MUSCLE PUMP AUTO, A-Force Red/Black — 21 поз., TOTAL US 547,15. Terms: FOB Busan, PAYMENT 50% T/T in advance, SHIPMENT Vessel, Korea → Russia. Сумма справочно из инвойса: при получении заявки/ордера сумма строки = сумма заявки (аванс 50% ≈ 5 773,58 USD).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
