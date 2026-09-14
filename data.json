@@ -924,7 +924,7 @@
     "sum": 27300,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Стройтекинвест (Аренда КГ)",
     "costFormula": "27 300,00 + 0.3% + 30 = 27 411,90 USDT",
     "extra": "Заявка Q8 (📨 Заявки Компания Q8, 14.09.2026; бланк «Payment_Doc_Prodema_27300_USD_2600112»): Wire Transfer (SWIFT) 27 300,00 USD → PRODEMA LIMITED (Unit 1411, 14/Floor, Cosco Tower, 183 Queen's Road Central, Sheung Wan, Hong Kong; IFX UK Ltd, 33 Cavendish Square, London, W1G 0PW, UK; IBAN GB49IFXS23229083164543, SWIFT IFXSGB2L), назначение «REF 87177-CJW-0406-3900-00035». Инвойс 2600112 dd 27.08.2026 (📨 КГ бр (Аренда)): консалтинг 19.08–21.08.2026, 22,75 ч × 1 200 USD = 27 300,00 USD, Agreement 14-05-2026. Сумма заявки = сумме инвойса.",
