@@ -1095,7 +1095,7 @@
     "sum": 7545,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Q8 GROUP LIMITED",
     "costFormula": null,
     "extra": null,
@@ -1105,7 +1105,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 14.09.2026 (📨 Молодежь, файл «PI NO.  2026ML02002.pdf», 2 стр.) — **PROFORMA INVOICE № 2026ML02002, Date 2026/9/8**: Seller **Microcure（Suzhou）Medical Technology Co.,Ltd.** (1-101, 188 Jialingjiang Road, Suzhou New District, Jiangsu, P.R. China; tel +86-0512-62916116, Boris +86 13093941648, ywh.marketing@microcure.com.cn, www.microcuremed.com.cn); Buyer **Q8 GROUP LIMITED**. Позиции: Retractor Ring WZRR-A-C 25,00 × 20 = 500,00; WZRR-A-H 25,00 × 20 = 500,00; Retractor Hooks WZRR-P1-S-1 / P1-L-1 / P2-S-1 / P2-L-1 — по 15,00 × 120 = 1 800,00 каждая; WZRR-P3-L-1 10,00 × 120 = 1 200,00; **Discount 1 855; TOTAL 7 545 USD** (SAY USD SEVEN THOUSAND FIVE HUNDRED AND FORTY FIVE ONLY). Условия: MADE IN CHINA, EXW Suzhou, отгрузка 30–45 дней после оплаты; при отклонении курса/сырья >3% цена пересчитывается. Банк (стр. 2): Account Name **Microcure International Medical (Suzhou) Co., Ltd**, USD a/c **32250110346100003267**, **China Construction Bank**, Suzhou New and Hi-Tech Industrial Development Zone Sub-Branch, SWIFT **PCBCCNBJJSS**, Bank Code 105305034613. 🔴 Step 0 (проформа-инвойс без заявки/ордера) — компания Q8 (покупатель по инвойсу), **клиент уточняется** (источник — 📨 Молодежь): по номеру PI, продавцу и сумме в 5 таблицах совпадений нет. Расчёт — от Scream. | 📄 14.09.2026 (📨 Молодежь, файл «PAYMENT_ORDER_1.docx») — **PAYMENT ORDER от 14.09.2026**: AMOUNT **7 545,00 USD**; BENEFICIARY **Microcure International Medical (Suzhou) Co., Ltd**; BANK **China Construction Bank**, Suzhou New and Hi-Tech Industrial Development Zone Sub-Branch (Suzhou National New and Hi-Tech Industrial Development ZONE); ACCOUNT **32250110346100003267**, SWIFT **PCBCCNBJJSS**; PAYMENT PURPOSE «**For goods, Contract No.VIB-HT004-(2501) dd 19.02.2025, PI №: 2026ML02002 dd 08.09.2026**». 🎯 **Опознана сделка**: контракт **VIB-HT004-(2501) от 19.02.2025** — тот же, что в паре ПП по **ООО «МЕДЛАЗЦЕНТР»** от 14.09.2026 ({VO11100} тело 636 043,50 ₽ + {VO21100} вознаграждение 37 935,00 ₽ = 673 978,50 ₽; агентский договор **1009-2026 от 10.09.26**, Поручение №1) → запись по рублям заведена в **Молодёжь row 40 «Медлазцентр (Молодёжь)»**. Курс: 636 043,50 / 7 545 = **84,30** ✓; вознаграждение 37 935,00 ₽ = 450,00 USD × 84,30 ✓. → статус строки **🔴 Step 0 → ⬜** (Step 3: инвойс + ордер на оплату, компания Q8). ⚠️ Требуется решение Scream: клиент/таблица (перевести в Молодёжь к «Медлазцентр» и объединить с row 40?) — пока строка в Main.",
     "calc": null
   }
 ]
