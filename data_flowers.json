@@ -681,7 +681,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 110360,
-    "notes": null,
+    "notes": "📄 14.09.2026 (📨 Цветы): **INVOICE № 10013088 DATE 14-09-2026** — эмитент ALIANZA LOGISTIKA TDGE S.A. (Ave. InterOceanica OE6-73 y Gonzalez Suárez, Tumbaco, Quito, Ecuador; тел. 02 237 2169) → PAYER **Q8 GROUP LIMITED** (Company Number 80242882, Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong; тел. +852 9384 6516, e-mail 3673129021@qq.com). Описание: **Air logistics services**, TOTAL (USD) **110 000,00**. Бенефициар: **LOGIZTIK-GROUP ECUADOR S.A.** (AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ), счёт **02005144694**, банк **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775 Quito – Ecuador), SWIFT **PRODECEQ**. | 📄 14.09.2026 (📨 Цветы, файл «ALIANZA 110 000 новое название.docx») — **PAYMENT ORDER** по той же сделке: сумма **110 000 USD**, бенефициар **LOGIZTIK-GROUP ECUADOR S.A.** (это «новое название» — в предыдущей сделке row 28 тот же бенефициар уже был указан как LOGIZTIK-GROUP при эмитенте инвойса ALIANZA LOGISTIKA TDGE S.A.), счёт 02005144694, PRODUBANCO (AMAZONAS 3775 Quito – Ecuador), SWIFT **PRODECEQ**, адрес AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ; номер инвойса и назначение в форме не заполнены (номер взят из пришедшего инвойса 10013088). Step 3 (инвойс + ордер + компания Q8) → ⬜; Q8 ТЕЗ-расчёт сразу: **110 000 + 0,3% + 30 = 110 360 USDT** (sent_usdt; по паттерну ALIANZA: 75 000 → 75 255, 25 000 → 25 105, 35 000 → 35 135 ✓). Клиент = **ALIANZA LOGISTICS (Цветы)**, все исторические сделки ALIANZA — Q8 (Invoice_ALIANZA_Q8_*), в т.ч. row 28 (invoice 10013087, 35 000 USD). Ждём USDT-приход (received_usdt) и исполнение (BONBILL Q8 / EXECUTED) → 🟢.",
     "calc": null
   }
 ]
