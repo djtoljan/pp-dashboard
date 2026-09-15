@@ -1242,24 +1242,5 @@
     "sent_usdt": null,
     "notes": "📄 15.09.2026 (📨 ВТС-Fininvest (t4020), файл «INVOICE N26-06 WTC USD.pdf») — **PROFORMA INVOICE № WTD20260910 dd September 10, 2026** (титул «Proforma Invoice»): продавец **NINGBO WELL LIFT DOOR CO.,LTD.** (Add: Kelong Industrial, Huashan Village, Tangxi Town, Yinzhou District, Ningbo, Zhejiang, PRC 315143; INTERNATIОNAL DEPT., FLOOR 4th, No.518 EAST ZHONGSHANG RD. NINGBO CHINA; тел. +7 909 270 9555, ATT: Malyshev Arkady) → покупатель **Limited Liability Company «WTC»** (117105, Moscow, Novodanilovskaya embankment, 4A, floor 6, space II, rooms 22в, 22у). Секционные ворота и фурнитура, 38 позиций (Drum 8''/12''/18''/4-54/5-54/120/164/18VL 2SW/11VL 2SW, Spring fitting 2\"/2-5/8\"/3-3/4\"/6\"/6\" DUPLEX, Bearing bracket 86/111/127, Industrial Spring break device, 2\" unadjustable cable break device, Top Bracket support, Corner support galvanised, Chain hoist + chain, Shaft Key, Tubular shaft galvanised (6 размеров), couplers, Shootbolt, PVC footstep and handle, Spring bumper 260/500 mm + bracket, Torsion spring fillet 95/152 mm, Cable 3/4/5 mm + bushing, Self tapping screw 6.3*16, Carriage Bol 6*16, Strengthening profile 2\", Plate for c-profile, Window with oval corners 665x345) — **Grand Total 47 465,44 USD**. Условия: Delivery Time 40 days after got the deposit; **Payment: 30% IN ADVANCE, 70% BEFORE THE SHIPPMENT**. Бенефициар **NINGBO WELL LIFT DOOR CO.,LTD.**: **AGRICULTURAL BANK OF CHINA, NINGBO BRANCH**, SWIFT **ABOCCNBJ390**, счёт **39402014040019486**. Дата бланка 10.09.2026 (обе подписи/печати). 🧩 Тот же паттерн, что строка 13 (ВТС, проформа **WTD20260902** dd 31.08.2026 на 39 297,00 USD, получатель NINGBO WELL LIFT, те же реквизиты AboC Ningbo ABOCCNBJ390 / счёт 39402014040019486) — та сделка шла через Поручение №75644 и ПП №4142/4143. По этой сумме (47 465,44) и № WTD20260910 совпадений в 5 таблицах нет; find-merge-on-invoice — 🔵-кандидатов нет (exit 0). Компания-плательщик ждёт заявку/поручение → строка 🔴 Step 0; расчёт — от Scream.",
     "calc": null
-  },
-  {
-    "row": 66,
-    "date": "2026-09-15",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": null,
-    "clientName": null,
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
   }
 ]
