@@ -1318,5 +1318,24 @@
     "sent_usdt": null,
     "notes": "📄 15.09.2026 (📨 Платежи VDX, файл «Invoice-SPHK2026130.pdf») — **FINAL INVOICE № SPHK2026130 dd 18.08.2026** от **SINOPROJECTS (HK) LIMITED** (кит. 工项物流(香港)有限公司; Room 1802, 18/F., 469-471 Nathan Road, Kowloon, Hong Kong): **PRE-CARRIAGE COST + SUPERCARGO + SURVEY CHARGES** — **USD 41 961,00** (SAY TTL US DOLLARS FORTY ONE THOUSAND NINE HUNDRED AND SIXTY ONE ONLY). Банк бенефициара: **HSBC HONG KONG**, счёт (USD) **053 487443 838**, SWIFT **HSBCHKHHHKH** (1 Queen’s Road Central, Hong Kong); PIC — Daisy Wang (+86 151 5603 3293). Клиент по потоку — **VDX**; компания-плательщик (Q8/UK/…) в документе не названа → цвет **🔴** (Step 0). Совпадений по SPHK2026130 / 41 961 / SINOPROJECTS ни в 5 таблицах, ни в архивах/бэкапах нет.",
     "calc": null
+  },
+  {
+    "row": 70,
+    "date": "2026-09-15",
+    "sum": 24010,
+    "currency": "USD",
+    "company": "UK",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
