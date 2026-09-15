@@ -864,15 +864,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "ALIANZA LOGISTICS (Цветы)",
-    "costFormula": null,
+    "costFormula": "11 618,49 × 1,006 + 100 = 11788.20 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 11788.2,
+    "notes": "📄 15.09.2026 21:08 — **Заявка Q8 №7/7** (📨 Заявки Компания Q8; файл «ALIANZA 11618,49 ®І (1).docx»): платёж по форме Q8 — сумма **11 618,49 USD**; BENEFICIARY **LOGIZTIK-GROUP ECUADOR S.A.** (AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ); счёт **02005144694**; банк **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775, Quito – Ecuador), SWIFT **PRODECEQ**; поля «Номер инвойса», регистрационный номер, НДС, директор, банк-корреспондент, расходы и назначение в форме НЕ заполнены. Клиент — **ALIANZA LOGISTICS (Цветы)** (clients-db, группа Цветы; в таблице есть прошлая сделка r36 98 381,51 USD 🟢), компания **Q8**. Расчёт: **11 618,49 × 1,006 + 100 = 11788.20 USDT**. ⚠️ Расхождение с твоим списком: там 11 618,46, в документе — **11 618,49** (+0,03); взял сумму документа. Фондирование: приходы 15.09 — **31 350** (Цветы) + **58 500** (Atlantic Avrora (Цветы)) = **89 850 USDT** под 7 заявок (документы дают 88 618,49 × 1,006 + 700 = 89850.20 ≈ 89 850 ✓).",
     "calc": null
   }
 ]
