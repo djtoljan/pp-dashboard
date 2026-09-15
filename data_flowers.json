@@ -798,5 +798,24 @@
     "sent_usdt": 20220,
     "notes": "📄 15.09.2026 20:58 — **Заявка Q8** (📨 Заявки Компания Q8; файл «AOA VENTURES LTD 20000 (1).docx»): платёж по форме Q8 — BENEFICIARY **AOA VENTURES LTD** (Port Louis, Mauritius; Reg. number 162120; директор Safaraliiev Aleksandr; alexandr.lakshmigroup@gmail.com); банк получателя **AfrAsia Bank Ltd** (Bowen Square, 10, Dr Ferriere Street, Port Louis, Mauritius), SWIFT **AFBLMUMU**, счёт/IBAN **MU07AFBL2501076818000000027USD**; назначение «**For flowers and/ or logistics**»; сумма **20 000,00 USD**. Клиент — **AOA VENTURES (Цветы)** (clients-db, группа Цветы), компания **Q8**. Расчёт: **20 000,00 × 1,006 + 100 = 20 220,00 USDT**. Фондирование: приходы 15.09 — **31 350** (Цветы) + **58 500** (Atlantic Avrora (Цветы)) = **89 850 USDT** под 7 заявок (Scream 15.09: 88 618,46 + 0,6% + 100×7 = 89 850,17); эта заявка — 20 000 из списка.",
     "calc": null
+  },
+  {
+    "row": 43,
+    "date": "2026-09-15",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "AOA VENTURES (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
