@@ -810,7 +810,7 @@
     "sum": 86712,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ИП Сыромятникова",
     "costFormula": "86 712,00 EUR / 0,863504318535 (FX Q8 15.09.2026: sell 100 458 USD -> buy 86 745,91 EUR, 1 USD = 0,863504318535 EUR) + 0,3% + 30 = 100 749,98 USDT",
     "extra": null,
