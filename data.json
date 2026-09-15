@@ -1128,5 +1128,24 @@
     "notes": "📄 15.09.2026 (📨 ООО Дре русланд трейдинг - Fininvest/ЭТБ, файл «FAKTURA 16 54810 euro_260915_111626.pdf»): **FAKTURA nr FV/4470/2026** (data wystawienia 2026-08-27, data dostawy/wykonania usługi 2026-08-27). Sprzedawca: **MAR-S SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SP.K.** (ul. Namysłowska 9B, 63-640 Bralin, Polska; NIP 6192020118, BDO 000090936; банки Santander Bank Polska S.A. / mBank S.A., SWIFT WBKPPLPP / BREXPLPW). Nabywca = Odbiorca: **ООО «DRE RUSSLAND TRADING»** (РФ, г. Балтийск, пр-кт Ленина 78А/1). Позиции: мебель (LORETTO 3, KANAPA 2, PRIMO U, NAROŻNIK CREMONA, SOFA NOEL 160, LOŻKO PERONI 140, PEROTTI 140/160, SOFA BETTY, NAROŻNIK BRITTA/FABI, ROKO NEW, BERGAMO MINI, BRUNO U, JACOBS L, MOET 160, POWER, DONNA, KAIR NEW ×2), VAT 0%. **Razem brutto 69 502,00 PLN**; «Płatność w euro. Kurs wymiany 4,2 = **16 548,10 euro**». Termin przelewu 2026-10-11. Документ одновременно является ostateczne wezwanie do zapłaty. Step 0 🔴 — компания-плательщик ждёт заявку/поручение (по аналогии Main row 26, тот же клиент Дре Русланд). | 📄 15.09.2026 (файлы «Поручение_Блекшарк_1.docx», 2 идентичных дубля) — **ПОРУЧЕНИЕ № 44 от 15.09.2026** (Transfer request No. 44; Приложение № 1 к Агентскому договору № 2701-27/1 от 27.01.26): Принципал **ООО «ДРЕ РУСЛАНД ТРЕЙДИНГ»** → Агент **ОсОО «Блэкшарк Трейд»**. Сумма **16 548,10 EURO**. Получатель **MAR-S SP Z O O** (POLAND, BRALIN, 63-40, UL.NAMYSLOWSKA 9B), IBAN **PL86109011440000000122754883**, **SANTANDER BANK POLSKA S.A.** (head office), SWIFT **WBKPPLPP**. Назначение: «Оплата за мебель по фактуре FV/4470/2026 от 27.08.2026 г.». Курс конвертации **97,7626** → сумма к перечислению в рублях **1 617 785,28 ₽**; комиссия агента **1,6% (25 884,56)**. Срок 2-3 банковских дня. Компания-плательщик (колонка E) в поручении не указана — ждём заявку/MT (по этой линии: row 8/9 → LUXORA, row 26 → VELLORA).",
     "calc": null,
     "documentDate": "2026-08-27"
+  },
+  {
+    "row": 60,
+    "date": "2026-09-15",
+    "sum": 870720,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ОМИА",
+    "costFormula": null,
+    "extra": "Proforma Invoice ZYXCH260910FTC1039 от 10.09.2026 (Zhejiang Zanyu New Material Co., Ltd., FLOOR 2, BUILDING 1, YUEQUAN INTELLIGENT EQUIPMENT INDUSTRIAL PARK, NO.589, FENGHE ROAD, PUJIANG COUNTY, ZHEJIANG PROVINCE CHINA; SC No. AP30-002192/09.09.2026): Stearic acid 1860, 25KG BAG ON PALLETS, 96 MT × ¥9 070,00/MT = ¥870 720,00. FOB NINGBO, Destination Port ST PETERSBURG RUSSIA, Payment term 100% T/T IN ADVANCE (депозит до 16.09.2026), отгрузка ~4 недели после предоплаты. Route (for CNY): PJSC VTB BANK Shanghai Branch (Office 2503-2505 Shanghai Tower, 501 Middle Yincheng Road, Shanghai 20012), SWIFT VTBRCNSH, beneficiary a/c 40807156200610029443, Beneficiary Bank Code 767290000018, correspondent VTB BANK(PJSC) MOSCOW VTBRRUMM; Beneficiary ZHEJIANG ZANYU NEW MATERIAL CO.,LTD. 🚨 Вопрос операционке от 15.09.2026 (📨 НБС-Fininvest t113): «Сможем отправить с БлэкШарк на ВТБ Шанхай?» — маршрут тот же, что по row 27 (ОМИА).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
