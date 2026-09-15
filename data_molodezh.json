@@ -785,5 +785,24 @@
     "notes": "Инвойс №9-2 dd 14.09.2026 (Invoice, 📨 Молодежь, 15.09.2026): AGARO COIN AUCTION, S.L. (17220 Sant Feliu de Guíxols - Girona, Calle Agaro 89, Испания; BBVA, IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX) → BILL TO: Q8 GROUP LIMITED (HK). Lot 1 — lots of foreign world and roman coins (коллекционные монеты), Total hammer 162 657,72 USD, VAT 0,00, shipping 0,00. | Payment Order 14.09.2026 (docx, 📨 Молодежь): 162 657,72 USD → AGARO COIN AUCTION, S.L. (17220, Spain, Sant Feliu de Guíxols (Girona), Calle Agaro 89; Banco Bilbao Vizcaya Argentaria S.A., c/sauceda 28; IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX), PAYMENT BY INVOICE NO. 9-2 DD 14.09.2026. = заявка Тип 4 (инвойс + ордер) → ⬜ Step 3. Клиент ИП Зольников (Молодёжь) — серия Agaro: row 13 (инвойс №9, 248 203,00 USD), row 28 (инвойс №9-1, 228 223,38 USD). Компания Q8 (bill-to Q8 GROUP LIMITED). Q8-формула: 162 657,72 + 0,3% + 30 = 163 175,69 USDT → sent_usdt сразу. Дата документа 14.09.2026, строка заведена датой получения документов (15.09.2026). Ждём INITIATED/расчёт → 🟡.",
     "calc": null,
     "documentDate": "2026-09-14"
+  },
+  {
+    "row": 42,
+    "date": "2026-09-15",
+    "sum": 101360,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ИП Зольников (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
