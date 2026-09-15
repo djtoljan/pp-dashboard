@@ -1019,7 +1019,7 @@
     "sum": 150000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "150000 + 0.3% + 30 = 150480.00 USDT",
     "extra": null,
