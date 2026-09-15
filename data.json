@@ -1000,7 +1000,7 @@
     "sum": 58561,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ВТС",
     "costFormula": "58561 + 0.3% + 30 = 58766.68 USDT",
     "extra": null,
@@ -1128,24 +1128,5 @@
     "notes": "📄 15.09.2026 (📨 ООО Дре русланд трейдинг - Fininvest/ЭТБ, файл «FAKTURA 16 54810 euro_260915_111626.pdf»): **FAKTURA nr FV/4470/2026** (data wystawienia 2026-08-27, data dostawy/wykonania usługi 2026-08-27). Sprzedawca: **MAR-S SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SP.K.** (ul. Namysłowska 9B, 63-640 Bralin, Polska; NIP 6192020118, BDO 000090936; банки Santander Bank Polska S.A. / mBank S.A., SWIFT WBKPPLPP / BREXPLPW). Nabywca = Odbiorca: **ООО «DRE RUSSLAND TRADING»** (РФ, г. Балтийск, пр-кт Ленина 78А/1). Позиции: мебель (LORETTO 3, KANAPA 2, PRIMO U, NAROŻNIK CREMONA, SOFA NOEL 160, LOŻKO PERONI 140, PEROTTI 140/160, SOFA BETTY, NAROŻNIK BRITTA/FABI, ROKO NEW, BERGAMO MINI, BRUNO U, JACOBS L, MOET 160, POWER, DONNA, KAIR NEW ×2), VAT 0%. **Razem brutto 69 502,00 PLN**; «Płatność w euro. Kurs wymiany 4,2 = **16 548,10 euro**». Termin przelewu 2026-10-11. Документ одновременно является ostateczne wezwanie do zapłaty. Step 0 🔴 — компания-плательщик ждёт заявку/поручение (по аналогии Main row 26, тот же клиент Дре Русланд). | 📄 15.09.2026 (файлы «Поручение_Блекшарк_1.docx», 2 идентичных дубля) — **ПОРУЧЕНИЕ № 44 от 15.09.2026** (Transfer request No. 44; Приложение № 1 к Агентскому договору № 2701-27/1 от 27.01.26): Принципал **ООО «ДРЕ РУСЛАНД ТРЕЙДИНГ»** → Агент **ОсОО «Блэкшарк Трейд»**. Сумма **16 548,10 EURO**. Получатель **MAR-S SP Z O O** (POLAND, BRALIN, 63-40, UL.NAMYSLOWSKA 9B), IBAN **PL86109011440000000122754883**, **SANTANDER BANK POLSKA S.A.** (head office), SWIFT **WBKPPLPP**. Назначение: «Оплата за мебель по фактуре FV/4470/2026 от 27.08.2026 г.». Курс конвертации **97,7626** → сумма к перечислению в рублях **1 617 785,28 ₽**; комиссия агента **1,6% (25 884,56)**. Срок 2-3 банковских дня. Компания-плательщик (колонка E) в поручении не указана — ждём заявку/MT (по этой линии: row 8/9 → LUXORA, row 26 → VELLORA).",
     "calc": null,
     "documentDate": "2026-08-27"
-  },
-  {
-    "row": 60,
-    "date": "2026-09-15",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": null,
-    "clientName": null,
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
   }
 ]
