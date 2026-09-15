@@ -843,5 +843,23 @@
     "sent_usdt": null,
     "notes": "ПП на VDX №617 от 15.09.2026 (89 894,04 ₽, Вилог, ВТБ, ИСПОЛНЕНО) — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №617 от 15.09.2026** (📨 Молодежь, файл «rpp_617.pdf»): плательщик **ООО «ВИЛОГ»** (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199, Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411) → получатель **ВиДиИкс Сервисез - ФЗКО** (ИНН 9909710068, КПП 712887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **89 894,04 ₽** (Сумма прописью: Восемьдесят девять тысяч восемьсот девяносто четыре рубля 04 копейки), вид оп. 01, {VO11100} «Частичная оплата за товар по инвойсам **AMT-135-20260911 от 11.09.2026**, **AMT-136-D20260912001 от 15.09.2026**, договор **NZDLWL120525-A-USD от 12.05.25** (HS code 8206000000) по курсу **86,0230**. НДС не облагается». Направлено по системе ДБО, **ИСПОЛНЕН 15.09.2026 в 16:26:47** (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, Мельникова Светлана Сергеевна). Курс из ПП 86,0230 — справочный (≈ **1 045,00 USD**), НЕ `vdx_rate`. ⚠️ заявки нет — 🔵 отправка на VDX без заявки.",
     "calc": null
+  },
+  {
+    "row": 45,
+    "date": "2026-09-15",
+    "sum": 15000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Мосты (Молодёжь)",
+    "costFormula": "15 000,00 + 0,3% + 30 = 15 075,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 15075,
+    "notes": "📄 15.09.2026 (📨 Заявки Компания Q8, файл «Копия 20260901 PI (002).pdf») — **PROFORMA INVOICE Order NO. 20260901 dd 13-Sep-26** от **WIDE WORLD (HONG KONG) LIMITED** (ROOM S032, 2/F, THE CAPITAL, 61-65 CHATHAM ROAD SOUTH, TSIM SHA TSUI, KL HK; тел. 86 755 32832911) → **Consignee: Q8 GROUP LIMITED**: микрофоны **INT-VMIC20-B01 (RM-FA10-EMI100)** (материал 316L нерж. сталь, стикер Intelliko) — 20 шт × $726,70 = **$14 534,00**; доставка (дверь-дверь, пошлины включены) $266,00; **HANDLING FEE $200,00**; **TOTAL $15 000,00** (SAY TOTAL US DOLLAR: fifteen thousand); условия **100% deposit in advance**; EXW SHENZHEN; NINGBO (CHINA) → HONG KONG. Банк: **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD** (Chouyin Building, 188 Shangcheng Avenue, Futian Street, Yiwu City, Zhejiang), бенефициар **Wide World (Hong Kong) Limited**, счёт **NRA15602002010590023910**, SWIFT **CZCBCN2XXX**. Компания **Q8** (видна из Consignee), клиент — уточняется; Q8-расчёт сразу: 15 000,00 + 0,3% + 30 = **15 075,00 USDT** (столбец D = ТЕЗ). | 📄 15.09.2026 (📨 Заявки Компания Q8, файл «payment order 15000.docx») — **PAYMENT ORDER dd 02.09.2026**: AMOUNT **15 000,00 USD**, PAYMENT METHOD bank transfer; BENEFICIARY **Wide World (Hong Kong) Limited** (ROOM S032, 2/F, THE CAPITAL, 61-65 CHATHAM ROAD SOUTH, TSIM SHA TSUI, KL HONG KONG); BENEFICIARY BANK **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD** (Chouyin Building, 188 Shangcheng Avenue, Futian Street, Yiwu City, Zhejiang Province); ACCOUNT NUMBER **NRA15602002010590023910**, SWIFT **CZCBCN2XXX**; PAYMENT PURPOSE «**Invoice NO.: 20260901, Microphone**». ✅ Ордер = заявка к этой строке (новую не заводил): сумма ордера **15 000,00** совпала с суммой PI/строки, поэтому строка по правилу «сумма — из ордера» остаётся **15 000,00 USD**; расчёт без изменений — 15 000,00 + 0,3% + 30 = **15 075,00 USDT** (D = ТЕЗ)."
   }
 ]
