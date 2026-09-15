@@ -1337,5 +1337,24 @@
     "sent_usdt": 24218.05,
     "notes": "📄 15.09.2026 (Scream → пересылка от **Diana_VDX**, файл «Invoice A1478596 ТА.pdf») — **«Payment from ❗️»**, компания-плательщик по указанию владельца: **UK**. Получатель **TEAMAMERICA, INC.** (21 West 46th Street - New York, NY 10036; тел. (212) 697-7165); банк **Citibank N.A.** (399 Park Avenue, New York, NY 10043), SWIFT **CITIUS33**, счёт **95246184** (routing 021000089); назначение **INV.A1478596 dd 06/23/2026** (4 пассажира SHAULOV Slava/Liliya/Daniela/David, Mandarin Oriental NY 10.04.2026); Amount **24 010,00 USD**; комиссия **OUR**. Расчёт: **24 010,00 × 1,0045 + 100 = 24 218,05 USDT** (столбец D = ТЕЗ). ✅ Исполнение: **OUT 24 218 USDT** (Bobr 15.09.2026 16:02:51 UTC, Рабочий 4 → `TPpXeGcvwCVbXrwPEdh4Ckv539n92RnnVj`) — запись леджера `OUT_24218_15.09.2026` (txid `47d962dfcfcb…`, Q9 отправлен), фондирование — `IN_24218_15.09.2026` (txid `7ba1b939…`, от `TT2oR4q…`). Клиент **VDX**, компания **UK**.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 71,
+    "date": "2026-09-15",
+    "sum": 15000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "уточняется (Q8)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
