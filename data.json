@@ -1092,7 +1092,7 @@
   {
     "row": 58,
     "date": "2026-09-15",
-    "sum": 206286.72,
+    "sum": 106257.1,
     "currency": "EUR",
     "company": "OPTIMA FOOD",
     "color": "FFFFFFFF",
@@ -1105,8 +1105,27 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 15.09.2026 (📨 Неско- Fininvest/ЭТБ, 4 файла-инвойса от Global Marine Supply OÜ на покупателя Joint-Stock Company NESCO SAINT-PETERSBURG). Все счета: продавец GLOBAL MARINE SUPPLY OÜ (Spinati 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg.nr. 11152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW, BPKOPLPWXXX); покупатель/получатель Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., п. Свердловское, д. Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; KMKR 470601001, Reg.Nr 7806045105); контракт Nr.14/2022 dd 01.09.2023; валюта EUR, VAT 0%, условия «Date of payment» + 0,5% (пеня за просрочку). 1) INVOICE № GLO-260975 dd 27.08.26, ORDER NR GMS-MNT-58: Liqueur Minttu Peppermint 40% 50CL (12btl/case) 19 320 btl × 4,30 = 83 076,00 + Liqueur Minttu Polar Pear 32% 50CL (12btl/case) 2 520 btl × 4,40 = 11 088,00 → ИТОГО 94 164,00 EUR. 2) INVOICE № GLO-260974 dd 26.08.26, ORDER NR GMS-57: Vodka Koskenkorva (40% 50cl 1 728 × 3,68 = 6 359,04; 40% 1L 1 920 × 5,13 = 9 849,60; Blueberry Juniper 37,5% 1L 768 × 5,72 = 4 392,96; Lemon,Lime,Yarrow 37,5% 1L 768 × 5,72 = 4 392,96; Raspberry Pine 37,5% 1L 384 × 5,72 = 2 196,48; Rhubarb 21% 50cl 1 728 × 4,86 = 8 398,08; Ginger 21% 50cl 1 728 × 4,86 = 8 398,08) → ИТОГО 43 987,20 EUR. 3) INVOICE № GLO-260662 dd 03.09.26, ORDER NR SGM-Fentimans-18: CURIOCITY COLA 12X275ML 1 296 pcs × 1,28 = 1 658,88 + ROSE LEMONADE 12X275ML 1 296 × 1,28 = 1 658,88 + GINGER BEER 12X275ML 2 592 × 1,28 = 3 317,76 → ИТОГО 6 635,52 EUR. 4) INVOICE № GLO-260500 dd 12.06.26: Liqueur Minttu Twist Bubble Gum 16% 50CL (12btl/case) 15 000 btl × 4,10 = 61 500,00 EUR. 📊 ИТОГО по 4 счетам = 206 286,72 EUR (94 164,00 + 43 987,20 + 6 635,52 + 61 500,00). ⚠️ В ИМЕНАХ ФАЙЛОВ указаны другие суммы: 46 978,80 / 21 993,60 / 6 534,70 / 30 750,00 EUR (в сумме 106 257,10 EUR) — из самих PDF эти цифры не подтверждаются (в счётах стоят суммы 94 164,00 / 43 987,20 / 6 635,52 / 61 500,00). Требуется подтверждение Scream, по какой сумме пойдёт заявка/поручение. Клиент = «Неско (ЭТБ)» (clients-db), компания-плательщик по прецеденту этой линии (июль row 81 95 973 EUR GLO-260657/658, авг. row 20 7 236 EUR GLO-260472 — Global Marine Supply, company OPTIMA FOOD) → OPTIMA FOOD. Тип 1 (инвойс) → Step 0/3: ордер/поручение ждём; после получения — уточнить сумму по ордеру (приоритет ордера над инвойсом). guard find-merge-on-invoice: 🔵 строк для слияния нет; в 5 таблицах совпадений по GLO-260975/260974/260662/260500 нет.",
+    "notes": "📄 15.09.2026 (📨 Неско- Fininvest/ЭТБ, 4 файла-инвойса от Global Marine Supply OÜ на покупателя Joint-Stock Company NESCO SAINT-PETERSBURG). Все счета: продавец GLOBAL MARINE SUPPLY OÜ (Spinati 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg.nr. 11152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW, BPKOPLPWXXX); покупатель/получатель Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., п. Свердловское, д. Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; KMKR 470601001, Reg.Nr 7806045105); контракт Nr.14/2022 dd 01.09.2023; валюта EUR, VAT 0%, условия «Date of payment» + 0,5% (пеня за просрочку). 1) INVOICE № GLO-260975 dd 27.08.26, ORDER NR GMS-MNT-58: Liqueur Minttu Peppermint 40% 50CL (12btl/case) 19 320 btl × 4,30 = 83 076,00 + Liqueur Minttu Polar Pear 32% 50CL (12btl/case) 2 520 btl × 4,40 = 11 088,00 → ИТОГО 94 164,00 EUR. 2) INVOICE № GLO-260974 dd 26.08.26, ORDER NR GMS-57: Vodka Koskenkorva (40% 50cl 1 728 × 3,68 = 6 359,04; 40% 1L 1 920 × 5,13 = 9 849,60; Blueberry Juniper 37,5% 1L 768 × 5,72 = 4 392,96; Lemon,Lime,Yarrow 37,5% 1L 768 × 5,72 = 4 392,96; Raspberry Pine 37,5% 1L 384 × 5,72 = 2 196,48; Rhubarb 21% 50cl 1 728 × 4,86 = 8 398,08; Ginger 21% 50cl 1 728 × 4,86 = 8 398,08) → ИТОГО 43 987,20 EUR. 3) INVOICE № GLO-260662 dd 03.09.26, ORDER NR SGM-Fentimans-18: CURIOCITY COLA 12X275ML 1 296 pcs × 1,28 = 1 658,88 + ROSE LEMONADE 12X275ML 1 296 × 1,28 = 1 658,88 + GINGER BEER 12X275ML 2 592 × 1,28 = 3 317,76 → ИТОГО 6 635,52 EUR. 4) INVOICE № GLO-260500 dd 12.06.26: Liqueur Minttu Twist Bubble Gum 16% 50CL (12btl/case) 15 000 btl × 4,10 = 61 500,00 EUR. 📊 ИТОГО по 4 счетам = 206 286,72 EUR (94 164,00 + 43 987,20 + 6 635,52 + 61 500,00). ⚠️ В ИМЕНАХ ФАЙЛОВ указаны другие суммы: 46 978,80 / 21 993,60 / 6 534,70 / 30 750,00 EUR (в сумме 106 257,10 EUR) — из самих PDF эти цифры не подтверждаются (в счётах стоят суммы 94 164,00 / 43 987,20 / 6 635,52 / 61 500,00). Требуется подтверждение Scream, по какой сумме пойдёт заявка/поручение. Клиент = «Неско (ЭТБ)» (clients-db), компания-плательщик по прецеденту этой линии (июль row 81 95 973 EUR GLO-260657/658, авг. row 20 7 236 EUR GLO-260472 — Global Marine Supply, company OPTIMA FOOD) → OPTIMA FOOD. Тип 1 (инвойс) → Step 0/3: ордер/поручение ждём; после получения — уточнить сумму по ордеру (приоритет ордера над инвойсом). guard find-merge-on-invoice: 🔵 строк для слияния нет; в 5 таблицах совпадений по GLO-260975/260974/260662/260500 нет. | ✏️ ИСПРАВЛЕНИЕ 15.09.2026 (Scream: «106 257,10 евро общая сумма заявки»): сумма строки = 106 257,10 EUR (сумма заявки), НЕ сумма счетов (206 286,72 EUR = 94 164,00 + 43 987,20 + 6 635,52 + 61 500,00). Суммы по самим инвойсам Global Marine Supply OÜ сохранены в notes как справочные.",
     "calc": null,
     "documentDate": "2026-09-15"
+  },
+  {
+    "row": 59,
+    "date": "2026-09-15",
+    "sum": 16548.1,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Дре Русланд",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
