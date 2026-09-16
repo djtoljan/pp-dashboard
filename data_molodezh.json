@@ -880,5 +880,24 @@
     "sent_usdt": 36767.88,
     "notes": "📄 15.09.2026 (📨 Заявки Компания Q8, файл «455_Инвойс_36 628$ с плательщиком.pdf») — **PROFORMA INVOICE № 20260827-001 dd 27.08.2026** (Shanghai Kinmachi New Material Technology Co., Ltd., Room 2115, Gold Source Center, No.28, Yuanwen Road, Minhang District, Shanghai, China) → **To: Q8 GROUP LIMITED** (a/c 79807111801, DBS Bank (Hong Kong) Limited). Товар: **C7026 TM03 T0.3mm*W28mm** — 2 100,0 кг × 20,93 USD/кг = 43 953,64 USD; **C7026 TM03 T0.3mm*W34mm** — 1 400,0 кг × 20,93 USD/кг = 29 302,42 USD. **TOTAL 73 256,06 USD**; условия «by T/T with 50% deposit, and the 50% balance should be fully paid before shipment» → **депозит 50% = 36 628,03 USD** (сумма строки); FOB Shanghai. Банк бенефициара: China Construction Bank Shanghai Branch, Minhang Sub-branch (No.1333 Luoxiu Road, Minhang District, Shanghai), SWIFT **PCBCCNBJSHX**, счёт **3101 4931 0002 2001 7883**. Компания **Q8** (видна из плательщика в документе), клиент — **уточняется** (прецедент 08.09: «уточняется (Q8)»). Q8-расчёт сразу: 36 628,03 + 0,3% + 30 = **36767.91 USDT**, столбец D = ТЕЗ. | 📄 15.09.2026 (📨 Заявки Компания Q8, файл «payment order 36 628.docx») — **PAYMENT ORDER dd 02.09.2026**: AMOUNT **36 628,00 USD**, PAYMENT METHOD bank transfer; BENEFICIARY **SHANGHAI KINMACHI NEW MATERIAL TECHNOLOGY CO., LTD** (Room 2115, Gold Source Center, No.28, Yuanwen Road, Minhang District, Shanghai, China); BENEFICIARY BANK **China Construction Bank Shanghai Branch, Minhang Sub-branch** (No.1333 Luoxiu Road, Minhang District, Shanghai, China); IBAN/счёт **3101 4931 0002 2001 7883**, SWIFT **PCBCCNBJSHX**; посредник не указан; PAYMENT PURPOSE «Payment Invoice No: **20260827-001** dated Aug 27th, 2026 for copper-nickel stripe». Итог: **ордер = заявка** к этой строке (новую не заводил), сумма строки приведена к сумме ордера — **36 628,00** (депозит инвойса 36 628,03 — справочно, расхождение 0,03 = округление); Q8-расчёт пересчитан: 36 628,00 + 0,3% + 30 = **36767.88 USDT** (ТЕЗ). Клиента нет ни в инвойсе, ни в ордере — остаётся «уточняется (Q8)». | 📌 16.09.2026 (Scream): строка перенесена из Main в Молодёжь — это сделка Мосты (Молодёжь), клиент проставлен.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 47,
+    "date": "2026-09-15",
+    "sum": 7770,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Фри Лайнс Компани",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "772381.51 / 35328.75 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "Поручение №25 от 15.09.2026 (Transfer Request No. 25 from 15.09.2026, Приложение №1 к Агентскому договору №09-02-3/26 от 09.02.2026): Принципал АО «Фри Лайнс Компани» (ЮниКредит Банк, Москва) → Агент LLC «VDX SERVICES - FZCO» (счёт VDX ПСБ). Платёж 7 770,00 EUR, получатель CONTINEXUS UAB (JOTVINGIŲ G. 9, LT-02124 VILNIUS; PL PKO BANK POLSKI S.A., SWIFT BPKOPLPWXXX, IBAN PL49102013320000130213621943). Инвойс №479123 dd 2026-07-13 (PVM SĄSKAITA-FAKTŪRA TRN Nr 479123, транспортные услуги, от CONTINEXUS UAB), CONTRACT № FLK dd 01/01/2026. Курс 1 EUR = 99,4056 ₽ → 772 381,51₽. Комиссия агента 35 328,75₽. Срок 2-3 банк. дня. Подписи: Паршин В.В. (Фри Лайнс), Hikmat Ahmadov (VDX). Step 0 🔴 — компания/заявка ждут (по прецеденту Фри Лайнс-сделок в Молодёжь финансирует оператор: Q8/LEO). | ПП №4461 от 15.09.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545, счёт 40702810720010003274, ИНН 9727130961 И КПП 770801001): АО «Фри Лайнс Компани» → VDX SERVICES - FZCO (ПСБ Ярославль, счёт 40807810000000015414), 772 381,51₽ {VO21400} «подлежащие переч-ию для CONTINEXUS UAB Payment for transport service under invoice 479123 dd 13.07.2026, поруч № 25 от 15.09.26 по аген. дог № 09-02-3/26 от 09.02.26» = ТЕЛО по поручению №25. | ПП №4462 от 15.09.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545): АО «Фри Лайнс Компани» → VDX SERVICES - FZCO (ПСБ Ярославль), 35 328,75₽ {VO21100} «оплата вознаграждения согласно поручению № 25 от 15.09.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026» = ВОЗНАГРАЖДЕНИЕ VDX по поручению №25. Сверка: тело 772 381,51 + вознаграждение 35 328,75 = 807 710,26₽ ✓ (7 770,00 × 99,4056 = 772 381,51 ✓). | 📄 Payment Order dd 16/09/2026 (файл «payment order.docx», 📨 Молодёжь): AMOUNT 7 770,00 EUR, BENEFICIARY CONTINEXUS UAB (PL PKO BANK POLSKI S.A., IBAN PL49102013320000130213621943, SWIFT BPKOPLPWXXX), PAYMENT PURPOSE «Payment for transport service under invoice 479123 dd 2026-07-13» — подтверждает конечного получателя/платёж по поручению №25 (= invoice TRN 479123). | ПП на VDX №4461 от 15.09.2026 (772 381,51 ₽ тело, CONTINEXUS UAB, инвойс 479123 dd 13.07.2026, АО ЮНИКРЕДИТ БАНК Г МОСКВА). ПП на VDX №4462 от 15.09.2026 (35 328,75 ₽ вознаграждение по поручению №25, АО ЮНИКРЕДИТ БАНК Г МОСКВА).",
+    "calc": null
   }
 ]
