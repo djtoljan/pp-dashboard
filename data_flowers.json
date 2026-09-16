@@ -928,7 +928,26 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 4042,
+    "sent_usdt": 4124,
+    "notes": "📄 16.09.2026 (📨 Цветы) — **Horizonte Farm SAS → Q8**: инвойс **№42409 dd 14.09.2026** (Due payment 14.09.2026), Foreign purchaser **Q8 GROUP LIMITED** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Grower **HORIZONTE FARM SAS** (NIT 900.398.166-7, Calle 20 25 50, La Ceja, Antioquia, Colombia); товар Hydrogéas/Macrophylla — HYDRANGEA PREMIUM WHITE, 5 000 stems × 0,80 = **TOTAL USD 4 000,00**; Consignment/Fixed Price Invoice; carrier Blako Ethiopian Airlines, MAWB №071-61652426, freight forwarder CEVA FREIGHT MANAGEMENT DE C. Реквизиты из формы Q8 «HORIZONTE FARM SAS 4000.docx»: Account **77925**, банк **BANCO DE BOGOTA MIAMI AGENCY** (701 Brickell Avenue, Suite 1450, Miami, Florida, 33131, USA), SWIFT **BBOGUS3M**; Beneficiary Address Calle 20 no 25 50 La Ceja, Antioquia Colombia. Клиент — **Horizonte Farm SAS (Цветы)**, компания **Q8** (ТЕЗ), ⬜ Step 3. Расчёт: **4 000,00 × 1,006 + 100 = 4 124,00 USDT** (формула SWIFT-платежей Q8 по Цветам — как r40–r46), sent_usdt = 4 124. Дублей по сумме/инвойсу нет (все 5 таблиц + архивы, включая бэкапы). ⚠️ По общей Q8-формуле (сумма + 0,3% + 30) вышло бы 4 042 USDT — в таблице Цветов обе формулы встречаются; проставлена формула свежей партии SWIFT-платежей.",
+    "calc": null
+  },
+  {
+    "row": 50,
+    "date": "2026-09-16",
+    "sum": 43000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": "43 000,00 + 0,3% + 30 = 43 159,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 43159,
     "notes": null,
     "calc": null
   }
