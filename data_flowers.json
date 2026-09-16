@@ -874,5 +874,24 @@
     "sent_usdt": 11788.2,
     "notes": "📄 15.09.2026 21:08 — **Заявка Q8 №7/7** (📨 Заявки Компания Q8; файл «ALIANZA 11618,49 ®І (1).docx»): платёж по форме Q8 — сумма **11 618,49 USD**; BENEFICIARY **LOGIZTIK-GROUP ECUADOR S.A.** (AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ); счёт **02005144694**; банк **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775, Quito – Ecuador), SWIFT **PRODECEQ**; поля «Номер инвойса», регистрационный номер, НДС, директор, банк-корреспондент, расходы и назначение в форме НЕ заполнены. Клиент — **ALIANZA LOGISTICS (Цветы)** (clients-db, группа Цветы; в таблице есть прошлая сделка r36 98 381,51 USD 🟢), компания **Q8**. Расчёт: **11 618,49 × 1,006 + 100 = 11788.20 USDT**. ⚠️ Расхождение с твоим списком: там 11 618,46, в документе — **11 618,49** (+0,03); взял сумму документа. Фондирование: приходы 15.09 — **31 350** (Цветы) + **58 500** (Atlantic Avrora (Цветы)) = **89 850 USDT** под 7 заявок (документы дают 88 618,49 × 1,006 + 700 = 89850.20 ≈ 89 850 ✓). | ✅ 15.09.2026 21:09 — **Инвойс ALIANZA к той же заявке** (файл «Invoice_Q8_Group_Limited_USD_11618_49_15-09-2026.pdf»): **ALIANZA LOGISTIKA TDGE S.A.** (Ave. InterOceanica OE6-73 y Gonzalez Suárez - Tumbaco, тел 02 237 2169, QUITO – ECUADOR) → **Q8 GROUP LIMITED** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong; тел +852 9384 6516; e-mail 3673129021@qq.com); **DOCUMENT NUMBER INV-3803-1, DATE 15-09-2026**; «Shipment No. 145-1210 3803» — **TOTAL (USD) 11 618,49**. Реквизиты получения: Beneficiary ALIANZA LOGISTIKA TDGE S.A. (AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ), Account/IBAN **02005144694**, Bank **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775, Quito – Ecuador), SWIFT **PRODECEQ**; банк плательщика Q8 — **DBS Bank (Hong Kong) Limited** (18/F, The Center, 99 Queen's Road Central, Central, Hong Kong), счёт **79807111801**. Номер инвойса формы в документе: **INV-3803-1** (в самой форме Q8 поле «Номер инвойса» было пусто). | BONBILL Payment Certificate (Тип 7 Q8) 16.09.2026 14:58:47 (📨 ПП компании Q8, файл «11618.49.pdf»): Transaction ID **O2100117174906650624724**; Payer **Q8 GROUP LIMITED** → Payee **LOGIZTIK-GROUP ECUADOR S.A.** (BANCO DE LA PRODUCCION S.A. PRODUBANCO, счёт **02005144694**); **USD 11 618,49**; Remarks «InvoiceINV38031DD15092026ForShipment» = инвойс INV38031 dd 15.09.2026. Реквизиты/счёт/сумма совпали со строкой (заявка Q8 №7/7). EXECUTED → 🟢.",
     "calc": null
+  },
+  {
+    "row": 47,
+    "date": "2026-09-16",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "3519284.83 / 87982.12",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 16.09.2026 (📨 Платежи из Мира Привелегий (операционка) (t23693), файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf») — **Предварительная выписка АО АКИБ «ПОЧТОБАНК» г. Пермь** по счёту **40807810100157518600** (ОсОО «Блэкшарк Трейд»), 16.09.2026 (вх. остаток 9 226 465,47 ₽; Дт 5 237 625,45; Кт 3 607 266,95; исх. 7 596 106,97): приход от **ООО «ПРИОРИТЕТ МАРКЕТ»** (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723) — **Кт №256 3 519 284,83 ₽** {VO11200} «Для зачисления по контракту 25/06-2026 от 25.06.2026, Оплата за цветочную продукцию» + **Кт №257 87 982,12 ₽** {VO21100} «Для зачисления по контракту WD-30 от 25.06.2026, Оплата вознаграждения Агенту» = **3 607 266,95 ₽**. Строки по этому приходу в таблице Цветов не было (проверено по recv/srv) → создана 🔵 (guard-before-create exit 0), `rubles_received` = 3 519 284,83 / 87 982,12. Ждём отправку на VDX / поручение. Дт №577 (5 237 625,45 ₽ → ВиДиИкс, заявка 765) — не по этой строке (подтверждение Main r64, Европласт).",
+    "calc": null
   }
 ]
