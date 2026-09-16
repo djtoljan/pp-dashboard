@@ -1536,15 +1536,15 @@
     "company": null,
     "color": "FFFF0000",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "83 654,55 USD × 1,003 + 100 = 84 005,51 ≈ 84 005 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": "84005",
     "sent_usdt": null,
-    "notes": "📄 16.09.2026 (📨 Платежи VDX, файл «INV-000078.pdf») — **TAX INVOICE # INV-000078** от **Sodalitas Trading L.L.C-FZ** (Dubai, U.A.E.; Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba; business@sodalitas.ae): Invoice Date **16 Sep 2026**, Terms **Due on Receipt**, Due Date 16 Sep 2026; **Contract 01C/2026 dd 02.04.2026**; позиции — **UV ink (bottles)**: 1 729 шт × 23,00 = 39 759,88 + 1 881 шт × 23,34 = 43 894,67; Sub Total **83 654,55 USD** (Discount −14,99); **Balance Due 83 654,55 USD**. Реквизиты: USD-счёт **AE320351031005753309002**, Beneficiary **SODALITAS TRADING LLC FZ** (Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E.), банк **FIRST ABU DHABI BANK PJSC** (Sheikh Zayed Road Branch, Dubai), SWIFT **NBADAEAA**. **Step 0 🔴** — компания-плательщик не названа (ждём ордер «Payment from …» из группы 📨 Платежи VDX). check-all-tables по 83 654,55 / Sodalitas / INV-000078 — совпадений в 5 таблицах нет.",
-    "calc": null
+    "notes": "📄 16.09.2026 (📨 Платежи VDX, файл «INV-000078.pdf») — **TAX INVOICE # INV-000078** от **Sodalitas Trading L.L.C-FZ** (Dubai, U.A.E.; Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba; business@sodalitas.ae): Invoice Date **16 Sep 2026**, Terms **Due on Receipt**, Due Date 16 Sep 2026; **Contract 01C/2026 dd 02.04.2026**; позиции — **UV ink (bottles)**: 1 729 шт × 23,00 = 39 759,88 + 1 881 шт × 23,34 = 43 894,67; Sub Total **83 654,55 USD** (Discount −14,99); **Balance Due 83 654,55 USD**. Реквизиты: USD-счёт **AE320351031005753309002**, Beneficiary **SODALITAS TRADING LLC FZ** (Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E.), банк **FIRST ABU DHABI BANK PJSC** (Sheikh Zayed Road Branch, Dubai), SWIFT **NBADAEAA**. **Step 0 🔴** — компания-плательщик не названа (ждём ордер «Payment from …» из группы 📨 Платежи VDX). check-all-tables по 83 654,55 / Sodalitas / INV-000078 — совпадений в 5 таблицах нет. | 💵 16.09.2026 (Bobr IN 16:31 UTC, 📨 DM @BobrAlertsBot): приход 84 005,0 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 (адрес VDX); txid 0aa960b1caaf5ca9c4552cab0f780400674fccf36a746a2695d50d5aaa66e79a. Заявка подтверждена владельцем — Scream 16.09.2026: «под заявку 83,654.55» ✓ (формула VDX: 83 654,55 × 1,003 + 100 = 84 005,51 ≈ 84 005 USDT). received_usdt = 84 005. Q9 (🟢 ВХОД 84 005 USDT — VDX) отправлен, в леджер записано (q9_sent=true). Парная OUT-выплата по заявке ожидается.",
+    "calc": "ТЕЗ"
   }
 ]
