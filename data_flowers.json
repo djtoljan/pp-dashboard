@@ -910,6 +910,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 16.09.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_to_Q8_99129_84_EUR_16-Sep-2026.pdf»): коммерческий инвойс **AA-Q8-2026-0916 dd 16.09.2026** — Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; директор Aleksandrs Rakovskis) → Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Fresh cut flowers, assorted, 1 lot; Currency EUR; Terms: as per agreement. Total **99 129,84 EUR** (Ninety-Nine Thousand One Hundred Twenty-Nine Euros And 84/100 Only). Банк продавца: Bulgarian-American Credit Bank, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Клиент — **Atlantic Avrora (Цветы)**, компания **Q8** (ТЕЗ), ⬜ Step 3. ⏳ costFormula/sent_usdt ждут кросс-курс FX Q8 под эту заявку: 99 129,84 / K (1 USD = K EUR) + 0,3% + 30 = N USDT (прецедент r39: FX Q8 16.09.2026 1 USD = 0,863025856167 EUR выдавался под 52 851,65 EUR — под 99 129,84 EUR курс не выдавался). Дублей по сумме/инвойсу нет (проверено по всем 5 таблицам и архивам). Продолжение серии AA (AA-Q8-2026-0902 dd 02.09.2026 = r39).",
+    "calc": null
+  },
+  {
+    "row": 49,
+    "date": "2026-09-16",
+    "sum": 4000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Horizonte Farm SAS (Цветы)",
+    "costFormula": "4 000,00 × 1,006 + 100 = 4 124,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 4042,
     "notes": null,
     "calc": null
   }
