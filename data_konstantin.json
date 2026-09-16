@@ -247,25 +247,6 @@
   },
   {
     "row": 14,
-    "date": "2026-09-14",
-    "sum": 150000,
-    "currency": "USD",
-    "company": "INFINITE",
-    "color": "FFFFFFFF",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": "150 000,00 USD + 0,5% = 150 750 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 150750,
-    "notes": "📄 14.09.2026 (📨 Платежи VDX, файл «Invoice 26-360-00024 (2).pdf», 1 стр.) — расходный инвойс **Cranfield Foundry Dooeł Skopje** (Str. Filip Vtori Makedonski num. 3/floor 3, Soravia, Skopje, Macedonia; Legal Entity No 6949371, TaxID 4057014525293; IBAN **MK07300701003103773**, Komercijalna banka AD, SWIFT BSMK2X) → покупатель **PT Infinite Sunrise Asia** (Jalan Udayana No.164, Desa/Kelurahan Buruan, Kec. Blahbatuh, Kab. Gianyar, Bali, Indonesia). Инвойс **№ 26-360-00024**, дата **17.8.2026**, срок оплаты 17.8.2026; предмет: «Technical support in developing the technology of ADI iron casting», 1 000; **ИТОГО 150 000,00 USD** (VAT 0,00 — VAT exempt, art. 14 п.3); основание: **контракт № 03-546 от 01.07.2026**; подготовил Natasha Bojkovska. Компания строки — **INFINITE** (покупатель по инвойсу — индонезийская PT Infinite Sunrise Asia; прецедент — строки 1/2/6/10/12 этой таблицы). Клиент — **Константин (Просто группа)**. ⚠️ Расчёт (costFormula/sent_usdt) НЕ ставил: не-Q8 формула только от Scream (по строке 6 формула была 150 000 + 0,5% = 150 750 USDT — если применима, скажи). Сумма строки = сумме инвойса 150 000,00 USD; заявки/ordера по этой сделке пока нет. | 🧮 16.09.2026 (Scream: «где расчёт строки 14»): расчёт проставлен по прецеденту INFINITE этой же таблицы (строки 1/6/12 — сумма + 0,5%; строка 6 = ровно та же сделка 150 000 USD → 150 750 USDT). costFormula = «150 000,00 USD + 0,5% = 150 750 USDT», sent_usdt = 150 750. ⚠️ Фактических движений USDT по сделке нет: в wallet-ledger за 13–16.09.2026 нет ни прихода (~151 200 = 150 000 × 1,008), ни отправки 150 750 — received_usdt пусто.",
-    "calc": null
-  },
-  {
-    "row": 15,
     "date": "2026-09-15",
     "sum": 24177.17,
     "currency": "EUR",
@@ -284,7 +265,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 16,
+    "row": 15,
     "date": "2026-09-16",
     "sum": 102266,
     "currency": "USD",
