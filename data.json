@@ -1318,5 +1318,24 @@
     "sent_usdt": 31890.41,
     "notes": "📄 15.09.2026 — 🧾 Заявка (📨 15.09.2026 19:31, Scream → пересылка **Diana_VDX**, файл «31,648.00 USD INV_30072026.pdf») — **«Payment from TrawelCom ❗️»**: получатель **Joy Resort Private Limited** (H.Sonary Buildings, 02nd Floor, Boduthakurufaanu Magu, Male City, Maldives 20026); банк **The Hongkong and Shanghai Banking Corporation Limited** (24 Sir Baron Jayatilaka Mawatha, Colombo, Sri Lanka), SWIFT **HSBCLKLX**, счёт **011-009982-002** (US$); Payment details **INV.79385920 dd 14.09.2026** — TOUROPERATOR INVOICE (Joy Island Maldives 5*, проживание 04.09.2026–31.10.2026: 31 654,00 − комиссия 6,00 = **31 648,00 USD**); комиссия **OUR**. Компания по указанию владельца — **UK**, клиент — VDX. ✅ Сверка с фактом: **31 648,00 × 1,0045 + 100 = 31 890,42 ≈ выплата 31 890,41 USDT** ✓ (запись `OUT_31890.41_15.09.2026`, txid 47…/факт), фондирование `IN_31890_15.09.2026` (от `TT2oR4q…`). | 🖼️ 16.09.2026 (📨 Платежи VDX, файл «Joy Resort Private 31648 usd.pdf», UETR 84abe22b-42e3-4773-a233-75deeb002f90) — PAYMENT ORDER DEBIT ADVICE (TONIO; ремиттер TRAVELCOM LIMITED, IBAN GB72TONI04282200006501) → Joy Resort Private Limited (счёт 011009982002, HSBC Bank, SWIFT HSBCLKLX), 31 648,00 USD, Details INV.79385920 dd 14.09.2026, Execution Date 09/15/2026; штамп в поле «Bank’s confirmation» — **EXECUTED** (прочитан рендером страницы). Строка ⬜→🟡→🟢 (одним документом: платёж запущен и исполнен).",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 70,
+    "date": "2026-09-16",
+    "sum": 976075.38,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ИП Сыромятникова",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 16.09.2026 (📨 ИП Сыромятников, файл «doc07641920260916091721.pdf», 9 стр.: контракт + Приложение №1 + проформа) — **CONTRACT № HWG2026-0831-02C dd 31.08.2026** между **HAEWON GLOBAL Co., Ltd.** (Korea, Seller; 14117 #13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do; банк Industrial Bank of Korea, PYEONGCHON IT, счёт 931-038712-56-00019, SWIFT IBKOKRSEXXX) и **ИП Сыромятникова Ольга Геннадьевна** (Buyer; 644024, г. Омск, ул. Лермонтова, д. 62, кв. 20; ИНН 550605346899; банк «Азиатско-Тихоокеанский Банк» (АО), SWIFT ASANRU8XXXX, счёт 0802 810 9 0158 0854692): Polymeric materials (PET), общая стоимость контракта **RMB 976 075,38**, поставка на территорию РФ, срок действия до 31.12.2026. **ADDENDUM No.1 / Приложение №1**: PET CHIPS grade YS-Y01 (IV 0,83) — **138 MT × RMB 7 073,01/MT = RMB 976 075,38**, FOB DALIAN (China), упаковка PET в биг-бэгах по 1 150 кг, производитель YISHENG DAHUA PETROCHEMICAL CO., LTD; график: **100% предоплата до 15.09.2026**, отгрузка до 31.10.2026. **PROFORMA INVOICE № HWG2026-0831-02PI dd 31.08.2026**: PET CHIPS grade YS-Y01 (IV 0.83), HS code 3907610000, 138 MT × RMB 7 073,01 = **RMB 976 075,38**; partial payments allowed, 100% to be paid by SEPTEMBER 15, 2026; Port of loading Dalian, Port of discharge Vladivostok. Step 0 🔴 — компания-плательщик (VDX/Blackshark/…) не названа, ждём заявку/поручение. check-all-tables по 976 075,38 / HWG2026-0831 / HAEWON — совпадений в 5 таблицах нет. | 🏦 16.09.2026 (📨 ИП Сыромятников, файл «2026_09_16_15_15_Запрос_ведомости_банковского_контроля_26091628.pdf») — **ВЕДОМОСТЬ БАНКОВСКОГО КОНТРОЛЯ ПО КОНТРАКТУ** (ОКУД 0406008; УК — Филиал «Центральный» Банка ВТБ (ПАО) в г. Москве): уникальный номер контракта **26091628/1000/0081/2/2 от 08.09.2026**; резидент **Сыромятникова Ольга Геннадьевна** (ОГРНИП 322554300065325, ИНН 550605346899); нерезидент **HAEWON GLOBAL Co., Ltd** (КОРЕЯ, РЕСПУБЛИКА, код 410); контракт **HWG2026-0831-02C от 31.08.2026**, валюта контракта ЮАНЬ (код 156), **сумма контракта 976 075,38**, дата завершения исполнения обязательств **31.12.2026**. Подтверждает постановку контракта на учёт в ВТБ (банковский контроль сделки). Строку не создавал, цвет/`sum` не менял.",
+    "calc": null
   }
 ]
