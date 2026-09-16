@@ -1432,5 +1432,43 @@
     "sent_usdt": null,
     "notes": "📄 16.09.2026 (📨 ВТС-Fininvest (t191), файл «rpp_4304.pdf») — **ПП № 4304 от 16.09.2026** (ВТБ, Филиал «Центральный», БИК 044525411; исполнен 16.09.2026, ЭП Сложеникин Н.А.): Плательщик **ООО «ЕТЕ»** (ИНН 9728133429, КПП 772801001, счёт 40702810324760001500) → Получатель **ООО «БиТрейд Кей Джи»** (ИНН 9909705572, КПП 772887001, счёт 40807810525640000008); сумма **4 841 895,93 ₽**; Назначение {VO21200}: «Оплата оказанных транспортных услуг по Дог. 20-04/2026 от 20.04.2026, инвойсу 73714 от 01.09.26. В рамках Дог. на ок. поср. услуг № 2026/05/29-1 от 29.05.26, пор.12 от 16.09.2026», НДС не облагается. **🔵** (рубли без заявки), `rubles_received` = 4 841 895,93 ₽. Комплект по поручению 12 от 16.09.2026 с ПП №4305 (Main r74 — 72 628,45 ₽, посреднические услуги). Ждём поручение/инвойс. | 📄 16.09.2026 (📨 ВТС-Fininvest (t191), файл «Поручение 12.pdf») — **ПОРУЧЕНИЕ № 12 от 08.09.2026** (Transfer request No 12; Приложение № 2 к договору на оказание посреднических услуг № 2026/05/29-1 от 29.05.2026): от **ООО «ЕТЕ»** в адрес **ОсОО «БиТрейд Кей Джи»** (Кыргызская Республика) на платёж по **инвойсу 73714 от 01.09.2026**; сумма и валюта платежа **57 479,99 USD**; получатель **PT INNOVATIVE DATA FLOW** (BENOA SQUARE, JALAN BYPASS I GUSTI NGURAH RAI NOMOR 21A, KEDONGANAN KUTA, BADUNG, BALI 80361); банк **PT. Bank Mandiri (Persero) Tbk**, SWIFT **BMRIIDJA**, счёт **1750003421038** (USD), bank code 008, branch 3292; назначение «Оплата Услуг по Договору TRANSPORT EXPEDITION AGREEMENT 20-04/2026 dd 20.04.2026, Инвойс № 73714 от 01.09.2026»; **курс конвертации 84,2362**; сумма к перечислению в рублях **4 841 895,93 RUB**; **комиссия Агента 1,5%**. Подписи: Сложеникин Н.А. (ЕТЕ), Курьянов А.А. (БиТрейд). → **это тело сделки**: `sum` = 57 479,99 USD, цвет 🔵→🔴 (Step 0). | 📄 16.09.2026 (📨 ВТС-Fininvest (t191), файл «Data Flow invoice 57479,99 USD.pdf») — **PT INNOVATIVE DATA FLOW INVOICE № 73714 от 01.09.2026** (due date 06.09.2026; BENOA SQUARE, JALAN BYPASS I GUSTI NGURAH RAI NOMOR 21A, KEDONGANAN KUTA, BADUNG, BALI 80361): BILL TO **ЕТЕ LLC** (117246, Москва, Проезд Научный, 17, пом. 37/15); контракт **TRANSPORT EXPEDITION AGREEMENT NO. 20-04/2026 dd 20.04.2026**; «Order for payment for transport services 73714 dd 01.09.2026» — **57 479,99 USD** = **4 841 895,93 ₽**. Реквизиты: SWIFT **BMRIIDJA**, счёт **1750003421038** (USD), BANK MANDIRI (Persero) PT, Beneficiary **PT INNOVATIVE DATA FLOW**. Совпадает с Поручением № 12 и ПП №4304 по этой строке. | 📄 16.09.2026 (📨 ВТС-Fininvest (t191), файл «Data Flow invoice 57479,99 USD.xlsx», сообщение «инвойс от Flow для Q8») — **PT INNOVATIVE DATA FLOW INVOICE № 73714 от 01.09.2026** (due date 06.09.2026) в **xlsx-версии**: BILL TO **Q8 GROUP LIMITED** (RM A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); «Order for payment for transport services 73714 dd 01.09.2026» — **57 479,99 USD**; банк BANK MANDIRI (Persero) PT, SWIFT **BMRIIDJA**, Bank Code 008, Branch 3292, счёт **1750003421038** (USD). ⚠️ Расхождение: в PDF-версии того же инвойса Bill To был указан **ООО «ЕТЕ»**, в xlsx — **Q8 GROUP LIMITED** (Scream: «инвойс от Flow для Q8»). Компания-плательщик этой сделки → **Q8** (Step 3, ⬜).",
     "calc": null
+  },
+  {
+    "row": 76,
+    "date": "2026-09-16",
+    "sum": 32973.04,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ООО ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 16.09.2026 (📨 ВТС-Fininvest (t4070), файл «Поручение 72780.pdf») — **ПОРУЧЕНИЕ № 72780 от 16.09.2026** (Transfer request No 72780; Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): от **ООО «ВТС»** в адрес **ОсОО «БиТрейд Кей Джи»** (КР) на платёж по **инвойсу 72780 от 29.06.2026**; сумма и валюта платежа **32 973,04 EUR** (50% от инвойса ITRIX № 72780 на 65 946,08 EUR); получатель **Itrix Co., Ltd.** (725 S Metro Building, 20th Floor, Sukhumvit Road, Khlong Tan Nuea, Watthana, Bangkok, Thailand 10110); банк **Siam Commercial Bank PCL**, SWIFT **SICOTHBK**, счёт **468-000094-6-978** (EUR); назначение «Sales Contract № 25-01/10 dd 01.10.2025, Инвойс № 72780 dd 29.06.2026»; **курс конвертации 97,7300**; сумма в рублях **3 222 455,20 ₽**; **комиссия Агента 1,5% + 100 USD** (= инвойс услуг БиТрейд № 72780 от 16.09.2026: 494,60 EUR + 100,00 USD = **56 806,83 ₽**). Подписи: Бондарев А.П. (ВТС), Курьянов А.А. (БиТрейд). Step 0 🔴 — строка заведена по поручению; RUB-приход/ПП по ней ещё не приходили.",
+    "calc": null
+  },
+  {
+    "row": 77,
+    "date": "2026-09-16",
+    "sum": 23000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 16.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; приложен «INV.F012979 23,000.00 USD.pdf») — платёжный ордер: бенефициар **Tomco Incentive & Travel Service Ltd.** (Unit 26, Floor L2, Mirror Tower, 61 Mody Road, Tsimshatsui East, Hong Kong); банк **Bank of China (Hong Kong) Limited** (Floor 14/19, Bank of China Tower, 1 Garden Road, West Kowloon), SWIFT **BKCHHKHHXXX**, счёт **012-878-2-034186-5**; Payment details: **INV.F012979 dd.16/09/2026**; сумма **23 000,00 USD**; **OUR**. Приложенный **Invoice File F012979 dd 16-Sep-26** (TOMCO Incentive & Travel Service Ltd.): Arrival 24Oct26 / Departure 02Nov26, Mr. Viktor Chuprygin ×5 pax — Peninsula Shanghai (23–28.10) и Peninsula Hong Kong (28.10–02.11), трансферы и туры HKG/MFM (Macau Tower, House of Dancing Water, city tour) — **Total USD 23 000,00**. Компания-плательщик не названа → **🔴 Step 0**; клиент — **VDX** (группа-источник). check-all-tables по 23 000 / Tomco / F012979 — совпадений в 5 таблицах нет.",
+    "calc": null
   }
 ]
