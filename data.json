@@ -1164,7 +1164,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 16.09.2026 (📨 Отправки рублей ПП., файл «CNY 870 720,00 ОМИА.docx») — **Заявление на валютный перевод** (Blackshark Trade LLC): Payment date (planned); Amount of payment **870 720,00 CNY**; Payment currency **CNY**; Recipient **ZHEJIANG ZANYU NEW MATERIAL CO.,LTD.** (FLOOR 2, BUILDING 1, YUEQUAN INTELLIGENT EQUIPMENT INDUSTRIAL PARK, NO.589, FENGHE ROAD, PUJIANG COUNTY, ZHEJIANG PROVINCE CHINA); Recipient bank **PJSC VTB BANK Shanghai Branch** (Beneficiary Bank Code 767290000018; Office 2503-2505, Shanghai Tower, 501 Middle Yincheng Road, Shanghai 20012), SWIFT **VTBRCNSH**, счёт **40807156200610029443**; Purpose «Payment under contract 18052026 dt 18.05.26 for goods», HS code 33823110000, **Advance**, transfer fee **OUR**. Маршрут совпадает с реквизитами из `extra` (проформа ZYXCH260910FTC1039: stearic acid 1860, 96 MT × ¥9 070 = ¥870 720). Строку не создавал, `sum`/цвет не менял (статусного документа банка нет) — это маршрут существующей строки.",
     "calc": null
   },
   {
