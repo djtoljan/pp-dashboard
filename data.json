@@ -1363,7 +1363,7 @@
     "sum": 31624.1,
     "currency": "EUR",
     "company": "PRIME Food",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Мир Привелегий",
     "costFormula": "(31 624,10 EUR) 36 477,49 / 0,9965 + 100 = 36 706 USDT",
     "extra": null,
