@@ -1306,7 +1306,7 @@
     "sum": 31648,
     "currency": "USD",
     "company": "UK",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "VDX",
     "costFormula": "31 648,00 × 1,0045 + 100 = 31 890,42 USDT (фактическая выплата 31 890,41)",
     "extra": null,
