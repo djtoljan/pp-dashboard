@@ -948,7 +948,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 43159,
-    "notes": null,
+    "notes": "📄 16.09.2026 (📨 Цветы) — **Dolina Agro Ltd → Q8 Group Limited**: инвойс **DA-160926-01 dd 16.09.2026**, валюта USD, **43 000,00 USD** (TOTAL USD; TOTAL STEMS 55 500, 7–8 box, розы: Explorer 7 000 × 0,85 = 5 950, Freedom 7 000 × 0,72 = 5 040, Pink Floyd 6 500 × 0,95 = 6 175, White Chocolate 7 000 × 0,80 = 5 600, Kahala 6 500 × 0,76 = 4 940, Mondial 7 000 × 0,78 = 5 460, Lola 7 000 × 0,74 = 5 180, Paloma 7 500; Comision/Packing/Inland 0,00; EXW, Truck INTERFLOWERS). Продавец: Dolina Agro Ltd (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL; Registration 515826436); банк **BANK LEUMI LE ISRAEL**, Business Nathanya Branch 744, SWIFT **LUMIILITXXX**, IBAN **IL750107440000027660042**. Покупатель: Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Клиент — **Dolina Agro (Цветы)** (clients-db, группа Цветы; прошлые сделки r14/r19/r27 — 🟢), компания **Q8** (ТЕЗ), ⬜ Step 3. Расчёт: **43 000,00 + 0,3% + 30 = 43 159,00 USDT** (как r19/r27 этого же клиента), sent_usdt = 43 159. Дублей по сумме/инвойсу нет (все 5 таблиц + архивы/бэкапы; прежние DA-инвойсы — другие номера и суммы). | 🧾 16.09.2026 (📨 Цветы, форма Q8 «Dolina Agro Ltd 43000.docx»): реквизиты формы совпадают со строкой — сумма USD 43 000, бенефициар Dolina Agro Ltd (P.O. Box 3103, 10, Bareker str., Industrial Park Caesarea, 38900 ISRAEL), счёт IL750107440000027660042, SWIFT LUMIILITXXX, банк BANK LEUMI LE ISRAEL (BUSINESS NATHANYA BRANCH 744); поля Intermediary/Correspondent/Payment details пустые.",
     "calc": null
   }
 ]
