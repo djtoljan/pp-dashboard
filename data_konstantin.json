@@ -327,17 +327,17 @@
     "sum": 164245.29,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "164 245,29 + 0,3% + 30 = 164 768,03 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 164768.03,
+    "notes": "📄 17.09.2026 (📨 Константин Просто Группа, подпись «**Платит Q8**»; файл «ASM LIST 20260914 USD.pdf») — **PROFORMA INVOICE № ASM-260914 от 2026-9-14**: Shipper/Exporter **BEST PARTS CORPORATION** (Rm511, 12, Muwon-ro 6, Duckyang-Gu, Goyang-Si, Gyeonggi-Do, Korea; TEL +82-70-7559-2112), Consignee **HONRUS SHIPPING CO., LTD** (Room 711, No.157 DongBaoXing Road, Hongkou District, Shanghai, P.R.China; lily@honrus.com), Notify party **CIMC Wetrans International shipping (Shandong) Co., Ltd** (FULLHOPE PLAZA, NO.12 Hong Kong Middle Road, Qingdao, Shandong, China 266071). Port of loading **BUSAN, KOREA** → discharge/final destination **Qingdao**. Товар: **AUTO SPARE PARTS**, **12 255 PCS**, **$164 245,29** (детали — в спецификации «PROFORMA INVOICE SPECIFICATION, connected with Proforma Invoice No. ASM-260914»). Payment purpose: **advance payment for goods**. Банк: **KEB HANA BANK**, branch Hwajeong station (47, Hwajeong-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, Korea), SWIFT (BIC) **KOEXKRSEXXX**, BENEFICIARY **BEST PARTS CORPORATION**, счёт **415-910021-67138**. Плательщик — **Q8** («Платит Q8»), клиент — **Константин (Просто группа)**. Строка заведена 🔴 (Step 0), Q8-расчёт проставлен сразу: `costFormula = 164 245,29 + 0,3% + 30 = 164 768,03 USDT`. | 📄 17.09.2026 (📨 Константин Просто Группа, файл «Заявка на выплату (Best Parts) 164 245,29.xlsx») — **Заявка на выплату** (бланк клиента): Сумма платежа **164 245,29** (USD), Валюта **USD**; банк бенефициара **KEB HANA BANK** (Korea, Hwajeong station branch; 47, Hwajeong-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, Korea); счёт **415-910021-67138**, SWIFT **KOEXKRSEXXX**; Бенефициар **BEST PARTS CORPORATION** (Korea; 12, Muvon Street#6, Duckyang-Gu, Gyeonggi-Do, Korea); Назначение платежа: «**Advance payment for goods. Customer Number: ASM**»; Invoice: **ASM-260914 dd 2026-9-14**. Сумма заявки = сумме инвойса и сумме строки (164 245,29 USD) ✓. Заявка получена → статус 🔴→⬜ (Step 3, событие записано в events.jsonl).",
     "calc": null
   }
 ]
