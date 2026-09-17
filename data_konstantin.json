@@ -301,5 +301,24 @@
     "sent_usdt": null,
     "notes": "📄 17.09.2026 (📨 Константин Просто Группа, файл «invoice_page_2.pdf» — стр. 2 инвойса) — **TAX INVOICE № INV/2026/02699-97 от 10.09.2026**: Shipper/Seller **Karam Al Arab General Trading LLC** (Industrial Area 11, Warehouse #5, Sharjah, UAE; TRN 104695189100003); Consignee **PT Surya Bahari Global** (Jalan Tebet Raya No 11G 1, Desa/Kelurahan Tebet Barat, Kec. Tebet, Kota Adm. Jakarta Selatan, DKI Jakarta 12810, Indonesia). Позиции: TIMSS 50 ML EDP PARFUM 37 598 × 1,28 = 48 125,86; MILAN 100 ML EDP PARFUM 11 210 × 4,59 = 51 453,90; DEPO RAF MALZEMESİ 94 × 2,55 = 239,70; SILVAN 25 ML EMPTY BOX 310 × 0,20 = 63,24; TIMSS 50 ML EMPTY BOX 230 × 0,51 = 117,30; SUBTOTAL / **Balance Due $100 000,00** (VAT 0%). Банк: **PT Surya Bahari Global**, Bank Mandiri (Ubud, Jl. Raya Andong No.54, Gianyar, Bali 80571), SWIFT **BMRIIDJA**, счёт USD **1450019194485**. = Step 0 🔴 (новая сделка, компания-плательщик не названа). check-all-tables по INV/2026/02699-97 / Karam Al Arab / Surya Bahari / 100 000 USD — совпадений строк нет. ⚠️ Пришла только стр. 2 (стр. 1 инвойса отсутствует); в документе прямого упоминания Константина нет (стороны — Karam Al Arab → PT Surya Bahari Global), клиент определён по группе-источнику — уточнить у Scream, если сделка не Константина. | 📄 17.09.2026 (📨 Константин Просто Группа, файл «100.000USD (17.09.2026).xlsx») — **платёжный ордер** (Signed for and on behalf of the Agent / for and on behalf of the Subagent): Beneficiary **Karam Al Arab General Trading LLC** (Industrial Area 11, Warehouse #5, Sharjah, UAE); банк получателя **RAKBANK (National Bank of Ras Al-Khaimah)**, Umm Hurrair Branch, Dubai, UAE, SWIFT **NRAKAEAK**, IBAN **AE94 0400 0003 3373 6870 002**; Details of payment «Payment for Invoice No. **INV/2026/02699-97** dated **10/09/2026**»; Amount **100 000,00 USD**; Additional information: Supplier **Karam Al Arab General Trading LLC** (TRN 104695189100003), **Buyer: PT Infinite Sunrise Asia (Bali, Indonesia)**. Ордер = сумме строки (100 000 USD) ✓, реквизиты совпадают с инвойсом (стр. 2). Цвет 🔴 (компания-плательщик не названа). ⚠️ Покупатель по ордеру — **PT Infinite Sunrise Asia**, а инвойс выписан на консигнатора **PT Surya Bahari Global** — сверить, если это разные стороны.",
     "calc": null
+  },
+  {
+    "row": 17,
+    "date": "2026-09-17",
+    "sum": 12300,
+    "currency": "USD",
+    "company": "Z SOURCE",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
