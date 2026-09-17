@@ -1717,5 +1717,24 @@
     "sent_usdt": 70130.82,
     "notes": "📄 17.09.2026 (📨 Заявки Компания Q8, файл «Invoice DANYANG ODAVFONE TOOLS CO., LTD(1).pdf») — **Payment from Q8❗️** (ордер на платёж): Beneficiary **DANYANG ODAVFONE TOOLS CO., LTD** (No.358, Binhe Road, Houxiang, Danbei Town, Danyang City, Jiangsu, China 212312); Bank **AGRICULTURAL BANK OF CHINA** (JIANGSU BRANCH, P.R.CHINA), SWIFT **ABOCCNBJ100**, счёт **10322014040019558**; Payment details **inv. VF-PG24 DD 25/08/2026**; Amount **69 891,15 USD**; **OUR**. Приложен инвойс **IV # VF-PG24** от 25-Aug-26 (продавец DANYANG ODAVFONE TOOLS CO.,LTD; BUYER: Bright Nova Limited, Room 701, Unit 108, 7/F, Tower B, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui, Kowloon, HK; сверла DIN338 HSS 4241 half ground / Tin-coated / HSS M35 + наборы TDBS, 180 cartons; Price terms FOB CHINA; TOTAL USD **69 891,15** = сумме ордера, оплата полная). Строка создана по ордеру (сумма = сумма ордера; инвойс справочно). Компания-плательщик **Q8** → ⬜. Q8-расчёт: 69 891,15 + 0,3% + 30 = 70 130,82 USDT (sent_usdt проставлен). Клиент строки **VDX** (по классу заявок «📨 Заявки Компания Q8», как row 87/89) — требует подтверждения Scream.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 91,
+    "date": "2026-09-17",
+    "sum": 7100,
+    "currency": "USD",
+    "company": "-",
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
