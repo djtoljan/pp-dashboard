@@ -1650,15 +1650,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "80 000,00 + 0,3% + 30 = 80 270 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "sent_usdt": 80270,
+    "notes": "📄 17.09.2026 (📨 Заявки Компания Q8, файл «INV_PROFUN_80,000.00 USD.pdf») — **Payment from Q8❗️** (ордер): Beneficiary **PROFUN INTERNATIONAL TRADING GROUP** (US/840, 13 Campden Rd., Scarsdale, NY 10583-3301); Bank **JPMORGAN CHASE BANK, N.A.** (US/840 New York, 383 Madison Avenue), SWIFT **CHASUS33XXX**, счёт **829703719**; Payment details **BTV-2024-04**; Amount **80 000,00 USD**; **OUR**. Приложен инвойс **BTV-2024-04 dd 14.05.2026** (Seller PROFUN INTERNATIONAL TRADING GROUP, NY) — парфюмерия (OUD Orange/Noir/Rose/Vert/Jaune, Heritage, Brume du Matin, Santal Complet, Cannabis Blue, Siberian Rose, Solstis, New York/Milano/London/Voyage/Cavort/Lovers, Travel Set). Строка создана по ордеру (сумма = сумма ордера 80 000,00 USD; инвойс справочно). Компания-плательщик **Q8** → ⬜. Q8-расчёт: 80 000,00 + 0,3% + 30 = 80 270 USDT (sent_usdt проставлен). Клиент строки VDX (по классу заявок «Payment from Q8») — требует подтверждения Scream.",
+    "calc": "ТЕЗ"
   }
 ]
