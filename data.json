@@ -1656,9 +1656,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 80340,
     "sent_usdt": 80270,
-    "notes": "📄 17.09.2026 (📨 Заявки Компания Q8, файл «INV_PROFUN_80,000.00 USD.pdf») — **Payment from Q8❗️** (ордер): Beneficiary **PROFUN INTERNATIONAL TRADING GROUP** (US/840, 13 Campden Rd., Scarsdale, NY 10583-3301); Bank **JPMORGAN CHASE BANK, N.A.** (US/840 New York, 383 Madison Avenue), SWIFT **CHASUS33XXX**, счёт **829703719**; Payment details **BTV-2024-04**; Amount **80 000,00 USD**; **OUR**. Приложен инвойс **BTV-2024-04 dd 14.05.2026** (Seller PROFUN INTERNATIONAL TRADING GROUP, NY) — парфюмерия (OUD Orange/Noir/Rose/Vert/Jaune, Heritage, Brume du Matin, Santal Complet, Cannabis Blue, Siberian Rose, Solstis, New York/Milano/London/Voyage/Cavort/Lovers, Travel Set). Строка создана по ордеру (сумма = сумма ордера 80 000,00 USD; инвойс справочно). Компания-плательщик **Q8** → ⬜. Q8-расчёт: 80 000,00 + 0,3% + 30 = 80 270 USDT (sent_usdt проставлен). Клиент строки VDX (по классу заявок «Payment from Q8») — требует подтверждения Scream.",
+    "notes": "📄 17.09.2026 (📨 Заявки Компания Q8, файл «INV_PROFUN_80,000.00 USD.pdf») — **Payment from Q8❗️** (ордер): Beneficiary **PROFUN INTERNATIONAL TRADING GROUP** (US/840, 13 Campden Rd., Scarsdale, NY 10583-3301); Bank **JPMORGAN CHASE BANK, N.A.** (US/840 New York, 383 Madison Avenue), SWIFT **CHASUS33XXX**, счёт **829703719**; Payment details **BTV-2024-04**; Amount **80 000,00 USD**; **OUR**. Приложен инвойс **BTV-2024-04 dd 14.05.2026** (Seller PROFUN INTERNATIONAL TRADING GROUP, NY) — парфюмерия (OUD Orange/Noir/Rose/Vert/Jaune, Heritage, Brume du Matin, Santal Complet, Cannabis Blue, Siberian Rose, Solstis, New York/Milano/London/Voyage/Cavort/Lovers, Travel Set). Строка создана по ордеру (сумма = сумма ордера 80 000,00 USD; инвойс справочно). Компания-плательщик **Q8** → ⬜. Q8-расчёт: 80 000,00 + 0,3% + 30 = 80 270 USDT (sent_usdt проставлен). Клиент строки VDX (по классу заявок «Payment from Q8») — требует подтверждения Scream. | Фондирование 17.09.2026 11:55:33 UTC: IN 80 340,00 USDT на кошелёк «Z Source 2» (TJXfWVB7DTZ7wVb5N5vM2NLBaEXAaWgLCF) от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2 (адрес фондирования VDX), txid 4f1e47ee978b9a6ae1e34112bebefef206ddc32baa67b963dd5093da44ce1d99 (запись леджера IN_80340_17.09.2026, q9_sent=true) → received_usdt = 80 340. Привязка по сумме к заявке 80 000,00 USD (ордер PROFUN).",
     "calc": "ТЕЗ"
   },
   {
@@ -1678,6 +1678,25 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "📄 17.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «INV_18 767.00 USD.pdf») — **SCHOOL FEE INVOICE № INV2026916S1-01 от 16.Sep.2026** (NACIS Shanghai, Attention to: Alena Kabanova G11; NO. 1399, Jinhui Road, Minhang District, Shanghai 201107, China; info@nacis.cn, +86(021) 2403 8800): Tuition Fee (Oct/2026–Jan/2027) 91 429 RMB + Boarding Fee 18 590 + Canteen Fee 11 924 + School Uniform Fee 4 000 = **TOTAL CNY 125 943 или USD 18 767** (курс 1 USD ≈ 6,7109 RMB); оплатить до 18.09.2026. Получатель **Shanghai Min Hang Qu Nuo Da Shuang Yu Xue Xiao**, счёт **31001628616050014070**, банк **China Construction Bank, Shanghai Huacao Sub-branch** (No. 492-500 Jinfeng Road, Minhang, Shanghai 201107), Bank Code **105290078049**, SWIFT **PCBCCNBJSHX**; Amount **18 767,00 USD**, OUR. Клиент — VDX (по каналу «📨 Платежи VDX»), компания-плательщик не названа → 🔴 (Step 0). | Компания-плательщик уточнена владельцем (Scream 17.09.2026): **UK** → цвет ⬜ (Step 3). Расчёт (costFormula/sent_usdt) — ждём формулу от владельца (не Q8).",
+    "calc": null
+  },
+  {
+    "row": 89,
+    "date": "2026-09-17",
+    "sum": 86095.63,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": "86 095,63 + 0,3% + 30 = 86 383,92 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 86383.92,
+    "notes": null,
     "calc": null
   }
 ]
