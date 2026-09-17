@@ -197,9 +197,9 @@
   {
     "row": 11,
     "date": "2026-09-17",
-    "sum": 3000.27,
+    "sum": 6665.63,
     "currency": "EUR",
-    "company": "-",
+    "company": "—",
     "color": "FFFF0000",
     "clientName": "ОНИКС (Движение 78)",
     "costFormula": null,
@@ -210,7 +210,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 17.09.2026 (📨 Движение 78 (t1059), файлы «2026-09-16_ПТ_Инвойс_PadelMarket_D1004_Rackets.pdf» + «Application for transfer 3 000,27 .docx») — два документа одной сделки с **EUROPEAN PADEL MARKET S.L.**.\n1) **INVOICE #D1004 от 16.09.2026** (Padel Market, Calle del Doctor Esquerdo 105, Madrid, 28007, Spain; padelmarket@padelmarket.com): CUSTOMER / Beneficiary — **«Onix» LLC** (офис 225, пом. 28Н, лит. М, д. 6, ул. Лифляндская, Санкт-Петербург, 190020; ИНН 7839125772, КПП 783901001; счёт 40702156426620000148, VTB Bank (PJSC), ЦЕНТРАЛЬНЫЙ, Москва, SWIFT VTBRRUM2MS2; ген. директор Mr. Emelyanov Vladimir Alekseevich). Позиции: 20 падел-ракеток (NOX AT10 GENIUS 12K/18K/18K Buenos Aires, NOX ML10 VENTUS / NERBO+ / VENTUS Hybrid, BULLPADEL HACK 04 LTD / XPLO / NEURON 02 2026 и 2027 / VERTEX 05, WILSON ENDURE PRO V1, KOMBAT KRAKATOA 2025, ROYAL PADEL M27 Light, STARVIE KENTA+ / ASTRUM+), цены 75,20–191,29€; Subtotal **3 000,27€**, Shipping 0,00€, ES IVA 0,0% — 0,00€, **TOTAL (EUR) 3 000,27€**.\n2) **Application for transfer** (заявление на перевод; файл назван «3 000,27», в самом бланке): Currency **EUR**; **Amount (Sum): 6 665.63**; Beneficiary **EUROPEAN PADEL MARKET S.L.**; Beneficiary Bank **Santander Bank** (PAMPA, CAMINO DE CANTABRIA S/N, BAODILLA DEL MONTE, MADRID); IBAN **ES43 0049 5130 5829 1630 4737**; SWIFT **BSCHESMMXXX**; **Purpose of payment: PAYMENT FOR invoice № 275686 dd 13.08.2026**; Remark — нечитаемый (кракозябры в docx).\n⚠️ РАСХОЖДЕНИЕ: сумма в заявке (6 665,63 EUR) не совпадает с итогом приложенного инвойса D1004 (3 000,27 EUR) и с именем файла заявки («3 000,27»); заявка ссылается на инвойс № 275686 dd 13.08.2026 (в таблицах нет). По правилу **сумма строки = сумма заявки** → `sum = 6 665,63 EUR` (было 3 000,27 по инвойсу). Требуется подтверждение Scream. Компания-плательщик в документах не названа → статус 🔴 (Step 0); клиент — **ОНИКС (Движение 78)**. `row-guards find-merge-on-invoice` — exit 0 (🔵 для слияния нет).",
     "calc": null
   }
 ]
