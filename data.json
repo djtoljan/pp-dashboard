@@ -1213,16 +1213,16 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Европласт",
-    "costFormula": null,
+    "costFormula": "52 595,41 / 0,868099949936 (FX Q8 17.09.2026: 1 USD = 0,868099949936 EUR) + 0,3% + 30 = 60 798,57 USDT",
     "extra": null,
     "rubles_received": "5232393.06 / 5232.39",
     "sent_rubles_vdx": "5237625.45",
     "exchange_to": "VDX",
     "vdx_rate": 84.4,
     "received_usdt": "61995.12",
-    "sent_usdt": null,
+    "sent_usdt": 60798.57,
     "notes": "🏦 15.09.2026 — выписка АО АКИБ «ПОЧТОБАНК» г. Пермь (владелец счёта ОсОО «Блэкшарк Трейд», счёт 40807810100157518600, RUB; расширенная версия, сформ. 17:16 GMT+05, вх. остаток 13 216 696,97 ₽). Приходы от ООО «КАЗАНСКИЙ ЗАВОД \"ЕВРОПЛАСТ\"» (ИНН 1659043199, счёт 40702810962210100974, БИК 049205603): док. №3487 {VO11100} **5 232 393,06 ₽** — «за оборудование по контракту 001-KAZ-001 от 03.09.2026, инвойс 001-KAZ-INV от 03.09.2026»; док. №3488 {VO21100} **5 232,39 ₽** — комиссия агента за проведение платежа по агентскому договору 14-08/25 от 14.08.2025 по поручению №4 от 15.09.2026. Итого зачислено 5 237 625,45 ₽ → `rubles_received` = 5 232 393,06 / 5 232,39 (тело / агентские). Проверки: check-all-tables по 5 232 393,06 / 5 232,39 / 001-KAZ-001 / ЕВРОПЛАСТ — совпадений нет; row-guards guard-before-create — exit 0 (инвойсов для слияния нет); в clients-db клиента нет → Main, цвет 🔵 (заявки/поручения по сделке ещё нет). Остальные операции этой выписки уже разнесены ранее: дебет №572 3 293 452,18 ₽ через ЧК «Al Safi Bank Ltd.» → Main row 61 (ФИНИНВЕСТ, sent_rubles_vdx); №1089/1090 ООО «ЛОГИС» → Main row 52; №245/246/247/248 ООО «ПРИОРИТЕТ МАРКЕТ» → Цветы row 37. Кредит за день сходится ровно: 5 232,39 + 25 082,37 + 125 846,33 + 236 306,37 + 977 483,56 + 5 033 853,27 + 5 232 393,06 + 9 452 254,80 = **21 088 452,15 ₽**. Обороты: Дебет 3 293 452,18 / Кредит 21 088 452,15, исходящий остаток **31 011 696,94 ₽**. | ПП на VDX №577 от 15.09.2026 ИСПОЛНЕН (АО АКИБ «ПОЧТОБАНК» г. Пермь, БИК 045773705, iBank 15.09.2026 19:35 GMT+05, ЭП ПОДЛИННА, ID 13512199, подпись Палий К.К.): ОсОО «Блэкшарк Трейд» (ИНН 9909705614, счёт 40807810100157518600) → ВиДиИкс Сервисез - ФЗКО (ПСБ Ярославль, счёт 40807810000000015414), 5 237 625,45₽ {VO60081} «Оплата по агент.дог. № 4 от 31.03.2025, согл. заяв.765 от 15.09.2026г. за оборудование. НДС не облагается» = отправка рублёвого прихода Европласта на VDX/обмен (тело 5 232 393,06 + агентское 5 232,39 = 5 237 625,45 ✓). | 🏦 16.09.2026 (📨 Платежи из Мира Привелегий (операционка) (t23693), файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf») — **выписка Почтабанк** (счёт 40807810100157518600, ОсОО «Блэкшарк Трейд»): **Дт №577 → «ВиДиИкс Сервисез - ФЗКО» 5 237 625,45 ₽** {VO60081} «Оплата по агент.дог. № 4 от 31.03.2025, согл. заяв.765 от 15.09.2026 за оборудование» — подтверждение ранее записанного `sent_rubles_vdx` (5 237 625,45 ₽) ✓. | 📄 17.09.2026 (📨 Заявки Компания Q8, файл «европласт .pdf») — **COMMERCIAL INVOICE № 001-KAZ-INV dd 03/09/2026** (SELLER/SHIPPER **HAEWON GLOBAL Co., Ltd.**, 14117, #13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea; тел. +82-10 9255 5355): **CONSIGNEE / NOTIFY PARTY: Q8 GROUP LIMITED** (RM A22, 10/F, NO. 52, HUNG TO ROAD, KWUN TONG, HONG KONG); CODE TARIF 84779080000; позиция **Transfer Unit art. 371.0098.002/P3500-6600 AGG. D135.SYN-PET** — 1 шт, **€52 595,41**; **TOTAL 52 595,41 €**; Delivery date: by 30 October 2026. ✅ Это тот самый инвойс **001-KAZ-INV от 03.09.2026**, указанный в приходе ООО «КАЗАНСКИЙ ЗАВОД \"ЕВРОПЛАСТ\"» (5 232 393,06 ₽, контракт **001-KAZ-001 от 03.09.2026**) → 🔵-строка СЛИТА с инвойсом (сумма/валюта/компания проставлены; rubles/sent_rubles_vdx/received_usdt сохранены). Компания-плательщик/покупатель — **Q8** (CONSIGNEE Q8 GROUP LIMITED) → Step 3: 🔵→🔴→⬜. Q8-расчёт по EUR ждёт кросс-курс FX Q8 EUR→USD. | 📄 17.09.2026 (📨 Заявки Компания Q8, файл «европласт.docx») — **PAYMENT ORDER (форма Q8)**: THE AMOUNT AND THE CURRENCY TO TRANSFER **52 595,41 EUR** → BENEFICIARY **HAEWON GLOBAL Co., Ltd** (13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea), ACCOUNT **931-038712-56-00019**, SWIFT CODE **IBKOKRSEXXX**, BENEFICIARY’S BANK **Industrial Bank of Korea** (PYEONGCHON IT). Сумма и бенефициар полностью совпадают с коммерческим инвойсом № 001-KAZ-INV по этой строке (HAEWON GLOBAL, €52 595,41) → дубль по содержанию, новая строка НЕ создаётся, цвет не меняется (Тип 2; компания Q8 подтверждена инвойсом с CONSIGNEE Q8 GROUP LIMITED). | 📄 17.09.2026 (📨 FINIVEST AI, файл «Поручение агенту Блэкшарк трейд 4 от 15.09.26г КЗЕ.pdf», forward от Гульнары) — **ПОРУЧЕНИЕ № 4 от 15.09.2026** (Transfer request No. 4 from 15.09.2026; Приложение № 1 к Агентскому договору № 14-08/25 от 14.08.2025): Принципал **ООО Казанский завод «Европласт»** (ген.дир. Колесников И.А.) → Агент **ОсОО «Блэкшарк Трейд»** (ген.дир. Курьянов Т.А.). Сумма платежа **53 505 EUR**; получатель **ATLAS INDUSTRIAL GROUP LTD** (Piccadilly Business Centre, Unit C Aldow Enterprise Park, Blackett Street, Manchester M12 6AE, UK); банк **EKTICO (OpenPayd Financial Services Malta Limited)**, BIC **CFTEMTM1**, Company Number 16952574; назначение «Оплата по инвойсу № 001-KAZ-INV на основании контракта 001-KAZ-001 Dated 03 Сентября 2026»; курс конвертации **97,7926**; сумма в рублях **5 232 393,06 ₽**; комиссия агента **0,1% = 5 232,39**; срок 5-10 банковских дней. Тело + агентское (5 232 393,06 / 5 232,39) совпадают с rubles_received строки → это документ-основание той же сделки, новой строки не создавал, цвет (⬜) не менял. ⚠️ Расхождения для уточнения: (1) сумма Поручения **53 505 EUR** против **52 595,41 EUR** в инвойсе 001-KAZ-INV и Q8-Payment Order (разница 909,59 EUR, рублёвое тело при этом одинаковое — за счёт курса 97,7926 против 52 595,41×99,484); (2) получатель в Поручении — **ATLAS INDUSTRIAL GROUP LTD (UK, EKTICO/OpenPayd)**, тогда как в Q8 Payment Order бенефициар **HAEWON GLOBAL Co., Ltd (Korea, IBKOKRSEXXX)**.",
-    "calc": null
+    "calc": "ТЕЗ"
   },
   {
     "row": 65,
@@ -1458,7 +1458,7 @@
     "sum": 23000,
     "currency": "USD",
     "company": "UK",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "23 000,00 × 1,0045 + 100 = 23 204 USDT",
     "extra": null,
@@ -1468,7 +1468,7 @@
     "vdx_rate": null,
     "received_usdt": "23204",
     "sent_usdt": "23204",
-    "notes": "📄 16.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; приложен «INV.F012979 23,000.00 USD.pdf») — платёжный ордер: бенефициар **Tomco Incentive & Travel Service Ltd.** (Unit 26, Floor L2, Mirror Tower, 61 Mody Road, Tsimshatsui East, Hong Kong); банк **Bank of China (Hong Kong) Limited** (Floor 14/19, Bank of China Tower, 1 Garden Road, West Kowloon), SWIFT **BKCHHKHHXXX**, счёт **012-878-2-034186-5**; Payment details: **INV.F012979 dd.16/09/2026**; сумма **23 000,00 USD**; **OUR**. Приложенный **Invoice File F012979 dd 16-Sep-26** (TOMCO Incentive & Travel Service Ltd.): Arrival 24Oct26 / Departure 02Nov26, Mr. Viktor Chuprygin ×5 pax — Peninsula Shanghai (23–28.10) и Peninsula Hong Kong (28.10–02.11), трансферы и туры HKG/MFM (Macau Tower, House of Dancing Water, city tour) — **Total USD 23 000,00**. Компания-плательщик не названа → **🔴 Step 0**; клиент — **VDX** (группа-источник). check-all-tables по 23 000 / Tomco / F012979 — совпадений в 5 таблицах нет. | 💰 16.09.2026 (Scream, ответ на Bobr IN): приход **123 818 USDT** идёт «под заявки» — по этой строке **Tomco Incentive & Travel (23 000,00 USD)**: 23 000,00 USD × 1,0045 + 100 = **23 204 USDT**. costFormula = «23 000,00 USD × 1,0045 + 100 = 23 204 USDT», sent_usdt = 23 204, received_usdt = 23 204 (финансирование приходом 123 818 = 23 204 + 100 614). Цвет не менял (компания-плательщик не названа). | ❗️ 16.09.2026 (Scream: «Компания UK»): компания-плательщик по заявке — **UK**; компания проставлена, цвет переведён 🔴→⬜ (Step 3). | 🟡 16.09.2026 (📨 Платежи VDX, «Tomco Inc 23k usd.pdf»): PAYMENT ORDER DEBIT ADVICE (TONIO) — ремиттер RUMORS LIMITED, IBAN GB32TONI04282200007124; бенефициар Tomco Incentive Travel Service Ltd., счёт 01287820341865, BIC BKCHHKHHXXX; сумма 23 000,00 USD; Details INV.F012979 dd.16/09/2026; Execution Date 09/16/2026; штамп Bank's confirmation = IN PROCESS (подвешенная ПП) → ⬜→🟡 (Step 5, INITIATED). Строка не создавалась — ордер по уже заведённой заявке.",
+    "notes": "📄 16.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; приложен «INV.F012979 23,000.00 USD.pdf») — платёжный ордер: бенефициар **Tomco Incentive & Travel Service Ltd.** (Unit 26, Floor L2, Mirror Tower, 61 Mody Road, Tsimshatsui East, Hong Kong); банк **Bank of China (Hong Kong) Limited** (Floor 14/19, Bank of China Tower, 1 Garden Road, West Kowloon), SWIFT **BKCHHKHHXXX**, счёт **012-878-2-034186-5**; Payment details: **INV.F012979 dd.16/09/2026**; сумма **23 000,00 USD**; **OUR**. Приложенный **Invoice File F012979 dd 16-Sep-26** (TOMCO Incentive & Travel Service Ltd.): Arrival 24Oct26 / Departure 02Nov26, Mr. Viktor Chuprygin ×5 pax — Peninsula Shanghai (23–28.10) и Peninsula Hong Kong (28.10–02.11), трансферы и туры HKG/MFM (Macau Tower, House of Dancing Water, city tour) — **Total USD 23 000,00**. Компания-плательщик не названа → **🔴 Step 0**; клиент — **VDX** (группа-источник). check-all-tables по 23 000 / Tomco / F012979 — совпадений в 5 таблицах нет. | 💰 16.09.2026 (Scream, ответ на Bobr IN): приход **123 818 USDT** идёт «под заявки» — по этой строке **Tomco Incentive & Travel (23 000,00 USD)**: 23 000,00 USD × 1,0045 + 100 = **23 204 USDT**. costFormula = «23 000,00 USD × 1,0045 + 100 = 23 204 USDT», sent_usdt = 23 204, received_usdt = 23 204 (финансирование приходом 123 818 = 23 204 + 100 614). Цвет не менял (компания-плательщик не названа). | ❗️ 16.09.2026 (Scream: «Компания UK»): компания-плательщик по заявке — **UK**; компания проставлена, цвет переведён 🔴→⬜ (Step 3). | 🟡 16.09.2026 (📨 Платежи VDX, «Tomco Inc 23k usd.pdf»): PAYMENT ORDER DEBIT ADVICE (TONIO) — ремиттер RUMORS LIMITED, IBAN GB32TONI04282200007124; бенефициар Tomco Incentive Travel Service Ltd., счёт 01287820341865, BIC BKCHHKHHXXX; сумма 23 000,00 USD; Details INV.F012979 dd.16/09/2026; Execution Date 09/16/2026; штамп Bank's confirmation = IN PROCESS (подвешенная ПП) → ⬜→🟡 (Step 5, INITIATED). Строка не создавалась — ордер по уже заведённой заявке. | 📄 17.09.2026 (📨 ПП и SWIFT VDX, файл «Tomco Incent 23k usd.pdf», **UETR 41308490-d779-49c2-89ad-692831038e6c**) — **PAYMENT ORDER DEBIT ADVICE (TONIO)**: Remitter **RUMORS LIMITED** (IBAN GB32TONI04282200007124) → Beneficiary **Tomco Incentive & Travel Service Ltd.**; сумма **23 000,00 USD**; invoice **F012979**; штамп в поле Bank's confirmation — **EXECUTED** → строка **🟡→🟢**.",
     "calc": null
   },
   {
@@ -1550,11 +1550,11 @@
   {
     "row": 82,
     "date": "2026-09-17",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": null,
-    "clientName": null,
+    "sum": 49085,
+    "currency": "USD",
+    "company": "RUMORS",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
@@ -1563,7 +1563,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 17.09.2026 (📨 Платежи VDX, «**Payment from RUMORS❗️**», файл «INV_49 085.00 USD.pdf») — ордер на платёж: бенефициар **Breathe Aviation Limited** (Company number 7842579; Steps End, The Steps, Dundry, Bristol, BS41 8JB, UK); банк **HSBC Bank Plc** (1 Centenary Square, Birmingham), SWIFT **HBUKGB4B**, IBAN **GB19HBUK40127685280429** (счёт 85280429, sort code 40-12-76); Payment details **inv 164 dd 08.09.2026**; сумма **49 085,00 USD**; **OUR**. Приложенный инвойс **Breathe Aviation Limited №164 от 08.09.2026** (Charter Flight 5-7.09.2026 ISL–WAW–ISL; TOTAL Due USD 49 085,00) совпадает с суммой ордера — оплата полная. Компания-плательщик — **RUMORS**, клиент — **VDX** (по группе-источнику). check-all-tables по 49 085 / Breathe / RUMORS — совпадений нет. Расчёт себестоимости (не Q8) — ждём от владельца.",
     "calc": null
   }
 ]
