@@ -1016,5 +1016,24 @@
     "sent_usdt": 57099.7,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 54,
+    "date": "2026-09-17",
+    "sum": 172152,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "РК-Трейд (Молодёжь)",
+    "costFormula": "172 152,00 + 0,3% + 30 = 172 698,46 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 172698.46,
+    "notes": null,
+    "calc": null
   }
 ]
