@@ -1669,16 +1669,16 @@
     "company": "UK",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "18 767,00 × 1,0045 + 100 = 18 951,45 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 17.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «INV_18 767.00 USD.pdf») — **SCHOOL FEE INVOICE № INV2026916S1-01 от 16.Sep.2026** (NACIS Shanghai, Attention to: Alena Kabanova G11; NO. 1399, Jinhui Road, Minhang District, Shanghai 201107, China; info@nacis.cn, +86(021) 2403 8800): Tuition Fee (Oct/2026–Jan/2027) 91 429 RMB + Boarding Fee 18 590 + Canteen Fee 11 924 + School Uniform Fee 4 000 = **TOTAL CNY 125 943 или USD 18 767** (курс 1 USD ≈ 6,7109 RMB); оплатить до 18.09.2026. Получатель **Shanghai Min Hang Qu Nuo Da Shuang Yu Xue Xiao**, счёт **31001628616050014070**, банк **China Construction Bank, Shanghai Huacao Sub-branch** (No. 492-500 Jinfeng Road, Minhang, Shanghai 201107), Bank Code **105290078049**, SWIFT **PCBCCNBJSHX**; Amount **18 767,00 USD**, OUR. Клиент — VDX (по каналу «📨 Платежи VDX»), компания-плательщик не названа → 🔴 (Step 0). | Компания-плательщик уточнена владельцем (Scream 17.09.2026): **UK** → цвет ⬜ (Step 3). Расчёт (costFormula/sent_usdt) — ждём формулу от владельца (не Q8).",
-    "calc": null
+    "received_usdt": 18951,
+    "sent_usdt": 18951.45,
+    "notes": "📄 17.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «INV_18 767.00 USD.pdf») — **SCHOOL FEE INVOICE № INV2026916S1-01 от 16.Sep.2026** (NACIS Shanghai, Attention to: Alena Kabanova G11; NO. 1399, Jinhui Road, Minhang District, Shanghai 201107, China; info@nacis.cn, +86(021) 2403 8800): Tuition Fee (Oct/2026–Jan/2027) 91 429 RMB + Boarding Fee 18 590 + Canteen Fee 11 924 + School Uniform Fee 4 000 = **TOTAL CNY 125 943 или USD 18 767** (курс 1 USD ≈ 6,7109 RMB); оплатить до 18.09.2026. Получатель **Shanghai Min Hang Qu Nuo Da Shuang Yu Xue Xiao**, счёт **31001628616050014070**, банк **China Construction Bank, Shanghai Huacao Sub-branch** (No. 492-500 Jinfeng Road, Minhang, Shanghai 201107), Bank Code **105290078049**, SWIFT **PCBCCNBJSHX**; Amount **18 767,00 USD**, OUR. Клиент — VDX (по каналу «📨 Платежи VDX»), компания-плательщик не названа → 🔴 (Step 0). | Компания-плательщик уточнена владельцем (Scream 17.09.2026): **UK** → цвет ⬜ (Step 3). Расчёт (costFormula/sent_usdt) — ждём формулу от владельца (не Q8). | Фондирование 17.09.2026 12:00:57 UTC: IN 18 951,00 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TRyD7L7rFe9ZdLvoLRuSDj6siQR5Z41Swa, txid 51f8326fc524cb62c6e3783ec5c48ac2cb27e35a5af43a6cc0f6900603bfe839 (запись леджера IN_18951_17.09.2026, q9_sent=true) → received_usdt = 18 951. Расчёт VDX: 18 767,00 × 1,0045 + 100 = 18 951,45 USDT (≈ приход). Клиент — VDX.",
+    "calc": "ТЕЗ"
   },
   {
     "row": 89,
