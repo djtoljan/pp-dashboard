@@ -868,7 +868,7 @@
     "sum": 7770,
     "currency": "EUR",
     "company": null,
-    "color": "FFFF0000",
+    "color": "FFFFFF00",
     "clientName": "Фри Лайнс Компани",
     "costFormula": null,
     "extra": null,
@@ -878,8 +878,10 @@
     "vdx_rate": 84.4,
     "received_usdt": "9142.29 / 418.17",
     "sent_usdt": null,
-    "notes": "Поручение №25 от 15.09.2026 (Transfer Request No. 25 from 15.09.2026, Приложение №1 к Агентскому договору №09-02-3/26 от 09.02.2026): Принципал АО «Фри Лайнс Компани» (ЮниКредит Банк, Москва) → Агент LLC «VDX SERVICES - FZCO» (счёт VDX ПСБ). Платёж 7 770,00 EUR, получатель CONTINEXUS UAB (JOTVINGIŲ G. 9, LT-02124 VILNIUS; PL PKO BANK POLSKI S.A., SWIFT BPKOPLPWXXX, IBAN PL49102013320000130213621943). Инвойс №479123 dd 2026-07-13 (PVM SĄSKAITA-FAKTŪRA TRN Nr 479123, транспортные услуги, от CONTINEXUS UAB), CONTRACT № FLK dd 01/01/2026. Курс 1 EUR = 99,4056 ₽ → 772 381,51₽. Комиссия агента 35 328,75₽. Срок 2-3 банк. дня. Подписи: Паршин В.В. (Фри Лайнс), Hikmat Ahmadov (VDX). Step 0 🔴 — компания/заявка ждут (по прецеденту Фри Лайнс-сделок в Молодёжь финансирует оператор: Q8/LEO). | ПП №4461 от 15.09.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545, счёт 40702810720010003274, ИНН 9727130961 И КПП 770801001): АО «Фри Лайнс Компани» → VDX SERVICES - FZCO (ПСБ Ярославль, счёт 40807810000000015414), 772 381,51₽ {VO21400} «подлежащие переч-ию для CONTINEXUS UAB Payment for transport service under invoice 479123 dd 13.07.2026, поруч № 25 от 15.09.26 по аген. дог № 09-02-3/26 от 09.02.26» = ТЕЛО по поручению №25. | ПП №4462 от 15.09.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545): АО «Фри Лайнс Компани» → VDX SERVICES - FZCO (ПСБ Ярославль), 35 328,75₽ {VO21100} «оплата вознаграждения согласно поручению № 25 от 15.09.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026» = ВОЗНАГРАЖДЕНИЕ VDX по поручению №25. Сверка: тело 772 381,51 + вознаграждение 35 328,75 = 807 710,26₽ ✓ (7 770,00 × 99,4056 = 772 381,51 ✓). | 📄 Payment Order dd 16/09/2026 (файл «payment order.docx», 📨 Молодёжь): AMOUNT 7 770,00 EUR, BENEFICIARY CONTINEXUS UAB (PL PKO BANK POLSKI S.A., IBAN PL49102013320000130213621943, SWIFT BPKOPLPWXXX), PAYMENT PURPOSE «Payment for transport service under invoice 479123 dd 2026-07-13» — подтверждает конечного получателя/платёж по поручению №25 (= invoice TRN 479123). | ПП на VDX №4461 от 15.09.2026 (772 381,51 ₽ тело, CONTINEXUS UAB, инвойс 479123 dd 13.07.2026, АО ЮНИКРЕДИТ БАНК Г МОСКВА). ПП на VDX №4462 от 15.09.2026 (35 328,75 ₽ вознаграждение по поручению №25, АО ЮНИКРЕДИТ БАНК Г МОСКВА).",
-    "calc": null
+    "notes": "Поручение №25 от 15.09.2026 (Transfer Request No. 25 from 15.09.2026, Приложение №1 к Агентскому договору №09-02-3/26 от 09.02.2026): Принципал АО «Фри Лайнс Компани» (ЮниКредит Банк, Москва) → Агент LLC «VDX SERVICES - FZCO» (счёт VDX ПСБ). Платёж 7 770,00 EUR, получатель CONTINEXUS UAB (JOTVINGIŲ G. 9, LT-02124 VILNIUS; PL PKO BANK POLSKI S.A., SWIFT BPKOPLPWXXX, IBAN PL49102013320000130213621943). Инвойс №479123 dd 2026-07-13 (PVM SĄSKAITA-FAKTŪRA TRN Nr 479123, транспортные услуги, от CONTINEXUS UAB), CONTRACT № FLK dd 01/01/2026. Курс 1 EUR = 99,4056 ₽ → 772 381,51₽. Комиссия агента 35 328,75₽. Срок 2-3 банк. дня. Подписи: Паршин В.В. (Фри Лайнс), Hikmat Ahmadov (VDX). Step 0 🔴 — компания/заявка ждут (по прецеденту Фри Лайнс-сделок в Молодёжь финансирует оператор: Q8/LEO). | ПП №4461 от 15.09.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545, счёт 40702810720010003274, ИНН 9727130961 И КПП 770801001): АО «Фри Лайнс Компани» → VDX SERVICES - FZCO (ПСБ Ярославль, счёт 40807810000000015414), 772 381,51₽ {VO21400} «подлежащие переч-ию для CONTINEXUS UAB Payment for transport service under invoice 479123 dd 13.07.2026, поруч № 25 от 15.09.26 по аген. дог № 09-02-3/26 от 09.02.26» = ТЕЛО по поручению №25. | ПП №4462 от 15.09.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545): АО «Фри Лайнс Компани» → VDX SERVICES - FZCO (ПСБ Ярославль), 35 328,75₽ {VO21100} «оплата вознаграждения согласно поручению № 25 от 15.09.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026» = ВОЗНАГРАЖДЕНИЕ VDX по поручению №25. Сверка: тело 772 381,51 + вознаграждение 35 328,75 = 807 710,26₽ ✓ (7 770,00 × 99,4056 = 772 381,51 ✓). | 📄 Payment Order dd 16/09/2026 (файл «payment order.docx», 📨 Молодёжь): AMOUNT 7 770,00 EUR, BENEFICIARY CONTINEXUS UAB (PL PKO BANK POLSKI S.A., IBAN PL49102013320000130213621943, SWIFT BPKOPLPWXXX), PAYMENT PURPOSE «Payment for transport service under invoice 479123 dd 2026-07-13» — подтверждает конечного получателя/платёж по поручению №25 (= invoice TRN 479123). | ПП на VDX №4461 от 15.09.2026 (772 381,51 ₽ тело, CONTINEXUS UAB, инвойс 479123 dd 13.07.2026, АО ЮНИКРЕДИТ БАНК Г МОСКВА). ПП на VDX №4462 от 15.09.2026 (35 328,75 ₽ вознаграждение по поручению №25, АО ЮНИКРЕДИТ БАНК Г МОСКВА). | 📄 17.09.2026 (📨 Платежные Поручения, файл «260917_173655_transactionstatusdetails_pendingapproval.pdf») — **Transaction Status Details — PENDING APPROVAL** (17 Sep 2026 16:54:59): FROM ACCOUNT 0123-7824-012 **LEO SPOT CAPITAL**, валюта EUR; BENEFICIARY **CONTINEXUS UAB** (JOTVINGI G. 9, LT-02124 VILNIUS, Lithuania, non-resident), счёт **PL49-1020-1332-0000-1302-1362-1943**, банк **PKO BANK POLSKI S.A.** (SWIETOKRZYSKA 36, BPKOPLPWXXX, Poland); **Amount EUR 7 770,00**; Telegraphic Transfer; Cable Fee EUR 3,00; Provision Fee EUR 32,00; Transaction Fee EUR 9,71. = подвешенная ПП по поручению №25 (Фри Лайнс) → 🟡.",
+    "calc": null,
+    "status": "🟡",
+    "statusTriggerDocId": "260917_173655_pendingapproval"
   },
   {
     "row": 47,
@@ -946,15 +948,15 @@
     "company": null,
     "color": "FFFFFFFF",
     "clientName": "Вилог (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "12 574,00 CNA / 6.64 = 1 894 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 1894,
+    "notes": "📤 17.09.2026 (📨 Ордера и Расчеты ❗️) — **заказ на выплату USDT (AliPay ❗️)**: **12 574,00 CNA / 6.64 = 1 894 USDT** («ждём ПП»); адрес получателя (TRON) `TL3cwmhReXxy4padH4MrJu3NooNXnp34Kp`. Клиент — **Вилог** (по метке этого адреса в wallet-ledger: OUT 1 026 и 3 849 от 15.09.2026, OUT 18 865 от 16.09.2026, все «Вилог»). Финансирование — три перевода AliPay по заказу «16.2A/B/C» 12 574 CNA на 帅超(**超): ¥5 574,00 (16.2A) + ¥2 000,00 (16.2B, 韩亚银行 8738) + ¥5 000,00 (16.2C, 中国银行 2154, списано ¥4 997 после комиссии ¥3) = ¥12 574,00 ✓. costFormula = 12 574,00 CNA / 6.64 = 1 894 USDT, sent_usdt = 1 894. Выплата USDT ещё НЕ произведена («ждём ПП») — движения в леджере по адресу нет с 16.09.",
     "calc": null
   }
 ]
