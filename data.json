@@ -1601,6 +1601,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 17.09.2026 (📨 Fininvest - ИП Осипенко В.П., файл «Инвойс 2381069.pdf») — **INVOICE № 2381069 от 16.09.2026** к контракту **№ GUEL-23/07 от 23.07.2026**: Seller **«GUEL» LLC** (83/48 Zhumabek str, 720011 Bishkek, Kyrgyzstan; INN 391800053601), Buyer **ИП Осипенко В.П.** (Глазунова ул., 11, 34, Калининград). Товар **Potato starch Emflo KPS 200** (HS 1108130000): 21 т × 132 581,205 ₽ = 2 784 205,31 ₽ = **28 350,00 EUR**; «Total for advance payment»; Terms of delivery **FCA – Pruszcz Gdański, Poland**; Country of origin **Germany**. Step 0 🔴 — компания-плательщик не названа, ждём заявку/поручение. check-all-tables по 2381069 — совпадений нет; это отдельный инвойс от Main row 73 («Инвойс 2371679» dd 03.09.2026, Emox C70S, тоже 28 350 EUR) — совпадает только сумма, номер/дата/товар разные.",
+    "calc": null
+  },
+  {
+    "row": 85,
+    "date": "2026-09-17",
+    "sum": 28350,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ИП Осипенко В.П.",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
