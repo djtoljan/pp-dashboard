@@ -1555,7 +1555,7 @@
     "company": "RUMORS",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "49 085,00 × 1,0045 + 100 = 49 405,88 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -1564,7 +1564,7 @@
     "received_usdt": 49406,
     "sent_usdt": 49405.8,
     "notes": "📄 17.09.2026 (📨 Платежи VDX, «**Payment from RUMORS❗️**», файл «INV_49 085.00 USD.pdf») — ордер на платёж: бенефициар **Breathe Aviation Limited** (Company number 7842579; Steps End, The Steps, Dundry, Bristol, BS41 8JB, UK); банк **HSBC Bank Plc** (1 Centenary Square, Birmingham), SWIFT **HBUKGB4B**, IBAN **GB19HBUK40127685280429** (счёт 85280429, sort code 40-12-76); Payment details **inv 164 dd 08.09.2026**; сумма **49 085,00 USD**; **OUR**. Приложенный инвойс **Breathe Aviation Limited №164 от 08.09.2026** (Charter Flight 5-7.09.2026 ISL–WAW–ISL; TOTAL Due USD 49 085,00) совпадает с суммой ордера — оплата полная. Компания-плательщик — **RUMORS**, клиент — **VDX** (по группе-источнику). check-all-tables по 49 085 / Breathe / RUMORS — совпадений нет. Расчёт себестоимости (не Q8) — ждём от владельца. | Фондирование 17.09.2026 11:46:42 UTC: IN 49 406,00 USDT на Рабочий 4 от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2 (адрес фондирования VDX), txid 4d819ec70950dce72e05d1b4e47cd431c74199e218cc3aed99ef1a9c205beb22 (запись леджера IN_49406_17.09.2026, q9_sent=true). Выплата 17.09.2026 11:51:12 UTC: OUT 49 405,80 USDT на TPpXeGcvwCVbXrwPEdh4Ckv539n92RnnVj (адрес выплат VDX), txid 206ef423da5c8f95aefb78888fbd238c21ed2d250068caf2feb8c82a2a6f3fbd (запись OUT_49405.8_17.09.2026, q9_sent=true). Сумма выплаты = 49 085,00 x 1,0045 + 100 = 49 405,88 USDT — формула VDX, жду подтверждения владельца для costFormula. Клиент — VDX.",
-    "calc": null
+    "calc": "ТЕЗ"
   },
   {
     "row": 83,
@@ -1696,6 +1696,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 86383.92,
+    "notes": "📄 17.09.2026 (📨 Заявки Компания Q8, файл «925WFU0219751 ZHEJIANG REFINE WUFU AIR TOOLS CO., LTD.(1).pdf») — **Payment from Q8❗️** (ордер на платёж): Beneficiary **ZHEJIANG REFINE WUFU AIR TOOLS CO., LTD.** (NO.100 FUGANG RD, SHANGMA INDUSTRIAL ZONE, SHITANG TOWN, WENLING, ZHEJIANG, CN); Bank **PING AN BANK CO., LTD HANGZHOU BR.** (NO.280, MINXIN ROAD, JIANGGAN DISTRICT, HANGZHOU, P.R. CHINA), SWIFT **SZDBCNBSHZB**, счёт **15559842560012**; Payment details **inv. 925WFU0219751 DD 28.05.2026**; Amount **86 095,63 USD**; **OUR**. Приложен инвойс № **925WFU0219751** от MAY 28, 2026 (продавец ZHEJIANG REFINE WUFU AIR TOOLS CO.,LTD., Wenling, Zhejiang, CN; TO: Bright Nova Limited, Room 701, Unit 108, 7/F, Tower B, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui, Kowloon, HK; T/T; FROM NINGBO, CHINA; 14 347 PCS — air blow guns / пневмоинструмент / наконечники, FOB) — итог **US$ 86 095,63** = сумме ордера, оплата полная. Строка создана по ордеру (сумма = сумма ордера; инвойс справочно). Компания-плательщик **Q8** → ⬜. Q8-расчёт: 86 095,63 + 0,3% + 30 = 86 383,92 USDT (sent_usdt проставлен). Клиент строки **VDX** (по классу заявок «📨 Заявки Компания Q8», как row 87) — требует подтверждения Scream.",
+    "calc": "ТЕЗ"
+  },
+  {
+    "row": 90,
+    "date": "2026-09-17",
+    "sum": 69891.15,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": "69 891,15 + 0,3% + 30 = 70 130,82 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 70130.82,
     "notes": null,
     "calc": null
   }
