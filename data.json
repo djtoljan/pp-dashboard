@@ -1762,17 +1762,17 @@
     "sum": 36400,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "36 400 + 0,3% + 30 = 36 539,20 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 36539.2,
+    "notes": "📄 17.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**»; файл «MBN INV 8633 - Services 20260731 (2).pdf») — **Payment Order от 17.09.2026**: плательщик **Q8**; Beneficiary **Mobiino Private Limited** (154 Yung Ho Road, 04-63, Singapore 610154); Beneficiary bank **Maybank Singapore Limited** (2 Battery Road, Floor 01-01, Maybank Tower, Singapore), SWIFT **MBBESGS2XXX**, счёт **0407 1090 522**; Payment details: **inv. 8633 dd 07/09/2026**; Amount **36 400.00 USD**; **OUR** (все комиссии за счёт плательщика). Инвойс-основание: **MOBIINO PRIVATE LIMITED, INVOICE № 8633 от 07/09/2026** (154 Yung Ho Road, 04-63, Singapore 610154; mail@mobiino.com.sg; рег. 201422891H): позиция **PROFESSIONAL ENGINEERING SERVICE FEE** (structural calculations, load analysis, compliance checks, design optimization for weight, load capacities and cost efficiency) — **280 HRS × 130.00 = 36 400.00 USD**, по Framework Service Agreement **#202601 от 12 Jan 2026** (appendix no.1, assignment no.2), за услуги по состоянию на **31.07.2026**; Terms 30 days; «We hereby confirm that the services stated in this invoice have been duly performed and accepted by the client»; VAT not included. Сумма строки = сумме ордера (36 400,00 USD). Q8-расчёт проставлен сразу: `costFormula = 36 400 + 0,3% + 30 = 36 539,20 USDT`. Компания — **Q8** (по «Payment from Q8❗️»), клиент — **VDX** (по классу «📨 Платежи VDX»).",
     "calc": null
   }
 ]
