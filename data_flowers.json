@@ -900,7 +900,7 @@
     "sum": 99129.84,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "99 129,84 EUR / 0,869121185029 (FX Q8 17.09.2026: sell 114 088 USD -> buy 99 156,29 EUR, 1 USD = 0,869121185029 EUR) + 0,3% + 30 = 114 429,73 USDT",
     "extra": null,
@@ -910,7 +910,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 114429.73,
-    "notes": "📄 16.09.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_to_Q8_99129_84_EUR_16-Sep-2026.pdf»): коммерческий инвойс **AA-Q8-2026-0916 dd 16.09.2026** — Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; директор Aleksandrs Rakovskis) → Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Fresh cut flowers, assorted, 1 lot; Currency EUR; Terms: as per agreement. Total **99 129,84 EUR** (Ninety-Nine Thousand One Hundred Twenty-Nine Euros And 84/100 Only). Банк продавца: Bulgarian-American Credit Bank, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Клиент — **Atlantic Avrora (Цветы)**, компания **Q8** (ТЕЗ), ⬜ Step 3. ⏳ costFormula/sent_usdt ждут кросс-курс FX Q8 под эту заявку: 99 129,84 / K (1 USD = K EUR) + 0,3% + 30 = N USDT (прецедент r39: FX Q8 16.09.2026 1 USD = 0,863025856167 EUR выдавался под 52 851,65 EUR — под 99 129,84 EUR курс не выдавался). Дублей по сумме/инвойсу нет (проверено по всем 5 таблицам и архивам). Продолжение серии AA (AA-Q8-2026-0902 dd 02.09.2026 = r39).",
+    "notes": "📄 16.09.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_to_Q8_99129_84_EUR_16-Sep-2026.pdf»): коммерческий инвойс **AA-Q8-2026-0916 dd 16.09.2026** — Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; директор Aleksandrs Rakovskis) → Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Fresh cut flowers, assorted, 1 lot; Currency EUR; Terms: as per agreement. Total **99 129,84 EUR** (Ninety-Nine Thousand One Hundred Twenty-Nine Euros And 84/100 Only). Банк продавца: Bulgarian-American Credit Bank, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Клиент — **Atlantic Avrora (Цветы)**, компания **Q8** (ТЕЗ), ⬜ Step 3. ⏳ costFormula/sent_usdt ждут кросс-курс FX Q8 под эту заявку: 99 129,84 / K (1 USD = K EUR) + 0,3% + 30 = N USDT (прецедент r39: FX Q8 16.09.2026 1 USD = 0,863025856167 EUR выдавался под 52 851,65 EUR — под 99 129,84 EUR курс не выдавался). Дублей по сумме/инвойсу нет (проверено по всем 5 таблицам и архивам). Продолжение серии AA (AA-Q8-2026-0902 dd 02.09.2026 = r39). | BONBILL Payment Certificate 17.09.2026 (Тип 7 Q8, 📨 ПП компании Q8, файл «99129.84.pdf»): Payer Q8 GROUP LIMITED → Payee BONBILL LIMITED. Invoice AA-Q8-2026-0916 dd 16.09.2026 For Flowers, 99 129,84 EUR. TXID O2100453025402454016115. ⬜→🟢",
     "calc": null
   },
   {
@@ -919,7 +919,7 @@
     "sum": 4000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Horizonte Farm SAS (Цветы)",
     "costFormula": "4 000,00 + 0,3% + 30 = 4 042,00 USDT",
     "extra": null,
@@ -929,7 +929,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 4042,
-    "notes": "📄 16.09.2026 (📨 Цветы) — **Horizonte Farm SAS → Q8**: инвойс **№42409 dd 14.09.2026** (Due payment 14.09.2026), Foreign purchaser **Q8 GROUP LIMITED** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Grower **HORIZONTE FARM SAS** (NIT 900.398.166-7, Calle 20 25 50, La Ceja, Antioquia, Colombia); товар Hydrogéas/Macrophylla — HYDRANGEA PREMIUM WHITE, 5 000 stems × 0,80 = **TOTAL USD 4 000,00**; Consignment/Fixed Price Invoice; carrier Blako Ethiopian Airlines, MAWB №071-61652426, freight forwarder CEVA FREIGHT MANAGEMENT DE C. Реквизиты из формы Q8 «HORIZONTE FARM SAS 4000.docx»: Account **77925**, банк **BANCO DE BOGOTA MIAMI AGENCY** (701 Brickell Avenue, Suite 1450, Miami, Florida, 33131, USA), SWIFT **BBOGUS3M**; Beneficiary Address Calle 20 no 25 50 La Ceja, Antioquia Colombia. Клиент — **Horizonte Farm SAS (Цветы)**, компания **Q8** (ТЕЗ), ⬜ Step 3. Расчёт: **4 000,00 × 1,006 + 100 = 4 124,00 USDT** (формула SWIFT-платежей Q8 по Цветам — как r40–r46), sent_usdt = 4 124. Дублей по сумме/инвойсу нет (все 5 таблиц + архивы, включая бэкапы). ⚠️ По общей Q8-формуле (сумма + 0,3% + 30) вышло бы 4 042 USDT — в таблице Цветов обе формулы встречаются; проставлена формула свежей партии SWIFT-платежей. | 🧾 17.09.2026 (Scream: «расчёт себестоимости на Q8 не верный»): costFormula/sent_usdt исправлены на общую Q8-формулу суммы — 4 000,00 + 0,3% + 30 = **4 042,00 USDT** (приходная формула × 1,006 + 100 = 4 124,00 — это received-сторона, к себестоимости не относится).",
+    "notes": "📄 16.09.2026 (📨 Цветы) — **Horizonte Farm SAS → Q8**: инвойс **№42409 dd 14.09.2026** (Due payment 14.09.2026), Foreign purchaser **Q8 GROUP LIMITED** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Grower **HORIZONTE FARM SAS** (NIT 900.398.166-7, Calle 20 25 50, La Ceja, Antioquia, Colombia); товар Hydrogéas/Macrophylla — HYDRANGEA PREMIUM WHITE, 5 000 stems × 0,80 = **TOTAL USD 4 000,00**; Consignment/Fixed Price Invoice; carrier Blako Ethiopian Airlines, MAWB №071-61652426, freight forwarder CEVA FREIGHT MANAGEMENT DE C. Реквизиты из формы Q8 «HORIZONTE FARM SAS 4000.docx»: Account **77925**, банк **BANCO DE BOGOTA MIAMI AGENCY** (701 Brickell Avenue, Suite 1450, Miami, Florida, 33131, USA), SWIFT **BBOGUS3M**; Beneficiary Address Calle 20 no 25 50 La Ceja, Antioquia Colombia. Клиент — **Horizonte Farm SAS (Цветы)**, компания **Q8** (ТЕЗ), ⬜ Step 3. Расчёт: **4 000,00 × 1,006 + 100 = 4 124,00 USDT** (формула SWIFT-платежей Q8 по Цветам — как r40–r46), sent_usdt = 4 124. Дублей по сумме/инвойсу нет (все 5 таблиц + архивы, включая бэкапы). ⚠️ По общей Q8-формуле (сумма + 0,3% + 30) вышло бы 4 042 USDT — в таблице Цветов обе формулы встречаются; проставлена формула свежей партии SWIFT-платежей. | 🧾 17.09.2026 (Scream: «расчёт себестоимости на Q8 не верный»): costFormula/sent_usdt исправлены на общую Q8-формулу суммы — 4 000,00 + 0,3% + 30 = **4 042,00 USDT** (приходная формула × 1,006 + 100 = 4 124,00 — это received-сторона, к себестоимости не относится). | BONBILL Payment Certificate 17.09.2026 (Тип 7 Q8, 📨 ПП компании Q8, файл «4000.00.pdf»): Payer Q8 GROUP LIMITED → Payee HORIZONTE FARM SAS. Invoice 42409 DD 14.09.2026 For Flowers, 4 000,00 USD. TXID O2100455544404967424109. ⬜→🟢",
     "calc": null
   },
   {
@@ -938,7 +938,7 @@
     "sum": 43000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "43 000,00 + 0,3% + 30 = 43 159,00 USDT",
     "extra": null,
@@ -948,7 +948,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 43159,
-    "notes": "📄 16.09.2026 (📨 Цветы) — **Dolina Agro Ltd → Q8 Group Limited**: инвойс **DA-160926-01 dd 16.09.2026**, валюта USD, **43 000,00 USD** (TOTAL USD; TOTAL STEMS 55 500, 7–8 box, розы: Explorer 7 000 × 0,85 = 5 950, Freedom 7 000 × 0,72 = 5 040, Pink Floyd 6 500 × 0,95 = 6 175, White Chocolate 7 000 × 0,80 = 5 600, Kahala 6 500 × 0,76 = 4 940, Mondial 7 000 × 0,78 = 5 460, Lola 7 000 × 0,74 = 5 180, Paloma 7 500; Comision/Packing/Inland 0,00; EXW, Truck INTERFLOWERS). Продавец: Dolina Agro Ltd (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL; Registration 515826436); банк **BANK LEUMI LE ISRAEL**, Business Nathanya Branch 744, SWIFT **LUMIILITXXX**, IBAN **IL750107440000027660042**. Покупатель: Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Клиент — **Dolina Agro (Цветы)** (clients-db, группа Цветы; прошлые сделки r14/r19/r27 — 🟢), компания **Q8** (ТЕЗ), ⬜ Step 3. Расчёт: **43 000,00 + 0,3% + 30 = 43 159,00 USDT** (как r19/r27 этого же клиента), sent_usdt = 43 159. Дублей по сумме/инвойсу нет (все 5 таблиц + архивы/бэкапы; прежние DA-инвойсы — другие номера и суммы). | 🧾 16.09.2026 (📨 Цветы, форма Q8 «Dolina Agro Ltd 43000.docx»): реквизиты формы совпадают со строкой — сумма USD 43 000, бенефициар Dolina Agro Ltd (P.O. Box 3103, 10, Bareker str., Industrial Park Caesarea, 38900 ISRAEL), счёт IL750107440000027660042, SWIFT LUMIILITXXX, банк BANK LEUMI LE ISRAEL (BUSINESS NATHANYA BRANCH 744); поля Intermediary/Correspondent/Payment details пустые.",
+    "notes": "📄 16.09.2026 (📨 Цветы) — **Dolina Agro Ltd → Q8 Group Limited**: инвойс **DA-160926-01 dd 16.09.2026**, валюта USD, **43 000,00 USD** (TOTAL USD; TOTAL STEMS 55 500, 7–8 box, розы: Explorer 7 000 × 0,85 = 5 950, Freedom 7 000 × 0,72 = 5 040, Pink Floyd 6 500 × 0,95 = 6 175, White Chocolate 7 000 × 0,80 = 5 600, Kahala 6 500 × 0,76 = 4 940, Mondial 7 000 × 0,78 = 5 460, Lola 7 000 × 0,74 = 5 180, Paloma 7 500; Comision/Packing/Inland 0,00; EXW, Truck INTERFLOWERS). Продавец: Dolina Agro Ltd (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL; Registration 515826436); банк **BANK LEUMI LE ISRAEL**, Business Nathanya Branch 744, SWIFT **LUMIILITXXX**, IBAN **IL750107440000027660042**. Покупатель: Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Клиент — **Dolina Agro (Цветы)** (clients-db, группа Цветы; прошлые сделки r14/r19/r27 — 🟢), компания **Q8** (ТЕЗ), ⬜ Step 3. Расчёт: **43 000,00 + 0,3% + 30 = 43 159,00 USDT** (как r19/r27 этого же клиента), sent_usdt = 43 159. Дублей по сумме/инвойсу нет (все 5 таблиц + архивы/бэкапы; прежние DA-инвойсы — другие номера и суммы). | 🧾 16.09.2026 (📨 Цветы, форма Q8 «Dolina Agro Ltd 43000.docx»): реквизиты формы совпадают со строкой — сумма USD 43 000, бенефициар Dolina Agro Ltd (P.O. Box 3103, 10, Bareker str., Industrial Park Caesarea, 38900 ISRAEL), счёт IL750107440000027660042, SWIFT LUMIILITXXX, банк BANK LEUMI LE ISRAEL (BUSINESS NATHANYA BRANCH 744); поля Intermediary/Correspondent/Payment details пустые. | BONBILL Payment Certificate 17.09.2026 (Тип 7 Q8, 📨 ПП компании Q8, файл «43000.00 (2).pdf»): Q8 GROUP LIMITED → BONBILL LIMITED. Invoice DA-160926-01 dd 16.09.2026 For Flowers, 43 000,00 USD. TXID O2100456708001366016578. ⬜→🟢",
     "calc": null
   }
 ]
