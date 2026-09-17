@@ -1781,17 +1781,17 @@
     "sum": 107552.86,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "107 552,86 + 0,3% + 30 = 107 905,52 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 107905.52,
+    "notes": "📄 17.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**»; файл «107 552,86 USD.pdf») — **Payment Order от 17.09.2026**: плательщик **Q8**; Beneficiary **Tureco Distribution (Pty) Ltd** (4TH FLOOR, WEST TOWER, NELSON MANDELA SQUARE, SANDTON CITY, JOHANNESBURG 2196, SOUTH AFRICA); Beneficiary bank **CAPITEC BANK LIMITED** (STELLENBOSCH, IKHAYA, FLOOR 5, 5 NEUTRON ROAD, ZAF (710)); SWIFT **CABLZAJJ**, счёт USD **5000 0547 41**; Payment details: **inv. TUR_23/100 dd 07.07.2026**; Amount **107 552.86 USD**; **OUR** (все комиссии за счёт плательщика). Инвойс-основание: **TURECO DISTRIBUTION (PTY) LTD, Invoice № TUR_23/100 от 07.07.2026** (Sandton City, Johannesburg 2196, South Africa; tureco.co.za): Bill to **Q8 GROUP LIMITED** (RM A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); условия — оплата в течение 180 календарных дней с даты поставки в CNY или USD по курсу центробанка страны покупателя на дату платежа; FOB; страна происхождения CHINA; позиции (код 8431498009 / 8430200000 / 8407901000 / 8467298509): Friction ring for snow machines (для SGC-4000…11000) 2 200 шт × 8,40 = 18 480,00; Snow machine SGC 6000 13 шт × 528,48 = 6 870,24; Snow machine SGC 8,0 11 шт × 528,48 = 5 813,28; Snow machine СB 4800Pe 72 шт × 425,85 = 30 661,20; Gasoline engine GE-21220FА 500 шт × 62,79 = 31 395,00; Renovator МFI-3К 160 шт × 24,02 = 3 843,20; Renovator МFI-400 392 шт × 26,76 = 10 489,94; **Total 107 552,86 USD** (VAT 0,00; всего 687 боксов / 3 348 единиц). Банк инвойса: CAPITEC BANK LIMITED, Account Name Tureco Distribution (Pty) Ltd, USD счёт 5000 0547 41, SWIFT CABLZAJJ. Сумма строки = сумме ордера и инвойса (107 552,86 USD). Q8-расчёт проставлен сразу: `costFormula = 107 552,86 + 0,3% + 30 = 107 905,52 USDT`. Компания — **Q8** («Payment from Q8❗️»), клиент — **VDX** («📨 Платежи VDX»); совпадений по TURECO / TUR_23 / 107552.86 / CABLZAJJ в 5 таблицах нет, find-merge-on-invoice — exit 0.",
     "calc": null
   }
 ]
