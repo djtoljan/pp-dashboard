@@ -1354,7 +1354,7 @@
     "vdx_rate": null,
     "received_usdt": "35646",
     "sent_usdt": 35539.79,
-    "notes": "📄 16.09.2026 (📨 Платежи VDX, «**Payment from Q8 GROUP LIMITED**❗️»; приложен «Invoice BTKHK-20260909.pdf») — платёжный ордер Q8: бенефициар **Be the King (HK) Company Limited** (Flat 01A2, 10F Carnival Commercial Building, 18 Java Road, North Point, Hong Kong, China); банк **OCBC Bank (Hong Kong) Limited** (161 Queen's Road, Central, Hong Kong), SWIFT **WIHBHKHHXXX**, счёт **802-549427-831**; Payment details: **Inv BTKHK-20260909 dd 09.09.2026**; сумма **237 289,00 CNY**; комиссия **OUR**. Компания-плательщик **Q8 GROUP LIMITED** → Step 3 ⬜ (белая). Клиент — **VDX** (группа-источник). Расчёт Q8 сразу: 237 289,00 + 0,3% + 30 = **238 030,87 USDT**. check-all-tables по 237 289 / Be the King / BTKHK-20260909 — совпадений нет. | 💰 16.09.2026 — приход USDT **35 646** (Bobr IN, Рабочий 4 ← `TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9`, txid `92b79d5d00f15efec36202172a34859b4938e4a07ebc271c5f25cc5325efdaf0`, 11:43:33 UTC) — Scream 16.09.2026: «**Под заявку: 237 289.00 CNY**» (эта строка). `received_usdt` = 35 646; 237 289,00 CNY / ≈6,656 = 35 646 USDT (конверсия CNY→USDT).",
+    "notes": "📄 16.09.2026 (📨 Платежи VDX, «**Payment from Q8 GROUP LIMITED**❗️»; приложен «Invoice BTKHK-20260909.pdf») — платёжный ордер Q8: бенефициар **Be the King (HK) Company Limited** (Flat 01A2, 10F Carnival Commercial Building, 18 Java Road, North Point, Hong Kong, China); банк **OCBC Bank (Hong Kong) Limited** (161 Queen's Road, Central, Hong Kong), SWIFT **WIHBHKHHXXX**, счёт **802-549427-831**; Payment details: **Inv BTKHK-20260909 dd 09.09.2026**; сумма **237 289,00 CNY**; комиссия **OUR**. Компания-плательщик **Q8 GROUP LIMITED** → Step 3 ⬜ (белая). Клиент — **VDX** (группа-источник). Расчёт Q8 сразу: 237 289,00 + 0,3% + 30 = **238 030,87 USDT**. check-all-tables по 237 289 / Be the King / BTKHK-20260909 — совпадений нет. | 💰 16.09.2026 — приход USDT **35 646** (Bobr IN, Рабочий 4 ← `TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9`, txid `92b79d5d00f15efec36202172a34859b4938e4a07ebc271c5f25cc5325efdaf0`, 11:43:33 UTC) — Scream 16.09.2026: «**Под заявку: 237 289.00 CNY**» (эта строка). `received_usdt` = 35 646; 237 289,00 CNY / ≈6,656 = 35 646 USDT (конверсия CNY→USDT). | 📄 17.09.2026 (📨 ПП компании Q8, файл «237289.00.pdf») — **BONBILL Payment Certificate**: Transaction ID (txid) **O2100450362103300096884**; Payer Name **Q8 GROUP LIMITED**; Payee **BONBILL LIMITED**; Transaction Remarks **BTKHK-20260909 dd 09.09.2026 For Tech**; сумма **237 289 CNH** (= `sum` строки 237 289,00 CNY / Be the King / BTKHK-20260909). Подтверждает исполнение заявки Q8 по этой строке → **⬜→🟢** (Тип 7 BONBILL Q8, исключение FSM).",
     "calc": "ТЕЗ"
   },
   {
@@ -1546,5 +1546,24 @@
     "sent_usdt": null,
     "notes": "📄 16.09.2026 (📨 Платежи VDX, файл «INV-000078.pdf») — **TAX INVOICE # INV-000078** от **Sodalitas Trading L.L.C-FZ** (Dubai, U.A.E.; Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba; business@sodalitas.ae): Invoice Date **16 Sep 2026**, Terms **Due on Receipt**, Due Date 16 Sep 2026; **Contract 01C/2026 dd 02.04.2026**; позиции — **UV ink (bottles)**: 1 729 шт × 23,00 = 39 759,88 + 1 881 шт × 23,34 = 43 894,67; Sub Total **83 654,55 USD** (Discount −14,99); **Balance Due 83 654,55 USD**. Реквизиты: USD-счёт **AE320351031005753309002**, Beneficiary **SODALITAS TRADING LLC FZ** (Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E.), банк **FIRST ABU DHABI BANK PJSC** (Sheikh Zayed Road Branch, Dubai), SWIFT **NBADAEAA**. **Step 0 🔴** — компания-плательщик не названа (ждём ордер «Payment from …» из группы 📨 Платежи VDX). check-all-tables по 83 654,55 / Sodalitas / INV-000078 — совпадений в 5 таблицах нет. | 💵 16.09.2026 (Bobr IN 16:31 UTC, 📨 DM @BobrAlertsBot): приход 84 005,0 USDT на Рабочий 4 (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9 (адрес VDX); txid 0aa960b1caaf5ca9c4552cab0f780400674fccf36a746a2695d50d5aaa66e79a. Заявка подтверждена владельцем — Scream 16.09.2026: «под заявку 83,654.55» ✓ (формула VDX: 83 654,55 × 1,003 + 100 = 84 005,51 ≈ 84 005 USDT). received_usdt = 84 005. Q9 (🟢 ВХОД 84 005 USDT — VDX) отправлен, в леджер записано (q9_sent=true). Парная OUT-выплата по заявке ожидается.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 82,
+    "date": "2026-09-17",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
