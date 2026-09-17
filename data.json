@@ -1736,5 +1736,24 @@
     "sent_usdt": null,
     "notes": "📄 17.09.2026 (📨 Платежи VDX, файл «4_5864017766620602460.pdf») — **INVOICE No. HK26012 от 16.09.2026** (工程与贸易公司 / «Engineering and trading company», Ships, Power Plant's, Logistics): «SHIPS SPARE PARTS IN TRANSIT»; P.Order **AK1009-SP-FOR-50**; For: T|C; Serial No. **RR180**; Maker **BBC**. Позиция: **2 KIT — SERVICE KIT RR180**, цена 3 550,00 за комплект = **7 100,00**; Subtotal USD 7 100,00; Packing & Handling —; Transport cost —; **Total in USD 7 100,00**. Банк: **Account holder STATURA LIMITED** (Suite C, Level 7, WORLD TRUST TOWER, 50 Stanley street, Central, Hong Kong; Reg.No. 74211485), **DBS Bank (Hong Kong) Limited**, SWIFT **DHBKHKHH**, bank code 016, счёт **478798114827**. Сумма строки = итог инвойса (7 100,00 USD). Компания-плательщик в документе НЕ названа → статус **🔴 (Step 0)**, расчёт жду от владельца; клиент — VDX (по классу «📨 Платежи VDX»). По сумме/инвойсу/бенефициару совпадений в 5 таблицах нет (проверено: 7100 / STATURA / HK26012 / AK1009 / RR180) — строка новая.",
     "calc": null
+  },
+  {
+    "row": 92,
+    "date": "2026-09-15",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ФИНИНВЕСТ",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
