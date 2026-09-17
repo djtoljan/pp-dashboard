@@ -1812,5 +1812,24 @@
     "sent_usdt": 48412.43,
     "notes": "📄 17.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «6006 llc invoice INTERNATIONAL WIRE 96,97.pdf») — **ордер на платёж**: бенефициар **6006 GULF DRIVE LLC** (6006 Gulf drive, 212, Holmes Beach, 34217 Florida, USA); банк **Chase Bank** (6410 Cortez Rd W, Bradenton, FL 34210, USA), SWIFT **CHASUS33**, ABA 267084131, счёт **537197615**; Payment details: **INV. 96, 97 DD.17.09.2026**; Amount **48 096,00 USD**; **OUR** (комиссии за счёт плательщика). Инвойсы-основания (оба от 17.Sep.2026, получатель платежа 6006 GULF DRIVE LLC, Chase Bank, SWIFT CHASUS33, ABA 267084131, счёт 537197615; «Please pay by September 20, 2026 the latest»; account manager Helen Geiman): **Invoice 96** — TOTAL TO PAY **$27 902** (проживание Safir Dahab 22.10–06.11.2026, meet&assist + трансферы + bank fee; предоплата JAZ Elite Riviera 27.07–08.08.2027; авиабилеты Борисов/Диаконова/Диаконов/Raag; билет Боломатовой А.) и **Invoice 97** — TOTAL TO PAY **$20 194** (Waldorf Astoria Shanghai 22–23.10, Regent Hong Kong 23–25.10, Futian Shangri-La Shenzhen 25–26.10, билеты The Weeknd Silver VIP 24.10, частные туры Shanghai/Hong Kong/Shenzhen). Сумма 27 902 + 20 194 = **48 096,00 USD** ✓ = сумма ордера. Расчёт VDX: `costFormula = 48 096,00 × 1,0045 + 100 = 48 412,43 USDT`. Компания-плательщик в сообщении не названа — по прецеденту однотипных ордеров 6006 GULF DRIVE (row 79, инвойсы 93/94) проставлена **UK**; клиент — **VDX**. Совпадений по сумме 48 096 в 5 таблицах нет (проверено), строка заведена новая (🔴 → ⬜).",
     "calc": null
+  },
+  {
+    "row": 96,
+    "date": "2026-09-17",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ООО НЕСКО",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
