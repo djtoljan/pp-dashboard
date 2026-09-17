@@ -959,5 +959,24 @@
     "notes": "📤 17.09.2026 (📨 Ордера и Расчеты ❗️) — **заказ на выплату USDT (AliPay ❗️)**: **12 574,00 CNA / 6.64 = 1 894 USDT** («ждём ПП»); адрес получателя (TRON) `TL3cwmhReXxy4padH4MrJu3NooNXnp34Kp`. Клиент — **Вилог** (по метке этого адреса в wallet-ledger: OUT 1 026 и 3 849 от 15.09.2026, OUT 18 865 от 16.09.2026, все «Вилог»). Финансирование — три перевода AliPay по заказу «16.2A/B/C» 12 574 CNA на 帅超(**超): ¥5 574,00 (16.2A) + ¥2 000,00 (16.2B, 韩亚银行 8738) + ¥5 000,00 (16.2C, 中国银行 2154, списано ¥4 997 после комиссии ¥3) = ¥12 574,00 ✓. costFormula = 12 574,00 CNA / 6.64 = 1 894 USDT, sent_usdt = 1 894. Выплата USDT ещё НЕ произведена («ждём ПП») — движения в леджере по адресу нет с 16.09. | Уточнение владельца (Scream 17.09.2026): клиент — **Вилог** (метка приведена к формату таблицы; ранее «Вилог (Молодёжь)»).",
     "calc": null,
     "txid": "bc2c0d331881d9cea134bb3ed24f4aa2dc36cc7b24e98f35cf8ba5af9a88498f"
+  },
+  {
+    "row": 51,
+    "date": "2026-09-17",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Сенсис (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
