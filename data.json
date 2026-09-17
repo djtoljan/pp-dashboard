@@ -1321,6 +1321,25 @@
   },
   {
     "row": 70,
+    "date": "2026-09-15",
+    "sum": null,
+    "currency": null,
+    "company": "—",
+    "color": "FF4FC3F7",
+    "clientName": "ФИНИНВЕСТ",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "2121366.61",
+    "sent_rubles_vdx": "2121366.61 (Al Safi)",
+    "exchange_to": "Al Safi",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 17.09.2026 (📨 Отправки рублей ПП.) — **с Блэкшарк (Почтобанк, счёт 40807810100157518600) на Аль Сафи — 2 121 366,61 ₽**, назначение «перевод собственных средств»; доки на вход `O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\FININVEST -БШ-Цветы\\вход 15.09.26` (сетевой путь, с хоста агента недоступен); контрагент прихода — **АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ»** (ИНН 9909705580, счёт 40807810324600000016, БИК 044525411). guard-before-create: совпадений с инвойсами нет (exit 0) → заведена 🔵-строка. rubles_received = 2 121 366,61 (приход 15.09.2026), sent_rubles_vdx = 2 121 366,61 (Al Safi), exchange_to = Al Safi. Заявки/поручения нет — ждём.",
+    "calc": null
+  },
+  {
+    "row": 71,
     "date": "2026-09-16",
     "sum": 976075.38,
     "currency": "CNY",
@@ -1339,7 +1358,7 @@
     "calc": null
   },
   {
-    "row": 71,
+    "row": 72,
     "date": "2026-09-16",
     "sum": 237289,
     "currency": "CNY",
@@ -1358,7 +1377,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 72,
+    "row": 73,
     "date": "2026-09-16",
     "sum": 31624.1,
     "currency": "EUR",
@@ -1377,7 +1396,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 73,
+    "row": 74,
     "date": "2026-09-16",
     "sum": 28350,
     "currency": "EUR",
@@ -1396,7 +1415,7 @@
     "calc": null
   },
   {
-    "row": 74,
+    "row": 75,
     "date": "2026-09-16",
     "sum": 862.2,
     "currency": "USD",
@@ -1415,7 +1434,7 @@
     "calc": null
   },
   {
-    "row": 75,
+    "row": 76,
     "date": "2026-09-16",
     "sum": 57479.99,
     "currency": "USD",
@@ -1434,7 +1453,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 76,
+    "row": 77,
     "date": "2026-09-16",
     "sum": 32973.04,
     "currency": "EUR",
@@ -1453,7 +1472,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 77,
+    "row": 78,
     "date": "2026-09-16",
     "sum": 23000,
     "currency": "USD",
@@ -1472,7 +1491,7 @@
     "calc": null
   },
   {
-    "row": 78,
+    "row": 79,
     "date": "2026-09-16",
     "sum": 35230.38,
     "currency": "USD",
@@ -1491,7 +1510,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 79,
+    "row": 80,
     "date": "2026-09-16",
     "sum": 100064,
     "currency": "USD",
@@ -1510,7 +1529,7 @@
     "calc": null
   },
   {
-    "row": 80,
+    "row": 81,
     "date": "2026-09-16",
     "sum": 2651.4,
     "currency": "EUR",
@@ -1529,7 +1548,7 @@
     "calc": "РУБ"
   },
   {
-    "row": 81,
+    "row": 82,
     "date": "2026-09-16",
     "sum": 83654.55,
     "currency": "USD",
@@ -1548,7 +1567,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 82,
+    "row": 83,
     "date": "2026-09-17",
     "sum": 49085,
     "currency": "USD",
@@ -1567,7 +1586,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 83,
+    "row": 84,
     "date": "2026-09-17",
     "sum": 35700,
     "currency": "EUR",
@@ -1586,7 +1605,7 @@
     "calc": null
   },
   {
-    "row": 84,
+    "row": 85,
     "date": "2026-09-17",
     "sum": 28350,
     "currency": "EUR",
@@ -1605,7 +1624,7 @@
     "calc": null
   },
   {
-    "row": 85,
+    "row": 86,
     "date": "2026-09-17",
     "sum": 28350,
     "currency": "EUR",
@@ -1624,7 +1643,7 @@
     "calc": null
   },
   {
-    "row": 86,
+    "row": 87,
     "date": "2026-09-17",
     "sum": 20037.6,
     "currency": "EUR",
@@ -1643,7 +1662,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 87,
+    "row": 88,
     "date": "2026-09-17",
     "sum": 80000,
     "currency": "USD",
@@ -1662,7 +1681,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 88,
+    "row": 89,
     "date": "2026-09-17",
     "sum": 18767,
     "currency": "USD",
@@ -1681,7 +1700,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 89,
+    "row": 90,
     "date": "2026-09-17",
     "sum": 86095.63,
     "currency": "USD",
@@ -1700,7 +1719,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 90,
+    "row": 91,
     "date": "2026-09-17",
     "sum": 69891.15,
     "currency": "USD",
@@ -1719,7 +1738,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 91,
+    "row": 92,
     "date": "2026-09-17",
     "sum": 7100,
     "currency": "USD",
@@ -1735,25 +1754,6 @@
     "received_usdt": null,
     "sent_usdt": null,
     "notes": "📄 17.09.2026 (📨 Платежи VDX, файл «4_5864017766620602460.pdf») — **INVOICE No. HK26012 от 16.09.2026** (工程与贸易公司 / «Engineering and trading company», Ships, Power Plant's, Logistics): «SHIPS SPARE PARTS IN TRANSIT»; P.Order **AK1009-SP-FOR-50**; For: T|C; Serial No. **RR180**; Maker **BBC**. Позиция: **2 KIT — SERVICE KIT RR180**, цена 3 550,00 за комплект = **7 100,00**; Subtotal USD 7 100,00; Packing & Handling —; Transport cost —; **Total in USD 7 100,00**. Банк: **Account holder STATURA LIMITED** (Suite C, Level 7, WORLD TRUST TOWER, 50 Stanley street, Central, Hong Kong; Reg.No. 74211485), **DBS Bank (Hong Kong) Limited**, SWIFT **DHBKHKHH**, bank code 016, счёт **478798114827**. Сумма строки = итог инвойса (7 100,00 USD). Компания-плательщик в документе НЕ названа → статус **🔴 (Step 0)**, расчёт жду от владельца; клиент — VDX (по классу «📨 Платежи VDX»). По сумме/инвойсу/бенефициару совпадений в 5 таблицах нет (проверено: 7100 / STATURA / HK26012 / AK1009 / RR180) — строка новая.",
-    "calc": null
-  },
-  {
-    "row": 92,
-    "date": "2026-09-15",
-    "sum": null,
-    "currency": null,
-    "company": "—",
-    "color": "FF4FC3F7",
-    "clientName": "ФИНИНВЕСТ",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": "2121366.61",
-    "sent_rubles_vdx": "2121366.61 (Al Safi)",
-    "exchange_to": "Al Safi",
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 17.09.2026 (📨 Отправки рублей ПП.) — **с Блэкшарк (Почтобанк, счёт 40807810100157518600) на Аль Сафи — 2 121 366,61 ₽**, назначение «перевод собственных средств»; доки на вход `O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\FININVEST -БШ-Цветы\\вход 15.09.26` (сетевой путь, с хоста агента недоступен); контрагент прихода — **АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ»** (ИНН 9909705580, счёт 40807810324600000016, БИК 044525411). guard-before-create: совпадений с инвойсами нет (exit 0) → заведена 🔵-строка. rubles_received = 2 121 366,61 (приход 15.09.2026), sent_rubles_vdx = 2 121 366,61 (Al Safi), exchange_to = Al Safi. Заявки/поручения нет — ждём.",
     "calc": null
   },
   {
@@ -1811,25 +1811,6 @@
     "received_usdt": null,
     "sent_usdt": 48412.43,
     "notes": "📄 17.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «6006 llc invoice INTERNATIONAL WIRE 96,97.pdf») — **ордер на платёж**: бенефициар **6006 GULF DRIVE LLC** (6006 Gulf drive, 212, Holmes Beach, 34217 Florida, USA); банк **Chase Bank** (6410 Cortez Rd W, Bradenton, FL 34210, USA), SWIFT **CHASUS33**, ABA 267084131, счёт **537197615**; Payment details: **INV. 96, 97 DD.17.09.2026**; Amount **48 096,00 USD**; **OUR** (комиссии за счёт плательщика). Инвойсы-основания (оба от 17.Sep.2026, получатель платежа 6006 GULF DRIVE LLC, Chase Bank, SWIFT CHASUS33, ABA 267084131, счёт 537197615; «Please pay by September 20, 2026 the latest»; account manager Helen Geiman): **Invoice 96** — TOTAL TO PAY **$27 902** (проживание Safir Dahab 22.10–06.11.2026, meet&assist + трансферы + bank fee; предоплата JAZ Elite Riviera 27.07–08.08.2027; авиабилеты Борисов/Диаконова/Диаконов/Raag; билет Боломатовой А.) и **Invoice 97** — TOTAL TO PAY **$20 194** (Waldorf Astoria Shanghai 22–23.10, Regent Hong Kong 23–25.10, Futian Shangri-La Shenzhen 25–26.10, билеты The Weeknd Silver VIP 24.10, частные туры Shanghai/Hong Kong/Shenzhen). Сумма 27 902 + 20 194 = **48 096,00 USD** ✓ = сумма ордера. Расчёт VDX: `costFormula = 48 096,00 × 1,0045 + 100 = 48 412,43 USDT`. Компания-плательщик в сообщении не названа — по прецеденту однотипных ордеров 6006 GULF DRIVE (row 79, инвойсы 93/94) проставлена **UK**; клиент — **VDX**. Совпадений по сумме 48 096 в 5 таблицах нет (проверено), строка заведена новая (🔴 → ⬜).",
-    "calc": null
-  },
-  {
-    "row": 96,
-    "date": "2026-09-17",
-    "sum": 11000,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "—",
-    "costFormula": "11 000,00 + 0,3% + 30 = 11 063,00 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 11063,
-    "notes": "📄 17.09.2026 (📨 Заявки Компания Q8, файл «PROFORMA INVOICE GABIFLOR - Geoflora 160926.pdf») — **PROFORMA INVOICE № 1101 от September 16th 2026**: Invoice to **Costumer Q8 Group Limited** (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Pos. 1 — **Cut Flowers** (срезанные цветы), **47 826,09 Stems × $0,23 = $11 000,00**; Subtotal/Total factura **$11 000,00**; Payment Method: Wire Transfer. Продавец/получатель: **GEOFLORA SAS** (Km 4 Via Corzo - Bojaca, Bojaca, Colombia; тел. 57 302 345 3984; General Manager Nicolás Hurtado; NIT 900.552.241,1); банк **BBVA COLOMBIA** (CRA 9 No. 72 - 21 PISO 5, BOGOTÁ, COLOMBIA), SWIFT **GEROCOBB**, счёт **00130382000100017184**. | 📄 17.09.2026 (📨 Заявки Компания Q8, файл «Заявка на перевод GEOFLORA 2026-09-14.docx») — **Заявка на перевод**: Сумма **11 000**, валюта **USD**, получатель **GEOFLORA SAS** (Km 4 Via Corzo – Bojaca, Colombia), счёт **00130382000100017184**, банк **BBVA COLOMBIA** (CRA 9 No. 72 - 21 PISO 5, BOGOTÁ, COLOMBIA), SWIFT **GEROCOBB**; остальные поля бланка (VAT no, директор, банк-корреспондент, расходы, назначение) пустые. Сумма заявки = сумме проформы (11 000,00 USD) ✓ → инвойс + заявка = **Тип 4**, статус 🔴→⬜. ⚠️ **Клиент в документах не назван** (пакет «Заявки Компания Q8», плательщик не указан; в заявке заполнены только поля получателя). В 5 таблицах совпадений нет (GEOFLORA / GABIFLOR / GEROCOBB / 00130382000100017184 / 47 826) → строка заведена в **Main** с клиентом «—» до уточнения у владельца (в Цветы/Молодёжь перенесу по указанию). Расчёт Q8 проставлен сразу: `costFormula = 11 000,00 + 0,3% + 30 = 11 063,00 USDT`.",
     "calc": null
   }
 ]

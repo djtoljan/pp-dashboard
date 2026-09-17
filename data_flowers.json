@@ -950,5 +950,24 @@
     "sent_usdt": 43159,
     "notes": "📄 16.09.2026 (📨 Цветы) — **Dolina Agro Ltd → Q8 Group Limited**: инвойс **DA-160926-01 dd 16.09.2026**, валюта USD, **43 000,00 USD** (TOTAL USD; TOTAL STEMS 55 500, 7–8 box, розы: Explorer 7 000 × 0,85 = 5 950, Freedom 7 000 × 0,72 = 5 040, Pink Floyd 6 500 × 0,95 = 6 175, White Chocolate 7 000 × 0,80 = 5 600, Kahala 6 500 × 0,76 = 4 940, Mondial 7 000 × 0,78 = 5 460, Lola 7 000 × 0,74 = 5 180, Paloma 7 500; Comision/Packing/Inland 0,00; EXW, Truck INTERFLOWERS). Продавец: Dolina Agro Ltd (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL; Registration 515826436); банк **BANK LEUMI LE ISRAEL**, Business Nathanya Branch 744, SWIFT **LUMIILITXXX**, IBAN **IL750107440000027660042**. Покупатель: Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Клиент — **Dolina Agro (Цветы)** (clients-db, группа Цветы; прошлые сделки r14/r19/r27 — 🟢), компания **Q8** (ТЕЗ), ⬜ Step 3. Расчёт: **43 000,00 + 0,3% + 30 = 43 159,00 USDT** (как r19/r27 этого же клиента), sent_usdt = 43 159. Дублей по сумме/инвойсу нет (все 5 таблиц + архивы/бэкапы; прежние DA-инвойсы — другие номера и суммы). | 🧾 16.09.2026 (📨 Цветы, форма Q8 «Dolina Agro Ltd 43000.docx»): реквизиты формы совпадают со строкой — сумма USD 43 000, бенефициар Dolina Agro Ltd (P.O. Box 3103, 10, Bareker str., Industrial Park Caesarea, 38900 ISRAEL), счёт IL750107440000027660042, SWIFT LUMIILITXXX, банк BANK LEUMI LE ISRAEL (BUSINESS NATHANYA BRANCH 744); поля Intermediary/Correspondent/Payment details пустые. | BONBILL Payment Certificate 17.09.2026 (Тип 7 Q8, 📨 ПП компании Q8, файл «43000.00 (2).pdf»): Q8 GROUP LIMITED → BONBILL LIMITED. Invoice DA-160926-01 dd 16.09.2026 For Flowers, 43 000,00 USD. TXID O2100456708001366016578. ⬜→🟢",
     "calc": null
+  },
+  {
+    "row": 51,
+    "date": "2026-09-17",
+    "sum": 11000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "GABIFLOR (Цветы)",
+    "costFormula": "11 000,00 + 0,3% + 30 = 11 063,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 11063,
+    "notes": "📄 17.09.2026 (📨 Заявки Компания Q8, файл «PROFORMA INVOICE GABIFLOR - Geoflora 160926.pdf») — **PROFORMA INVOICE № 1101 от September 16th 2026**: Invoice to **Costumer Q8 Group Limited** (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Pos. 1 — **Cut Flowers** (срезанные цветы), **47 826,09 Stems × $0,23 = $11 000,00**; Subtotal/Total factura **$11 000,00**; Payment Method: Wire Transfer. Продавец/получатель: **GEOFLORA SAS** (Km 4 Via Corzo - Bojaca, Bojaca, Colombia; тел. 57 302 345 3984; General Manager Nicolás Hurtado; NIT 900.552.241,1); банк **BBVA COLOMBIA** (CRA 9 No. 72 - 21 PISO 5, BOGOTÁ, COLOMBIA), SWIFT **GEROCOBB**, счёт **00130382000100017184**. | 📄 17.09.2026 (📨 Заявки Компания Q8, файл «Заявка на перевод GEOFLORA 2026-09-14.docx») — **Заявка на перевод**: Сумма **11 000**, валюта **USD**, получатель **GEOFLORA SAS** (Km 4 Via Corzo – Bojaca, Colombia), счёт **00130382000100017184**, банк **BBVA COLOMBIA** (CRA 9 No. 72 - 21 PISO 5, BOGOTÁ, COLOMBIA), SWIFT **GEROCOBB**; остальные поля бланка (VAT no, директор, банк-корреспондент, расходы, назначение) пустые. Сумма заявки = сумме проформы (11 000,00 USD) ✓ → инвойс + заявка = **Тип 4**, статус 🔴→⬜. ⚠️ **Клиент в документах не назван** (пакет «Заявки Компания Q8», плательщик не указан; в заявке заполнены только поля получателя). В 5 таблицах совпадений нет (GEOFLORA / GABIFLOR / GEROCOBB / 00130382000100017184 / 47 826) → строка заведена в **Main** с клиентом «—» до уточнения у владельца (в Цветы/Молодёжь перенесу по указанию). Расчёт Q8 проставлен сразу: `costFormula = 11 000,00 + 0,3% + 30 = 11 063,00 USDT`. | 📌 17.09.2026 (Scream: «Это новый клиент цветов !!!!») — строка ПЕРЕНЕСЕНА из Main (была row 96) в таблицу **Цветы**: у цветочного клиента своя таблица и свой лист «Баланс Цветов» (ветка C переноса). `clientName` = «GABIFLOR (Цветы)»; сумма/валюта/компания (Q8)/расчёт/цвет и notes сохранены как есть. Метка клиента — по имени файла операционки («PROFORMA INVOICE GABIFLOR - Geoflora 160926»); если клиент называется иначе (например, GEOFLORA), — переименовать одной правкой.",
+    "calc": null
   }
 ]
