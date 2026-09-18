@@ -2002,5 +2002,24 @@
     "sent_usdt": 41559,
     "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**»; файл «inv.pdf») — **ордер на платёж**: Beneficiary **DK ENTERPRISE LIMITED** (Room 1908-09, Lippo Centre Tower 1, 89 Queensway, Admiralty, Hong Kong); Bank **The Bank of East Asia, Limited** (10 Des Voeux Road, Central, Hong Kong), SWIFT **BEASHKHH**, счёт **015 1516 8020 739**; Payment details «**inv. ZDRUYESLOG00016, ZDRUYESLOG00017, ZDRUYESLOG00015, ZDRUYESLOG00014, ZDRUYESLOG00018, ZDRUYESLOG00010, ZDRUYESLOG00011, ZDRUYESLOG00012**»; Amount **41 335,00 USD**; **OUR**. Инвойсы-основания (файл «inv.pdf», 8 **DEBIT NOTE** от **YES LOGISTICS LLC**, перевозчик XLY, QINGDAO→VOSTOCHNY, судно LIAN HE FA ZHAN / A2601E): ZDRUYESLOG00016 dd 11.09.2026 (job ZXQ2608524, 4 300 pcs, 4×40HQ: TGBU5036892/TCNU2420672/TCNU2420477/TEMU6053549; OCEAN FREIGHT 4×3500 + LOCAL 419 = 14 419,00), а также ZDRUYESLOG00010–00018 по той же серии; получатель платежа по debit-note — **ZHEJIANG DASHING WORLDWIDE SHIPPING GROUP** (BANK OF CHINA NINGBO ZHENHAI JIDIAN BRANCH, SWIFT BKCHCNBJ92A). Компания — **Q8** (названа в подписи), клиент **VDX**. Расчёт: `41 335,00 + 0,3% + 30 = 41489,00 USDT`; sent_usdt = 41489. Совпадений по 41 335 / DK ENTERPRISE / ZDRUYESLOG в 5 таблицах нет. | 📈 18.09.2026 (Scream, разбор прихода): расчёт строки по ордеру — `41335,00 × 1,003 + 100 = 41559 USDT`. Входит в единый **IN 151 249,00 USDT** (Рабочий 4 ← TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9, 18.09.2026 12:56:30 UTC) вместе с 42031 + 67659 + 41559 = 151 249 ✓.",
     "calc": null
+  },
+  {
+    "row": 106,
+    "date": "2026-09-18",
+    "sum": 97899.07,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": "97899.07 + 0.3% + 30 = 98222.77 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 98222.77,
+    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**»; файл «PI#114-116 (blue nitrile) 17.09.2026.pdf») — **ордер на платёж**: Beneficiary **Bundhand Plastic and Rubber Products Co., Ltd** (Suite 1-401, No.20th B/D, Taoli Garden, Bengbu, Anhui, China, 233000); Bank **BANK OF COMMUNICATIONS BENGBU BRANCH** (88 Nanshan Road, Bengbu, Anhui, China), SWIFT **COMMCNSHBBU**, счёт **343006010146300046171** (USD); Payment details «**Inv P/I No. 114-116 dd 17.09.2026**»; Amount **97 899,07 USD**; **OUR**. Инвойс-основание: **PROFORMA INVOICE № 114-116 dd 17.09.2026** (Bundhand Plastic and Rubber Products Co., Ltd): Blue nitrile gloves powder free (S/M/L/XL), HS 4015190000, 16 200 000 шт / 8 100 ящ (270,00 ¥/ящ), **Total ¥2 187 000,00**; условия — **deposit 30% = ¥656 100,00 = 97 899,07 USD** (оплата частичная, предоплата 30%). Компания — **Q8** (названа в подписи), клиент **VDX**. Расчёт: `97899.07 + 0.3% + 30 = 98222.77 USDT`; sent_usdt = 98222.77. Совпадений по 97 899,07 / Bundhand / PI 114-116 в 5 таблицах нет.",
+    "calc": "ТЕЗ"
   }
 ]

@@ -1153,5 +1153,24 @@
     "status": "🟢",
     "statusTriggerDocId": "O2100883309159645184382",
     "row": 60
+  },
+  {
+    "row": 61,
+    "date": "2026-09-18",
+    "sum": 10440,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
