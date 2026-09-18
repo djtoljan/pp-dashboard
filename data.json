@@ -2011,15 +2011,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "41 335,00 + 0,3% + 30 = 41489,00 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 41489,
+    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**»; файл «inv.pdf») — **ордер на платёж**: Beneficiary **DK ENTERPRISE LIMITED** (Room 1908-09, Lippo Centre Tower 1, 89 Queensway, Admiralty, Hong Kong); Bank **The Bank of East Asia, Limited** (10 Des Voeux Road, Central, Hong Kong), SWIFT **BEASHKHH**, счёт **015 1516 8020 739**; Payment details «**inv. ZDRUYESLOG00016, ZDRUYESLOG00017, ZDRUYESLOG00015, ZDRUYESLOG00014, ZDRUYESLOG00018, ZDRUYESLOG00010, ZDRUYESLOG00011, ZDRUYESLOG00012**»; Amount **41 335,00 USD**; **OUR**. Инвойсы-основания (файл «inv.pdf», 8 **DEBIT NOTE** от **YES LOGISTICS LLC**, перевозчик XLY, QINGDAO→VOSTOCHNY, судно LIAN HE FA ZHAN / A2601E): ZDRUYESLOG00016 dd 11.09.2026 (job ZXQ2608524, 4 300 pcs, 4×40HQ: TGBU5036892/TCNU2420672/TCNU2420477/TEMU6053549; OCEAN FREIGHT 4×3500 + LOCAL 419 = 14 419,00), а также ZDRUYESLOG00010–00018 по той же серии; получатель платежа по debit-note — **ZHEJIANG DASHING WORLDWIDE SHIPPING GROUP** (BANK OF CHINA NINGBO ZHENHAI JIDIAN BRANCH, SWIFT BKCHCNBJ92A). Компания — **Q8** (названа в подписи), клиент **VDX**. Расчёт: `41 335,00 + 0,3% + 30 = 41489,00 USDT`; sent_usdt = 41489. Совпадений по 41 335 / DK ENTERPRISE / ZDRUYESLOG в 5 таблицах нет.",
     "calc": null
   }
 ]
