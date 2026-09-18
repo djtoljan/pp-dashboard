@@ -1153,5 +1153,24 @@
     "status": "🟢",
     "statusTriggerDocId": "O2100883309159645184382",
     "row": 60
+  },
+  {
+    "row": 61,
+    "date": "2026-09-18",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Фри Лайнс Компани (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "18304.69 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": 84.45,
+    "received_usdt": "216.54",
+    "sent_usdt": null,
+    "notes": "ПП на VDX №4498 от 18.09.2026 (18 304,69 ₽, Фри Лайнс, АО ЮНИКРЕДИТ БАНК Г МОСКВА): плательщик АО «Фри Лайнс Компани» → ВиДиИкс Сервисез - ФЗКО / VDX SERVICES-FZCO, 18 304,69 ₽, {VO21100} оплата вознаграждения согласно поручению на основании агентского договора №09-02-3/26 от 09.02.2026. Курс VDX 84,45 → 216,54 USDT (из VDX Rate Table 18.09.2026). ⚠️ заявки нет — 🔵 отправка на VDX без заявки.",
+    "calc": null
   }
 ]
