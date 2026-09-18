@@ -1848,7 +1848,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «inv.00094444.pdf») — **ордер на платёж**: Beneficiary **Etica Empresa Turística Internacional C.A.** (Av. de las Palmeras N45-74 y Las Orquídeas, Quito, Ecuador; Puerto Ayora S/N, Metropolitan Touring, Santa Cruz Island, Galápagos); Bank **TERRABANK N.A.** (3191 Coral Way, PH1, Miami, FL 33145, USA), SWIFT **TBNAUS33**, ABA 066012333, счёт **1305229206**; Payment details **inv. 00094444 DD.16/09/2026**; Amount **34 578,00 USD**; **OUR**. Инвойс-основание: quote/invoice **№ 00094444 от 16.09.2026** от **TRAVELCOM LIMITED** (Company number 14781569; Cardiff) на **ETICA EMPRESA TURISTICA INTERNACIONAL C.A.** — «Group arrangements», 29.11.2026–10.12.2026, 12 ADT, Total Net **$34 578,00** (Metropolitan Touring / Galápagos: Yacht La Pinta, Santa Cruz, Isabela II, Finch Bay). Компания-плательщик в сообщении не названа — по прецеденту однотипных туристических ордеров VDX (TRAVELCOM LIMITED; rows 44/79/93) проставлена **UK** → ⬜; клиент — **VDX**. Совпадений по 34 578 / ETICA / 00094444 в 5 таблицах нет. Требует подтверждения Scream (компания UK по аналогии).",
     "calc": null
   }
 ]
