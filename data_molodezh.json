@@ -1118,7 +1118,7 @@
     "sum": 20581,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "БЕСТАКВАТИКС (Молодёжь)",
     "costFormula": "20 581,00 × 1,0045 + 100 = 20 774 USDT",
     "extra": null,
@@ -1128,10 +1128,10 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 20774,
-    "notes": "📄 18.09.2026 (системное уведомление «⚠️ Зелёнка не маршрутизирована: топик не найден для **БЕСТАКВАТИКС (Молодёжь)**», документ «**20 581 USD MFAR KUDAVILLINGILI PRIVATELIMITED**») — зелёнка по платежу **20 581,00 USD** в пользу **MFAR KUDAVILLINGILI PRIVATE LIMITED**; маршрут в топик не найден → разобрал вручную, завёл строку в **Молодёжь** (клиент **БЕСТАКВАТИКС (Молодёжь)**; принципал по линии — **ООО «Бестакватикс»**, ср. Поручения №10/№11 от 17.09.2026, Молодёжь r47/r48). 🚨 Это **третья заявка** из разбора единого IN **106 534,00 USDT** (Рабочий 4, 18.09.2026 10:32:27 UTC; Scream 18.09: 20 581,00 × 1,0045 + 100 = **20 774 USDT**) — две другие: Main r97 (34 578 → 34 834) и Main r98 (50 598 → 50 926). Компания поставлена **Q8** (по аналогии с БЕСТАКВАТИКС r16/r22) — требует подтверждения. Расчёт: `20 581,00 × 1,0045 + 100 = 20773.61 USDT`; sent_usdt = 20773.61. ⚠️ Для статуса 🟢 нужен документ-триггер ЭТОЙ строки (Тип 3 EXECUTED / Тип 7 BONBILL Q8) — по системному уведомлению зелёнка есть, но файла/Transaction ID нет: перешли документ (как по строкам 62/94/52), и поставлю 🟢. | 📄 18.09.2026 (📨 ПП компании UK, файл «MFAR KUDAVILL 20581 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE (TONIO)**: Remitter **TRAVELCOM LIMITED** (IBAN GB72TONI04282200006501) → Beneficiary **MFAR KUDAVILLINGILI PRIVATE LIMITED**, сумма **20 581,00 USD**, Details «**INV.504486 DD.10.07.26**», Execution Date **09/18/2026**; штамп в поле Bank’s confirmation — **IN PROCESS** (проверено рендером страницы 250 dpi + визуально). Отправлено, в банке ещё НЕ исполнено → статус **⬜→🟡** (по правилу Scream 31.08.2026: DEBIT ADVICE IN PROCESS → 🟡). 🟢 — только по отдельному EXECUTED/Success.",
+    "notes": "📄 18.09.2026 (системное уведомление «⚠️ Зелёнка не маршрутизирована: топик не найден для **БЕСТАКВАТИКС (Молодёжь)**», документ «**20 581 USD MFAR KUDAVILLINGILI PRIVATELIMITED**») — зелёнка по платежу **20 581,00 USD** в пользу **MFAR KUDAVILLINGILI PRIVATE LIMITED**; маршрут в топик не найден → разобрал вручную, завёл строку в **Молодёжь** (клиент **БЕСТАКВАТИКС (Молодёжь)**; принципал по линии — **ООО «Бестакватикс»**, ср. Поручения №10/№11 от 17.09.2026, Молодёжь r47/r48). 🚨 Это **третья заявка** из разбора единого IN **106 534,00 USDT** (Рабочий 4, 18.09.2026 10:32:27 UTC; Scream 18.09: 20 581,00 × 1,0045 + 100 = **20 774 USDT**) — две другие: Main r97 (34 578 → 34 834) и Main r98 (50 598 → 50 926). Компания поставлена **Q8** (по аналогии с БЕСТАКВАТИКС r16/r22) — требует подтверждения. Расчёт: `20 581,00 × 1,0045 + 100 = 20773.61 USDT`; sent_usdt = 20773.61. ⚠️ Для статуса 🟢 нужен документ-триггер ЭТОЙ строки (Тип 3 EXECUTED / Тип 7 BONBILL Q8) — по системному уведомлению зелёнка есть, но файла/Transaction ID нет: перешли документ (как по строкам 62/94/52), и поставлю 🟢. | 📄 18.09.2026 (📨 ПП компании UK, файл «MFAR KUDAVILL 20581 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE (TONIO)**: Remitter **TRAVELCOM LIMITED** (IBAN GB72TONI04282200006501) → Beneficiary **MFAR KUDAVILLINGILI PRIVATE LIMITED**, сумма **20 581,00 USD**, Details «**INV.504486 DD.10.07.26**», Execution Date **09/18/2026**; штамп в поле Bank’s confirmation — **IN PROCESS** (проверено рендером страницы 250 dpi + визуально). Отправлено, в банке ещё НЕ исполнено → статус **⬜→🟡** (по правилу Scream 31.08.2026: DEBIT ADVICE IN PROCESS → 🟡). 🟢 — только по отдельному EXECUTED/Success. | 🟢 18.09.2026 (📨 ПП компании UK, файл «MFAR KUDAV 20581 usd.pdf»; **UETR f92e087f-5b41-49cf-9036-9f29e2daeda8**) — повтор того же **PAYMENT ORDER DEBIT ADVICE (TONIO)**: Remitter **TRAVELCOM LIMITED** (IBAN GB72TONI04282200006501) → Beneficiary **MFAR KUDAVILLINGILI PRIVATE LIMITED**, **20 581,00 USD**, Details «INV.504486 DD.10.07.26», Execution Date **09/18/2026**; штамп Bank’s confirmation — **EXECUTED** (банк исполнил) → статус **🟡→🟢** (ранее была версия со штампом IN PROCESS).",
     "calc": null,
-    "status": "🟡",
-    "statusTriggerDocId": "INV.504486"
+    "status": "🟢",
+    "statusTriggerDocId": "tonio-debit-advice-mfar-20581-executed"
   },
   {
     "date": "2026-09-18",
