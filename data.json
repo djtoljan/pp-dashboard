@@ -1838,7 +1838,7 @@
     "sum": 50598,
     "currency": "USD",
     "company": "TRAVELCOM",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "VDX",
     "costFormula": "50598,00 × 1,0045 + 100 = 50926 USDT",
     "extra": null,
