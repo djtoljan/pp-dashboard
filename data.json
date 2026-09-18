@@ -1840,15 +1840,15 @@
     "company": "UK",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "34578,00 × 1,0045 + 100 = 34834 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «inv.00094444.pdf») — **ордер на платёж**: Beneficiary **Etica Empresa Turística Internacional C.A.** (Av. de las Palmeras N45-74 y Las Orquídeas, Quito, Ecuador; Puerto Ayora S/N, Metropolitan Touring, Santa Cruz Island, Galápagos); Bank **TERRABANK N.A.** (3191 Coral Way, PH1, Miami, FL 33145, USA), SWIFT **TBNAUS33**, ABA 066012333, счёт **1305229206**; Payment details **inv. 00094444 DD.16/09/2026**; Amount **34 578,00 USD**; **OUR**. Инвойс-основание: quote/invoice **№ 00094444 от 16.09.2026** от **TRAVELCOM LIMITED** (Company number 14781569; Cardiff) на **ETICA EMPRESA TURISTICA INTERNACIONAL C.A.** — «Group arrangements», 29.11.2026–10.12.2026, 12 ADT, Total Net **$34 578,00** (Metropolitan Touring / Galápagos: Yacht La Pinta, Santa Cruz, Isabela II, Finch Bay). Компания-плательщик в сообщении не названа — по прецеденту однотипных туристических ордеров VDX (TRAVELCOM LIMITED; rows 44/79/93) проставлена **UK** → ⬜; клиент — **VDX**. Совпадений по 34 578 / ETICA / 00094444 в 5 таблицах нет. Требует подтверждения Scream (компания UK по аналогии).",
+    "sent_usdt": 34834,
+    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «inv.00094444.pdf») — **ордер на платёж**: Beneficiary **Etica Empresa Turística Internacional C.A.** (Av. de las Palmeras N45-74 y Las Orquídeas, Quito, Ecuador; Puerto Ayora S/N, Metropolitan Touring, Santa Cruz Island, Galápagos); Bank **TERRABANK N.A.** (3191 Coral Way, PH1, Miami, FL 33145, USA), SWIFT **TBNAUS33**, ABA 066012333, счёт **1305229206**; Payment details **inv. 00094444 DD.16/09/2026**; Amount **34 578,00 USD**; **OUR**. Инвойс-основание: quote/invoice **№ 00094444 от 16.09.2026** от **TRAVELCOM LIMITED** (Company number 14781569; Cardiff) на **ETICA EMPRESA TURISTICA INTERNACIONAL C.A.** — «Group arrangements», 29.11.2026–10.12.2026, 12 ADT, Total Net **$34 578,00** (Metropolitan Touring / Galápagos: Yacht La Pinta, Santa Cruz, Isabela II, Finch Bay). Компания-плательщик в сообщении не названа — по прецеденту однотипных туристических ордеров VDX (TRAVELCOM LIMITED; rows 44/79/93) проставлена **UK** → ⬜; клиент — **VDX**. Совпадений по 34 578 / ETICA / 00094444 в 5 таблицах нет. Требует подтверждения Scream (компания UK по аналогии). | 💵 18.09.2026 (Scream) — расчёт по ордеру: `34578,00 × 1,0045 + 100 = 34834 USDT`; sent_usdt = 34834. Входит в единый приход **IN 106 534,00 USDT** (Рабочий 4, 18.09.2026 10:32:27 UTC) = 34 834 (эта заявка) + 50 926 (DIVI/Travelcom) + 20 774 (третья заявка 20 581,00 USD).",
     "calc": null
   },
   {
@@ -1859,15 +1859,15 @@
     "company": "TRAVELCOM",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "50598,00 × 1,0045 + 100 = 50926 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from Travelcom❗️**»; файл «№DD-2502 - Ground Services.pdf») — **ордер на платёж**: Beneficiary **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (Ayvansaray Mah. Kafesçi Yümni Sk. Kr No: 4-6 İç Kapı No:1, Fatih, Istanbul / TURKEY; Tax Number 301 054 26 02); Bank **GARANTI BANK, ÇEMBERLİTAŞ ŞUBESİ** (Istanbul), SWIFT **TGBATRISXXX**, USD IBAN **TR 03 0006 2000 0440 0009 0851 76** (branch code 44, USD account 9085176); Payment details **INV.DD-2502 DD.10.09.2026**; Amount **50 598,00 USD**; **OUR**. Инвойс-основание: **Invoice № DD-2502 dd 10.09.2026** от **TRAVELCOM LIMITED** (Company number 14781569; PO Box 4385, Cardiff, CF14 8LH) → Divi Turizm: «Total amount for Ground & Accommodation services in Mersin/Türkiye», 15–30.09.2026, Grand Total **$50 598,00**. Компания-плательщик — **TRAVELCOM** (названа в подписи ордера). Клиент — **VDX**. Совпадений по 50 598 / DIVI / DD-2502 в 5 таблицах нет.",
+    "sent_usdt": 50926,
+    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from Travelcom❗️**»; файл «№DD-2502 - Ground Services.pdf») — **ордер на платёж**: Beneficiary **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (Ayvansaray Mah. Kafesçi Yümni Sk. Kr No: 4-6 İç Kapı No:1, Fatih, Istanbul / TURKEY; Tax Number 301 054 26 02); Bank **GARANTI BANK, ÇEMBERLİTAŞ ŞUBESİ** (Istanbul), SWIFT **TGBATRISXXX**, USD IBAN **TR 03 0006 2000 0440 0009 0851 76** (branch code 44, USD account 9085176); Payment details **INV.DD-2502 DD.10.09.2026**; Amount **50 598,00 USD**; **OUR**. Инвойс-основание: **Invoice № DD-2502 dd 10.09.2026** от **TRAVELCOM LIMITED** (Company number 14781569; PO Box 4385, Cardiff, CF14 8LH) → Divi Turizm: «Total amount for Ground & Accommodation services in Mersin/Türkiye», 15–30.09.2026, Grand Total **$50 598,00**. Компания-плательщик — **TRAVELCOM** (названа в подписи ордера). Клиент — **VDX**. Совпадений по 50 598 / DIVI / DD-2502 в 5 таблицах нет. | 💵 18.09.2026 (Scream) — расчёт по ордеру: `50598,00 × 1,0045 + 100 = 50926 USDT`; sent_usdt = 50926. Входит в единый приход **IN 106 534,00 USDT** (Рабочий 4, 18.09.2026 10:32:27 UTC) = 34 834 (эта заявка) + 50 926 (DIVI/Travelcom) + 20 774 (третья заявка 20 581,00 USD).",
     "calc": null
   }
 ]
