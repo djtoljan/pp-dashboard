@@ -256,14 +256,14 @@
     "company": "Q8",
     "color": "FF92D050",
     "clientName": "ВТС",
-    "costFormula": "15288/0.858072247627",
+    "costFormula": "13 104,57 / 0,858072247627 (FX Q8 08.09.2026: sell 15 288 USD → buy 13 118,20 EUR, 1 USD = 0,858072247627 EUR) + 0,3% + 30 = 15 347,92 USDT",
     "extra": "",
     "rubles_received": "1317917.43 / 28427.33",
     "sent_rubles_vdx": "1346344.76",
     "exchange_to": "VDX",
     "vdx_rate": 86.45,
     "received_usdt": "15558.11",
-    "sent_usdt": 13118.2,
+    "sent_usdt": 15347.92,
     "notes": "Инвойс Itrix №74536 dd 04.09.2026 (Itrix Co., Ltd., 725 S Metro Building, 20F Sukhumvit Rd, Bangkok 10110; Siam Commercial Bank PCL, SWIFT SICOTHBK; A/C USD 468-000093-8-840 / EUR 468-000094-6-978 / CNY 468-000095-4-156; Bangkok Bank USD 840-855-0029-403748-501). BILL TO: «WTC» = ООО «ВТС» (117105, Москва, Новоданиловская наб. 4А, пом. 11/2/6; email info@vts-ved.ru). Sales Contract №25-01/10 dd 10.10.2025. 7 позиций (аналитическое/лабораторное оборудование): pH+Pt100 flat electrode 20×4047,03 / cable SZ1150 15×1702,53 / D.O.+Pt100 10×3343,42 / spares SZ654.1 10×1889,98 / 8mt coax+DLG 3×126,34 / Potentiostatic electrode 5×1147,86 / Pt/ref electr cable 9m 5×847,41. SUBTOTAL = TOTAL = 13 104,57 EUR (VAT 0, shipping 0). = новая заявка ВТС → Itrix, в таблицах не было. Step 0 🔴, ждём поручение/заявку и компанию-плательщика. | Поручение №74536 от 07.09.2026 (Transfer Request No 74536 from 07.09.2026, Приложение №2 к договору на оказание посреднических услуг №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» (Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (КР, Курьянов А.А.). Платёж 13 104,57 EUR, получатель Itrix Co., Ltd. (Siam Commercial Bank PCL, SICOTHBK, EUR 468-000094-6-978, BUILDING 2, RUTCHADAPISEK ROAD, CHATUCHAK, BANGKOK 10900). Инвойс №74536 dd 04.09.2026, Sales Contract №25-01/10 dd 01.10.2025. Курс EUR 100,5693 (НЕ vdx_rate), сумма 1 317 917,43₽. Комиссия агента 1,5% + 100 USD. Срок 5-10 банк. дней. Step 0 🔴, ждём рублёвые ПП на БиТрейд (тело + агентское). | Инвойс услуг БиТрейд №74536 от 07.09.2026 (ОсОО «БиТрейд Кей Джи», дог. 27062025TК/1 от 24.06.2025): посреднические услуги по проведению расчётов с иностранным поставщиком — 196,57 EUR @ курс EUR 100,5693 = 19 768,76₽ (1,5% от 13 104,57 ✓) + 100,00 USD @ курс USD 86,5857 = 8 658,57₽. ИТОГО агентское 28 427,33₽. Покупатель ООО «ВТС». Ждём отдельного ПП по агентскому. | Выписка ВТБ БиТрейд 07.09.2026: ПП №4147 от 07.09.2026 ИСПОЛНЕН (Сбербанк) — ООО «ВТС» (40702810738000140608) → ООО «БиТрейд Кей Джи» (ВТБ 40807810525640000008), 1 317 917,43₽ {VO11100} Оплата товара по договору 25-01/10 от 01.10.2025, по инвойсу 74536 от 04.09.2026 = тело row 100 ✓ (13 104,57 EUR × 100,5693 = 1 317 917,43). | ПП №4148 от 07.09.2026 ИСПОЛНЕН (Сбербанк): 28 427,33₽ {VO21100} Оплата за посреднические услуги по проведению расчётов с иностранным поставщиком, договор 27062025TК/1 от 24.06.25, инвойс услуг 74536 от 07.09.2026 = агентское row 100 ✓ (196,57 EUR @100,5693=19 768,76 + 100 USD @86,5857=8 658,57). rubles_received = 1317917.43 / 28427.33. Ждём отправку на VDX (заявка/ПП на обмен). | 📨 Отправки рублей ПП 07.09.2026 (t23693/операционка): с БиТрейд (ВТБ, 40807810525640000008) на ВиДиИкс, 1 346 344,76₽ — комплектующие, заявка 116 от 07.09.2026, ООО ВТС. Доки: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БиТрейдКейДжи\\\\ВТС\\\\вход 07.09.26_1. Сумма = тело 1 317 917,43 + агентское 28 427,33 (совпадает точно, row 100). sent_rubles_vdx = 1346344.76, exchange_to = VDX. Ждём VDX-таблицу (курс/тез) для received_usdt. | ПП №91 от 07.09.2026 ИСПОЛНЕН 07.09.2026 16:36:50 (non-resident order, Филиал «Центральный» Банка ВТБ, БИК 044525411): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, КПП 772887001, сч. 40807810525640000008) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, ПСБ г. Ярославль, сч. 40807810000000015414), 1 346 344,76₽ {VO60081} Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.116 от 07.09.2026г. за комплектующие, НДС не облагается. Подпись: Курьянов А.А. | Платёжная инструкция «Оплата евро» (Форма, Заявки Компания Q8) 08.09.2026: перевод 13 104,57 EUR → Itrix Co., Ltd (Siam Commercial Bank PCL, SICOTHBK, EUR a/c 468-000094-6-978; Bangkok 725 S Metro 20F). Сумма совпадает с row 100 (инвойс Itrix №74536) — EUR-платёж по сделке ВТС. Реквизитная форма (Тип 2), цвет/статус не меняет, строка НЕ создаётся. Компания/поручение уточняются. | BONBILL Payment Certificate 08.09.2026 16:14:42 (Тип 7 Q8 EUR): Q8 GROUP LIMITED → Itrix Co., Ltd. (Siam Commercial Bank PCL, SICOTHBK, EUR 468-000094-6-978). 13 104,57 EUR. Invoice 74536 dd 04.09.2026 For ElParts. TXID O209723717850877132869. EXECUTED → 🟢. (Компания Q8 — платит Q8 Group; сделку ВТС EUR 13 104,57 подтверждает exchange-voucher 08.09 sell 15 288 EUR → 13 118,20 USD заведён в sent_usdt/cost.) | VDX Rate Table 08.09 (Scream): курс 86.45 → 15558.11 USDT.",
     "calc": "ТЕЗ",
     "exchangeDocType": "Q8_VOUCHER",
@@ -1778,27 +1778,6 @@
   {
     "row": 94,
     "date": "2026-09-18",
-    "sum": 45600,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FF92D050",
-    "clientName": "Заявка Q8 (📨 Заявки Компания Q8, 18.09.2026): 45 600,00 USD → NINGBO JINGCHENG CAR INDUSTRY CO., LTD. — spare parts / MINI MOTOR (инвойс JC-RU20-26003 dd 01.09.26). Клиент и таблица уточняются.",
-    "costFormula": "45 600,00 + 0,3% + 30 = 45 766,80 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 45766.8,
-    "notes": "📄 18.09.2026 (📨 Заявки Компания Q8, файлы «Inv_45600.pdf» + «payment order_160926_45600USD.docx») — **PAYMENT ORDER DATE 16/09/2026**: AMOUNT **45 600,00 USD**; BENEFICIARY **NINGBO JINGCHENG CAR INDUSTRY CO., LTD.** (CHA TING AN VILLAGE, SHOUNAN TOWN, YINZHOU DISTRICT, NINGBO 315194, CHINA); BENEFICIARY BANK **CHINA CONSTRUCTION BANK NINGBO BRANCH YINZHOU SUB-BRANCH** (NO 509 HAIYAN NORTH ROAD, YINZHOU DISTRICT, NINGBO, CHINA); ACCOUNT **33150199503600001707**; SWIFT **PCBCCNBJNPX**; PAYMENT PURPOSE «Inv JC-RU20-26003 dd 01.09.26 spare parts». Инвойс-основание: **COMMERCIAL INVOICE № JC-RU20-26003 dd 01.09.2026** — NINGBO JINGCHENG CAR INDUSTRY CO., LTD. (Ningbo, China) → **MESSRS Q8 GROUP LIMITED** (DBS Bank (Hong Kong) Limited, DHBKHKHH, a/c 79807111801); **MINI MOTOR PART NO. JCE-0948 — 60 000 PCS × US$0,76 = US$45 600,00** (FOB Ningbo, PAYMENT 100% T/T). Сумма ордера = сумме инвойса = 45 600,00 USD. Компания — **Q8** (покупатель по инвойсу). Q8-расчёт сразу: 45 600,00 + 0,3% + 30 = **45 766,80 USDT** (столбец D = ТЕЗ). Клиент строки и таблица — уточняются. Совпадений по 45 600 / JINGCHENG / JC-RU20 / PCBCCNBJNPX / 33150199503600001707 в 5 таблицах нет. | ⚠️→✅ 18.09.2026 (системное уведомление «Зелёнка не маршрутизирована: direct group not found», документ «45600 USD NINGBO JINGCHENG CAR INDUSTRY CO., LTD.») — зелёнка по этой заявке получена, маршрут в группу не найден → разобрал вручную: строка **⬜→🟢** (платёж Q8 исполнен). Заявка: 45 600,00 USD → NINGBO JINGCHENG CAR INDUSTRY CO., LTD. (spare parts / MINI MOTOR), инвойс JC-RU20-26003 dd 01.09.26. | ✅ 18.09.2026 (📨 ПП компании Q8, файл «45600.00.pdf»; ранее — системное «Зелёнка не маршрутизирована», документ «45600 USD NINGBO JINGCHENG CAR INDUSTRY CO., LTD.») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2100883309159645184382**, Payment Time 2026-09-18 17:43:08, Payer **Q8 GROUP LIMITED**, **45 600,00 USD** → NINGBO JINGCHENG CAR INDUSTRY CO., LTD. (spare parts / MINI MOTOR, инвойс JC-RU20-26003 dd 01.09.26). BONBILL Q8-зелёнка → ⬜→🟢 (status-transition-guard пройден, тип 7); зелёнку разобрал вручную (группа не найдена). | 📝 18.09.2026 (Scream, реплай на файл «45600.00.pdf»): «**Мосты !**» — уточнение по товару/сделке: MINI MOTOR PART NO. JCE-0948 — **мосты** (не просто «spare parts»). Клиент/таблица строки — по-прежнему требуют подтверждения (если «Мосты» — название клиента/группы, скажи, перенесу).",
-    "calc": "ТЕЗ",
-    "status": "🟢",
-    "statusTriggerDocId": "O2100883309159645184382"
-  },
-  {
-    "row": 95,
-    "date": "2026-09-18",
     "sum": null,
     "currency": null,
     "company": null,
@@ -1816,7 +1795,7 @@
     "calc": null
   },
   {
-    "row": 96,
+    "row": 95,
     "date": "2026-09-18",
     "sum": 42814.6,
     "currency": "EUR",
@@ -1835,7 +1814,7 @@
     "calc": null
   },
   {
-    "row": 97,
+    "row": 96,
     "date": "2026-09-18",
     "sum": 34578,
     "currency": "USD",
@@ -1850,11 +1829,11 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 34834,
-    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «inv.00094444.pdf») — **ордер на платёж**: Beneficiary **Etica Empresa Turística Internacional C.A.** (Av. de las Palmeras N45-74 y Las Orquídeas, Quito, Ecuador; Puerto Ayora S/N, Metropolitan Touring, Santa Cruz Island, Galápagos); Bank **TERRABANK N.A.** (3191 Coral Way, PH1, Miami, FL 33145, USA), SWIFT **TBNAUS33**, ABA 066012333, счёт **1305229206**; Payment details **inv. 00094444 DD.16/09/2026**; Amount **34 578,00 USD**; **OUR**. Инвойс-основание: quote/invoice **№ 00094444 от 16.09.2026** от **TRAVELCOM LIMITED** (Company number 14781569; Cardiff) на **ETICA EMPRESA TURISTICA INTERNACIONAL C.A.** — «Group arrangements», 29.11.2026–10.12.2026, 12 ADT, Total Net **$34 578,00** (Metropolitan Touring / Galápagos: Yacht La Pinta, Santa Cruz, Isabela II, Finch Bay). Компания-плательщик в сообщении не названа — по прецеденту однотипных туристических ордеров VDX (TRAVELCOM LIMITED; rows 44/79/93) проставлена **UK** → ⬜; клиент — **VDX**. Совпадений по 34 578 / ETICA / 00094444 в 5 таблицах нет. Требует подтверждения Scream (компания UK по аналогии). | 💵 18.09.2026 (Scream) — расчёт по ордеру: `34578,00 × 1,0045 + 100 = 34834 USDT`; sent_usdt = 34834. Входит в единый приход **IN 106 534,00 USDT** (Рабочий 4, 18.09.2026 10:32:27 UTC) = 34 834 (эта заявка) + 50 926 (DIVI/Travelcom) + 20 774 (третья заявка 20 581,00 USD).",
+    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; файл «inv.00094444.pdf») — **ордер на платёж**: Beneficiary **Etica Empresa Turística Internacional C.A.** (Av. de las Palmeras N45-74 y Las Orquídeas, Quito, Ecuador; Puerto Ayora S/N, Metropolitan Touring, Santa Cruz Island, Galápagos); Bank **TERRABANK N.A.** (3191 Coral Way, PH1, Miami, FL 33145, USA), SWIFT **TBNAUS33**, ABA 066012333, счёт **1305229206**; Payment details **inv. 00094444 DD.16/09/2026**; Amount **34 578,00 USD**; **OUR**. Инвойс-основание: quote/invoice **№ 00094444 от 16.09.2026** от **TRAVELCOM LIMITED** (Company number 14781569; Cardiff) на **ETICA EMPRESA TURISTICA INTERNACIONAL C.A.** — «Group arrangements», 29.11.2026–10.12.2026, 12 ADT, Total Net **$34 578,00** (Metropolitan Touring / Galápagos: Yacht La Pinta, Santa Cruz, Isabela II, Finch Bay). Компания-плательщик в сообщении не названа — по прецеденту однотипных туристических ордеров VDX (TRAVELCOM LIMITED; rows 44/79/93) проставлена **UK** → ⬜; клиент — **VDX**. Совпадений по 34 578 / ETICA / 00094444 в 5 таблицах нет. Требует подтверждения Scream (компания UK по аналогии). | 💵 18.09.2026 (Scream) — расчёт по ордеру: `34578,00 × 1,0045 + 100 = 34834 USDT`; sent_usdt = 34834. Входит в единый приход **IN 106 534,00 USDT** (Рабочий 4, 18.09.2026 10:32:27 UTC) = 34 834 (эта заявка) + 50 926 (DIVI/Travelcom) + 20 774 (третья заявка 20 581,00 USD). | 📄 18.09.2026 (📨 ПП компании UK, файл «Etica Empresa 34578 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE (TONIO)**: Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**) → Beneficiary **ETICA EMPRESA TURISTICA INTERNACIONAL C.A.** (счёт **1305229206**, BIC **TBNAUS33**), сумма **34 578,00 USD**, Details «**inv.00094444 DD.16/09/2026**»; Execution Date 18.09.2026. Совпадает со заявкой строки (34 578,00 USD) → это её платёжный ордер.",
     "calc": null
   },
   {
-    "row": 98,
+    "row": 97,
     "date": "2026-09-18",
     "sum": 50598,
     "currency": "USD",
@@ -1869,11 +1848,11 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 50926,
-    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from Travelcom❗️**»; файл «№DD-2502 - Ground Services.pdf») — **ордер на платёж**: Beneficiary **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (Ayvansaray Mah. Kafesçi Yümni Sk. Kr No: 4-6 İç Kapı No:1, Fatih, Istanbul / TURKEY; Tax Number 301 054 26 02); Bank **GARANTI BANK, ÇEMBERLİTAŞ ŞUBESİ** (Istanbul), SWIFT **TGBATRISXXX**, USD IBAN **TR 03 0006 2000 0440 0009 0851 76** (branch code 44, USD account 9085176); Payment details **INV.DD-2502 DD.10.09.2026**; Amount **50 598,00 USD**; **OUR**. Инвойс-основание: **Invoice № DD-2502 dd 10.09.2026** от **TRAVELCOM LIMITED** (Company number 14781569; PO Box 4385, Cardiff, CF14 8LH) → Divi Turizm: «Total amount for Ground & Accommodation services in Mersin/Türkiye», 15–30.09.2026, Grand Total **$50 598,00**. Компания-плательщик — **TRAVELCOM** (названа в подписи ордера). Клиент — **VDX**. Совпадений по 50 598 / DIVI / DD-2502 в 5 таблицах нет. | 💵 18.09.2026 (Scream) — расчёт по ордеру: `50598,00 × 1,0045 + 100 = 50926 USDT`; sent_usdt = 50926. Входит в единый приход **IN 106 534,00 USDT** (Рабочий 4, 18.09.2026 10:32:27 UTC) = 34 834 (эта заявка) + 50 926 (DIVI/Travelcom) + 20 774 (третья заявка 20 581,00 USD).",
+    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from Travelcom❗️**»; файл «№DD-2502 - Ground Services.pdf») — **ордер на платёж**: Beneficiary **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (Ayvansaray Mah. Kafesçi Yümni Sk. Kr No: 4-6 İç Kapı No:1, Fatih, Istanbul / TURKEY; Tax Number 301 054 26 02); Bank **GARANTI BANK, ÇEMBERLİTAŞ ŞUBESİ** (Istanbul), SWIFT **TGBATRISXXX**, USD IBAN **TR 03 0006 2000 0440 0009 0851 76** (branch code 44, USD account 9085176); Payment details **INV.DD-2502 DD.10.09.2026**; Amount **50 598,00 USD**; **OUR**. Инвойс-основание: **Invoice № DD-2502 dd 10.09.2026** от **TRAVELCOM LIMITED** (Company number 14781569; PO Box 4385, Cardiff, CF14 8LH) → Divi Turizm: «Total amount for Ground & Accommodation services in Mersin/Türkiye», 15–30.09.2026, Grand Total **$50 598,00**. Компания-плательщик — **TRAVELCOM** (названа в подписи ордера). Клиент — **VDX**. Совпадений по 50 598 / DIVI / DD-2502 в 5 таблицах нет. | 💵 18.09.2026 (Scream) — расчёт по ордеру: `50598,00 × 1,0045 + 100 = 50926 USDT`; sent_usdt = 50926. Входит в единый приход **IN 106 534,00 USDT** (Рабочий 4, 18.09.2026 10:32:27 UTC) = 34 834 (эта заявка) + 50 926 (DIVI/Travelcom) + 20 774 (третья заявка 20 581,00 USD). | 📄 18.09.2026 (📨 ПП компании UK, файл «Divi Turizm 50598.pdf») — **PAYMENT ORDER DEBIT ADVICE (TONIO) — DIVI**: Remitter **TRAVELCOM LIMITED** (IBAN GB72TONI04282200006501) → Beneficiary **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (счёт **TR030006200004400009085176**, BIC **TGBATRISXXX**), сумма **50 598,00 USD**, Details «INV.DD-2502 DD.10.09.2026». Это платёжный ордер строки (заявка 50 598,00 USD, инвойс DD-2502).",
     "calc": null
   },
   {
-    "row": 99,
+    "row": 98,
     "date": "2026-09-18",
     "sum": 30592.47,
     "currency": "USD",
@@ -1892,7 +1871,7 @@
     "calc": null
   },
   {
-    "row": 100,
+    "row": 99,
     "date": "2026-09-18",
     "sum": 9527,
     "currency": "USD",
@@ -1911,7 +1890,7 @@
     "calc": null
   },
   {
-    "row": 101,
+    "row": 100,
     "date": "2026-09-18",
     "sum": 30200,
     "currency": "USD",
@@ -1930,7 +1909,7 @@
     "calc": null
   },
   {
-    "row": 102,
+    "row": 101,
     "date": "2026-09-18",
     "sum": 36431,
     "currency": "USD",
@@ -1949,7 +1928,7 @@
     "calc": null
   },
   {
-    "row": 103,
+    "row": 102,
     "date": "2026-09-18",
     "sum": 11780,
     "currency": "USD",
@@ -1968,7 +1947,7 @@
     "calc": null
   },
   {
-    "row": 104,
+    "row": 103,
     "date": "2026-09-18",
     "sum": 41805.26,
     "currency": "USD",
@@ -1987,7 +1966,7 @@
     "calc": null
   },
   {
-    "row": 105,
+    "row": 104,
     "date": "2026-09-18",
     "sum": 67356.84,
     "currency": "USD",
@@ -2006,7 +1985,7 @@
     "calc": null
   },
   {
-    "row": 106,
+    "row": 105,
     "date": "2026-09-18",
     "sum": 41335,
     "currency": "USD",
