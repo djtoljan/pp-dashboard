@@ -2002,5 +2002,24 @@
     "sent_usdt": 67588.91,
     "notes": "📄 18.09.2026 (📨 Платежи VDX, переслано **Victoria VDX**; подпись «**Payment from Q8❗️**»; файл «IZPI-260608-0020（inv）.pdf») — **ордер на платёж**: Beneficiary **Hong Kong Huge Wisdom Technology Co Limited** (FLAT D3, 11/F, Luk Hop Industrial Building, 8 Luk Hop Street, San Po Kong, Kowloon, Hong Kong); Bank **JPMorgan Chase Bank N.A., Hong Kong Branch** (16/F Tower 2 The Quayside, 77 Hoi Bun Road, Kwun Tong, Hong Kong), SWIFT **CHASHKHH** (CHASHKHHXXX), счёт **200000000547261**; Payment details «**inv. IZPI-260608-0020 DD 19/07/2026**»; Amount **67 356,84 USD**; **OUR**. Инвойс-основание: **PROFORMA INVOICE № IZPI-260608-0020** (Invoice Date 2026-07-19; продавец **Hong Kong Huge Wisdom Technology Co., Limited**): позиция 1 — **Ignition coil / 点火线圈 OEM 273012B010** 11 000 шт × USD 6,00 = 66 000,00; SHIPMENT COST 1 445,50; **TOTAL AMOUNT 67 445,50 USD** (⚠️ расхождение с суммой ордера 67 356,84 на 88,66 USD — сумма строки = сумма ОРДЕРА, инвойс справочно). Условия: SWIFT (T/T), банк-корреспондент JPMorgan Chase HK. Компания — **Q8** (названа в подписи), клиент **VDX**. Расчёт: `67 356,84 + 0,3% + 30 = 67588,91 USDT`; sent_usdt = 67588.91. Совпадений по 67 356,84 / Huge Wisdom / IZPI-260608-0020 в 5 таблицах нет.",
     "calc": null
+  },
+  {
+    "row": 106,
+    "date": "2026-09-18",
+    "sum": 41335,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
