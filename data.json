@@ -1781,7 +1781,7 @@
     "sum": 45600,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Заявка Q8 (📨 Заявки Компания Q8, 18.09.2026): 45 600,00 USD → NINGBO JINGCHENG CAR INDUSTRY CO., LTD. — spare parts / MINI MOTOR (инвойс JC-RU20-26003 dd 01.09.26). Клиент и таблица уточняются.",
     "costFormula": "45 600,00 + 0,3% + 30 = 45 766,80 USDT",
     "extra": null,
@@ -1791,8 +1791,10 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 45766.8,
-    "notes": "📄 18.09.2026 (📨 Заявки Компания Q8, файлы «Inv_45600.pdf» + «payment order_160926_45600USD.docx») — **PAYMENT ORDER DATE 16/09/2026**: AMOUNT **45 600,00 USD**; BENEFICIARY **NINGBO JINGCHENG CAR INDUSTRY CO., LTD.** (CHA TING AN VILLAGE, SHOUNAN TOWN, YINZHOU DISTRICT, NINGBO 315194, CHINA); BENEFICIARY BANK **CHINA CONSTRUCTION BANK NINGBO BRANCH YINZHOU SUB-BRANCH** (NO 509 HAIYAN NORTH ROAD, YINZHOU DISTRICT, NINGBO, CHINA); ACCOUNT **33150199503600001707**; SWIFT **PCBCCNBJNPX**; PAYMENT PURPOSE «Inv JC-RU20-26003 dd 01.09.26 spare parts». Инвойс-основание: **COMMERCIAL INVOICE № JC-RU20-26003 dd 01.09.2026** — NINGBO JINGCHENG CAR INDUSTRY CO., LTD. (Ningbo, China) → **MESSRS Q8 GROUP LIMITED** (DBS Bank (Hong Kong) Limited, DHBKHKHH, a/c 79807111801); **MINI MOTOR PART NO. JCE-0948 — 60 000 PCS × US$0,76 = US$45 600,00** (FOB Ningbo, PAYMENT 100% T/T). Сумма ордера = сумме инвойса = 45 600,00 USD. Компания — **Q8** (покупатель по инвойсу). Q8-расчёт сразу: 45 600,00 + 0,3% + 30 = **45 766,80 USDT** (столбец D = ТЕЗ). Клиент строки и таблица — уточняются. Совпадений по 45 600 / JINGCHENG / JC-RU20 / PCBCCNBJNPX / 33150199503600001707 в 5 таблицах нет.",
-    "calc": "ТЕЗ"
+    "notes": "📄 18.09.2026 (📨 Заявки Компания Q8, файлы «Inv_45600.pdf» + «payment order_160926_45600USD.docx») — **PAYMENT ORDER DATE 16/09/2026**: AMOUNT **45 600,00 USD**; BENEFICIARY **NINGBO JINGCHENG CAR INDUSTRY CO., LTD.** (CHA TING AN VILLAGE, SHOUNAN TOWN, YINZHOU DISTRICT, NINGBO 315194, CHINA); BENEFICIARY BANK **CHINA CONSTRUCTION BANK NINGBO BRANCH YINZHOU SUB-BRANCH** (NO 509 HAIYAN NORTH ROAD, YINZHOU DISTRICT, NINGBO, CHINA); ACCOUNT **33150199503600001707**; SWIFT **PCBCCNBJNPX**; PAYMENT PURPOSE «Inv JC-RU20-26003 dd 01.09.26 spare parts». Инвойс-основание: **COMMERCIAL INVOICE № JC-RU20-26003 dd 01.09.2026** — NINGBO JINGCHENG CAR INDUSTRY CO., LTD. (Ningbo, China) → **MESSRS Q8 GROUP LIMITED** (DBS Bank (Hong Kong) Limited, DHBKHKHH, a/c 79807111801); **MINI MOTOR PART NO. JCE-0948 — 60 000 PCS × US$0,76 = US$45 600,00** (FOB Ningbo, PAYMENT 100% T/T). Сумма ордера = сумме инвойса = 45 600,00 USD. Компания — **Q8** (покупатель по инвойсу). Q8-расчёт сразу: 45 600,00 + 0,3% + 30 = **45 766,80 USDT** (столбец D = ТЕЗ). Клиент строки и таблица — уточняются. Совпадений по 45 600 / JINGCHENG / JC-RU20 / PCBCCNBJNPX / 33150199503600001707 в 5 таблицах нет. | ⚠️→✅ 18.09.2026 (системное уведомление «Зелёнка не маршрутизирована: direct group not found», документ «45600 USD NINGBO JINGCHENG CAR INDUSTRY CO., LTD.») — зелёнка по этой заявке получена, маршрут в группу не найден → разобрал вручную: строка **⬜→🟢** (платёж Q8 исполнен). Заявка: 45 600,00 USD → NINGBO JINGCHENG CAR INDUSTRY CO., LTD. (spare parts / MINI MOTOR), инвойс JC-RU20-26003 dd 01.09.26. | ✅ 18.09.2026 (📨 ПП компании Q8, файл «45600.00.pdf»; ранее — системное «Зелёнка не маршрутизирована», документ «45600 USD NINGBO JINGCHENG CAR INDUSTRY CO., LTD.») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2100883309159645184382**, Payment Time 2026-09-18 17:43:08, Payer **Q8 GROUP LIMITED**, **45 600,00 USD** → NINGBO JINGCHENG CAR INDUSTRY CO., LTD. (spare parts / MINI MOTOR, инвойс JC-RU20-26003 dd 01.09.26). BONBILL Q8-зелёнка → ⬜→🟢 (status-transition-guard пройден, тип 7); зелёнку разобрал вручную (группа не найдена). | 📝 18.09.2026 (Scream, реплай на файл «45600.00.pdf»): «**Мосты !**» — уточнение по товару/сделке: MINI MOTOR PART NO. JCE-0948 — **мосты** (не просто «spare parts»). Клиент/таблица строки — по-прежнему требуют подтверждения (если «Мосты» — название клиента/группы, скажи, перенесу).",
+    "calc": "ТЕЗ",
+    "status": "🟢",
+    "statusTriggerDocId": "O2100883309159645184382"
   },
   {
     "row": 95,

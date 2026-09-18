@@ -976,7 +976,7 @@
     "sum": 34936.5,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "34 936,50 EUR / 0,867596493684 (FX Q8 18.09.2026: sell 40 328 USD -> buy 34 988,43 EUR, 1 USD = 0,867596493684 EUR) + 0,3% + 30 = 40 418,95 USDT",
     "extra": null,
@@ -986,7 +986,9 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 40418.95,
-    "notes": "📄 18.09.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_to_Q8_34936_50_EUR_18-Sep-2026.pdf») — **COMMERCIAL INVOICE № AA-Q8-2026-0918 dd 18.09.2026**: продавец **Atlantic Avrora EOOD** (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; директор Aleksandrs Rakovskis) → покупатель **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, HK). **Fresh cut flowers, assorted — 1 lot = EUR 34 936,50** («Thirty-Four Thousand Nine Hundred Thirty-Six Euros And 50/100 Only»); Currency EUR; Terms As per agreement. Банк: **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Заявка Q8 (Тип 4) → новый ряд, компания **Q8**, цвет ⬜. Q8-расчёт (34 936,50 EUR / FX Q8 EUR→USD + 0,3% + 30) ждёт кросс-курс FX Q8. Совпадений по 34 936,50 / AA-Q8-2026-0918 в 5 таблицах нет (продолжение серии AA-Q8-2026). | 📈 18.09.2026 (📨 ПП компании Q8, скриншот «Create FX Exchange»): Q8 продаёт 40 328 USD → покупает 34 988,43 EUR, Delivery Date 2026-09-18, курс **1 USD = 0,867596493684 EUR** (обновлён 18.09.2026 12:46:19). Расчёт строки: `34 936,50 EUR / 0,867596493684 + 0,3% + 30 = 40 418,95 USDT`; sent_usdt = 40 418,95.",
-    "calc": null
+    "notes": "📄 18.09.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_to_Q8_34936_50_EUR_18-Sep-2026.pdf») — **COMMERCIAL INVOICE № AA-Q8-2026-0918 dd 18.09.2026**: продавец **Atlantic Avrora EOOD** (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; директор Aleksandrs Rakovskis) → покупатель **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, HK). **Fresh cut flowers, assorted — 1 lot = EUR 34 936,50** («Thirty-Four Thousand Nine Hundred Thirty-Six Euros And 50/100 Only»); Currency EUR; Terms As per agreement. Банк: **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Заявка Q8 (Тип 4) → новый ряд, компания **Q8**, цвет ⬜. Q8-расчёт (34 936,50 EUR / FX Q8 EUR→USD + 0,3% + 30) ждёт кросс-курс FX Q8. Совпадений по 34 936,50 / AA-Q8-2026-0918 в 5 таблицах нет (продолжение серии AA-Q8-2026). | 📈 18.09.2026 (📨 ПП компании Q8, скриншот «Create FX Exchange»): Q8 продаёт 40 328 USD → покупает 34 988,43 EUR, Delivery Date 2026-09-18, курс **1 USD = 0,867596493684 EUR** (обновлён 18.09.2026 12:46:19). Расчёт строки: `34 936,50 EUR / 0,867596493684 + 0,3% + 30 = 40 418,95 USDT`; sent_usdt = 40 418,95. | ✅ 18.09.2026 (📨 ПП компании Q8, файл «34936.50.pdf») — **BONBILL LIMITED Payment Certificate** (付款电子凭证): Transaction ID **O2100884475603976192573**, Payment Time **2026-09-18 17:47:46**, Payer **Q8 GROUP LIMITED** → Payee **Atlantic Avrora EOOD** (счёт **BG04BGUS91601413896300**), **34 936,50 EUR** — платёж по коммерческому инвойсу AA-Q8-2026-0918. Q8-BONBILL зелёнка → строка ⬜→🟢 (стандарт: Q8/BONBILL → 🟢 сразу). | ✅ 18.09.2026 (📨 ПП компании Q8, файл «34936.50.pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2100884475603976192573**, Payment Time 2026-09-18 17:47:46, Payer **Q8 GROUP LIMITED** → Payee **Atlantic Avrora EOOD** (счёт BG04BGUS91601413896300), **34 936,50 EUR** (инвойс AA-Q8-2026-0918). BONBILL Q8-зелёнка → ⬜→🟢 (status-transition-guard пройден, тип 7).",
+    "calc": null,
+    "status": "🟢",
+    "statusTriggerDocId": "O2100884475603976192573"
   }
 ]
