@@ -1954,15 +1954,15 @@
     "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "11 780,00 + 0,3% + 30 = 11845,34 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 11845.34,
+    "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from Z SOURCE❗️**»; файл «inv 14.09.26.pdf») — **ордер на платёж**: Beneficiary **Chengdu Ruisichuang Supply Chain Management Co., LTD** (Unit 7709, Building 2, No. 1198, Middle Section of Jiannan Avenue, High-tech Zone, Chengdu, China); Bank **China Construction Bank Corporation Sichuan Branch** (S19/F Sichuan Building, No 86 Tidu Street, Chengdu 610016), SWIFT **PCBCCNBJSCX**, счёт **51050149840800008437**; Payment details «**Inv RUISC250314-001 dd 14.09.2026**»; Amount **11 780,00 USD**; **OUR**. Инвойс-основание: **Invoice № RUISC250314-001 dd 2026/9/14** (Chengdu Ruisichuang): 1) Railway delivery 1×40HQ Ningbo→Manzhouli→ZBK→Moscow (Bely Rast), контейнер NEPU4566602, ATD 10.09 ETA 30.09 — **10 900,00**; 2) Railway delivery LCL (695 кг, 2,5 CBM) Jinhua→Xian→ZBK→Moscow (Hovrino), ATD 14.09 ETA 24.10 — **880,00**; **TOTAL 11 780,00 USD**. Компания — **Z SOURCE** (названа в подписи), клиент **VDX**. Расчёт: `11 780,00 + 0,3% + 30 = 11845,34 USDT`; sent_usdt = 11845.34. Совпадений по 11 780 / RUISC / Ruisichuang в 5 таблицах нет.",
     "calc": null
   }
 ]
