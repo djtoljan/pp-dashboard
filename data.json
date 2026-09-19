@@ -1702,25 +1702,6 @@
   {
     "row": 90,
     "date": "2026-09-17",
-    "sum": 7100,
-    "currency": "USD",
-    "company": "—",
-    "color": "FFFF0000",
-    "clientName": "VDX",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 17.09.2026 (📨 Платежи VDX, файл «4_5864017766620602460.pdf») — **INVOICE No. HK26012 от 16.09.2026** (工程与贸易公司 / «Engineering and trading company», Ships, Power Plant's, Logistics): «SHIPS SPARE PARTS IN TRANSIT»; P.Order **AK1009-SP-FOR-50**; For: T|C; Serial No. **RR180**; Maker **BBC**. Позиция: **2 KIT — SERVICE KIT RR180**, цена 3 550,00 за комплект = **7 100,00**; Subtotal USD 7 100,00; Packing & Handling —; Transport cost —; **Total in USD 7 100,00**. Банк: **Account holder STATURA LIMITED** (Suite C, Level 7, WORLD TRUST TOWER, 50 Stanley street, Central, Hong Kong; Reg.No. 74211485), **DBS Bank (Hong Kong) Limited**, SWIFT **DHBKHKHH**, bank code 016, счёт **478798114827**. Сумма строки = итог инвойса (7 100,00 USD). Компания-плательщик в документе НЕ названа → статус **🔴 (Step 0)**, расчёт жду от владельца; клиент — VDX (по классу «📨 Платежи VDX»). По сумме/инвойсу/бенефициару совпадений в 5 таблицах нет (проверено: 7100 / STATURA / HK26012 / AK1009 / RR180) — строка новая.",
-    "calc": null
-  },
-  {
-    "row": 91,
-    "date": "2026-09-17",
     "sum": 36400,
     "currency": "USD",
     "company": "Q8",
@@ -1738,7 +1719,7 @@
     "calc": null
   },
   {
-    "row": 92,
+    "row": 91,
     "date": "2026-09-17",
     "sum": 107552.86,
     "currency": "USD",
@@ -1757,7 +1738,7 @@
     "calc": null
   },
   {
-    "row": 93,
+    "row": 92,
     "date": "2026-09-17",
     "sum": 48096,
     "currency": "USD",
@@ -1776,7 +1757,7 @@
     "calc": null
   },
   {
-    "row": 94,
+    "row": 93,
     "date": "2026-09-18",
     "sum": null,
     "currency": null,
@@ -1795,26 +1776,7 @@
     "calc": null
   },
   {
-    "row": 95,
-    "date": "2026-09-18",
-    "sum": 42814.6,
-    "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "Агротрэйд 3 (Fininvest/ЭТБ)",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
-  },
-  {
-    "row": 96,
+    "row": 94,
     "date": "2026-09-18",
     "sum": 34578,
     "currency": "USD",
@@ -1833,7 +1795,7 @@
     "calc": null
   },
   {
-    "row": 97,
+    "row": 95,
     "date": "2026-09-18",
     "sum": 50598,
     "currency": "USD",
@@ -1852,7 +1814,7 @@
     "calc": null
   },
   {
-    "row": 98,
+    "row": 96,
     "date": "2026-09-18",
     "sum": 30592.47,
     "currency": "USD",
@@ -1871,7 +1833,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 99,
+    "row": 97,
     "date": "2026-09-18",
     "sum": 9527,
     "currency": "USD",
@@ -1890,7 +1852,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 100,
+    "row": 98,
     "date": "2026-09-18",
     "sum": 30200,
     "currency": "USD",
@@ -1909,7 +1871,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 101,
+    "row": 99,
     "date": "2026-09-18",
     "sum": 36431,
     "currency": "USD",
@@ -1928,7 +1890,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 102,
+    "row": 100,
     "date": "2026-09-18",
     "sum": 11780,
     "currency": "USD",
@@ -1947,7 +1909,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 103,
+    "row": 101,
     "date": "2026-09-18",
     "sum": 41805.26,
     "currency": "USD",
@@ -1966,7 +1928,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 104,
+    "row": 102,
     "date": "2026-09-18",
     "sum": 67356.84,
     "currency": "USD",
@@ -1985,7 +1947,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 105,
+    "row": 103,
     "date": "2026-09-18",
     "sum": 41335,
     "currency": "USD",
@@ -2004,7 +1966,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 106,
+    "row": 104,
     "date": "2026-09-18",
     "sum": 97899.07,
     "currency": "USD",
@@ -2023,7 +1985,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 107,
+    "row": 105,
     "date": "2026-09-18",
     "sum": 20581,
     "currency": "USD",
