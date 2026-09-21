@@ -2346,5 +2346,24 @@
     "sent_usdt": null,
     "notes": "📄 21.09.2026 (📨 Платежи из Мира Привелегий (операционка) (t23693), файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf») — **Выписка ПОЧТОБАНК** (ОсОО «Блэкшарк Трейд», счёт 40807810100157518600, RUB; за 21.09.2026, сформ. 18:46 GMT+05): приход **1 518 848,24 ₽** от **ООО «СПРИНТ ИМПОРТ РБ»** (УНП 692210402, Гродно, пер. Дзержинского, д.8А, кв.8; р/с BY12TECN30124151100000000022, JSC «Technobank»), назначение {VO60086} «ЗА ПЛИТКУ КЕРАМ., СВЕТИЛЬНИКИ СОГЛ. КОНТР SPR-IMP-2022-0004 ОТ 15.10.22, CN690721, 940521 ПО ДУПТ12/17-09-26 ОТ 17.09.26, ПОСТАВЩИК HANLON PROJECT TRADING FZE LLC, ОАЭ». Списание 3 939 559,64 ₽ → ЧК «Al Safi Bank Ltd.» (перевод собственных средств, счёт KZ889990172RUB000778). Остаток: вх. 5 774 041,95 → исх. 3 353 330,55 ₽. 🆕 Новый клиент (Scream 21.09.2026: «новый клиент пока в main») — 🔵, заявки нет; компания/расчёт ждут.",
     "calc": null
+  },
+  {
+    "row": 124,
+    "date": "2026-09-21",
+    "sum": 20452.5,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 21.09.2026 (📨 ВТС-Fininvest (t4258), файлы — проформа-инвойс PI260915026 (скрин) + «Платёжные реквизиты_№76210.docx») — **Приложение № 1 к Поручению № 76210 от «18» сентября 2026** (к договору № /04-06/04062024/1 от «4» июня 2024): AMOUNT **20 452,50 USD**, CURRENCY USD; BENEFICIARY **Chongqing ACJ Science And Technology Co., Ltd.** (Room 7-1, unit 1, Building 6, No.2, Baima Garden, Lijia Street, Liangjiang New District, Chongqing, China); ACCOUNT **79969931411765**; BANK **DBS Bank (Hong Kong) Limited** (11th Floor, The Center, 99 Queen's Road Central, Central, Hong Kong); SWIFT **DHBKHKHHXXX**; PAYMENT DETAILS: Payment by invoice **PI260415016** DATE 15.04.2026. Проформа-инвойс: **P/I NO. PI260915026 dd Sep 15 2026**, Consignee **Q8 GROUP LIMITED** (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), товар — 3D printing pen, 5050 PCS × $4.05 = **20 452,50 USD** (EXW). ⚠️ № инвойса в проформе (PI260915026) и в форме (PI260415016) различаются. ⚠️ само Поручение №76210 (принципал/курс/комиссия) ещё не пришло. ⚠️ Step 0 — компания/заявка ждём; линия ВТС → компания Q8.",
+    "calc": null
   }
 ]
