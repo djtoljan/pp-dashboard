@@ -1187,5 +1187,24 @@
     "sent_usdt": null,
     "notes": "📄 21.09.2026 (📨 Молодежь — фото ПП): **Платёжное поручение № 334 от 21.09.2026 ИСПОЛНЕНО 21.09.2026 15:38:26** (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, по системе ДБО; подпись Зольников Д.В.): плательщик **ИП Зольников Дмитрий Владимирович** (ИНН 772900240228, счёт 40802810306800000211, ВТБ) → получатель **LLC «VDX SERVICES - FZCO»** (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), сумма **22 300 000,00 ₽**, вид оп. 01, очер. 5. Назначение: {VO20500} Оплата за товар по контракту #1-8-26 от 26/08/2026, дополнительное соглашение №2 от 01.09.2026. НДС не облагается. ⚠️ заявки нет — 🔵 отправка на VDX без заявки. ПП на VDX №334 от 21.09.2026 (22 300 000 ₽ на VDX).",
     "calc": null
+  },
+  {
+    "row": 63,
+    "date": "2026-09-21",
+    "sum": 259946.75,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFF0000",
+    "clientName": "ИП Зольников (Молодёжь)",
+    "costFormula": "259 946,75 + 0,3% + 30 = 260756.59 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 260756.59,
+    "notes": "📄 21.09.2026 (📨 Молодежь, файл «Платежное поручение agaro 59 94.75 usd.docx») — платёжный ордер: **AMOUNT 259 946,75 USD**, CURRENCY USD; BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, Spain, Sant Feliu de Guíxols (Girona), Calle Agaro, num 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK **Banco Bilbao Vizcaya Argentaria s.a.** (c/sauceda 28), SWIFT **BBVAESMMXXX**; PAYMENT DETAILS: «PAYMENT BY INVOICE NO. **9-4** DD **21.09.2026**». Продолжение серии AGARO (инвойсы 9 / 9-2 / 9-3) — по этой серии компания **Q8**. ⚠️ Step 0 — заявку/компанию жду (по серии проставил Q8); Q8-расчёт сразу: 259 946,75 + 0,3% + 30 = 260756.59 USDT. | 📄 21.09.2026 (📨 Молодежь, файл «Invoice 21.9.26 Agaro-Q8 259 946,75 usd.pdf» — скан) — **Invoice № 9-4 dd 21-9-2026** от **AGARO COIN AUCTION, S.L.** (info@agarosl.com, +34 640 32 56 91; 17220, Spain, Sant Feliu De Guíxols (Girona), Calle Agaro, NUM 89) → **Customer: Q8 GROUP LIMITED** (Hong Kong): Lot 1 — **Lots of Foreign world and roman coins**; Price 259 946,75, VAT 0, **Total USD 259 946,75** (Total hammer USD 259 946,75; VAT 0%; shipping 0,00; печать AGARO). Реквизиты: Banco Bilbao Vizcaya Argentaria S.A. (C/Sauceda 28), IBAN **ES1101825117092010000115**, SWIFT **BBVAESMMXXX**. ✅ Подтверждает компанию **Q8** по этой строке.",
+    "calc": null
   }
 ]
