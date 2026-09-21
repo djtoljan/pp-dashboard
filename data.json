@@ -2154,7 +2154,7 @@
     "vdx_rate": null,
     "received_usdt": 24530,
     "sent_usdt": 24529.92,
-    "notes": null,
+    "notes": "🟡 21.09.2026 (PAYMENT ORDER DEBIT ADVICE, TONIO, файл «Sinop tur 21190 eur.pdf»; подпись «📨 ПП компании UK») — Remitter TRAVELCOM LIMITED (IBAN GB13TONI04282200006496) → Beneficiary SINOP TURIZM YATIRIMLARI SAN.VE TIC.A.S. (TGBATRISXXX, IBAN TR950006200001400009084640), EUR 21 190,00, Details INV-2026/001184 DD. 18.09.2026, Execution Date 09/21/2026; штамп банка **IN PROCESS** (поручение отправлено и подвешено, НЕ исполнено) → ⬜→🟡, жду EXECUTED → 🟢.",
     "calc": "ТЕЗ"
   },
   {
