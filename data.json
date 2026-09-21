@@ -1979,7 +1979,7 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 98292,
     "sent_usdt": 98222.77,
     "notes": "📄 18.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**»; файл «PI#114-116 (blue nitrile) 17.09.2026.pdf») — **ордер на платёж**: Beneficiary **Bundhand Plastic and Rubber Products Co., Ltd** (Suite 1-401, No.20th B/D, Taoli Garden, Bengbu, Anhui, China, 233000); Bank **BANK OF COMMUNICATIONS BENGBU BRANCH** (88 Nanshan Road, Bengbu, Anhui, China), SWIFT **COMMCNSHBBU**, счёт **343006010146300046171** (USD); Payment details «**Inv P/I No. 114-116 dd 17.09.2026**»; Amount **97 899,07 USD**; **OUR**. Инвойс-основание: **PROFORMA INVOICE № 114-116 dd 17.09.2026** (Bundhand Plastic and Rubber Products Co., Ltd): Blue nitrile gloves powder free (S/M/L/XL), HS 4015190000, 16 200 000 шт / 8 100 ящ (270,00 ¥/ящ), **Total ¥2 187 000,00**; условия — **deposit 30% = ¥656 100,00 = 97 899,07 USD** (оплата частичная, предоплата 30%). Компания — **Q8** (названа в подписи), клиент **VDX**. Расчёт: `97899.07 + 0.3% + 30 = 98222.77 USDT`; sent_usdt = 98222.77. Совпадений по 97 899,07 / Bundhand / PI 114-116 в 5 таблицах нет. | ✏️ 18.09.2026 (Scream): это VDX-заявка. Себестоимость приведена к формуле компании (Z SOURCE/Q8): 97 899,07 + 0,3% + 30 = 98 222,77 USDT. Прежнее значение «Отправлено USDT» (98222.77) перенесено в «Пришло USDT» (фактический приход USDT под заявку); r106 не фондирована — прихода нет.",
     "calc": "ТЕЗ"
