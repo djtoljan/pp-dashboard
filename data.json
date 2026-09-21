@@ -2327,5 +2327,24 @@
     "sent_usdt": null,
     "notes": "📄 21.09.2026 (📨 ВТС-Fininvest (t4249), файлы «305N CI.pdf» + «инвойс услуги Би трейд 76184.pdf») — **COMMERCIAL INVOICE № 305N dd 11.09.2026** (Contract 305N 11.09.2026; Sold to **LLC «NARA»**, 111524, Moscow, Electrodnaya, 2, bldg 7, INN 7720447187, KPP 772001001; Delivery FCA Hebei; Terms 100% before shipment): продавец/получатель платежа **ZHONG SHENG TECHNOLOGY DEVELOPMENT CO., LIMITED** (FLAT B01, 2/F, Kin Tak Fung Ind Building, 174 Wai Yip Street, Kwun Tong, Hong Kong; The Bank Of East Asia Limited Hong Kong, счёт 015-248-68-019188); товар — искробезопасный инструмент HORTZ (ключи/клещи/лопаты AlCu/BeCu), 365 позиций; **Total Amount 19 368,01 USD**. Инвойс услуг БиТрейд № **76184** (390,52 USD = 33 006,33 ₽, курс 84,5189) = 1,5% + 100 USD от 19 368,01. ⚠️ само Поручение №76184 (принципал/курс/реквизиты) ещё не пришло. ⚠️ Step 0 — компания/заявка ждём; линия ВТС → компания Q8. | 📄 21.09.2026 (📨 ВТС-Fininvest (t4249), файл «Поручение 76184.pdf») — **ПОРУЧЕНИЕ № 76184 от 21.09.2026** (Transfer request No 76184; Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал **ООО «ВТС»** → Агент **ОсОО «БиТрейд Кей Джи»**. Платёж **19 368,01 USD** получателю (нерезиденту) **ZHONG SHENG TECHNOLOGY DEVELOPMENT CO., LIMITED** (FLAT B01, 2/F, Kin Tak Fung Ind Building, 174 Wai Yip Street, Kwun Tong, Hong Kong); **The Bank Of East Asia Limited Hong Kong**, SWIFT **BEASHKHH**, счёт **015-248-68-019188**. Назначение: Sales Contract № 305N dd 11.09.2026, инвойс № **305N dd 11.09.2026**. Курс 84,5189 → **1 636 962,90 RUB**. Комиссия Агента **1,5% + 100 USD** = 390,52 USD = 33 006,33 ₽ (инвойс услуг БиТрейд №76184). Срок 5–10 банк. дней. Сумма/получатель совпадают с CI 305N. ⚠️ Step 0 — компания/заявка ждём.",
     "calc": null
+  },
+  {
+    "row": 123,
+    "date": "2026-09-21",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Спринт Импорт",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "1518848.24",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 21.09.2026 (📨 Платежи из Мира Привелегий (операционка) (t23693), файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf») — **Выписка ПОЧТОБАНК** (ОсОО «Блэкшарк Трейд», счёт 40807810100157518600, RUB; за 21.09.2026, сформ. 18:46 GMT+05): приход **1 518 848,24 ₽** от **ООО «СПРИНТ ИМПОРТ РБ»** (УНП 692210402, Гродно, пер. Дзержинского, д.8А, кв.8; р/с BY12TECN30124151100000000022, JSC «Technobank»), назначение {VO60086} «ЗА ПЛИТКУ КЕРАМ., СВЕТИЛЬНИКИ СОГЛ. КОНТР SPR-IMP-2022-0004 ОТ 15.10.22, CN690721, 940521 ПО ДУПТ12/17-09-26 ОТ 17.09.26, ПОСТАВЩИК HANLON PROJECT TRADING FZE LLC, ОАЭ». Списание 3 939 559,64 ₽ → ЧК «Al Safi Bank Ltd.» (перевод собственных средств, счёт KZ889990172RUB000778). Остаток: вх. 5 774 041,95 → исх. 3 353 330,55 ₽. 🆕 Новый клиент (Scream 21.09.2026: «новый клиент пока в main») — 🔵, заявки нет; компания/расчёт ждут.",
+    "calc": null
   }
 ]
