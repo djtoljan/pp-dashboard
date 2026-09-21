@@ -2137,5 +2137,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 113,
+    "date": "2026-09-21",
+    "sum": 21190,
+    "currency": "EUR",
+    "company": "UK",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": "📄 21.09.2026 (📨 Платежи VDX, подпись «Payment from ❗️» — компания-плательщик в сообщении НЕ указана; приложен «INV-2026-001184.pdf») — **ордер на платёж**: Beneficiary **SINOP TURIZM YATIRIMLARI SANAYI VE TICARET A.S.** (07230, Caglayan Mah. Eski Lara Cad., 291 Gunes apt K2 D5, ANTALYA, TURKEY; VAT 7710330748); Bank **TURKIYE GARANTI BANKASI A.S.** (Caglayan Mah., Barınaklar Blv. No:32, 07230 Muratpasa, Antalya, Turkiye), SWIFT **TGBATRISXXX**, IBAN EUR **TR95 0006 2000 0140 0009 0846 40**; Payment details «INV. INV-2026/001184, DD. 18.09.2026»; Amount **21 190,00 EUR**; OUR. Бенефициар-поставщик: оплата размещения (туризм). Вложенный инвойс **№ INV-2026/001184** (invoice date 2026-09-18, due 2026-09-28, UNPAID): Accommodation @ Gloria Serenity Resort, даты 01.10–14.10.2026, Deluxe villa ×1 = **21 190,00 EUR** — итог инвойса равен сумме ордера (расхождения нет). Компания-плательщик в сообщении не названа — по прецеденту строк 78/92/94 (тот же канал и подпись «Payment from ❗️») поставлена **UK**; расчёт (costFormula/sent_usdt) — не-Q8, ждём формулу владельца.",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
