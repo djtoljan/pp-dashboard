@@ -2013,15 +2013,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "25 942,21 + 0,3% + 30 = 26 050,04 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "sent_usdt": 26050.04,
+    "notes": "📄 21.09.2026 (📨 Платежи VDX, файл «INV 25 942,21 USD.pdf» + подпись «Payment from Q8❗️») — ордер на платёж: бенефициар OKAR DIS TICARET LIMITED SIRKETI (BAHCESEHIR 2. KISIM MAH. 50. YIL CAD. AVRUPARK BAHCEKENT D01 NO:71, BASAKSEHIR/ISTANBUL; TURKIYE GARANTI BANKASI A.S., SWIFT TGBATRIS, IBAN TR97 0006 2000 4170 0009 0380 66); Payment details «INV 180926 dd 18.09.26»; сумма 25 942,21 USD, OUR. Приложен PROFORMA INVOICE No 180926 dd 18.09.2026 (OKAR) — Aluminium digital number plate 3387 шт × 7,66 = 25 942,21 USD (сумма ордера = итогу инвойса). Совпадений по 25 942,21 / INV 180926 / OKAR в 5 таблицах не было (row 37 — другой инвойс 090926, 47 010,96 USD) → новая строка. Компания-плательщик Q8 (по подписи), клиент VDX (группа «📨 Платежи VDX»), цвет ⬜ (Step 3). Q8-расчёт сразу: 25 942,21 + 0,3% + 30 = 26 050,04 USDT.",
+    "calc": "ТЕЗ"
   }
 ]
