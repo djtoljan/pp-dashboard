@@ -2004,5 +2004,24 @@
     "calc": null,
     "status": "🟢",
     "statusTriggerDocId": "tonio-debit-advice-mfar-20581-executed"
+  },
+  {
+    "row": 106,
+    "date": "2026-09-18",
+    "sum": 25942.21,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
