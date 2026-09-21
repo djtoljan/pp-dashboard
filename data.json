@@ -2194,5 +2194,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 116,
+    "date": "2026-09-21",
+    "sum": 13200,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Трак-Прайс",
+    "costFormula": null,
+    "extra": "📄 21.09.2026 (📨 Трак-Прайс/Fininvest, файл «PI FOR TRAK-PRAIS JR26091901M.pdf») — **PROFORMA INVOICE № JR26091901M** (DATE 2026/09/19; контракт **JR25062101M от 2025/05/21**, EXW JRCY FACTORY): продавец **YANGZHOU JINRUN IMPORT & EXPORT CO., LTD** (East of Xingyuan Second Road, Chengnan Industrial Concentration Zone, Baoying County, Yangzhou City, Jiangsu Province, China; тел. 0086-514-88991702, felix@jinrunauto.com) → покупатель **Limited liability company TRAK-PRAIS** (630027, г. Новосибирск, ул. Дунаевского, д. 16, оф. 4; контакт Иткумов Константин Викторович). Позиции (автозапчасти/интерьер): Top Interior Trim Assembly 5702100LE176 — 30 × 260 = 7 800 RMB; Rear interior panel assembly 5615130LE032 — 20 × 170 = 3 400; Interior panel assembly on the left rear door pillar 5402070LE032 — 20 × 50 = 1 000; on the right 5402080LE032 — 20 × 50 = 1 000. **SUB-TOTAL 90 шт — 13 200 RMB**. Банк: **Industrial and Commercial Bank of China, Jiangsu Provincial Branch** (Baoying County, Yangzhou City), Beneficiary **Yangzhou Jinrun Import And Export Co., LTD**, A/C (RMB) **1108200109100080954**, SWIFT **ICBKCNBJJSP**, CNAPS 102312220018. Step 0 🔴 — заявка/поручение и компания-плательщик ещё не пришли; совпадений по PI JR26091901M / 13 200 в 5 таблицах нет (Трак-Прайс: Main 38 — 31 762 CNY, Main 40 — 71 250 CNY).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
