@@ -345,8 +345,8 @@
     "date": "2026-09-21",
     "sum": 9936,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "VESTORIA",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -356,7 +356,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 21.09.2026 (📨 Константин Просто Группа, файл «RCTS_9_936_00_EUR.xlsx») — платёжные реквизиты / ордер: Beneficiary **IK RCTS** (Kengaraga 9-116, Riga, Latvia), счёт **LV05UNLA0050002557002**, банк **AS SEB banka** (Latvia), SWIFT **UNLALV2X**; Details «Payment for invoice No. **KRG-1001** dated 14.07.2026, for sporting goods. Order No. 1001»; Amount **9 936,00 EUR**. Совпадений по 9 936 / KRG-1001 / IK RCTS в 5 таблицах нет. ⚠️ Step 0 — компания-плательщик/заявка ещё не пришли (линия Константин (Просто группа)); расчёт ждёт формулу владельца. | 📄 21.09.2026 (📨 Константин Просто Группа, файл «14.07.26 Kazahstan(Chencon).xls») — **Invoice KRG-1001 dd 14.07.2026** (Order NR.1001): продавец **IK RCTS** (Kengaraga 9-116, Rīga, Latvija; VAT LV40002094405; IBAN LV05UNLA0050002557002, SWIFT UNLALV2X); Sold to **Asia SD Service LLC** (104 Bokonbayeva str., Bishkek, Kyrgyz Republic; INN 00411201510231). Позиции — спортинвентарь (ракетки squash/padel Dunlop/Head/Tecnifibre/Harrow/NOX, струны Ashaway/Harrow/Tecnifibre/Karakal, рюкзаки, грифы, носки, кроссовки Kanso). **Subtotal / Total amount to pay = 21 779 EUR** — оплата частичная (ордер 9 936,00 EUR).",
+    "notes": "📄 21.09.2026 (📨 Константин Просто Группа, файл «RCTS_9_936_00_EUR.xlsx») — платёжные реквизиты / ордер: Beneficiary **IK RCTS** (Kengaraga 9-116, Riga, Latvia), счёт **LV05UNLA0050002557002**, банк **AS SEB banka** (Latvia), SWIFT **UNLALV2X**; Details «Payment for invoice No. **KRG-1001** dated 14.07.2026, for sporting goods. Order No. 1001»; Amount **9 936,00 EUR**. Совпадений по 9 936 / KRG-1001 / IK RCTS в 5 таблицах нет. ⚠️ Step 0 — компания-плательщик/заявка ещё не пришли (линия Константин (Просто группа)); расчёт ждёт формулу владельца. | 📄 21.09.2026 (📨 Константин Просто Группа, файл «14.07.26 Kazahstan(Chencon).xls») — **Invoice KRG-1001 dd 14.07.2026** (Order NR.1001): продавец **IK RCTS** (Kengaraga 9-116, Rīga, Latvija; VAT LV40002094405; IBAN LV05UNLA0050002557002, SWIFT UNLALV2X); Sold to **Asia SD Service LLC** (104 Bokonbayeva str., Bishkek, Kyrgyz Republic; INN 00411201510231). Позиции — спортинвентарь (ракетки squash/padel Dunlop/Head/Tecnifibre/Harrow/NOX, струны Ashaway/Harrow/Tecnifibre/Karakal, рюкзаки, грифы, носки, кроссовки Kanso). **Subtotal / Total amount to pay = 21 779 EUR** — оплата частичная (ордер 9 936,00 EUR). | 📄 21.09.2026 (📨 Ордера и Расчеты!, подпись «Payment from VESTORIA❗️»; файл «INV 9 936,00 EUR.pdf») — ордер на платёж: Beneficiary **IK RCTS** (Kengaraga 9-116, Riga, Latvia); Bank **AS SEB banka** (Valdemara iela 13, Riga, LV-1010, Latvia), SWIFT **UNLALV2X**, счёт **LV05UNLA0050002557002**; Payment details «Inv KRG-1001 dd 14.07.2026»; Amount **9 936,00 EUR**; OUR. Компания-плательщик — **VESTORIA**. Компания известна → 🔴→⬜ (Step 3). Расчёт (не-Q8) ждёт формулу владельца. | 💬 21.09.2026 (Scream, 📨 Ордера и Расчеты!): ордер VESTORIA **9 936,00 EUR — ЧАСТИЧНАЯ оплата** по инвойсу KRG-1001 dd 14.07.2026 (итог инвойса **21 779,00 EUR**); остаток 11 843,00 EUR.",
     "calc": null
   }
 ]

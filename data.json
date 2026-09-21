@@ -2308,5 +2308,24 @@
     "sent_usdt": null,
     "notes": "📄 21.09.2026 (📨 ВТС-Fininvest (t4235), файл «Платёжные реквизиты_№75986.docx») — **Приложение № 1 к Поручению № 75986 от «17» сентября 2026** (к договору № /27-12/27122023 от 27.12.2023): AMOUNT **30 200,00 USD**, CURRENCY USD; BENEFICIARY **Goodly Cosmetics (Yiwu) Co., Ltd.** (26/F., Tower One, Time Square, 1 Matheson Street, Causeway Bay, HK); ACCOUNT **3996000396176**; BANK **CITIBANK, N.A., HONG KONG BRANCH** (Champion Tower, Three Garden Road, Central, Hong Kong); SWIFT **CITIHKHX**; PAYMENT DETAILS: Payment by invoice **GM20260911-26** date 11.09.2026. ⚠️ само Поручение №75986 (принципал/курс/комиссия) ещё не пришло. Совпадение по сумме 30 200 USD с Main row 98 — другая сделка (ZHEJIANG YOUMAY, VDX). ⚠️ Step 0 — компания/заявка ждём; линия ВТС → компания Q8. | 📄 21.09.2026 (📨 ВТС-Fininvest (t4235), файл «инвойс услуги Би трейд 75986.pdf») — инвойс услуг **БиТрейд № 75986 от 21.09.2026** (ООО «ВТС» → БиТрейд Кей Джи, договор 27062025TК/1 от 24.06.2025): посреднические услуги по проведению расчётов с иностранным поставщиком, курс USD 84,5189 → **553,00 USD = 46 738,95 ₽**. Это агентское вознаграждение по Поручению №75986 (эта строка). | 📄 21.09.2026 (📨 ВТС-Fininvest (t4235), файл «Поручение 75986.pdf») — **ПОРУЧЕНИЕ № 75986 от 21.09.2026** (Transfer request No 75986; Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал **ООО «ВТС»** → Агент **ОсОО «БиТрейд Кей Джи»**. Платёж **30 200,00 USD** получателю (нерезиденту) **Goodly Cosmetics (Yiwu) Co., Ltd.** (26/F., Tower One, Time Square, 1 Matheson Street, Causeway Bay, HK); **CITIBANK, N.A., HONG KONG BRANCH**, SWIFT **CITIHKHX**, счёт **3996000396176**. Назначение: Sales Contract № ВТС/07/04/2026-01 dd 07.04.2026, инвойс № **GM20260911-26 dd 11.09.2026**. Курс 84,5189 → **2 552 470,78 RUB**. Комиссия Агента **1,5% + 100 USD** = **553,00 USD = 46 738,95 ₽** (инвойс услуг БиТрейд №75986). Срок 5–10 банк. дней. Сумма/реквизиты совпадают с формой. ⚠️ Step 0 — компания/заявка ждём.",
     "calc": null
+  },
+  {
+    "row": 122,
+    "date": "2026-09-21",
+    "sum": 19368.01,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 21.09.2026 (📨 ВТС-Fininvest (t4249), файлы «305N CI.pdf» + «инвойс услуги Би трейд 76184.pdf») — **COMMERCIAL INVOICE № 305N dd 11.09.2026** (Contract 305N 11.09.2026; Sold to **LLC «NARA»**, 111524, Moscow, Electrodnaya, 2, bldg 7, INN 7720447187, KPP 772001001; Delivery FCA Hebei; Terms 100% before shipment): продавец/получатель платежа **ZHONG SHENG TECHNOLOGY DEVELOPMENT CO., LIMITED** (FLAT B01, 2/F, Kin Tak Fung Ind Building, 174 Wai Yip Street, Kwun Tong, Hong Kong; The Bank Of East Asia Limited Hong Kong, счёт 015-248-68-019188); товар — искробезопасный инструмент HORTZ (ключи/клещи/лопаты AlCu/BeCu), 365 позиций; **Total Amount 19 368,01 USD**. Инвойс услуг БиТрейд № **76184** (390,52 USD = 33 006,33 ₽, курс 84,5189) = 1,5% + 100 USD от 19 368,01. ⚠️ само Поручение №76184 (принципал/курс/реквизиты) ещё не пришло. ⚠️ Step 0 — компания/заявка ждём; линия ВТС → компания Q8. | 📄 21.09.2026 (📨 ВТС-Fininvest (t4249), файл «Поручение 76184.pdf») — **ПОРУЧЕНИЕ № 76184 от 21.09.2026** (Transfer request No 76184; Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал **ООО «ВТС»** → Агент **ОсОО «БиТрейд Кей Джи»**. Платёж **19 368,01 USD** получателю (нерезиденту) **ZHONG SHENG TECHNOLOGY DEVELOPMENT CO., LIMITED** (FLAT B01, 2/F, Kin Tak Fung Ind Building, 174 Wai Yip Street, Kwun Tong, Hong Kong); **The Bank Of East Asia Limited Hong Kong**, SWIFT **BEASHKHH**, счёт **015-248-68-019188**. Назначение: Sales Contract № 305N dd 11.09.2026, инвойс № **305N dd 11.09.2026**. Курс 84,5189 → **1 636 962,90 RUB**. Комиссия Агента **1,5% + 100 USD** = 390,52 USD = 33 006,33 ₽ (инвойс услуг БиТрейд №76184). Срок 5–10 банк. дней. Сумма/получатель совпадают с CI 305N. ⚠️ Step 0 — компания/заявка ждём.",
+    "calc": null
   }
 ]
