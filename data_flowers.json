@@ -1065,7 +1065,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "📄 22.09.2026 (📨 Заявки Компания Q8, файл «Invoice_Atlantic_Avrora_to_Q8_33121_27_EUR_22-Sep-2026.pdf») — **COMMERCIAL INVOICE № AA-Q8-2026-0922 dd 22.09.2026**: продавец **Atlantic Avrora EOOD** (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; директор Aleksandrs Rakovskis) → покупатель **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). **Fresh cut flowers, assorted — 1 lot = EUR 33 121,27** («Thirty-Three Thousand One Hundred Twenty-One Euros And 27/100 Only»); Currency EUR; Terms As per agreement. Банк: **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Клиент — **Atlantic Avrora (Цветы)**, компания **Q8** (ТЕЗ), ⬜ Step 3. Q8-расчёт (`33 121,27 EUR × кросс-курс EUR→USD + 0,3% + 30`) ждёт кросс-курс FX Q8 (последний известный — 18.09.2026: 1 USD = 0,867596493684 EUR). Продолжение серии AA-Q8-2026 (r52 = AA-Q8-2026-0918). Дублей по 33 121,27 / AA-Q8-2026-0922 в 5 таблицах нет.",
+    "calc": null,
+    "documentDate": "2026-09-22"
   }
 ]
