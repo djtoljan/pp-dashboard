@@ -2422,5 +2422,24 @@
     "sent_usdt": null,
     "notes": "📄 22.09.2026 (📨 Платежи VDX, подпись «**Payment from  ❗️**» — компания-плательщик в сообщении НЕ указана) — **ордер на платёж**: Beneficiary **BAKÜ PRODÜKSİYON KON GRE ORG. ÖZE. EĞİ. DAN. VE TUR. TİC .LTD .ŞTİ.** (Çağlayan Mahallesi 2054 Sokak No: 29/2, Muratpaşa, Antalya - 07230, Turkey; Tax number 1330369547); банк **VAKIFBANK - 100.Yil BRANCH** (Finans Caddesi 40/1, Finanskent, Umraniye, Istanbul 34771), SWIFT **TVBATR2AXXX**, счёт **TR49 0001 5001 5804 8018 5388 81**; Payment details **inv. GRC8306 dd 14.09.2026**; Amount **26 245,00 EUR**; OUR. Вложенный **Customer Proforma Invoice № GRC8306 dd 14.09.2026** (GREENCODE TURKEY): «ACCOMMODATION, CONFERENCE AND TRANSFERE SERVICES IN ISTANBUL RADISSON VADI ISTANBUL HOTEL» 25-28.09.2026, **EUR 26 245,00**. Клиент строки — **VDX** (канал 📨 Платежи VDX). ⚠️ Компания-плательщик не названа → Step 0 🔴, жду заявку. Пометка в сообщении Scream: «ДЕМЛИНК АТЛАС 32981,36+2537028,04».",
     "calc": null
+  },
+  {
+    "row": 128,
+    "date": "2026-09-22",
+    "sum": 13500,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Express Orto",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
