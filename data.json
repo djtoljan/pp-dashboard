@@ -2498,5 +2498,24 @@
     "sent_usdt": 80219.85,
     "notes": "📄 22.09.2026 (📨 Заявки Компания Q8, файл «79 950.pdf») — **ORDER / заявка** (Date August 27, 2026; From: Hebe; Currency USD; Price term EXW; Payment **50% deposit, balance before shipment**; Shipment Time 45 days after confirm): Tonal Fluid 01 30 000 pcs × $2,46 = $73 800; Tonal Fluid 02 30 000 × $2,46 = $73 800; Tonal Fluid 03 5 000 × $2,46 = $12 300; **Total $159 900,00** (Deposit **$79 950,00** / Balance $79 950,00). Country of origin China; shipment YiWU → YiWU ON FREIGHT PREPAY. Компания **Q8**, клиент **VDX**. Сумма строки = сумма заявки-депозита **79 950 USD** (по имени файла); полная сумма ордера 159 900 в notes. Step 3 → ⬜; Q8-расчёт: 79 950,00 + 0,3% + 30 = 80 219,85 USDT. ⚠️ В таблице уже есть Main 120 (ВТС, 79 950 USD, Поручение №75470) — при совпадении сделки строку нужно свести/уточнить у Scream.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 132,
+    "date": "2026-09-22",
+    "sum": 10020.66,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
