@@ -2526,15 +2526,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "New Case DOO",
-    "costFormula": null,
+    "costFormula": "65 072,50 + 0,3% + 30 = 65 297,72 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "sent_usdt": 65297.72,
+    "notes": "📄 22.09.2026 (📨 Заявки Компания Q8, файл «F-36332-27769 STAMPED.pdf», скан со штампом «SEAL DELAWARE») — **FINAL DEPOSIT INVOICE**: Invoice Number **F-36332-27769**, Order **SO-36332**, Date **9/16/2026**, Sales Rep Travis Thirkettle; продавец **Power Test, LLC** (N60 W22700 Silver Spring Drive, Sussex, WI 53089) → Bill To / Ship To **New Case DOO** (Bulevar Jna 123v, Belgrade 11000, RS — SERBIA). Customer ID 027769, Customer P.O. «Signed Quote», Payment terms **50% PRIOR TO SHIP**, Shipping Customer Logistics. TOTAL ORDER AMOUNT **$129 905,00**; TOTAL DEPOSIT AMOUNT $129 905,00; LESS PMT REC'D 12/2025 (**64 832,50**); **BALANCE DUE $65 072,50**. Позиции: Systems (DYN5/700P/AUTO CONS), Software Windyns Performance Standard, Superstar SF-902S, 833 Tapered 1 3/8-10 Adapter, Universal Bell HSng ASM, Driveplate 1 3/8×10, Engine Mount Kit, KIT Lego Controller, Sensor Blowby Freq, Dyno Oil Cooler, System Double Fuel PM/902S, NSP Exhaust Opacity Meter, European Schuko Cord Set, Onsite Service Days, Expenses, Packing & Handling. Компания **Q8** (канал), клиент **New Case DOO**. Сумма строки = BALANCE DUE **65 072,50 USD**; Q8-расчёт: 65 072,50 + 0,3% + 30 = 65 297,72 USDT. Совпадений по 65072 / New Case / Power Test / F-36332 в 5 таблицах нет. | 🏦 22.09.2026 (📨 Заявки Компания Q8, файл «PTI - Int'l Banking Instructions.pdf») — **INSTRUCTIONS FOR INCOMING ACH/WIRE TRANSFERS** (Power Test): для получения USD из-за пределов США банк-корреспондент кредитуется так: SWIFT **TOWNUS44**; Beneficiary Bank ABA **075917843**, Account Number **1181297680**, **Town Bank** (850 West North Shore Drive, Hartland, WI 53029); For Further Credit: Beneficiary Name **Power Test, LLC** (N60W22700 Silver Spring Drive, Sussex, WI 53089); Reference: номер инвойса или PO. Примечание для нерезидентов США: в банковском поручении указать, что средства идут получателю на **полную сумму остатка (full balance due)** — т.е. **$65 072,50** по F-36332-27769. Маршрут оплаты к этой строке.",
+    "calc": "ТЕЗ"
   }
 ]
