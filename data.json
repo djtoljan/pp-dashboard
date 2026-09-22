@@ -2258,7 +2258,7 @@
     "sum": 14799.65,
     "currency": "EUR",
     "company": "ATB",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Спринт Импорт (Платежи по паспортам)",
     "costFormula": "(14 799,65 × 1,0025 + 80) × 1,14550 = 17 087,02 USDT",
     "extra": null,
