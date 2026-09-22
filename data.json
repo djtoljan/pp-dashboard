@@ -2555,5 +2555,24 @@
     "sent_usdt": null,
     "notes": "📄 22.09.2026 (📨 Платежи VDX, файл «INVOICE_80229,19 USD.pdf») — **INVOICE**: Sub Total **80 229,19**, Discount (−) 101,95, **TOTAL / Balance Due $80 229,19 USD**. USD ACCOUNT: Beneficiary **SODALITAS TRADING LLC FZ** (Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E); банк **First Abu Dhabi Bank PJSC** (Sheikh Zayed Road Branch, Dubai), SWIFT **NBADAEAA**, счёт **AE320351031005753309002**. Позиции: TPU Phone cases (Black TPU 16 823,70 @0,14; Black TPU 5 309,89 @0,14; Black TPU 40 016,93 @0,287; TPU Phone cases 7 342,23 @0,18; BOPP Package 10 736,44 @0,02), Sub Total 80 229,19. Клиент строки — **VDX**. ⚠️ Компания-плательщик в сообщении не названа → Step 0 🔴, ждём заявку. Совпадений по 80 229,19 / SODALITAS в 5 таблицах нет. | 💰 22.09.2026 (Scream: «80 229,19 × 1,003 + 100 = 80 570 = 80570 — под эти заявки») — фондирование под Bobr IN **90 721 USDT** (Рабочий 4, 12:21:00 UTC, txid 3b46d19ed6143ce6156bd8c5284ded66f035c06777cb18220982ea9facc1192a): `received_usdt` = **80570**, `costFormula` = 80 229,19 × 1,003 + 100 = 80 570 USDT.",
     "calc": null
+  },
+  {
+    "row": 135,
+    "date": "2026-09-22",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
