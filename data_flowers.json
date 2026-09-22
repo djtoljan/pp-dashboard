@@ -1035,7 +1035,7 @@
     "sum": 37021.09,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "DBA Euro Plants (Цветы)",
     "costFormula": "37 021,09 / 0,869810361361 (FX Q8 22.09.2026: 1 USD = 0,869810361361 EUR) + 0,3% + 30 = 42 719,94 USDT",
     "extra": null,
@@ -1045,7 +1045,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 42719.94,
-    "notes": "📄 22.09.2026 (📨 Цветы, файлы «DBA 37021,09e.docx» + «DBA 37021,09e.pdf») — **Proforma-RECHNUNG Nr. DBA21092026/01 dd 21.09.2026**: продавец **DBA Euro Plants GmbH** (Trankeweg 8, DE-15517 Fürstenwalde/Spree, Deutschland; Steuer-Nr. 06111105403, USt-IdNr. DE369987532, HRB 20685 FF, EORI DE544403072924421; директор Dainė Baumilė) → покупатель **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Payment for the plants according the contract no. 26.07.31/01 — **37 021,09 EUR** (MwST 0%). Банк **REVOLUT**, IBAN **LT193250010460027222**, SWIFT **REVOLT21**. Форма реквизитов Q8 (docx) + проформа (pdf) = Заявка Q8 (Тип 4) → ⬜ Step 3. Q8-расчёт (`37 021,09 EUR × кросс-курс EUR→USD + 0,3% + 30`) ждёт кросс-курс FX Q8 (последний известный — 18.09.2026: 1 USD = 0,867596493684 EUR). Предыдущая сделка клиента — r16 (62 655,10 EUR, DBA03092026/01). Дублей по 37 021,09 / DBA21092026/01 в 5 таблицах нет.",
+    "notes": "📄 22.09.2026 (📨 Цветы, файлы «DBA 37021,09e.docx» + «DBA 37021,09e.pdf») — **Proforma-RECHNUNG Nr. DBA21092026/01 dd 21.09.2026**: продавец **DBA Euro Plants GmbH** (Trankeweg 8, DE-15517 Fürstenwalde/Spree, Deutschland; Steuer-Nr. 06111105403, USt-IdNr. DE369987532, HRB 20685 FF, EORI DE544403072924421; директор Dainė Baumilė) → покупатель **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Payment for the plants according the contract no. 26.07.31/01 — **37 021,09 EUR** (MwST 0%). Банк **REVOLUT**, IBAN **LT193250010460027222**, SWIFT **REVOLT21**. Форма реквизитов Q8 (docx) + проформа (pdf) = Заявка Q8 (Тип 4) → ⬜ Step 3. Q8-расчёт (`37 021,09 EUR × кросс-курс EUR→USD + 0,3% + 30`) ждёт кросс-курс FX Q8 (последний известный — 18.09.2026: 1 USD = 0,867596493684 EUR). Предыдущая сделка клиента — r16 (62 655,10 EUR, DBA03092026/01). Дублей по 37 021,09 / DBA21092026/01 в 5 таблицах нет. | 📄 22.09.2026 (📨 Цветы, файл «491-PO- DBA Euro Plants - 37021,09 EUR-220926-DE.pdf») — **RECEIPT (подтверждение получения платежа, платёжная платформа)**: Amount received **37 021,09 EUR** (Arrival currency EUR; Handling fee 26,19 EUR); **Payment status: Processing**; Payment Date **2026-09-22 17:20:27**; Transaction serial number **O2102327154074320896915**; Recipient **DBA Euro Plants GmbH** (REVOLUT BANK UAB, BIC REVOLT21, счёт LT1932****222; Trankeweg 8, DE-15517 Furstenwalde/Spree, Germany); Payer **Q8 GROUP LIMITED** (18/F, The Center, 99 Queens Road Central, Central, Hong Kong); Payment Note «Invoice DBA2109202601 DD 21092026 For Plants». Статус Processing (INITIATED) → ⬜→🟡; ждём завершения → 🟢.",
     "calc": null,
     "documentDate": "2026-09-21"
   },
@@ -1086,6 +1086,25 @@
     "received_usdt": 10160,
     "sent_usdt": null,
     "notes": "📄 22.09.2026 (📨 Ордера и Расчеты !, подпись «**Payment from LEO ❗️**»; файл «INV 10 000,00 USD (4).pdf») — **заказ на платёж**: Beneficiary **TESSAROSES S.A** (Ecuador, QUITO, AV. EUGENIO ESPEJO, PLAZA DEL RANCHO, BL. 1, OF. 309); банк **PRODUBANCO DE LA PRODUCCION** (Ave Simón Bolívar S/N y Vía Nayón, Centro Corporativo Ekopark, Torre 1, Quito-Ecuador), SWIFT **PRODECEQ**, счёт **2201006355**; Payment details **invoice 90614247 dd 02.09.26**; Amount **10 000,00 USD**; OUR. Вложенный purchase order клиента Q8 GROUP LIMITED: розы MIXED BOX (Arco/Ecua/Tessa/Dali), 20 000 stems / 800 bunches = **$10 000,00**; AWB 369-753667357, HAWB 369-725542425, Cargo Agency FRESH LOGISTIC, Airline ATLAS AIR. Компания **LEO**, клиент **TESSAROSES (Цветы)** (прецедент: архив Цветов row 13 — LEO/TESSAROSES). Это одна из 2 заявок по 10 000 USD под Bobr IN **58 661,36 USDT** (Scream 22.09.2026: 10 000+10 000+33 121,27 EUR). `received_usdt` = 10 160 (10 000 × 1,006 + 100). | 🏦 22.09.2026 (📨 Платежные Поручения, файл «260922_180844_transactionstatusdetails_pendingapproval.pdf», подпись «10 000») — **TRANSACTION STATUS DETAILS**: Total Debit Amount **USD 10 038,50**; Short Message «2098 invoice **90614247** dd 02.09.26»; Maker **LEO SPOT CAPITAL** (Created 22.09.2026 18:07:32 → 18:08:40); **PENDING APPROVAL** (Approval 1 — Waiting). Это платёж по заявке TESSAROSES (инвойс 90614247, 10 000,00 USD) → строка получает статус 🟡 (INITIATED / на одобрении).",
+    "calc": null
+  },
+  {
+    "row": 58,
+    "date": "2026-09-22",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Milele Flowers (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
     "calc": null
   }
 ]
