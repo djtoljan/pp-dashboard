@@ -2612,5 +2612,24 @@
     "sent_usdt": null,
     "notes": "📄 22.09.2026 (📨 Заявки UK, подпись «Payment from TRAVELCOM❗️») — **ордер на платёж**: Beneficiary **Intermundoprom FZ-LLC** (Al Shohada Road, Compass Building, Ras al-Khaimah, U.A.E); банк **Emirates Islamic Bank** (EI BANIYAS BRANCH, Dubai, UAE), SWIFT **MEBLAEAD**, счёт **AE170340003708467682502**; Payment details **inv. INV-00742 DD 21/09/2026**; Amount **25 659,00 USD**; **OUR**. Вложенный инвойс **# INV-00742** (Intermundoprom FZ-LLC, 21 Sep 2026, Terms Due on Receipt, Due 21 Sep 2026): «Hotel Booking — Travel Services in Peru» 1.00 × 25 659.00 = **$25 659.00**. Компания-плательщик — **TRAVELCOM** (из «Payment from TRAVELCOM»); клиент строки — **VDX** (линия UK). Строка ⬜ (компания известна).",
     "calc": null
+  },
+  {
+    "row": 138,
+    "date": "2026-09-22",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
