@@ -1244,5 +1244,24 @@
     "sent_usdt": null,
     "notes": "📤 22.09.2026 (📨 Молодёжь) — **получатель прислал реквизиты AliPay**: сумма **9 755 RMB (CNY)**, получатель **贾玉静** (支付宝 «Sunshine(**静)»), тел. **18513028364**, по заказам **PRM-079-044** и **PRM-079-045**. Компания **Alipay**, клиент **Вилог** (Молодёжь). QR-код AliPay на изображении (IMG_5897). Оплата/подтверждение исполнения ещё не пришли.",
     "calc": null
+  },
+  {
+    "row": 66,
+    "date": "2026-09-22",
+    "sum": 129500,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ИП Зольников (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
