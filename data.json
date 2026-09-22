@@ -2507,15 +2507,15 @@
     "company": null,
     "color": "FFFF0000",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "10 020,66 × 1,003 + 100 = 10 151 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 10151,
     "sent_usdt": null,
-    "notes": "📄 22.09.2026 (📨 Платежи VDX, подпись «**Payment from  ❗️**» — компания-плательщик в сообщении НЕ указана; файл «Invoice 154 (1).pdf») — **ордер на платёж**: Beneficiary **CREATIVE SHELL CO.,LTD** (104(C12/1) Moo.12, Napa Sub-district, Chonburi, Thailand 20000; Director Iaroslav Prikhodko; Tax no. 0205565045256); банк **TMBThanachart Bank Public Company Limited** (3000 Phahonyothin Road, Chomphon, Chatuchak, Bangkok 10900), SWIFT **TMBKTHBK**, счёт **6541002009**; Payment details **INV.154 dd.09/17/2026**; Amount **10 020,66 USD**; OUR. Вложенный **INVOICE № 154 dd 09/17/2026** (CREATIVE SHELL): Project 294 «YA S TOBOY (BKK)» (период 10/17–10/18/2026) — Total $11 308,80, project discount −$1 943,70, Price excl. VAT $9 365,10, 7% VAT $655,56 → **Price incl. VAT $10 020,66**; Payment 14 days after invoice date, due 10/01/2026. Клиент строки — **VDX**. ⚠️ Компания-плательщик не названа → Step 0 🔴, жду заявку. Совпадений по CREATIVE SHELL / 10 020,66 / Invoice 154 в 5 таблицах нет.",
+    "notes": "📄 22.09.2026 (📨 Платежи VDX, подпись «**Payment from  ❗️**» — компания-плательщик в сообщении НЕ указана; файл «Invoice 154 (1).pdf») — **ордер на платёж**: Beneficiary **CREATIVE SHELL CO.,LTD** (104(C12/1) Moo.12, Napa Sub-district, Chonburi, Thailand 20000; Director Iaroslav Prikhodko; Tax no. 0205565045256); банк **TMBThanachart Bank Public Company Limited** (3000 Phahonyothin Road, Chomphon, Chatuchak, Bangkok 10900), SWIFT **TMBKTHBK**, счёт **6541002009**; Payment details **INV.154 dd.09/17/2026**; Amount **10 020,66 USD**; OUR. Вложенный **INVOICE № 154 dd 09/17/2026** (CREATIVE SHELL): Project 294 «YA S TOBOY (BKK)» (период 10/17–10/18/2026) — Total $11 308,80, project discount −$1 943,70, Price excl. VAT $9 365,10, 7% VAT $655,56 → **Price incl. VAT $10 020,66**; Payment 14 days after invoice date, due 10/01/2026. Клиент строки — **VDX**. ⚠️ Компания-плательщик не названа → Step 0 🔴, жду заявку. Совпадений по CREATIVE SHELL / 10 020,66 / Invoice 154 в 5 таблицах нет. | 💰 22.09.2026 (Scream: «10 020,66 × 1,003 + 100 = 10 151 = 10151 — под эти заявки») — фондирование под Bobr IN **90 721 USDT** (Рабочий 4, 12:21:00 UTC, txid 3b46d19ed6143ce6156bd8c5284ded66f035c06777cb18220982ea9facc1192a): `received_usdt` = **10151**, `costFormula` = 10 020,66 × 1,003 + 100 = 10 151 USDT.",
     "calc": null
   },
   {
@@ -2545,15 +2545,15 @@
     "company": null,
     "color": "FFFF0000",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "80 229,19 × 1,003 + 100 = 80 570 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 80570,
     "sent_usdt": null,
-    "notes": "📄 22.09.2026 (📨 Платежи VDX, файл «INVOICE_80229,19 USD.pdf») — **INVOICE**: Sub Total **80 229,19**, Discount (−) 101,95, **TOTAL / Balance Due $80 229,19 USD**. USD ACCOUNT: Beneficiary **SODALITAS TRADING LLC FZ** (Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E); банк **First Abu Dhabi Bank PJSC** (Sheikh Zayed Road Branch, Dubai), SWIFT **NBADAEAA**, счёт **AE320351031005753309002**. Позиции: TPU Phone cases (Black TPU 16 823,70 @0,14; Black TPU 5 309,89 @0,14; Black TPU 40 016,93 @0,287; TPU Phone cases 7 342,23 @0,18; BOPP Package 10 736,44 @0,02), Sub Total 80 229,19. Клиент строки — **VDX**. ⚠️ Компания-плательщик в сообщении не названа → Step 0 🔴, ждём заявку. Совпадений по 80 229,19 / SODALITAS в 5 таблицах нет.",
+    "notes": "📄 22.09.2026 (📨 Платежи VDX, файл «INVOICE_80229,19 USD.pdf») — **INVOICE**: Sub Total **80 229,19**, Discount (−) 101,95, **TOTAL / Balance Due $80 229,19 USD**. USD ACCOUNT: Beneficiary **SODALITAS TRADING LLC FZ** (Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E); банк **First Abu Dhabi Bank PJSC** (Sheikh Zayed Road Branch, Dubai), SWIFT **NBADAEAA**, счёт **AE320351031005753309002**. Позиции: TPU Phone cases (Black TPU 16 823,70 @0,14; Black TPU 5 309,89 @0,14; Black TPU 40 016,93 @0,287; TPU Phone cases 7 342,23 @0,18; BOPP Package 10 736,44 @0,02), Sub Total 80 229,19. Клиент строки — **VDX**. ⚠️ Компания-плательщик в сообщении не названа → Step 0 🔴, ждём заявку. Совпадений по 80 229,19 / SODALITAS в 5 таблицах нет. | 💰 22.09.2026 (Scream: «80 229,19 × 1,003 + 100 = 80 570 = 80570 — под эти заявки») — фондирование под Bobr IN **90 721 USDT** (Рабочий 4, 12:21:00 UTC, txid 3b46d19ed6143ce6156bd8c5284ded66f035c06777cb18220982ea9facc1192a): `received_usdt` = **80570**, `costFormula` = 80 229,19 × 1,003 + 100 = 80 570 USDT.",
     "calc": null
   }
 ]
