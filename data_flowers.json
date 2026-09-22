@@ -1077,15 +1077,15 @@
     "company": "LEO",
     "color": "FFFFFF00",
     "clientName": "TESSAROSES (Цветы)",
-    "costFormula": null,
+    "costFormula": "10 000,00 USD × 1,005 + 100 = 10 150 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 10160,
-    "sent_usdt": null,
-    "notes": "📄 22.09.2026 (📨 Ордера и Расчеты !, подпись «**Payment from LEO ❗️**»; файл «INV 10 000,00 USD (4).pdf») — **заказ на платёж**: Beneficiary **TESSAROSES S.A** (Ecuador, QUITO, AV. EUGENIO ESPEJO, PLAZA DEL RANCHO, BL. 1, OF. 309); банк **PRODUBANCO DE LA PRODUCCION** (Ave Simón Bolívar S/N y Vía Nayón, Centro Corporativo Ekopark, Torre 1, Quito-Ecuador), SWIFT **PRODECEQ**, счёт **2201006355**; Payment details **invoice 90614247 dd 02.09.26**; Amount **10 000,00 USD**; OUR. Вложенный purchase order клиента Q8 GROUP LIMITED: розы MIXED BOX (Arco/Ecua/Tessa/Dali), 20 000 stems / 800 bunches = **$10 000,00**; AWB 369-753667357, HAWB 369-725542425, Cargo Agency FRESH LOGISTIC, Airline ATLAS AIR. Компания **LEO**, клиент **TESSAROSES (Цветы)** (прецедент: архив Цветов row 13 — LEO/TESSAROSES). Это одна из 2 заявок по 10 000 USD под Bobr IN **58 661,36 USDT** (Scream 22.09.2026: 10 000+10 000+33 121,27 EUR). `received_usdt` = 10 160 (10 000 × 1,006 + 100). | 🏦 22.09.2026 (📨 Платежные Поручения, файл «260922_180844_transactionstatusdetails_pendingapproval.pdf», подпись «10 000») — **TRANSACTION STATUS DETAILS**: Total Debit Amount **USD 10 038,50**; Short Message «2098 invoice **90614247** dd 02.09.26»; Maker **LEO SPOT CAPITAL** (Created 22.09.2026 18:07:32 → 18:08:40); **PENDING APPROVAL** (Approval 1 — Waiting). Это платёж по заявке TESSAROSES (инвойс 90614247, 10 000,00 USD) → строка получает статус 🟡 (INITIATED / на одобрении).",
+    "sent_usdt": 10150,
+    "notes": "📄 22.09.2026 (📨 Ордера и Расчеты !, подпись «**Payment from LEO ❗️**»; файл «INV 10 000,00 USD (4).pdf») — **заказ на платёж**: Beneficiary **TESSAROSES S.A** (Ecuador, QUITO, AV. EUGENIO ESPEJO, PLAZA DEL RANCHO, BL. 1, OF. 309); банк **PRODUBANCO DE LA PRODUCCION** (Ave Simón Bolívar S/N y Vía Nayón, Centro Corporativo Ekopark, Torre 1, Quito-Ecuador), SWIFT **PRODECEQ**, счёт **2201006355**; Payment details **invoice 90614247 dd 02.09.26**; Amount **10 000,00 USD**; OUR. Вложенный purchase order клиента Q8 GROUP LIMITED: розы MIXED BOX (Arco/Ecua/Tessa/Dali), 20 000 stems / 800 bunches = **$10 000,00**; AWB 369-753667357, HAWB 369-725542425, Cargo Agency FRESH LOGISTIC, Airline ATLAS AIR. Компания **LEO**, клиент **TESSAROSES (Цветы)** (прецедент: архив Цветов row 13 — LEO/TESSAROSES). Это одна из 2 заявок по 10 000 USD под Bobr IN **58 661,36 USDT** (Scream 22.09.2026: 10 000+10 000+33 121,27 EUR). `received_usdt` = 10 160 (10 000 × 1,006 + 100). | 🏦 22.09.2026 (📨 Платежные Поручения, файл «260922_180844_transactionstatusdetails_pendingapproval.pdf», подпись «10 000») — **TRANSACTION STATUS DETAILS**: Total Debit Amount **USD 10 038,50**; Short Message «2098 invoice **90614247** dd 02.09.26»; Maker **LEO SPOT CAPITAL** (Created 22.09.2026 18:07:32 → 18:08:40); **PENDING APPROVAL** (Approval 1 — Waiting). Это платёж по заявке TESSAROSES (инвойс 90614247, 10 000,00 USD) → строка получает статус 🟡 (INITIATED / на одобрении). | 📤 22.09.2026 (📨 Ордера и Расчеты !, заказ «**LEO**») — **заказ на выплату USDT** по этой сделке: **10 000,00 USD × 1,005 + 100 = 10 150 USDT**; адрес получателя (TRON) **TLmdAeQMFFfhFEqGkMZ4aiC86jvbhoDmiV**. Проставлено: `costFormula` = «10 000,00 × 1,005 + 100 = 10 150 USDT», `sent_usdt` = **10 150**. Движение USDT (Bobr) ждём — Q9/леджер по факту алерта.",
     "calc": null
   },
   {
