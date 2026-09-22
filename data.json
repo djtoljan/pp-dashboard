@@ -2428,8 +2428,8 @@
     "date": "2026-09-22",
     "sum": 13500,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "AFIO TRADE GROUP",
+    "color": "FFFFFFFF",
     "clientName": "Express Orto",
     "costFormula": null,
     "extra": null,
@@ -2439,7 +2439,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 22.09.2026 (📨 Протезы, файл «PROFORMA INVOICE EXPRESSORTHO (2).pdf») — **PROFORMA INVOICE № 18894 dd 16.09.2026** от **BIONEST PROTEZ ORTEZ REHABILITASYON MALZEMELERI SAN. TIC. A.Ş** (ZIRAAT BANKASI, branch 2408 ŞEHZADELER MANISA, IBAN TR8900 0100 2408 9106 2150 5004, SWIFT TCZBTR2A) → **LLC Express Orto** (Tax Number 7722821513; 111024, Moscow, st. Aviamotornaya, 12, floor 7, room 4; тел. +7 (495)5392031; info@express-orto.ru). Позиции: BIONEST GEL LINER (BST-302) и BIONEST CUSHION GEL LINER (BST-303), размеры L/M+/L+/XL — 200 шт = **13 500,00 EUR** (компоненты протезов). COUNTRY OF ORIGIN: TURKEY; TYPE OF DELIVERY: EXWORKS; TYPE OF PAYMENT: 100% prepayment. ⚠️ Step 0 🔴 — компания-плательщик/заявка ещё не пришли. Совпадений по 13 500 / Express Orto / BIONEST в 5 таблицах нет.",
+    "notes": "📄 22.09.2026 (📨 Протезы, файл «PROFORMA INVOICE EXPRESSORTHO (2).pdf») — **PROFORMA INVOICE № 18894 dd 16.09.2026** от **BIONEST PROTEZ ORTEZ REHABILITASYON MALZEMELERI SAN. TIC. A.Ş** (ZIRAAT BANKASI, branch 2408 ŞEHZADELER MANISA, IBAN TR8900 0100 2408 9106 2150 5004, SWIFT TCZBTR2A) → **LLC Express Orto** (Tax Number 7722821513; 111024, Moscow, st. Aviamotornaya, 12, floor 7, room 4; тел. +7 (495)5392031; info@express-orto.ru). Позиции: BIONEST GEL LINER (BST-302) и BIONEST CUSHION GEL LINER (BST-303), размеры L/M+/L+/XL — 200 шт = **13 500,00 EUR** (компоненты протезов). COUNTRY OF ORIGIN: TURKEY; TYPE OF DELIVERY: EXWORKS; TYPE OF PAYMENT: 100% prepayment. ⚠️ Step 0 🔴 — компания-плательщик/заявка ещё не пришли. Совпадений по 13 500 / Express Orto / BIONEST в 5 таблицах нет. | 📄 22.09.2026 (📨 Протезы, файл «21100_EUR_56039.pdf», Scream «Вот прошлая платежка») — **прошлый платёж по этой линии**: банковский международный перевод (Single Transfer To Other Bank): Source Of Fund **1750003800496 EUR AFIO TRADE GROUP** → получатель **BIONEST PROTEZ ORTEZ REHABILITASYON MALZEMELERI SAN. TIC.A.S** (Evanos Mah. No.37, Manisa, Turkey), банк **TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.** (BIC **TCZBTR2AXXX**), счёт **TR89 0001 0024 0891 0621 5004** (совпадает с инвойсом 18894), **Amount EUR 21 100,00** (Total Debit EUR 21 157,65), Remarks «RFB INV. **18893** DD. 04.02.2026», Instruction Date **Feb 11, 2026**, Status PendingApproval. → Компания-плательщик по линии **AFIO TRADE GROUP** (тот же получатель/счёт, что и в новой проформе 18894) → проставил компанию этой строке, 🔴→⬜.",
     "calc": null
   }
 ]
