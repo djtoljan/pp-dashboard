@@ -375,7 +375,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "📄 22.09.2026 (📨 Константин Просто Группа, файл «DKShop 21 920 00 USD.xlsx») — **форма реквизитов платежа**: Beneficiary **D&K Shop LLC** (30 W GRANT ST. #129 SUITE 124, Orlando FL 32806); банк получателя **FAIRWINDS CREDIT UNION** (3087 N ALAFAYA TRAIL, Orlando; SWIFT **FAICUS3A XXX**), счёт **78684216**; Amount **21 920,00 USD**; Details of Payment «Payment for Invoice 48 dd 21.09.26 for car parts». Банк-корреспондент и HS/контракт в форме пустые. Клиент — **Константин (Просто группа)**. Компания-плательщик в форме НЕ названа → 🔴 Step 0 (ждём заявку/указание компании). Совпадений по 21 920 / DKShop / 78684216 в 5 таблицах нет. | 📄 22.09.2026 (📨 Константин Просто Группа, файл «Invoice 48.pdf») — **INVOICE # 48 dd Sep 21, 2026**: продавец/бенефициар **D&K Shop LLC** (30 W GRANT ST. #129 SUITE 124, Orlando FL 32806; FAIRWINDS CREDIT UNION, SWIFT FAICUS3A XXX, счёт 78684216) → Bill To **Linestar Logistics** (Bank of America, routing 064000020, счёт 708984870). Позиция: «Payment for car parts» 1 × $21,920.00 = **Total $21,920.00** (Tax 0%). Сумма инвойса = сумме формы реквизитов (21 920,00 USD) ✓ → инвойс + форма = Тип 4. Компания-плательщик по-прежнему не названа (в инвойсе плательщик-покупатель — Linestar Logistics). 🔴 до указания компании Scream.",
+    "calc": null,
+    "documentDate": "2026-09-22"
   }
 ]
