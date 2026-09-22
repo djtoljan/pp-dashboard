@@ -1028,5 +1028,24 @@
     "sent_usdt": 22516.26,
     "notes": "📄 19.09.2026 (📨 Заявки Компания Q8, файл «INVOICE 332 Q8 GROUP LIMITED.pdf») — **INVOICE № 332 dd 18/09/2026**: продавец **CONDOR ANDINO SAS** (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia, тел. (57) 3206668410; банк **BANCOLOMBIA** (CLL 10 # 8-48 La Unión Ant, Col), SWIFT **COLOCOBM**, счёт **55700015652**, beneficiary VDA LA ALMERIA FINCA EL VALLE) → покупатель **Q8 Group Limited** (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). **FRESH CUT HYDRANGEAS**, 125 boxes (QB) × 30 = 28 024 stems × 0,80 = **22 419,00 USD** (Twenty-two thousand four hundred nineteen dollars). Q8-расчёт проставлен сразу: costFormula = 22 419,00 + 0,3% + 30 = 22 516,26 USDT; sent_usdt = 22 516,26. Клиент — Condor Andino (Цветы) (та же серия: инвойс №329 dd 04.09.2026, row 17). Совпадений по 22 419,00 / 332 / CONDOR ANDINO в 5 таблицах нет. | 🟢 21.09.2026 (📨 ПП компании Q8, файл «22419.00.pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate**: Transaction ID **O2101933321666822144826**, Payment Time 2026-09-21 15:15:30, Payer **Q8 GROUP LIMITED**, Payee **CONDOR ANDINO SAS** (счёт 55700015652, BANCOLOMBIA), **USD 22 419,00**, Remarks «Invoice 332 DD 18 09 2026 For Flowers». Исполнение (Тип 7, Q8) → строка ⬜→🟢.",
     "calc": null
+  },
+  {
+    "row": 55,
+    "date": "2026-09-22",
+    "sum": 37021.09,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "DBA Euro Plants (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
