@@ -1282,5 +1282,24 @@
     "sent_usdt": 130868.09,
     "notes": "📄 22.09.2026 (📨 Молодёжь, файл «Invoice 21.9.26 Agaro-Q8 130446.75 usd.pdf», скан) — **INVOICE № 9-4/1 dd 21-9-2026**: **AGARO COIN AUCTION, S.L.** (17220, Spain, Sant Feliu de Guíxols - Girona, Calle Agaro, num 89; info@agarosl.com; BBVA — Banco Bilbao Vizcaya Argentaria S.A., C/Sauceda 28, IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX) → **Q8 GROUP LIMITED** (Hong Kong). Lot 1 «Lots of Foreign world and roman coins», **130 446,75 USD** (VAT 0%, shipping 0, Total USD 130 446,75). Компания **Q8**, клиент **ИП Зольников (Молодёжь)** — серия AGARO (№9 → row 13, №9-2 → row 40, №9-3 → row 41, №9-4/2 → row 66). Q8-расчёт сразу: 130 446,75 + 0,3% + 30 = 130 868,09 USDT. ⚠️ Заявка/ордер под инвойс ещё не пришли. | 📄 22.09.2026 (📨 Молодёжь, файл «Платежное поручение agaro 130 446.75 usd.docx») — платёжный ордер к инвойсу **№9-4/1 dd 21.09.2026**: AMOUNT **130 446,75 USD**, CURRENCY USD; BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, Spain Sant Feliu de Guíxols (Girona), Calle Agaro, num 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK **Banco Bilbao Vizcaya Argentaria s.a.** (c/sauceda 28); SWIFT **bbvaesmmxxx**; PAYMENT DETAILS «PAYMENT BY INVOICE NO. 9-4/1 DD 21.09.2026». Сумма и реквизиты совпадают со строкой — заявка оформлена, цвет не меняю.",
     "calc": null
+  },
+  {
+    "row": 68,
+    "date": "2026-09-22",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Архимед (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
