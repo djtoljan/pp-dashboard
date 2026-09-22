@@ -1610,7 +1610,7 @@
     "sum": 20037.6,
     "currency": "EUR",
     "company": "PRIME FOOD",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Неско (ЭТБ)",
     "costFormula": "(20 037,60 EUR → 22 986,15 USD) 22986.15/0.9965+100 = 23167 USDT",
     "extra": null,
