@@ -2401,6 +2401,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 22.09.2026 (📨 Платежи VDX, подпись «**Payment from  ❗️**» — компания-плательщик в сообщении НЕ указана) — **ордер на платёж**: Beneficiary **ACCESS MOROCCO** (122 Bd d’Anfa, Casablanca 20250, Morocco); Beneficiary Bank **BMCE BANK** (73 Avenue des Far, Casablanca, Morocco), SWIFT **BMCEMAMC**, счёт **MA64 011780 0000332100008965 64**; Payment details **INV.2026575-2 dd 21/09/2026**; Amount **50 000,00 EUR**; OUR. Вложенный **PROFORMA № 2026575-2 dd 21/09/2026** (Client Account 2757): позиция **GRP SVL** — «Travel services on the program, 21-25/09/2026 (2nd deposit)», **50 000,00 EUR** (GRAND TOTAL EURO 50 000,00). Клиент строки — **VDX** (канал 📨 Платежи VDX). ⚠️ Компания-плательщик не названа → Step 0 🔴, жду заявку. Пометка в сообщении Scream: «ДЕМЛИНК АТЛАС 62833,62+4833355,00».",
+    "calc": null
+  },
+  {
+    "row": 127,
+    "date": "2026-09-22",
+    "sum": 26245,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
