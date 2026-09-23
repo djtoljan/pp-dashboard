@@ -386,15 +386,15 @@
     "company": null,
     "color": "FFFF0000",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "10 000 + 0,3% + 30 = 10 060 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 23.09.2026 (📨 Константин Просто Группа, файл «10.000 USD (23.09.26).xlsx» — бланк заявки) — **Заявка (Application) на платёж 10 000,00 USD** → Beneficiary **Esscalate Cosmetics (Hong Kong) Limited** (Unit 5, 2/F International Plaza, 20 Sheung Yuet Road, Kowloon Bay, Hong Kong); банк **The Bank of East Asia, Limited** (10 Des Voeux Road, HONG KONG), SWIFT **BEASHKHH**, счёт **25668209962**; Purpose «for cosmetic products»; **Invoice PI26082601** (та же проформа, что и строка 11 — отдельный платёж/частичная оплата той же PI). Валюта USD. Клиент — **Константин (Просто группа)**. Компания-плательщик в заявке не названа → **🔴 (Step 0)**. Компания по прецеденту косметик-заявок — возможно **Q8** (как row 11), уточнить у Scream.",
-    "calc": null
+    "received_usdt": 10200,
+    "sent_usdt": 10060,
+    "notes": "📄 23.09.2026 (📨 Константин Просто Группа, файл «10.000 USD (23.09.26).xlsx» — бланк заявки) — **Заявка (Application) на платёж 10 000,00 USD** → Beneficiary **Esscalate Cosmetics (Hong Kong) Limited** (Unit 5, 2/F International Plaza, 20 Sheung Yuet Road, Kowloon Bay, Hong Kong); банк **The Bank of East Asia, Limited** (10 Des Voeux Road, HONG KONG), SWIFT **BEASHKHH**, счёт **25668209962**; Purpose «for cosmetic products»; **Invoice PI26082601** (та же проформа, что и строка 11 — отдельный платёж/частичная оплата той же PI). Валюта USD. Клиент — **Константин (Просто группа)**. Компания-плательщик в заявке не названа → **🔴 (Step 0)**. Компания по прецеденту косметик-заявок — возможно **Q8** (как row 11), уточнить у Scream. | 💰 23.09.2026 (Scream: «Под 10000» — приход под эту заявку) — **Bobr IN 10 200,0 USDT** от `TX6kQeaQsy6bhGyHkuwKyYwodRDXtmYcP9` → Рабочий 4 (23.09.2026 10:27:42 UTC); леджер `IN_10200_23.09.2026_1790159447111`, `q9_sent=true`, txid `35b24609f215c23d2e7969255cda23fa9098b0875210347dc204da711cad0247`, клиент Константин (Просто группа). Проставлено: `received_usdt` = 10 200; расчёт `10 000 + 0,3% + 30 = 10 060 USDT` → `sent_usdt` = 10 060 (по аналогии с row 9, та же заявка 10 000 USD). Цвет не меняю (USDT-движение цвет не меняет).",
+    "calc": "ТЕЗ"
   }
 ]
