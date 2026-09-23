@@ -1237,7 +1237,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 28533.58,
-    "notes": null,
+    "notes": "📄 23.09.2026 (📨 Цветы; файлы «DBA 24 718,55.pdf» — Proforma-Rechnung + «DBA 24 718,55.docx» — тот же документ) — **Proforma-RECHNUNG Nr. DBA23092026/01 dd 23.09.2026**: продавец **DBA Euro Plants GmbH** (Trankeweg 8, 15517 Fürstenwalde/Spree, Deutschland; Steuer-Nr. 06111105403, USt-IdNr. DE369987532, HRB 20685 FF, EORI DE544403072924421; директор Dainė Baumilė) → покупатель **Q8 Group Limited** (Reg. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Payment for the plants according the contract no. 26.07.31/01 — **24 718,55 EUR** (MwST 0%). Банк **REVOLUT**, IBAN **LT193250010460027222**, SWIFT **REVOLT21**. Компания известна сразу (Q8) → строка ⬜ (Step 3). Q8-расчёт: **24 718,55 / 0,869810361361 + 0,3% + 30 = 28 533,58 USDT**; кросс-курс EUR→USD = 1 USD = 0,869810361361 EUR (FX Q8 22.09.2026 — последний известный; при свежем FX Q8 обновить). sent_usdt проставлен сразу (Q8-гард).",
     "calc": null
   }
 ]
