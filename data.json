@@ -2726,5 +2726,24 @@
     "sent_usdt": null,
     "notes": "💸 23.09.2026 (📨 Отправки рублей ПП.) — с **Блэкшарк (ПОЧТОБАНК) на ВИДИКС (VDX)**: сумма **29 847 094,67 ₽**, назначение «**за полимерные материалы**», **заявка 790**, клиент **ИП Лукин**; доки `O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\ИП ЛУКИН\\вход 23.09.26`. Проставлено: `sent_rubles_vdx` = 29 847 094,67 (VDX), `exchange_to` = VDX. 🔵 — совпадений по «Лукин» / 29 847 094,67 в 5 таблицах нет; ждём заявку/инвойс и компанию-плательщика. Маркер: ПП на VDX №? (номер не указан, ждём документ; заявка 790).",
     "calc": null
+  },
+  {
+    "row": 144,
+    "date": "2026-09-23",
+    "sum": 45248.55,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": "45 248,55 + 0,3% + 30 = 45 414,30 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 45414.3,
+    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**», файл «PROFORMA + GLAVA DOB KODA_26-010-001020.pdf») — **ордер на платёж**: Beneficiary **LOREX** (Stegne 33, 1000 Ljubljana, Slovenia); банк **UniCredit Banka Slovenija d.d.** (Ameriska ulica 2, 1000 Ljubljana, Slovenia), SWIFT **BACXSI22XXX**, счёт **SI56290000003240627**; Payment details «**Inv 26-010-001020 dd 14.09.2026**»; Amount **45 248,55 EUR**; **OUR**. Приложение — **PROFORMA 26-010-001020 от 14.09.2026** (Buyer/Delivery: **LEO SPOT CAPITAL PT**, BILIQ Sunset Office Space, Ruko Sunset Indah II No.10, Kuta, Badung, Bali, Indonesia). Компания (E) = **Q8** (подпись «Payment from Q8»). Расчёт Q8 сразу: `45 248,55 + 0,3% + 30 = 45 414,30 USDT`. Клиент — **VDX** (группа 📨 Платежи VDX). Совпадений по 45 248,55 / LOREX / 26-010-001020 в 5 таблицах нет.",
+    "calc": "ТЕЗ"
   }
 ]
