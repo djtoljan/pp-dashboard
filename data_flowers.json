@@ -1258,5 +1258,24 @@
     "sent_usdt": 17326.87,
     "notes": "📄 23.09.2026 (📨 Цветы; файлы «Invoice_Dolina_Agro_Q8_EUR_15000_23-09-2026.pdf» — INVOICE + «Dolina Agro Ltd 15000 …» — заявка-перевод на те же реквизиты) — **INVOICE DA-230926-01 dd 23.09.2026**: продавец **Dolina Agro Ltd** (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) → покупатель **Q8 Group Limited** (Reg. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Розы EXPLORER/FREEDOM/PINK FLOYD/WHITE CHOCOLATE/KAHALA/MONDIAL/LOLA/PALOMA, TOTAL STEMS 55 500, 7–8 box; TOTAL FLOWERS FOB — **15 000,00 EUR** (INCOTERMS EXW, TRUCK INTERFLOWERS). Компания известна сразу (Q8) → строка ⬜ (Step 3). Q8-расчёт: **15 000,00 / 0,869810361361 + 0,3% + 30 = 17 326,87 USDT**; кросс-курс EUR→USD = 1 USD = 0,869810361361 EUR (FX Q8 22.09.2026 — последний известный; при свежем FX обновить). sent_usdt проставлен сразу (Q8-гард).",
     "calc": null
+  },
+  {
+    "row": 67,
+    "date": "2026-09-23",
+    "sum": 40456.79,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": "40 456,79 / 0,869810361361 + 0,3% + 30 = 46 681,73 USDT",
+    "extra": "📄 23.09.2026 (📨 Цветы; файл «Invoice_Atlantic_Avrora_to_Q8_40456_79_EUR_23-Sep-2026.pdf») — **COMMERCIAL INVOICE № AA-Q8-2026-0923 dd 23 September 2026**: продавец **Atlantic Avrora EOOD** (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Director Aleksandrs Rakovskis); покупатель **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); банк **Bulgarian-American Credit Bank** (SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers, assorted, 1 lot = **40 456,79 EUR**. Клиент — **Atlantic Avrora (Цветы)** (clients-db), компания **Q8**. Расчёт Q8: **40 456,79 / 0,869810361361 + 0,3% + 30 = 46 681,73 USDT** (курс — последний известный FX Q8 от 22.09, 1 USD = 0,869810361361 EUR; свежий FX от 23.09 → пересчёт).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 46681.73,
+    "notes": null,
+    "calc": null
   }
 ]
