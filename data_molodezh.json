@@ -1283,5 +1283,24 @@
     "sent_usdt": null,
     "notes": "💸 22.09.2026 (📨 Молодежь, файл «rpp_626.pdf») — **ПП №626 от 22.09.2026, ИСПОЛНЕН 22.09.2026 в 17:07:02** (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411; направлено по системе ДБО; подпись Мельникова Светлана Сергеевна): плательщик **ООО «ВИЛОГ»** (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199) → получатель **ВиДиИкс Сервисез - ФЗКО** (ИНН 9909710068, КПП 712887001, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), сумма **272 800,33 ₽** {VO11100} «За товар по инв. PRM-079-20260901 от 01.09.26, ITK-018-2026-09-16/1 от 21.09.26, ENT-057-SHR-C2C20260918011M от 22.09.26, дог. NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) курс 85,3568. Без НДС». → `sent_rubles_vdx` = 272 800,33 (VDX). 🔵 строка (отправка рублей Вилог → VDX). | 🏷️ 22.09.2026 (📨 Молодежь, файл «rpp_626.pdf») — маркер ПП отправки на VDX: **ПП на VDX №626 от 22.09.2026 (272 800,33 ₽ — Вилог, за товар по инв. PRM-079-20260901, ITK-018-2026-09-16/1, ENT-057)** (Филиал «Центральный» Банка ВТБ (ПАО), ИСПОЛНЕНО 22.09.2026 17:07:02).",
     "calc": null
+  },
+  {
+    "row": 68,
+    "date": "2026-09-23",
+    "sum": 3036491,
+    "currency": "JPY",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Евразия (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 23.09.2026 (📨 Молодежь, файл «INV_MIYOSHI_Q8_3036491_23-09-26.pdf») — **INVOICE & PACKING LIST № MSHY260923-4111** от 23.09.2026: SELLER **MIYOSHI SHOJI** (19-9 Nagahama-cho, Kanda-machi, Miyako-gun, Fukuoka, Japan; тел. +81 97-533-1702) → BUYER **Q8 GROUP LIMITED** (Hong Kong); банк: Account **0861957**, Beneficiary MIYOSHI SHOJI, Beneficiary Bank (Kitakyushu, Fukuoka, Japan), SWIFT **NISIJPJT**; порт отгрузки **HAKATA (Japan)**. Товар: бывшие автозапчасти (NOSE CUT, REAR GATE, TRUNK, RACK AND PINION, DOOR, TIRE WITH WHEEL, FenderPanel, Tail Lamp, FRONT KNUCKLE (HUB), FRONT STRUTT, REAR SHOCK ABSORBER, Arm, DOOR MIRROR, DRIVE SHAFT FRONT, REAR DRUM (HUB) CUT, KEY & KEY CYLINDER, FENDER COVER (LINER), REAR STRUTT, MONITOR, NOSE CUT HEAD LAMP) — 748 ед.; **TOTAL = GRAND TOTAL ¥3 036 491 JPY**. Линия MIYOSHI SHOJI (ср. row 23, контракт MSHY260909-4111 / MSHY260923-4111, Евразия). Компания (E) = **Q8** (покупатель по инвойсу) → ⬜ (Step 3). Q8-расчёт по JPY (`сумма × курс + 0,3% + 30`) — жду курс VDX от владельца. Совпадений по 3 036 491 / MSHY260923-4111 в 5 таблицах нет. | 📄 23.09.2026 (📨 Молодежь, файл «payment order.docx») — **PAYMENT ORDER** от 23/09/2026: AMOUNT **3 036 491**, CURRENCY **JPY**; BENEFICIARY **MIYOSHI SHOJI** (19-9 NAGAHAMA-CHO, KANDA-MACHI, MIYAKO-GUN, FUKUOKA, JAPAN); BENEFICIARY BANK **THE NISHI-NIPPON CITY BANK LTD** (2-5-24 Taharashinmachi, Kokura-minami-ku, Kitakyushu, Fukuoka, Japan), ACCOUNT **0861957**, SWIFT **NISIJPJT**; PAYMENT PURPOSE «Payment for invoice no. **MSHY260923-4111** dated 09.23.2026». ✅ Совпадает с инвойсом и суммой строки.",
+    "calc": null
   }
 ]
