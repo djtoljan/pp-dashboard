@@ -1182,5 +1182,24 @@
     "sent_usdt": 53739.65,
     "notes": "📄 23.09.2026 (📨 Заявки Компания Q8, файл «Inv №FL01220926.pdf») — **INVOICE № FL01/220926 от 22.09.2026** от **ModestoGroup OU** (Reg. code 16203107, K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia; e-mail info@m-flowers.com; IBAN **GB32TCCL04143483461312**, BIC **TCCLGB3L**; банк/платёжный институт **THE CURRENCY CLOUD LIMITED**, 1 Sheldon Square, London, W2 6TT, UK) → Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиции: **AA Kenyan rose mix 47 200,00** + **AA Air logistics services 6 349,00** = **Total USD 53 549,00**. Маркер «Заявки Компания Q8». Клиент — ModestoGroup (Цветы), продолжение серии FL01 (r8 — FL01-020926 50 000 USD; r26 — 50 048 USD). Компания (E) = **Q8** → ⬜ (Step 3). Q8-расчёт проставлен сразу: `53 549,00 + 0,3% + 30 = 53 739,65 USDT`. | 💰 23.09.2026 (Scream: «Под 53549») — заявка закрывается приходом USDT: **Bobr IN 53 970,29 USDT** от `TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM` → Рабочий 4 (23.09.2026 10:53:39 UTC); леджер `IN_53970.29_23.09.2026_1790161043059`, `q9_sent=true`, txid `34b280ff5e001392588893edb10287b5fa0841ba5e5fcd00fdcf36f5c01323f3`. `received_usdt` = 53 970,29.",
     "calc": null
+  },
+  {
+    "row": 63,
+    "date": "2026-09-23",
+    "sum": 12101,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Condor Andino (Цветы)",
+    "costFormula": "12 101,00 + 0,3% + 30 = 12167,30 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 12167.3,
+    "calc": "ТЕЗ",
+    "notes": "📄 23.09.2026 (📨 Заявки Компания Q8, файл «INVOICE 333 Q8 GROUP LIMITED.pdf») — **INVOICE № 333 dd 23/09/2026**: продавец **CONDOR ANDINO SAS** (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia, тел. (57) 3206668410); покупатель **Q8 Group Limited** (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: **FRESH CUT HYDRANGEAS** (QB), 125 boxes × 30 stems = **15 126 tallos**, $0,80/stem → **TOTAL $ 12 101,00 USD**. Банк: **BANCOLOMBIA** (CLL 10 # 8-48, La Unión, Ant., Col.; счёт **55700015652**, SWIFT **COLOCOBM**). Компания-плательщик **Q8** (bill-to Q8 Group Limited) → Step 3 ⬜; Q8-расчёт сразу: `12 101,00 + 0,3% + 30 = 12 167,30 USDT` (sent_usdt). Совпадений по 12 101 / CONDOR ANDINO 333 в 5 таблицах нет — новая заявка (следующая после инвойсов 329/332)."
   }
 ]
