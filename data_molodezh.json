@@ -1302,5 +1302,25 @@
     "sent_usdt": null,
     "notes": "📄 23.09.2026 (📨 Молодежь, файл «INV_MIYOSHI_Q8_3036491_23-09-26.pdf») — **INVOICE & PACKING LIST № MSHY260923-4111** от 23.09.2026: SELLER **MIYOSHI SHOJI** (19-9 Nagahama-cho, Kanda-machi, Miyako-gun, Fukuoka, Japan; тел. +81 97-533-1702) → BUYER **Q8 GROUP LIMITED** (Hong Kong); банк: Account **0861957**, Beneficiary MIYOSHI SHOJI, Beneficiary Bank (Kitakyushu, Fukuoka, Japan), SWIFT **NISIJPJT**; порт отгрузки **HAKATA (Japan)**. Товар: бывшие автозапчасти (NOSE CUT, REAR GATE, TRUNK, RACK AND PINION, DOOR, TIRE WITH WHEEL, FenderPanel, Tail Lamp, FRONT KNUCKLE (HUB), FRONT STRUTT, REAR SHOCK ABSORBER, Arm, DOOR MIRROR, DRIVE SHAFT FRONT, REAR DRUM (HUB) CUT, KEY & KEY CYLINDER, FENDER COVER (LINER), REAR STRUTT, MONITOR, NOSE CUT HEAD LAMP) — 748 ед.; **TOTAL = GRAND TOTAL ¥3 036 491 JPY**. Линия MIYOSHI SHOJI (ср. row 23, контракт MSHY260909-4111 / MSHY260923-4111, Евразия). Компания (E) = **Q8** (покупатель по инвойсу) → ⬜ (Step 3). Q8-расчёт по JPY (`сумма × курс + 0,3% + 30`) — жду курс VDX от владельца. Совпадений по 3 036 491 / MSHY260923-4111 в 5 таблицах нет. | 📄 23.09.2026 (📨 Молодежь, файл «payment order.docx») — **PAYMENT ORDER** от 23/09/2026: AMOUNT **3 036 491**, CURRENCY **JPY**; BENEFICIARY **MIYOSHI SHOJI** (19-9 NAGAHAMA-CHO, KANDA-MACHI, MIYAKO-GUN, FUKUOKA, JAPAN); BENEFICIARY BANK **THE NISHI-NIPPON CITY BANK LTD** (2-5-24 Taharashinmachi, Kokura-minami-ku, Kitakyushu, Fukuoka, Japan), ACCOUNT **0861957**, SWIFT **NISIJPJT**; PAYMENT PURPOSE «Payment for invoice no. **MSHY260923-4111** dated 09.23.2026». ✅ Совпадает с инвойсом и суммой строки.",
     "calc": null
+  },
+  {
+    "row": 69,
+    "date": "2026-09-23",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Фри Лайнс Компани",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "238599.76 (VDX)",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "calc": null,
+    "notes": "💸 23.09.2026 (📨 Молодёжь, файл «GTM LINE SIA (1).pdf») — **ПП № 4563 от 23.09.2026 ИСПОЛНЕНО** (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545; отметка «Проведено: 23.09.2026»): плательщик **АО «Фри Лайнс Компани»** (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ, БИК 044525555), сумма **238 599,76 ₽**; назначение {VO21100} «подлежащие переч-ию для GTM LINE SIA Payment for under invoice №26-GT515 dd 06.08.2026, Contract № 6042020 dd 06.04.2020, по аген. дог № 09-02-3/26 от 09.02.26», НДС не облагается. Маркер: **ПП на VDX №4563 от 23.09.2026 (238 599,76 ₽ — GTM LINE SIA, тело)**. ⚠️ заявки/поручения нет — 🔵 отправка на VDX без заявки, ждём заявку и компанию. Курс VDX не получен — ждём VDX-таблицу.",
+    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   }
 ]
