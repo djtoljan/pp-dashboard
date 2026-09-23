@@ -1197,9 +1197,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 12273.6,
     "sent_usdt": 12167.3,
     "calc": "ТЕЗ",
-    "notes": "📄 23.09.2026 (📨 Заявки Компания Q8, файл «INVOICE 333 Q8 GROUP LIMITED.pdf») — **INVOICE № 333 dd 23/09/2026**: продавец **CONDOR ANDINO SAS** (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia, тел. (57) 3206668410); покупатель **Q8 Group Limited** (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: **FRESH CUT HYDRANGEAS** (QB), 125 boxes × 30 stems = **15 126 tallos**, $0,80/stem → **TOTAL $ 12 101,00 USD**. Банк: **BANCOLOMBIA** (CLL 10 # 8-48, La Unión, Ant., Col.; счёт **55700015652**, SWIFT **COLOCOBM**). Компания-плательщик **Q8** (bill-to Q8 Group Limited) → Step 3 ⬜; Q8-расчёт сразу: `12 101,00 + 0,3% + 30 = 12 167,30 USDT` (sent_usdt). Совпадений по 12 101 / CONDOR ANDINO 333 в 5 таблицах нет — новая заявка (следующая после инвойсов 329/332)."
+    "notes": "📄 23.09.2026 (📨 Заявки Компания Q8, файл «INVOICE 333 Q8 GROUP LIMITED.pdf») — **INVOICE № 333 dd 23/09/2026**: продавец **CONDOR ANDINO SAS** (NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia, тел. (57) 3206668410); покупатель **Q8 Group Limited** (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: **FRESH CUT HYDRANGEAS** (QB), 125 boxes × 30 stems = **15 126 tallos**, $0,80/stem → **TOTAL $ 12 101,00 USD**. Банк: **BANCOLOMBIA** (CLL 10 # 8-48, La Unión, Ant., Col.; счёт **55700015652**, SWIFT **COLOCOBM**). Компания-плательщик **Q8** (bill-to Q8 Group Limited) → Step 3 ⬜; Q8-расчёт сразу: `12 101,00 + 0,3% + 30 = 12 167,30 USDT` (sent_usdt). Совпадений по 12 101 / CONDOR ANDINO 333 в 5 таблицах нет — новая заявка (следующая после инвойсов 329/332). | 🟢 23.09.2026 (📨 DM: @BobrAlertsBot) — **ВХОД 12 273,6 USDT** на Рабочий 4 (`TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri`) от `TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4`, 23.09.2026 16:05:12 UTC (txid `15d2e304e80ee05aff5f33c5f9bc28a61126d2cfa59566cb796ea6c091551a79`). Закрывает заявку Condor Andino (инвойс №333, 12 101,00 USD) — подтверждено владельцем Scream 23.09.2026 («под 12 101,00»). → `received_usdt` = 12 273,6. Q9 отправлен (🟢 ВХОД), леджер записан (q9_sent=true)."
   }
 ]
