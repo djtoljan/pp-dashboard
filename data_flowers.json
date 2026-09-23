@@ -1315,5 +1315,24 @@
     "sent_usdt": 5045,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 70,
+    "date": "2026-09-23",
+    "sum": 4000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "LA COMUNIÓN FLOWERS S.A.S. (Цветы)",
+    "costFormula": "4 000,00 + 0,3% + 30 = 4 042,00 USDT",
+    "extra": "📄 23.09.2026 (📨 Цветы; файл «img093.pdf» — скан без текстового слоя, читал вижном) — **INVOICE 0395, FECHA 22/09/2026**: продавец **LA COMUNIÓN FLOWERS S.A.S.** (NIT 900.861.245-6, REGIMEN COMUN, lacomunionflower@gmail.com; Vereda La Almería La Unión (Ant), Colombia); покупатель — Q8 Group Limited (в шапке инвойса строка «CVETOCHNIY BROKER»); банк **BANCOLOMBIA S.A.S.** (Carrera 48#26-85, Medellín, Colombia), **SWIFT COLOCOBM**, счёт **55751598731**. HYDRANGEA PREMIUM ASSORTED: 220 QB/35 tallos + 10 QB/30 tallos = 230 QB / 8000 tallos, итог **$4,000.00**. Клиент — **LA COMUNIÓN FLOWERS S.A.S. (Цветы)** (добавлен в clients-db, группа Цветы), компания **Q8**. Расчёт Q8: **4 000,00 + 0,3% + 30 = 4 042,00 USDT** (sent_usdt проставлен сразу).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 4042,
+    "notes": null,
+    "calc": null
   }
 ]
