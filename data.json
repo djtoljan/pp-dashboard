@@ -2201,7 +2201,7 @@
     "sum": 30200,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ВТС",
     "costFormula": "30 200,00 + 0,3% + 30 = 30 320,6 USDT",
     "extra": null,
