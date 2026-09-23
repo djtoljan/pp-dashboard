@@ -204,7 +204,7 @@
     "vdx_rate": null,
     "received_usdt": 19728.66,
     "sent_usdt": 19619.59,
-    "notes": "Создана 09.09.2026 по заявке (xlsx 19531_USD_09.09.2026, 📨 Константин Просто Группа): 19 531,00 USD → Esscalate Cosmetics (HK) Limited, BEA Bank BEASHKHH a/c 25668209962, для cosmetic products, инвойс PI26082601. Компания Q8 по прецеденту косметик-заявок Константина (rows 8/9 — «Платит Q8»); если не Q8 — поправить. costFormula (Q8): 19 531 + 0,3% + 30 = 19 619,59 USDT → sent_usdt = 19619.59. Строка ⬜ — ждём IN USDT/подтверждение. | Инвойс PI26082601 dd 08.09.2026 (Esscalate Cosmetics (HK) Limited → Q8 GROUP LIMITED, 18/F The Center, 99 Queen's Road Central, HK): GREYMY Shine Shampoo/Conditioner 800/200/50ML (6 поз., 80 000 pcs), Ex-work Huizhou, Total ¥728 500,00; 50% deposit USD 54 775,00 + 50% balance перед отгрузкой. Beneficiary: ESSCALATE COSMETICS (HONG KONG) LIMITED, The Bank of East Asia (10 Des Voeux Road), BEASHKHH, a/c 25668209962 (HKD/USD/CNY). 📨 Константин Просто Группа «Платит Q8» (09.09) — компания Q8 подтверждена ✓. Заявка на платёж 19 531 USD = часть/транш по инвойсу (депозит 50% = 54 775 USD — сверка сумм уточняется). | IN 09.09.2026 11:49:51 UTC (Bobr Alert, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri): 19 728,66 USDT от TX6kQeaQsy6bhGyHkuwKyYwodRDXtmYcP9 (кошелёк Константин Просто Группа, прецедент row 8) под заявку 19 531 USD Esscalate (Q8). received_usdt = 19728.66 (≈ sent 19 619,59 + 109,07 запас). Q9 отправлен, леджер IN_19728.66 (q9:true). | BONBILL Payment Certificate 10.09.2026 13:47:32 (Тип 7 Q8, txid O2097924915746439168732): Q8 GROUP LIMITED → Esscalate Cosmetics (Hong Kong) Limited (THE BANK OF EAST ASIA, LIMITED, BEASHKHH, счёт 25668209962). USD 19 531,00. Invoice PI26082601 DD 08092026 For Cosmetic. EXECUTED → 🟢.",
+    "notes": "Создана 09.09.2026 по заявке (xlsx 19531_USD_09.09.2026, 📨 Константин Просто Группа): 19 531,00 USD → Esscalate Cosmetics (HK) Limited, BEA Bank BEASHKHH a/c 25668209962, для cosmetic products, инвойс PI26082601. Компания Q8 по прецеденту косметик-заявок Константина (rows 8/9 — «Платит Q8»); если не Q8 — поправить. costFormula (Q8): 19 531 + 0,3% + 30 = 19 619,59 USDT → sent_usdt = 19619.59. Строка ⬜ — ждём IN USDT/подтверждение. | Инвойс PI26082601 dd 08.09.2026 (Esscalate Cosmetics (HK) Limited → Q8 GROUP LIMITED, 18/F The Center, 99 Queen's Road Central, HK): GREYMY Shine Shampoo/Conditioner 800/200/50ML (6 поз., 80 000 pcs), Ex-work Huizhou, Total ¥728 500,00; 50% deposit USD 54 775,00 + 50% balance перед отгрузкой. Beneficiary: ESSCALATE COSMETICS (HONG KONG) LIMITED, The Bank of East Asia (10 Des Voeux Road), BEASHKHH, a/c 25668209962 (HKD/USD/CNY). 📨 Константин Просто Группа «Платит Q8» (09.09) — компания Q8 подтверждена ✓. Заявка на платёж 19 531 USD = часть/транш по инвойсу (депозит 50% = 54 775 USD — сверка сумм уточняется). | IN 09.09.2026 11:49:51 UTC (Bobr Alert, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri): 19 728,66 USDT от TX6kQeaQsy6bhGyHkuwKyYwodRDXtmYcP9 (кошелёк Константин Просто Группа, прецедент row 8) под заявку 19 531 USD Esscalate (Q8). received_usdt = 19728.66 (≈ sent 19 619,59 + 109,07 запас). Q9 отправлен, леджер IN_19728.66 (q9:true). | BONBILL Payment Certificate 10.09.2026 13:47:32 (Тип 7 Q8, txid O2097924915746439168732): Q8 GROUP LIMITED → Esscalate Cosmetics (Hong Kong) Limited (THE BANK OF EAST ASIA, LIMITED, BEASHKHH, счёт 25668209962). USD 19 531,00. Invoice PI26082601 DD 08092026 For Cosmetic. EXECUTED → 🟢. | 📄 23.09.2026 (📨 Константин Просто Группа, файл «PI26082601GREYMY Formula (USD payment).pdf») — сам инвойс **PI26082601** от 08.09.2026 (Sales Confirmation), продавец **Esscalate Cosmetics (Hong Kong) Limited** (Unit 5, 2/F International Plaza, 20 Sheung Yuet Road, Kowloon Bay, Hong Kong; info@esscalate.com) → Consignee **Q8 GROUP LIMITED** (18/F, The Center, 99 Queen's Road Central, Central, Hong Kong). Товар: **GREYMY Shine Shampoo / Conditioner** (800/200/50 ML, формулы, 6 позиций). Условия: **50% депозита при подтверждении заказа + 50% перед отгрузкой**; Ex-work Huizhou; lead-time 60 дней. Банк **The Bank of East Asia, Limited** (10 Des Voeux Road, Central, HK), SWIFT **BEASHKHH**, счёт **25668209962**. ⚠️ Итог по OCR неоднозначен (позиции читаются как 360 000 + 101 000 + 18 500 + 180 000 + 50 500 + 18 500; строка «50% of deposit USD 54 775.00») — уточнить у Scream, как соотносится с суммой заявки 19 531,00 USD. Строку/цвет не менял (уже 🟢).",
     "calc": null
   },
   {
@@ -358,5 +358,43 @@
     "sent_usdt": 11542,
     "notes": "📄 21.09.2026 (📨 Константин Просто Группа, файл «RCTS_9_936_00_EUR.xlsx») — платёжные реквизиты / ордер: Beneficiary **IK RCTS** (Kengaraga 9-116, Riga, Latvia), счёт **LV05UNLA0050002557002**, банк **AS SEB banka** (Latvia), SWIFT **UNLALV2X**; Details «Payment for invoice No. **KRG-1001** dated 14.07.2026, for sporting goods. Order No. 1001»; Amount **9 936,00 EUR**. Совпадений по 9 936 / KRG-1001 / IK RCTS в 5 таблицах нет. ⚠️ Step 0 — компания-плательщик/заявка ещё не пришли (линия Константин (Просто группа)); расчёт ждёт формулу владельца. | 📄 21.09.2026 (📨 Константин Просто Группа, файл «14.07.26 Kazahstan(Chencon).xls») — **Invoice KRG-1001 dd 14.07.2026** (Order NR.1001): продавец **IK RCTS** (Kengaraga 9-116, Rīga, Latvija; VAT LV40002094405; IBAN LV05UNLA0050002557002, SWIFT UNLALV2X); Sold to **Asia SD Service LLC** (104 Bokonbayeva str., Bishkek, Kyrgyz Republic; INN 00411201510231). Позиции — спортинвентарь (ракетки squash/padel Dunlop/Head/Tecnifibre/Harrow/NOX, струны Ashaway/Harrow/Tecnifibre/Karakal, рюкзаки, грифы, носки, кроссовки Kanso). **Subtotal / Total amount to pay = 21 779 EUR** — оплата частичная (ордер 9 936,00 EUR). | 📄 21.09.2026 (📨 Ордера и Расчеты!, подпись «Payment from VESTORIA❗️»; файл «INV 9 936,00 EUR.pdf») — ордер на платёж: Beneficiary **IK RCTS** (Kengaraga 9-116, Riga, Latvia); Bank **AS SEB banka** (Valdemara iela 13, Riga, LV-1010, Latvia), SWIFT **UNLALV2X**, счёт **LV05UNLA0050002557002**; Payment details «Inv KRG-1001 dd 14.07.2026»; Amount **9 936,00 EUR**; OUR. Компания-плательщик — **VESTORIA**. Компания известна → 🔴→⬜ (Step 3). Расчёт (не-Q8) ждёт формулу владельца. | 💬 21.09.2026 (Scream, 📨 Ордера и Расчеты!): ордер VESTORIA **9 936,00 EUR — ЧАСТИЧНАЯ оплата** по инвойсу KRG-1001 dd 14.07.2026 (итог инвойса **21 779,00 EUR**); остаток 11 843,00 EUR. | 📄 22.09.2026 (📨 Платежные Поручения, файл «VESTORIA_LIMITED_MT93CFTE28004000000000005734092_ef848d12_d42c_4b8f.pdf») — **TRANSACTION CONFIRMATION / PAYOUT (Тип 3 INITIATED)** от 21.09.2026 15:13:29 UTC (Account MT93CFTE28004000000000005734092, Company Name VESTORIA LIMITED): Payer/Recipient **IK RCTS** (IBAN LV05UNLA0050002557002), Ref **Inv KRG-1001**, **-9 936,00 EUR**, Payment type **SEPA**, **Status: INITIATED**. Подтверждение ЗАПУСКА платежа (не исполнения) → 🟡. Ждём EXECUTED → 🟢. | 💰 23.09.2026 (Scream: «почему в строке 19 нет прихода USDT?»): приход USDT был, но в строку не проставлен → `received_usdt` = **11 615,66** (было пусто). Леджер: **IN 11 615,66 USDT**, 21.09.2026 14:10:24 UTC, «Рабочий 4» (TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri) ← `TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5`, txid `9e41dd24d5a92bd6891882be430d26e4ee1ca495d2eda0658f111878dd4ef857` (`IN_11615.66_21.09.2026`, q9_sent=true). Парная выплата по заявке — **OUT 11 541,13 USDT** 21.09.2026 (`OUT_11541.13_21.09.2026_1790001649239`, q9_sent=true); формула себестоимости даёт 11 542 (фактическая выплата 11 541,13). | 🧾 23.09.2026 (Scream: «привести расчёты себестоимости в нормальный вид»): costFormula очищена — убраны лишние пометки/символы; пояснения из формулы: 9 936,00 EUR → 11 401,64 USD, FX 1,14750891.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 20,
+    "date": "2026-09-23",
+    "sum": 70000,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 23.09.2026 (📨 Tez IZ, файл «Vydaná faktura - 20260076-2.pdf») — **Vydaná faktura (выданный счёт-фактура), № 20260076** от 21.09.2026 (Czech, iDoklad): Dodavatel/Supplier **B Proud Company s.r.o.** (Dlouhá 730/35, 110 00 Praha, Česká republika; IČ 06897797, DIČ CZ06897797) → Odběratel/Buyer **PT Surya Bahari Global** (Jalan Tebet Raya No 11G 1, Tebet Barat, Jakarta Selatan, Indonésie). Предмет: продажа легкового автомобиля **Audi A6 LIMO 2.0 TFSI e-hybrid quattro, 220 kW, VIN WAUZZZFN2TN060211** — 62 500,00 + Delivery and logistics services 7 500,00 = **Celkem k úhradě 70 000,00 EUR** (DPH 0%). Datum vystavení 21.09.2026, Datum splatnosti **05.10.2026**, variabilní symbol **20260076**. Банк: 131-3605030257/0100, **IBAN CZ98 0100 0001 3136 0503 0257**, SWIFT **KOMBCZPPXXX** (Komerční banka). Vytiskl Victor Haetchi 23.09.2026. Сумма строки = 70 000,00 EUR. Клиент — **Константин (Просто группа)** (линия **Surya / PT Surya Bahari Global**, см. row 16); компания-плательщик не названа → **🔴 (Step 0)**. ⚠️ Источник — группа **Tez IZ** (не Константин) — уточнить у Scream, если сделка не Константина. Совпадений по 70 000 / Audi A6 / VIN / 20260076 / B Proud в 5 таблицах нет.",
+    "calc": null
+  },
+  {
+    "row": 21,
+    "date": "2026-09-23",
+    "sum": 10000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 23.09.2026 (📨 Константин Просто Группа, файл «10.000 USD (23.09.26).xlsx» — бланк заявки) — **Заявка (Application) на платёж 10 000,00 USD** → Beneficiary **Esscalate Cosmetics (Hong Kong) Limited** (Unit 5, 2/F International Plaza, 20 Sheung Yuet Road, Kowloon Bay, Hong Kong); банк **The Bank of East Asia, Limited** (10 Des Voeux Road, HONG KONG), SWIFT **BEASHKHH**, счёт **25668209962**; Purpose «for cosmetic products»; **Invoice PI26082601** (та же проформа, что и строка 11 — отдельный платёж/частичная оплата той же PI). Валюта USD. Клиент — **Константин (Просто группа)**. Компания-плательщик в заявке не названа → **🔴 (Step 0)**. Компания по прецеденту косметик-заявок — возможно **Q8** (как row 11), уточнить у Scream.",
+    "calc": null
   }
 ]
