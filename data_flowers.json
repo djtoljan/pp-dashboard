@@ -1163,5 +1163,24 @@
     "sent_usdt": 20090,
     "notes": " | 📄 23.09.2026 (📨 Заявки Компания Q8, файл «Invoice_AndesFlowers_corrected_stamp_address.pdf») — **COMMERCIAL INVOICE** **ANDESFLOWERS SPA** (Apoquindo #6410, Of. 605, 7550000, Chile; RUT 78.049.371-2): CONSIGNEE **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); SHIPMENT DATE 21-09-2026; PORT OF LOADING **SCL**, PORT OF DISCHARGE **AMS**; Payment form **COB1**, Sales terms **A FIRME**; описание «**First advance payment for cut peony flower export services**», HS CODE **0603.1930**; **TOTAL 20 000,00 USD**. Банк: **Andesflowers SpA**, **Banco de Credito e Inversiones (BCI)** (Av. El Golf 125, Las Condes, Santiago, Chile), Account **11412186**, SWIFT **CREDCLRM**. ✅ Совпадает с суммой строки (20 000 USD). Строку/цвет не менял (ждём документ исполнения → 🟢).",
     "calc": null
+  },
+  {
+    "row": 62,
+    "date": "2026-09-22",
+    "sum": 53549,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ModestoGroup (Цветы)",
+    "costFormula": "53 549,00 + 0,3% + 30 = 53 739,65 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 53739.65,
+    "notes": "📄 23.09.2026 (📨 Заявки Компания Q8, файл «Inv №FL01220926.pdf») — **INVOICE № FL01/220926 от 22.09.2026** от **ModestoGroup OU** (Reg. code 16203107, K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia; e-mail info@m-flowers.com; IBAN **GB32TCCL04143483461312**, BIC **TCCLGB3L**; банк/платёжный институт **THE CURRENCY CLOUD LIMITED**, 1 Sheldon Square, London, W2 6TT, UK) → Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиции: **AA Kenyan rose mix 47 200,00** + **AA Air logistics services 6 349,00** = **Total USD 53 549,00**. Маркер «Заявки Компания Q8». Клиент — ModestoGroup (Цветы), продолжение серии FL01 (r8 — FL01-020926 50 000 USD; r26 — 50 048 USD). Компания (E) = **Q8** → ⬜ (Step 3). Q8-расчёт проставлен сразу: `53 549,00 + 0,3% + 30 = 53 739,65 USDT`.",
+    "calc": null
   }
 ]
