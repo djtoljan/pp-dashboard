@@ -146,8 +146,11 @@ function build() {
         todayRows.push(entry);
       }
 
-      // 🔵 Рубли пришли, но не отправлены на VDX (включая сегодняшние)
-      if (r.rubles_received && !r.sent_rubles_vdx) {
+      // 🔵 Рубли пришли, но не отправлены на VDX (включая сегодняшние).
+      // 🚨 Исключение: маршрут на ВТБ (перевод собственных средств / покупка валюты) — это НЕ VDX,
+      // такие строки в разделе «Не на VDX» не показываем (прецедент 25.08.2026, Движение 78 r14).
+      const vtbRoute = /ВТБ|VTB/i.test(String(r.exchange_to || ''));
+      if (r.rubles_received && !r.sent_rubles_vdx && !vtbRoute) {
         waitVdx.push(entry);
       }
 
