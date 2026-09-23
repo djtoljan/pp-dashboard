@@ -342,6 +342,25 @@
   },
   {
     "row": 19,
+    "date": "2026-09-17",
+    "sum": 105000,
+    "currency": "USD",
+    "company": "Surya",
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 23.09.2026 (📨 Константин Просто Группа, файл «invoice_page_2.pdf» — стр. 2 инвойса) — **TAX INVOICE № INV/2026/02698-87 от 17/09/2026**: Shipper/Seller **Karam Al Arab General Trading LLC** (Industrial Area 11, Warehouse #5, Sharjah, UAE; TRN 104695189100003); Consignee **PT Surya Bahari Global** (Jalan Tebet Raya No 11G 1, Desa/Kelurahan Tebet Barat, Kec. Tebet, Kota Adm. Jakarta Selatan, DKI Jakarta 12810, Indonesia). Позиции: TIMSS 50 ML EDP PARFUM 37 598 × 1,28 = 51 125,86; MILAN 100 ML EDP PARFUM 11 210 × 4,59 = 53 453,90; DEPO RAF MALZEMESİ 94 × 2,55 = 239,70; SILVAN 25 ML EMPTY BOX 310 × 0,20 = 63,24; TIMSS 50 ML EMPTY BOX 230 × 0,51 = 117,30; SUBTOTAL 100 000,00; **Balance Due $105 000,00** (VAT 0%). Банк: **PT Surya Bahari Global**, Bank Mandiri (Ubud, Jl. Raya Andong No.54, Gianyar, Bali 80571), SWIFT **BMRIIDJA**, счёт USD **1450019194485**. **Step 0 🔴** (новая сделка; компания-плательщик не названа). ⚠️ Отдельный инвойс серии — от строки 16 (INV/2026/02699-97, Balance Due $100 000) отличается номером/датой/суммой. Клиент определён по группе-источнику (Константин Просто Группа).",
+    "calc": null
+  },
+  {
+    "row": 20,
     "date": "2026-09-21",
     "sum": 9936,
     "currency": "EUR",
@@ -360,7 +379,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 20,
+    "row": 21,
     "date": "2026-09-23",
     "sum": 70000,
     "currency": "EUR",
@@ -379,7 +398,7 @@
     "calc": null
   },
   {
-    "row": 21,
+    "row": 22,
     "date": "2026-09-23",
     "sum": 10000,
     "currency": "USD",
@@ -394,7 +413,7 @@
     "vdx_rate": null,
     "received_usdt": 10200,
     "sent_usdt": 10060,
-    "notes": "📄 23.09.2026 (📨 Константин Просто Группа, файл «10.000 USD (23.09.26).xlsx» — бланк заявки) — **Заявка (Application) на платёж 10 000,00 USD** → Beneficiary **Esscalate Cosmetics (Hong Kong) Limited** (Unit 5, 2/F International Plaza, 20 Sheung Yuet Road, Kowloon Bay, Hong Kong); банк **The Bank of East Asia, Limited** (10 Des Voeux Road, HONG KONG), SWIFT **BEASHKHH**, счёт **25668209962**; Purpose «for cosmetic products»; **Invoice PI26082601** (та же проформа, что и строка 11 — отдельный платёж/частичная оплата той же PI). Валюта USD. Клиент — **Константин (Просто группа)**. Компания-плательщик в заявке не названа → **🔴 (Step 0)**. Компания по прецеденту косметик-заявок — возможно **Q8** (как row 11), уточнить у Scream. | 💰 23.09.2026 (Scream: «Под 10000» — приход под эту заявку) — **Bobr IN 10 200,0 USDT** от `TX6kQeaQsy6bhGyHkuwKyYwodRDXtmYcP9` → Рабочий 4 (23.09.2026 10:27:42 UTC); леджер `IN_10200_23.09.2026_1790159447111`, `q9_sent=true`, txid `35b24609f215c23d2e7969255cda23fa9098b0875210347dc204da711cad0247`, клиент Константин (Просто группа). Проставлено: `received_usdt` = 10 200; расчёт `10 000 + 0,3% + 30 = 10 060 USDT` → `sent_usdt` = 10 060 (по аналогии с row 9, та же заявка 10 000 USD). Цвет не меняю (USDT-движение цвет не меняет).",
+    "notes": "📄 23.09.2026 (📨 Константин Просто Группа, файл «10.000 USD (23.09.26).xlsx» — бланк заявки) — **Заявка (Application) на платёж 10 000,00 USD** → Beneficiary **Esscalate Cosmetics (Hong Kong) Limited** (Unit 5, 2/F International Plaza, 20 Sheung Yuet Road, Kowloon Bay, Hong Kong); банк **The Bank of East Asia, Limited** (10 Des Voeux Road, HONG KONG), SWIFT **BEASHKHH**, счёт **25668209962**; Purpose «for cosmetic products»; **Invoice PI26082601** (та же проформа, что и строка 11 — отдельный платёж/частичная оплата той же PI). Валюта USD. Клиент — **Константин (Просто группа)**. Компания-плательщик в заявке не названа → **🔴 (Step 0)**. Компания по прецеденту косметик-заявок — возможно **Q8** (как row 11), уточнить у Scream. | 💰 23.09.2026 (Scream: «Под 10000» — приход под эту заявку) — **Bobr IN 10 200,0 USDT** от `TX6kQeaQsy6bhGyHkuwKyYwodRDXtmYcP9` → Рабочий 4 (23.09.2026 10:27:42 UTC); леджер `IN_10200_23.09.2026_1790159447111`, `q9_sent=true`, txid `35b24609f215c23d2e7969255cda23fa9098b0875210347dc204da711cad0247`, клиент Константин (Просто группа). Проставлено: `received_usdt` = 10 200; расчёт `10 000 + 0,3% + 30 = 10 060 USDT` → `sent_usdt` = 10 060 (по аналогии с row 9, та же заявка 10 000 USD). Цвет не меняю (USDT-движение цвет не меняет). | 📄 23.09.2026 (📨 Константин Просто Группа, файл «105.000USD (23.09.2026).xlsx» — бланк платёжного ордера) — **Платёжный ордер**: Amount **105 000,00 USD**; Beneficiary **PT Surya Bahari Global** (Jalan Tebet Raya No 11G 1, Desa/Kelurahan Tebet Barat, Kec. Tebet, Kota Adm. Jakarta Selatan, Provinsi DKI Jakarta, Kode Pos 12810); Beneficiary`s bank **Bank Mandiri** (Jl. Raya Andong No.54, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia), SWIFT **BMRIIDJA**; Beneficiary`s account **1450019194485 (USD)**; Intermediary bank —; Details of payment «**Payment for Invoice No. INV/2026/02698-87 dated 17/09/2026 – Karam Al Arab General Trading LLC**»; HS Code **3303009000**; Contract date and number: Invoice INV/2026/02698-87 dated 17/09/2026. Signed for and on behalf of the Agent / Subagent. ✅ Совпадает с инвойсом (02698-87) и суммой строки (105 000,00 USD).",
     "calc": "ТЕЗ"
   }
 ]
