@@ -1277,5 +1277,24 @@
     "sent_usdt": 46681.73,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 68,
+    "date": "2026-09-23",
+    "sum": 6000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "SURANDINA DE FLORES (Цветы)",
+    "costFormula": "6 000,00 + 0,3% + 30 = 6 048,00 USDT",
+    "extra": "📄 23.09.2026 (📨 Цветы; файл «Sund_invoice_99583_6000_USD_23-09-2026.pdf» — скан без текстового слоя, читал вижном) — **INVOICE No 99583 dd SEPTEMBER 23, 2026**: продавец **C.I. SURANDINA DE FLORES SAS** (NIT 900.137.094-6, Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia, SURAMERICA; surandina@hotmail.com; бренд «Suramérica Flores»; CARGEX); покупатель **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Country Code CO. HYDRANGEA (premium/select assorted/white/pink/lavender/blue/select pink), 237 boxes / 7 615 tallos, TOTAL VALUE **USD 6 000,00** (FULL EQUIVALENTE 59,25), подпись Gloria Lucia Palacio T. Клиент — **SURANDINA DE FLORES (Цветы)** (clients-db), компания **Q8**. ⚠️ Отдельный инвойс 99583 ≠ инвойс 99582 dd 03.09.2026 (row 12, 5 000 USD, 🟢). Расчёт Q8: **6 000,00 + 0,3% + 30 = 6 048,00 USDT** (sent_usdt проставлен сразу).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 6048,
+    "notes": null,
+    "calc": null
   }
 ]
