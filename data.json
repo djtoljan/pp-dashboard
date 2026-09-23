@@ -2764,5 +2764,24 @@
     "sent_usdt": 15347.56,
     "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**», файл «INV 15 271,74 USD.pdf») — **ордер на платёж**: Beneficiary **OKAR DIS TICARET LIMITED SIRKETI** (BAHCESEHIR 2. KISIM MAH., 50. YIL CAD., AVRUPARK BAHCEKENT D01 NO:71, IC KAPI NO:17, BASAKSEHIR / ISTANBUL); банк **Türkiye Vakiflar Bankası T.A.O**, SWIFT **TVBATR2A**, счёт **TR23 0001 5001 5804 8024 7897 38**; Payment details «**INV 230926 dd 23.09.26**»; Amount **15 271,74 USD**; **OUR**. Приложение — **PROFORMA INVOICE № 230926 от 23.09.2026**: Aluminium digital number plate 1994 × 7,66 = **$15 271,74** (GENERAL DIRECTOR MAHMUT BİLLUR). Компания (E) = **Q8** (подпись «Payment from Q8»); клиент — **VDX** (группа 📨 Платежи VDX). Расчёт Q8 сразу: `15 271,74 + 0,3% + 30 = 15 347,56 USDT`. ⚠️ Прошлый заказ того же поставщика — Main r37 (PROFORMA №090926 от 09.09.2026, 47 010,96 USD) — отдельная сделка.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 146,
+    "date": "2026-09-23",
+    "sum": 14497.5,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
