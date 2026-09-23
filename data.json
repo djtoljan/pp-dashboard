@@ -2650,5 +2650,24 @@
     "sent_usdt": null,
     "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from  ❗️**» — компания-плательщик НЕ названа; файл «INV.AMI 2025-031 18.08.2026.pdf») — **ордер на платёж**: Beneficiary **PENINSULA TOURS TURIZM SEYAHAT ORGANIZATORLUK TICARET VE SANAYI LTD.STI.** (Cumhuriyet Mah. Turgut Özal Bulv. No: 33A, Aydın 09400, Turkey); банк **T. Garanti Bank A.S.** (Adnan Menderes Boulevard Branch, Izmir Bulvarı No: 2, Yeni Dörtyol, Efeler, Aydın, Türkiye), SWIFT **TGBATRISXXX**, счёт **TR71 0006 2001 1380 0009 0893 46**; Payment details «**INV.AMI/2025-031 dd.18/08/2026**»; Amount **30 000,00 EUR**; **OUR**. Клиент строки — **VDX**; компания-плательщик не названа → **🔴 (Step 0)**. Совпадений по 30 000 / PENINSULA TOURS / AMI/2025-031 в 5 таблицах нет.",
     "calc": null
+  },
+  {
+    "row": 140,
+    "date": "2026-09-23",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ФИНИНВЕСТ",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "1379058.95",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 23.09.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf», сформ. 23.09.2026 15:40 GMT+05) — предварительная выписка АО АКИБ «ПОЧТОБАНК» г. Пермь (ОсОО «Блэкшарк Трейд», счёт 40807810100157518600, RUB) за 23.09.2026 (вх. 9 944 251,00; дебет 8 904 863,40; кредит 12 594 020,96; исх. остаток 13 633 408,56): приход от **АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ»** (ИНН 9909705580, счёт 40807810324600000016, БИК 044525411), ПП **№69** {VO60081} **1 379 058,95 ₽** «Оплата по Агентскому Договору. НДС не облагается». → `rubles_received` = 1 379 058,95. 🔵 строка (приход без заявки/маршрута) — ждём отправку (линия Al Safi). Та же выписка подтверждает: кредит №68 2 304 810,51 ₽ (Main r136), №1235 8 671 680,29 ₽ и №1236 238 471,21 ₽ (ООО «ТЕТРА СТРОЙ», Дв.78 r14); дебеты №596 414 486,05 ₽ (VDX, заявка 786), №595 6 185 566,84 ₽ (VDX, заявка 785, цветы), №597 2 304 810,51 ₽ (Al Safi).",
+    "calc": null
   }
 ]
