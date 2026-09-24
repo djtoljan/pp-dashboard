@@ -1420,9 +1420,9 @@
   {
     "row": 75,
     "date": "2026-09-24",
-    "sum": null,
-    "currency": null,
-    "company": null,
+    "sum": 6300,
+    "currency": "CNY",
+    "company": "Alipay",
     "color": "FF4FC3F7",
     "clientName": "Кики",
     "costFormula": null,
@@ -1433,7 +1433,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 24.09.2026 (📨 Молодёжь; текст «прошу оплатить PRM-079-052, 6300 RMB, Кики, Alipay, 吴小琪: 13040881925» + скрин QR) — **заявка на оплату 6 300 RMB через Alipay**; получатель по QR — **Kiki (**琪)** = **吴小琪** (тел. 13040881925); референс **PRM-079-052**. QR-скрин Alipay («推荐使用支付宝 / 打开支付宝[扫一扫]»). Статус 🔵 — новый запрос; клиент/сделка и расчёт себестоимости уточняются у Scream.",
     "calc": null
   }
 ]
