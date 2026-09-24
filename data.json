@@ -2875,6 +2875,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «Hongkong Tour in September. 2026.pdf») — **Payment from TRAVELCOM ❗️** (ордер на платёж): Beneficiary **Motivate China Ltd** (Room 2125, Chang'an Yi, A, Jian Hua South Road, Chao Yang District, Beijing, 100022, P.R.China); bank Agricultural Bank of China Beijing Branch (Beijing, P.R.China), SWIFT **ABOCCNBJ010**, счёт **11190801040005945**; payment details «INV. FR-092126-2 от 14.09.26»; **Amount 10 116,77 USD**; OUR. Вложен заказ «Hongkong Tour in September 2026» (программа тура, цены в CNY/RMB — заказ рамочный, оплата по ордеру). Компания — TRAVELCOM, клиент — VDX. Статус ⬜.",
+    "calc": null
+  },
+  {
+    "row": 152,
+    "date": "2026-09-24",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "НЕЗЛ",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
