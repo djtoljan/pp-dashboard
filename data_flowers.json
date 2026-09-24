@@ -1151,7 +1151,7 @@
     "sum": 20000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Andes Flowers (Цветы)",
     "costFormula": "20 000,00 + 0,3% + 30 = 20 090,00 USDT",
     "extra": null,
@@ -1161,7 +1161,7 @@
     "vdx_rate": null,
     "received_usdt": 20220,
     "sent_usdt": 20090,
-    "notes": " | 📄 23.09.2026 (📨 Заявки Компания Q8, файл «Invoice_AndesFlowers_corrected_stamp_address.pdf») — **COMMERCIAL INVOICE** **ANDESFLOWERS SPA** (Apoquindo #6410, Of. 605, 7550000, Chile; RUT 78.049.371-2): CONSIGNEE **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); SHIPMENT DATE 21-09-2026; PORT OF LOADING **SCL**, PORT OF DISCHARGE **AMS**; Payment form **COB1**, Sales terms **A FIRME**; описание «**First advance payment for cut peony flower export services**», HS CODE **0603.1930**; **TOTAL 20 000,00 USD**. Банк: **Andesflowers SpA**, **Banco de Credito e Inversiones (BCI)** (Av. El Golf 125, Las Condes, Santiago, Chile), Account **11412186**, SWIFT **CREDCLRM**. ✅ Совпадает с суммой строки (20 000 USD). Строку/цвет не менял (ждём документ исполнения → 🟢).",
+    "notes": " | 📄 23.09.2026 (📨 Заявки Компания Q8, файл «Invoice_AndesFlowers_corrected_stamp_address.pdf») — **COMMERCIAL INVOICE** **ANDESFLOWERS SPA** (Apoquindo #6410, Of. 605, 7550000, Chile; RUT 78.049.371-2): CONSIGNEE **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); SHIPMENT DATE 21-09-2026; PORT OF LOADING **SCL**, PORT OF DISCHARGE **AMS**; Payment form **COB1**, Sales terms **A FIRME**; описание «**First advance payment for cut peony flower export services**», HS CODE **0603.1930**; **TOTAL 20 000,00 USD**. Банк: **Andesflowers SpA**, **Banco de Credito e Inversiones (BCI)** (Av. El Golf 125, Las Condes, Santiago, Chile), Account **11412186**, SWIFT **CREDCLRM**. ✅ Совпадает с суммой строки (20 000 USD). Строку/цвет не менял (ждём документ исполнения → 🟢). | ✅ 24.09.2026 (📨 ПП компании Q8, файл «20000.00 (8).pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7): Transaction ID **O2102689733460230144731**, Payment Time **2026-09-23 17:21:13**, Payer **Q8 GROUP LIMITED** → Payee **Andesflowers SpA** (BANCO DE CREDITO E INVERSIONES, счёт **11412186**), **USD 20 000,00**, Transaction Remarks «PrepaidInvoiceRUT780493712DD21092026ForFlowers» = аванс по коммерческому инвойсу Andesflowers SpA (RUT 78.049.371-2) dd 21.09.2026. Реквизиты/сумма совпали. Исполнение подтверждено → ⬜→🟢.",
     "calc": null
   },
   {
