@@ -1406,7 +1406,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "ИП Зольников (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "95 535,99 + 0,3% + 30 = 95 852,60 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -1414,7 +1414,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 24.09.2026 (📨 Молодёжь, файл «Invoice 24.9.26 Agaro-Q8 95 535,99 usd.pdf», скан) — **INVOICE № 9-5/1 dd 24-9-2026**: **AGARO COIN AUCTION, S.L.** (17220, Spain, Sant Feliu De Guíxols - Girona, Calle Agaro, num 89; info@agarosl.com; +34 640 32 56 91; BBVA, IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX) → BILL TO: **Q8 GROUP LIMITED** (Hong Kong). Lot 1: «Lots of Foreign world and roman coins» — **95 535,99 USD** (VAT 0%, shipping 0,00); Total USD 95 535,99. Печать AGARO COIN AUCTION. costFormula = 95 535,99 + 0,3% + 30 = 95 852,60 USDT. | 📄 24.09.2026 (📨 Молодёжь, файл «Платежное поручение agaro 95 535,99usd.docx») — платёжное поручение на оплату: AMOUNT **95 535,99 USD** → BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, Spain, Sant Feliu de Guíxols (Girona), Calle Agaro, num 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK Banco Bilbao Vizcaya Argentaria S.A. (c/Sauceda 28), SWIFT **bbvaesmmxxx**; PAYMENT DETAILS «PAYMENT BY INVOICE NO. 9-5/1 DD 24.09.2026». Соответствует инвойсу № 9-5/1 (эта строка).",
     "calc": null
   }
 ]
