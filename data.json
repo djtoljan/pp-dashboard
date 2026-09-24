@@ -2674,8 +2674,8 @@
     "date": "2026-09-23",
     "sum": 191765.05,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "ВТС",
     "costFormula": null,
     "extra": null,
@@ -2761,7 +2761,7 @@
     "vdx_rate": null,
     "received_usdt": 15418,
     "sent_usdt": 15347.56,
-    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**», файл «INV 15 271,74 USD.pdf») — **ордер на платёж**: Beneficiary **OKAR DIS TICARET LIMITED SIRKETI** (BAHCESEHIR 2. KISIM MAH., 50. YIL CAD., AVRUPARK BAHCEKENT D01 NO:71, IC KAPI NO:17, BASAKSEHIR / ISTANBUL); банк **Türkiye Vakiflar Bankası T.A.O**, SWIFT **TVBATR2A**, счёт **TR23 0001 5001 5804 8024 7897 38**; Payment details «**INV 230926 dd 23.09.26**»; Amount **15 271,74 USD**; **OUR**. Приложение — **PROFORMA INVOICE № 230926 от 23.09.2026**: Aluminium digital number plate 1994 × 7,66 = **$15 271,74** (GENERAL DIRECTOR MAHMUT BİLLUR). Компания (E) = **Q8** (подпись «Payment from Q8»); клиент — **VDX** (группа 📨 Платежи VDX). Расчёт Q8 сразу: `15 271,74 + 0,3% + 30 = 15 347,56 USDT`. ⚠️ Прошлый заказ того же поставщика — Main r37 (PROFORMA №090926 от 09.09.2026, 47 010,96 USD) — отдельная сделка. | 💰 24.09.2026 — фондирование из сводного прихода **338 558,0 USDT** (Bobr IN 24.09.2026 09:50:45 UTC, Рабочий 4, от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2, txid feafdeb856fdebc7775c3ea1a159a4beccad6f98ecb43b267ddf485cb43a18a3); по разнарядке Scream 24.09.2026 доля строки = **15418 USDT**. received_usdt = 15418.",
+    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**», файл «INV 15 271,74 USD.pdf») — **ордер на платёж**: Beneficiary **OKAR DIS TICARET LIMITED SIRKETI** (BAHCESEHIR 2. KISIM MAH., 50. YIL CAD., AVRUPARK BAHCEKENT D01 NO:71, IC KAPI NO:17, BASAKSEHIR / ISTANBUL); банк **Türkiye Vakiflar Bankası T.A.O**, SWIFT **TVBATR2A**, счёт **TR23 0001 5001 5804 8024 7897 38**; Payment details «**INV 230926 dd 23.09.26**»; Amount **15 271,74 USD**; **OUR**. Приложение — **PROFORMA INVOICE № 230926 от 23.09.2026**: Aluminium digital number plate 1994 × 7,66 = **$15 271,74** (GENERAL DIRECTOR MAHMUT BİLLUR). Компания (E) = **Q8** (подпись «Payment from Q8»); клиент — **VDX** (группа 📨 Платежи VDX). Расчёт Q8 сразу: `15 271,74 + 0,3% + 30 = 15 347,56 USDT`. ⚠️ Прошлый заказ того же поставщика — Main r37 (PROFORMA №090926 от 09.09.2026, 47 010,96 USD) — отдельная сделка. | 💰 24.09.2026 — фондирование из сводного прихода **338 558,0 USDT** (Bobr IN 24.09.2026 09:50:45 UTC, Рабочий 4, от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2, txid feafdeb856fdebc7775c3ea1a159a4beccad6f98ecb43b267ddf485cb43a18a3); по разнарядке Scream 24.09.2026 доля строки = **15418 USDT**. received_usdt = 15418. | 💳 24.09.2026 (📨 ПП компании Q8, файл «15271.74.pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2103061036969099264299**, Payment Time **2026-09-24 17:56:38**; плательщик **Q8 GROUP LIMITED** → получатель **OKAR DIS TICARET LIMITED SIRKETI** (счёт **TR230001500158048024789738**, **TURKIYE VAKIFLAR BANKASI T.A.O.**), **USD 15 271,74**; примечание «Invoice230926DD23092026ForAlDigitalNumberPlate». Статус → 🟢 (BONBILL Q8).",
     "calc": "ТЕЗ"
   },
   {
