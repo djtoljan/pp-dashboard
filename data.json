@@ -2542,7 +2542,7 @@
     "sum": 51200,
     "currency": "USD",
     "company": "UK",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "VDX",
     "costFormula": "51 200,00 USD - 20 000,00 (баланс) * 1,0045 + 100 = 31 440 USDT",
     "extra": null,
