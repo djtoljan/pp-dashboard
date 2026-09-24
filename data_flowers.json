@@ -1229,15 +1229,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "DBA Euro Plants (Цветы)",
-    "costFormula": "24 718,55 / 0,869810361361 + 0,3% + 30 = 28 533,58 USDT",
+    "costFormula": "24 718,55 / 0,876078414539 + 0,3% + 30 = 28 329,64 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 28533.58,
-    "notes": "📄 23.09.2026 (📨 Цветы; файлы «DBA 24 718,55.pdf» — Proforma-Rechnung + «DBA 24 718,55.docx» — тот же документ) — **Proforma-RECHNUNG Nr. DBA23092026/01 dd 23.09.2026**: продавец **DBA Euro Plants GmbH** (Trankeweg 8, 15517 Fürstenwalde/Spree, Deutschland; Steuer-Nr. 06111105403, USt-IdNr. DE369987532, HRB 20685 FF, EORI DE544403072924421; директор Dainė Baumilė) → покупатель **Q8 Group Limited** (Reg. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Payment for the plants according the contract no. 26.07.31/01 — **24 718,55 EUR** (MwST 0%). Банк **REVOLUT**, IBAN **LT193250010460027222**, SWIFT **REVOLT21**. Компания известна сразу (Q8) → строка ⬜ (Step 3). Q8-расчёт: **24 718,55 / 0,869810361361 + 0,3% + 30 = 28 533,58 USDT**; кросс-курс EUR→USD = 1 USD = 0,869810361361 EUR (FX Q8 22.09.2026 — последний известный; при свежем FX Q8 обновить). sent_usdt проставлен сразу (Q8-гард).",
+    "sent_usdt": 28329.64,
+    "notes": "📄 23.09.2026 (📨 Цветы; файлы «DBA 24 718,55.pdf» — Proforma-Rechnung + «DBA 24 718,55.docx» — тот же документ) — **Proforma-RECHNUNG Nr. DBA23092026/01 dd 23.09.2026**: продавец **DBA Euro Plants GmbH** (Trankeweg 8, 15517 Fürstenwalde/Spree, Deutschland; Steuer-Nr. 06111105403, USt-IdNr. DE369987532, HRB 20685 FF, EORI DE544403072924421; директор Dainė Baumilė) → покупатель **Q8 Group Limited** (Reg. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Payment for the plants according the contract no. 26.07.31/01 — **24 718,55 EUR** (MwST 0%). Банк **REVOLUT**, IBAN **LT193250010460027222**, SWIFT **REVOLT21**. Компания известна сразу (Q8) → строка ⬜ (Step 3). Q8-расчёт: **24 718,55 / 0,869810361361 + 0,3% + 30 = 28 533,58 USDT**; кросс-курс EUR→USD = 1 USD = 0,869810361361 EUR (FX Q8 22.09.2026 — последний известный; при свежем FX Q8 обновить). sent_usdt проставлен сразу (Q8-гард). | 💱 24.09.2026 (📨 ПП компании Q8, FX-скрин; Scream: «под заявки 24718.55 15000 40456.79») — кросс-курс Q8 **1 USD = 0,876078414539 EUR** (Create FX Exchange 24.09.2026 12:20:23, Sell 91 618 USD → Buy 80 264,55 EUR). Расчёт: `24 718,55 / 0,876078414539 + 0,3% + 30 = 28 329,64 USDT`.",
     "calc": null
   },
   {
@@ -1248,15 +1248,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Dolina Agro (Цветы)",
-    "costFormula": "15 000,00 / 0,869810361361 + 0,3% + 30 = 17 326,87 USDT",
+    "costFormula": "15 000,00 / 0,876078414539 + 0,3% + 30 = 17 203,12 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 17326.87,
-    "notes": "📄 23.09.2026 (📨 Цветы; файлы «Invoice_Dolina_Agro_Q8_EUR_15000_23-09-2026.pdf» — INVOICE + «Dolina Agro Ltd 15000 …» — заявка-перевод на те же реквизиты) — **INVOICE DA-230926-01 dd 23.09.2026**: продавец **Dolina Agro Ltd** (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) → покупатель **Q8 Group Limited** (Reg. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Розы EXPLORER/FREEDOM/PINK FLOYD/WHITE CHOCOLATE/KAHALA/MONDIAL/LOLA/PALOMA, TOTAL STEMS 55 500, 7–8 box; TOTAL FLOWERS FOB — **15 000,00 EUR** (INCOTERMS EXW, TRUCK INTERFLOWERS). Компания известна сразу (Q8) → строка ⬜ (Step 3). Q8-расчёт: **15 000,00 / 0,869810361361 + 0,3% + 30 = 17 326,87 USDT**; кросс-курс EUR→USD = 1 USD = 0,869810361361 EUR (FX Q8 22.09.2026 — последний известный; при свежем FX обновить). sent_usdt проставлен сразу (Q8-гард).",
+    "sent_usdt": 17203.12,
+    "notes": "📄 23.09.2026 (📨 Цветы; файлы «Invoice_Dolina_Agro_Q8_EUR_15000_23-09-2026.pdf» — INVOICE + «Dolina Agro Ltd 15000 …» — заявка-перевод на те же реквизиты) — **INVOICE DA-230926-01 dd 23.09.2026**: продавец **Dolina Agro Ltd** (Israel, P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL, ID 515826436; Bank Leumi, SWIFT LUMIILITXXX, IBAN IL750107440000027660042) → покупатель **Q8 Group Limited** (Reg. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Розы EXPLORER/FREEDOM/PINK FLOYD/WHITE CHOCOLATE/KAHALA/MONDIAL/LOLA/PALOMA, TOTAL STEMS 55 500, 7–8 box; TOTAL FLOWERS FOB — **15 000,00 EUR** (INCOTERMS EXW, TRUCK INTERFLOWERS). Компания известна сразу (Q8) → строка ⬜ (Step 3). Q8-расчёт: **15 000,00 / 0,869810361361 + 0,3% + 30 = 17 326,87 USDT**; кросс-курс EUR→USD = 1 USD = 0,869810361361 EUR (FX Q8 22.09.2026 — последний известный; при свежем FX обновить). sent_usdt проставлен сразу (Q8-гард). | 💱 24.09.2026 (📨 ПП компании Q8, FX-скрин; Scream: «под заявки 24718.55 15000 40456.79») — кросс-курс Q8 **1 USD = 0,876078414539 EUR** (Create FX Exchange 24.09.2026 12:20:23, Sell 91 618 USD → Buy 80 264,55 EUR). Расчёт: `15 000,00 / 0,876078414539 + 0,3% + 30 = 17 203,12 USDT`.",
     "calc": null
   },
   {
@@ -1267,15 +1267,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Atlantic Avrora (Цветы)",
-    "costFormula": "40 456,79 / 0,869810361361 + 0,3% + 30 = 46 681,73 USDT",
+    "costFormula": "40 456,79 / 0,876078414539 + 0,3% + 30 = 46 347,95 USDT",
     "extra": "📄 23.09.2026 (📨 Цветы; файл «Invoice_Atlantic_Avrora_to_Q8_40456_79_EUR_23-Sep-2026.pdf») — **COMMERCIAL INVOICE № AA-Q8-2026-0923 dd 23 September 2026**: продавец **Atlantic Avrora EOOD** (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Director Aleksandrs Rakovskis); покупатель **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); банк **Bulgarian-American Credit Bank** (SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300). Fresh cut flowers, assorted, 1 lot = **40 456,79 EUR**. Клиент — **Atlantic Avrora (Цветы)** (clients-db), компания **Q8**. Расчёт Q8: **40 456,79 / 0,869810361361 + 0,3% + 30 = 46 681,73 USDT** (курс — последний известный FX Q8 от 22.09, 1 USD = 0,869810361361 EUR; свежий FX от 23.09 → пересчёт).",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 46681.73,
-    "notes": null,
+    "sent_usdt": 46347.95,
+    "notes": "💱 24.09.2026 (📨 ПП компании Q8, FX-скрин; Scream: «под заявки 24718.55 15000 40456.79») — кросс-курс Q8 **1 USD = 0,876078414539 EUR** (Create FX Exchange 24.09.2026 12:20:23, Sell 91 618 USD → Buy 80 264,55 EUR). Расчёт: `40 456,79 / 0,876078414539 + 0,3% + 30 = 46 347,95 USDT`.",
     "calc": null
   },
   {
@@ -1370,7 +1370,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 24.09.2026 (📨 Заявки Компания Q8, файл «Invoice_Dolina_Agro_Q8_EUR_33393_24-09-2026 скан.pdf» — скан, читал render + view_image) — INVOICE DA-240926-01 (D 24.09.2026) от DOLINA AGRO LTD (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 Israel; Registration 515826436) → TO: Q8 Group Limited (Company Number 80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong). CURRENCY EUR. Розы (farms DOLINA AGRO; инвойсы DA-240926-01…08; EXPLORER / FREEDOM / PINK FLOYD / WHITE CHOCOLATE / KAHALA / MONDIAL / LOLA / PALOMA), Truck INTERFLOWERS, EXW. TOTAL FLOWERS FOB EUR 33 393,00; COMMISSION / PACKING / INLAND 0,00; TOTAL EUR 33 393,00. Банк: BANK LEUMI LE ISRAEL, IBAN IL750107440000027660042, SWIFT LUMILITXXX (Business Nathanya Branch 744). Заявка клиента Цветов (Q8) → строка ⬜ (Step 3); клиент Dolina Agro (Цветы), компания Q8. | 📄 24.09.2026 (📨 Заявки Компания Q8, файл «Dolina Agro Ltd ĨĒāŪ.docx») — платёжная форма (реквизиты к инвойсу DA-240926-01): AMOUNT / CURRENCY **EUR 33 393,00**; BENEFICIARY **Dolina Agro Ltd** (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL); ACCOUNT **IL750107440000027660042**; SWIFT **LUMIILITXXX**; BANK **BANK LEUMI LE ISRAEL** (Business Nathanya Branch 744); INTERMEDIARY/CORR. — пусто; PAYMENT DETAILS — пусто. ⚠️ SWIFT в форме **LUMIILITXXX** (двойная «I») vs в инвойсе **LUMILITXXX** (одинарная «I») — уточнить. Совпадает по сумме/получателю с инвойсом (эта строка).",
     "calc": null
   }
 ]
