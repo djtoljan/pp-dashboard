@@ -3021,13 +3021,13 @@
     "clientName": "ООО ЕТЕ",
     "costFormula": null,
     "extra": null,
-    "rubles_received": null,
+    "rubles_received": 851000,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 24.09.2026 (📨 ВТС-Fininvest (t191), файл «Поручение 15.pdf») — **ПОРУЧЕНИЕ №15 от 24.09.2026** (Transfer request No 15; Приложение №2 к договору на оказание посреднических услуг №2026/05/29-1 от 29.05.2026): Принципал **ООО «ЕТЕ»** (Сложеникин Н.А.) → Агент **ОсОО «БиТрейд Кей Джи»** (Курьянов А.А.); платёж по инвойсу **VCA2O26000000279 от 22.09.2026**; сумма платежа **10 000,00 USD**; получатель (нерезидент) **CMV LoJiSTiK ULUS. ARS. NAK. iTH. iHR. ruRz. SAN. TiC.LTD. ŞTi** (MERKEZ KULEDiBi MAH. 130. SOK, ASKAR GUVEN PLAZA B, No:3 KAT B/D 30, HOPA/ARTVİN, Turkey); банк **T.VAKIFLAR BANKASI A.Ş**, SWIFT **TVBATR2AXXX**, счёт **TR860001500158048023559420** (Şube HOPA); назначение «Оплата Услуг по инвойсу № VCA2O26000000279 от 22.09.2026»; курс **85,1** → **851 000,00 RUB**; комиссия агента 1,5%; срок 5-10 банковских дней. Рублёвое покрытие — приход ВТБ №4417 от 24.09.2026 (851 000,00 ₽). rubles_received = 851 000,00. Статус 🔴 (Step 0, Поручение). | 📄 24.09.2026 (📨 ВТС-Fininvest (t191), файл «53 FP 051 - 53 K 5888.pdf», скан) — **INVOICE № VCA2026000000279** от 22.09.2026, продавец **CMV LOJİSTİK ULUS.ARS.NAK.İTH.İHR.TURZ.SAN.TİC.LTD.ŞTİ** (Merkez Kuledibi Mah. 130. Sok, Askar Güven Plaza Bina No:3 Kat 8/D 30, Hopa/Artvin; печать CMV LOJİSTİK): Tarih 22.09.2026, Vade 22.09.2026; покупатель **ETE LIMITED LIABILITY COMPANY** (117246, Москва, Научный проезд, д. 17, кв. 37/15); позиция «TÜRKİYE RUSYA (53 FP 051 / 53 K 5888)» — 1 ad × $10 000,00 — **$10 000,00** (KDV 0%); Net/Toplam **$10 000,00**; **851 000,00 RUR**; основание «TÜRKİYE KAYSERİ YÜKLEME RUSYA NAKLİYE BEDELİ» (перевозка Турция/Кайсери → Россия). Банк **T.VAKIFLAR BANKASI A.Ş** (VAKIFBANK USD TR860001500158048023559420, Şube HOPA), SWIFT TVBATR2AXXX. Основание Поручения №15.",
     "calc": null
   }
 ]
