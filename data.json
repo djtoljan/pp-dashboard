@@ -2637,7 +2637,7 @@
     "sum": 30000,
     "currency": "EUR",
     "company": "UK",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "30 000,00 / 0,8754 * 1,0045 + 100 = 34 524 USDT",
     "extra": null,
