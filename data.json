@@ -2732,7 +2732,7 @@
     "sum": 45248.55,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "45 248,55 / 0,876149102106 + 0,3% + 30 = 51 829,74 USDT",
     "extra": null,
