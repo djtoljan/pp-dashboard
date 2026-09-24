@@ -1334,5 +1334,24 @@
     "sent_usdt": 4042,
     "notes": "null | 📄 23.09.2026 (📨 Цветы; файл «Выписка по счёту LA COMMUNION 21-09-2026.doc» — старый CFB-Word, читал через Word COM→docx) — **форма реквизитов получателя** (Application for transfer к инвойсу 0395): Beneficiary **LA COMUNION FLOWERS S.A.S.** (Carrera 5A#9-50, postcode 055020, La Unión Antioquia, Colombia); банк **BANCOLOMBIA S.A.S.** (Carrera 48#26-85, Medellín), **SWIFT COLOCOBM**, счёт **55751598731**; сумма **4000$**. Строку НЕ создавал — уточняющий документ к r70 (сумма 4000 = инвойсу, реквизиты сверены).",
     "calc": null
+  },
+  {
+    "row": 71,
+    "date": "2026-09-24",
+    "sum": 15000,
+    "currency": "USD",
+    "company": "LEO",
+    "color": "FFFFFFFF",
+    "clientName": "UNIFLOR (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
