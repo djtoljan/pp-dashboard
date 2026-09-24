@@ -1208,7 +1208,7 @@
     "sum": 7000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "KINGDOM FLOWERS SAS (Цветы)",
     "costFormula": "7 000,00 + 0,3% + 30 = 7 051,00 USDT",
     "extra": null,
@@ -1218,7 +1218,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 7051,
-    "notes": "📄 23.09.2026 (📨 Цветы; файлы «KINGDOM FLOWERS SAS 7000.docx» — заявка Q8 + «KINGDOM FLOWERS SAS 7000.pdf» — **INVOICE № 320 / ADVICE 11 dd 11/09/2026**): BENEFICIARY **KINGDOM FLOWERS SAS** (Calle 137 No. 55-42, Bogotá, Colombia; kingdom.flowers@hotmail.com; Reg. number 901036633-6; директор OMAR HUMBERTO GODOY QUINTERO); банк получателя **OCCIDENTAL BANK BARBADOS LTD** (CHELSEA HOUSE, CHELSEA ROAD, ST. MICHAEL, BB14022 BARBADOS), SWIFT **OCCIBBBB**, счёт **505471**; банк-корреспондент **CITIBANK, N.A.**, SWIFT **CITIUS33**, счёт **021000089**; назначение «**Payment for plants Invoice number 320/ADV from 11/09/2026**»; сумма **7 000,00 USD** (инвойс: CARNATION RED/ASSORTED, HIDRANGEA ASSORTED, FOB BOGOTA; AWB 045-550828 CEVB 2307367, LAN AIRLINES, 950,00 kg; 28 мест / 33 full boxes / 29 060 units). Клиент — **KINGDOM FLOWERS SAS (Цветы)** (clients-db, группа Цветы), компания **Q8**. ⚠️ Инвойс **320/ADV от 11.09.2026** ≠ инвойс строки 41 (**318/ADV от 04.09.2026**, уже 🟢/BONBILL) — отдельная заявка. Расчёт Q8: **7 000,00 + 0,3% + 30 = 7 051,00 USDT** (sent_usdt проставлен сразу, Q8-гард).",
+    "notes": "📄 23.09.2026 (📨 Цветы; файлы «KINGDOM FLOWERS SAS 7000.docx» — заявка Q8 + «KINGDOM FLOWERS SAS 7000.pdf» — **INVOICE № 320 / ADVICE 11 dd 11/09/2026**): BENEFICIARY **KINGDOM FLOWERS SAS** (Calle 137 No. 55-42, Bogotá, Colombia; kingdom.flowers@hotmail.com; Reg. number 901036633-6; директор OMAR HUMBERTO GODOY QUINTERO); банк получателя **OCCIDENTAL BANK BARBADOS LTD** (CHELSEA HOUSE, CHELSEA ROAD, ST. MICHAEL, BB14022 BARBADOS), SWIFT **OCCIBBBB**, счёт **505471**; банк-корреспондент **CITIBANK, N.A.**, SWIFT **CITIUS33**, счёт **021000089**; назначение «**Payment for plants Invoice number 320/ADV from 11/09/2026**»; сумма **7 000,00 USD** (инвойс: CARNATION RED/ASSORTED, HIDRANGEA ASSORTED, FOB BOGOTA; AWB 045-550828 CEVB 2307367, LAN AIRLINES, 950,00 kg; 28 мест / 33 full boxes / 29 060 units). Клиент — **KINGDOM FLOWERS SAS (Цветы)** (clients-db, группа Цветы), компания **Q8**. ⚠️ Инвойс **320/ADV от 11.09.2026** ≠ инвойс строки 41 (**318/ADV от 04.09.2026**, уже 🟢/BONBILL) — отдельная заявка. Расчёт Q8: **7 000,00 + 0,3% + 30 = 7 051,00 USDT** (sent_usdt проставлен сразу, Q8-гард). | ✅ 24.09.2026 (⚠️ роутинг + Scream: «это все зелёнки») — платёж ИСПОЛНЕН → 🟢.",
     "calc": null
   },
   {
@@ -1303,7 +1303,7 @@
     "sum": 5000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "EXPOFLORES JH S.A.S. (Цветы)",
     "costFormula": "5 000,00 + 0,3% + 30 = 5 045,00 USDT",
     "extra": "📄 23.09.2026 (📨 Цветы; файл «Invoice_0006_5000_USD_23-09-2026.pdf» — скан без текстового слоя, читал вижном) — **INVOICE 0006, FECHA 23/09/2026**: продавец **EXPOFLORES JH SAS** (NIT 901.107.943-1, REGIMEN COMUN, comercial@expoflores.co; Vereda La Amapola finca otra parte, El Retiro, Antioquia, Colombia; тел (574)324 3651164); получатель **LEGAL NAME Q8 Group Limited** (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). HYDRANGEA PREMIUM ASSORTED — 50 ud / 1429 tallos, итог **$5,000.00**. Реквизиты (из сопроводительной формы «Выписка по счёту EXPOFLORES 21-09-2026.doc» и инвойса): **BANCOLOMBIA S.A.S.** (Carrera 48 #26-85, Medellín, Colombia), **SWIFT COLOCOBM**, счёт **02300005295**. Клиент — **EXPOFLORES JH S.A.S. (Цветы)** (clients-db), компания **Q8**. ⚠️ Новый инвойс 0006 dd 23.09 на 5 000 USD ≠ r15 (инвойс 0006 dd 04.09, 10 000 USD, 🟢). Расчёт Q8: **5 000,00 + 0,3% + 30 = 5 045,00 USDT** (sent_usdt проставлен сразу).",
@@ -1313,7 +1313,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 5045,
-    "notes": null,
+    "notes": "✅ 24.09.2026 (⚠️ роутинг + Scream: «это все зелёнки») — платёж ИСПОЛНЕН → 🟢.",
     "calc": null
   },
   {
