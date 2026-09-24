@@ -3010,5 +3010,24 @@
     "sent_usdt": null,
     "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «25081 USD.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **LCI-MTC Group SA** (Route de Beaumont 20, 1700 Fribourg, Switzerland); банк **3S MONEY (LUXEMBOURG) S.A.** (25C Boulevard Royal, L-2449 Luxembourg, Grand Duchy of Luxembourg), SWIFT **MOLULU55**, счёт **LU887160000295106336**; payment details «INV.2Z1GZ4 DD.23.09.2026»; **Amount 25 081,00 USD**; OUR. Клиент — VDX. Статус 🔴 (плательщик не назван). Отдельная сделка от Main r132 (LCI-MTC, 25 094,30 EUR, закрыта) — другой инвойс и сумма.",
     "calc": null
+  },
+  {
+    "row": 159,
+    "date": "2026-09-24",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFF0000",
+    "clientName": "ООО ЕТЕ",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
