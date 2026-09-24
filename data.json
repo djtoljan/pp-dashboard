@@ -2839,5 +2839,24 @@
     "sent_usdt": null,
     "notes": "📄 24.09.2026 (📨 ВТС-Fininvest (t4533), файлы «инвойс услуги Би трейд 76104.pdf» + «Поручение 76104.pdf») — ПОРУЧЕНИЕ №71866 от 24.09.2026 (Transfer request No 71866; Приложение №2 к договору на оказание посреднических услуг №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» (ИНН 7735171132) → Агент ОсОО «БиТрейд Кей Джи»; платёж по инвойсу 76104; получатель (нерезидент) Itrix Co., Ltd. (725 S Metro Building, 20th Floor, Sukhumvit Road, Bangkok, Thailand 10110); банк Siam Commercial Bank PCL, SWIFT SICOTHBK, счёт 468-000094-6-978 (EUR); сумма платежа 12 027,64 EUR; курс 96,90 → 1 165 478,64 RUB; комиссия агента 1,5% + 100 USD. Услуга (Инвойс №71866 от 24.09.2026, ООО «БиТрейд Кей Джи» → ООО «ВТС»): 180,41 EUR + 100 USD → 26 013,09 ₽ (ВТБ, счёт 40807810525640000008).",
     "calc": null
+  },
+  {
+    "row": 150,
+    "date": "2026-09-24",
+    "sum": 18874,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
