@@ -1348,7 +1348,7 @@
     "currency": "CNY",
     "company": "Alipay",
     "color": "FFFFFFFF",
-    "clientName": "Вилог (Молодёжь)",
+    "clientName": "Вилог",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
@@ -1357,7 +1357,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 24.09.2026 (📨 Молодежь — текст + QR AliPay) — просьба оплатить: заказ **ENT-057**, **6 538 RMB (CNY)**, получатель **Моника**; AliPay: 账户名 **沈冲**, номер **13098478200**, QR (аккаунт «沿途 (*冲)»). Компания — **Alipay**; клиент — **Вилог (Молодёжь)** (по прецеденту Alipay-строк Молодёжи; ENT-057 — из серии заказов Вилога, ср. r67). Оплата ещё не проведена. | ✅ 24.09.2026 (📨 Молодежь, Scream: «Вилог») — клиент подтверждён: **Вилог** (как у прежних Alipay-строк Молодёжи).",
     "calc": null
   }
 ]
