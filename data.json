@@ -2970,6 +2970,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «INV demli153.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **PREMIUM GLOBAL TRAVEL TURIZM TIC. LTD. STI** (Yesilbahce Mh. Portakal Cicegi Blvr. Kepez Mehmet Sit. B Block 37/3, ANTALYA, TURKIYE; тел. +90 242 311 0940); банк **AKBANK / LARA SUB. / ANTALYA** (Sabancı Center Levent 4, Istanbul), SWIFT **AKBKTRIS**, EUR IBAN **TR91 0004 6007 1403 6000 2390 23** (EUR-счёт 023 9023); payment details «INV.DEMLI-153 dd.22/09/2026»; **Amount 23 000,00 EUR**; OUR. Вложенный инвойс INV.DEMLI-153 (Tour Operator «PREMIUM TRAVEL», Antalya; в т.ч. VIP TRANSFER 1 000,00 EUR). Клиент — VDX. Статус 🔴 (плательщик не назван).",
+    "calc": null
+  },
+  {
+    "row": 157,
+    "date": "2026-09-24",
+    "sum": 16145,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
