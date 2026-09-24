@@ -2818,7 +2818,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 24.09.2026 (📨 ВТС-Fininvest (t4058), файл «PI - TG271（1200PCS）AKDR20260914xls (1) (1) (2).xls» — legacy .xls, читал через xlrd) — **Proforma Invoice / quotation list, PI No. AKDR20260914**: Seller/From **Shenzhen Chengtai Electronic Technology Co., LTD** (Room 660, 6th Floor, Huafa Building, Zhenxing Road, Huaqiang North Street, Futian District, Shenzhen, Guangdong, China; тел. 0755-29491812; email 865126871@QQ.COM); To/Buyer **Zsource Technology Co., Ltd**. Позиция: **TG271** (蓝牙音箱 / Bluetooth speaker), цвет BLACK, **1200 pcs × 40.7 RMB = 48 840 RMB**, 30 pcs/ctn → 40 ctns, 45.8×37.2×25.0 cm, 1.7 CBM. **Total Amount: 48 840 RMB.** Условия: quotation valid 7 days; **Payment Terms: T/T 100% deposit in advance**; Lead time 1–2 working days. Банк: 中国农业银行深圳富通城支行, A/C NO. **4103-5300-0400-22140**; 税务登记号 91440300MA5FUYQQ4E. | ⚠️ Основание — контракт 购货合同 (China–China, 签名 2026-9-25, 深圳): 需方 (покупатель) = **Z SOURCE** (в бланке пусто), 供方 = Shenzhen Chengtai; условия контракта 30% депозит + 70% остаток (в PI — 100% предоплата). Новая сделка: строка 148 (Main), компания **Z SOURCE**, сумма **48 840 CNY**, ⬜ (Step 3). ⚠️ КЛИЕНТ не определён (группа ВТС-Fininvest) — уточнить у Scream. Совпадений по TG271/Chengtai/AKDR20260914 в 5 таблицах нет.",
     "calc": null
   }
 ]
