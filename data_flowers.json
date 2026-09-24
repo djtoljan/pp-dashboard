@@ -1170,7 +1170,7 @@
     "sum": 53549,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ModestoGroup (Цветы)",
     "costFormula": "53 549,00 + 0,3% + 30 = 53 739,65 USDT",
     "extra": null,
@@ -1180,7 +1180,7 @@
     "vdx_rate": null,
     "received_usdt": 53970.29,
     "sent_usdt": 53739.65,
-    "notes": "📄 23.09.2026 (📨 Заявки Компания Q8, файл «Inv №FL01220926.pdf») — **INVOICE № FL01/220926 от 22.09.2026** от **ModestoGroup OU** (Reg. code 16203107, K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia; e-mail info@m-flowers.com; IBAN **GB32TCCL04143483461312**, BIC **TCCLGB3L**; банк/платёжный институт **THE CURRENCY CLOUD LIMITED**, 1 Sheldon Square, London, W2 6TT, UK) → Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиции: **AA Kenyan rose mix 47 200,00** + **AA Air logistics services 6 349,00** = **Total USD 53 549,00**. Маркер «Заявки Компания Q8». Клиент — ModestoGroup (Цветы), продолжение серии FL01 (r8 — FL01-020926 50 000 USD; r26 — 50 048 USD). Компания (E) = **Q8** → ⬜ (Step 3). Q8-расчёт проставлен сразу: `53 549,00 + 0,3% + 30 = 53 739,65 USDT`. | 💰 23.09.2026 (Scream: «Под 53549») — заявка закрывается приходом USDT: **Bobr IN 53 970,29 USDT** от `TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM` → Рабочий 4 (23.09.2026 10:53:39 UTC); леджер `IN_53970.29_23.09.2026_1790161043059`, `q9_sent=true`, txid `34b280ff5e001392588893edb10287b5fa0841ba5e5fcd00fdcf36f5c01323f3`. `received_usdt` = 53 970,29.",
+    "notes": "📄 23.09.2026 (📨 Заявки Компания Q8, файл «Inv №FL01220926.pdf») — **INVOICE № FL01/220926 от 22.09.2026** от **ModestoGroup OU** (Reg. code 16203107, K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia; e-mail info@m-flowers.com; IBAN **GB32TCCL04143483461312**, BIC **TCCLGB3L**; банк/платёжный институт **THE CURRENCY CLOUD LIMITED**, 1 Sheldon Square, London, W2 6TT, UK) → Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиции: **AA Kenyan rose mix 47 200,00** + **AA Air logistics services 6 349,00** = **Total USD 53 549,00**. Маркер «Заявки Компания Q8». Клиент — ModestoGroup (Цветы), продолжение серии FL01 (r8 — FL01-020926 50 000 USD; r26 — 50 048 USD). Компания (E) = **Q8** → ⬜ (Step 3). Q8-расчёт проставлен сразу: `53 549,00 + 0,3% + 30 = 53 739,65 USDT`. | 💰 23.09.2026 (Scream: «Под 53549») — заявка закрывается приходом USDT: **Bobr IN 53 970,29 USDT** от `TUdMTeHjWZFsTwUJ9YN8hcNpok7Hpc4DsM` → Рабочий 4 (23.09.2026 10:53:39 UTC); леджер `IN_53970.29_23.09.2026_1790161043059`, `q9_sent=true`, txid `34b280ff5e001392588893edb10287b5fa0841ba5e5fcd00fdcf36f5c01323f3`. `received_usdt` = 53 970,29. | 💳 24.09.2026 (📨 ПП компании Q8, файл «53549.00.pdf») — BONBILL LIMITED Payment Certificate: Transaction ID O2103045543776354304528, Payment Time 2026-09-24 16:55:05; плательщик Q8 GROUP LIMITED → получатель Modestogroup OU (счёт GB32TCCL04143483461312, THE CURRENCY CLOUD LIMITED), USD 53 549,00; примечание «InvoiceFL01220926DD22092026ForFlowersAndLogistics». Статус → 🟢 (BONBILL Q8).",
     "calc": null
   },
   {
