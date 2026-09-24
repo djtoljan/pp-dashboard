@@ -2541,8 +2541,8 @@
     "date": "2026-09-23",
     "sum": 51200,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "UK",
+    "color": "FFFFFFFF",
     "clientName": "VDX",
     "costFormula": "51 200,00 USD - 20 000,00 (баланс) * 1,0045 + 100 = 31 440 USDT",
     "extra": null,
@@ -2791,15 +2791,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "136 573,99 + 0,3% + 30 = 137 013,71 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "sent_usdt": 137013.71,
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**»; файл «PI#117-120 (blue nitrile).pdf») — **ордер на платёж**: Beneficiary **BUNDHAND PLASTIC AND RUBBER PRODUCTS CO., LTD** (Suite 1-401, No.20th B/D, Taoli Garden, Bengbu, Anhui, China, 233000); Bank **BANK OF COMMUNICATIONS BENGBU BRANCH** (88 Nanshan Road, Bengbu, Anhui, China), SWIFT **COMMCNSHBBU**, счёт **343006010146300046171** (USD); Payment details «**Inv P/I No.#117-120 dd 22.09.2026**»; Amount **136 573,99 USD**; **OUR**. Инвойс-основание: **PROFORMA INVOICE № 117-120 dd Sep. 22, 2026** (Bundhand Plastic and Rubber Products Co., Ltd; contract 643/76567904/067 dtd 07.09.2023; Order #117,118,119,120): Blue nitrile gloves powder free (S/M/L/XL), HS 4015190000, 21 600 000 шт / 10 800 ящ, Total ¥3 045 600,00; условия **FOB (CHINA), Payment 30% deposit, rest after BL** → депозит 30% = ¥913 680,00 = **$136 573,99**. Компания — **Q8** (названа в подписи), клиент **VDX**. Q8-расчёт сразу: `136 573,99 + 0,3% + 30 = 137 013,71 USDT`. Совпадений по 136 573,99 / P/I 117-120 в 5 таблицах нет (отличается от r104 — PI 114-116, 97 899,07 USD). ⬜ Step 3.",
+    "calc": "ТЕЗ"
   }
 ]
