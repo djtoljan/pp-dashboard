@@ -2626,9 +2626,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 134051,
     "sent_usdt": null,
-    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment Q8❗️**»; файл «INV 116 770,57 EUR.pdf») — **ордер на платёж**: Beneficiary **NNN DIS TICARET LIMITED SIRKETI** (İnönü Mah., Büyükdereboyu Sk., No:19 İç Kapı No:20, Ataşehir/İstanbul); банк **T.GARANTI BANKASI A.S.** (Levent Nispetiye Mah., Aytar Cad. No:2, Beşiktaş 34340 Istanbul; Branch Code 1017 Libadiye), SWIFT **TGBATRISXXX**, счёт **TR320006200101700009075618**; Payment details «**Invoice № 438 date 22-09-2026**»; Amount **116 770,57 EUR**; **OUR**. Клиент строки — **VDX**; компания (E) = **Q8** (из подписи «Payment Q8❗️») → **⬜ (Step 3)**. Q8-расчёт по EUR (`сумма × кросс-курс + 0,3% + 30`) — жду курс от владельца. Совпадений по 116 770,57 / NNN DIS TICARET / инвойс 438 в 5 таблицах нет.",
+    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment Q8❗️**»; файл «INV 116 770,57 EUR.pdf») — **ордер на платёж**: Beneficiary **NNN DIS TICARET LIMITED SIRKETI** (İnönü Mah., Büyükdereboyu Sk., No:19 İç Kapı No:20, Ataşehir/İstanbul); банк **T.GARANTI BANKASI A.S.** (Levent Nispetiye Mah., Aytar Cad. No:2, Beşiktaş 34340 Istanbul; Branch Code 1017 Libadiye), SWIFT **TGBATRISXXX**, счёт **TR320006200101700009075618**; Payment details «**Invoice № 438 date 22-09-2026**»; Amount **116 770,57 EUR**; **OUR**. Клиент строки — **VDX**; компания (E) = **Q8** (из подписи «Payment Q8❗️») → **⬜ (Step 3)**. Q8-расчёт по EUR (`сумма × кросс-курс + 0,3% + 30`) — жду курс от владельца. Совпадений по 116 770,57 / NNN DIS TICARET / инвойс 438 в 5 таблицах нет. | 💰 24.09.2026 — фондирование из сводного прихода **338 558,0 USDT** (Bobr IN 24.09.2026 09:50:45 UTC, Рабочий 4, от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2, txid feafdeb856fdebc7775c3ea1a159a4beccad6f98ecb43b267ddf485cb43a18a3); по разнарядке Scream 24.09.2026 доля строки = **134051 USDT**. received_usdt = 134051.",
     "calc": null
   },
   {
@@ -2734,15 +2734,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": "45 248,55 + 0,3% + 30 = 45 414,30 USDT",
+    "costFormula": "45 248,55 / 0,876149102106 + 0,3% + 30 = 51 829,74 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 45414.3,
-    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**», файл «PROFORMA + GLAVA DOB KODA_26-010-001020.pdf») — **ордер на платёж**: Beneficiary **LOREX** (Stegne 33, 1000 Ljubljana, Slovenia); банк **UniCredit Banka Slovenija d.d.** (Ameriska ulica 2, 1000 Ljubljana, Slovenia), SWIFT **BACXSI22XXX**, счёт **SI56290000003240627**; Payment details «**Inv 26-010-001020 dd 14.09.2026**»; Amount **45 248,55 EUR**; **OUR**. Приложение — **PROFORMA 26-010-001020 от 14.09.2026** (Buyer/Delivery: **LEO SPOT CAPITAL PT**, BILIQ Sunset Office Space, Ruko Sunset Indah II No.10, Kuta, Badung, Bali, Indonesia). Компания (E) = **Q8** (подпись «Payment from Q8»). Расчёт Q8 сразу: `45 248,55 + 0,3% + 30 = 45 414,30 USDT`. Клиент — **VDX** (группа 📨 Платежи VDX). Совпадений по 45 248,55 / LOREX / 26-010-001020 в 5 таблицах нет.",
+    "received_usdt": 52006,
+    "sent_usdt": 51829.74,
+    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**», файл «PROFORMA + GLAVA DOB KODA_26-010-001020.pdf») — **ордер на платёж**: Beneficiary **LOREX** (Stegne 33, 1000 Ljubljana, Slovenia); банк **UniCredit Banka Slovenija d.d.** (Ameriska ulica 2, 1000 Ljubljana, Slovenia), SWIFT **BACXSI22XXX**, счёт **SI56290000003240627**; Payment details «**Inv 26-010-001020 dd 14.09.2026**»; Amount **45 248,55 EUR**; **OUR**. Приложение — **PROFORMA 26-010-001020 от 14.09.2026** (Buyer/Delivery: **LEO SPOT CAPITAL PT**, BILIQ Sunset Office Space, Ruko Sunset Indah II No.10, Kuta, Badung, Bali, Indonesia). Компания (E) = **Q8** (подпись «Payment from Q8»). Расчёт Q8 сразу: `45 248,55 + 0,3% + 30 = 45 414,30 USDT`. Клиент — **VDX** (группа 📨 Платежи VDX). Совпадений по 45 248,55 / LOREX / 26-010-001020 в 5 таблицах нет. | 💱 24.09.2026 (📨 ПП компании Q8, FX-скрин) — кросс-курс Q8 **1 USD = 0,876149102106 EUR** (Create FX Exchange 24.09.2026 12:58:47, Sell 51 678 USD → Buy 45 277,63 EUR ≈ сумма заявки 45 248,55). Расчёт: `45 248,55 / 0,876149102106 + 0,3% + 30 = 51 829,74 USDT`. | 💰 24.09.2026 — фондирование из сводного прихода **338 558,0 USDT** (Bobr IN 24.09.2026 09:50:45 UTC, Рабочий 4, от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2, txid feafdeb856fdebc7775c3ea1a159a4beccad6f98ecb43b267ddf485cb43a18a3); по разнарядке Scream 24.09.2026 доля строки = **52006 USDT**. received_usdt = 52006.",
     "calc": "ТЕЗ"
   },
   {
@@ -2759,9 +2759,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 15418,
     "sent_usdt": 15347.56,
-    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**», файл «INV 15 271,74 USD.pdf») — **ордер на платёж**: Beneficiary **OKAR DIS TICARET LIMITED SIRKETI** (BAHCESEHIR 2. KISIM MAH., 50. YIL CAD., AVRUPARK BAHCEKENT D01 NO:71, IC KAPI NO:17, BASAKSEHIR / ISTANBUL); банк **Türkiye Vakiflar Bankası T.A.O**, SWIFT **TVBATR2A**, счёт **TR23 0001 5001 5804 8024 7897 38**; Payment details «**INV 230926 dd 23.09.26**»; Amount **15 271,74 USD**; **OUR**. Приложение — **PROFORMA INVOICE № 230926 от 23.09.2026**: Aluminium digital number plate 1994 × 7,66 = **$15 271,74** (GENERAL DIRECTOR MAHMUT BİLLUR). Компания (E) = **Q8** (подпись «Payment from Q8»); клиент — **VDX** (группа 📨 Платежи VDX). Расчёт Q8 сразу: `15 271,74 + 0,3% + 30 = 15 347,56 USDT`. ⚠️ Прошлый заказ того же поставщика — Main r37 (PROFORMA №090926 от 09.09.2026, 47 010,96 USD) — отдельная сделка.",
+    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**», файл «INV 15 271,74 USD.pdf») — **ордер на платёж**: Beneficiary **OKAR DIS TICARET LIMITED SIRKETI** (BAHCESEHIR 2. KISIM MAH., 50. YIL CAD., AVRUPARK BAHCEKENT D01 NO:71, IC KAPI NO:17, BASAKSEHIR / ISTANBUL); банк **Türkiye Vakiflar Bankası T.A.O**, SWIFT **TVBATR2A**, счёт **TR23 0001 5001 5804 8024 7897 38**; Payment details «**INV 230926 dd 23.09.26**»; Amount **15 271,74 USD**; **OUR**. Приложение — **PROFORMA INVOICE № 230926 от 23.09.2026**: Aluminium digital number plate 1994 × 7,66 = **$15 271,74** (GENERAL DIRECTOR MAHMUT BİLLUR). Компания (E) = **Q8** (подпись «Payment from Q8»); клиент — **VDX** (группа 📨 Платежи VDX). Расчёт Q8 сразу: `15 271,74 + 0,3% + 30 = 15 347,56 USDT`. ⚠️ Прошлый заказ того же поставщика — Main r37 (PROFORMA №090926 от 09.09.2026, 47 010,96 USD) — отдельная сделка. | 💰 24.09.2026 — фондирование из сводного прихода **338 558,0 USDT** (Bobr IN 24.09.2026 09:50:45 UTC, Рабочий 4, от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2, txid feafdeb856fdebc7775c3ea1a159a4beccad6f98ecb43b267ddf485cb43a18a3); по разнарядке Scream 24.09.2026 доля строки = **15418 USDT**. received_usdt = 15418.",
     "calc": "ТЕЗ"
   },
   {
@@ -2797,9 +2797,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 137084,
     "sent_usdt": 137013.71,
-    "notes": "📄 24.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**»; файл «PI#117-120 (blue nitrile).pdf») — **ордер на платёж**: Beneficiary **BUNDHAND PLASTIC AND RUBBER PRODUCTS CO., LTD** (Suite 1-401, No.20th B/D, Taoli Garden, Bengbu, Anhui, China, 233000); Bank **BANK OF COMMUNICATIONS BENGBU BRANCH** (88 Nanshan Road, Bengbu, Anhui, China), SWIFT **COMMCNSHBBU**, счёт **343006010146300046171** (USD); Payment details «**Inv P/I No.#117-120 dd 22.09.2026**»; Amount **136 573,99 USD**; **OUR**. Инвойс-основание: **PROFORMA INVOICE № 117-120 dd Sep. 22, 2026** (Bundhand Plastic and Rubber Products Co., Ltd; contract 643/76567904/067 dtd 07.09.2023; Order #117,118,119,120): Blue nitrile gloves powder free (S/M/L/XL), HS 4015190000, 21 600 000 шт / 10 800 ящ, Total ¥3 045 600,00; условия **FOB (CHINA), Payment 30% deposit, rest after BL** → депозит 30% = ¥913 680,00 = **$136 573,99**. Компания — **Q8** (названа в подписи), клиент **VDX**. Q8-расчёт сразу: `136 573,99 + 0,3% + 30 = 137 013,71 USDT`. Совпадений по 136 573,99 / P/I 117-120 в 5 таблицах нет (отличается от r104 — PI 114-116, 97 899,07 USD). ⬜ Step 3.",
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, подпись «**Payment from Q8❗️**»; файл «PI#117-120 (blue nitrile).pdf») — **ордер на платёж**: Beneficiary **BUNDHAND PLASTIC AND RUBBER PRODUCTS CO., LTD** (Suite 1-401, No.20th B/D, Taoli Garden, Bengbu, Anhui, China, 233000); Bank **BANK OF COMMUNICATIONS BENGBU BRANCH** (88 Nanshan Road, Bengbu, Anhui, China), SWIFT **COMMCNSHBBU**, счёт **343006010146300046171** (USD); Payment details «**Inv P/I No.#117-120 dd 22.09.2026**»; Amount **136 573,99 USD**; **OUR**. Инвойс-основание: **PROFORMA INVOICE № 117-120 dd Sep. 22, 2026** (Bundhand Plastic and Rubber Products Co., Ltd; contract 643/76567904/067 dtd 07.09.2023; Order #117,118,119,120): Blue nitrile gloves powder free (S/M/L/XL), HS 4015190000, 21 600 000 шт / 10 800 ящ, Total ¥3 045 600,00; условия **FOB (CHINA), Payment 30% deposit, rest after BL** → депозит 30% = ¥913 680,00 = **$136 573,99**. Компания — **Q8** (названа в подписи), клиент **VDX**. Q8-расчёт сразу: `136 573,99 + 0,3% + 30 = 137 013,71 USDT`. Совпадений по 136 573,99 / P/I 117-120 в 5 таблицах нет (отличается от r104 — PI 114-116, 97 899,07 USD). ⬜ Step 3. | 💰 24.09.2026 — фондирование из сводного прихода **338 558,0 USDT** (Bobr IN 24.09.2026 09:50:45 UTC, Рабочий 4, от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2, txid feafdeb856fdebc7775c3ea1a159a4beccad6f98ecb43b267ddf485cb43a18a3); по разнарядке Scream 24.09.2026 доля строки = **137084 USDT**. received_usdt = 137084.",
     "calc": "ТЕЗ"
   },
   {
