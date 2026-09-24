@@ -2991,5 +2991,24 @@
     "sent_usdt": null,
     "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «iNVOICE 01D11092026 TRAVELLUM_USD_24.09.26.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **AMBER TRAVEL LLC** (P.O.BOX 114525, ABU DHABI, UAE; тел. +971 2 4913536); банк **THE NATIONAL BANK OF RAS AL-KHAIMAH PJSC (RAKBANK)** (NBRAK Building, Sheikh Mohammed Bin Zayed Road, Exit 129, Al Rifa Area, Ras Al Khaimah), SWIFT **NRAKAEAK**, IBAN **AE460400000322706408002** (A/C 0322706408002); payment details «INV.01D11092026 dd.11/09/2026»; **Amount 16 145,00 USD**; OUR. Вложенный инвойс №01D11092026 dd 11.09.2026 (услуги: Cairo Marriott Hotel, Aparthotel Mil, Pullman UAE, Transport UAE, Sheraton Club des Pins Resort Algiers, Hôtel de l'Art de Bouaké, The Nishat Hotel Johar Town; TOTAL 16 145 USD; ⚠️ прописью в инвойсе «THREE THOUSAND EIGHT HUNDRED SEVENTY USD ONLY» — расхождение с 16 145). Клиент — VDX. Статус 🔴 (плательщик не назван).",
     "calc": null
+  },
+  {
+    "row": 158,
+    "date": "2026-09-24",
+    "sum": 25081,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «25081 USD.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **LCI-MTC Group SA** (Route de Beaumont 20, 1700 Fribourg, Switzerland); банк **3S MONEY (LUXEMBOURG) S.A.** (25C Boulevard Royal, L-2449 Luxembourg, Grand Duchy of Luxembourg), SWIFT **MOLULU55**, счёт **LU887160000295106336**; payment details «INV.2Z1GZ4 DD.23.09.2026»; **Amount 25 081,00 USD**; OUR. Клиент — VDX. Статус 🔴 (плательщик не назван). Отдельная сделка от Main r132 (LCI-MTC, 25 094,30 EUR, закрыта) — другой инвойс и сумма.",
+    "calc": null
   }
 ]
