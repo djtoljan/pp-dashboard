@@ -2951,6 +2951,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «76 Invoice_RODOP 20 500 EURO.pdf») — **инвойс RODOP TURIZM SEYАHAT TAS. TIC. LTD. STI** (FENER MH. 1964 SK. AKANAY APT. A BLOK K:2 D:5, ANTALYA, TURKEY; GARANTIBANK, SWIFT TGBATRIS, IBAN TR76 0006 2000 0140 0009 0856 61): отель **KAYA PALAZZO GOLF RESORT**, 25.10.2026–06.11.2026 (12 ночей), DUPLEX FAMILY SUITE, SPECIAL ALL INCLUSIVE; туристы — семья SHMURNOV (TATIANA, ALEKSANDR, VARVARA, EVGENII, EVGENII); voucher/invoice **292006** (data invoice 20.05.2026). **SERVICE & PRICES: Total EUR 20 500,00**; платежи: **1st Payment 100,00% — 7 824,00 EUR** (срок 15.10.2026). Ордер «Payment from…❗️» по этому инвойсу в канал ещё не приходил — сумма/компания уточняются по ордеру. Статус 🔴.",
+    "calc": null
+  },
+  {
+    "row": 156,
+    "date": "2026-09-24",
+    "sum": 23000,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
