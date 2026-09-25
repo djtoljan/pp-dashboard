@@ -2846,7 +2846,7 @@
     "sum": 10116.77,
     "currency": "USD",
     "company": "UK",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "VDX",
     "costFormula": "10 116,77 USD × 1,0045 + 100 = 10 262,30 USDT",
     "extra": null,
@@ -2856,7 +2856,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10262.3,
-    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «Hongkong Tour in September. 2026.pdf») — **Payment from TRAVELCOM ❗️** (ордер на платёж): Beneficiary **Motivate China Ltd** (Room 2125, Chang'an Yi, A, Jian Hua South Road, Chao Yang District, Beijing, 100022, P.R.China); bank Agricultural Bank of China Beijing Branch (Beijing, P.R.China), SWIFT **ABOCCNBJ010**, счёт **11190801040005945**; payment details «INV. FR-092126-2 от 14.09.26»; **Amount 10 116,77 USD**; OUR. Вложен заказ «Hongkong Tour in September 2026» (программа тура, цены в CNY/RMB — заказ рамочный, оплата по ордеру). Компания — TRAVELCOM, клиент — VDX. Статус ⬜. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: TRAVELCOM). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790).",
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «Hongkong Tour in September. 2026.pdf») — **Payment from TRAVELCOM ❗️** (ордер на платёж): Beneficiary **Motivate China Ltd** (Room 2125, Chang'an Yi, A, Jian Hua South Road, Chao Yang District, Beijing, 100022, P.R.China); bank Agricultural Bank of China Beijing Branch (Beijing, P.R.China), SWIFT **ABOCCNBJ010**, счёт **11190801040005945**; payment details «INV. FR-092126-2 от 14.09.26»; **Amount 10 116,77 USD**; OUR. Вложен заказ «Hongkong Tour in September 2026» (программа тура, цены в CNY/RMB — заказ рамочный, оплата по ордеру). Компания — TRAVELCOM, клиент — VDX. Статус ⬜. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: TRAVELCOM). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790). | 📄 25.09.2026 (📨 ПП компании UK, файл «Motivate China LTD 10116.77 usd.pdf»; статус-штамп прочитан с рендера) — **PAYMENT ORDER DEBIT ADVICE** (TONIO): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**), Beneficiary **Motivate China Ltd** (счёт 11190801040005945, BIC **ABOCCNBJ010**), Amount **10 116,77 USD**, Details «**INV. FR-092126-2 14.09.26**», Execution Date **25.09.2026**; Bank’s confirmation — штамп **IN PROCESS** → ⬜→🟡. Компания-плательщик — **TRAVELCOM LIMITED (UK)**.",
     "calc": "ТЕЗ"
   },
   {
