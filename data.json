@@ -2960,7 +2960,7 @@
     "sum": 25081,
     "currency": "USD",
     "company": "UK",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "VDX",
     "costFormula": "25 081,00 USD × 1,0045 + 100 = 25 293,86 USDT",
     "extra": null,
@@ -2970,7 +2970,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 25293.86,
-    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «25081 USD.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **LCI-MTC Group SA** (Route de Beaumont 20, 1700 Fribourg, Switzerland); банк **3S MONEY (LUXEMBOURG) S.A.** (25C Boulevard Royal, L-2449 Luxembourg, Grand Duchy of Luxembourg), SWIFT **MOLULU55**, счёт **LU887160000295106336**; payment details «INV.2Z1GZ4 DD.23.09.2026»; **Amount 25 081,00 USD**; OUR. Клиент — VDX. Статус 🔴 (плательщик не назван). Отдельная сделка от Main r132 (LCI-MTC, 25 094,30 EUR, закрыта) — другой инвойс и сумма. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790).",
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «25081 USD.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **LCI-MTC Group SA** (Route de Beaumont 20, 1700 Fribourg, Switzerland); банк **3S MONEY (LUXEMBOURG) S.A.** (25C Boulevard Royal, L-2449 Luxembourg, Grand Duchy of Luxembourg), SWIFT **MOLULU55**, счёт **LU887160000295106336**; payment details «INV.2Z1GZ4 DD.23.09.2026»; **Amount 25 081,00 USD**; OUR. Клиент — VDX. Статус 🔴 (плательщик не назван). Отдельная сделка от Main r132 (LCI-MTC, 25 094,30 EUR, закрыта) — другой инвойс и сумма. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790). | 📄 25.09.2026 (📨 ПП компании UK, файл «LCI-MTC GR 25081 usd.pdf»; статус-штамп прочитан с рендера) — **PAYMENT ORDER DEBIT ADVICE** (TONIO): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**), Beneficiary **LCI-MTC Group SA** (IBAN LU887160000295106336, BIC **MOLULU55**), Amount **25 081,00 USD**, Details «**INV.2Z1GZ4 DD.23.09.2026**», Execution Date **25.09.2026**; Bank’s confirmation — штамп **IN PROCESS** → ⬜→🟡. Компания-плательщик — **TRAVELCOM LIMITED (UK)**.",
     "calc": "ТЕЗ"
   },
   {
