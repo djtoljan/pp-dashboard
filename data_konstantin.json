@@ -434,5 +434,24 @@
     "sent_usdt": 112199.21,
     "notes": "📄 25.09.2026 (📨 Константин Просто Группа, подпись «Платит Q8»; файл «IV ASM-260923 USD.pdf») — **COMMERCIAL INVOICE № ASM-260923 от 2026-9-23**: Shipper/Exporter **BEST PARTS CORPORATION** (28, Yangpyeong-ro 30ga-gil, Yeongdeungpo-gu, Seoul, Korea); Consignee **NINGBO ORIENT ORIGINAL INDUSTRY CO.,LTD** (Ningbo, Zhejiang, China); Bank **KEB HANA BANK** (Hwajeong station branch), SWIFT **KOEXKRSEXXX**, счёт **415-910021-67138**; Port of loading BUSAN → Discharge/Final NINGBO, China; Carrier **SAWASDEE SIRIUS 2626W**, sailing 2026-9-28; C/T OOLU9303875, S/N 318331, Booking HASLK01260907450; **TOTAL FOB BUSAN  079** (18 165 Pcs, auto spare parts, 2194 CTNS). Подпись «**Платит Q8**» → компания-плательщик **Q8** → строка сразу ⬜ (Step 3). | 📄 25.09.2026 (📨 Константин Просто Группа, файл «Заявка на выплату (Best Parts) 111 833,71.xlsx» — бланк Application) — **Заявка (Application for transfer) на 111 833,71 USD**: Beneficiary **BEST PARTS CORPORATION** (12, Muvon Street #6, Duckyang-Gu, Gyeonggi-Do, Korea), банк **KEB HANA BANK** (Hwajeong station branch; 47, Hwajeong-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, Korea), SWIFT **KOEXKRSEXXX**, счёт **415-910021-67138**; Purpose «Advance payment for goods. Customer Number: ASM»; **Invoice ASM-260923 dd 2026-9-23** — те же реквизиты, что и у инвойса строки. Правило «сумма из заявки/ордера, инвойс справочно» (14.09.2026): сумма строки приведена к сумме ЗАЯВКИ **111 833,71 USD** (инвойс ASM-260923 полностью — **$276 079**, частичная/авансовая оплата). Q8-расчёт пересчитан от суммы заявки.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 24,
+    "date": "2026-09-25",
+    "sum": 459353.4,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "PRO-FORMA INVOICE 90219832 dd 25.09.2026, Order 115552061. De’ Longhi Kenwood MEIA FZE (Dubai) → MIA Group of Companies (PVT) LTD (Islamabad, Pakistan). 459 353,40 USD. DIRECT DELIVERIES / EX WORKS / PAYMENT IN ADVANCE. Файл: 115552061 90219832 PI.pdf (📨 Константин Просто Группа).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 25.09.2026 (📨 Константин Просто Группа, файл «115552061 90219832 PI.pdf») — **PRO-FORMA INVOICE**: Agent Invoice No. **90219832**, дата **25.09.2026**, Order No. **115552061**; продавец **De’ Longhi Kenwood MEIA FZE** (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Jebel Ali, Dubai, UAE, P.O. Box 263338; тел. +97148136900; TRN 100352486300003) → покупатель **MIA Group of Companies (PVT) LTD** (Street # 16, Industrial Area, Islamabad, Pakistan, 44000; Tax Registration Number 697497). Shipping Condition: **DIRECT DELIVERIES**; Delivery Term: **EX WORKS**; Term of Payment: **PAYMENT IN ADVANCE**. Позиции: (001) 0128805002 / 12870021-IS7286BK «SS BRAUN INT (T)» — 1526,000 шт × 130,90 = **199 753,40 USD** (commodity code 85164000, origin China, EAN 8021098001023); (002) 0128808000 / 12890010-IS9090BK «SS BRAUN INT (T)» — 1475,000 шт × 176,00 = **259 600,00 USD** (commodity code 85164000, origin China, EAN 8021098003584). **TOTAL INVOICE 459 353,40 USD** (3001 шт). Expiry date 25.09.2026 (без вычетов). 🔴 Step 0 (проформа-инвойс; заявки/поручения нет, компания-плательщик не названа — уточнить у Scream). Дедуп: NEW_ROW — совпадений по 459 353,40 / 90219832 / 115552061 / MIA Group в 5 таблицах нет.",
+    "calc": null
   }
 ]
