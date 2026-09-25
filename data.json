@@ -3086,5 +3086,24 @@
     "sent_usdt": null,
     "notes": "📄 25.09.2026 (📨 ВТС-Fininvest (t4585), файл «PI_TSL26019_spare_parts (2).xlsx») — **PROFORMA INVOICE № TSL26019** (Order No. **20260430**; Order Date **23.09.2026**; Delivery Date **08.10.2026**; Shipment Term **FOB**; Payment Term **30% down payment, rest 70% pay before ship out**): продавец **O’NEAL EUROPE GmbH & Co. KG** (Erich-Blum-Str. 33, D-71665 Vaihingen/Enz, Germany; factory delivery address — Room 2011, Jiezuo Building, No. 828, Section 1, Furong South Road, Changsha City, 410004, Hunan Province, China) → **TO: AL WASAIL SOLUTION TRADING SPC** (SAFIR VYSYAMVEETTIL KUNHIKADER; P.O. BOX 65, CR 1543357, OM-121 AL SEEB; e-mail vitaly@techno-sp.ru). Позиция: **moto clothes** — 1588 шт × 85,75204659949623 = **136 174,25 USD**. Банк продавца: **BW Bank Stuttgart**, SWIFT **SOLADEST600**, IBAN **DE90 6005 0101 0002 4121 84**. 🔴 Step 0 (проформа-инвойс; в документе принципал/клиент не назван — поставлен **ВТС** по группе ВТС-Fininvest, уточнить у Scream: ВТС или AL WASAIL). Дедуп: NEW_ROW — совпадений по 136 174,25 / TSL26019 / WASAIL в 5 таблицах нет. ⚠️ Имя файла «spare parts», позиция в счёте — «moto clothes».",
     "calc": null
+  },
+  {
+    "row": 163,
+    "date": "2026-09-25",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Экохит",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "6709348.57 / 107349.57",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 25.09.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «этб.pdf») — **Выписка по счёту 40807810200000034895 RUR** (МОСКОВСКИЙ ФКБ «ЭНЕРГОТРАНСБАНК» (АО), БИК 044525227, г. Москва; владелец **ОсОО «Блэкшарк Трейд»**, ИНН 9909705614) за 25.09.2026 (вх. остаток 55 907,05; исх. 6 859 186,49): приходы от **ООО «Экохит»** (ИНН 7813216062, КПП 781301001, счёт 40702810300000024397, КБ «ЭНЕРГОТРАНСБАНК» (АО), БИК 042748701) — ПП **№2220** {VO11200} **6 709 348,57 ₽** «Оплата по контракту **08/2023** от 08.08.2023 за продукты питания, **агентский договор 1606/26 от 16.06.2026**. Поручение **№25** от 25.09.2026. Без налога (НДС)» (тело) + ПП **№2221** {VO21100} **107 349,57 ₽** «агентское вознаграждение по агентскому договору 1606/26 от 16.06.2026. Поручение №25 от 25.09.2026. Без налога (НДС)» (агентское) = **6 816 698,14 ₽**. Комиссия банка **13 418,70 ₽** {VO80050} (банк.ор. №4453632) — только notes, в `rubles_received` не идёт. → `rubles_received` = **6 709 348,57 / 107 349,57**. 🔵 строка (рубли без заявки), guard-before-create exit 0 — ждём поручение/инвойс и компанию-плательщика (ср. Main r62 — Экохит / PRIME FOOD).",
+    "calc": null
   }
 ]
