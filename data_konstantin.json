@@ -419,20 +419,20 @@
   {
     "row": 23,
     "date": "2026-09-25",
-    "sum": 276079,
+    "sum": 111833.71,
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "276 079 + 0,3% + 30 = 276 937,24 USDT",
+    "costFormula": "111 833,71 + 0,3% + 30 = 112 199,21 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 276937.24,
-    "notes": null,
-    "calc": null
+    "sent_usdt": 112199.21,
+    "notes": "📄 25.09.2026 (📨 Константин Просто Группа, подпись «Платит Q8»; файл «IV ASM-260923 USD.pdf») — **COMMERCIAL INVOICE № ASM-260923 от 2026-9-23**: Shipper/Exporter **BEST PARTS CORPORATION** (28, Yangpyeong-ro 30ga-gil, Yeongdeungpo-gu, Seoul, Korea); Consignee **NINGBO ORIENT ORIGINAL INDUSTRY CO.,LTD** (Ningbo, Zhejiang, China); Bank **KEB HANA BANK** (Hwajeong station branch), SWIFT **KOEXKRSEXXX**, счёт **415-910021-67138**; Port of loading BUSAN → Discharge/Final NINGBO, China; Carrier **SAWASDEE SIRIUS 2626W**, sailing 2026-9-28; C/T OOLU9303875, S/N 318331, Booking HASLK01260907450; **TOTAL FOB BUSAN  079** (18 165 Pcs, auto spare parts, 2194 CTNS). Подпись «**Платит Q8**» → компания-плательщик **Q8** → строка сразу ⬜ (Step 3). | 📄 25.09.2026 (📨 Константин Просто Группа, файл «Заявка на выплату (Best Parts) 111 833,71.xlsx» — бланк Application) — **Заявка (Application for transfer) на 111 833,71 USD**: Beneficiary **BEST PARTS CORPORATION** (12, Muvon Street #6, Duckyang-Gu, Gyeonggi-Do, Korea), банк **KEB HANA BANK** (Hwajeong station branch; 47, Hwajeong-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, Korea), SWIFT **KOEXKRSEXXX**, счёт **415-910021-67138**; Purpose «Advance payment for goods. Customer Number: ASM»; **Invoice ASM-260923 dd 2026-9-23** — те же реквизиты, что и у инвойса строки. Правило «сумма из заявки/ордера, инвойс справочно» (14.09.2026): сумма строки приведена к сумме ЗАЯВКИ **111 833,71 USD** (инвойс ASM-260923 полностью — **$276 079**, частичная/авансовая оплата). Q8-расчёт пересчитан от суммы заявки.",
+    "calc": "ТЕЗ"
   }
 ]
