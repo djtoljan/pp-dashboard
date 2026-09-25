@@ -2539,25 +2539,6 @@
   {
     "row": 134,
     "date": "2026-09-23",
-    "sum": 51200,
-    "currency": "USD",
-    "company": "UK",
-    "color": "FFFFFF00",
-    "clientName": "VDX",
-    "costFormula": "51 200,00 USD - 20 000,00 (баланс) * 1,0045 + 100 = 31 440 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": 31440,
-    "sent_usdt": 31440,
-    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from   ❗️**» — компания-плательщик НЕ названа; файл «Print invoice 01034_1034.pdf», скан без текстового слоя) — **ордер на платёж / Invoice № 01034/1034** от 21.09.2026: Beneficiary **MALDIVES BONUS PVT LTD** (Aira Residence, B51025, Fithroanu Magu, Hulhumalé, Maldives); банк **Bank of Maldives PLC** (BML Building 11, Boduthakurufaanu Magu, Male), SWIFT **MALBMVMV**, счёт **7730000536578**; Payment details **INV.01034/1034 DD.21.09.2026**; Amount **51 200,00 USD**; **OUR**. Клиент строки — **VDX**; компания-плательщик не названа → **🔴 (Step 0)**. Линия Maldives Bonus (туризм) — ср. row 30 (MALDIVES BONUS PVT LTD, INV.01030/1030, 50 850,00 USD, компания **UK**, Scream: «заявки туризм в оплату, для UK») — вероятно, та же линия UK, уточнить у Scream. Совпадений по 51 200 / MALDIVES BONUS 01034 в 5 таблицах нет. | 💰 23.09.2026 (Scream: сводный расчёт) — **сводный I31440 156 488,0 USDT** от `TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9` → Рабочий 4 (23.09.2026 12:41:51 UTC; леджер `IN_156488_23.09.2026`, q9_sent=true, txid `81c279b48738b319f9a0b67954d8fd7098ebc7517edac58dc8622b0aa8962666`). Часть сводного прихода: `received_usdt` = N, расчёт `51 200,00 USD - 20 000,00 (баланс) * 1,0045 + 100 = 31 440 USDT`. | 📄 24.09.2026 (📨 ПП компании UK, файл «Maldives Bonus PVT 51200 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (TONIO): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**) → Beneficiary **MALDIVES BONUS PVT LTD** (счёт **7730000536578**, банк **Bank of Maldives PLC**, SWIFT **MALBMVMV**); сумма **51 200,00 USD**; Details **INV.01034/1034 DD.21.09.2026**; Execution Date **09/24/2026**; штамп банка **IN PROCESS** (рендер страницы, view_image) = **подвешенная ПП** — поручение отправлено и подвешено, НЕ исполнено. Компания по группе-источнику — **UK** (линия Maldives Bonus / туризм, ср. r30) → 🔴→⬜ (Step 3) → ⬜→🟡 (INITIATED-документ подвешенной ПП). Жду EXECUTED → 🟢.",
-    "calc": null
-  },
-  {
-    "row": 135,
-    "date": "2026-09-23",
     "sum": 25000,
     "currency": "EUR",
     "company": "UK",
@@ -2575,7 +2556,7 @@
     "calc": null
   },
   {
-    "row": 136,
+    "row": 135,
     "date": "2026-09-23",
     "sum": null,
     "currency": null,
@@ -2594,7 +2575,7 @@
     "calc": null
   },
   {
-    "row": 137,
+    "row": 136,
     "date": "2026-09-23",
     "sum": 23816.04,
     "currency": "EUR",
@@ -2613,7 +2594,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 138,
+    "row": 137,
     "date": "2026-09-23",
     "sum": 116770.57,
     "currency": "EUR",
@@ -2632,7 +2613,7 @@
     "calc": null
   },
   {
-    "row": 139,
+    "row": 138,
     "date": "2026-09-23",
     "sum": 30000,
     "currency": "EUR",
@@ -2651,7 +2632,7 @@
     "calc": null
   },
   {
-    "row": 140,
+    "row": 139,
     "date": "2026-09-23",
     "sum": null,
     "currency": null,
@@ -2670,7 +2651,7 @@
     "calc": null
   },
   {
-    "row": 141,
+    "row": 140,
     "date": "2026-09-23",
     "sum": 191765.05,
     "currency": "USD",
@@ -2689,7 +2670,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 142,
+    "row": 141,
     "date": "2026-09-23",
     "sum": 14437.5,
     "currency": "USD",
@@ -2708,7 +2689,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 143,
+    "row": 142,
     "date": "2026-09-23",
     "sum": null,
     "currency": null,
@@ -2727,7 +2708,7 @@
     "calc": null
   },
   {
-    "row": 144,
+    "row": 143,
     "date": "2026-09-23",
     "sum": 45248.55,
     "currency": "EUR",
@@ -2746,7 +2727,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 145,
+    "row": 144,
     "date": "2026-09-23",
     "sum": 15271.74,
     "currency": "USD",
@@ -2765,7 +2746,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 146,
+    "row": 145,
     "date": "2026-09-23",
     "sum": 14497.5,
     "currency": "EUR",
@@ -2784,7 +2765,7 @@
     "calc": null
   },
   {
-    "row": 147,
+    "row": 146,
     "date": "2026-09-24",
     "sum": 136573.99,
     "currency": "USD",
@@ -2803,7 +2784,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 148,
+    "row": 147,
     "date": "2026-09-24",
     "sum": 48840,
     "currency": "CNY",
@@ -2822,7 +2803,7 @@
     "calc": null
   },
   {
-    "row": 149,
+    "row": 148,
     "date": "2026-09-24",
     "sum": 12027.64,
     "currency": "EUR",
@@ -2841,7 +2822,7 @@
     "calc": null
   },
   {
-    "row": 150,
+    "row": 149,
     "date": "2026-09-24",
     "sum": 18874,
     "currency": "USD",
@@ -2860,14 +2841,14 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 151,
+    "row": 150,
     "date": "2026-09-24",
     "sum": 10116.77,
     "currency": "USD",
     "company": "UK",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": "10 116,77 USD × 1,0045 + 100 = 10 262,30 USDT",
+    "costFormula": "10 116,77 USD × 1,0045 + 100 = 10 262,30 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -2875,11 +2856,11 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10262.3,
-    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «Hongkong Tour in September. 2026.pdf») — **Payment from TRAVELCOM ❗️** (ордер на платёж): Beneficiary **Motivate China Ltd** (Room 2125, Chang'an Yi, A, Jian Hua South Road, Chao Yang District, Beijing, 100022, P.R.China); bank Agricultural Bank of China Beijing Branch (Beijing, P.R.China), SWIFT **ABOCCNBJ010**, счёт **11190801040005945**; payment details «INV. FR-092126-2 от 14.09.26»; **Amount 10 116,77 USD**; OUR. Вложен заказ «Hongkong Tour in September 2026» (программа тура, цены в CNY/RMB — заказ рамочный, оплата по ордеру). Компания — TRAVELCOM, клиент — VDX. Статус ⬜. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: TRAVELCOM).",
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «Hongkong Tour in September. 2026.pdf») — **Payment from TRAVELCOM ❗️** (ордер на платёж): Beneficiary **Motivate China Ltd** (Room 2125, Chang'an Yi, A, Jian Hua South Road, Chao Yang District, Beijing, 100022, P.R.China); bank Agricultural Bank of China Beijing Branch (Beijing, P.R.China), SWIFT **ABOCCNBJ010**, счёт **11190801040005945**; payment details «INV. FR-092126-2 от 14.09.26»; **Amount 10 116,77 USD**; OUR. Вложен заказ «Hongkong Tour in September 2026» (программа тура, цены в CNY/RMB — заказ рамочный, оплата по ордеру). Компания — TRAVELCOM, клиент — VDX. Статус ⬜. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: TRAVELCOM). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790).",
     "calc": "ТЕЗ"
   },
   {
-    "row": 152,
+    "row": 151,
     "date": "2026-09-24",
     "sum": null,
     "currency": null,
@@ -2898,71 +2879,71 @@
     "calc": null
   },
   {
-    "row": 153,
+    "row": 152,
     "date": "2026-09-24",
     "sum": 11003.2,
     "currency": "EUR",
     "company": "UK",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": "11 003,20 / 0,8790 * 1,0045 + 100 = 12 674,19 USDT",
+    "costFormula": "11 003,20 / (0,8785 − 0,45%) + 100 = 12 681,60 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 12674.19,
-    "sent_usdt": 12674.19,
-    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «INV.306651 dd.24.09.2026.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **RODOP TURIZM SEYАHAT TAS. TIC. LTD. STI** (FENER MH. 1964 SK. AKANAY APT. A BLOK K:2 D:5, ANTALYA, TURKEY; тел. +90 242 323 10 82); банк **GARANTIBANK** (ANTALYA TICARI SUBESI), SWIFT **TGBATRIS**, IBAN **TR76 0006 2000 0140 0009 0856 61** (EUR 014-9085661); payment details «INV.306651 dd.24.09.2026»; **Amount 11 003,20 EUR**; OUR. Вложенный инвойс №306651 (INVOICE TOTAL 11 003,20 EUR — accommodation, гость MR IVANYAN KHRISTOFOR). Клиент — VDX. Статус 🔴 (плательщик не назван — ставится ⬜ после уточнения компании).\n💰 Приход 62 586,0 USDT (Bobr 24.09.2026 17:51 UTC, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri ← TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9, Толик (возмещение VDX)) под заявки Main r154+r155+r156 = 54 503,20 EUR: 54 503,20 / 0,8790 * 1,0045 + 300 = 62 586,20 USDT (указание Scream 24.09.2026). received_usdt строки — доля прихода. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа).",
+    "sent_usdt": 12681.6,
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «INV.306651 dd.24.09.2026.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **RODOP TURIZM SEYАHAT TAS. TIC. LTD. STI** (FENER MH. 1964 SK. AKANAY APT. A BLOK K:2 D:5, ANTALYA, TURKEY; тел. +90 242 323 10 82); банк **GARANTIBANK** (ANTALYA TICARI SUBESI), SWIFT **TGBATRIS**, IBAN **TR76 0006 2000 0140 0009 0856 61** (EUR 014-9085661); payment details «INV.306651 dd.24.09.2026»; **Amount 11 003,20 EUR**; OUR. Вложенный инвойс №306651 (INVOICE TOTAL 11 003,20 EUR — accommodation, гость MR IVANYAN KHRISTOFOR). Клиент — VDX. Статус 🔴 (плательщик не назван — ставится ⬜ после уточнения компании).\n💰 Приход 62 586,0 USDT (Bobr 24.09.2026 17:51 UTC, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri ← TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9, Толик (возмещение VDX)) под заявки Main r154+r155+r156 = 54 503,20 EUR: 54 503,20 / 0,8790 * 1,0045 + 300 = 62 586,20 USDT (указание Scream 24.09.2026). received_usdt строки — доля прихода. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790).",
     "calc": "ТЕЗ"
   },
   {
-    "row": 154,
+    "row": 153,
     "date": "2026-09-24",
     "sum": 20500,
     "currency": "EUR",
     "company": "UK",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": "20 500,00 / 0,8790 * 1,0045 + 100 = 23 526,91 USDT",
+    "costFormula": "20 500,00 / (0,8785 − 0,45%) + 100 = 23 540,71 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 23526.91,
-    "sent_usdt": 23526.91,
-    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «76 Invoice_RODOP 20 500 EURO.pdf») — **инвойс RODOP TURIZM SEYАHAT TAS. TIC. LTD. STI** (FENER MH. 1964 SK. AKANAY APT. A BLOK K:2 D:5, ANTALYA, TURKEY; GARANTIBANK, SWIFT TGBATRIS, IBAN TR76 0006 2000 0140 0009 0856 61): отель **KAYA PALAZZO GOLF RESORT**, 25.10.2026–06.11.2026 (12 ночей), DUPLEX FAMILY SUITE, SPECIAL ALL INCLUSIVE; туристы — семья SHMURNOV (TATIANA, ALEKSANDR, VARVARA, EVGENII, EVGENII); voucher/invoice **292006** (data invoice 20.05.2026). **SERVICE & PRICES: Total EUR 20 500,00**; платежи: **1st Payment 100,00% — 7 824,00 EUR** (срок 15.10.2026). Ордер «Payment from…❗️» по этому инвойсу в канал ещё не приходил — сумма/компания уточняются по ордеру. Статус 🔴.\n💰 Приход 62 586,0 USDT (Bobr 24.09.2026 17:51 UTC, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri ← TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9, Толик (возмещение VDX)) под заявки Main r154+r155+r156 = 54 503,20 EUR: 54 503,20 / 0,8790 * 1,0045 + 300 = 62 586,20 USDT (указание Scream 24.09.2026). received_usdt строки — доля прихода. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа).",
+    "sent_usdt": 23540.71,
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «76 Invoice_RODOP 20 500 EURO.pdf») — **инвойс RODOP TURIZM SEYАHAT TAS. TIC. LTD. STI** (FENER MH. 1964 SK. AKANAY APT. A BLOK K:2 D:5, ANTALYA, TURKEY; GARANTIBANK, SWIFT TGBATRIS, IBAN TR76 0006 2000 0140 0009 0856 61): отель **KAYA PALAZZO GOLF RESORT**, 25.10.2026–06.11.2026 (12 ночей), DUPLEX FAMILY SUITE, SPECIAL ALL INCLUSIVE; туристы — семья SHMURNOV (TATIANA, ALEKSANDR, VARVARA, EVGENII, EVGENII); voucher/invoice **292006** (data invoice 20.05.2026). **SERVICE & PRICES: Total EUR 20 500,00**; платежи: **1st Payment 100,00% — 7 824,00 EUR** (срок 15.10.2026). Ордер «Payment from…❗️» по этому инвойсу в канал ещё не приходил — сумма/компания уточняются по ордеру. Статус 🔴.\n💰 Приход 62 586,0 USDT (Bobr 24.09.2026 17:51 UTC, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri ← TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9, Толик (возмещение VDX)) под заявки Main r154+r155+r156 = 54 503,20 EUR: 54 503,20 / 0,8790 * 1,0045 + 300 = 62 586,20 USDT (указание Scream 24.09.2026). received_usdt строки — доля прихода. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790).",
     "calc": "ТЕЗ"
   },
   {
-    "row": 155,
+    "row": 154,
     "date": "2026-09-24",
     "sum": 23000,
     "currency": "EUR",
     "company": "UK",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": "23 000,00 / 0,8790 * 1,0045 + 100 = 26 383,85 USDT",
+    "costFormula": "23 000,00 / (0,8785 − 0,45%) + 100 = 26 399,34 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 26383.85,
-    "sent_usdt": 26383.85,
-    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «INV demli153.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **PREMIUM GLOBAL TRAVEL TURIZM TIC. LTD. STI** (Yesilbahce Mh. Portakal Cicegi Blvr. Kepez Mehmet Sit. B Block 37/3, ANTALYA, TURKIYE; тел. +90 242 311 0940); банк **AKBANK / LARA SUB. / ANTALYA** (Sabancı Center Levent 4, Istanbul), SWIFT **AKBKTRIS**, EUR IBAN **TR91 0004 6007 1403 6000 2390 23** (EUR-счёт 023 9023); payment details «INV.DEMLI-153 dd.22/09/2026»; **Amount 23 000,00 EUR**; OUR. Вложенный инвойс INV.DEMLI-153 (Tour Operator «PREMIUM TRAVEL», Antalya; в т.ч. VIP TRANSFER 1 000,00 EUR). Клиент — VDX. Статус 🔴 (плательщик не назван).\n💰 Приход 62 586,0 USDT (Bobr 24.09.2026 17:51 UTC, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri ← TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9, Толик (возмещение VDX)) под заявки Main r154+r155+r156 = 54 503,20 EUR: 54 503,20 / 0,8790 * 1,0045 + 300 = 62 586,20 USDT (указание Scream 24.09.2026). received_usdt строки — доля прихода. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа).",
+    "sent_usdt": 26399.34,
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «INV demli153.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **PREMIUM GLOBAL TRAVEL TURIZM TIC. LTD. STI** (Yesilbahce Mh. Portakal Cicegi Blvr. Kepez Mehmet Sit. B Block 37/3, ANTALYA, TURKIYE; тел. +90 242 311 0940); банк **AKBANK / LARA SUB. / ANTALYA** (Sabancı Center Levent 4, Istanbul), SWIFT **AKBKTRIS**, EUR IBAN **TR91 0004 6007 1403 6000 2390 23** (EUR-счёт 023 9023); payment details «INV.DEMLI-153 dd.22/09/2026»; **Amount 23 000,00 EUR**; OUR. Вложенный инвойс INV.DEMLI-153 (Tour Operator «PREMIUM TRAVEL», Antalya; в т.ч. VIP TRANSFER 1 000,00 EUR). Клиент — VDX. Статус 🔴 (плательщик не назван).\n💰 Приход 62 586,0 USDT (Bobr 24.09.2026 17:51 UTC, Рабочий 4 TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri ← TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9, Толик (возмещение VDX)) под заявки Main r154+r155+r156 = 54 503,20 EUR: 54 503,20 / 0,8790 * 1,0045 + 300 = 62 586,20 USDT (указание Scream 24.09.2026). received_usdt строки — доля прихода. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790).",
     "calc": "ТЕЗ"
   },
   {
-    "row": 156,
+    "row": 155,
     "date": "2026-09-24",
     "sum": 16145,
     "currency": "USD",
     "company": "UK",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": "16 145,00 USD × 1,0045 + 100 = 16 317,65 USDT",
+    "costFormula": "16 145,00 USD × 1,0045 + 100 = 16 317,65 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -2970,18 +2951,18 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 16317.65,
-    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «iNVOICE 01D11092026 TRAVELLUM_USD_24.09.26.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **AMBER TRAVEL LLC** (P.O.BOX 114525, ABU DHABI, UAE; тел. +971 2 4913536); банк **THE NATIONAL BANK OF RAS AL-KHAIMAH PJSC (RAKBANK)** (NBRAK Building, Sheikh Mohammed Bin Zayed Road, Exit 129, Al Rifa Area, Ras Al Khaimah), SWIFT **NRAKAEAK**, IBAN **AE460400000322706408002** (A/C 0322706408002); payment details «INV.01D11092026 dd.11/09/2026»; **Amount 16 145,00 USD**; OUR. Вложенный инвойс №01D11092026 dd 11.09.2026 (услуги: Cairo Marriott Hotel, Aparthotel Mil, Pullman UAE, Transport UAE, Sheraton Club des Pins Resort Algiers, Hôtel de l'Art de Bouaké, The Nishat Hotel Johar Town; TOTAL 16 145 USD; ⚠️ прописью в инвойсе «THREE THOUSAND EIGHT HUNDRED SEVENTY USD ONLY» — расхождение с 16 145). Клиент — VDX. Статус 🔴 (плательщик не назван). | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа).",
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «iNVOICE 01D11092026 TRAVELLUM_USD_24.09.26.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **AMBER TRAVEL LLC** (P.O.BOX 114525, ABU DHABI, UAE; тел. +971 2 4913536); банк **THE NATIONAL BANK OF RAS AL-KHAIMAH PJSC (RAKBANK)** (NBRAK Building, Sheikh Mohammed Bin Zayed Road, Exit 129, Al Rifa Area, Ras Al Khaimah), SWIFT **NRAKAEAK**, IBAN **AE460400000322706408002** (A/C 0322706408002); payment details «INV.01D11092026 dd.11/09/2026»; **Amount 16 145,00 USD**; OUR. Вложенный инвойс №01D11092026 dd 11.09.2026 (услуги: Cairo Marriott Hotel, Aparthotel Mil, Pullman UAE, Transport UAE, Sheraton Club des Pins Resort Algiers, Hôtel de l'Art de Bouaké, The Nishat Hotel Johar Town; TOTAL 16 145 USD; ⚠️ прописью в инвойсе «THREE THOUSAND EIGHT HUNDRED SEVENTY USD ONLY» — расхождение с 16 145). Клиент — VDX. Статус 🔴 (плательщик не назван). | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790).",
     "calc": "ТЕЗ"
   },
   {
-    "row": 157,
+    "row": 156,
     "date": "2026-09-24",
     "sum": 25081,
     "currency": "USD",
     "company": "UK",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": "25 081,00 USD × 1,0045 + 100 = 25 293,86 USDT",
+    "costFormula": "25 081,00 USD × 1,0045 + 100 = 25 293,86 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -2989,11 +2970,11 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 25293.86,
-    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «25081 USD.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **LCI-MTC Group SA** (Route de Beaumont 20, 1700 Fribourg, Switzerland); банк **3S MONEY (LUXEMBOURG) S.A.** (25C Boulevard Royal, L-2449 Luxembourg, Grand Duchy of Luxembourg), SWIFT **MOLULU55**, счёт **LU887160000295106336**; payment details «INV.2Z1GZ4 DD.23.09.2026»; **Amount 25 081,00 USD**; OUR. Клиент — VDX. Статус 🔴 (плательщик не назван). Отдельная сделка от Main r132 (LCI-MTC, 25 094,30 EUR, закрыта) — другой инвойс и сумма. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа).",
+    "notes": "📄 24.09.2026 (📨 Платежи VDX, файл «25081 USD.pdf») — **Payment from ❗️** (компания-плательщик в сообщении НЕ названа): Beneficiary **LCI-MTC Group SA** (Route de Beaumont 20, 1700 Fribourg, Switzerland); банк **3S MONEY (LUXEMBOURG) S.A.** (25C Boulevard Royal, L-2449 Luxembourg, Grand Duchy of Luxembourg), SWIFT **MOLULU55**, счёт **LU887160000295106336**; payment details «INV.2Z1GZ4 DD.23.09.2026»; **Amount 25 081,00 USD**; OUR. Клиент — VDX. Статус 🔴 (плательщик не назван). Отдельная сделка от Main r132 (LCI-MTC, 25 094,30 EUR, закрыта) — другой инвойс и сумма. | ✏️ 25.09.2026 (Scream): компания в колонке E изменена на UK (было: не названа). | ✏️ 25.09.2026 (Scream: «Пересчёт евро сделок VDX и долларовых»; расчёт: `54 503,20 / (0,8785 − 0,45%) = 62 321,65 + 300 = 62 621,65` EUR; `51 342,77 + 0,45% = 51 573,81 + 300 = 51 873,81` USD; `total 62 621,65 + 51 873,81 − 51 300 = 63 195,46`). Формула строки обновлена (курс EUR 0,8785 вместо 0,8790).",
     "calc": "ТЕЗ"
   },
   {
-    "row": 158,
+    "row": 157,
     "date": "2026-09-24",
     "sum": 10000,
     "currency": "USD",
@@ -3012,7 +2993,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 159,
+    "row": 158,
     "date": "2026-09-24",
     "sum": null,
     "currency": null,
