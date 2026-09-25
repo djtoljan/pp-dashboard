@@ -3071,20 +3071,20 @@
   {
     "row": 162,
     "date": "2026-09-25",
-    "sum": null,
-    "currency": null,
+    "sum": 136174.25,
+    "currency": "USD",
     "company": null,
-    "color": null,
-    "clientName": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
     "costFormula": null,
-    "extra": null,
+    "extra": "PROFORMA INVOICE № TSL26019, 136 174,25 USD. Продавец O’NEAL EUROPE GmbH & Co. KG (Germany) → AL WASAIL SOLUTION TRADING SPC (Oman). Order 20260430, 30% down / 70% before ship. Банк: BW Bank Stuttgart, SWIFT SOLADEST600, IBAN DE90 6005 0101 0002 4121 84. Файл: PI_TSL26019_spare_parts (2).xlsx (📨 ВТС-Fininvest t4585).",
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 25.09.2026 (📨 ВТС-Fininvest (t4585), файл «PI_TSL26019_spare_parts (2).xlsx») — **PROFORMA INVOICE № TSL26019** (Order No. **20260430**; Order Date **23.09.2026**; Delivery Date **08.10.2026**; Shipment Term **FOB**; Payment Term **30% down payment, rest 70% pay before ship out**): продавец **O’NEAL EUROPE GmbH & Co. KG** (Erich-Blum-Str. 33, D-71665 Vaihingen/Enz, Germany; factory delivery address — Room 2011, Jiezuo Building, No. 828, Section 1, Furong South Road, Changsha City, 410004, Hunan Province, China) → **TO: AL WASAIL SOLUTION TRADING SPC** (SAFIR VYSYAMVEETTIL KUNHIKADER; P.O. BOX 65, CR 1543357, OM-121 AL SEEB; e-mail vitaly@techno-sp.ru). Позиция: **moto clothes** — 1588 шт × 85,75204659949623 = **136 174,25 USD**. Банк продавца: **BW Bank Stuttgart**, SWIFT **SOLADEST600**, IBAN **DE90 6005 0101 0002 4121 84**. 🔴 Step 0 (проформа-инвойс; в документе принципал/клиент не назван — поставлен **ВТС** по группе ВТС-Fininvest, уточнить у Scream: ВТС или AL WASAIL). Дедуп: NEW_ROW — совпадений по 136 174,25 / TSL26019 / WASAIL в 5 таблицах нет. ⚠️ Имя файла «spare parts», позиция в счёте — «moto clothes».",
     "calc": null
   }
 ]
