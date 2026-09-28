@@ -3403,5 +3403,24 @@
     "notes": "📄 28.09.2026 (📨 Платежи VDX, файл «INV 150 000,00 USD (4).pdf») — **PAYMENT ORDER «Payment from Q8❗️»**: Beneficiary **Chaozhou Nanji Stainless Steel Co., Ltd** (Daliao Houpian, Xianle Er village, Caitang Town, Chao'an District, Chaozhou City); bank **China Construction Bank Corporation Chaozhou Caitang sub-branch** (1-2/F, comprehensive building of CCB, Caitang Town, Chaoan District, Chaozhou City, Guangdong Province); SWIFT **PCBCCNBJGDC**, account **44050180729900000910**; payment details **«Invoice No 00yt-005267 FROM 02.07.2026»**; **150 000,00 USD**; **OUR**. ✅ Scream 28.09.2026: «Это **новая заявка**» → отдельная строка (ранее заведённая Main r53 по ордеру «(3).pdf» от 14.09.2026 — другой платёж, не путать). Компания **Q8** → ⬜ (Step 3); клиент **VDX**. Расчёт Q8: **150 000,00 + 0,3% + 30 = 150 480,00 USDT**.",
     "calc": "ТЕЗ",
     "documentDate": "2026-09-28"
+  },
+  {
+    "row": 179,
+    "date": "2026-09-28",
+    "sum": 36520.61,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ВТС",
+    "costFormula": "36 520,61 + 0,3% + 30 = 36 660,17 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 36660.17,
+    "notes": "✏️ 28.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 36 520,61 + 0,3% + 30 = 36 660,17 USDT.",
+    "calc": "ТЕЗ"
   }
 ]
