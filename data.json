@@ -3282,7 +3282,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "📄 28.09.2026 (📨 ВТС-Fininvest (t4576), файл «Contract 260496A project from 25.9.2026.pdf») — **CONTRACT No. 260496A** (Badung, 25.09.2026): Seller **Sklostroj Turnov CZ, s.r.o** (Чехия; Mr. Gold Martin, Mr. Vild Petr — директора) → Buyer **Leo Spot Capital PT** (Bali, Badung, Indonesia; Biliq Sunset Office Space, Ruko Sunset Indah II No. 10, Kuta, Badung, Bali 80361; директор Mr. Lexy Christovery). | Предмет: поставка товара по Specification №1; условия **FCA Přepeře, Czech Republic** (Incoterms 2020); HS-код по Annex №1; страна происхождения/отгрузки — Чехия; консигнатор — Leo Spot Capital PT. **Общая сумма контракта — 25 148,00 EUR**. Оплата: **50% в течение 5 раб. дней** после получения подписанного контракта (по инвойсу) + **50% за 5 раб. дней до отгрузки**. Срок поставки 120 календарных дней с подтверждения заказа. | check-all-tables по 260496A / 260496 / 25 148 — совпадений в 5 таблицах нет. Компания-плательщик не названа → **🔴 (Step 0)**; клиент — **ВТС** (канал-источник). Расчёт не-Q8 — от Scream.",
+    "calc": null,
+    "documentDate": "2026-09-25"
   }
 ]
