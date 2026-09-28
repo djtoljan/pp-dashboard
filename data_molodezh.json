@@ -1385,7 +1385,7 @@
     "sum": 87300,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ИП Зольников (Молодёжь)",
     "costFormula": "87 300,00 + 0,3% + 30 = 87 591,90 USDT",
     "extra": null,
@@ -1395,7 +1395,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 87591.9,
-    "notes": "📄 24.09.2026 (📨 Молодёжь, файл «Invoice 24.9.26 Agaro-Q8 87 300 usd.pdf», скан) — **INVOICE № 9-5/2 dd 24-9-2026**: **AGARO COIN AUCTION, S.L.** (17220, Spain, Sant Feliu De Guíxols - Girona, Calle Agaro, num 89; info@agarosl.com; +34 640 32 56 91; BBVA, IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX) → BILL TO: **Q8 GROUP LIMITED** (Hong Kong). Lot 1: «Lots of Foreign world and roman coins» — **87 300,00 USD** (VAT 0%, shipping 0,00); Total USD 87 300,00. Печать AGARO COIN AUCTION. costFormula = 87 300,00 + 0,3% + 30 = 87 591,90 USDT. | 📄 24.09.2026 (📨 Молодёжь, файл «Платежное поручение agaro 87 300usd.docx») — платёжное поручение на оплату: AMOUNT **87 300,00 USD** → BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, Spain, Sant Feliu de Guíxols, Girona, Calle Agaro, num 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK Banco Bilbao Vizcaya Argentaria S.A. (c/Sauceda 28), SWIFT **BBVAESMMXXX**; PAYMENT DETAILS «PAYMENT BY INVOICE NO. 9-5/2 DD 24.09.2026». Соответствует инвойсу № 9-5/2 (эта строка).",
+    "notes": "📄 24.09.2026 (📨 Молодёжь, файл «Invoice 24.9.26 Agaro-Q8 87 300 usd.pdf», скан) — **INVOICE № 9-5/2 dd 24-9-2026**: **AGARO COIN AUCTION, S.L.** (17220, Spain, Sant Feliu De Guíxols - Girona, Calle Agaro, num 89; info@agarosl.com; +34 640 32 56 91; BBVA, IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX) → BILL TO: **Q8 GROUP LIMITED** (Hong Kong). Lot 1: «Lots of Foreign world and roman coins» — **87 300,00 USD** (VAT 0%, shipping 0,00); Total USD 87 300,00. Печать AGARO COIN AUCTION. costFormula = 87 300,00 + 0,3% + 30 = 87 591,90 USDT. | 📄 24.09.2026 (📨 Молодёжь, файл «Платежное поручение agaro 87 300usd.docx») — платёжное поручение на оплату: AMOUNT **87 300,00 USD** → BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, Spain, Sant Feliu de Guíxols, Girona, Calle Agaro, num 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK Banco Bilbao Vizcaya Argentaria S.A. (c/Sauceda 28), SWIFT **BBVAESMMXXX**; PAYMENT DETAILS «PAYMENT BY INVOICE NO. 9-5/2 DD 24.09.2026». Соответствует инвойсу № 9-5/2 (эта строка). | ✅ 28.09.2026 (📨 ПП компании Q8, файл «87300.00.pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2104440655404204032605**, Payment Time **2026-09-28 13:18:45**, Payer **Q8 GROUP LIMITED** → Payee **AGARO COIN AUCTION, S.L.** (BANCO BILBAO VIZCAYA ARGENTARIA S.A., счёт **ES1101825117092010000115**), **USD 87 300,00**, Remarks «**INVOICE952DD24092026ForAntiqCollectGoods**» = INVOICE № 9-5/2 dd 24-9-2026. Сумма/бенефициар совпали. ⬜→🟢 (Тип 7 BONBILL Q8).",
     "calc": null
   },
   {
