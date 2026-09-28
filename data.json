@@ -3344,5 +3344,24 @@
     "notes": "📄 28.09.2026 (📨 Ордера и Расчеты !, подпись «**Payment from VELLORA❗️**»; приложен «INV 35 271,00 EUR.pdf») — ордер на платёж: Beneficiary **CHERKEZOV Ltd** (Industrial Zone, 2825 Strumyani, Bulgaria; VAT BG101714522); банк **UNICREDIT BULBANK** (22, Ivan Shishman street, Blagoevgrad), SWIFT **UNCRBGSF**, счёт **BG03UNCR70001520072854**; Payment details «**INV 82-2026 dd 18.09.26**»; **Amount 35 271,00 EUR**; **OUR**. | Вложенный **PROFORMA INVOICE № 82-2026 dd 18 September 2026** (CHERKEZOV Ltd, Industrial Zone, 2825 Strumyani, Bulgaria; VAT BG101714522; cherkezov.ltd@gmail.com) → Customer (VAT CODE **391800053601** = ИП **Осипенко Виталий Петрович**): позиции — известняк Vratza (C120 honed slabs Beige 30 мм и др.), **TOTAL 35 271,00 €**, цены **FCA 2825 Strumyani**; Delivery terms «Within end of September»; Terms of payment **50% in advance / rest before loading**; транспорт — авто. Банк получателя: **UniCredit Bulbank**, IBAN **BG03UNCR70001520072854**, SWIFT **UNCRBGSF**. | Компания-плательщик **VELLORA** → ⬜ (Step 3); клиент — **ИП Осипенко В.П.** (по инвойсу 82-2026 и прецеденту Main r129). ⚠️ Родственная строка **Main r129** (17 635,5 EUR, 50% аванс по тому же инвойсу 82-2026, компания Fininvest, поручение №18) — это отдельный ордер; сумму/строку не сливал. check-all-tables по 35 271 / 82-2026 / CHERKEZOV — совпадений по сумме нет.",
     "calc": null,
     "documentDate": "2026-09-18"
+  },
+  {
+    "row": 176,
+    "date": "2026-09-28",
+    "sum": 6541000,
+    "currency": "RUB",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Экохит",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
