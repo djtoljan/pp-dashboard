@@ -3518,7 +3518,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 11344.84,
-    "notes": "✏️ 28.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 11 281,00 + 0,3% + 30 = 11 344,84 USDT.",
-    "calc": "ТЕЗ"
+    "notes": "📄 28.09.2026 (📨 Платежи VDX, файл «15567_inv-ag.pdf») — **INVOICE No. XH20260923RV-QHZ** (Date 09/23/2026) от **Xianghang Automation Co., Ltd** (No.1128, Building 31, Changfeng International, Xintang, Zengcheng District, Guangzhou, Guangdong, China; contact Huang Yi Chuan, +86 13929560863): позиции — **частотные преобразователи** (13 строк: 181B0292 OPT-A5-V, Siemens Micromaster 430 6SE6430-2AD31-1CA0, MCD60042BT5S1X20CV2, NXS00165-…, Danfoss MCD 201-030-T4-CV3, FC-202P30KT4E20H2…, VACON0100-3L-0009-5-FLOW, Mitsubishi FR-CS82S-042-60, Siemens 6SL3224-0BE21-1UA0, VACON0100-3L-0031-5-FLOW+SEBJ, 130B1100, 130B1235, FC-302P4K0T5E20H1BG…), HS 85044099,40, iron+plastic, for machine); **TOTAL AMOUNT (USD) 11 281,00**; банк **HSBC Hong Kong** (1 Queen's Road Central, Hong Kong), A/C **848 128633 838**, SWIFT **HSBCHKHHHKH**; **Contract # 2688/07 Date 28.04.2026**; Payment Terms: **Pay in full, EXW**; delivery ~6-7 weeks; forwarder MR-VP (phone 15395790509). Компания **Q8** → ⬜, клиент **VDX** (по каналу); расчёт Q8 проставлен сразу: **11 281,00 + 0,3% + 30 = 11 344,84 USDT**. ⚠️ Формулировки «Payment from …» в сообщении нет (в инвойсе Buyer пуст) — компания/клиент по каналу; уточнить при необходимости. check-all-tables по 11 281 / XH20260923RV — совпадений нет.",
+    "calc": "ТЕЗ",
+    "documentDate": "2026-09-28"
   }
 ]
