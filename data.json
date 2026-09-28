@@ -3498,7 +3498,27 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 5534.46,
-    "notes": "✏️ 28.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 5 488,00 + 0,3% + 30 = 5 534,46 USDT.",
-    "calc": "ТЕЗ"
+    "notes": "📄 28.09.2026 (📨 Платежи VDX, файл «15558_inv-ag.pdf») — **PROFORMA INVOICE № 17** (Date 9/24/2026; Ship From China; Delivery terms **EXW**): **Supplier / Contract № 2442/02 от 14.04.2026 — GOLDMAN INTERNATIONAL LIMITED** (FLAT/RM A 12/F, ZJ 300, 300 Lockhart Road, Wan Chai, Hong Kong; sale@goldman.international). Позиция: **AURO PRO-FL-G3A-120** — LED FLOODLIGHT (AC100-300V, 120W, 90deg, CCT 5700K) — 56 × 98,00 = **5 488,00 USD**; Shipping 0,00; Bank Charge 0,00; **TOTAL (USD) 5 488,00**; Payment Term 100% on the invoice (TT); Delivery 15 business days after payment received. Банк: **China Construction Bank (Asia) Corporation Limited** (20/F, CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon, Hong Kong), SWIFT **CCBQHKAXXXX**, счёт **8462 1030 8591** (GOLDMAN INTERNATIONAL LIMITED). Важно: указывать «Payment for LED Lighting». Компания **Q8** → ⬜, клиент **VDX** (по каналу 📨 Платежи VDX); расчёт Q8 проставлен сразу: **5 488,00 + 0,3% + 30 = 5 534,46 USDT**. ⚠️ Формулировки «Payment from …» в сообщении нет (в инвойсе Buyer пуст) — компания/клиент по каналу; уточнить при необходимости. check-all-tables по 5 488 / GOLDMAN / 2442/02 — совпадений нет.",
+    "calc": "ТЕЗ",
+    "documentDate": "2026-09-28"
+  },
+  {
+    "row": 184,
+    "date": "2026-09-28",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
