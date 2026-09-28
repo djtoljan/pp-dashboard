@@ -3162,7 +3162,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "📄 28.09.2026 (📨 Платежи VDX, «**Payment from Q8❗️**»; приложен «01ΠΕΞ0000493_260924.pdf») — ордер на платёж Q8: Beneficiary **AUDIO GROUP GREECE B.V.** (321 Mesogeion Avenue, Chalandri, 152 31, Athens, Greece); банк **PIRAEUS BANK** (4 Amerikis Street, Athens, 105 64, Greece), SWIFT **PIRBGRAA**, счёт **GR32 0172 0760 0050 7607 0317 197**; Payment details «**Proforma 493 dd 24.09.2026**»; **Amount 13 773,86 EUR**; комиссия **OUR**. Компания-плательщик **Q8** → ⬜ (Step 3). Клиент — **VDX** (группа-источник). | • PROFORMA/INVOICE № **493** dd 24.09.2026 (AUDIO GROUP GREECE B.V., Bose Greece, www.bose.gr; EXW-HALANDRI-ATTIKI; товары Bose: Soundbar Smart Ultra / Lifestyle Ultra, Bass Module 500, Subwoofer/Speaker Lifestyle Ultra, QuietComfort Ultra Earbuds (2nd Gen), SoundLink Home Speaker; TOTAL **13 773,86 EUR**, freight 0,00; «ALL changes and commissions payable by buyer») — сумма ордера = сумме проформы ✓. | check-all-tables по 13 773,86 / AUDIO GROUP / PIRBGRAA / Proforma 493 — совпадений в 5 таблицах нет. Q8-расчёт (EUR → сумма × курс + 0,3% + 30) ждёт кросс-курс FX Q8 EUR→USD.",
+    "calc": null,
+    "documentDate": "2026-09-24"
   }
 ]
