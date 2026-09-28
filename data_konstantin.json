@@ -492,5 +492,24 @@
     "sent_usdt": 39904.95491,
     "notes": "💵 28.09.2026 (Scream, голосовая команда: «в Константине (Просто группа) сразу зелёную строку — пришли USDT / ушли USDT / маржа») — простая USDT-сделка без заявки (без суммы в валюте): **пришло 39 975,77 USDT**, **ушло 39 904,95491 USDT**, маржа **70,81509** (≈70,82). Источник: Bobr-алерты @CryptoScreambot, пересланные Scream'ом 28.09.2026: 🟢 ВХОД 39 975,77 USDT (Рабочий 4 ← TH3oRx78WvFtmvi3TzNiQX58b5yzHN45du, 13:07:54 UTC, txid 49e2d8384530a69ce6041d399403fecd2a8c53a92813b5c50618ce5a690efd5a) и 🔴 ВЫХОД 39 904,95491 USDT (Рабочий 4 → TC4CXbtM8WKFvvsgbmc6TzYE4TDVEj5MeV, 11:50:21 UTC, txid 985c72100ead71e35b6d74ec617eb43bfc564c53622b365d8cb03603fd327627). Оба движения уже проведены в wallet-ledger с Q9 (клиент «Константин (Просто группа)»).",
     "calc": null
+  },
+  {
+    "row": 27,
+    "date": "2026-09-28",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
