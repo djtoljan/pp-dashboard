@@ -3265,5 +3265,24 @@
     "notes": "📄 28.09.2026 (📨 Платежи VDX, форвард от **Mike VDX**; подпись «**Payment from Q8❗️**»; приложен «Invoice Bthkh-20260921 - 1756000 usd.pdf») — **ВТОРАЯ заявка** к тому же инвойсу **BTKHK-20260921 dd 21.09.2026** (Scream 28.09.2026: «нет это вторая заявка»): Beneficiary **Be The King (HK) Company Limited** (Flat 01A2, 10F Carnival Commercial Building, 18 Java Road, North Point, Hong Kong); банк **OCBC Bank (Hong Kong) Limited** (161 Queen's Road, Central, HK), SWIFT **WIHBHKHHXXX**, счёт **802-549427-831**; Payment details «**Inv BTKHK-20260921 dd 21.09.2026**»; **Amount 125 331,43 USD**; **OUR**. Компания-плательщик **Q8** → ⬜ (Step 3); клиент — **VDX** (группа-источник). Полная сумма инвойса BTKHK-20260921 — 1 756 000,00 USD (Rubber Mixing Line SKI-140L, FOB Taiwan, «partial payments allowed»); это вторая частичная оплата (первая — Main r170, 125 000,00 USD). Q8-расчёт: 125 331,43 + 0,3% + 30 = 125 737,42 USDT.",
     "calc": "ТЕЗ",
     "documentDate": "2026-09-21"
+  },
+  {
+    "row": 172,
+    "date": "2026-09-28",
+    "sum": 25148,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ВТС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
