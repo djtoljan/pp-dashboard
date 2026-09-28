@@ -3182,7 +3182,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "📄 28.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; приложен «Invoice - 20000 usD.pdf») — ордер на платёж: Beneficiary **LLC «KAMERTON TRAVEL»** (Monk Gabriel Salosi Avenue N 3, flat 23, 0144 Tbilisi, Georgia); банк **JSC BANK OF GEORGIA** (29a Gagarin street, Tbilisi 0160, Georgia), SWIFT **BAGAGE22**, счёт **GE65BG0000000581140220**; Payment details «**INV.-25091-26 dd.25.09.2026**»; **Amount 20 000,00 USD**; **OUR**. | Компания-плательщик в сообщении не названа → по прецеденту этого канала (строки 110/122/123/130/133/134/135/139/151/153–157/162, подпись «Payment from ❗️») поставлена **UK**; клиент — **VDX** (группа-источник). check-all-tables по 20 000 / KAMERTON / 25091 / BAGAGE22 — совпадений в 5 таблицах нет. | Расчёт не-Q8 (компания UK) — costFormula/sent_usdt ждём от Scream (по аналогии с туристическими VDX-строками — курс из FX/скрина).",
+    "calc": null,
+    "documentDate": "2026-09-25"
   }
 ]
