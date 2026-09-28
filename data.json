@@ -2713,7 +2713,7 @@
     "sum": 2342582.2,
     "currency": "CNY",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ИП Лукин",
     "costFormula": "2 342 582,20 CNY / 6,706968596 + 0,3% + 30 = 350 353,68 USDT",
     "extra": null,
@@ -3202,7 +3202,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "📄 28.09.2026 (📨 Платежи VDX, «**Payment from ❗️**» — компания-плательщик в сообщении НЕ указана; приложен «2 - 11 Oct 2026 UGUR Proforma.pdf») — ордер на платёж: Beneficiary **CONTACT YACHTS LTD.** (Karasakiz Sokak Baykal Ibrahim Topcu Apt No:6, Gazimagusa, Turkiye); банк **TC Ziraat Bankasi** (Karakol Mah. Ismet Inonu Bulvari No:41, 99450 Gazimagusa, Turkiye), SWIFT **TCZBTR2AXXX**, счёт **TR42 0001 0008 6197 6924 2550 03**; Payment details «**INV.20260012 dd.24.09.2026**»; **Amount 33 750,00 EUR**; **OUR**. | Компания-плательщик в сообщении не названа → по прецеденту этого канала (подпись «Payment from ❗️») поставлена **UK**; клиент — **VDX** (группа-источник). check-all-tables по 33 750 / CONTACT YACHTS / 20260012 — совпадений в 5 таблицах нет (совпал только SWIFT TCZBTR2A у чужой строки Main r121 GENÇGÜÇSAN — не эта сделка). | Расчёт не-Q8 (компания UK) — costFormula/sent_usdt ждём от Scream (по аналогии с туристическими VDX-строками — курс из FX/скрина).",
+    "calc": null,
+    "documentDate": "2026-09-24"
   }
 ]
