@@ -3478,7 +3478,27 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 53613.22,
-    "notes": "✏️ 28.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 53 422,95 + 0,3% + 30 = 53 613,22 USDT.",
+    "notes": "📄 28.09.2026 (📨 Платежи VDX, файл «INV-000080_53 422,95 usd.pdf») — **TAX INVOICE # INV-000080** от **Sodalitas Trading L.L.C-FZ** (Dubai, UAE; business@sodalitas.ae): Invoice Date 28 Sep 2026, Terms Due on Receipt, Due Date 28 Sep 2026; Contract **01C/2026 dd 02.04.2026**; позиции — TPU-чехлы (6 строк: Black TPU 64 126 × 0,14 = 8 952,50; TPU 27 369 × 0,17 = 4 639,70; TPU 30 812 × 0,23 = 7 066,92; Black TPU 66 300 × 0,23 = 15 206,30; TPU 95 327 × 0,142 = 13 498,53; TPU black + PC shell 16 960 × 0,24 = 4 059,00); Sub Total **53 422,95**, Discount (−150,01), **Total / Balance Due $53 422,95**; банк **FIRST ABU DHABI BANK PJSC** (Sheikh Zayed Road Branch, Dubai), SWIFT **NBADAEAA**, счёт **AE320351031005753309002** (SODALITAS TRADING LLC FZ, Business Center 1, The Meydan Hotel, Nad Al Sheba, Dubai). Компания **Q8** → ⬜, клиент **VDX** (по каналу 📨 Платежи VDX); расчёт Q8 проставлен сразу: **53 422,95 + 0,3% + 30 = 53 613,22 USDT**. ⚠️ Формулировки «Payment from …» в сообщении нет — компания/клиент по каналу; уточнить при необходимости. check-all-tables по 53 422 / INV-000080 — совпадений нет.",
+    "calc": "ТЕЗ",
+    "documentDate": "2026-09-28"
+  },
+  {
+    "row": 183,
+    "date": "2026-09-28",
+    "sum": 5488,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": "5 488,00 + 0,3% + 30 = 5 534,46 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 5534.46,
+    "notes": "✏️ 28.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 5 488,00 + 0,3% + 30 = 5 534,46 USDT.",
     "calc": "ТЕЗ"
   }
 ]
