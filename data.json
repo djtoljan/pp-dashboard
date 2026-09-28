@@ -3141,7 +3141,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
-    "calc": null
+    "notes": "📄 28.09.2026 (📨 Заявки Компания Q8, файлы «юань.pdf» + «юань оплата.docx») — пара «PAYMENT ORDER + PROFORMA INVOICE» (Q8, юани). | • PROFORMA INVOICE № HWG2026-0904-01PI dd 04.09.2026 (CONTRACT № HWG2026-0904-01C dd 04.09.2026): SELLER HAEWON GLOBAL Co., Ltd. (14117 #13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea; TEL +82-10 9255 5355); BUYER Q8 GROUP LIMITED (RM A22, 10/F, NO. 52, HUNG TO ROAD, Kwun Tong, Hong Kong). Товар: PET CHIPS grade YS-Y01 (IV 0.83), HS 3907610000, 322 MT × RMB 7 275,10 = RMB 2 342 582,20; FOB DALIAN → Vladivostok; partial payments allowed, 100% оплата до 15.09.2026. | • PAYMENT ORDER (юань оплата.docx): THE AMOUNT AND THE CURRENCY TO TRANSFER — 2 342 582,20 CNY; BENEFICIARY HAEWON GLOBAL Co., Ltd.; ACCOUNT 931-038712-56-00019; банк Industrial Bank of Korea, PYEONGCHON IT, SWIFT IBKOKRSEXXX. | Сумма ордера = сумме проформы ✓ (2 342 582,20), реквизиты совпадают ✓. Компания-плательщик по проформе (BUYER) = Q8 → ⬜ (Step 3). ⚠️ Клиент НЕ определён (канал «Заявки Компания Q8» клиента не называет; тот же поставщик/банк/товар, что у ИП Сыромятникова в строке 70 — уточнить у Scream). check-all-tables по 2 342 582,20 / HWG2026-0904 / HAEWON — совпадений в 5 таблицах нет. Q8-расчёт (CNY → FX Q8 CNY→USD + 0,3% + 30) ждёт кросс-курс.",
+    "calc": null,
+    "documentDate": "2026-09-04"
   }
 ]
