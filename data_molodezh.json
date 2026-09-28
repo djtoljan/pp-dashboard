@@ -1625,7 +1625,8 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 23445.03,
-    "notes": "✏️ 28.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 23 345,00 + 0,3% + 30 = 23 445,03 USDT.",
-    "calc": null
+    "notes": "📄 28.09.2026 (📨 Молодежь, файл «payment order.docx») — **PAYMENT ORDER** DATE **28/09/2026**: AMOUNT **23 345,00**, CURRENCY **USD**; BENEFICIARY **ADASI GROUP SDN BHD** (N-05-03, Pusat Perdagangan, Bandar Bukit Jalil, Persiaran Jalil 3, Kuala Lumpur, 57000); BENEFICIARY BANK **MAYBANK BERHAD** (C-1-1, Pusat Perdagangan Bandar 7, Jalan Bukit Jalil, Kuala Lumpur 57000, Malaysia); ACCOUNT **764418000521**, SWIFT **MBBEMYKL**; PAYMENT PURPOSE «Payment for invoice no. **2609038 dated 28.09.2026**». Компания **Q8** → ⬜ (Step 3). Расчёт Q8: **23 345,00 + 0,3% + 30 = 23 445,03 USDT**. ⚠️ Клиент в документе НЕ указан — поставлена явная пометка «Молодёжь (уточнить)», требует уточнения у Scream (по правилу клиента не назначаю самовольно). check-all-tables по ADASI / 2609038 / 23 345 — совпадений нет. | 📄 28.09.2026 (📨 Молодежь, файл «final_invoice.pdf») — **INVOICE 2609038 dd 28.09.2026** (TERMS Due on receipt, DUE DATE 28.09.2026): продавец **Adasi Group Sdn. Bhd.** (N-05-03, Pusat Perdagangan, Bandar Bukit Jalil, Persiaran Jalil 3, Kuala Lumpur 57000; +60397668630; info@adasigroup.com) → BILL TO **Q8 GROUP LIMITED** (Acc No. 79807111801, DBS Bank (Hong Kong) Limited, 18/F The Center, 99 Queen's Road Central, SWIFT DHBKHKHH); позиция «**Seal change**» 1 × 23 345,00 = **23 345,00 USD**; **BALANCE DUE USD 23 345,00**, «FULL PAYMENT WITHOUT LOSS»; банк **MAYBANK BERHAD** (Acc Name ADASI GROUP SDN BHD; 564418620564 (MYR) / 764418000521 (USD), SWIFT MBBEMYKL; SST W10-2403-32000566).",
+    "calc": "ТЕЗ",
+    "documentDate": "2026-09-28"
   }
 ]
