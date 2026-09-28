@@ -1547,7 +1547,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 28.09.2026 (📨 Молодежь, файл «SHANGHAI SEAROC INTERNATIONAL TRADING CO.,LIMITED.pdf») — **ПП №410 от 28.09.2026** (электронно; АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545; принято 28.09.2026): плательщик **ООО «ЭКСПЕРТ»** (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), сумма **903 164,22 ₽** {VO11100} «для перечисления (**SHANGHAI SEAROC INTERNATIONAL TRADING CO.,LIMITED**) за товар по Ag.-Offer **14082026** от 14.08.2026 по PR.IN. **JXZ20260801** DD 01.08.2026, аг.дог.№09-02-2/26 от 09.02.26. Без НДС». `sent_rubles_vdx` = 903 164,22 (VDX), `exchange_to` = VDX. Новый ПП без заявки → одна **🔵** строка. check-all-tables по JXZ20260801 / 903 164 / SEAROC — совпадений в 5 таблицах нет.",
+    "notes": "📄 28.09.2026 (📨 Молодежь, файл «SHANGHAI SEAROC INTERNATIONAL TRADING CO.,LIMITED.pdf») — **ПП №410 от 28.09.2026** (электронно; АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545; принято 28.09.2026): плательщик **ООО «ЭКСПЕРТ»** (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), сумма **903 164,22 ₽** {VO11100} «для перечисления (**SHANGHAI SEAROC INTERNATIONAL TRADING CO.,LIMITED**) за товар по Ag.-Offer **14082026** от 14.08.2026 по PR.IN. **JXZ20260801** DD 01.08.2026, аг.дог.№09-02-2/26 от 09.02.26. Без НДС». `sent_rubles_vdx` = 903 164,22 (VDX), `exchange_to` = VDX. Новый ПП без заявки → одна **🔵** строка. check-all-tables по JXZ20260801 / 903 164 / SEAROC — совпадений в 5 таблицах нет. | 📄 28.09.2026 (📨 Молодежь, файл «Платежное поручение 158828.docx») — **Платёжное поручение №158828**: AMOUNT **10 570,00**, CURRENCY **USD**; BENEFICIARY **SHANGHAI SEAROC INTERNATIONAL TRADING CO., LTD** (NO. 2116, FIRST BUILDING, NO. 555, HUIYU ROAD, JIADING DISTRICT, SHANGHAI, CHINA); ACCOUNT **51200012600036632**; BENEF. BANK **FUBON BANK (CHINA) CO., LTD** (1200 CHANGNING RD., CHANGNING DISTRICT, SHANGHAI), SWIFT **FSBCCNSHXXX**; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. **JXZ20260801 DD 01.08.2026 FOR DOORS**». Целевой платёж по этой строке (10 570,00 USD ↔ 903 164,22 ₽, ПП №410).",
     "calc": null
   },
   {
@@ -1628,5 +1628,24 @@
     "notes": "📄 28.09.2026 (📨 Молодежь, файл «payment order.docx») — **PAYMENT ORDER** DATE **28/09/2026**: AMOUNT **23 345,00**, CURRENCY **USD**; BENEFICIARY **ADASI GROUP SDN BHD** (N-05-03, Pusat Perdagangan, Bandar Bukit Jalil, Persiaran Jalil 3, Kuala Lumpur, 57000); BENEFICIARY BANK **MAYBANK BERHAD** (C-1-1, Pusat Perdagangan Bandar 7, Jalan Bukit Jalil, Kuala Lumpur 57000, Malaysia); ACCOUNT **764418000521**, SWIFT **MBBEMYKL**; PAYMENT PURPOSE «Payment for invoice no. **2609038 dated 28.09.2026**». Компания **Q8** → ⬜ (Step 3). Расчёт Q8: **23 345,00 + 0,3% + 30 = 23 445,03 USDT**. ⚠️ Клиент в документе НЕ указан — поставлена явная пометка «Молодёжь (уточнить)», требует уточнения у Scream (по правилу клиента не назначаю самовольно). check-all-tables по ADASI / 2609038 / 23 345 — совпадений нет. | 📄 28.09.2026 (📨 Молодежь, файл «final_invoice.pdf») — **INVOICE 2609038 dd 28.09.2026** (TERMS Due on receipt, DUE DATE 28.09.2026): продавец **Adasi Group Sdn. Bhd.** (N-05-03, Pusat Perdagangan, Bandar Bukit Jalil, Persiaran Jalil 3, Kuala Lumpur 57000; +60397668630; info@adasigroup.com) → BILL TO **Q8 GROUP LIMITED** (Acc No. 79807111801, DBS Bank (Hong Kong) Limited, 18/F The Center, 99 Queen's Road Central, SWIFT DHBKHKHH); позиция «**Seal change**» 1 × 23 345,00 = **23 345,00 USD**; **BALANCE DUE USD 23 345,00**, «FULL PAYMENT WITHOUT LOSS»; банк **MAYBANK BERHAD** (Acc Name ADASI GROUP SDN BHD; 564418620564 (MYR) / 764418000521 (USD), SWIFT MBBEMYKL; SST W10-2403-32000566).",
     "calc": "ТЕЗ",
     "documentDate": "2026-09-28"
+  },
+  {
+    "row": 86,
+    "date": "2026-09-28",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
