@@ -3363,5 +3363,24 @@
     "sent_usdt": null,
     "notes": "📄 28.09.2026 (📨 ООО Экохит - Fininvest/ЭТБ, файл «Поручение 28.09.26.docx») — **ПОРУЧЕНИЕ № 26 от 28.09.2026** (Transfer request No. 26 from 28.09.2026; Приложение №1 к Агентскому договору № 1606/26 от 16.06.2026 г.): Принципал **ООО «Экохит»** → Агент **ОсОО «Блэкшарк Трейд»**. Назначение: оплата в адрес **GLOBAL MARINE SUPPLY** по предварительному расчёту, с приложением копии инвойса **GLO-260812**. Получатель (нерезидент) **Global Marine Supply OU** (Tiigi tn/Kesk tee 9a, Juri alevik 75301, Rae vald, Harjumaa, Estonia); банк **PKO Bank Polski S.A** (Poland, 02-515 Warszawa, Pulawska 15), счёт **PL71102049000000890235842116**, SWIFT **BPKOPLPW**; назначение платежа «Payment according to contract 08/2023 from 08.08.2023». **Сумма в рублях 6 541 000 ₽**; комиссия Агента **1,6%**; срок **2–3 банковских дня** с момента поступления платежа. ⚠️ Поле «Сумма и валюта платежа» в docx не распозналось (битые символы) — уточнить валютную сумму; возможная связь с линией **Main r59** (INVOICES Global Marine Supply OÜ, инвойс GLO-260812). Компания-плательщик не названа → **🔴** (Step 0); клиент — **ООО «Экохит»**. | 📄 28.09.2026 (📨 ООО Экохит - Fininvest/ЭТБ, файл «GLO-260812.pdf» — скан без текстового слоя, читал вижном) — **Invoice Nr GLO-260812** dd **29.07.26** (date of payment 26.08.2026): Vendor **Global Marine Supply OÜ** (Tiigi tn. 14/Kesk tee 9a, Jüri alevik 75301, Rae vald, Harjumaa, Estonia; VAT EE101001432, Reg.nr 11152291; банк PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser **ECOHEAT LLC** (= ООО «Экохит», 197046 СПб, Мира 37 пом.36; KMRK 7813216062, Reg.Nr 781301001); Consignee ECOHEAT LLC по контракту **08/2023 от 08.08.2023** (SVH Nevskiy Terminal, Кронштадт). Позиции — мороженое (OREO Donut, Kinder Bueno, Minimelts Cherry, BOUNTY, SNICKERS и др.). **Total amount 71 520,00 EUR** (без НДС 0%); штраф 0,5%/день. → `sum` строки приведён к сумме платежа по инвойсу/поручению = **71 520,00 EUR** (поручение №26: 6 541 000 ₽, комиссия 1,6%). | 📄 28.09.2026 (📨 ООО Экохит - Fininvest/ЭТБ, файл «Поручение 28.09.26.pdf» — та же форма в PDF, точные поля) — **ПОРУЧЕНИЕ № 26 от 28.09.2026** (Приложение №1 к Агентскому договору № 1606/26 от 16.06.2026): Принципал **ООО «Экохит»** (дир. Орлицкая Д.С.) → Агент **ОсОО «Блэкшарк Трейд»** (Курьянов Т.А.); платёж по инвойсу **GLO-260812**. **Сумма и валюта платежа = 66 836,38 EUR**; получатель **Global Marine Supply OU**; банк **PKO Bank Polski S.A**, счёт **PL71102049000000890235842116**, SWIFT **BPKOPLPW**; назначение «Payment according to contract 08/2023 from 08.08.2023»; **курс конвертации 96,3**; **сумма к перечислению 6 436 344 ₽**; **комиссия Агента 1,6% = 102 981,50**; срок 2–3 банковских дня; условие — скан-копия SWIFT-подтверждения. → `sum` строки приведён к сумме платежа по поручению = **66 836,38 EUR** (инвойс GLO-260812 — 71 520,00 EUR, справочно).",
     "calc": null
+  },
+  {
+    "row": 177,
+    "date": "2026-09-28",
+    "sum": 86000,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
