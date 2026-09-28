@@ -1757,6 +1757,25 @@
   },
   {
     "row": 93,
+    "date": "2026-09-17",
+    "sum": 7100,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 17.09.2026 (📨 Платежи VDX, файл «4_5864017766620602460.pdf») — **INVOICE No. HK26012 от 16.09.2026** (工程与贸易公司 / «Engineering and trading company», Ships, Power Plant's, Logistics): «SHIPS SPARE PARTS IN TRANSIT»; P.Order **AK1009-SP-FOR-50**; For: T|C; Serial No. **RR180**; Maker **BBC**. Позиция: **2 KIT — SERVICE KIT RR180**, цена 3 550,00 за комплект = **7 100,00**; Subtotal USD 7 100,00; Packing & Handling —; Transport cost —; **Total in USD 7 100,00**. Банк: **Account holder STATURA LIMITED** (Suite C, Level 7, WORLD TRUST TOWER, 50 Stanley street, Central, Hong Kong; Reg.No. 74211485), **DBS Bank (Hong Kong) Limited**, SWIFT **DHBKHKHH**, bank code 016, счёт **478798114827**. Сумма строки = итог инвойса (7 100,00 USD). Компания-плательщик в документе НЕ названа → статус **🔴 (Step 0)**, расчёт жду от владельца; клиент — VDX (по классу «📨 Платежи VDX»). По сумме/инвойсу/бенефициару совпадений в 5 таблицах нет (проверено: 7100 / STATURA / HK26012 / AK1009 / RR180) — строка новая. | ↩️ 28.09.2026 восстановлена по команде Scream («Верни») — ранее была Main r90, удалена 19.09.2026.",
+    "calc": null
+  },
+  {
+    "row": 94,
     "date": "2026-09-18",
     "sum": null,
     "currency": null,
@@ -1775,7 +1794,7 @@
     "calc": null
   },
   {
-    "row": 94,
+    "row": 95,
     "date": "2026-09-18",
     "sum": 34578,
     "currency": "USD",
@@ -1794,7 +1813,7 @@
     "calc": null
   },
   {
-    "row": 95,
+    "row": 96,
     "date": "2026-09-18",
     "sum": 50598,
     "currency": "USD",
@@ -1813,7 +1832,7 @@
     "calc": null
   },
   {
-    "row": 96,
+    "row": 97,
     "date": "2026-09-18",
     "sum": 30592.47,
     "currency": "USD",
@@ -1832,7 +1851,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 97,
+    "row": 98,
     "date": "2026-09-18",
     "sum": 9527,
     "currency": "USD",
@@ -1851,7 +1870,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 98,
+    "row": 99,
     "date": "2026-09-18",
     "sum": 30200,
     "currency": "USD",
@@ -1870,7 +1889,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 99,
+    "row": 100,
     "date": "2026-09-18",
     "sum": 36431,
     "currency": "USD",
@@ -1889,7 +1908,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 100,
+    "row": 101,
     "date": "2026-09-18",
     "sum": 11780,
     "currency": "USD",
@@ -1908,7 +1927,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 101,
+    "row": 102,
     "date": "2026-09-18",
     "sum": 41805.26,
     "currency": "USD",
@@ -1927,7 +1946,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 102,
+    "row": 103,
     "date": "2026-09-18",
     "sum": 67356.84,
     "currency": "USD",
@@ -1946,7 +1965,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 103,
+    "row": 104,
     "date": "2026-09-18",
     "sum": 41335,
     "currency": "USD",
@@ -1965,7 +1984,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 104,
+    "row": 105,
     "date": "2026-09-18",
     "sum": 97899.07,
     "currency": "USD",
@@ -1984,7 +2003,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 105,
+    "row": 106,
     "date": "2026-09-18",
     "sum": 20581,
     "currency": "USD",
@@ -2005,7 +2024,7 @@
     "statusTriggerDocId": "tonio-debit-advice-mfar-20581-executed"
   },
   {
-    "row": 106,
+    "row": 107,
     "date": "2026-09-18",
     "sum": 25942.21,
     "currency": "USD",
@@ -2024,7 +2043,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 107,
+    "row": 108,
     "date": "2026-09-21",
     "sum": null,
     "currency": null,
@@ -2043,7 +2062,7 @@
     "calc": null
   },
   {
-    "row": 108,
+    "row": 109,
     "date": "2026-09-21",
     "sum": null,
     "currency": null,
@@ -2062,7 +2081,7 @@
     "calc": null
   },
   {
-    "row": 109,
+    "row": 110,
     "date": "2026-09-21",
     "sum": 21190,
     "currency": "EUR",
@@ -2081,7 +2100,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 110,
+    "row": 111,
     "date": "2026-09-21",
     "sum": 16083,
     "currency": "EUR",
@@ -2100,7 +2119,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 111,
+    "row": 112,
     "date": "2026-09-21",
     "sum": 13200,
     "currency": "CNY",
@@ -2119,7 +2138,7 @@
     "calc": null
   },
   {
-    "row": 112,
+    "row": 113,
     "date": "2026-09-21",
     "sum": 16000,
     "currency": "USD",
@@ -2138,7 +2157,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 113,
+    "row": 114,
     "date": "2026-09-21",
     "sum": 190000,
     "currency": "USD",
@@ -2157,7 +2176,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 114,
+    "row": 115,
     "date": "2026-09-21",
     "sum": 79950,
     "currency": "USD",
@@ -2176,7 +2195,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 115,
+    "row": 116,
     "date": "2026-09-21",
     "sum": 30200,
     "currency": "USD",
@@ -2195,7 +2214,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 116,
+    "row": 117,
     "date": "2026-09-21",
     "sum": 19368.01,
     "currency": "USD",
@@ -2214,7 +2233,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 117,
+    "row": 118,
     "date": "2026-09-21",
     "sum": 14799.65,
     "currency": "EUR",
@@ -2233,7 +2252,7 @@
     "calc": null
   },
   {
-    "row": 118,
+    "row": 119,
     "date": "2026-09-21",
     "sum": 20452.5,
     "currency": "USD",
@@ -2252,7 +2271,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 119,
+    "row": 120,
     "date": "2026-09-21",
     "sum": 44526.31,
     "currency": "USD",
@@ -2271,7 +2290,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 120,
+    "row": 121,
     "date": "2026-09-22",
     "sum": 62450,
     "currency": "USD",
@@ -2290,7 +2309,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 121,
+    "row": 122,
     "date": "2026-09-22",
     "sum": 50000,
     "currency": "EUR",
@@ -2309,7 +2328,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 122,
+    "row": 123,
     "date": "2026-09-22",
     "sum": 26245,
     "currency": "EUR",
@@ -2328,7 +2347,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 123,
+    "row": 124,
     "date": "2026-09-22",
     "sum": 13500,
     "currency": "EUR",
@@ -2347,7 +2366,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 124,
+    "row": 125,
     "date": "2026-09-22",
     "sum": 53000,
     "currency": "EUR",
@@ -2366,7 +2385,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 125,
+    "row": 126,
     "date": "2026-09-22",
     "sum": 10020.66,
     "currency": "USD",
@@ -2385,7 +2404,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 126,
+    "row": 127,
     "date": "2026-09-22",
     "sum": 65072.5,
     "currency": "USD",
@@ -2404,7 +2423,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 127,
+    "row": 128,
     "date": "2026-09-22",
     "sum": 80229.19,
     "currency": "USD",
@@ -2423,7 +2442,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 128,
+    "row": 129,
     "date": "2026-09-22",
     "sum": 17635.5,
     "currency": "EUR",
@@ -2442,7 +2461,7 @@
     "calc": null
   },
   {
-    "row": 129,
+    "row": 130,
     "date": "2026-09-22",
     "sum": 25659,
     "currency": "USD",
@@ -2461,7 +2480,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 130,
+    "row": 131,
     "date": "2026-09-22",
     "sum": 24767.72,
     "currency": "EUR",
@@ -2480,7 +2499,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 131,
+    "row": 132,
     "date": "2026-09-22",
     "sum": 41593.56,
     "currency": "EUR",
@@ -2499,7 +2518,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 132,
+    "row": 133,
     "date": "2026-09-23",
     "sum": 25094.3,
     "currency": "EUR",
@@ -2518,7 +2537,7 @@
     "calc": null
   },
   {
-    "row": 133,
+    "row": 134,
     "date": "2026-09-23",
     "sum": 28534.06,
     "currency": "EUR",
@@ -2537,7 +2556,7 @@
     "calc": null
   },
   {
-    "row": 134,
+    "row": 135,
     "date": "2026-09-23",
     "sum": 25000,
     "currency": "EUR",
@@ -2556,7 +2575,7 @@
     "calc": null
   },
   {
-    "row": 135,
+    "row": 136,
     "date": "2026-09-23",
     "sum": null,
     "currency": null,
@@ -2575,7 +2594,7 @@
     "calc": null
   },
   {
-    "row": 136,
+    "row": 137,
     "date": "2026-09-23",
     "sum": 23816.04,
     "currency": "EUR",
@@ -2594,7 +2613,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 137,
+    "row": 138,
     "date": "2026-09-23",
     "sum": 116770.57,
     "currency": "EUR",
@@ -2613,7 +2632,7 @@
     "calc": null
   },
   {
-    "row": 138,
+    "row": 139,
     "date": "2026-09-23",
     "sum": 30000,
     "currency": "EUR",
@@ -2632,7 +2651,7 @@
     "calc": null
   },
   {
-    "row": 139,
+    "row": 140,
     "date": "2026-09-23",
     "sum": null,
     "currency": null,
@@ -2651,7 +2670,7 @@
     "calc": null
   },
   {
-    "row": 140,
+    "row": 141,
     "date": "2026-09-23",
     "sum": 191765.05,
     "currency": "USD",
@@ -2670,7 +2689,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 141,
+    "row": 142,
     "date": "2026-09-23",
     "sum": 14437.5,
     "currency": "USD",
@@ -2689,7 +2708,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 142,
+    "row": 143,
     "date": "2026-09-23",
     "sum": 2342582.2,
     "currency": "CNY",
@@ -2709,7 +2728,7 @@
     "documentDate": "2026-09-04"
   },
   {
-    "row": 143,
+    "row": 144,
     "date": "2026-09-23",
     "sum": 45248.55,
     "currency": "EUR",
@@ -2728,7 +2747,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 144,
+    "row": 145,
     "date": "2026-09-23",
     "sum": 15271.74,
     "currency": "USD",
@@ -2747,7 +2766,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 145,
+    "row": 146,
     "date": "2026-09-23",
     "sum": 14497.5,
     "currency": "EUR",
@@ -2766,7 +2785,7 @@
     "calc": null
   },
   {
-    "row": 146,
+    "row": 147,
     "date": "2026-09-24",
     "sum": 136573.99,
     "currency": "USD",
@@ -2785,7 +2804,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 147,
+    "row": 148,
     "date": "2026-09-24",
     "sum": 48840,
     "currency": "CNY",
@@ -2804,7 +2823,7 @@
     "calc": null
   },
   {
-    "row": 148,
+    "row": 149,
     "date": "2026-09-24",
     "sum": 12027.64,
     "currency": "EUR",
@@ -2823,7 +2842,7 @@
     "calc": null
   },
   {
-    "row": 149,
+    "row": 150,
     "date": "2026-09-24",
     "sum": 18874,
     "currency": "USD",
@@ -2842,7 +2861,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 150,
+    "row": 151,
     "date": "2026-09-24",
     "sum": 10116.77,
     "currency": "USD",
@@ -2861,7 +2880,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 151,
+    "row": 152,
     "date": "2026-09-24",
     "sum": 203563,
     "currency": "CNY",
@@ -2881,7 +2900,7 @@
     "documentDate": "2026-09-18"
   },
   {
-    "row": 152,
+    "row": 153,
     "date": "2026-09-24",
     "sum": 11003.2,
     "currency": "EUR",
@@ -2900,7 +2919,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 153,
+    "row": 154,
     "date": "2026-09-24",
     "sum": 20500,
     "currency": "EUR",
@@ -2919,7 +2938,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 154,
+    "row": 155,
     "date": "2026-09-24",
     "sum": 23000,
     "currency": "EUR",
@@ -2938,7 +2957,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 155,
+    "row": 156,
     "date": "2026-09-24",
     "sum": 16145,
     "currency": "USD",
@@ -2957,7 +2976,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 156,
+    "row": 157,
     "date": "2026-09-24",
     "sum": 25081,
     "currency": "USD",
@@ -2976,7 +2995,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 157,
+    "row": 158,
     "date": "2026-09-24",
     "sum": 10000,
     "currency": "USD",
@@ -2995,7 +3014,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 158,
+    "row": 159,
     "date": "2026-09-24",
     "sum": null,
     "currency": null,
@@ -3014,7 +3033,7 @@
     "calc": null
   },
   {
-    "row": 159,
+    "row": 160,
     "date": "2026-09-25",
     "sum": null,
     "currency": null,
@@ -3033,7 +3052,7 @@
     "calc": null
   },
   {
-    "row": 160,
+    "row": 161,
     "date": "2026-09-25",
     "sum": null,
     "currency": null,
@@ -3052,7 +3071,7 @@
     "calc": null
   },
   {
-    "row": 161,
+    "row": 162,
     "date": "2026-09-25",
     "sum": 20000,
     "currency": "EUR",
@@ -3071,7 +3090,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 162,
+    "row": 163,
     "date": "2026-09-25",
     "sum": 136174.25,
     "currency": "USD",
@@ -3090,7 +3109,7 @@
     "calc": null
   },
   {
-    "row": 163,
+    "row": 164,
     "date": "2026-09-25",
     "sum": 69250,
     "currency": "EUR",
@@ -3109,7 +3128,7 @@
     "calc": null
   },
   {
-    "row": 164,
+    "row": 165,
     "date": "2026-09-25",
     "sum": 138600,
     "currency": "USD",
