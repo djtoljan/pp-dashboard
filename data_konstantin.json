@@ -459,8 +459,8 @@
     "date": "2026-09-28",
     "sum": 29385.83,
     "currency": "EUR",
-    "company": "",
-    "color": "FFFF0000",
+    "company": "TRANSPATH",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -470,7 +470,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 28.09.2026 (📨 Константин Просто Группа, файл «AlteVia_29_385_83_EUR.xlsx» — реквизиты платежа): Beneficiary **AlteVia OÜ** (17-51 Tammepõllu tee, 74001 Haabneeme, Estonia); Beneficiary’s bank **Coop Pank AS** (Maakri 30, Tallinn 15014, Estonia), SWIFT **EKRDEE22**; Beneficiary’s account **EE794204278622781603**; Details of payment «**Invoice 260352 from 28.09.2026 for musical instruments**»; Amount **29 385,83 EUR**; Intermediary bank — не указан; Company website — Not; HS Code — пусто; Contract — пусто. Линия AlteVia (ср. Константин r14: инвойс 260330 от 15.09.2026, 24 177,17 EUR, тот же AlteVia OÜ / Coop Pank). Step 0 🔴 — заявка/компания-плательщик ещё не пришли, ждём поручение/ордер. check-all-tables по 29 385 — совпадений нет.",
+    "notes": "📄 28.09.2026 (📨 Константин Просто Группа, файл «AlteVia_29_385_83_EUR.xlsx» — реквизиты платежа): Beneficiary **AlteVia OÜ** (17-51 Tammepõllu tee, 74001 Haabneeme, Estonia); Beneficiary’s bank **Coop Pank AS** (Maakri 30, Tallinn 15014, Estonia), SWIFT **EKRDEE22**; Beneficiary’s account **EE794204278622781603**; Details of payment «**Invoice 260352 from 28.09.2026 for musical instruments**»; Amount **29 385,83 EUR**; Intermediary bank — не указан; Company website — Not; HS Code — пусто; Contract — пусто. Линия AlteVia (ср. Константин r14: инвойс 260330 от 15.09.2026, 24 177,17 EUR, тот же AlteVia OÜ / Coop Pank). Step 0 🔴 — заявка/компания-плательщик ещё не пришли, ждём поручение/ордер. check-all-tables по 29 385 — совпадений нет. | 📄 28.09.2026 (📨 Константин Просто Группа, файл «Invoice Altevia 260352.pdf») — **INVOICE nr 260352** dd 28.09.2026: **Seller AlteVia OÜ** (Reg. 14279017, VAT EE101984656, 17-51 Tammepõllu tee, 74001 Haabneeme, Estonia; Coop Pank AS, Maakri 30, Tallinn 15014; IBAN **EE794204278622781603**; BIC/SWIFT **EKRDEE22**) → **Buyer Transpath Logistic Limited** (Company number 16565909, 5 Brayford Square, London, E1 0SG, United Kingdom). Позиция: **Musical instruments** (for the invoice 260352), 1 pcs × 29 385,83 = **29 385,83 EUR**, VAT 0%; **TOTAL INVOICE AMOUNT 29 385,83 EUR**; Due date **02.10.2026**; подпись OÜ AlteVia. Компания — **TRANSPATH** (buyer/principle, как в Константин r14) → ⬜ (Step 3).",
     "calc": null,
     "documentDate": "2026-09-28"
   }
