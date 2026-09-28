@@ -498,7 +498,7 @@
     "date": "2026-09-28",
     "sum": null,
     "currency": null,
-    "company": null,
+    "company": "ALTERA LOGISTICS LIMITED",
     "color": "FF4FC3F7",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
@@ -509,7 +509,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 28.09.2026 (📨 Константин Просто Группа, файл «Altera Logistics Ltd (2).pdf») — реквизиты контрагента **ALTERA LOGISTICS LIMITED**: Director **Dmitrijs Omelcenko**; **IBAN MT18CFTE28004000000000005856595**; банк **EKTICO (OpenPayd Financial Services Malta Limited)**, BIC **CFTEMTM1**; Company Number **17015210** (from 5 February 2026); Registered Address **International House, 55 Longsmith Street, Gloucester, GL1 2HT**; контакт +44 7418 637992, AlteraLogistics@outlook.com; деятельность 46900 (wholesale), 49410 (freight road), 50200 (sea/coastal), 51210 (air); сайт https://altera-logistics.co.uk/. Суммы и инвойса в документе нет → справочная строка **🔵** под контрагента (ждём заявку/ордер и сумму).",
     "calc": null
   }
 ]
