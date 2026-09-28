@@ -2628,7 +2628,7 @@
     "vdx_rate": null,
     "received_usdt": 134051,
     "sent_usdt": null,
-    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment Q8❗️**»; файл «INV 116 770,57 EUR.pdf») — **ордер на платёж**: Beneficiary **NNN DIS TICARET LIMITED SIRKETI** (İnönü Mah., Büyükdereboyu Sk., No:19 İç Kapı No:20, Ataşehir/İstanbul); банк **T.GARANTI BANKASI A.S.** (Levent Nispetiye Mah., Aytar Cad. No:2, Beşiktaş 34340 Istanbul; Branch Code 1017 Libadiye), SWIFT **TGBATRISXXX**, счёт **TR320006200101700009075618**; Payment details «**Invoice № 438 date 22-09-2026**»; Amount **116 770,57 EUR**; **OUR**. Клиент строки — **VDX**; компания (E) = **Q8** (из подписи «Payment Q8❗️») → **⬜ (Step 3)**. Q8-расчёт по EUR (`сумма × кросс-курс + 0,3% + 30`) — жду курс от владельца. Совпадений по 116 770,57 / NNN DIS TICARET / инвойс 438 в 5 таблицах нет. | 💰 24.09.2026 — фондирование из сводного прихода **338 558,0 USDT** (Bobr IN 24.09.2026 09:50:45 UTC, Рабочий 4, от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2, txid feafdeb856fdebc7775c3ea1a159a4beccad6f98ecb43b267ddf485cb43a18a3); по разнарядке Scream 24.09.2026 доля строки = **134051 USDT**. received_usdt = 134051.",
+    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment Q8❗️**»; файл «INV 116 770,57 EUR.pdf») — **ордер на платёж**: Beneficiary **NNN DIS TICARET LIMITED SIRKETI** (İnönü Mah., Büyükdereboyu Sk., No:19 İç Kapı No:20, Ataşehir/İstanbul); банк **T.GARANTI BANKASI A.S.** (Levent Nispetiye Mah., Aytar Cad. No:2, Beşiktaş 34340 Istanbul; Branch Code 1017 Libadiye), SWIFT **TGBATRISXXX**, счёт **TR320006200101700009075618**; Payment details «**Invoice № 438 date 22-09-2026**»; Amount **116 770,57 EUR**; **OUR**. Клиент строки — **VDX**; компания (E) = **Q8** (из подписи «Payment Q8❗️») → **⬜ (Step 3)**. Q8-расчёт по EUR (`сумма × кросс-курс + 0,3% + 30`) — жду курс от владельца. Совпадений по 116 770,57 / NNN DIS TICARET / инвойс 438 в 5 таблицах нет. | 💰 24.09.2026 — фондирование из сводного прихода **338 558,0 USDT** (Bobr IN 24.09.2026 09:50:45 UTC, Рабочий 4, от TCjLmarrcD63doFwCybcKhtwzgYSMX5AV2, txid feafdeb856fdebc7775c3ea1a159a4beccad6f98ecb43b267ddf485cb43a18a3); по разнарядке Scream 24.09.2026 доля строки = **134051 USDT**. received_usdt = 134051. | ✅ 28.09.2026 (📨 ПП компании Q8, файл «116770.57.pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2104446614541303808779**, Payment Time **2026-09-28 13:42:26**, Payer **Q8 GROUP LIMITED** → Payee **NNN DIS TICARET LIMITED SIRKETI** (Türkiye Garanti Bankası A.Ş., счёт **TR320006200101700009075618**), **EUR 116 770,57**, Remarks «**Invoice438DD22092026ForMedProduct**» = INVOICE № 438 dd 22.09.2026. ⬜→🟢 (Тип 7 BONBILL Q8).",
     "calc": null
   },
   {
@@ -2790,7 +2790,7 @@
     "sum": 136573.99,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "136 573,99 + 0,3% + 30 = 137 013,71 USDT",
     "extra": null,
