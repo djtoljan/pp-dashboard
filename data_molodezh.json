@@ -1473,5 +1473,24 @@
     "sent_usdt": null,
     "notes": "📄 28.09.2026 (📨 Молодежь; текст «PRM-079-050 / PRM-079-056 / PRM-079-059 / PRM-079-061 — **23 162 RMB**, Кимми, Алипэй; Name: 侯达; Phone number: 13539714027» + скрин QR) — **заявка на оплату 23 162 RMB (CNY) через AliPay**: получатель — **Кимми**, контакт **侯达 (Hou Da)**, тел. **13539714027**; по заказам **PRM-079-050, PRM-079-056, PRM-079-059, PRM-079-061**. | QR-скрин: **支付宝 (Alipay)**, плательщик по QR — **陈司雅 (**雅)** (QR «推荐使用支付宝», тел. не указан). Компания **Alipay**, клиент **Кимми** (аналог Молодёжь r75 «Кики» / PRM-079-052). check-all-tables по 23 162 / PRM-079-050…061 / Кимми — совпадений в 5 таблицах нет. Оплата/подтверждение исполнения ещё не пришли.",
     "calc": null
+  },
+  {
+    "row": 78,
+    "date": "2026-09-28",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ЕВРАЗИЯ ЛОГИСТИКС",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
