@@ -3234,7 +3234,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "VDX",
-    "costFormula": "125 000,00 + 0,3% + 30 = 125 405,00 USDT",
+    "costFormula": "125 000,00 + 0,3% + 30 = 125 405,00 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
@@ -3242,8 +3242,27 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 125405,
-    "notes": "📄 28.09.2026 (📨 Платежи VDX, «**Payment from Q8**❗️»; приложен «Invoice Bthkh-20260921 - 1756000 usd.pdf», скан — читал вижном) — ордер на платёж Q8: Beneficiary **Be The King (HK) Company Limited** (Flat 01A2, 10F Carnival Commercial Building, 18 Java Road, North Point, Hong Kong); банк **OCBC Bank (Hong Kong) Limited** (161 Queen's Road, Central, HK), SWIFT **WIHBHKHHXXX**, счёт **802-549427-831**; Payment details «**Inv BTKHK-20260921 dd 21.09.2026**»; **Amount 125 000,00 USD**; **OUR**. Компания-плательщик **Q8** → ⬜ (Step 3); клиент — **VDX** (группа-источник). | • COMMERCIAL INVOICE **BTKHK-20260921 dd 21.09.2026** (Seller **Be The King (HK) Company Limited** → Bill To/Ship To **Q8 GROUP LIMITED**; Incoterms **FOB Taiwan**): **Rubber Mixing Line** (гидравлический интермеш-кнедер), Model **SKI-140L**, 1 set × 1 756 000,00 = **Total 1 756 000,00 USD** (TAX 0); производитель **Well Shyang Machinery Co, Taiwan**; Terms: **advance payment 100% before shipment; partial payments allowed**; delivery February 2027. → `sum` = **125 000,00 USD** (сумма ордера; полная сумма инвойса 1 756 000,00 USD — справочно, платёж **частичный**). | check-all-tables по 125 000 / 1 756 000 / BTKHK-20260921 — совпадений в 5 таблицах нет (r71 — Be the King, но инвойс BTKHK-20260909/237 289 CNY — другая сделка). Q8-расчёт (USD: сумма + 0,3% + 30 = 125 405,00 USDT) проставлен сразу.",
+    "notes": "📄 28.09.2026 (📨 Платежи VDX, «**Payment from Q8**❗️»; приложен «Invoice Bthkh-20260921 - 1756000 usd.pdf», скан — читал вижном) — ордер на платёж Q8: Beneficiary **Be The King (HK) Company Limited** (Flat 01A2, 10F Carnival Commercial Building, 18 Java Road, North Point, Hong Kong); банк **OCBC Bank (Hong Kong) Limited** (161 Queen's Road, Central, HK), SWIFT **WIHBHKHHXXX**, счёт **802-549427-831**; Payment details «**Inv BTKHK-20260921 dd 21.09.2026**»; **Amount 125 000,00 USD**; **OUR**. Компания-плательщик **Q8** → ⬜ (Step 3); клиент — **VDX** (группа-источник). | • COMMERCIAL INVOICE **BTKHK-20260921 dd 21.09.2026** (Seller **Be The King (HK) Company Limited** → Bill To/Ship To **Q8 GROUP LIMITED**; Incoterms **FOB Taiwan**): **Rubber Mixing Line** (гидравлический интермеш-кнедер), Model **SKI-140L**, 1 set × 1 756 000,00 = **Total 1 756 000,00 USD** (TAX 0); производитель **Well Shyang Machinery Co, Taiwan**; Terms: **advance payment 100% before shipment; partial payments allowed**; delivery February 2027. → `sum` = **125 000,00 USD** (сумма ордера; полная сумма инвойса 1 756 000,00 USD — справочно, платёж **частичный**). | check-all-tables по 125 000 / 1 756 000 / BTKHK-20260921 — совпадений в 5 таблицах нет (r71 — Be the King, но инвойс BTKHK-20260909/237 289 CNY — другая сделка). Q8-расчёт (USD: сумма + 0,3% + 30 = 125 405,00 USDT) проставлен сразу. | 🔄 28.09.2026 — уточнение Scream («нет это вторая заявка»): ордер на 125 331,43 USD — ОТДЕЛЬНАЯ (вторая) заявка, заведена новой строкой; сумма ЭТОЙ строки восстановлена к **125 000,00 USD** (Q8-расчёт 125 000,00 + 0,3% + 30 = 125 405,00 USDT).",
     "calc": "ТЕЗ",
     "documentDate": "2026-09-21"
+  },
+  {
+    "row": 171,
+    "date": "2026-09-28",
+    "sum": 125331.43,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": "125 331,43 + 0,3% + 30 = 125 737,42 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 125737.42,
+    "notes": "✏️ 28.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 125 331,43 + 0,3% + 30 = 125 737,42 USDT.",
+    "calc": "ТЕЗ"
   }
 ]
