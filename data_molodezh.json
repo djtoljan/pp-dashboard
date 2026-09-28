@@ -1608,5 +1608,24 @@
     "notes": "📄 28.09.2026 (📨 Молодежь, файл «Invoice 28.9.26 Agaro-Q8 115 001.18 usd.pdf» — скан без текстового слоя, читал вижном) — **INVOICE № 9-6/1** (Agaro Coin Auction, S.L., 17220 Sant Feliu De Guíxols (GIRONA), Calle Agaro, NUM 89; info@agarosl.com; +34 640 32 56 91) → Customer **Q8 GROUP LIMITED** (Hong Kong): Lot 1 «Lots of Foreign world and roman coins.» — Price 115 001,18, VAT 0, **Total USD 115 001,18** (Total hammer USD 115 001,18; VAT 0%; shipping costs 0,00). Банк: **Banco Bilbao Vizcaya Argentaria S.A.** (C/Sauceda 28), IBAN **ES1101825117092010000115**, SWIFT **BBVAESMMXXX**. Клиент — **ИП Зольников (Молодёжь)**, компания **Q8**. Серия Agaro dd 28.09.2026: № 9-6/1 (115 001,18 USD — эта строка) + № 9-6/2 (120 000,00 USD, Молодёжь r83). Расчёт Q8: **115 001,18 + 0,3% + 30 = 115 376,18 USDT**. | 📄 28.09.2026 (📨 Молодежь, файл «Платежное поручение agaro 115 001.18 usd.docx») — **Платёжное поручение**: AMOUNT **115 001,18**, CURRENCY **USD**; BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, SPAIN SANT FELIU DE GUIXOLS (GIRONA) CALLE AGARO, NUM 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK **Banco Bilbao Vizcaya Argentaria S.A.** (c/sauceda 28), SWIFT **BBVAESMMXXX**; PAYMENT DETAILS «PAYMENT BY INVOICE NO. **9-6/1 DD 28.09.2026**». Целевой платёж по этой строке (115 001,18 USD).",
     "calc": "ТЕЗ",
     "documentDate": "2026-09-28"
+  },
+  {
+    "row": 85,
+    "date": "2026-09-28",
+    "sum": 23345,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Молодёжь (уточнить)",
+    "costFormula": "23 345,00 + 0,3% + 30 = 23 445,03 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 23445.03,
+    "notes": "✏️ 28.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 23 345,00 + 0,3% + 30 = 23 445,03 USDT.",
+    "calc": null
   }
 ]
