@@ -3482,6 +3482,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 29.09.2026 (📨 Платежи VDX — «**Payment from Travelcom❗️**», файл «Fushifaru_28.09.26_2.pdf») — **ордер на платёж**: Beneficiary **Fushifaru investment Pvt. Ltd** (Lhaviyani Atoll, Republic of Maldives); Beneficiary Bank **Bank Of Maldives PLC** (1st Floor, Bank of Maldives Building, 11 Boduthakurufaanu Magu, Male, 20094), SWIFT **MALBMVMV**, A/C **7730-000014-602**; Payment details **Inv 280926-2 dd 28.09.2026**; Amount **29 000,00 USD**; условия **OUR**. Вложенный **INVOICE № 280926-2** dd 28.09.2026 (GST TIN 1049721GST001; Operator **Travel Connection Maldives**; проживание/Full Board 04-10-2026 → 17-10-2026, 13 ночей; **Total — USD 29 000,00**; remittance на Fushifaru investment Pvt. Ltd). Компания — линия **UK** (Travelcom), клиент **VDX** → ⬜ (Step 3). check-all-tables по 29 000 / Fushifaru / 280926-2 — совпадений нет.",
+    "calc": null
+  },
+  {
+    "row": 183,
+    "date": "2026-09-29",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "UK",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
