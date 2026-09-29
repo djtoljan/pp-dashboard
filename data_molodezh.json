@@ -1576,7 +1576,7 @@
     "sum": 9894.2,
     "currency": "USD",
     "company": "LEO SPOT",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "ПРОФИФЕЙС",
     "costFormula": "9 894,20 USD × 1,005 + 100 = 10 043,67 USDT",
     "extra": null,
