@@ -1314,35 +1314,16 @@
     "costFormula": "2779/(1-0.35%)+100 = 2888,761 USDT",
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": "238599.76 (VDX)",
+    "sent_rubles_vdx": "238599.76 (VDX) / 24313.34 (VDX)",
     "exchange_to": "VDX",
     "vdx_rate": 84.4,
-    "received_usdt": "2824.18",
+    "received_usdt": "2824.18 / 287.78",
     "sent_usdt": 2888.761,
     "calc": null,
-    "notes": "💸 23.09.2026 (📨 Молодёжь, файл «GTM LINE SIA (1).pdf») — **ПП № 4563 от 23.09.2026 ИСПОЛНЕНО** (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545; отметка «Проведено: 23.09.2026»): плательщик **АО «Фри Лайнс Компани»** (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ, БИК 044525555), сумма **238 599,76 ₽**; назначение {VO21100} «подлежащие переч-ию для GTM LINE SIA Payment for under invoice №26-GT515 dd 06.08.2026, Contract № 6042020 dd 06.04.2020, по аген. дог № 09-02-3/26 от 09.02.26», НДС не облагается. Маркер: **ПП на VDX №4563 от 23.09.2026 (238 599,76 ₽ — GTM LINE SIA, тело)**. ⚠️ заявки/поручения нет — 🔵 отправка на VDX без заявки, ждём заявку и компанию. Курс VDX не получен — ждём VDX-таблицу. | 📄 24.09.2026 (📨 Молодёжь, файл «payment order 2.docx») — **PAYMENT ORDER** (DATE 24/09/2026): AMOUNT **2 442,00 EURO**, PAYMENT METHOD 100% (after payment); BENEFICIARY **GTM LINE SIA** (Livciema iela 55-58, Riga, 1058); BANK **PAYŞERA LT UAB**, IBAN **LT853500010014727662**, SWIFT **EVIULT2VXXX**; PAYMENT PURPOSE «Payment for transport service under invoice **26-GT515 dd 06.08.2026**». Соответствует Поручению №26 (эта строка). | 📄 24.09.2026 (📨 Молодёжь, файл «InvoiceNo26-GT515-1.pdf») — **INVOICE № 26-GT515** (issued by **GTM LINE SIA**; Client order No. **153710**, CMR No. 115-74510671): позиция «Transportation services» — **2 442,00 EUR** (VAT 0%); загрузка **01.07.2026** → выгрузка **08.07.2026**, Untere Hauptstr. 6, DE-78573 Wurmlingen (4 места, 70,00 кг). ⚠️ Прописью в инвойсе «One thousand three hundred forty five euro and 0 cents» — не сходится с итогом 2 442,00 EUR (расхождение зафиксировано). «In payment please indicate Invoice No. 26-GT515». Основание Поручения №26. | 📄 25.09.2026 (📨 Ордера и Расчеты !, «**Payment from ALTERA❗️**», файл «INV 2 442,00 EUR.pdf») — **Ордер на платёж (Payment from ALTERA)**: Beneficiary **GTM LINE SIA** (Livciema iela 55–58, Riga, 1058); банк **PAYŞERA LT UAB** (PILAITES PR. 16, VILNIUS), **SWIFT EVIULT2VXXX**, счёт **LT853500010014727662**; Payment details «invoice **26-GT515** dd 06.08.26»; Amount **2 442,00 EUR**; **OUR**. Приложен **INVOICE № 26-GT515** (ALTERA LOGISTICS LIMITED / GTM LINE SIA; Client order No. 153710, CMR 115-74510671; Transportation services, Untere Hauptstr. 6, DE-78573 Wurmlingen, 01.07→08.07.2026, 4 места 70,00 кг) — тот же счёт сделки. Строка НЕ создаётся (та же сделка, invoice 26-GT515); **company (E) = ALTERA** (плательщик из «Payment from ALTERA❗️»; ранее — null). Цвет не меняю (ордер — не документ статуса). | 📄 25.09.2026 (📨 Ордера и Расчеты !, скриншот конвертера валют) — **EUR→USD**: **2 442,00 EUR = 2 779,69 USD**, mid-market **1,00 EUR = 1,13828423 USD** (07:07 UTC) → инверсия **0,878506 ≈ 0,8785** (тот же курс, что в пересчёте EUR-сделок VDX 25.09). USD-эквивалент сделки = **2 779,69 USD** (= 2 442,00 / 0,8785). Кандидат себестоимости по методу EUR-группы: `2 442,00 / (0,8785 − 0,45%) + 100 = 2 892,30 USDT` (ждёт подтверждения владельца — строка в пересчёт не входила). | 📄 25.09.2026 (📨 Платежные Поручения, файл «ALTERA_LOGISTICS_LIMITED_MT18CFTE28004000000000005856595_bb57babe.pdf»; Scream «2 442,00 EUR») — **TRANSACTION CONFIRMATION / PAYOUT** (платёжная платформа, OpenPayd/Ektiko): Account **MT18CFTE28004000000000005856595**, Company Name **ALTERA LOGISTICS LIMITED**; дата **25.09.2026 08:56:07 UTC**; Payer/Recipient **GTM LINE SIA** (IBAN **LT853500010014727662**); Reference «**invoice 26-GT515 dd 06.08.26 −2 442,0 EUR**»; Payment type **SEPA**; **Status: INITIATED** (Created 25.09.2026 08:56 UTC). Статус INITIATED → 🔵→🟡; 🟢 — по COMPLETED/EXECUTED. ⚠️ роутинг: «топик не найден для Фри Лайнс Компани». | 📄 25.09.2026 (📨 Ордера и Расчеты !: «**2779/(1-0.35%)+100 = 2 888,761**», адрес `TUJyX4QTrJCWtw2AsDS91mEnVGw8epKyzR`) — **ордер на отправку USDT**: база **2779** (USD-эквивалент сделки: 2 442,00 EUR = **2 779,69 USD**, см. выше) → **(1−0,35%)+100** = **2 888,761 USDT**; кошелёк получателя **TUJyX4QTrJCWtw2AsDS91mEnVGw8epKyzR** (по леджеру — метка «Дре Русланд»). → `costFormula` = «2779/(1-0.35%)+100 = 2888,761 USDT», `sent_usdt` = **2 888,761** (прежний кандидат `2 442,00 / (0,8785 − 0,45%) + 100 = 2 892,30` подтверждён владельцем в этом виде). Цвет не менял (USDT-движение статус не меняет). | 💰 25.09.2026 (Bobr-алерт, 16:30:51 UTC) — **OUT 2 888,761 USDT** с Рабочего 4 (`TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri`) → `TUJyX4QTrJCWtw2AsDS91mEnVGw8epKyzR` — выдача USDT по этой сделке (база 2779 / заказ 2 888,761). Q9 отправлен (🔴 ВЫХОД 2 888,761), леджер: txid `130569a6d318369071d490a66ffcca0a1530d387cce6bc76d543419942125def`. ⚠️ Метка клиента в Q9/леджере — «**Дре Русланд**» (по адресу кошелька; label строки «Фри Лайнс Компани» guard `q9-client-guard` не пропустил — нет в clients-db) — если верная метка другая, скажи, поправлю запись леджера и Q9-уточнением. | ✏️ 25.09.2026 (Scream: «Это расчёт под 2442 EUR») — метка клиента в леджере исправлена с «Дре Русланд» на «Фри Лайнс Компани» (это сделка по этой строке); Q9-уточнение отправлено. | ✏️ 25.09.2026 (Scream: «Фри Лайнс Компани(Молодёжь)!!») — `clientName` исправлен: «Фри Лайнс Компани» → «**Фри Лайнс Компани (Молодёжь)**»; в леджере запись OUT 2 888,761 — та же метка; Q9-уточнение отправлено."
+    "notes": "💸 23.09.2026 (📨 Молодёжь, файл «GTM LINE SIA (1).pdf») — **ПП № 4563 от 23.09.2026 ИСПОЛНЕНО** (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545; отметка «Проведено: 23.09.2026»): плательщик **АО «Фри Лайнс Компани»** (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ, БИК 044525555), сумма **238 599,76 ₽**; назначение {VO21100} «подлежащие переч-ию для GTM LINE SIA Payment for under invoice №26-GT515 dd 06.08.2026, Contract № 6042020 dd 06.04.2020, по аген. дог № 09-02-3/26 от 09.02.26», НДС не облагается. Маркер: **ПП на VDX №4563 от 23.09.2026 (238 599,76 ₽ — GTM LINE SIA, тело)**. ⚠️ заявки/поручения нет — 🔵 отправка на VDX без заявки, ждём заявку и компанию. Курс VDX не получен — ждём VDX-таблицу. | 📄 24.09.2026 (📨 Молодёжь, файл «payment order 2.docx») — **PAYMENT ORDER** (DATE 24/09/2026): AMOUNT **2 442,00 EURO**, PAYMENT METHOD 100% (after payment); BENEFICIARY **GTM LINE SIA** (Livciema iela 55-58, Riga, 1058); BANK **PAYŞERA LT UAB**, IBAN **LT853500010014727662**, SWIFT **EVIULT2VXXX**; PAYMENT PURPOSE «Payment for transport service under invoice **26-GT515 dd 06.08.2026**». Соответствует Поручению №26 (эта строка). | 📄 24.09.2026 (📨 Молодёжь, файл «InvoiceNo26-GT515-1.pdf») — **INVOICE № 26-GT515** (issued by **GTM LINE SIA**; Client order No. **153710**, CMR No. 115-74510671): позиция «Transportation services» — **2 442,00 EUR** (VAT 0%); загрузка **01.07.2026** → выгрузка **08.07.2026**, Untere Hauptstr. 6, DE-78573 Wurmlingen (4 места, 70,00 кг). ⚠️ Прописью в инвойсе «One thousand three hundred forty five euro and 0 cents» — не сходится с итогом 2 442,00 EUR (расхождение зафиксировано). «In payment please indicate Invoice No. 26-GT515». Основание Поручения №26. | 📄 25.09.2026 (📨 Ордера и Расчеты !, «**Payment from ALTERA❗️**», файл «INV 2 442,00 EUR.pdf») — **Ордер на платёж (Payment from ALTERA)**: Beneficiary **GTM LINE SIA** (Livciema iela 55–58, Riga, 1058); банк **PAYŞERA LT UAB** (PILAITES PR. 16, VILNIUS), **SWIFT EVIULT2VXXX**, счёт **LT853500010014727662**; Payment details «invoice **26-GT515** dd 06.08.26»; Amount **2 442,00 EUR**; **OUR**. Приложен **INVOICE № 26-GT515** (ALTERA LOGISTICS LIMITED / GTM LINE SIA; Client order No. 153710, CMR 115-74510671; Transportation services, Untere Hauptstr. 6, DE-78573 Wurmlingen, 01.07→08.07.2026, 4 места 70,00 кг) — тот же счёт сделки. Строка НЕ создаётся (та же сделка, invoice 26-GT515); **company (E) = ALTERA** (плательщик из «Payment from ALTERA❗️»; ранее — null). Цвет не меняю (ордер — не документ статуса). | 📄 25.09.2026 (📨 Ордера и Расчеты !, скриншот конвертера валют) — **EUR→USD**: **2 442,00 EUR = 2 779,69 USD**, mid-market **1,00 EUR = 1,13828423 USD** (07:07 UTC) → инверсия **0,878506 ≈ 0,8785** (тот же курс, что в пересчёте EUR-сделок VDX 25.09). USD-эквивалент сделки = **2 779,69 USD** (= 2 442,00 / 0,8785). Кандидат себестоимости по методу EUR-группы: `2 442,00 / (0,8785 − 0,45%) + 100 = 2 892,30 USDT` (ждёт подтверждения владельца — строка в пересчёт не входила). | 📄 25.09.2026 (📨 Платежные Поручения, файл «ALTERA_LOGISTICS_LIMITED_MT18CFTE28004000000000005856595_bb57babe.pdf»; Scream «2 442,00 EUR») — **TRANSACTION CONFIRMATION / PAYOUT** (платёжная платформа, OpenPayd/Ektiko): Account **MT18CFTE28004000000000005856595**, Company Name **ALTERA LOGISTICS LIMITED**; дата **25.09.2026 08:56:07 UTC**; Payer/Recipient **GTM LINE SIA** (IBAN **LT853500010014727662**); Reference «**invoice 26-GT515 dd 06.08.26 −2 442,0 EUR**»; Payment type **SEPA**; **Status: INITIATED** (Created 25.09.2026 08:56 UTC). Статус INITIATED → 🔵→🟡; 🟢 — по COMPLETED/EXECUTED. ⚠️ роутинг: «топик не найден для Фри Лайнс Компани». | 📄 25.09.2026 (📨 Ордера и Расчеты !: «**2779/(1-0.35%)+100 = 2 888,761**», адрес `TUJyX4QTrJCWtw2AsDS91mEnVGw8epKyzR`) — **ордер на отправку USDT**: база **2779** (USD-эквивалент сделки: 2 442,00 EUR = **2 779,69 USD**, см. выше) → **(1−0,35%)+100** = **2 888,761 USDT**; кошелёк получателя **TUJyX4QTrJCWtw2AsDS91mEnVGw8epKyzR** (по леджеру — метка «Дре Русланд»). → `costFormula` = «2779/(1-0.35%)+100 = 2888,761 USDT», `sent_usdt` = **2 888,761** (прежний кандидат `2 442,00 / (0,8785 − 0,45%) + 100 = 2 892,30` подтверждён владельцем в этом виде). Цвет не менял (USDT-движение статус не меняет). | 💰 25.09.2026 (Bobr-алерт, 16:30:51 UTC) — **OUT 2 888,761 USDT** с Рабочего 4 (`TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri`) → `TUJyX4QTrJCWtw2AsDS91mEnVGw8epKyzR` — выдача USDT по этой сделке (база 2779 / заказ 2 888,761). Q9 отправлен (🔴 ВЫХОД 2 888,761), леджер: txid `130569a6d318369071d490a66ffcca0a1530d387cce6bc76d543419942125def`. ⚠️ Метка клиента в Q9/леджере — «**Дре Русланд**» (по адресу кошелька; label строки «Фри Лайнс Компани» guard `q9-client-guard` не пропустил — нет в clients-db) — если верная метка другая, скажи, поправлю запись леджера и Q9-уточнением. | ✏️ 25.09.2026 (Scream: «Это расчёт под 2442 EUR») — метка клиента в леджере исправлена с «Дре Русланд» на «Фри Лайнс Компани» (это сделка по этой строке); Q9-уточнение отправлено. | ✏️ 25.09.2026 (Scream: «Фри Лайнс Компани(Молодёжь)!!») — `clientName` исправлен: «Фри Лайнс Компани» → «**Фри Лайнс Компани (Молодёжь)**»; в леджере запись OUT 2 888,761 — та же метка; Q9-уточнение отправлено. | 🔗 29.09.2026 (Scream: «строка 70 — это одна и та же сделка [что] 69, то есть часть рублей — комиссия»): строка 70 признана той же сделкой (комиссия), 70 удалена. Итог по сделке: рубли на VDX = 238 599,76 ₽ (ПП №4563, тело) + 24 313,34 ₽ (ПП №4564, вознаграждение) = 262 913,10 ₽; received_usdt = 2824.18 + 287.78 = 3111.96. Маркеры: **ПП на VDX №4563 от 23.09.2026 (238 599,76 ₽ — GTM LINE SIA, тело)** и **ПП на VDX №4564 от 23.09.2026 (24 313,34 ₽ — GTM LINE SIA, вознаграждение, поручение №26)**. Доказательство из r70: 💸 23.09.2026 (📨 Молодёжь, файл «VDX - вознагр (1).pdf») — **ПП № 4564 от 23.09.2026 ИСПОЛНЕНО** (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545; отметка «Проведено: 23.09.2026»): плательщик **АО «Фри Лайнс Компани»** (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ, БИК 044525555), сумма **24 313,34 ₽**; назначение {VO21100} «оплата вознаграждения согласно поручению № 26 от 23.09.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026», НДС не облагается. Маркер: **ПП на VDX №4564 от 23.09.2026 (24 313,34 ₽ — GTM LINE SIA, вознаграждение, поручение №26)**. ⚠️ заявки нет — 🔵 отправка на VDX без заявки; тело сделки — строка 69 (ПП №4563, 238 599,76 ₽, GTM LINE SIA). Курс VDX не получен — ждём VDX-таблицу."
   },
   {
     "row": 70,
-    "date": "2026-09-23",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
-    "clientName": "Фри Лайнс Компани",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": "24313.34 (VDX)",
-    "exchange_to": "VDX",
-    "vdx_rate": 84.4,
-    "received_usdt": "287.78",
-    "sent_usdt": null,
-    "calc": null,
-    "notes": "💸 23.09.2026 (📨 Молодёжь, файл «VDX - вознагр (1).pdf») — **ПП № 4564 от 23.09.2026 ИСПОЛНЕНО** (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545; отметка «Проведено: 23.09.2026»): плательщик **АО «Фри Лайнс Компани»** (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ, БИК 044525555), сумма **24 313,34 ₽**; назначение {VO21100} «оплата вознаграждения согласно поручению № 26 от 23.09.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026», НДС не облагается. Маркер: **ПП на VDX №4564 от 23.09.2026 (24 313,34 ₽ — GTM LINE SIA, вознаграждение, поручение №26)**. ⚠️ заявки нет — 🔵 отправка на VDX без заявки; тело сделки — строка 69 (ПП №4563, 238 599,76 ₽, GTM LINE SIA). Курс VDX не получен — ждём VDX-таблицу."
-  },
-  {
-    "row": 71,
     "date": "2026-09-24",
     "sum": 6538,
     "currency": "CNY",
@@ -1361,7 +1342,7 @@
     "calc": null
   },
   {
-    "row": 72,
+    "row": 71,
     "date": "2026-09-24",
     "sum": null,
     "currency": null,
@@ -1380,7 +1361,7 @@
     "calc": null
   },
   {
-    "row": 73,
+    "row": 72,
     "date": "2026-09-24",
     "sum": 87300,
     "currency": "USD",
@@ -1399,7 +1380,7 @@
     "calc": null
   },
   {
-    "row": 74,
+    "row": 73,
     "date": "2026-09-24",
     "sum": 95535.99,
     "currency": "USD",
@@ -1418,7 +1399,7 @@
     "calc": null
   },
   {
-    "row": 75,
+    "row": 74,
     "date": "2026-09-24",
     "sum": 6300,
     "currency": "CNY",
@@ -1437,7 +1418,7 @@
     "calc": null
   },
   {
-    "row": 76,
+    "row": 75,
     "date": "2026-09-25",
     "sum": null,
     "currency": null,
@@ -1456,7 +1437,7 @@
     "calc": null
   },
   {
-    "row": 77,
+    "row": 76,
     "date": "2026-09-28",
     "sum": 23162,
     "currency": "CNY",
@@ -1475,7 +1456,7 @@
     "calc": null
   },
   {
-    "row": 78,
+    "row": 77,
     "date": "2026-09-28",
     "sum": 23345,
     "currency": "USD",
@@ -1494,7 +1475,7 @@
     "calc": null
   },
   {
-    "row": 79,
+    "row": 78,
     "date": "2026-09-28",
     "sum": 313335.28,
     "currency": "RUB",
@@ -1513,7 +1494,7 @@
     "calc": null
   },
   {
-    "row": 80,
+    "row": 79,
     "date": "2026-09-28",
     "sum": 20160000,
     "currency": "RUB",
@@ -1532,7 +1513,7 @@
     "calc": null
   },
   {
-    "row": 81,
+    "row": 80,
     "date": "2026-09-28",
     "sum": 903164.22,
     "currency": "RUB",
@@ -1551,7 +1532,7 @@
     "calc": null
   },
   {
-    "row": 82,
+    "row": 81,
     "date": "2026-09-28",
     "sum": 22092.06,
     "currency": "RUB",
@@ -1570,47 +1551,27 @@
     "calc": null
   },
   {
+    "row": 82,
+    "date": "2026-09-28",
+    "sum": 54464.01,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ИП Зольников (Молодёжь)",
+    "costFormula": "54 464,01 + 0,3% + 30 = 54 657,40 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 54657.4,
+    "notes": "📄 28.09.2026 (📨 Молодежь, файл «Invoice 28.9.26 Agaro-Q8 120 00 usd.pdf» — скан без текстового слоя, читал вижном) — **INVOICE № 9-6/2** (Agaro Coin Auction, S.L., 17220 Sant Feliu De Guíxols (GIRONA), Calle Agaro, NUM 89; info@agarosl.com; +34 640 32 56 91) → Customer **Q8 GROUP LIMITED** (Hong Kong): Lot 1 «Lots of Foreign world and roman coins.» — Price 120 000,00, VAT 0, **Total USD 120 000,00** (Total hammer USD 120 000,00; VAT 0%; shipping costs 0,00). Банк: **Banco Bilbao Vizcaya Argentaria S.A.** (C/Sauceda 28), IBAN **ES1101825117092010000115**, SWIFT **BBVAESMMXXX**. Клиент — **ИП Зольников (Молодёжь)**, компания **Q8**. Расчёт Q8: **120 000,00 + 0,3% + 30 = 120 390,00 USDT**. check-all-tables по 120 000 / 9-6/2 — совпадений нет. | 📄 28.09.2026 (📨 Молодежь, файл «Платежное поручение agaro 120 000 usd.docx») — **Платёжное поручение**: AMOUNT **120 000,00**, CURRENCY **USD**; BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, SPAIN SANT FELIU DE GUIXOLS (GIRONA) CALLE AGARO, NUM 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK **Banco Bilbao Vizcaya Argentaria S.A.** (c/sauceda 28), SWIFT **BBVAESMMXXX**; PAYMENT DETAILS «PAYMENT BY INVOICE NO. **9-6/2 DD 28.09.2026**». Целевой платёж по этой строке (120 000,00 USD). | ✏️ 29.09.2026 (Scream: «строка 83 — правильная сумма заявки 54 464,01»): сумма строки исправлена 120 000,00 → **54 464,01 USD**; Q8-расчёт пересчитан: 54 464,01 + 0,3% + 30 = 54 657,40 USDT (было 120 390,00; прежняя сумма 120 000,00 соответствовала инвойсу 9-6/2).",
+    "calc": "ТЕЗ",
+    "documentDate": "2026-09-28"
+  },
+  {
     "row": 83,
-    "date": "2026-09-28",
-    "sum": 120000,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "ИП Зольников (Молодёжь)",
-    "costFormula": "120 000,00 + 0,3% + 30 = 120 390,00 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 120390,
-    "notes": "📄 28.09.2026 (📨 Молодежь, файл «Invoice 28.9.26 Agaro-Q8 120 00 usd.pdf» — скан без текстового слоя, читал вижном) — **INVOICE № 9-6/2** (Agaro Coin Auction, S.L., 17220 Sant Feliu De Guíxols (GIRONA), Calle Agaro, NUM 89; info@agarosl.com; +34 640 32 56 91) → Customer **Q8 GROUP LIMITED** (Hong Kong): Lot 1 «Lots of Foreign world and roman coins.» — Price 120 000,00, VAT 0, **Total USD 120 000,00** (Total hammer USD 120 000,00; VAT 0%; shipping costs 0,00). Банк: **Banco Bilbao Vizcaya Argentaria S.A.** (C/Sauceda 28), IBAN **ES1101825117092010000115**, SWIFT **BBVAESMMXXX**. Клиент — **ИП Зольников (Молодёжь)**, компания **Q8**. Расчёт Q8: **120 000,00 + 0,3% + 30 = 120 390,00 USDT**. check-all-tables по 120 000 / 9-6/2 — совпадений нет. | 📄 28.09.2026 (📨 Молодежь, файл «Платежное поручение agaro 120 000 usd.docx») — **Платёжное поручение**: AMOUNT **120 000,00**, CURRENCY **USD**; BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, SPAIN SANT FELIU DE GUIXOLS (GIRONA) CALLE AGARO, NUM 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK **Banco Bilbao Vizcaya Argentaria S.A.** (c/sauceda 28), SWIFT **BBVAESMMXXX**; PAYMENT DETAILS «PAYMENT BY INVOICE NO. **9-6/2 DD 28.09.2026**». Целевой платёж по этой строке (120 000,00 USD).",
-    "calc": "ТЕЗ",
-    "documentDate": "2026-09-28"
-  },
-  {
-    "row": 84,
-    "date": "2026-09-28",
-    "sum": 115001.18,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "ИП Зольников (Молодёжь)",
-    "costFormula": "115 001,18 + 0,3% + 30 = 115 376,18 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 115376.18,
-    "notes": "📄 28.09.2026 (📨 Молодежь, файл «Invoice 28.9.26 Agaro-Q8 115 001.18 usd.pdf» — скан без текстового слоя, читал вижном) — **INVOICE № 9-6/1** (Agaro Coin Auction, S.L., 17220 Sant Feliu De Guíxols (GIRONA), Calle Agaro, NUM 89; info@agarosl.com; +34 640 32 56 91) → Customer **Q8 GROUP LIMITED** (Hong Kong): Lot 1 «Lots of Foreign world and roman coins.» — Price 115 001,18, VAT 0, **Total USD 115 001,18** (Total hammer USD 115 001,18; VAT 0%; shipping costs 0,00). Банк: **Banco Bilbao Vizcaya Argentaria S.A.** (C/Sauceda 28), IBAN **ES1101825117092010000115**, SWIFT **BBVAESMMXXX**. Клиент — **ИП Зольников (Молодёжь)**, компания **Q8**. Серия Agaro dd 28.09.2026: № 9-6/1 (115 001,18 USD — эта строка) + № 9-6/2 (120 000,00 USD, Молодёжь r83). Расчёт Q8: **115 001,18 + 0,3% + 30 = 115 376,18 USDT**. | 📄 28.09.2026 (📨 Молодежь, файл «Платежное поручение agaro 115 001.18 usd.docx») — **Платёжное поручение**: AMOUNT **115 001,18**, CURRENCY **USD**; BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, SPAIN SANT FELIU DE GUIXOLS (GIRONA) CALLE AGARO, NUM 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK **Banco Bilbao Vizcaya Argentaria S.A.** (c/sauceda 28), SWIFT **BBVAESMMXXX**; PAYMENT DETAILS «PAYMENT BY INVOICE NO. **9-6/1 DD 28.09.2026**». Целевой платёж по этой строке (115 001,18 USD). | 📄 28.09.2026 (📨 Молодежь, файл «Платежное поручение agaro 54 464.01 usd.docx») — Платёжное поручение: AMOUNT 54 464,01 USD; CURRENCY USD; BENEFICIARY AGARO COIN AUCTION, S.L. (17220, SPAIN SANT FELIU DE GUIXOLS (GIRONA) CALLE AGARO, NUM 89); ACCOUNT ES1101825117092010000115; BENEF. BANK Banco Bilbao Vizcaya Argentaria S.A. (c/sauceda 28); SWIFT BBVAESMMXXX; PAYMENT DETAILS «PAYMENT BY INVOICE NO. 9-6/1 DD 28.09.2026». ⚠️ Второе ПП по инвойсу 9-6/1 (первое — 115 001,18 USD, см. выше). 115 001,18 − 54 464,01 = 60 537,17 USD. Новую строку не создаю — расхождение сумм, ждём уточнения (частичная оплата/транш или корректировка).",
-    "calc": "ТЕЗ",
-    "documentDate": "2026-09-28"
-  },
-  {
-    "row": 85,
     "date": "2026-09-28",
     "sum": 207844.13,
     "currency": "RUB",
