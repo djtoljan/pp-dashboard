@@ -3558,6 +3558,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 29.09.2026 (📨 ООО Дре русланд трейдинг - Fininvest/ЭТБ, файл «Поручение Блекшарк.pdf») — **ПОРУЧЕНИЕ № 47 от 29/09/2026** (Transfer request No. 47 from 29/09/26; **Приложение № 1** к Агентскому договору № 2701-27/1 от 27.01.26): Принципал **ООО ДРЕ РУСЛАНД ТРЕЙДИНГ** (ген. дир. Белоконев Е.Н.) → Агент **ОсОО «Блэкшарк Трейд»** (дир. Курьянов Т.А.) на платёж в иностранной валюте по инвойсу **FV/4643/2026 от 03.09.2026**. **Сумма и валюта платежа 19 972,38 EUR**; получатель **MAR-S SP Z O O** (POLAND, BRALIN, 63-40, UL.NAMYSLOWSKA 9B); банк **SANTANDER BANK POLSKA S.A.** (ранее Bank Zachodni WBK S.A.), IBAN **PL86109011440000000122754883**, SWIFT **WBKPPLPP**; назначение «Оплата за мебель по инвойсу FV/4643/2026 от 03.09.2026». Курс конвертации **96,2499** → к перечислению **1 922 339,58 ₽**; комиссия Агента **1,6% (30 757,43 ₽)**; срок 2–3 банковских дня. Step 0 — компания-плательщик не названа → 🔴. check-all-tables по 19 972,38 / MAR-S / FV/4643/2026 — совпадений нет.",
+    "calc": null
+  },
+  {
+    "row": 187,
+    "date": "2026-09-29",
+    "sum": 15000,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ИП Мазуренко",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
