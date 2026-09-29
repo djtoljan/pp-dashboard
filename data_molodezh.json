@@ -1607,5 +1607,24 @@
     "sent_usdt": 13192.37,
     "notes": " | 🔀 29.09.2026 (Scream: «Это мосты молодёжь, при чём тут VDX»): строка перенесена из Main в Молодёжь, клиент — **Мосты (Молодёжь)**. | 💰 29.09.2026 (Scream: «и под неё приходил USDT»): received_usdt = **13 340** — приход USDT под эту сделку (Bobr IN 28.09.2026 11:39:21 UTC на Рабочий 4 ← `TF6rkCozFv3ZMFLVcuDXw51JhTGqhZ6VUk`, txid `eec84ca4c097e9dbacb847821d26bbaa52f07d9fa187123c0146623d1d0686b5`, клиент «Мосты»; Q9 отправлен, в леджере q9_sent=true). Связка: 13 123,00 × 1,01653 ≈ 13 340. | ✅ 29.09.2026 (📨 ПП компании Q8, файл «13123.00.pdf») — **BONBILL LIMITED Payment Certificate** (Тип 7): Transaction ID **O210482156986289356836**, Payment Time **2026-09-29 14:32:22**, Payer **Q8 GROUP LIMITED** → Payee **NINGBO RUNWIN LIGHTING CO. LTD** (BANK OF NINGBO, счёт 32012025000054504), **USD 13 123,00**, Remarks «InvoiceRW260972HDD10092026FORLIGHTING». ⬜→🟢 (Тип 7 BONBILL Q8).",
     "calc": null
+  },
+  {
+    "row": 85,
+    "date": "2026-09-29",
+    "sum": 122199.47,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Радойл (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
