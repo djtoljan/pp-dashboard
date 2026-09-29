@@ -3721,6 +3721,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 29.09.2026 (📨 **Платежи VDX** — «**Payment from  ❗️**»; вложение «invoice_29092026.pdf») — **ордер на платёж**: Beneficiary **Travel Services Seychelles Ltd** (Orion Building, P.O. Box 611, Victoria, Mahé, Seychelles; TIN 501 569 325); Beneficiary Bank **The Mauritius Commercial Bank (Seychelles) Ltd.** (Caravelle House, Manglier Street, P.O. Box 122, Victoria, Mahe, Seychelles); SWIFT **MCBLSCSC**; Account **SC32MCBL06070000000000204714EUR**; Payment details **INV. 24JNHZ DD.24/09/2026**; Amount **26 361,49 EUR**; условия **OUR**. Вложение — **Invoice, Booking code 24JNHZ** (Date 24/09/2026; Travel Services 10/10/2026–31/10/2026; **26 361,49 EUR**; taxes 0,00; commission 7,00 EUR; net **26 354,49 EUR**; реквизиты те же). ⚠️ **Компания-плательщик в ордере не указана** («Payment from ❗️» — пусто) → проставить по подтверждению Scream. ⚠️ Совпадений по 24JNHZ / 26 361,49 / Travel Services Seychelles в 5 таблицах нет.",
+    "calc": null
+  },
+  {
+    "row": 196,
+    "date": "2026-09-29",
+    "sum": 44093.5,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
