@@ -3274,7 +3274,7 @@
     "sum": 4876,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ФИНИНВЕСТ",
     "costFormula": "4 876,00 / 0.87695916778 (FX Q8 29.09.2026: 1 USD = 0.87695916778 EUR) + 0,3% + 30 = 5 606,80 USDT",
     "extra": null,
