@@ -3617,15 +3617,15 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "ВТС",
-    "costFormula": "134 445,20 + 0,3% + 30 = 134 878,54 USDT",
+    "costFormula": "134 445,20 + 0,3% + 30 = 134 878,53 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 134878.54,
-    "notes": "✏️ 29.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 134 445,20 + 0,3% + 30 = 134 878,54 USDT.",
+    "sent_usdt": 134878.53,
+    "notes": "✏️ 29.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 134 445,20 + 0,3% + 30 = 134 878,54 USDT. | 📄 29.09.2026 (📨 ВТС-Fininvest (t4734), файл «PI-JMDS20260921D03.pdf», подпись «для оплаты») — **PROFORMA INVOICE DOSIN INDUSTRIAL (H.K) CO., LIMITED**, Date **September 24th, 2026**, Invoice No **JMDS20260921D03** (Add: 8th Floor, Building1, No.13 Daning Wenming Road, Humen Town, Dongguan City, 523930; Attn Nicole Zhang). **The Buyer: Q8 GROUP LIMITED** (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, HK; Attn Sasha). Term of Payment: **100% T/T in advance**; Term of Delivery: **EXW**; Shipment via customer arrange pick up; Lead Time 5–6 weeks. Позиции (стальные разъёмы): YW120E01S1-RJ45 2240 × $20.07 = 44 956,80; YW110E01-01-RJ45 2080 × $22.19 = 46 155,20; YW12E01L 2240 × $5.30 = 11 872,00; YW11E01L 2080 × $5.30 = 11 024,00; Y50X-1626ZJ10-B 420 × $17.16 = 7 207,20; Y50X-1626TK3-B 420 × $31.50 = 13 230,00. **Subtotal/TOTAL: $134 445,20**. BANK DETAILS: BENEFICIARY DOSIN INDUSTRIAL (H.K) CO., LIMITED (Unit No.532B on 5/F, Star House, No.3 Salisbury Road, Tsim Sha Tsui, Kowloon, HK); **OCBC Bank (Hong Kong) Limited**, account **802-128615-831**, SWIFT **WIHBHKHH** (Bank Code 035). Клиент **ВТС**, компания **Q8** → Step 3 → ⬜; Q8-расчёт сразу: **134 445,20 + 0,3% + 30 = 134 878,53 USDT**. Совпадений по JMDS20260921D03 / DOSIN / 134 445,20 в 5 таблицах нет.",
     "calc": "ТЕЗ"
   }
 ]
