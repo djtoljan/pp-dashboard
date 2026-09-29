@@ -1438,7 +1438,7 @@
     "sum": 15000,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "15 000,00 / 0.876812604933 (FX Q8 29.09.2026: 1 USD = 0.876812604933 EUR) + 0,3% + 30 = 17 188,74 USDT",
     "extra": null,
