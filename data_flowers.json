@@ -1471,5 +1471,17 @@
     "notes": "📄 28.09.2026 (📨 Заявки Компания Q8, файл «Invoice_FL01_280926_49629_75_USD.pdf») — **INVOICE № FL01/280926** dd 28.09.2026: продавец **ModestoGroup OU** (Reg. code 16203107; e-mail info@m-flowers.com; IBAN **GB32TCCL04143483461312**, BIC **TCCLGB3L**, банк/платёжный институт **THE CURRENCY CLOUD LIMITED**, 1 Sheldon Square, London W2 6TT, United Kingdom) → Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong; +852 9384 6516, 3673129021@qq.com). Позиции: **AA Kenyan rose mix** + **AA Air logistics services** (47 200,00 + 2 429,75); **Total USD 49 629,75**. Компания **Q8** → ⬜, клиент **ModestoGroup (Цветы)** (продолжение серии FL01: r8 FL01-020926 — 50 000; r26 FL01/040926 — 50 048; r62 FL01/220926 — 53 549); расчёт Q8 проставлен сразу: **49 629,75 + 0,3% + 30 = 49 808,64 USDT**. check-all-tables по 49 629 — совпадений нет. | ✅ 29.09.2026 (📨 ПП компании Q8, файл «49629.75.pdf») — **BONBILL LIMITED Payment Certificate** (Тип 7): Transaction ID **O2104822140267266048690**, Payment Time **2026-09-29 14:34:38**, Payer **Q8 GROUP LIMITED** → Payee **Modestogroup OU** (THE CURRENCY CLOUD LIMITED, счёт GB32TCCL04143483461312), **USD 49 629,75**, Remarks «InvoiceFL01280926DD28092026ForFLOWERS». ⬜→🟢 (Тип 7 BONBILL Q8).",
     "calc": "ТЕЗ",
     "documentDate": "2026-09-28"
+  },
+  {
+    "row": 78,
+    "date": "2026-09-29",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "rubles_received": "3411550.26 / 85288.76",
+    "sent_rubles_vdx": 3496839.02,
+    "notes": "💸 29.09.2026 (📨 **Отправки рублей ПП.** — «С Блэкшарк почто на Видикс»): **3 496 839,02 ₽**, назначение «**цветы**», **заявка 805**, клиент **ООО «Приоритет маркет»** (папка `O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 29.09.26`). Сумма = **тело 3 411 550,26 + агентское 85 288,76 = 3 496 839,02 ₽** — это зачисления из выписки Почтабанка 29.09.2026 (16:05): №309 **3 411 550,26 ₽** {VO11200} «оплата за цветочную продукцию, контракт 25/06-2026 от 25.06.2026» + №310 **85 288,76 ₽** {VO21100} «оплата вознаграждения Агенту, контракт WD-30 от 25.06.2026» (ООО «ПРИОРИТЕТ МАРКЕТ», ИНН 6000004341). → **rubles_received = 3 411 550,26 / 85 288,76**; **sent_rubles_vdx = 3 496 839,02** (ушло на Видикс/VDX, заявка 805)."
   }
 ]
