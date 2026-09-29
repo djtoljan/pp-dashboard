@@ -3361,9 +3361,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 150500,
     "sent_usdt": 150480,
-    "notes": "📄 28.09.2026 (📨 Платежи VDX, файл «INV 150 000,00 USD (4).pdf») — **PAYMENT ORDER «Payment from Q8❗️»**: Beneficiary **Chaozhou Nanji Stainless Steel Co., Ltd** (Daliao Houpian, Xianle Er village, Caitang Town, Chao'an District, Chaozhou City); bank **China Construction Bank Corporation Chaozhou Caitang sub-branch** (1-2/F, comprehensive building of CCB, Caitang Town, Chaoan District, Chaozhou City, Guangdong Province); SWIFT **PCBCCNBJGDC**, account **44050180729900000910**; payment details **«Invoice No 00yt-005267 FROM 02.07.2026»**; **150 000,00 USD**; **OUR**. ✅ Scream 28.09.2026: «Это **новая заявка**» → отдельная строка (ранее заведённая Main r53 по ордеру «(3).pdf» от 14.09.2026 — другой платёж, не путать). Компания **Q8** → ⬜ (Step 3); клиент **VDX**. Расчёт Q8: **150 000,00 + 0,3% + 30 = 150 480,00 USDT**.",
+    "notes": "📄 28.09.2026 (📨 Платежи VDX, файл «INV 150 000,00 USD (4).pdf») — **PAYMENT ORDER «Payment from Q8❗️»**: Beneficiary **Chaozhou Nanji Stainless Steel Co., Ltd** (Daliao Houpian, Xianle Er village, Caitang Town, Chao'an District, Chaozhou City); bank **China Construction Bank Corporation Chaozhou Caitang sub-branch** (1-2/F, comprehensive building of CCB, Caitang Town, Chaoan District, Chaozhou City, Guangdong Province); SWIFT **PCBCCNBJGDC**, account **44050180729900000910**; payment details **«Invoice No 00yt-005267 FROM 02.07.2026»**; **150 000,00 USD**; **OUR**. ✅ Scream 28.09.2026: «Это **новая заявка**» → отдельная строка (ранее заведённая Main r53 по ордеру «(3).pdf» от 14.09.2026 — другой платёж, не путать). Компания **Q8** → ⬜ (Step 3); клиент **VDX**. Расчёт Q8: **150 000,00 + 0,3% + 30 = 150 480,00 USDT**. | 💰 29.09.2026 (Bobr IN 150 500,0 USDT на Рабочий 4 от `TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9`, 10:49:06 UTC; Scream 29.09.2026): заявка **150 000,00 USD**, расчёт **150 000 × 1,003 + 100 = 150 550**; получено **150 500**, **50 USDT докинут позже** (итого 150 550). txid `d4598108e0a9f2dfba3506f7bb50d7316f8d81db93de819cdcb0ca477c407890`.",
     "calc": "ТЕЗ",
     "documentDate": "2026-09-28"
   },
