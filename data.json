@@ -2102,25 +2102,6 @@
   {
     "row": 111,
     "date": "2026-09-21",
-    "sum": 13200,
-    "currency": "CNY",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "Трак-Прайс",
-    "costFormula": null,
-    "extra": "📄 21.09.2026 (📨 Трак-Прайс/Fininvest, файл «PI FOR TRAK-PRAIS JR26091901M.pdf») — **PROFORMA INVOICE № JR26091901M** (DATE 2026/09/19; контракт **JR25062101M от 2025/05/21**, EXW JRCY FACTORY): продавец **YANGZHOU JINRUN IMPORT & EXPORT CO., LTD** (East of Xingyuan Second Road, Chengnan Industrial Concentration Zone, Baoying County, Yangzhou City, Jiangsu Province, China; тел. 0086-514-88991702, felix@jinrunauto.com) → покупатель **Limited liability company TRAK-PRAIS** (630027, г. Новосибирск, ул. Дунаевского, д. 16, оф. 4; контакт Иткумов Константин Викторович). Позиции (автозапчасти/интерьер): Top Interior Trim Assembly 5702100LE176 — 30 × 260 = 7 800 RMB; Rear interior panel assembly 5615130LE032 — 20 × 170 = 3 400; Interior panel assembly on the left rear door pillar 5402070LE032 — 20 × 50 = 1 000; on the right 5402080LE032 — 20 × 50 = 1 000. **SUB-TOTAL 90 шт — 13 200 RMB**. Банк: **Industrial and Commercial Bank of China, Jiangsu Provincial Branch** (Baoying County, Yangzhou City), Beneficiary **Yangzhou Jinrun Import And Export Co., LTD**, A/C (RMB) **1108200109100080954**, SWIFT **ICBKCNBJJSP**, CNAPS 102312220018. Step 0 🔴 — заявка/поручение и компания-плательщик ещё не пришли; совпадений по PI JR26091901M / 13 200 в 5 таблицах нет (Трак-Прайс: Main 38 — 31 762 CNY, Main 40 — 71 250 CNY). | 📄 21.09.2026 (📨 Трак-Прайс/Fininvest, файл «Контракт_кабины_сборные_постоплата_180_дней_от_21_06_25.pdf», скан 5 стр.) — **КОНТРАКТ № JR25062101M от 21 июня 2025 г.** (двуязычный EN/RU): «Продавец» **YANGZHOU JINRUN IMPORT & EXPORT CO., LTD** (East of Xingyuan Second Road, Chengnan Industrial Concentration Zone, Baoying county, Yangzhou city, Jiangsu province, China; директор **Yan Min**) ↔ «Покупатель» **ООО «Трак-прайс»** (директор **Иткумов Константин Викторович**). Ст.1 предмет — товар на условиях **EXW (Ex Works), завод Продавца, Чунцин**; ст.2 срок действия — до **31.12.2028**; ст.3 поставка на территорию РФ в течение **20 дней** с момента подписания инвойса; ст.4 общая стоимость не определена, цены в CNY; **ст.5 условия оплаты — в китайских юанях, не позднее 180 дней с момента получения Товара (постоплата 180 дней)**, оплата в пользу третьего лица с участием агента; ст.10 арбитраж — Арбитражный суд Новосибирской области. Банк Продавца: **ICBC Jiangsu Provincial Branch** (Baoying County, Yangzhou City), счёт **1108200109100080954**, SWIFT **ICBKCNBJJSP**, CNAPS 102312220018. Банк Покупателя: Joint Stock Company **Asian-Pacific Bank** (675004, Благовещенск, ул. Амурская 225; SWIFT ASANRU8XXXX; к/с 30101 810 3 0000 0000765; кор. банк BANK OF CHINA (RUSSIA), BIC BKRHRUMMXXX, счёт 30109156300000000217). Подписи и печати обеих сторон (печать «Трак-прайс», Россия, Новосибирск). Это рамочный контракт к PI JR26091901M (этой строки) и к сделкам Трак-Прайс — Main 38/40 (тот же поставщик).",
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null
-  },
-  {
-    "row": 112,
-    "date": "2026-09-21",
     "sum": 16000,
     "currency": "USD",
     "company": "Q8",
@@ -2138,7 +2119,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 113,
+    "row": 112,
     "date": "2026-09-21",
     "sum": 190000,
     "currency": "USD",
@@ -2157,7 +2138,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 114,
+    "row": 113,
     "date": "2026-09-21",
     "sum": 79950,
     "currency": "USD",
@@ -2176,7 +2157,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 115,
+    "row": 114,
     "date": "2026-09-21",
     "sum": 30200,
     "currency": "USD",
@@ -2195,7 +2176,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 116,
+    "row": 115,
     "date": "2026-09-21",
     "sum": 19368.01,
     "currency": "USD",
@@ -2214,7 +2195,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 117,
+    "row": 116,
     "date": "2026-09-21",
     "sum": 14799.65,
     "currency": "EUR",
@@ -2233,7 +2214,7 @@
     "calc": null
   },
   {
-    "row": 118,
+    "row": 117,
     "date": "2026-09-21",
     "sum": 20452.5,
     "currency": "USD",
@@ -2252,7 +2233,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 119,
+    "row": 118,
     "date": "2026-09-21",
     "sum": 44526.31,
     "currency": "USD",
@@ -2271,7 +2252,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 120,
+    "row": 119,
     "date": "2026-09-22",
     "sum": 62450,
     "currency": "USD",
@@ -2290,7 +2271,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 121,
+    "row": 120,
     "date": "2026-09-22",
     "sum": 50000,
     "currency": "EUR",
@@ -2309,7 +2290,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 122,
+    "row": 121,
     "date": "2026-09-22",
     "sum": 26245,
     "currency": "EUR",
@@ -2328,7 +2309,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 123,
+    "row": 122,
     "date": "2026-09-22",
     "sum": 13500,
     "currency": "EUR",
@@ -2347,7 +2328,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 124,
+    "row": 123,
     "date": "2026-09-22",
     "sum": 53000,
     "currency": "EUR",
@@ -2366,7 +2347,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 125,
+    "row": 124,
     "date": "2026-09-22",
     "sum": 10020.66,
     "currency": "USD",
@@ -2385,7 +2366,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 126,
+    "row": 125,
     "date": "2026-09-22",
     "sum": 65072.5,
     "currency": "USD",
@@ -2404,7 +2385,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 127,
+    "row": 126,
     "date": "2026-09-22",
     "sum": 80229.19,
     "currency": "USD",
@@ -2423,7 +2404,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 128,
+    "row": 127,
     "date": "2026-09-22",
     "sum": 17635.5,
     "currency": "EUR",
@@ -2442,7 +2423,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 129,
+    "row": 128,
     "date": "2026-09-22",
     "sum": 25659,
     "currency": "USD",
@@ -2461,7 +2442,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 130,
+    "row": 129,
     "date": "2026-09-22",
     "sum": 24767.72,
     "currency": "EUR",
@@ -2480,7 +2461,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 131,
+    "row": 130,
     "date": "2026-09-22",
     "sum": 41593.56,
     "currency": "EUR",
@@ -2499,7 +2480,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 132,
+    "row": 131,
     "date": "2026-09-23",
     "sum": 25094.3,
     "currency": "EUR",
@@ -2518,7 +2499,7 @@
     "calc": null
   },
   {
-    "row": 133,
+    "row": 132,
     "date": "2026-09-23",
     "sum": 28534.06,
     "currency": "EUR",
@@ -2537,7 +2518,7 @@
     "calc": null
   },
   {
-    "row": 134,
+    "row": 133,
     "date": "2026-09-23",
     "sum": 25000,
     "currency": "EUR",
@@ -2556,7 +2537,7 @@
     "calc": null
   },
   {
-    "row": 135,
+    "row": 134,
     "date": "2026-09-23",
     "sum": null,
     "currency": null,
@@ -2575,7 +2556,7 @@
     "calc": null
   },
   {
-    "row": 136,
+    "row": 135,
     "date": "2026-09-23",
     "sum": 23816.04,
     "currency": "EUR",
@@ -2594,7 +2575,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 137,
+    "row": 136,
     "date": "2026-09-23",
     "sum": 116770.57,
     "currency": "EUR",
@@ -2613,7 +2594,7 @@
     "calc": null
   },
   {
-    "row": 138,
+    "row": 137,
     "date": "2026-09-23",
     "sum": 30000,
     "currency": "EUR",
@@ -2632,7 +2613,7 @@
     "calc": null
   },
   {
-    "row": 139,
+    "row": 138,
     "date": "2026-09-23",
     "sum": null,
     "currency": null,
@@ -2651,7 +2632,7 @@
     "calc": null
   },
   {
-    "row": 140,
+    "row": 139,
     "date": "2026-09-23",
     "sum": 191765.05,
     "currency": "USD",
@@ -2670,7 +2651,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 141,
+    "row": 140,
     "date": "2026-09-23",
     "sum": 14437.5,
     "currency": "USD",
@@ -2689,7 +2670,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 142,
+    "row": 141,
     "date": "2026-09-23",
     "sum": 2342582.2,
     "currency": "CNY",
@@ -2709,7 +2690,7 @@
     "documentDate": "2026-09-04"
   },
   {
-    "row": 143,
+    "row": 142,
     "date": "2026-09-23",
     "sum": 45248.55,
     "currency": "EUR",
@@ -2728,7 +2709,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 144,
+    "row": 143,
     "date": "2026-09-23",
     "sum": 15271.74,
     "currency": "USD",
@@ -2747,26 +2728,26 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 145,
+    "row": 144,
     "date": "2026-09-23",
     "sum": 14497.5,
     "currency": "EUR",
     "company": "UK",
     "color": "FFFFFF00",
     "clientName": "VDX",
-    "costFormula": null,
+    "costFormula": "14 497,50 EUR / 0,8783 × 1,0045 + 100 = 16 681 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 16681,
-    "sent_usdt": null,
-    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from ❗️**» — компания-плательщик в сообщении НЕ названа; файл «LUX-122 PROFORMA INVOICES - 22.09.2026.pdf») — **ордер на платёж**: Beneficiary **TAR PRODUCTION TURIZM LTD STI** (Güzeloba Mah. Havaalanı Cad. 100.Yıl Plaza No:37/101, Muratpaşa / Antalya, Türkiye; Vergi No 8230769949; info@luxetar.com); банк **TÜRKİYE VAKIFLAR BANKASI T.A.O.** (Finanskent Mah., Finans Cd 40/1, Ümraniye, Istanbul), SWIFT **TVBATR2A**, счёт **TR32 0001 5001 5804 8023 6214 05** (EUR; TRY TR06..., USD TR04...); Payment details «**INV.LUX-122.2,3,4 dd.22.09.2026**»; Amount **14 497,50 EUR**; **OUR**. Приложение — PROFORMA INVOICES от 22.09.2026: **LUX-122.2** (Accommodation in Akra Fethiye Tui Blue Sensatori, 24.09–27.09, 50% предоплата, ADDENDUM № 1) — 7 245 EUR; + LUX-122.3, LUX-122.4 → итого **14 497,50 EUR**. Клиент — **VDX** (группа 📨 Платежи VDX). ⚠️ Компания-плательщик не названа → 🔴; Q8-расчёт пока не ставится. | 💰 24.09.2026 — приход 16 681,0 USDT (Bobr IN 24.09.2026 12:11:27 UTC, Рабочий 4, от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9; txid f0ca1313127617220b23f7809ad96493551ddbe52a9665888e7a071e2b35410c); Scream 24.09.2026: «Под 14497.5» — под эту заявку (14 497,5 EUR). received_usdt = 16681. | 🔁 24.09.2026 — парный USDT-выход **16 681,0** (Bobr OUT 24.09.2026 12:32:45 UTC, Рабочий 4 → TPpXeGcvwCVbXrwPEdh4Ckv539n92RnnVj [кошелёк выплат VDX]; txid 4a8a5a1d73196b406ddb9faf6f04c215dc1dd1b1c00d50840852d8d22c46275b). Scream 24.09.2026: «под 14 497.5 EUR» — под эту заявку (пара к приходу 16 681 от TT2oR4q).",
-    "calc": null
+    "sent_usdt": 16681,
+    "notes": "📄 23.09.2026 (📨 Платежи VDX, подпись «**Payment from ❗️**» — компания-плательщик в сообщении НЕ названа; файл «LUX-122 PROFORMA INVOICES - 22.09.2026.pdf») — **ордер на платёж**: Beneficiary **TAR PRODUCTION TURIZM LTD STI** (Güzeloba Mah. Havaalanı Cad. 100.Yıl Plaza No:37/101, Muratpaşa / Antalya, Türkiye; Vergi No 8230769949; info@luxetar.com); банк **TÜRKİYE VAKIFLAR BANKASI T.A.O.** (Finanskent Mah., Finans Cd 40/1, Ümraniye, Istanbul), SWIFT **TVBATR2A**, счёт **TR32 0001 5001 5804 8023 6214 05** (EUR; TRY TR06..., USD TR04...); Payment details «**INV.LUX-122.2,3,4 dd.22.09.2026**»; Amount **14 497,50 EUR**; **OUR**. Приложение — PROFORMA INVOICES от 22.09.2026: **LUX-122.2** (Accommodation in Akra Fethiye Tui Blue Sensatori, 24.09–27.09, 50% предоплата, ADDENDUM № 1) — 7 245 EUR; + LUX-122.3, LUX-122.4 → итого **14 497,50 EUR**. Клиент — **VDX** (группа 📨 Платежи VDX). ⚠️ Компания-плательщик не названа → 🔴; Q8-расчёт пока не ставится. | 💰 24.09.2026 — приход 16 681,0 USDT (Bobr IN 24.09.2026 12:11:27 UTC, Рабочий 4, от TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9; txid f0ca1313127617220b23f7809ad96493551ddbe52a9665888e7a071e2b35410c); Scream 24.09.2026: «Под 14497.5» — под эту заявку (14 497,5 EUR). received_usdt = 16681. | 🔁 24.09.2026 — парный USDT-выход **16 681,0** (Bobr OUT 24.09.2026 12:32:45 UTC, Рабочий 4 → TPpXeGcvwCVbXrwPEdh4Ckv539n92RnnVj [кошелёк выплат VDX]; txid 4a8a5a1d73196b406ddb9faf6f04c215dc1dd1b1c00d50840852d8d22c46275b). Scream 24.09.2026: «под 14 497.5 EUR» — под эту заявку (пара к приходу 16 681 от TT2oR4q). | 💰 29.09.2026 (Scream: «14 497,50 EUR / 0,8783 * 1,0045 + 100 = 16681», адрес выплат TPpXeGcvwCVbXrwPEdh4Ckv539n92RnnVj): costFormula + sent_usdt = 16 681 USDT, столбец D = ТЕЗ.",
+    "calc": "ТЕЗ"
   },
   {
-    "row": 146,
+    "row": 145,
     "date": "2026-09-24",
     "sum": 136573.99,
     "currency": "USD",
@@ -2785,7 +2766,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 147,
+    "row": 146,
     "date": "2026-09-24",
     "sum": 48840,
     "currency": "CNY",
@@ -2804,7 +2785,7 @@
     "calc": null
   },
   {
-    "row": 148,
+    "row": 147,
     "date": "2026-09-24",
     "sum": 12027.64,
     "currency": "EUR",
@@ -2823,7 +2804,7 @@
     "calc": null
   },
   {
-    "row": 149,
+    "row": 148,
     "date": "2026-09-24",
     "sum": 18874,
     "currency": "USD",
@@ -2842,7 +2823,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 150,
+    "row": 149,
     "date": "2026-09-24",
     "sum": 10116.77,
     "currency": "USD",
@@ -2861,7 +2842,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 151,
+    "row": 150,
     "date": "2026-09-24",
     "sum": 203563,
     "currency": "CNY",
@@ -2881,7 +2862,7 @@
     "documentDate": "2026-09-18"
   },
   {
-    "row": 152,
+    "row": 151,
     "date": "2026-09-24",
     "sum": 11003.2,
     "currency": "EUR",
@@ -2900,7 +2881,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 153,
+    "row": 152,
     "date": "2026-09-24",
     "sum": 20500,
     "currency": "EUR",
@@ -2919,7 +2900,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 154,
+    "row": 153,
     "date": "2026-09-24",
     "sum": 23000,
     "currency": "EUR",
@@ -2938,7 +2919,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 155,
+    "row": 154,
     "date": "2026-09-24",
     "sum": 16145,
     "currency": "USD",
@@ -2957,7 +2938,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 156,
+    "row": 155,
     "date": "2026-09-24",
     "sum": 25081,
     "currency": "USD",
@@ -2976,7 +2957,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 157,
+    "row": 156,
     "date": "2026-09-24",
     "sum": 10000,
     "currency": "USD",
@@ -2995,7 +2976,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 158,
+    "row": 157,
     "date": "2026-09-24",
     "sum": null,
     "currency": null,
@@ -3014,7 +2995,7 @@
     "calc": null
   },
   {
-    "row": 159,
+    "row": 158,
     "date": "2026-09-25",
     "sum": null,
     "currency": null,
@@ -3033,7 +3014,7 @@
     "calc": null
   },
   {
-    "row": 160,
+    "row": 159,
     "date": "2026-09-25",
     "sum": null,
     "currency": null,
@@ -3052,7 +3033,7 @@
     "calc": null
   },
   {
-    "row": 161,
+    "row": 160,
     "date": "2026-09-25",
     "sum": 20000,
     "currency": "EUR",
@@ -3071,7 +3052,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 162,
+    "row": 161,
     "date": "2026-09-25",
     "sum": 136174.25,
     "currency": "USD",
@@ -3090,7 +3071,7 @@
     "calc": null
   },
   {
-    "row": 163,
+    "row": 162,
     "date": "2026-09-25",
     "sum": 69250,
     "currency": "EUR",
@@ -3109,7 +3090,7 @@
     "calc": null
   },
   {
-    "row": 164,
+    "row": 163,
     "date": "2026-09-25",
     "sum": 138600,
     "currency": "USD",
@@ -3128,7 +3109,7 @@
     "calc": null
   },
   {
-    "row": 165,
+    "row": 164,
     "date": "2026-09-28",
     "sum": 7100,
     "currency": "USD",
@@ -3148,7 +3129,7 @@
     "documentDate": "2026-09-16"
   },
   {
-    "row": 166,
+    "row": 165,
     "date": "2026-09-28",
     "sum": 13773.86,
     "currency": "EUR",
@@ -3168,7 +3149,7 @@
     "documentDate": "2026-09-24"
   },
   {
-    "row": 167,
+    "row": 166,
     "date": "2026-09-28",
     "sum": 20000,
     "currency": "USD",
@@ -3188,7 +3169,7 @@
     "documentDate": "2026-09-25"
   },
   {
-    "row": 168,
+    "row": 167,
     "date": "2026-09-28",
     "sum": 33750,
     "currency": "EUR",
@@ -3208,7 +3189,7 @@
     "documentDate": "2026-09-24"
   },
   {
-    "row": 169,
+    "row": 168,
     "date": "2026-09-28",
     "sum": 3825,
     "currency": "USD",
@@ -3228,7 +3209,7 @@
     "documentDate": "2026-07-02"
   },
   {
-    "row": 170,
+    "row": 169,
     "date": "2026-09-28",
     "sum": 125000,
     "currency": "USD",
@@ -3248,7 +3229,7 @@
     "documentDate": "2026-09-21"
   },
   {
-    "row": 171,
+    "row": 170,
     "date": "2026-09-28",
     "sum": 125331.43,
     "currency": "USD",
@@ -3268,7 +3249,7 @@
     "documentDate": "2026-09-21"
   },
   {
-    "row": 172,
+    "row": 171,
     "date": "2026-09-28",
     "sum": 25148,
     "currency": "EUR",
@@ -3288,7 +3269,7 @@
     "documentDate": "2026-09-25"
   },
   {
-    "row": 173,
+    "row": 172,
     "date": "2026-09-28",
     "sum": null,
     "currency": null,
@@ -3307,7 +3288,7 @@
     "calc": null
   },
   {
-    "row": 174,
+    "row": 173,
     "date": "2026-09-28",
     "sum": 4876,
     "currency": "EUR",
@@ -3327,7 +3308,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 175,
+    "row": 174,
     "date": "2026-09-28",
     "sum": 35271,
     "currency": "EUR",
@@ -3347,7 +3328,7 @@
     "documentDate": "2026-09-18"
   },
   {
-    "row": 176,
+    "row": 175,
     "date": "2026-09-28",
     "sum": 66836.38,
     "currency": "EUR",
@@ -3366,7 +3347,7 @@
     "calc": "РУБ"
   },
   {
-    "row": 177,
+    "row": 176,
     "date": "2026-09-28",
     "sum": 86000,
     "currency": "EUR",
@@ -3386,7 +3367,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 178,
+    "row": 177,
     "date": "2026-09-28",
     "sum": 150000,
     "currency": "USD",
@@ -3406,7 +3387,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 179,
+    "row": 178,
     "date": "2026-09-28",
     "sum": 36520.61,
     "currency": "USD",
@@ -3426,7 +3407,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 180,
+    "row": 179,
     "date": "2026-09-28",
     "sum": 46541.21,
     "currency": "RUB",
@@ -3445,7 +3426,7 @@
     "calc": null
   },
   {
-    "row": 181,
+    "row": 180,
     "date": "2026-09-28",
     "sum": null,
     "currency": null,
@@ -3464,7 +3445,7 @@
     "calc": null
   },
   {
-    "row": 182,
+    "row": 181,
     "date": "2026-09-28",
     "sum": 53422.95,
     "currency": "USD",
@@ -3484,7 +3465,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 183,
+    "row": 182,
     "date": "2026-09-28",
     "sum": 5488,
     "currency": "USD",
@@ -3504,7 +3485,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 184,
+    "row": 183,
     "date": "2026-09-28",
     "sum": 11281,
     "currency": "USD",
