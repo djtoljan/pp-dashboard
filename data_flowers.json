@@ -1502,5 +1502,24 @@
     "exchange_to": "VDX",
     "vdx_rate": 84.15,
     "received_usdt": 121165.01
+  },
+  {
+    "row": 80,
+    "date": "2026-09-30",
+    "sum": 30792.58,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
