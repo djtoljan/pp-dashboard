@@ -3759,5 +3759,24 @@
     "sent_usdt": null,
     "notes": "📄 29.09.2026 (📨 **Платежи VDX** — «**Payment from   ❗️**»; вложение «44,093.50 USD Furaveri_1918304.pdf») — **ордер на платёж**: Beneficiary **Furaveri Island Resort&Spa** (Furaveri Maldives, Raa Atoll, 20012, Maldives); Beneficiary Bank **Bank of Maldives** (BML BUILDING 11 BODUTHAKURUFAANU MAGU, MALE); SWIFT **MALBMVMV**; Account **7730-000076-909**; Payment details **INV.1918304 dd.24/09/2026**; Amount **44 093,50 USD**; условия **OUR**. Вложение — **PRO-FORMA INVOICE Inv 1918304** (24 September 2026; Furaveri Island Resort & Spa, Raa Atoll, Rep of Maldives; TIN 1003226GST001): Accomodation / Green Tax / Transfer charges (13/10–05/11/26), итог **44 093,50 USD** (Commission −6.00; Balance Due 44 093,50); банк — Bank of Maldives. ⚠️ **Компания-плательщик в ордере не указана** («Payment from ❗️» — пусто) → проставить по подтверждению Scream. ⚠️ Совпадений по 1918304 / 44 093,50 / Furaveri в 5 таблицах нет. | ✏️ 29.09.2026 (Scream: «**это все UK как и Travelcom как и Rumors**») — **компания (E) = UK** (единый плательщик по этим VDX-ордерам; как строки Rumors r76/r78/r81/r87/r167/r183).",
     "calc": null
+  },
+  {
+    "row": 197,
+    "date": "2026-09-29",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": null,
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
