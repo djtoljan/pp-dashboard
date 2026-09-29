@@ -3577,7 +3577,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 29.09.2026 (📨 ИП Мазуренко И.А. - Fininvest/ЭТБ, файл «Mazurenko sąsk.pdf» — скан, прочитано рендером; Scream: «Этот счёт надо оплатить в четверг-пятницу») — **PVM sąskaita faktūra / Invoice, Serija EUPA nr. 8183, 2026-04-27**: Продавец **UAB «Eurokusta»** (S. Žukausko g. 4-103, LT-08244 Vilnius; jm.k. 300153942, PVM LT100002141018; **AB SEB bankas**, SWIFT **CBVILT2X**, A/s **LT357044060005218553**) → Покупатель (клиент) **IP Mazurenko Ivan Aleksejevič** (236006 Kaliningrad, Naberežnaja Karbyševa; kodas 390701068179). Позиции: **CVED pildymas / Filing of CVED** — 1 × 1400,00 € (VAT 0%) + **Valstybės rinkliava už veterinarijos paslaugas (CVED) / State duty for veterinary services** — 1 × 13600,00 €; **Iš viso / Total Due 15 000,00 €** (fifteen thousand €). Клиент **ИП Мазуренко**, компания-плательщик не названа → 🔴 (Step 0). ⏰ К оплате в четверг–пятницу (01–02.10.2026, указание Scream 29.09.2026). ⚠️ Тот же продавец/сумма, что у r47 (EUPA 8209 dd 09.09.2026, 15 000 EUR, 🟢) — разные инвойсы (8183 vs 8209). check-all-tables по 15 000 / Eurokusta / 8183 — по этому документу совпадений нет.",
     "calc": null
   }
 ]
