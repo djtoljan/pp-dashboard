@@ -3501,6 +3501,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 29.09.2026 (📨 Платежи VDX — «**Payment from Rumors❗️**», файл «Invoice_R07080926-02-VS039.pdf») — **ордер на платёж**: Beneficiary **XIAN EVERBRIGHT TRAVEL SERVICE** (SHUI WEN LANE NO.2 BEI LIN DISTRICT XIAN CITY SHAANXI, CHINA); Beneficiary Bank **CHINA MERCHANTS BANK XIAN BRANCH KEJILU SUBBRANCH** (JIEZUO BUILDING NO.2 FENGHUI ROAD XIAN CHINA), SWIFT **CMBCCNBS231**, A/C **129903265910002**; Payment details **INV.R07080926-02-VS(039) DD. 28.09.2026**; Amount **10 000,00 USD**; условия **OUR**. Вложенный **INVOICE No. R07080926-02-VS(039) dd 28 September 2026** (BEST CHINA TOURS @ XIAN EVERBRIGHT TRAVEL SERVICE, License L-SNX-GJ00007; туруслуги для 3 чел. 07–09 Oct, маршрут Ningbo – Shanghai; **Total amount due USD 10 000**). Компания — линия **UK** (Rumors), клиент **VDX** → ⬜ (Step 3). check-all-tables по 10 000 / XIAN EVERBRIGHT / R07080926 — совпадений нет.",
+    "calc": null
+  },
+  {
+    "row": 184,
+    "date": "2026-09-29",
+    "sum": 29000,
+    "currency": "USD",
+    "company": "UK",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
