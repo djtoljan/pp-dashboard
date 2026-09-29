@@ -3134,7 +3134,7 @@
     "sum": 13773.86,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "13 773,86 / 0.877291140791 (FX Q8 29.09.2026: 1 USD = 0.877291140791 EUR) + 0,3% + 30 = 15 777,54 USDT",
     "extra": null,
