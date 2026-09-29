@@ -1399,7 +1399,7 @@
     "sum": 49164.37,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "49 164,37 / 0.877291140791 (FX Q8 29.09.2026: 1 USD = 0.877291140791 EUR) + 0,3% + 30 = 56 239,23 USDT",
     "extra": null,
@@ -1448,7 +1448,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 17188.74,
-    "notes": "📄 28.09.2026 (📨 Цветы, файлы «Invoice_Dolina_Agro_Q8_EUR_15000_28-09-2026.pdf» + «Dolina Agro Ltd 15000 …docx») — **INVOICE DA-280926-01 dd 28.09.2026**: продавец **DOLINA AGRO LTD** (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 Israel; Reg. 515826436; банк **BANK LEUMI LE ISRAEL**, Business Nathanya Branch 744, IBAN **IL750107440000027660042**, SWIFT **LUMIILITXXX**) → покупатель **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); валюта **EUR**; **Incoterms EXW**; TRUCK INTERFLOWERS; позиции — розы (EXPLORER 7 000 шт, FREEDOM 7 000 шт и др., инвойсы-строки DA-280926-01 … DA-280926-08); **Total 15 000,00 EUR**. Компания **Q8** → ⬜, клиент **Dolina Agro (Цветы)**; расчёт Q8 проставлен сразу: **15 000,00 / 0.875993777005 + 0,3% + 30 = 17 204,78 USDT**. ✅ Это НОВЫЙ инвойс от 28.09 (не повтор r66 от 23.09) — заявка-перевод «Dolina Agro Ltd 15000» (те же реквизиты) относится сюда. | ⚠️ 28.09.2026 (Scream): кросс-курс EUR Q8 на 28.09 не давался — расчёт СНЯТ (был посчитан по прошлому курсу 0,875993777005 от 24.09.2026). Ждём свежий FX Q8 / курс от Scream. | 📈 29.09.2026 (Scream: FX Q8 29.09.2026, 1 USD = 0,876812604933 EUR, buy 15 026,81 EUR): costFormula/sent_usdt = 17 188,74 USDT.",
+    "notes": "📄 28.09.2026 (📨 Цветы, файлы «Invoice_Dolina_Agro_Q8_EUR_15000_28-09-2026.pdf» + «Dolina Agro Ltd 15000 …docx») — **INVOICE DA-280926-01 dd 28.09.2026**: продавец **DOLINA AGRO LTD** (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 Israel; Reg. 515826436; банк **BANK LEUMI LE ISRAEL**, Business Nathanya Branch 744, IBAN **IL750107440000027660042**, SWIFT **LUMIILITXXX**) → покупатель **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); валюта **EUR**; **Incoterms EXW**; TRUCK INTERFLOWERS; позиции — розы (EXPLORER 7 000 шт, FREEDOM 7 000 шт и др., инвойсы-строки DA-280926-01 … DA-280926-08); **Total 15 000,00 EUR**. Компания **Q8** → ⬜, клиент **Dolina Agro (Цветы)**; расчёт Q8 проставлен сразу: **15 000,00 / 0.875993777005 + 0,3% + 30 = 17 204,78 USDT**. ✅ Это НОВЫЙ инвойс от 28.09 (не повтор r66 от 23.09) — заявка-перевод «Dolina Agro Ltd 15000» (те же реквизиты) относится сюда. | ⚠️ 28.09.2026 (Scream): кросс-курс EUR Q8 на 28.09 не давался — расчёт СНЯТ (был посчитан по прошлому курсу 0,875993777005 от 24.09.2026). Ждём свежий FX Q8 / курс от Scream. | 📈 29.09.2026 (Scream: FX Q8 29.09.2026, 1 USD = 0,876812604933 EUR, buy 15 026,81 EUR): costFormula/sent_usdt = 17 188,74 USDT. | ✅ 29.09.2026 (📨 ПП компании Q8, файл «15000.00.pdf») — **BONBILL LIMITED Payment Certificate** (Тип 7): Transaction ID **O2104825006520401920951**, Payment Time **2026-09-29 14:46:02**, Payer **Q8 GROUP LIMITED** → Payee **Dolina Agro Ltd** (BANK LEUMI LE-ISRAEL B.M., счёт IL750107440000027660042), **EUR 15 000,00**, Remarks «InvoiceDA28092601DD28092026ForFlowers» = INVOICE DA-280926-01 dd 28.09.2026. ⬜→🟢 (Тип 7 BONBILL Q8).",
     "calc": null,
     "documentDate": "2026-09-28"
   },
