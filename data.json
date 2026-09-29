@@ -3548,7 +3548,7 @@
     "sum": 19972.38,
     "currency": "EUR",
     "company": "VELLORA",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Дре Русланд",
     "costFormula": null,
     "extra": null,
@@ -3701,7 +3701,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 29.09.2026 (📨 **Платежи VDX** — «**Payment from  TRAVELCOM❗️**»; вложение «INV-00744.pdf») — **ордер на платёж**: Beneficiary **Intermundoprom FZ-LLC** (Al Shohada Road, Compass Building, Ras al-Khaimah, U.A.E); Beneficiary bank **Emirates Islamic Bank** (EI BANIYAS BRANCH, Dubai, UAE), SWIFT **MEBLAEAD**, Account **AE170340003708467682502**; Payment details **inv. INV-00744 DD 29/09/2026**; Amount **21 461.00 USD**; условия **OUR**. Вложение — **TAX INVOICE # INV-00744** (29 Sep 2026, Due on Receipt): Intermundoprom FZ-LLC, позиция «**Hotel Booking — Travel Services in Peru**» 1 × 21 461,00 = 21 461,00, Balance Due **$21 461,00**; реквизиты те же. Компания (E) = **TRAVELCOM** (названа в ордере) → Step 3 → ⬜; клиент — по линии VDX (уточнить H). ⚠️ Совпадений по INV-00744 / Intermundoprom / TRAVELCOM в 5 таблицах нет.",
     "calc": null
   }
 ]
