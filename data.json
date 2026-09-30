@@ -3795,6 +3795,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 94975.17,
+    "notes": "📄 30.09.2026 (📨 Заявки Компания Q8, подпись «Payment from Q8❗️»; файл «PI#130-132 (nitrile) 22.09.2026 agent Q8.pdf») — ордер на платёж: Beneficiary **SHANGHAI WELL INDUSTRIES CO., LTD.** (S.W.I.CO., LTD) (Suite 1201, Bldg. 2, Baoshan Wanda Plaza, Shanghai 200435, China); Bank **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD.** (13F Chouyin Mansion, No. 158 Wangchao Rd, Shangcheng District, Hangzhou, China, 310016), SWIFT **CZCBCN2X**, счёт **NRA18801142010500003149** (NRA обязательно указывать при переводе); Intermediary **JPMORGAN CHASE BANK, N.A. NEW YORK**, SWIFT **CHASUS33**; Payment details «**Inv 130-131-132 dd 22.09.2026**»; Amount **94 661,19 USD**; **OUR**. Инвойс-основание: **PROFORMA INVOICE P/I №130-131-132, Sep 22, 2026** (SHANGHAI WELL INDUSTRIES CO., LTD → Q8 GROUP LIMITED; contract 643/76567904/062 dtd 01.08.2023; Order #130,131,132): Blue nitrile gloves powder free (S/M/L/XL), HS 4015190000, 16 200 000 шт / 8 100 ящ, Total ¥2 114 100,00; условия **FOB (China), Payment 30% deposit, rest 70% after BL** → депозит 30% ¥634 230,00 = **$94 661,19**. Компания **Q8** (из «Payment from Q8»), клиент **VDX**. Q8-расчёт сразу: `94 661,19 + 0,3% + 30 = 94 975,17 USDT`. Совпадений по Shanghai Well / P/I 130-131-132 / 94 661,19 в 5 таблицах нет (dedup NEW_ROW) — новый ордер.",
+    "calc": null
+  },
+  {
+    "row": 199,
+    "date": "2026-09-30",
+    "sum": 28195.12,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Хаус",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
