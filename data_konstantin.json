@@ -593,8 +593,8 @@
     "date": "2026-09-30",
     "sum": 121238.27,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "INTEGRA",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -604,7 +604,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 30.09.2026 (📨 Константин Просто Группа, файл «Beurer_121_238_27_EUR 2.xlsx») — платёжные реквизиты: Beneficiary **BEURER GMBH** (Soeflinger Strasse 218, 89077 Ulm, Germany); Bank **Commerzbank AG, Ulm** (Ulm, Germany), SWIFT **COBADEFF630**, A/C **DE11630400530920101300**. Details of payment: «**Pro-forma invoice 10033733 from 18.09.2026, order 5869098, for home appliances. Customer No. 10034182**». **Amount: 121 238,27 EUR**. Компания-плательщик пока не названа → **🔴 Step 0** (ждём заявку/компанию). Совпадений по Beurer / 121 238 / 10033733 в 5 таблицах нет. | 📄 30.09.2026 (📨 Константин Просто Группа, файл «PI 5869098.pdf», «**121.238.27 к оплате**») — **PRO-FORMA INVOICE** от **Beurer GmbH** (Söflinger Strasse 218, 89077 Ulm): **Document No. 10033733 от 18.09.2026**; Customer No. 10034182; **Order No: 5869098**; Invoice/Delivery address **LLC Tehnika Duniyasi** (Bitarap Turkmenistan Av., 183, Ashgabat 744000, Turkmenistan; Tax No. 88001/41946). Terms of delivery: **EXW**, отправка морем; позиции (Art. 60805 TL 30 и др.). Суммарно к оплате **121 238,27 EUR**. Это проформа-инвойс-основание к реквизитному Beurer-документу (order 5869098).",
+    "notes": "📄 30.09.2026 (📨 Константин Просто Группа, файл «Beurer_121_238_27_EUR 2.xlsx») — платёжные реквизиты: Beneficiary **BEURER GMBH** (Soeflinger Strasse 218, 89077 Ulm, Germany); Bank **Commerzbank AG, Ulm** (Ulm, Germany), SWIFT **COBADEFF630**, A/C **DE11630400530920101300**. Details of payment: «**Pro-forma invoice 10033733 from 18.09.2026, order 5869098, for home appliances. Customer No. 10034182**». **Amount: 121 238,27 EUR**. Компания-плательщик пока не названа → **🔴 Step 0** (ждём заявку/компанию). Совпадений по Beurer / 121 238 / 10033733 в 5 таблицах нет. | 📄 30.09.2026 (📨 Константин Просто Группа, файл «PI 5869098.pdf», «**121.238.27 к оплате**») — **PRO-FORMA INVOICE** от **Beurer GmbH** (Söflinger Strasse 218, 89077 Ulm): **Document No. 10033733 от 18.09.2026**; Customer No. 10034182; **Order No: 5869098**; Invoice/Delivery address **LLC Tehnika Duniyasi** (Bitarap Turkmenistan Av., 183, Ashgabat 744000, Turkmenistan; Tax No. 88001/41946). Terms of delivery: **EXW**, отправка морем; позиции (Art. 60805 TL 30 и др.). Суммарно к оплате **121 238,27 EUR**. Это проформа-инвойс-основание к реквизитному Beurer-документу (order 5869098). ⬜ 30.09.2026 (📨 Ордера и Расчеты ! — «**Payment from INTEGRA ❗️**», файл «INV 121 238,27 EUR.pdf») — **ордер на платёж**: Beneficiary **BEURER GMBH** (Soeflinger Strasse 218, 89077 Ulm, Germany); Bank **Commerzbank AG, Ulm**, SWIFT **COBADEFF630**, A/C **DE11630400530920101300**; Payment details «**Pro-forma invoice 10033733 from 18.09.2026**»; Amount **121 238,27 EUR**; **OUR**. Компания → **INTEGRA** (из «Payment from INTEGRA»); клиент — Константин (Просто группа). **Step 3 → ⬜** (🔴→⬜). Совпадает с этой строкой (Beurer, order 5869098 / PI 5869098).",
     "calc": null
   }
 ]
