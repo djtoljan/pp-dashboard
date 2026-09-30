@@ -1755,7 +1755,7 @@
     "sum": 5305,
     "currency": "CNY",
     "company": "Alipay",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": "5 305,00 CNY / 6,63 = 800,15 USDT",
     "extra": null,
