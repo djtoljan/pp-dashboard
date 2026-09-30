@@ -555,8 +555,8 @@
     "date": "2026-09-30",
     "sum": 16500,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "VELLORA",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -566,7 +566,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 30.09.2026 (📨 Константин Просто Группа, файл «invoice M09-03 Paysera.pdf») — **INVOICE Nr M09-03 dd 16.09.2026** (Due Date 28.10.2026): **MALVARROSA OÜ** (Reg.nr 14389384, Tulika 19, 10613 Tallinn, Estonia; VAT EE102033661) → **VELLORA HOME LIMITED** (Company number 16963612, 5 Brayford Square, London E1 0SG, UK); позиция **Tableware — 33 000,00 €**; банк **Paysera LT, UAB**, IBAN **LT923500010017273592**, SWIFT **EVIULT2VXXX**. Компания-плательщик не названа → 🔴 (Step 0). Клиент — Константин (Просто группа).",
+    "notes": "📄 30.09.2026 (📨 Константин Просто Группа, файл «invoice M09-03 Paysera.pdf») — **INVOICE Nr M09-03 dd 16.09.2026** (Due Date 28.10.2026): **MALVARROSA OÜ** (Reg.nr 14389384, Tulika 19, 10613 Tallinn, Estonia; VAT EE102033661) → **VELLORA HOME LIMITED** (Company number 16963612, 5 Brayford Square, London E1 0SG, UK); позиция **Tableware — 33 000,00 €**; банк **Paysera LT, UAB**, IBAN **LT923500010017273592**, SWIFT **EVIULT2VXXX**. Компания-плательщик не названа → 🔴 (Step 0). Клиент — Константин (Просто группа). ⬜ 30.09.2026 (📨 Ордера и Расчеты ! — «**Payment from VELORA ❗️**», файл «INV 16 500,00 EUR.pdf») — **ордер на платёж**: Beneficiary **MALVARROSA OU** (Tulika 19, 10613 Tallinn, Estonia); Bank **Paysera LT, UAB**, SWIFT **EVIULT2VXXX**, A/C **LT923500010017273592**; Payment details «**INVOICE M09-03 dd 16.09.26**»; Amount **16 500,00 EUR**; **OUR**. Компания → **VELLORA** (из «Payment from VELORA»); клиент — Константин (Просто группа). **Step 3 → ⬜** (🔴→⬜: компания раскрыта). Совпадает с этой строкой (Malvarrosa, инв. M09-03, 16 500 EUR — частичная оплата инвойса 33 000 €). Приложенный PDF — сам инвойс **M09-03 dd 16.09.2026**: MALVARROSA OÜ → **VELLORA HOME LIMITED** (Company number 16963612, 5 Brayford Square, London E1 0SG), Tableware — **33 000,00 €**, Due Date 28.10.2026.",
     "calc": null
   }
 ]
