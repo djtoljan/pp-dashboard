@@ -3885,12 +3885,31 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
+    "sent_rubles_vdx": "4831199.09 (Al Safi)",
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "💸 30.09.2026 (📨 Отправки рублей ПП.) — **отправка рубля Блэкшарк («ПОЧТОБАНК») → Аль Сафи**: сумма **4 831 199,09 ₽**, назначение «**перевод собственных средств**»; принципал **ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ**. Доки на вход: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БлэкШарк\\\\FININVEST -БШ-Цветы\\\\вход 28.09.26. `sent_rubles_vdx` = 4831199.09 (Al Safi); сторона прихода по этой отправке не указана («собственные средства»). Строка 🔵.",
     "calc": null
+  },
+  {
+    "row": 204,
+    "date": "2026-09-30",
+    "sum": 46307.64,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ВТС",
+    "costFormula": "46 307,64 + 0,3% + 30 = 46 476,56 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 46476.56,
+    "notes": "✏️ 30.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 46 307,64 + 0,3% + 30 = 46 476,56 USDT.",
+    "calc": "ТЕЗ"
   }
 ]
