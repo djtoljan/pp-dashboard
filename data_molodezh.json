@@ -1614,7 +1614,7 @@
     "sum": 122199.47,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Радойл (Молодёжь)",
     "costFormula": "122 199,47 / 0,877885496184 (FX Q8 30.09.2026: 1 USD = 0,877885496184 EUR) + 0,3% + 30 = 139 645,10 USDT",
     "extra": null,
