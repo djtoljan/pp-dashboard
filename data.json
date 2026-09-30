@@ -3488,7 +3488,7 @@
     "sum": 29000,
     "currency": "USD",
     "company": "UK",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "29000 USD × 1,0045 + 100 = 29230.5 USDT",
     "extra": null,
@@ -3728,7 +3728,7 @@
     "sum": 26361.49,
     "currency": "EUR",
     "company": "UK",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "26 361,49 / 0,8806 × 1,0045 + 100 = 30 171 USDT",
     "extra": null,
@@ -3738,7 +3738,7 @@
     "vdx_rate": null,
     "received_usdt": 30171,
     "sent_usdt": 30171,
-    "notes": "📄 29.09.2026 (📨 **Платежи VDX** — «**Payment from  ❗️**»; вложение «invoice_29092026.pdf») — **ордер на платёж**: Beneficiary **Travel Services Seychelles Ltd** (Orion Building, P.O. Box 611, Victoria, Mahé, Seychelles; TIN 501 569 325); Beneficiary Bank **The Mauritius Commercial Bank (Seychelles) Ltd.** (Caravelle House, Manglier Street, P.O. Box 122, Victoria, Mahe, Seychelles); SWIFT **MCBLSCSC**; Account **SC32MCBL06070000000000204714EUR**; Payment details **INV. 24JNHZ DD.24/09/2026**; Amount **26 361,49 EUR**; условия **OUR**. Вложение — **Invoice, Booking code 24JNHZ** (Date 24/09/2026; Travel Services 10/10/2026–31/10/2026; **26 361,49 EUR**; taxes 0,00; commission 7,00 EUR; net **26 354,49 EUR**; реквизиты те же). ⚠️ **Компания-плательщик в ордере не указана** («Payment from ❗️» — пусто) → проставить по подтверждению Scream. ⚠️ Совпадений по 24JNHZ / 26 361,49 / Travel Services Seychelles в 5 таблицах нет. | ✏️ 29.09.2026 (Scream: «**это все UK как и Travelcom как и Rumors**») — **компания (E) = UK** (единый плательщик по этим VDX-ордерам; как строки Rumors r76/r78/r81/r87/r167/r183). 💰 30.09.2026 — фондирование из сводного IN **74 563 USDT** (Bobr, Рабочий 4 ← TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9, 30.09.2026 07:43:27 UTC, txid f68706e02799d2c2992508d57e25ecf53eb32602e92a8cbdee7de5d8ab4c1f3b); Scream 30.09.2026: доля этой заявки = **30 171 USDT** (26 361,49 / 0,8806 × 1,0045 + 100). received_usdt = 30171, sent_usdt = 30171. 🟡 30.09.2026 (📨 ПП компании UK, файл «travel services 26361.49 eur.pdf») — **PAYMENT ORDER DEBIT ADVICE** (TONIO): Remitter **TRAVELCOM LIMITED** (IBAN **GB13TONI04282200006496**) → Beneficiary **Travel Services Seychelles Ltd** (IBAN **SC32MCBL06070000000000204714EUR**, BIC **MCBLSCSC**); Amount **26 361,49 EUR**; Details «**INV 24JNHZ DD 24/09/2026**»; Execution Date **09/30/2026**. Штамп банка — «**IN PROCESS**» → **⬜→🟡** (Тип 3 INITIATED; 🟢 — только по EXECUTED-штампу). Компания — **UK** (плательщик-нерезидент Travelcom Limited).",
+    "notes": "📄 29.09.2026 (📨 **Платежи VDX** — «**Payment from  ❗️**»; вложение «invoice_29092026.pdf») — **ордер на платёж**: Beneficiary **Travel Services Seychelles Ltd** (Orion Building, P.O. Box 611, Victoria, Mahé, Seychelles; TIN 501 569 325); Beneficiary Bank **The Mauritius Commercial Bank (Seychelles) Ltd.** (Caravelle House, Manglier Street, P.O. Box 122, Victoria, Mahe, Seychelles); SWIFT **MCBLSCSC**; Account **SC32MCBL06070000000000204714EUR**; Payment details **INV. 24JNHZ DD.24/09/2026**; Amount **26 361,49 EUR**; условия **OUR**. Вложение — **Invoice, Booking code 24JNHZ** (Date 24/09/2026; Travel Services 10/10/2026–31/10/2026; **26 361,49 EUR**; taxes 0,00; commission 7,00 EUR; net **26 354,49 EUR**; реквизиты те же). ⚠️ **Компания-плательщик в ордере не указана** («Payment from ❗️» — пусто) → проставить по подтверждению Scream. ⚠️ Совпадений по 24JNHZ / 26 361,49 / Travel Services Seychelles в 5 таблицах нет. | ✏️ 29.09.2026 (Scream: «**это все UK как и Travelcom как и Rumors**») — **компания (E) = UK** (единый плательщик по этим VDX-ордерам; как строки Rumors r76/r78/r81/r87/r167/r183). 💰 30.09.2026 — фондирование из сводного IN **74 563 USDT** (Bobr, Рабочий 4 ← TT2oR4q97126apVPBuJ1FKq5TMrpzARsz9, 30.09.2026 07:43:27 UTC, txid f68706e02799d2c2992508d57e25ecf53eb32602e92a8cbdee7de5d8ab4c1f3b); Scream 30.09.2026: доля этой заявки = **30 171 USDT** (26 361,49 / 0,8806 × 1,0045 + 100). received_usdt = 30171, sent_usdt = 30171. 🟡 30.09.2026 (📨 ПП компании UK, файл «travel services 26361.49 eur.pdf») — **PAYMENT ORDER DEBIT ADVICE** (TONIO): Remitter **TRAVELCOM LIMITED** (IBAN **GB13TONI04282200006496**) → Beneficiary **Travel Services Seychelles Ltd** (IBAN **SC32MCBL06070000000000204714EUR**, BIC **MCBLSCSC**); Amount **26 361,49 EUR**; Details «**INV 24JNHZ DD 24/09/2026**»; Execution Date **09/30/2026**. Штамп банка — «**IN PROCESS**» → **⬜→🟡** (Тип 3 INITIATED; 🟢 — только по EXECUTED-штампу). Компания — **UK** (плательщик-нерезидент Travelcom Limited). 🟢 30.09.2026 (📨 ПП компании UK, файл «Travel Serv 26361.49 eur.pdf»; UETR 4a32f1f0-f723-48e4-b643-5872d2f6aee8) — **PAYMENT ORDER DEBIT ADVICE** (TONIO), штамп банка — **EXECUTED**: Remitter TRAVELCOM LIMITED (GB13TONI04282200006496) → Beneficiary **Travel Services Seychelles Ltd** (IBAN SC32MCBL06070000000000204714EUR, BIC MCBLSCSC); Amount **EUR 26 361,49**; Details «INV 24JNHZ DD 24/09/2026»; Execution Date 30.09.2026. → **🟡→🟢** (Тип 3 EXECUTED; ранее был IN PROCESS).",
     "calc": null
   },
   {
