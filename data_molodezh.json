@@ -1461,7 +1461,7 @@
     "sum": 23345,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ЕВРАЗИЯ ЛОГИСТИКС",
     "costFormula": "23 345,00 + 0,3% + 30 = 23 445,03 USDT",
     "extra": null,
