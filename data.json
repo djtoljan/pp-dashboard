@@ -3776,7 +3776,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 30120,
-    "notes": null,
+    "notes": "📄 30.09.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️») — ордер на платёж: Beneficiary **Chess Global Cities Pte Ltd** (864 Mountbatten Road, Katong Shopping Centre #02-28, Singapore 437644); Bank **DBS Bank** (Bishan, Singapore), SWIFT **DBSSSGSG**, счёт **0721422182**; Payment details «**Invoice 2604**»; Amount **30 000,00 USD**; **OUR**. Инвойс-основание: **Invoice 2604 dd 23 Aug 2026** (Chess Global Cities Pte Ltd → **WR Events GmbH**, Hansaallee 247B, 40549 Düsseldorf, Germany): Sponsorship of 24th ASEAN+ Ahe-Group Chess Championships (7–17 August 2026, Singapore) и Sponsorship of 1st Berjaya Global Chess Open (7–14 September 2026, Johor Bahru, Malaysia), **USD 30 000,00**. Компания **Q8** (из «Payment from Q8»), клиент **VDX**. Q8-расчёт сразу: `30 000,00 + 0,3% + 30 = 30 120 USDT`. Совпадений по Chess / Invoice 2604 / 30 000 в 5 таблицах нет (dedup NEW_ROW) — новый ордер.",
     "calc": null
   }
 ]
