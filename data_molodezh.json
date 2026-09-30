@@ -1671,7 +1671,7 @@
     "sum": 150000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ИП Зольников (Молодёжь)",
     "costFormula": "150 000,00 + 0,3% + 30 = 150 480,00 USDT",
     "extra": null,
