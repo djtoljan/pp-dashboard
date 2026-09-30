@@ -1716,10 +1716,9 @@
     "sent_rubles_vdx": "489827.52 (VDX) / 26905.91 (VDX)",
     "exchange_to": "VDX",
     "calc": null,
-    "vdx_rate": null,
-    "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём",
+    "vdx_rate": 84.4,
     "costFormula": "(38 220,00 CNY + 750) / 6,7064 × 1,007 = 5 852 USDT",
-    "received_usdt": 5852
+    "received_usdt": "5797.84 / 318.47"
   },
   {
     "row": 91,
