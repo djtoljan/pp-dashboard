@@ -1540,5 +1540,24 @@
     "sent_usdt": 15075,
     "notes": "✏️ 30.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 15 000,00 + 0,3% + 30 = 15 075,00 USDT. | 📄 30.09.2026 (📨 Заявки Компания Q8, файл «Invoice_EBF_CARGO_15000_USD_30-09-2026.pdf» — скан без текстового слоя, читал вижном; реквизиты — файл «EBF CARGO CIA LTDA 15000.docx») — **COMMERCIAL INVOICE EBF CARGO CIA LTDA.** (Av. Simón Bolívar s/n y Vía Nayón, Centro Corporativo Ekopark, Torre 1, Quito, Ecuador; +593 2 3945901; www.ebfcargo.com): CUSTOMER **Q8 Group Limited** (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong; Company No. 80242882); **Invoice No. INV-14543277734**, **Invoice Date 30.09.2026**, **AWB 145-43277732**, Currency **USD**; Payment details: **transportation services**. Позиции (цветы/растения): OTHER FLOWERS (0603197000) 49 шт 971,82 → 3 750,00; GREENS (0604209000) 71 шт 1 601,92 → 3 969,13; OTHER POT PLANTS FLOWERS (0602909100) 26 шт 2 052,22 → 3 939,96; POT PLANTS GREENS (0602909900) 15 шт 1 167,83 → 3 340,91; **TOTAL 161 шт → USD 15 000,00**. Банк получателя **PRODUBANCO** (AV. AMAZONAS 4545 y PEREIRA), SWIFT **PRODECEQ**, счёт **02005153421**. Следующий инвойс серии EBF CARGO (пред. INV-14543277733 / AWB 145-43277732 — Цветы r73, 60 000 USD). Компания **Q8** → ⬜; Q8-расчёт 15 000,00 + 0,3% + 30 = 15 075,00 USDT. | 💵 30.09.2026 — приход USDT под заявку: **15 190,0 USDT** на Рабочий 4 (Bobr IN 30.09.2026 06:34:30 UTC, от `TUWVRtfGVCMoV5bJXY1g1vshYS6JKibaB4`, txid `80935728bccacc4c511f7a90701cad8ab84b28d7f3f90a652a196e3b5c357fee`) → `received_usdt` = **15 190** (15 000 × 1,006 + 100). Клиент подтверждён Scream 30.09.2026 («Да» → EBF CARGO (Цветы)). Q9 отправлен, леджер записан (`--q9`, q9_sent=true). 🟢 30.09.2026 (📨 ПП компании Q8, файл «15000.00 (7).pdf») — **BONBILL LIMITED Payment Certificate (Тип 7 Q8)**: Transaction ID **O2105204368025452544994**, Payment Time **2026-09-30 15:53:28**; Payer **Q8 GROUP LIMITED** → Payee **EBF CARGO CIA LTDA** (счёт **02005153421**, PRODUBANCO); **USD 15 000,00**; Remarks «InvoiceINV14543277734DD30092026ForTransportationServices». Исполнение по строке → **⬜→🟢** (Тип 7 BONBILL Q8, исключение FSM).",
     "calc": null
+  },
+  {
+    "row": 82,
+    "date": "2026-09-30",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
