@@ -1635,5 +1635,24 @@
     "sent_usdt": null,
     "notes": "🏦 30.09.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, выписка Почтобанка сформ. **19:55**) — приходы от **ООО «ПРИОРИТЕТ МАРКЕТ»** (ИНН 6000004341): док **318 — 4 383 037,78 ₽** {VO11200} «за цветочную продукцию, контракт 25/06-2026» (тело) + док **319 — 109 575,94 ₽** {VO21100} «вознаграждение Агенту, WD-30» (агентское). Итого **4 492 613,72 ₽**. ⏳ Отправка по этому приходу пока не заявлена — ждём заявку/ПП на VDX. `rubles_received` = 4383037.78 / 109575.94; `sent_rubles_vdx` — нет. Строка 🔵 (ожидает отправки). | 💸 30.09.2026 (📨 Отправки рублей ПП.) — **отправка рубля Блэкшарк («ПОЧТОБАНК») → ВиДиИкс (VDX)**: сумма **4 492 613,72 ₽**, назначение «**цветы**», **заявка 814**; принципал **ООО «Приоритет маркет»**. Доки на вход: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БлэкШарк\\\\Приоритет маркет\\\\вход 30.09.26_2. `sent_rubles_vdx` = 4492613.72 = приход (4 383 037,78 + 109 575,94 = 4 492 613,72) → ✅ сторона сведена.",
     "calc": null
+  },
+  {
+    "row": 87,
+    "date": "2026-09-30",
+    "sum": 14500,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "UNIFLOR (Цветы)",
+    "costFormula": null,
+    "extra": "📄 30.09.2026 (📨 Цветы) — **Proforma INVOICE No. 8/2026** dated **09/07/2026**, Seller **UNIFLOR L.L.C-FZ** (License 2538917.01; Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, UAE; TRN 105336460800001) → Buyer **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: Supply of fresh-cut flowers of South Africa origin — **14 500,00 USD** (6438 stems / 153 boxes; VAT 0%). Bank: UNIFLOR L.L.C-FZ, счёт 3708515772902, Emirates Islamic (EI SHK ZAYED RD AL WASL TOWER), SWIFT MEBLAEADXXX, IBAN AE530340003708515772902. Приложено заявление/платёжное поручение (поля 56/57/59: USD 14 500,00; 57 EMIRATES ISLAMIC / MEBLAEADXXX; 59 UNIFLOR L.L.C-FZ, IBAN 3708515772902 / AE530340003708515772902). Компания-плательщик в документах не названа → 🔴 Step 0. Клиент — UNIFLOR (Цветы).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
