@@ -1654,5 +1654,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 88,
+    "date": "2026-09-30",
+    "sum": 15000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "UNIFLOR (Цветы)",
+    "costFormula": null,
+    "extra": "📄 30.09.2026 (📨 Цветы) — **Proforma INVOICE No. 9/2026** dated **09/07/2026**, Seller **UNIFLOR L.L.C-FZ** (License 2538917.01; Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, UAE; TRN 105336460800001) → Buyer **Q8 Group Limited** (Company Number 80242882, Kwun Tong, Hong Kong). Позиция: Supply of fresh-cut flowers of South Africa origin — **15 000,00 USD** (6438 stems / 153 boxes; VAT 0%). Bank: UNIFLOR L.L.C-FZ, счёт 3708515772902, Emirates Islamic (EI SHK ZAYED RD AL WASL TOWER), SWIFT MEBLAEADXXX, IBAN AE530340003708515772902. Приложено заявление/платёжное поручение (поля 56/57/59: USD 15 000,00; 57 EMIRATES ISLAMIC / MEBLAEADXXX; 59 UNIFLOR L.L.C-FZ). Компания-плательщик в документах не названа → 🔴 Step 0. Клиент — UNIFLOR (Цветы).",
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
