@@ -1692,5 +1692,24 @@
     "sent_usdt": null,
     "notes": "📄 30.09.2026 (📨 Цветы, файл «FLORES DE CONEJERA SAS 10 000,00.pdf») — **INVOICE N. 511920** от **22-Sep-26**, продавец **FLORES LA CONEJERA SAS** (NIT 860.501.528-7; CALLE 100 # 19 A - 50 OFICINA 405, Bogotá DC, Colombia); Bill To / Ship To **Q8 Group Limited** (Hong Kong). 25 full boxes, CLAVEL ASSORTED SELECT, 50 000 stems, PRICE/UNIT 0.200 → **TOTAL USD 10 000,00** (IVA 0). Подписал JUAN CAMILO ROJAS. = основание сделки строки 89 (совпадает по сумме/получателю с платёжным поручением).",
     "calc": null
+  },
+  {
+    "row": 90,
+    "date": "2026-09-30",
+    "sum": 73697.43,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
