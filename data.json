@@ -3873,5 +3873,24 @@
     "sent_usdt": 100330,
     "notes": "✏️ 30.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 100 000,00 + 0,3% + 30 = 100 330,00 USDT. 📄 30.09.2026 (📨 Платежи VDX — «Payment from Q8 ❗️», файл «INV_PROFUN_100,000.00 USD.pdf») — **INVOICE BTV-2024-04 dd 14.05.2026**: SELLER **PROFUN INTERNATIONAL TRADING GROUP** (13 Campden Road, 3rd Floor, Scarsdale, NY 10583-3301, USA); парфюмерия (OUD/Heritage/Cannabis Blue и др., 1541 шт.), TOTAL **100 000,00 USD**. Ордер на платёж: Beneficiary **PROFUN INTERNATIONAL TRADING GROUP**; Bank **JPMORGAN CHASE BANK, N.A.** (383 Madison Avenue, New York), SWIFT **CHASUS33XXX**, A/C **829703719**; Payment details **BTV-2024-04**; Amount **100 000,00 USD**; **OUR**. Компания **Q8**, клиент **VDX** → ⬜ (Step 3). Q8-расчёт: 100 000 + 0,3% + 30 = **100 330,00 USDT**. check-all-tables по PROFUN/BTV-2024-04: ранее PROFUN 80 000 USD (Main r86, 🟢, «INV_PROFUN_80,000») — отдельный платёж.",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 203,
+    "date": "2026-09-30",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ФИНИНВЕСТ",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
