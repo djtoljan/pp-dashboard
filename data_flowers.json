@@ -1786,7 +1786,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 64673.59,
-    "notes": "✏️ 01.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 64 450,24 + 0,3% + 30 = 64 673,59 USDT.",
+    "notes": "✏️ 01.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 64 450,24 + 0,3% + 30 = 64 673,59 USDT.📄 01.10.2026 (📨 Цветы, файл «ALIANZA 64450.24.docx» — форма реквизитов) — **реквизиты к платежу ALIANZA**: Сумма **64450.24**, Currency **USD**; Beneficiary **LOGIZTIK-GROUP ECUADOR S.A.** (AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ), Account / IBAN **02005144694**, Beneficiary Bank **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775 Quito-Ecuador), SWIFT **PRODECEQ**. Инвойс к этому платежу пока не приложен — строка заведена по реквизитам. Компания **Q8**, клиент «ALIANZA LOGISTICS (Цветы)» → ⬜ (Step 3); Q8-расчёт проставится при подтверждении суммы/инвойса.",
     "calc": null
   }
 ]
