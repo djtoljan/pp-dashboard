@@ -1795,7 +1795,7 @@
     "sum": null,
     "currency": null,
     "company": null,
-    "color": "FF4FC3F7",
+    "color": "FFFFFF00",
     "clientName": "Блэкшарк Трейд",
     "costFormula": null,
     "extra": null,
@@ -1805,7 +1805,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "ПП на VDX №624 от 01.10.2026 (1 925 455,05 ₽ заявка 815) ИСПОЛНЕН 01.10.2026 15:26 GMT+05:00 (АО АКИБ «ПОЧТОБАНК» г. Пермь, БИК 045773705, ЭП ПОДЛИННА, ID 13524436): ОсОО «Блэкшарк Трейд» (ИНН 9909705614, счёт 40807810100157518600) → «ВиДиИкс Сервисез - ФЗКО» (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, сч. 40807810000000015414), 1 925 455,05 ₽. {VO60081} Оплата по агент.дог. № 4 от 31.03.2025, согл. заяв. 815 от 01.10.2026 г. за цветы. НДС не облагается. ⚠️ заявки/строки для 815 в таблицах нет — 🔵 отправка на VDX без заявки.",
+    "notes": "ПП на VDX №624 от 01.10.2026 (1 925 455,05 ₽ заявка 815) ИСПОЛНЕН 01.10.2026 15:26 GMT+05:00 (АО АКИБ «ПОЧТОБАНК» г. Пермь, БИК 045773705, ЭП ПОДЛИННА, ID 13524436): ОсОО «Блэкшарк Трейд» (ИНН 9909705614, счёт 40807810100157518600) → «ВиДиИкс Сервисез - ФЗКО» (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, сч. 40807810000000015414), 1 925 455,05 ₽. {VO60081} Оплата по агент.дог. № 4 от 31.03.2025, согл. заяв. 815 от 01.10.2026 г. за цветы. НДС не облагается. ⚠️ заявки/строки для 815 в таблицах нет — 🔵 отправка на VDX без заявки. | 📄 01.10.2026 (📨 Платежные Поручения, файл «12800_USD_78011.pdf») — **Transaction Status** (Transaction Id 202610011926616316, Creation Date 01.10.2026 19:26:31 GMT+7, Instruction Mode Immediate): **TOMO TRADING GROUP** (Source Of Fund 1750004746243 USD) → **CARGOMOST DIS TICARET LOJISTIK L.S.**, Destination Account **TR590006200127900009080903** (53 Cevizli mah., Ritim Istanbul AVM, Maltepe, Istanbul 34846, TURKEY); Beneficiary Bank **TURKIYE GARANTI BANKASI A.S.**, BIC **TGBATRISXXX**; Amount **12 800,00 USD**; Cable Fee 5,00 + Correspondent Bank Fee 25,00 + Provision 16,00 = Total Charges 46,00; **Total Debit Amount 12 846,00 USD**; Charge to OUR; Remarks for Beneficiary «**INV Invoice No CM26092802, CM26092801 dd 28.09.26**»; **TransactionStatus: PendingApproval** → цвет ⬜ → 🟡. Ждём EXECUTED/Success → 🟢.",
     "calc": null
   }
 ]
