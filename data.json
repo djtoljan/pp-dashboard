@@ -3837,8 +3837,8 @@
     "date": "2026-10-01",
     "sum": 20000,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "UK",
+    "color": "FFFFFF00",
     "clientName": "VDX",
     "costFormula": null,
     "extra": null,
@@ -3848,7 +3848,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 01.10.2026 (📨 Платежи VDX, файл «INV.GK5T14- 20000 €.pdf») — **INVOICE № GK5T14 dd 30.09.2026** (LCI-MTC Group SA, 20 route de Beaumont, CH-1700 Fribourg, Switzerland; CHE-101.090.130): Booking **Kulm Hotel St. Moritz** — Double Superior Lake Side with breakfast, dates **14/10/2026–28/10/2026**, BookingID **GK5T14**, Customer «AgentLee», Creation Date 25.09.2026; **Total 20 000,00 EUR** (taxes 0,00); «all bank, transaction, intermediary and other fees are in care of sender»; отмена — 100% удержание. Реквизиты к оплате: Beneficiary **LCI-MTC Group SA** (ROUTE DE BEAUMONT 20, 1700 FRIBOURG, Switzerland); Beneficiary Bank **Revolut Bank UAB** (Konstitucijos ave. 21B, 08130 Vilnius, Lithuania), SWIFT **REVOLT21**; IBAN **LT43 3250 0450 1489 2406**. Step 0 🔴 — компания-плательщик и заявка/ордер ещё не пришли (ср. Main r131/r154 — LCI-MTC, линия VDX, компания UK). Ждём заявку.",
+    "notes": "📄 01.10.2026 (📨 Платежи VDX, файл «INV.GK5T14- 20000 €.pdf») — **INVOICE № GK5T14 dd 30.09.2026** (LCI-MTC Group SA, 20 route de Beaumont, CH-1700 Fribourg, Switzerland; CHE-101.090.130): Booking **Kulm Hotel St. Moritz** — Double Superior Lake Side with breakfast, dates **14/10/2026–28/10/2026**, BookingID **GK5T14**, Customer «AgentLee», Creation Date 25.09.2026; **Total 20 000,00 EUR** (taxes 0,00); «all bank, transaction, intermediary and other fees are in care of sender»; отмена — 100% удержание. Реквизиты к оплате: Beneficiary **LCI-MTC Group SA** (ROUTE DE BEAUMONT 20, 1700 FRIBOURG, Switzerland); Beneficiary Bank **Revolut Bank UAB** (Konstitucijos ave. 21B, 08130 Vilnius, Lithuania), SWIFT **REVOLT21**; IBAN **LT43 3250 0450 1489 2406**. Step 0 🔴 — компания-плательщик и заявка/ордер ещё не пришли (ср. Main r131/r154 — LCI-MTC, линия VDX, компания UK). Ждём заявку. | 📄 01.10.2026 (📨 ПП компании UK, файл «LCI-MTC Group SA 20649.62 eur.pdf») — **PAYMENT ORDER DEBIT ADVICE**: Remitter **TRAVELCOM LIMITED** (IBAN GB13TONI04282200006496) → Beneficiary **LCI-MTC Group SA** (IBAN LU058160000322897800, банк BIC **MOLULU22**); Amount **20 649,62 EUR**; Details **INV.GK5T14 DD.30.09.2026**; Execution Date 01.10.2026; поле Bank's confirmation — картинкой, OCR не прочитал → трактую как **подвешенную ПП (IN PROCESS)** → цвет ⬜ → 🟡 (для 🟢 нужен явный штамп EXECUTED). Компания проставлена **UK** (по группе «ПП компании UK») — подтвердить.",
     "calc": null
   },
   {
