@@ -2781,25 +2781,6 @@
   {
     "row": 146,
     "date": "2026-09-24",
-    "sum": 48840,
-    "currency": "CNY",
-    "company": "Z SOURCE",
-    "color": "FFFFFFFF",
-    "clientName": null,
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 24.09.2026 (📨 ВТС-Fininvest (t4058), файл «PI - TG271（1200PCS）AKDR20260914xls (1) (1) (2).xls» — legacy .xls, читал через xlrd) — **Proforma Invoice / quotation list, PI No. AKDR20260914**: Seller/From **Shenzhen Chengtai Electronic Technology Co., LTD** (Room 660, 6th Floor, Huafa Building, Zhenxing Road, Huaqiang North Street, Futian District, Shenzhen, Guangdong, China; тел. 0755-29491812; email 865126871@QQ.COM); To/Buyer **Zsource Technology Co., Ltd**. Позиция: **TG271** (蓝牙音箱 / Bluetooth speaker), цвет BLACK, **1200 pcs × 40.7 RMB = 48 840 RMB**, 30 pcs/ctn → 40 ctns, 45.8×37.2×25.0 cm, 1.7 CBM. **Total Amount: 48 840 RMB.** Условия: quotation valid 7 days; **Payment Terms: T/T 100% deposit in advance**; Lead time 1–2 working days. Банк: 中国农业银行深圳富通城支行, A/C NO. **4103-5300-0400-22140**; 税务登记号 91440300MA5FUYQQ4E. | ⚠️ Основание — контракт 购货合同 (China–China, 签名 2026-9-25, 深圳): 需方 (покупатель) = **Z SOURCE** (в бланке пусто), 供方 = Shenzhen Chengtai; условия контракта 30% депозит + 70% остаток (в PI — 100% предоплата). Новая сделка: строка 148 (Main), компания **Z SOURCE**, сумма **48 840 CNY**, ⬜ (Step 3). ⚠️ КЛИЕНТ не определён (группа ВТС-Fininvest) — уточнить у Scream. Совпадений по TG271/Chengtai/AKDR20260914 в 5 таблицах нет.",
-    "calc": null
-  },
-  {
-    "row": 147,
-    "date": "2026-09-24",
     "sum": 12027.64,
     "currency": "EUR",
     "company": "Q8",
@@ -2817,7 +2798,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 148,
+    "row": 147,
     "date": "2026-09-24",
     "sum": 18874,
     "currency": "USD",
@@ -2836,7 +2817,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 149,
+    "row": 148,
     "date": "2026-09-24",
     "sum": 10116.77,
     "currency": "USD",
@@ -2855,7 +2836,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 150,
+    "row": 149,
     "date": "2026-09-24",
     "sum": 203563,
     "currency": "CNY",
@@ -2875,7 +2856,7 @@
     "documentDate": "2026-09-18"
   },
   {
-    "row": 151,
+    "row": 150,
     "date": "2026-09-24",
     "sum": 11003.2,
     "currency": "EUR",
@@ -2894,7 +2875,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 152,
+    "row": 151,
     "date": "2026-09-24",
     "sum": 20500,
     "currency": "EUR",
@@ -2913,7 +2894,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 153,
+    "row": 152,
     "date": "2026-09-24",
     "sum": 23000,
     "currency": "EUR",
@@ -2932,7 +2913,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 154,
+    "row": 153,
     "date": "2026-09-24",
     "sum": 16145,
     "currency": "USD",
@@ -2951,7 +2932,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 155,
+    "row": 154,
     "date": "2026-09-24",
     "sum": 25081,
     "currency": "USD",
@@ -2970,7 +2951,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 156,
+    "row": 155,
     "date": "2026-09-24",
     "sum": 10000,
     "currency": "USD",
@@ -2989,7 +2970,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 157,
+    "row": 156,
     "date": "2026-09-24",
     "sum": null,
     "currency": null,
@@ -3009,7 +2990,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 158,
+    "row": 157,
     "date": "2026-09-25",
     "sum": null,
     "currency": null,
@@ -3029,7 +3010,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 159,
+    "row": 158,
     "date": "2026-09-25",
     "sum": null,
     "currency": null,
@@ -3049,7 +3030,7 @@
     "vdx_rate_pending": "нет данных в VDX Rate Table для этой строки — ждём"
   },
   {
-    "row": 160,
+    "row": 159,
     "date": "2026-09-25",
     "sum": 20000,
     "currency": "EUR",
@@ -3068,7 +3049,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 161,
+    "row": 160,
     "date": "2026-09-25",
     "sum": 136174.25,
     "currency": "USD",
@@ -3087,7 +3068,7 @@
     "calc": null
   },
   {
-    "row": 162,
+    "row": 161,
     "date": "2026-09-25",
     "sum": 69250,
     "currency": "EUR",
@@ -3106,7 +3087,7 @@
     "calc": null
   },
   {
-    "row": 163,
+    "row": 162,
     "date": "2026-09-25",
     "sum": 138600,
     "currency": "USD",
@@ -3125,7 +3106,7 @@
     "calc": null
   },
   {
-    "row": 164,
+    "row": 163,
     "date": "2026-09-28",
     "sum": 7100,
     "currency": "USD",
@@ -3145,7 +3126,7 @@
     "documentDate": "2026-09-16"
   },
   {
-    "row": 165,
+    "row": 164,
     "date": "2026-09-28",
     "sum": 13773.86,
     "currency": "EUR",
@@ -3165,7 +3146,7 @@
     "documentDate": "2026-09-24"
   },
   {
-    "row": 166,
+    "row": 165,
     "date": "2026-09-28",
     "sum": 20000,
     "currency": "USD",
@@ -3185,7 +3166,7 @@
     "documentDate": "2026-09-25"
   },
   {
-    "row": 167,
+    "row": 166,
     "date": "2026-09-28",
     "sum": 33750,
     "currency": "EUR",
@@ -3205,27 +3186,7 @@
     "documentDate": "2026-09-24"
   },
   {
-    "row": 168,
-    "date": "2026-09-28",
-    "sum": 3825,
-    "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "ВТС",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 28.09.2026 (📨 ВТС-Fininvest (t4), файл «01 Поручение 69582.pdf») — **ПОРУЧЕНИЕ № 69582 от 02.07.2026** (Transfer request No 69582 from 02.07.2026; **Приложение № 2** к договору на оказание посреднических услуг **№ 20102025TК/2 от 20 октября 2025 г.**): Принципал **ООО «ВТС»** (Бондарев А.П.) → Агент **ОсОО «БиТрейд Кей Джи»** (КР, Курьянов А.А.) на платёж по **инвойсу № 19S13-04-26 от 13.04.2026**; сумма платежа **3 825,00 USD**; получатель **PT SINGA SUPPLIER INTERNATIONAL** (Jalan Abasan Gang Padi Nomor 1, Desa Tibubeneng, Kec. Kuta Utara, Kab. Badung, Bali 80361, Indonesia); банк **KCP Kerobokan Bank Clearing**, SWIFT **BMRIIDJA**, счёт **1450017070406 (USD)**, bank clearing code 008-3292 (Jalan Raya Kerobokan No 104, Kuta Utara 80361); назначение «Оплата Товара по Договору Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. Инвойс № 19S13-04-26 dd 13.04.2026». | Курс конвертации **78,40** → сумма в рублях **299 880,00 ₽**; комиссия Агента **2,5%**; срок исполнения **5–10 банковских дней** с момента исполнения Поручения. ⚠️ Компания-плательщик в поручении не названа → **🔴 (Step 0)**; клиент — **ВТС**. ⚠️ Родственная строка **Main r23** (поручение **69582-1** от 07.09.2026, инвойс **18S13-04-26**, PT SINGA SUPPLIER, тот же контракт ВТС/06/08/2025-01) — это отдельные поручения/инвойсы; новую не сливал. check-all-tables по 69582 / SINGA / 19S13-04-26 / 299 880 — совпадений нет.",
-    "calc": null,
-    "documentDate": "2026-07-02"
-  },
-  {
-    "row": 169,
+    "row": 167,
     "date": "2026-09-28",
     "sum": 125000,
     "currency": "USD",
@@ -3245,7 +3206,7 @@
     "documentDate": "2026-09-21"
   },
   {
-    "row": 170,
+    "row": 168,
     "date": "2026-09-28",
     "sum": 125331.43,
     "currency": "USD",
@@ -3265,27 +3226,7 @@
     "documentDate": "2026-09-21"
   },
   {
-    "row": 171,
-    "date": "2026-09-28",
-    "sum": 25148,
-    "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "ВТС",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 28.09.2026 (📨 ВТС-Fininvest (t4576), файл «Contract 260496A project from 25.9.2026.pdf») — **CONTRACT No. 260496A** (Badung, 25.09.2026): Seller **Sklostroj Turnov CZ, s.r.o** (Чехия; Mr. Gold Martin, Mr. Vild Petr — директора) → Buyer **Leo Spot Capital PT** (Bali, Badung, Indonesia; Biliq Sunset Office Space, Ruko Sunset Indah II No. 10, Kuta, Badung, Bali 80361; директор Mr. Lexy Christovery). | Предмет: поставка товара по Specification №1; условия **FCA Přepeře, Czech Republic** (Incoterms 2020); HS-код по Annex №1; страна происхождения/отгрузки — Чехия; консигнатор — Leo Spot Capital PT. **Общая сумма контракта — 25 148,00 EUR**. Оплата: **50% в течение 5 раб. дней** после получения подписанного контракта (по инвойсу) + **50% за 5 раб. дней до отгрузки**. Срок поставки 120 календарных дней с подтверждения заказа. | check-all-tables по 260496A / 260496 / 25 148 — совпадений в 5 таблицах нет. Компания-плательщик не названа → **🔴 (Step 0)**; клиент — **ВТС** (канал-источник). Расчёт не-Q8 — от Scream.",
-    "calc": null,
-    "documentDate": "2026-09-25"
-  },
-  {
-    "row": 172,
+    "row": 169,
     "date": "2026-09-28",
     "sum": 4876,
     "currency": "EUR",
@@ -3305,7 +3246,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 173,
+    "row": 170,
     "date": "2026-09-28",
     "sum": 35271,
     "currency": "EUR",
@@ -3325,7 +3266,7 @@
     "documentDate": "2026-09-18"
   },
   {
-    "row": 174,
+    "row": 171,
     "date": "2026-09-28",
     "sum": 66836.38,
     "currency": "EUR",
@@ -3344,7 +3285,7 @@
     "calc": "РУБ"
   },
   {
-    "row": 175,
+    "row": 172,
     "date": "2026-09-28",
     "sum": 86000,
     "currency": "EUR",
@@ -3364,7 +3305,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 176,
+    "row": 173,
     "date": "2026-09-28",
     "sum": 150000,
     "currency": "USD",
@@ -3384,7 +3325,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 177,
+    "row": 174,
     "date": "2026-09-28",
     "sum": 36520.61,
     "currency": "USD",
@@ -3404,27 +3345,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 178,
-    "date": "2026-09-28",
-    "sum": 53422.95,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "VDX",
-    "costFormula": "53 422,95 + 0,3% + 30 = 53 613,22 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 53613.22,
-    "notes": "📄 28.09.2026 (📨 Платежи VDX, файл «INV-000080_53 422,95 usd.pdf») — **TAX INVOICE # INV-000080** от **Sodalitas Trading L.L.C-FZ** (Dubai, UAE; business@sodalitas.ae): Invoice Date 28 Sep 2026, Terms Due on Receipt, Due Date 28 Sep 2026; Contract **01C/2026 dd 02.04.2026**; позиции — TPU-чехлы (6 строк: Black TPU 64 126 × 0,14 = 8 952,50; TPU 27 369 × 0,17 = 4 639,70; TPU 30 812 × 0,23 = 7 066,92; Black TPU 66 300 × 0,23 = 15 206,30; TPU 95 327 × 0,142 = 13 498,53; TPU black + PC shell 16 960 × 0,24 = 4 059,00); Sub Total **53 422,95**, Discount (−150,01), **Total / Balance Due $53 422,95**; банк **FIRST ABU DHABI BANK PJSC** (Sheikh Zayed Road Branch, Dubai), SWIFT **NBADAEAA**, счёт **AE320351031005753309002** (SODALITAS TRADING LLC FZ, Business Center 1, The Meydan Hotel, Nad Al Sheba, Dubai). Компания **Q8** → ⬜, клиент **VDX** (по каналу 📨 Платежи VDX); расчёт Q8 проставлен сразу: **53 422,95 + 0,3% + 30 = 53 613,22 USDT**. ⚠️ Формулировки «Payment from …» в сообщении нет — компания/клиент по каналу; уточнить при необходимости. check-all-tables по 53 422 / INV-000080 — совпадений нет.",
-    "calc": "ТЕЗ",
-    "documentDate": "2026-09-28"
-  },
-  {
-    "row": 179,
+    "row": 175,
     "date": "2026-09-28",
     "sum": 5488,
     "currency": "USD",
@@ -3444,7 +3365,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 180,
+    "row": 176,
     "date": "2026-09-28",
     "sum": 11281,
     "currency": "USD",
@@ -3464,7 +3385,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 181,
+    "row": 177,
     "date": "2026-09-29",
     "sum": 24700,
     "currency": "USD",
@@ -3483,7 +3404,7 @@
     "calc": null
   },
   {
-    "row": 182,
+    "row": 178,
     "date": "2026-09-29",
     "sum": 29000,
     "currency": "USD",
@@ -3502,7 +3423,7 @@
     "calc": null
   },
   {
-    "row": 183,
+    "row": 179,
     "date": "2026-09-29",
     "sum": 10000,
     "currency": "USD",
@@ -3521,7 +3442,7 @@
     "calc": null
   },
   {
-    "row": 184,
+    "row": 180,
     "date": "2026-09-29",
     "sum": 29000,
     "currency": "USD",
@@ -3540,7 +3461,7 @@
     "calc": null
   },
   {
-    "row": 185,
+    "row": 181,
     "date": "2026-09-29",
     "sum": 5532,
     "currency": "EUR",
@@ -3559,7 +3480,7 @@
     "calc": null
   },
   {
-    "row": 186,
+    "row": 182,
     "date": "2026-09-29",
     "sum": 19972.38,
     "currency": "EUR",
@@ -3578,7 +3499,7 @@
     "calc": null
   },
   {
-    "row": 187,
+    "row": 183,
     "date": "2026-09-29",
     "sum": 15000,
     "currency": "EUR",
@@ -3597,7 +3518,7 @@
     "calc": null
   },
   {
-    "row": 188,
+    "row": 184,
     "date": "2026-09-29",
     "sum": 35492,
     "currency": "USD",
@@ -3616,7 +3537,7 @@
     "calc": null
   },
   {
-    "row": 189,
+    "row": 185,
     "date": "2026-09-29",
     "sum": null,
     "currency": "RUB",
@@ -3627,7 +3548,7 @@
     "rubles_received": "2969933.56"
   },
   {
-    "row": 190,
+    "row": 186,
     "date": "2026-09-29",
     "sum": 134445.2,
     "currency": "USD",
@@ -3646,7 +3567,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 191,
+    "row": 187,
     "date": "2026-09-29",
     "sum": 15060,
     "currency": "USD",
@@ -3665,7 +3586,7 @@
     "calc": null
   },
   {
-    "row": 192,
+    "row": 188,
     "date": "2026-09-29",
     "sum": 59249.01,
     "currency": "USD",
@@ -3684,7 +3605,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 193,
+    "row": 189,
     "date": "2026-09-29",
     "sum": 35650,
     "currency": "EUR",
@@ -3703,7 +3624,7 @@
     "calc": null
   },
   {
-    "row": 194,
+    "row": 190,
     "date": "2026-09-29",
     "sum": 21461,
     "currency": "USD",
@@ -3722,7 +3643,7 @@
     "calc": null
   },
   {
-    "row": 195,
+    "row": 191,
     "date": "2026-09-29",
     "sum": 26361.49,
     "currency": "EUR",
@@ -3741,7 +3662,7 @@
     "calc": null
   },
   {
-    "row": 196,
+    "row": 192,
     "date": "2026-09-29",
     "sum": 44093.5,
     "currency": "USD",
@@ -3760,7 +3681,7 @@
     "calc": null
   },
   {
-    "row": 197,
+    "row": 193,
     "date": "2026-09-30",
     "sum": 30000,
     "currency": "USD",
@@ -3779,7 +3700,7 @@
     "calc": null
   },
   {
-    "row": 198,
+    "row": 194,
     "date": "2026-09-30",
     "sum": 94661.19,
     "currency": "USD",
@@ -3798,7 +3719,7 @@
     "calc": null
   },
   {
-    "row": 199,
+    "row": 195,
     "date": "2026-09-30",
     "sum": 28195.12,
     "currency": "EUR",
@@ -3817,7 +3738,7 @@
     "calc": null
   },
   {
-    "row": 200,
+    "row": 196,
     "date": "2026-09-30",
     "sum": 30000,
     "currency": "EUR",
@@ -3836,7 +3757,7 @@
     "calc": null
   },
   {
-    "row": 201,
+    "row": 197,
     "date": "2026-09-30",
     "sum": 100000,
     "currency": "USD",
@@ -3855,7 +3776,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 202,
+    "row": 198,
     "date": "2026-09-30",
     "sum": null,
     "currency": null,
@@ -3874,7 +3795,7 @@
     "calc": null
   },
   {
-    "row": 203,
+    "row": 199,
     "date": "2026-09-30",
     "sum": 46307.64,
     "currency": "USD",
@@ -3893,7 +3814,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 204,
+    "row": 200,
     "date": "2026-09-30",
     "sum": null,
     "currency": null,
@@ -3912,7 +3833,7 @@
     "calc": null
   },
   {
-    "row": 205,
+    "row": 201,
     "date": "2026-09-30",
     "sum": null,
     "currency": null,
