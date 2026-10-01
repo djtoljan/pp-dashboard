@@ -3428,7 +3428,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "UK",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "VDX",
     "costFormula": "10000 USD × 1,0045 + 100 = 10145 USDT",
     "extra": null,
