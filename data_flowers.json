@@ -1718,18 +1718,18 @@
     "date": "2026-10-01",
     "sum": 35000,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A. (Цветы)",
-    "costFormula": null,
+    "costFormula": "35 000,00 + 0,3% + 30 = 35 135,00 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 01.10.2026 (📨 Цветы, файл «SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A. 35000.docx») — **форма реквизитов / заявка на платёж**: Amount **35 000 USD**; Beneficiary **SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A.** (Av Medardo Silva S4-186 y Aurora Estrada); счёт **3076717604**; банк **Banco Pichincha C.A** (Amazonas y Pereira 4545), SWIFT **PICHECEQ**; Reg. number **1791739191001**; директор (подписант) **Jaime Durango**. Intermediary bank / transaction costs / details — не указаны. Step 0 🔴 — компания-плательщик и заявка/ордер ещё не пришли (линия Цветы; ср. flowers r4/r24 CEVA FREIGHT, r28 ALIANZA LOGISTICS — Q8, 35 000 USD). Ждём заявку.",
+    "sent_usdt": 35135,
+    "notes": "📄 01.10.2026 (📨 Цветы, файл «SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A. 35000.docx») — **форма реквизитов / заявка на платёж**: Amount **35 000 USD**; Beneficiary **SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A.** (Av Medardo Silva S4-186 y Aurora Estrada); счёт **3076717604**; банк **Banco Pichincha C.A** (Amazonas y Pereira 4545), SWIFT **PICHECEQ**; Reg. number **1791739191001**; директор (подписант) **Jaime Durango**. Intermediary bank / transaction costs / details — не указаны. Step 0 🔴 — компания-плательщик и заявка/ордер ещё не пришли (линия Цветы; ср. flowers r4/r24 CEVA FREIGHT, r28 ALIANZA LOGISTICS — Q8, 35 000 USD). Ждём заявку. | 📄 01.10.2026 (📨 Цветы, файл «SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A. 35000.pdf» — скан, читал вижном) — **PRO-INVOICE № 10809** (SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC, International Cargo Services, Quito-Ecuador; Saftec Tax ID **1791739191001**): Bill To / Consignee **Q8 GROUP LIMITED** (Room A22, 10F, No. 52, Hung To Road, Kwun Tong, Hong Kong, Company Number 80242882); AWB **369-1153-5554**; AWB Date **2026-09-30**; Date of Payment **2026-09-30**; **AIR FREIGHT & HANDLING**, destination/airline **LA - AMS**, BOXES/FDE **207FB**, **WEIGHT 10 356,00 × RATE $3,38 = AMOUNT $35 000,00** (QUITO/Ecuador). Подписи: SAFTEC Sales (LILIYA MINGALIEVA) / SAFTEC Billing. **Transfer instructions: Banco de la Producción S.A. PRODUBANCO** (Av. Simón Bolívar SN y Vía Nayón Eko Park Torre 1, Quito), счёт **02054022645**, SWIFT **PRODECEQ**. ⚠️ Реквизиты отличаются от docx-формы (Banco Pichincha C.A, счёт 3076717604, SWIFT PICHECEQ) — уточнить у владельца, какие верны. Компания = **Q8** → ⬜ (Step 3). | ✏️ 01.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 35 000,00 + 0,3% + 30 = 35 135,00 USDT.",
     "calc": null
   }
 ]
