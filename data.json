@@ -3869,5 +3869,24 @@
     "sent_usdt": null,
     "notes": "📄 01.10.2026 (📨 Неско- Fininvest/ЭТБ, файлы «Poruchenie_21__Global от 01.10.2026.docx» + «Global_invoice_GLO_261121_на_сумму_193_375_90_еврокод_11100.pdf» — скан, читал вижном) — **ПОРУЧЕНИЕ № 21 от 01.10.2026** (Transfer request No. 21; Приложение № 1 к Агентскому договору № 1902-26/1 от 19.02.2026): Принципал **ООО «Неско»** → Агент **ОсОО «Блэкшарк Трейд»**, платёж по инвойсу **GLO-261121**. Получатель (нерезидент) **GLOBAL MARINE SUPPLY OU** (Spinati tee 16, Maardu 74117, Harjumaa, Estonia); банк **PKO BANK POLSKI S.A.** (UL. PULAWSKA 15, POB 639, 02-515 WARSZAWA), SWIFT **BPKOPLPWXXX**, IBAN **PL71102049000000890235842116**. Сумма **193 375,90 EUR**; назначение «Payment to contract 14/2022 dd 01.09.2023, invoice GLO-261121 dd 25.09.2026, 193 375,90 EUR for alcoholic products». Срок 2–3 банк. дня. | 📄 **INVOICE Nr GLO-261121 dd 25.09.26** (Global Marine Supply OÜ, VAT EE101001432, Reg.nr 11152291) → Purchaser/Consignee **Joint-Stock Company NESCO SAINT-PETERSBURG** (Россия, 193149, Ленинградская обл., г.п. Свердловское, д. Новосаратовка, ул. Покровская дорога, д.8А пом.1 оф.38; КМРК 470601001, Reg.Nr 7806045105); контракт **Nr.14/2022 dd 01.09.2023**, ORDER NR PGMS-01; алкоголь (Johnnie Walker, Singleton, Jameson, Chivas Regal, Ballantine's, Makers Mark, Laphroaig, Glenmorangie, Dalmore, Glenfiddich, Hennessy, Jagermeister, Ruinart, Veuve Clicquot, Moët & Chandon); Amount without VAT 0% = **193 375,90 EUR**; date of payment 26.09.2026. `sum` = сумма поручения; инвойс справочно (совпадает). Компания **PRIME FOOD** (по прецеденту линии Неско r59/r85) → ⬜ (Step 3). Ждём исполнение. | 📄 01.10.2026 (📨 Неско- Fininvest/ЭТБ, файл «Poruchenie_21__Global от 01.10.2026.pdf» — PDF-версия того же поручения № 21; принципал **АО «НЕСКО САНКТ-ПЕТЕРБУРГ»**) — реквизиты те же; добавлены рублёвые поля: **курс 94,8810 → сумма к перечислению 18 347 698,76 ₽; комиссия Агента 1,6% = 293 563,18 ₽**. Срок 2–3 банк. дня. Дубль — новую строку не создавал.",
     "calc": null
+  },
+  {
+    "row": 203,
+    "date": "2026-10-01",
+    "sum": 13253.4,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "НВ-Трейдинг",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
