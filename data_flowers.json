@@ -1699,7 +1699,7 @@
     "sum": 73697.43,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "73 697,43 / 0.881265712581 (FX Q8 01.10.2026: 1 USD = 0.881265712581 EUR) + 0,3% + 30 = 83 907,679 USDT",
     "extra": null,
