@@ -3850,5 +3850,24 @@
     "sent_usdt": null,
     "notes": "💸 30.09.2026 (📨 Отправки рублей ПП.) — **отправка рубля БиТрейд Кей Джи → ВиДиИкс (VDX)**: сумма **1 298 685,35 ₽**, назначение «**косметическое средство**», **заявка 152**; принципал **ООО «ВТС»**. Доки на вход: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БиТрейдКейДжи\\\\ВТС\\\\вход 29.09.26_1. `sent_rubles_vdx` = 1298685.35 (ПП на VDX, заявка 152). Строка 🔵.",
     "calc": null
+  },
+  {
+    "row": 202,
+    "date": "2026-10-01",
+    "sum": 20000,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
