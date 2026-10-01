@@ -1769,5 +1769,24 @@
     "sent_usdt": 65250.22,
     "notes": "✏️ 01.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 65 025,14 + 0,3% + 30 = 65 250,22 USDT.📄 01.10.2026 (📨 Цветы, файл «ALIANZA_Q8_65025_14_USD_01-10-2026.pdf») — **INVOICE ALIANZA LOGISTIKA TDGE S.A.** (Ave. InterOceanica OE6-73 y Gonzalez Suárez, Tumbaco, Quito-Ecuador; тел. 02 237 2169), DOCUMENT NUMBER **10013087**, DATE **01-10-2026**, PAYER **Q8 GROUP LIMITED** (80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK): позиция **Air logistics services — TOTAL (USD) 65 025,14**. Реквизиты: Beneficiary **LOGIZTIK-GROUP ECUADOR S.A.** (AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ), счёт **02005144694**, банк **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775, Quito), SWIFT **PRODECEQ**. Компания **Q8** → ⬜ (Step 3). Ждём BONBILL/зелёнку. | 📄 01.10.2026 (📨 Цветы, файл «ALIANZA 65025.14.docx» — форма реквизитов) — **реквизиты к тому же платежу ALIANZA 65 025,14 USD**: Сумма **65025.14**, Currency **USD**; Beneficiary **LOGIZTIK-GROUP ECUADOR S.A.** (AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ), Account / IBAN **02005144694**, Beneficiary Bank **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775 Quito-Ecuador), SWIFT **BankSwiftCode** = **PRODECEQ**. Совпадает с инвойсом 10013087 — строка одна (flowers r93), новую не создавал.",
     "calc": null
+  },
+  {
+    "row": 94,
+    "date": "2026-10-01",
+    "sum": 64450.24,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ALIANZA LOGISTICS (Цветы)",
+    "costFormula": "64 450,24 + 0,3% + 30 = 64 673,59 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 64673.59,
+    "notes": "✏️ 01.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 64 450,24 + 0,3% + 30 = 64 673,59 USDT.",
+    "calc": null
   }
 ]
