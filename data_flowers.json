@@ -1652,7 +1652,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 30.09.2026 (📨 Цветы, файл «UNIFLOR L.L.C-FZ 14500.doc»): платёжное заявление/поручение (поля 56/57/59: USD 14 500,00; 57 EMIRATES ISLAMIC / MEBLAEADXXX; 59 UNIFLOR L.L.C-FZ, IBAN 3708515772902 / AE530340003708515772902) — по этой сделке (INV 8/2026, 14 500,00 USD).",
+    "notes": "📄 30.09.2026 (📨 Цветы, файл «UNIFLOR L.L.C-FZ 14500.doc»): платёжное заявление/поручение (поля 56/57/59: USD 14 500,00; 57 EMIRATES ISLAMIC / MEBLAEADXXX; 59 UNIFLOR L.L.C-FZ, IBAN 3708515772902 / AE530340003708515772902) — по этой сделке (INV 8/2026, 14 500,00 USD). | 📄 01.10.2026 (📨 Ордера и Расчеты !, «Payment from ❗️» — имя плательщика не указано; вложен «INV 14 500,00 USD.pdf») — **ордер на платёж**: Beneficiary **UNIFLOR L.L.C-FZ** (Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai; банк EMIRATES ISLAMIC, 3107 - EI SHK ZAYED RD AL WASL TOWER, DUBAY; SWIFT **MEBLAEADXXX**; счёт **AE530340003708515772902**), Payment details **INV 14/2026 dd 22.09.26**, Amount **14 500,00 USD**, Charge **OUR**. ⚠️ Вложенный PDF по факту содержит **Proforma INVOICE No. 13/2026 (15 000,00 USD)** — прислан не тот файл. ⚠️ Ранее в этой строке (по платёжному заявлению) фигурировал INV **8/2026** — сверить номер инвойса. Строка одна (r87, UNIFLOR 14 500 USD) — новую не создавал.",
     "calc": null
   },
   {
