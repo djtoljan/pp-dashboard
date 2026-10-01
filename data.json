@@ -3907,24 +3907,5 @@
     "sent_usdt": null,
     "notes": "📄 01.10.2026 (📨 ИП Мазуренко И.А. - Fininvest/ЭТБ, файл «Счет  Еврокуста  от  30 09 26.pdf» — скан, читал вижном) — **PVM sąskaita faktūra / Invoice, Serija EUPA nr. 8210, 2026-09-30**: Продавец **UAB „Eurokusta\"** (S. Žukausko g. 4-103, LT-08244 Vilnius; jm.k. 300153942, PVM LT100002141018; **SEB bankas**, SWIFT **CBVILT2X**, A/s **LT357044060005218553**) → Клиент **IP Mazurenko Ivan Aleksejevič** (236006 Kaliningrad, Naberežnaja Karbyševa; jm.k. 390701068179). Позиция: **Valstybės rinkliava už veterinarijos paslaugas (CVED) / State duty for veterinary services** — 1 × 15 000,00 €. **Iš viso / Total Due = 15 000,00 €**. Подписал Rima Simanavičienė. ⚠️ Отдельный инвойс (EUPA **8210**), не 8183 (r183) / не 8209 (r47) — родственная строка; заявка/компания не названы → 🔴 (Step 0).",
     "calc": null
-  },
-  {
-    "row": 205,
-    "date": "2026-10-01",
-    "sum": 33600,
-    "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "SJ Logistics Global",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 01.10.2026 (📨 Платежи VDX, файл «Invoice(SJLG) (2).doc» — старый .doc, читал через Word COM) — **INVOICE SJ Logistics Global** № **K-20251223** dd **August 18, 2026** (SJ Logistics Global, 8F, 732, Eonju-ro, Gangnam-gu, Seoul, Republic of Korea; подпись PARK GEON) → Buyer **HAYAT AĞACI DIŞ TİCARET NAKLİYAT VE İNŞAAT LTD.ŞTİ** (İstiklal Mah. Mithatpaşa Cad. Gümrücük Apt. No:15/2, Ümraniye-Istanbul, Türkiye; Reg. No 408759-5), Order No K-20251223: **Consulting Fee — USD 33 600**; payment T/T: **Woori Bank** (branch TWO CHAIRS W CHEONGDAM), SWIFT **HVBKKRSEXXX**, счёт **1081-601-512867**. Partial payment allowed. Компания-плательщик/заявка не названы → 🔴 (Step 0).",
-    "calc": null
   }
 ]
