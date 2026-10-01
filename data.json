@@ -3907,5 +3907,24 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null
+  },
+  {
+    "row": 205,
+    "date": "2026-10-01",
+    "sum": 33600,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "SJ Logistics Global",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
