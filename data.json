@@ -3926,5 +3926,24 @@
     "sent_usdt": 4189.94,
     "notes": "✏️ 01.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 4 147,50 + 0,3% + 30 = 4 189,94 USDT.📄 01.10.2026 (📨 ВТС-Fininvest t4, файл «01 Поручение 66496 (1).pdf») — **ПОРУЧЕНИЕ № 66496 от 07.09.2026** (Transfer request No 66496; Приложение № 2 к договору на оказание посреднических услуг № 20102025TК/2 от 20.10.2025): Принципал **ООО «ВТС»** → Агент **ОсОО «БиТрейд Кей Джи»** (Кыргызская Республика), платёж в иностранной валюте по инвойсу **17S02-03-26 от 02.03.2026**. Получатель (нерезидент) **PT SINGA SUPPLIER INTERNATIONAL** (Jalan Abasan Gang Padi Nomor 1, Tibubeneng, Kuta Utara, Badung, Bali 80361); банк **KCP Kerobokan Bank Clearing** (Jalan Raya Kerobokan No. 104, Kuta Utara 80361), SWIFT **BMRIIDJA**, счёт **1450017070406** (USD), bank clearing code 008-3292. Сумма **4 147,50 USD**; назначение «Оплата Товара по Договору Sales Contract № ВТС/06/08/2025-01 dd 06.08.2025. Инвойс № 17S02-03-26 dd 02.03.2026». Курс **86,5857** → **359 114,19 ₽**; комиссия Агента **2,5%**. Срок 5–10 банк. дней. Подписи: Бондарев А.П. (ВТС) + Курьянов А.А. (БиТрейд). → ⬜ (Step 3, линия ВТС / компания Q8).",
     "calc": "ТЕЗ"
+  },
+  {
+    "row": 206,
+    "date": "2026-10-01",
+    "sum": 30000,
+    "currency": "EUR",
+    "company": "VELLORA",
+    "color": "FFFFFFFF",
+    "clientName": "CHERKEZOV Ltd",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
