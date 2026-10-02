@@ -4268,5 +4268,24 @@
     "sent_usdt": null,
     "notes": "📄 02.10.2026 (📨 ВТС-Fininvest (t4999), файл «инвойс услуги Би трейд 74808.pdf») — **Инвойс № 74808 от 02.10.2026** (ООО «БиТрейд Кей Джи» → ООО «ВТС», договор 27062025TК/1 от 24.06.2025): «Посреднические услуги по проведению расчётов с иностранным поставщиком, курс **EUR 94,5252**» — **997,92 EUR = 94 328,59 ₽** (ИТОГО 94 328,59 ₽). Реквизиты БиТрейд: ВТБ (ПАО), р/с 40807810525640000008 (RUB), БИК 044525411, к/с 30101810145250000411. Подпись: Курьянов Андрей Александрович. ⏳ Комиссия агента по НОВОМУ ВТС-платежу (Поручение 74808 ещё не пришло) — строка заведена 🔵 «до заявки». ⚠️ База комиссии (997,92 = 1,5% от суммы сделки) ⇒ сумма сделки ≈ 66 528 EUR — подтвердить при приходе Поручения. | 📄 02.10.2026 (📨 ВТС-Fininvest (t4999), файл «Поручение 74808.pdf») — **ПОРУЧЕНИЕ № 74808 от 02.10.2026** (Приложение № 2 к договору № 27062025TК/1): Принципал **ООО «ВТС»** → Агент **ОсОО «БиТрейд Кей Джи»**, платёж по инвойсу **INVOICE NO: HBYK-260901 dd 01.09.2026**: получатель **MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI** (Esentepe Mah. Buyukdere Cad. Loft Residence No.: 201/40 Sisli/ISTANBUL); банк **TURKIYE GARANTI BANKASI A.S.**, SWIFT **TGBATRISXXX**, счёт **TR38 0006 2000 7210 0009 0492 48**; сумма **66 528,00 EUR**; назначение: Sales Contract № 06-07/2026 dd 06.07.2026, Инвойс № **PFI 202603 dd 30/09/2026**; курс **94,5252**; сумма к перечислению в рублях **6 288 572,51 ₽** (66 528 × 94,5252 ✓); комиссия Агента **1,5%** (= 997,92 EUR = 94 328,59 ₽ — инвойс услуг №74808 ✓). Компания-плательщик не названа → 🔴 (Step 0). | 📄 02.10.2026 (📨 ВТС-Fininvest (t4999), файл «Форма для реквизитов на платеж.docx») — **форма реквизитов**: AMOUNT **66 528,00 EUR**; BENEFICIARY **MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI** (Esentepe Mah. Buyukdere Cad. Loft Residence No.: 201/40 Sisli/ISTANBUL); IBAN **TR38 0006 2000 7210 0009 0492 48**; BANK **TURKIYE GARANTI BANKASI A.S.** (KAGITHANE/Istanbul/Turkey); SWIFT **TGBATRISXXX**; PAYMENT BY INVOICE **PFI 202603 dd 30/09/2026**. ✅ Совпадает с Поручением №74808. | 📄 02.10.2026 (📨 ВТС-Fininvest (t4999), файл «WTC_PROFORMA INVOICE_09_2026 MESTRO EURO.pdf») — **PROFORMA INVOICE No. PFI 202603 от 30.09.2026** (продавец **MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI**, Esentepe Mah. Büyükdere Cad. Loft Residence No.: 201/40 Şişli/İSTANBUL) → покупатель **Limited Liability Company «WTC»** (117105, Moscow, Novodanilovskaya embankment, 4A): Incoterm EXW Istanbul, Payment In Advance, 88 drums; позиции: **PF0007 MESTRO 501 S** (210 kg drum) 72 × 3,60 = **54 432,00 EUR**; **PF0008 MESTRO 601 S** (210 kg drum) 16 × 3,60 = **12 096,00 EUR**; **TOTAL EXW EUR 66 528,00**. Банк MESTRO: TÜRKİYE GARANTİ BANKASI A.Ş., IBAN TR38 0006 2000 7210 0009 0492 48, SWIFT TGBATRISXXX. ✅ Инвойс-основание к Поручению №74808 (66 528 EUR) — новая строка не создавалась.",
     "calc": null
+  },
+  {
+    "row": 224,
+    "date": "2026-10-02",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ФИНИНВЕСТ",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": "4668793.12 (Al Safi)",
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "💸 02.10.2026 (📨 Отправки рублей ПП.) — **отправка рублей Блэкшарк («ПОЧТОБАНК») → Аль Сафи**: сумма **4 668 793,12 ₽**, назначение «**перевод собственных средств**»; принципал **ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ** (ИНН 9909705580, счёт 40807810324600000016). Доки на вход: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\FININVEST -БШ-Цветы\\вход 02.10.26. = СУММА приходов ФИНИНВЕСТ 02.10.2026 (Main r220 2 798 889,76 + r221 1 869 903,36 = 4 668 793,12, выписка Почтобанка) — сторона сведена (приход = отправка). `sent_rubles_vdx` = 4668793.12 (Al Safi). Строка 🔵.",
+    "calc": null
   }
 ]
