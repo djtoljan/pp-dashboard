@@ -1419,6 +1419,25 @@
   },
   {
     "row": 75,
+    "date": "2026-09-24",
+    "sum": 12636,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Мосты (Молодёжь)",
+    "costFormula": "12 636,00 + 0,3% + 30 = 12 703,91 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 12703.91,
+    "notes": "📄 24.09.2026 (📨 Молодежь, файл «Inv USD12636 2026-09-24.pdf») — **PROFORMA INVOICE No. 260924 от 24.09.2026**: Seller **Jiashan Yongyuan Home Textiles Co., Ltd.** (No.188 Xiehong Road, Hongxi Town, Jiashan, Zhejiang, China; tel 0086-573-84616260) → Buyer **Q8 GROUP LIMITED** (DBS Bank (Hong Kong) Limited, SWIFT **DHBKHKHH**, a/c 79807111801). Товар: **Microfiber Mop** 60×96 см, 170 г/шт (blue/pink/black/purple YY) — 21 600 шт, 270 ctns, 30.6 CBM, по 0.585 USD/шт FOB Shanghai. **TOTAL 12 636,0 USD**. Условия: T/T (30 % аванс, 70 % против копии B/L); поставка ~50 дней. Банк продавца: JIASHAN YONGYUAN HOME TEXTILES CO.,LTD, a/c 201000155935431, **Zhejiang Rural Credit Cooperative Union**, SWIFT **ZJRCCN2N**. Тип 1 (проформа-инвойс). Совпадений по 12 636 / 260924 / Jiashan в 5 таблицах нет. | 📄 30.09.2026 (📨 Молодежь, файл «payment order_12636USD.docx») — **PAYMENT ORDER** DATE **30/09/2026**: AMOUNT **12 636 USD**; BENEFICIARY **JIASHAN YONGYUAN HOME TEXTILES CO.,LTD** (No.188, Xiehong Road, Hongxi Town, Jiashan County); BENEFICIARY BANK **ZHEJIANG RURAL CREDIT COOPERATIVE UNION** (No.999 South Chezhan Rd, Luoxing Town, Jiashan, Zhejiang, China), SWIFT **ZJRCCN2N**, A/C **201000155935431**; PAYMENT PURPOSE «**Inv. 260924 DD 2026-09-24**». Ордер на оплату по этой проформе (Тип 2 — цвет не меняется). | ✏️ 2026-10-02 (Scream): клиент — Мосты (Молодёжь) (было «Молодёжь»).",
+    "calc": null
+  },
+  {
+    "row": 76,
     "date": "2026-09-25",
     "sum": null,
     "currency": null,
@@ -1437,7 +1456,7 @@
     "calc": null
   },
   {
-    "row": 76,
+    "row": 77,
     "date": "2026-09-28",
     "sum": 23162,
     "currency": "CNY",
@@ -1456,7 +1475,7 @@
     "calc": null
   },
   {
-    "row": 77,
+    "row": 78,
     "date": "2026-09-28",
     "sum": 23345,
     "currency": "USD",
@@ -1475,7 +1494,7 @@
     "calc": null
   },
   {
-    "row": 78,
+    "row": 79,
     "date": "2026-09-28",
     "sum": 3544.2,
     "currency": "USD",
@@ -1494,7 +1513,7 @@
     "calc": null
   },
   {
-    "row": 79,
+    "row": 80,
     "date": "2026-09-28",
     "sum": 20160000,
     "currency": "RUB",
@@ -1513,7 +1532,7 @@
     "calc": null
   },
   {
-    "row": 80,
+    "row": 81,
     "date": "2026-09-28",
     "sum": 10570,
     "currency": "USD",
@@ -1532,7 +1551,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 81,
+    "row": 82,
     "date": "2026-09-28",
     "sum": 54464.01,
     "currency": "USD",
@@ -1552,7 +1571,7 @@
     "documentDate": "2026-09-28"
   },
   {
-    "row": 82,
+    "row": 83,
     "date": "2026-09-28",
     "sum": 207844.13,
     "currency": "RUB",
@@ -1571,7 +1590,7 @@
     "calc": null
   },
   {
-    "row": 83,
+    "row": 84,
     "date": "2026-09-28",
     "sum": 9894.2,
     "currency": "USD",
@@ -1590,7 +1609,7 @@
     "calc": "ТЕЗ"
   },
   {
-    "row": 84,
+    "row": 85,
     "date": "2026-09-29",
     "sum": 13123,
     "currency": "USD",
@@ -1609,7 +1628,7 @@
     "calc": null
   },
   {
-    "row": 85,
+    "row": 86,
     "date": "2026-09-29",
     "sum": 122199.47,
     "currency": "EUR",
@@ -1628,7 +1647,7 @@
     "calc": null
   },
   {
-    "row": 86,
+    "row": 87,
     "date": "2026-09-29",
     "sum": 10063.66,
     "currency": "USD",
@@ -1647,7 +1666,7 @@
     "calc": null
   },
   {
-    "row": 87,
+    "row": 88,
     "date": "2026-09-29",
     "sum": 4718.01,
     "currency": "USD",
@@ -1666,7 +1685,7 @@
     "calc": null
   },
   {
-    "row": 88,
+    "row": 89,
     "date": "2026-09-29",
     "sum": 150000,
     "currency": "USD",
@@ -1682,25 +1701,6 @@
     "received_usdt": null,
     "sent_usdt": 150480,
     "notes": "✏️ 29.09.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 150 000,00 + 0,3% + 30 = 150 480,00 USDT. | 📄 29.09.2026 (📨 Молодежь, файл «Платежное поручение agaro 150 000 usd.docx») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ** (Payment Order): AMOUNT **150 000,00 USD**; BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, Spain, Sant Feliu de Guíxols (Girona), Calle Agaro num 89); ACCOUNT **ES1101825117092010000115**; BENEF. BANK **Banco Bilbao Vizcaya Argentaria S.A.** (c/ Sauceda 28), SWIFT **BBVAESMMXXX**; PAYMENT DETAILS «**PAYMENT BY INVOICE NO. 9-8 DD 28.09.2026**». Линия **AGARO** (ср. Молодёжь r13 — инвойс №9 dd 04.09.2026, 248 203 USD; r73/r81 — инвойсы 951/961): клиент **ИП Зольников (Молодёжь)**, компания **Q8** → ⬜ (Step 3); Q8-расчёт сразу: 150 000 + 0,3% + 30 = 150 480 USDT. check-all-tables по 150 000 / AGARO / invoice 9-8 — совпадений нет. ⚠️ проверить связь с r13 (инвойс №9) — возможно продолжение/часть. | 📄 29.09.2026 (📨 Молодежь, файл «Invoice  28.9.26  Agaro-Q8 150 000 usd.pdf», скан) — **INVOICE № 9-8 dd 28-9-2026** от **AGARO COIN AUCTION, S.L.** (17220 Spain Sant Feliu de Guíxols, Girona, Calle Agaro 89; info@agarosi.com) → Customer **Q8 GROUP LIMITED** (Hong Kong): Lot 1 — «Lots of Foreign world and roman coins», Price 150 000,00, VAT 0%, **Total USD 150 000,00**. Банк: **Banco Bilbao Vizcaya Argentaria S.A.** (C/Sauceda 28), IBAN **ES1101825117092010000115**, SWIFT/BIC **BBVAESMMXXX**. Совпадает с Платёжным поручением AGARO 150 000 USD (эта строка) — сумма/реквизиты/инвойс 9-8 сошлись. Компания Q8 подтверждена. 🟢 30.09.2026 (📨 ПП компании Q8, файл «150000.00 (2).pdf») — **BONBILL LIMITED Payment Certificate (Тип 7 Q8)**: Transaction ID **O2105171746318581760554**, Payment Time **2026-09-30 13:43:51**; Payer **Q8 GROUP LIMITED** → Payee **AGARO COIN AUCTION, S.L.** (BANCO BILBAO VIZCAYA ARGENTARIA S.A.); **USD 150 000,00**; Remarks «—». Исполнение по строке → **⬜→🟢** (Тип 7 BONBILL Q8, исключение FSM).",
-    "calc": null
-  },
-  {
-    "row": 89,
-    "date": "2026-09-29",
-    "sum": 51072.3,
-    "currency": "EUR",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "TRESSOLI",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 29.09.2026 (📨 Молодежь, файл «foreign_transfer_details_20260929_123102_…».pdf) — **Szczegóły przelewu zagranicznego (PKO BP)**, wydruk 2026-09-29 12:31: владелец **TRESSOLI SP. Z O.O.**; Numer referencyjny **SR26IP14064054DS**; тип «Pozostałe polecenie wypłaty»; **Status: «Zlecenie wymagające potwierdzenia»** (требует подтверждения — НЕ исполнено); счёт 70102025280000020206385084; банк получателя **AILSKZ2KXXX** (Altyn Bank, Казахстан), счёт **KZ299990172EUR001948**; получатель **Q8 GROUP LIMITED**; **tytuł: Q8-260928-1**; **сумма 51 072,30 EUR** (OUR; opłaty 270,00 PLN = 61,69 EUR; szac. итого 51 133,99 EUR); zlecona data 2026-09-29. ⚠️ соответствия строке по сумме/инвойсу в таблицах нет — трейс «Q8-260928-1» уточнить у Scream.",
     "calc": null
   },
   {
@@ -1771,25 +1771,6 @@
   },
   {
     "row": 94,
-    "date": "2026-09-24",
-    "sum": 12636,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "Молодёжь",
-    "costFormula": "12 636,00 + 0,3% + 30 = 12 703,91 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 12703.91,
-    "notes": "📄 24.09.2026 (📨 Молодежь, файл «Inv USD12636 2026-09-24.pdf») — **PROFORMA INVOICE No. 260924 от 24.09.2026**: Seller **Jiashan Yongyuan Home Textiles Co., Ltd.** (No.188 Xiehong Road, Hongxi Town, Jiashan, Zhejiang, China; tel 0086-573-84616260) → Buyer **Q8 GROUP LIMITED** (DBS Bank (Hong Kong) Limited, SWIFT **DHBKHKHH**, a/c 79807111801). Товар: **Microfiber Mop** 60×96 см, 170 г/шт (blue/pink/black/purple YY) — 21 600 шт, 270 ctns, 30.6 CBM, по 0.585 USD/шт FOB Shanghai. **TOTAL 12 636,0 USD**. Условия: T/T (30 % аванс, 70 % против копии B/L); поставка ~50 дней. Банк продавца: JIASHAN YONGYUAN HOME TEXTILES CO.,LTD, a/c 201000155935431, **Zhejiang Rural Credit Cooperative Union**, SWIFT **ZJRCCN2N**. Тип 1 (проформа-инвойс). Совпадений по 12 636 / 260924 / Jiashan в 5 таблицах нет. | 📄 30.09.2026 (📨 Молодежь, файл «payment order_12636USD.docx») — **PAYMENT ORDER** DATE **30/09/2026**: AMOUNT **12 636 USD**; BENEFICIARY **JIASHAN YONGYUAN HOME TEXTILES CO.,LTD** (No.188, Xiehong Road, Hongxi Town, Jiashan County); BENEFICIARY BANK **ZHEJIANG RURAL CREDIT COOPERATIVE UNION** (No.999 South Chezhan Rd, Luoxing Town, Jiashan, Zhejiang, China), SWIFT **ZJRCCN2N**, A/C **201000155935431**; PAYMENT PURPOSE «**Inv. 260924 DD 2026-09-24**». Ордер на оплату по этой проформе (Тип 2 — цвет не меняется).",
-    "calc": null
-  },
-  {
-    "row": 95,
     "date": "2026-10-01",
     "sum": 12800,
     "currency": "USD",
