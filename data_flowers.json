@@ -1769,5 +1769,24 @@
     "sent_usdt": 64937,
     "notes": "✏️ 01.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 64 450,24 + 0,3% + 30 = 64 673,59 USDT.📄 01.10.2026 (📨 Цветы, файл «ALIANZA 64450.24.docx» — форма реквизитов) — **реквизиты к платежу ALIANZA**: Сумма **64450.24**, Currency **USD**; Beneficiary **LOGIZTIK-GROUP ECUADOR S.A.** (AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ), Account / IBAN **02005144694**, Beneficiary Bank **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775 Quito-Ecuador), SWIFT **PRODECEQ**. Инвойс к этому платежу пока не приложен — строка заведена по реквизитам. Компания **Q8**, клиент «ALIANZA LOGISTICS (Цветы)» → ⬜ (Step 3); Q8-расчёт проставится при подтверждении суммы/инвойса. | 📄 01.10.2026 (📨 Цветы, файл «ALIANZA_Q8_64450_24_USD_01-10-2026.pdf») — **INVOICE ALIANZA LOGISTIKA TDGE S.A.** (Ave. InterOceanica OE6-73 y Gonzalez Suárez, Tumbaco, Quito-Ecuador; тел. 02 237 2169), DOCUMENT NUMBER **10013087**, DATE **01-10-2026**, PAYER **Q8 GROUP LIMITED** (80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK): позиция **Air logistics services — TOTAL (USD) 64 450,24**. Реквизиты: Beneficiary **LOGIZTIK-GROUP ECUADOR S.A.**, счёт **02005144694**, **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775, Quito), SWIFT **PRODECEQ**. ⚠️ DOCUMENT NUMBER совпадает с инвойсом r93 (10013087, 65 025,14) — проверить нумерацию ALIANZA. | ✏️ 01.10.2026 (Scream: «строка 93 — компания Surya»): company = SURYA (было Q8), плательщик по ордеру — SURYA (Q8 на праздниках → платили с других компаний, ср. r92). | ✏️ 01.10.2026 (Scream: «в строках не Q8 стоит расчёт по Q8»): Q8-расчёт (0,3% + 30) снят — company=SURYA. Формула себестоимости SURYA ждёт подтверждения владельца. | ✏️ 01.10.2026 (Scream: «в строках не Q8 стоит расчёт по Q8»): Q8-тариф (0,3% + 30) заменён на SURYA-тариф (0,5%, без +30) — 64 450,24 + 0,5% = 64 772,49 USDT (тариф SURYA из строк Константина K16/K19/K23/K30). | 🧮 01.10.2026 — `sent_usdt = **64 937**` (64 450,24 + 0,6% + 100 = 64 450,24 × 1,006 + 100). | ✏️ 01.10.2026 (Scream, forward от M.N.): тариф SURYA = сумма + 0,6% + 100 — 64 450,24 + 0,6% + 100 = 64 937 USDT. | 🟢 02.10.2026 (📨 Платежные Поручения, файл «свифт 64 450,24.pdf») — **Transaction Status (Mandiri, копия koprabymandiri.com)**: Transaction Id **202610021412981888**, Remittance Number **0999102569689502**, Created 02.10.2026 14:12:45, Executed 02.10.2026 17:29:14 (GMT+7), **Transaction Status: Success**. Перевод: Remitter **PT SURYA BAHARI GLOBAL** (Source Of Fund 1450019194485 USD) → Destination **LOGIZTIK-GROUP ECUADOR S.A.** (счёт 02005144694, BANCO DE LA PRODUCCION S.A. PRODUBANCO, PRODECEQ, Ecuador). Amount **USD 64 450,24**, Charge OUR, Total Charges 80,00, **Total Debit USD 64 530,24**. Remarks: «INV Payment for air logistics services under Invoice **10013087** dated 01.10.2026». = исполнение валютного перевода по инвойсу r93 (ALIANZA LOGISTIKA TDGE S.A., Air logistics services) → строка ⬜→🟢.",
     "calc": null
+  },
+  {
+    "row": 94,
+    "date": "2026-10-02",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": 11831568.81,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 02.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf», сформ. 02.10.2026 16:51 GMT+05) — предварительная выписка АО АКИБ «ПОЧТОБАНК» г. Пермь (ОсОО «Блэкшарк Трейд», счёт 40807810100157518600, RUB; вх. остаток 7 653,69; исх. остаток 16 508 015,62; оборот Кт 16 500 361,93): док. **326** от 02.10.2026 — Кт **11 831 568,81 ₽** {VO11200} «Для зачисления по контракту 01-07-2026 от 01.07.2026, оплата за цветочную продукцию, НДС не облагается» от **ООО «ПРИОРИТЕТ МАРКЕТ»** (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723). `rubles_received` = 11 831 568,81; строка 🔵 (ждёт отправки рублей на VDX). | ℹ️ в этой же выписке док. 76 — 2 798 889,76 ₽ и док. 77 — 1 869 903,36 ₽ (АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ») — уже разнесены в Main r220/r221.",
+    "calc": null
   }
 ]

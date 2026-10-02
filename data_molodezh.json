@@ -1787,5 +1787,24 @@
     "sent_usdt": 12965,
     "notes": "📄 01.10.2026 (📨 Молодежь, файлы «payment order ОЛ.docx» + «1CM26092801.pdf») — **PAYMENT ORDER от 01.10.2026**: AMOUNT **12 800 USD**, bank transfer; Beneficiary **CARGOMOST DIŞ TİCARET LOJİSTİK L.Ş.** (№53, Cevizli mah., Ritim Istanbul AVM, Maltepe, ISTANBUL 34846; Tax ID 2030 792 777); банк **GARANTI BBVA BANK / Dragos branch**, SWIFT **TGBATRISXXX**, счёт **TR59 0006 2001 2790 0009 0809 03**; назначение «Payment Invoice No CM26092802, CM26092801». | 📄 **INVOICE CM26092802 dd 28.Sep.26** (CARGOMOST) → BILL TO **PT TOMO TRADING GROUP** (Jalan Batu Bidak No.88B, Kerobokan Kaja, Kuta Utara, Badung, Bali): Freight Forwarding Services, Truck 33APC558-33EGP89, FCA TR İkitelli-Tuzla → DAP, Rate 11 950 USD → **TOTAL 11 950,00 USD**. (Второй инвойс CM26092801 ≈ 850,00 USD; 11 950 + 850 = 12 800 ✓.) → ⬜ (Step 3; компания **TOMO** по инвойсу). ⚠️ клиента уточнить у владельца. | 📄 01.10.2026 (📨 Молодежь, файл «2CM26092802.pdf») — **INVOICE CARGOMOST dd 28.Sep.26** → BILL TO **PT TOMO TRADING GROUP**: Freight Forwarding Services, Truck 33APC558-33EGP89, FCA TR İkitelli-Tuzla → DAP, Rate **850 USD** → **TOTAL 850,00 USD**. Итого по двум инвойсам: 11 950,00 + 850,00 = **12 800,00 USD** = сумма payment order ✓. | 📄 01.10.2026 (📨 Ордера и Расчеты !, подпись «Payment from TOMO❗️», файл «INV 12 800,00 USD.pdf») — **ордер на платёж**: Beneficiary **CARGOMOST DIŞ TİCARET LOJİSTİK L.Ş.** (№53, Cevizli mah., Ritim Istanbul AVM, Maltepe, ISTANBUL 34846); банк **GARANTI BBVA BANK / Dragos branch**, SWIFT **TGBATRISXXX**, счёт **TR59 0006 2001 2790 0009 0809 03**; Payment details **Invoice No CM26092802, CM26092801 dd 28.09.26**; Amount **12 800,00 USD**; Charge **OUR**. Приложен PDF с двумя инвойсами CARGOMOST (11 950,00 + 850,00 = 12 800,00 USD; оба пронумерованы одним номером CM26092802 — шаблон). Компания **TOMO** — совпадает с уже ведомой строкой (r95), новую не создавал. | 📄 01.10.2026 (📨 Платежные Поручения, файл «12800_USD_78011.pdf») — **Transaction Status** (Transaction Id 202610011926616316, Creation Date 01.10.2026 19:26:31 GMT+7, Immediate): **TOMO TRADING GROUP** → **CARGOMOST DIS TICARET LOJISTIK L.S.**, Account TR590006200127900009080903 (53 Cevizli mah., Ritim Istanbul AVM, Maltepe, Istanbul 34846, TURKEY); Beneficiary Bank **TURKIYE GARANTI BANKASI A.S.**, BIC **TGBATRISXXX**; Amount **12 800,00 USD**; Cable 5,00 + Corr 25,00 + Provision 16,00 = 46,00; **Total Debit 12 846,00 USD**; Remark «INV Invoice No CM26092802, CM26092801 dd 28.09.26»; **Status: PendingApproval** → цвет ⬜ → 🟡. | 🏷️ 01.10.2026 (📨 Ордера и Расчеты: «3 на сурию отдал»; расчёт `(сумма+100)×1,005`: 12 800→**12 965**, 14 500→**14 673**, 15 000→**15 176**; итого **42 813** — кошелёк `TLq4JCfpaLtRRGeX2Mo6AMuzSq8jCwy17b`) — `company = **SURYA**` (Q8 на праздниках → платили с других компаний), `sent_usdt` = зачётом SURYA. | ✏️ 01.10.2026 (Scream: «это не surya это TOMO») — `company = **TOMO**` (не SURYA). | ✏️ 01.10.2026 (Scream: «CARGOMOST 12 800 — Клиент **Мосты**, и под эту заявку приходил USDT») — `clientName = **Мосты**` (было «TOMO»); `company = TOMO` (плательщик). | ✏️ 01.10.2026 (Scream: «Это приход от обменника — не нужно прикручивать его, от него летят USDT не только от Мостов») — `received_usdt` снят (было 25864); 25 864 — **общий приход от обменника**, не приход заявки, к r95 не привязываем. | ✏️ 01.10.2026 (Scream: «где расчёт себестоимости у строк 87 и 88»): TOMO-тариф (сумма + 100) × 1,005 проставлен — (12 800,00 + 100) × 1,005 = 12 965 USDT.",
     "calc": null
+  },
+  {
+    "row": 95,
+    "date": "2026-10-02",
+    "sum": 68200,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Архимед (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 02.10.2026 (📨 Молодежь, файл «CC_Поручение № 2 АрхИнж (1).pdf» — скан без текстового слоя, читал вижном) — **ПОРУЧЕНИЕ № 2 от 02.10.2026** (Приложение № 1 к Агентскому договору № 260424-003 от 24.04.2026): Принципал **ООО «АРХИМЕД ИНЖИНИРИНГ»** → Агент **ООО «VDX SERVICES - FZCO»**, платёж в иностранной валюте по инвойсу **№ 0012 от 02.10.2026**: получатель **TEHGAZ URUNLERI NAKLIYAT IC DIS TICARET VE SANAYI LIMITED SIRKETI** (Cumhuriyet blv Bati A - B Blok No 77 /A /95, Izmit/Kocaeli, TURKEY); банк **Garanti Bankası**, SWIFT **TGBATRISXXX**, IBAN **TR87 0006 2001 1480 0009 0811 51**; сумма **68 200,00 EUR**; курс **94,5252**; сумма к перечислению в рублях **6 446 618,64 ₽**; комиссия Агента **64 466,19 ₽**. Подписи: Бухара Елена Александровна (Архимед Инжиниринг) / Никита (VDX). Компания-плательщик не названа → 🔴 (Step 0).",
+    "calc": null
   }
 ]
