@@ -4171,7 +4171,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 19687.75,
-    "notes": "📄 02.10.2026 (📨 Платежи VDX; файл «260928_2211_001.pdf» — скан без текстового слоя, читал вижном) — **INVOICE (PAYMENT REQUEST) № RTJ-2026-HOTEL-0928-01** от 28.09.2026: Seller/Payee **Rokko Travel Japan Co., Ltd.** (Office 6E-24, 6-9 Koyocho-naka, Higashinada-ku, Kobe, Hyogo, Japan; rokkо.travel.japan@gmail.com; тел. +81-78-385-6464; Representative Director VANGELYEVA OLGA). Реквизиты (Wise / USD): account holder **Kabushikigaisha Rokko Travels**, account **998802234760636**, routing **084009519**, SWIFT **TRWIUS35XXX**, банк **Wise US Inc.** (108 W 13th St, Wilmington, DE 19801, USA). Описание: **Hotel accommodation reservation**, тур **Oct 29 – Nov 4, 2026**, школьная группа **26 гостей**. **Amount due 19 500,00 USD**. Подпись + печать продавца. Компания-плательщик в сообщении НЕ названа → компания **UK** (по прецеденту канала «Платежи VDX», строки 76/78/92/94/109). Клиент — **VDX**. Расчёт — не-Q8, ждём формулу/тариф UK. | 🛡️ 02.10.2026: движение OUT 19687.75 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:218).",
+    "notes": "📄 02.10.2026 (📨 Платежи VDX; файл «260928_2211_001.pdf» — скан без текстового слоя, читал вижном) — **INVOICE (PAYMENT REQUEST) № RTJ-2026-HOTEL-0928-01** от 28.09.2026: Seller/Payee **Rokko Travel Japan Co., Ltd.** (Office 6E-24, 6-9 Koyocho-naka, Higashinada-ku, Kobe, Hyogo, Japan; rokkо.travel.japan@gmail.com; тел. +81-78-385-6464; Representative Director VANGELYEVA OLGA). Реквизиты (Wise / USD): account holder **Kabushikigaisha Rokko Travels**, account **998802234760636**, routing **084009519**, SWIFT **TRWIUS35XXX**, банк **Wise US Inc.** (108 W 13th St, Wilmington, DE 19801, USA). Описание: **Hotel accommodation reservation**, тур **Oct 29 – Nov 4, 2026**, школьная группа **26 гостей**. **Amount due 19 500,00 USD**. Подпись + печать продавца. Компания-плательщик в сообщении НЕ названа → компания **UK** (по прецеденту канала «Платежи VDX», строки 76/78/92/94/109). Клиент — **VDX**. Расчёт — не-Q8, ждём формулу/тариф UK. | 🛡️ 02.10.2026: движение OUT 19687.75 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:218). | 🟡 02.10.2026 (📨 ПП компании UK, файл «Kabushi 19500 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**), Beneficiary **Kabushikigaisha Rokko Travels** (IBAN 998802234760636, BIC TRWIUS35XXX), Amount **19 500,00 USD** (nineteen thousand five hundred US dollars), Details «RTJ-2026-HOTEL-0928-01 dd28/09/2026», Execution Date 10/02/2026. **Штамп Bank's confirmation: IN PROCESS** — подвешенная ПП (отправлено, ещё не исполнено). Цвет ⬜→🟡 (INITIATED); ждём EXECUTED → 🟢.",
     "calc": null
   },
   {
@@ -4180,7 +4180,7 @@
     "sum": 24077,
     "currency": "USD",
     "company": "UK",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "VDX",
     "costFormula": null,
     "extra": null,
