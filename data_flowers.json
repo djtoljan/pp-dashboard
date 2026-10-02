@@ -1699,7 +1699,7 @@
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "FLORES DE CONEJERA SAS (Цветы)",
     "costFormula": "10 000,00 + 0,3% + 30 = 10 060,00 USDT",
     "extra": "📄 30.09.2026 (📨 Цветы, файл «FLORES DE CONEJERA SAS 10 000,00.docx») — **платёжное поручение / SWIFT-полевая форма**: 59 Beneficiary Customer **FLORES DE CONEJERA SAS** (AV 100 19A 50 OFF. 1002, Bogota, Colombia); 57 SWIFT/BIC **COLOCOBM**; банк **BANCOLOMBIA** (CALLE 30A 6 38 FLOOR 2, Bogota, Colombia), счёт **13401600454**; 70 Details **FOR FRESH CUT FLOWERS**; 32A Amount **USD 10 000,00**; 71A Charge **OUR**. Компания-плательщик в документе не названа → 🔴 Step 0. Клиент — FLORES DE CONEJERA SAS (Цветы).",
