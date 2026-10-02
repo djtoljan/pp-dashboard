@@ -4113,8 +4113,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 02.10.2026 (📨 Платежи VDX, подпись «Payment from Trevelcom❗️», файл «6 Kuda Vilingili 504486.1 20 000 usd.pdf») — **ордер на платёж / PROFORMA INVOICE № 504486.1 от 03.07.2026** (отель, Maldives; Conf. No. 504486, Cashier 102, гость FO-RAYYAAN, заезд 06-10-26, выезд 15-10-26): получатель **MFAR KUDAVILLINGILI PRIVATE LIMITED** (3rd Floor (3B) H. Nereen, Majeedheemagu, Male 20042, Maldives); банк **Bank of Maldives** (No.11, Boduthakurufaanu Magu, Male, Rep. of Maldives), SWIFT **MALBMVMV**, счёт **7730000224681**; Payment details «INV.504486.1 DD.03/07/26»; Amount **20 000,00 USD**; **OUR**. «The agency commission is withheld by the payer independently». Клиент строки — **VDX** (канал «Платежи VDX»), компания — **UK** (по прецеденту подписи «Payment from Trevelcom/Travelcom», rows 67/68/95/148/178/180/190). Расчёт (UK-тариф) — не-Q8, ждём формулу владельца.",
+    "sent_usdt": 20190,
+    "notes": "📄 02.10.2026 (📨 Платежи VDX, подпись «Payment from Trevelcom❗️», файл «6 Kuda Vilingili 504486.1 20 000 usd.pdf») — **ордер на платёж / PROFORMA INVOICE № 504486.1 от 03.07.2026** (отель, Maldives; Conf. No. 504486, Cashier 102, гость FO-RAYYAAN, заезд 06-10-26, выезд 15-10-26): получатель **MFAR KUDAVILLINGILI PRIVATE LIMITED** (3rd Floor (3B) H. Nereen, Majeedheemagu, Male 20042, Maldives); банк **Bank of Maldives** (No.11, Boduthakurufaanu Magu, Male, Rep. of Maldives), SWIFT **MALBMVMV**, счёт **7730000224681**; Payment details «INV.504486.1 DD.03/07/26»; Amount **20 000,00 USD**; **OUR**. «The agency commission is withheld by the payer independently». Клиент строки — **VDX** (канал «Платежи VDX»), компания — **UK** (по прецеденту подписи «Payment from Trevelcom/Travelcom», rows 67/68/95/148/178/180/190). Расчёт (UK-тариф) — не-Q8, ждём формулу владельца. | 🛡️ 02.10.2026: движение OUT 20190 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:215).",
     "calc": null
   },
   {
