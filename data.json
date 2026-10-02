@@ -4133,6 +4133,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 02.10.2026 (📨 Платежи VDX, подпись «Payment from  ❗️» — компания-плательщик в сообщении НЕ названа; файл «Invoice LCI Group.pdf») — **ордер на платёж**: Beneficiary **LCI-MTC Group SA** (20, route de Beaumont, CH-1700 Fribourg, Switzerland; CHE-101.090.130); Beneficiary Bank **3S Money (Luxembourg) S.A.** (25C Boulevard Royal, L-2449 Luxembourg), SWIFT **MOLULU22** (USD MOLULU55), EUR IBAN **LU058160000322897800**; Payment details «INV.12YY8W/4 DD.29.09.2026»; Amount **28 999,00 EUR**; **OUR** («all bank, transaction, intermediary and other fees are in care of sender»). Вложенный INV **12YY8W/4** dd 29.09.2026: **Hassler Roma Deluxe** — double room (king) for single use, BB, 7th floor, **05/10/2026–12/10/2026** (booking 27.08.2026), **28 999,00 EUR** (taxes 0,00) — итог инвойса = сумме ордера, расхождений нет. Клиент строки — **VDX** (канал «Платежи VDX»), компания — **UK** (по прецеденту подписи «Payment from ❗️» / строк 131/154/201 — тот же бенефициар и канал). Расчёт — не-Q8, ждём формулу/тариф UK владельца.",
+    "calc": null
+  },
+  {
+    "row": 217,
+    "date": "2026-10-02",
+    "sum": 27013,
+    "currency": "EUR",
+    "company": "UK",
+    "color": "FFFFFFFF",
+    "clientName": "VDX",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
