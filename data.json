@@ -4095,9 +4095,9 @@
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
-      "received_usdt": null,
+      "received_usdt": 32729,
       "sent_usdt": null,
-      "notes": "📄 05.10.2026 (📨 Платежи VDX, файл «Invoice_39241-1.pdf») — **ПРОФОРМА-ИНВОЙС (Тип 1)** «INVOICE #39241-1 от 30.09.2026» (Luxe voyage FZCO, Unit No: 4402 DMCC Business Centre, Level 1 Jewellery & Gemplex 3, Dubai, UAE; www.luxevoyage.mu) для туриста **GREF / YANA MRS** (TOTAL 1 PAX): **Four Seasons Seychelles at Desroches Island 5*** (Seychelles) / 2 Bedroom residence / BB / 5 PAX; даты **28.12.26–01.01.27**, 4 нт × 10 021 EUR/room/night = **29 000,00 EUR**. Payment due date **05.10.2026**. Банк: **EMIRATES NBD** (Dubai, UAE), EUR a/c **AE340260000515630840203**, SWIFT **EBILAEAD**, charge **OUR**. Step 0 → 🔴 (компания-плательщик не названа). ⚠️ Клиент не определён (check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет) — уточнить у Scream. check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет.",
+      "notes": "📄 05.10.2026 (📨 Платежи VDX, файл «Invoice_39241-1.pdf») — **ПРОФОРМА-ИНВОЙС (Тип 1)** «INVOICE #39241-1 от 30.09.2026» (Luxe voyage FZCO, Unit No: 4402 DMCC Business Centre, Level 1 Jewellery & Gemplex 3, Dubai, UAE; www.luxevoyage.mu) для туриста **GREF / YANA MRS** (TOTAL 1 PAX): **Four Seasons Seychelles at Desroches Island 5*** (Seychelles) / 2 Bedroom residence / BB / 5 PAX; даты **28.12.26–01.01.27**, 4 нт × 10 021 EUR/room/night = **29 000,00 EUR**. Payment due date **05.10.2026**. Банк: **EMIRATES NBD** (Dubai, UAE), EUR a/c **AE340260000515630840203**, SWIFT **EBILAEAD**, charge **OUR**. Step 0 → 🔴 (компания-плательщик не названа). ⚠️ Клиент не определён (check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет) — уточнить у Scream. check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 32729 (раскладка Scream/M.N. 05.10.2026).",
       "calc": null
     },
     {
@@ -4114,9 +4114,9 @@
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
-      "received_usdt": null,
+      "received_usdt": 31039,
       "sent_usdt": null,
-      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «76 furaveri 2181623 - PI.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **Furaveri Island Resort&Spa** (Furaveri Maldives, Raa Atoll, 20012, Maldives; Beneficiary Bank **Bank of Maldives**, BML BUILDING 11 BODUTHAKURUFAANU MAGU, MALE; SWIFT **MALBMVMV**; Account **7730-000076-909**), Payment details «**INV.2181623 DD.31.07.2026**», Amount **30 800,00 USD**, OUR. Приложен **PRO-FORMA INVOICE** (Furaveri Island Resort & Spa, TIN 1003226GST001, 31 July 2026): Guest **Mansurova, Irina** (Pax 2A/0C/0I), Room Beach Villa, Arrival 15/10/26 — Departure 22/10/26, Meal Plan Premium All Inclusive, Conf No **2181623**, TA Ref MANSUROVA, Balance Due **30 800,00 USD** (advance payment; agency commission withheld by payer). Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 30 800,00 × 1,0045 + 100 = 31 038,60 USDT.",
+      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «76 furaveri 2181623 - PI.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **Furaveri Island Resort&Spa** (Furaveri Maldives, Raa Atoll, 20012, Maldives; Beneficiary Bank **Bank of Maldives**, BML BUILDING 11 BODUTHAKURUFAANU MAGU, MALE; SWIFT **MALBMVMV**; Account **7730-000076-909**), Payment details «**INV.2181623 DD.31.07.2026**», Amount **30 800,00 USD**, OUR. Приложен **PRO-FORMA INVOICE** (Furaveri Island Resort & Spa, TIN 1003226GST001, 31 July 2026): Guest **Mansurova, Irina** (Pax 2A/0C/0I), Room Beach Villa, Arrival 15/10/26 — Departure 22/10/26, Meal Plan Premium All Inclusive, Conf No **2181623**, TA Ref MANSUROVA, Balance Due **30 800,00 USD** (advance payment; agency commission withheld by payer). Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 30 800,00 × 1,0045 + 100 = 31 038,60 USDT. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 31039 (раскладка Scream/M.N. 05.10.2026).",
       "calc": null
     },
     {
@@ -4133,9 +4133,9 @@
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
-      "received_usdt": null,
+      "received_usdt": 33610,
       "sent_usdt": null,
-      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «Invoice 97812.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **Kudakurathu Island Resort Pvt Ltd** (H. Aage Building, Boduthakurufaanu Magu, 20094 Male, Republic of Maldives; Bank **Bank of Maldives Plc**, P.O. Box 2053, Kudakurathu Island, Raa Atoll; SWIFT **MALBMVMV**; Account **7730000574586**), Payment details «**INV.146178 dd 23.09.2026**», Amount **33 360,00 USD**, OUR. Приложен **счёт** (Invoice 97812): Villa **RAAYA Residence**, Arrival 15-10-26 — Departure 25-10-26, 10 ночей, Adult/Child 4/2; Accommodation Charges 3 264,00 USD/ночь + Green Tax 72,00 USD/ночь; итог **33 360,00 USD**. Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192/215, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 33 360,00 × 1,0045 + 100 = 33 610,12 USDT.",
+      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «Invoice 97812.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **Kudakurathu Island Resort Pvt Ltd** (H. Aage Building, Boduthakurufaanu Magu, 20094 Male, Republic of Maldives; Bank **Bank of Maldives Plc**, P.O. Box 2053, Kudakurathu Island, Raa Atoll; SWIFT **MALBMVMV**; Account **7730000574586**), Payment details «**INV.146178 dd 23.09.2026**», Amount **33 360,00 USD**, OUR. Приложен **счёт** (Invoice 97812): Villa **RAAYA Residence**, Arrival 15-10-26 — Departure 25-10-26, 10 ночей, Adult/Child 4/2; Accommodation Charges 3 264,00 USD/ночь + Green Tax 72,00 USD/ночь; итог **33 360,00 USD**. Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192/215, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 33 360,00 × 1,0045 + 100 = 33 610,12 USDT. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 33610 (раскладка Scream/M.N. 05.10.2026).",
       "calc": null
     },
     {
@@ -4152,9 +4152,9 @@
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
-      "received_usdt": null,
+      "received_usdt": 8442,
       "sent_usdt": null,
-      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «Invoice 1129.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **IDOM CO., LTD** (4/16 Moo 9, Vichit Sub-District, Muang District, Phuket 83110; TAX ID 0835559010530); Beneficiary Bank **The Siam Commercial Bank** (Cherngtalay Phuket branch; BUILDING 2 RUTCHADAPISEK ROAD CHATUCHAK, BANGKOK; SWIFT **SICOTHBK**), Account **706-257056-4**; Payment details «**INV.02937 dd.01.10.2026**»; Amount **8 305,00 USD**; OUR. Приложен **INVOICE No. 02937** (Issued 5 October 2026, Customer **Pronyuk Dmitry**): Booking deposit for **Angsana Laguna Village** 26.12.2026–25.01.2027, TOTAL **279 826 THB = 8 305 USD**, due date 11.11.2026. Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192/215/216, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 8 305 × 1,0045 + 100 = 8 442,37 USDT.",
+      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «Invoice 1129.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **IDOM CO., LTD** (4/16 Moo 9, Vichit Sub-District, Muang District, Phuket 83110; TAX ID 0835559010530); Beneficiary Bank **The Siam Commercial Bank** (Cherngtalay Phuket branch; BUILDING 2 RUTCHADAPISEK ROAD CHATUCHAK, BANGKOK; SWIFT **SICOTHBK**), Account **706-257056-4**; Payment details «**INV.02937 dd.01.10.2026**»; Amount **8 305,00 USD**; OUR. Приложен **INVOICE No. 02937** (Issued 5 October 2026, Customer **Pronyuk Dmitry**): Booking deposit for **Angsana Laguna Village** 26.12.2026–25.01.2027, TOTAL **279 826 THB = 8 305 USD**, due date 11.11.2026. Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192/215/216, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 8 305 × 1,0045 + 100 = 8 442,37 USDT. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 8442 (раскладка Scream/M.N. 05.10.2026).",
       "calc": null
     },
     {
@@ -4190,9 +4190,9 @@
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
-      "received_usdt": null,
+      "received_usdt": 40644,
       "sent_usdt": null,
-      "notes": "💰 05.10.2026 (📨 Платежи VDX, файл «№DD-2518 Инвойс - Ground Services.pdf») — **проформа-инвойс № DD-2518 от 28.09.2026**: Vendor **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (Ayvansaray Mah. Kafesçi Yümni Sk. No:4-6, Fatih, Istanbul/TURKEY; Tax № 301 054 26 02, Fatih Tax Office); услуги **Ground & Accommodation services in Mersin/Türkiye**, период 30.09–15.10.2026; **Grand Total $40.362,00 USD**; банк **GARANTI BANK** (Branch ÇEMBERLİTAŞ ŞUBESİ, код 44), USD account 9085176, USD IBAN **TR03 0006 2000 0440 0009 0851 76**, SWIFT **TGBATRISXXX**. Компания-плательщик не названа → 🔴 Step 0 (ждём заявку/компанию). Клиент по группе «📨 Платежи VDX» = VDX.",
+      "notes": "💰 05.10.2026 (📨 Платежи VDX, файл «№DD-2518 Инвойс - Ground Services.pdf») — **проформа-инвойс № DD-2518 от 28.09.2026**: Vendor **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (Ayvansaray Mah. Kafesçi Yümni Sk. No:4-6, Fatih, Istanbul/TURKEY; Tax № 301 054 26 02, Fatih Tax Office); услуги **Ground & Accommodation services in Mersin/Türkiye**, период 30.09–15.10.2026; **Grand Total $40.362,00 USD**; банк **GARANTI BANK** (Branch ÇEMBERLİTAŞ ŞUBESİ, код 44), USD account 9085176, USD IBAN **TR03 0006 2000 0440 0009 0851 76**, SWIFT **TGBATRISXXX**. Компания-плательщик не названа → 🔴 Step 0 (ждём заявку/компанию). Клиент по группе «📨 Платежи VDX» = VDX. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 40644 (раскладка Scream/M.N. 05.10.2026).",
       "calc": null
     },
     {
@@ -4209,9 +4209,9 @@
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
-      "received_usdt": null,
+      "received_usdt": 13159,
       "sent_usdt": 13158.5,
-      "notes": "📄 05.10.2026 (📨 Платежи VDX — «**Payment from Travelcom❗️**»; вложение «13 000,00 USD Fushifaru_05.10.2026 -1.pdf») — **Заявка (Тип 4): ордер на платёж** → Beneficiary **Fushifaru investment Pvt. Ltd** (Lhaviyani Atoll, Republic of Maldives); Beneficiary Bank **Bank of Maldives PLC** (1st Floor, Bank of Maldives Building, 11 Boduthakurufaanu Magu, Male, 20094; SWIFT **MALBMVMV**), Account **7730-000014-602**; Payment details «**Inv.051026-1 dd 05.10.2026**»; Amount **13 000,00 USD**; **OUR**. Компания-плательщик названа (Travelcom) — по прецеденту (rows 178/180/192/215, тот же канал/подпись) компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): **13 000,00 × 1,0045 + 100 = 13 158,50 USDT**.",
+      "notes": "📄 05.10.2026 (📨 Платежи VDX — «**Payment from Travelcom❗️**»; вложение «13 000,00 USD Fushifaru_05.10.2026 -1.pdf») — **Заявка (Тип 4): ордер на платёж** → Beneficiary **Fushifaru investment Pvt. Ltd** (Lhaviyani Atoll, Republic of Maldives); Beneficiary Bank **Bank of Maldives PLC** (1st Floor, Bank of Maldives Building, 11 Boduthakurufaanu Magu, Male, 20094; SWIFT **MALBMVMV**), Account **7730-000014-602**; Payment details «**Inv.051026-1 dd 05.10.2026**»; Amount **13 000,00 USD**; **OUR**. Компания-плательщик названа (Travelcom) — по прецеденту (rows 178/180/192/215, тот же канал/подпись) компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): **13 000,00 × 1,0045 + 100 = 13 158,50 USDT**. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 13159 (раскладка Scream/M.N. 05.10.2026).",
       "calc": null
     },
     {
