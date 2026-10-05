@@ -3612,7 +3612,7 @@
       "sum": 35650,
       "currency": "EUR",
       "company": "PRIME FOOD",
-      "color": "FFFFFF00",
+      "color": "FF92D050",
       "clientName": "Близнецы",
       "costFormula": "35 650,00 EUR → 40 432 USD; 40 432 / (1-0,35%) + 100 = 40 674,009 USDT",
       "extra": null,
