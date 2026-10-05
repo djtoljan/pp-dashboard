@@ -4179,11 +4179,11 @@
     {
       "row": 219,
       "date": "2026-10-05",
-      "sum": null,
-      "currency": null,
+      "sum": 40362,
+      "currency": "USD",
       "company": null,
-      "color": null,
-      "clientName": null,
+      "color": "FFFF0000",
+      "clientName": "VDX",
       "costFormula": null,
       "extra": null,
       "rubles_received": null,
@@ -4192,7 +4192,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "💰 05.10.2026 (📨 Платежи VDX, файл «№DD-2518 Инвойс - Ground Services.pdf») — **проформа-инвойс № DD-2518 от 28.09.2026**: Vendor **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (Ayvansaray Mah. Kafesçi Yümni Sk. No:4-6, Fatih, Istanbul/TURKEY; Tax № 301 054 26 02, Fatih Tax Office); услуги **Ground & Accommodation services in Mersin/Türkiye**, период 30.09–15.10.2026; **Grand Total $40.362,00 USD**; банк **GARANTI BANK** (Branch ÇEMBERLİTAŞ ŞUBESİ, код 44), USD account 9085176, USD IBAN **TR03 0006 2000 0440 0009 0851 76**, SWIFT **TGBATRISXXX**. Компания-плательщик не названа → 🔴 Step 0 (ждём заявку/компанию). Клиент по группе «📨 Платежи VDX» = VDX.",
       "calc": null
     }
   ]
