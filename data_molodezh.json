@@ -1899,7 +1899,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 91303,
-    "notes": "✏️ 05.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 91 000,00 + 0,3% + 30 = 91 303,00 USDT.",
+    "notes": "✏️ 05.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 91 000,00 + 0,3% + 30 = 91 303,00 USDT. | Инвойс № 10-2 dd 05.10.2026 (Invoice, PDF «Invoice 05.10.26 Agaro-Q8 91 000 usd.pdf» — скан без текст.слоя, прочитан вижн, 📨 Молодежь, 05.10.2026): AGARO COIN AUCTION, S.L. (17220, Spain Sant Feliu De Guíxols (GIRONA) Calle Agaro, NUM 89; info@agarosl.com, +34 640 32 56 91) → Customer/Bill To: **Q8 GROUP LIMITED (Hong Kong)**. Lot 1 — Lots of Foreign world and roman coins (коллекционные монеты), Total hammer USD 91 000,00, VAT 0% (0,00), Shipping 0,00, Total USD 91 000,00. Банк: Banco Bilbao Vizcaya Argentaria S.A., C/Sauceda 28, IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX. = инвойс Agaro (ордер ещё не поступал) → ⬜. Клиент ИП Зольников (Молодёжь), серия Agaro. Q8-формула (USD): 91 000,00 + 0,3% + 30 → USDT.",
     "calc": null
   }
 ]
