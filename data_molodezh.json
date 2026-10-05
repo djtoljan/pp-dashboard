@@ -1861,7 +1861,26 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "Инвойс № 10-3 dd 05.10.2026 (Invoice, PDF «Invoice 05.10.26 Agaro- Q8 101 300 euro.pdf», 📨 Молодежь, 05.10.2026): AGARO COIN AUCTION, S.L. (info@agarosl.com, +34 640 32 56 91) → BILL TO: **PT Surya Bahari Global** (Jalan Tebet Raya No 11G 1, Desa/Kelurahan Tebet Barat, Kec.Tebet, Kota Adm. Jakarta Selatan, DKI Jakarta 12810). Lot 1 — Lots of Foreign world and roman coins (коллекционные монеты), Total hammer EURO 101 300,00, VAT 0% (0,00), Shipping 0,00, Total EURO 101 300,00. Банк: Banco Bilbao Vizcaya Argentaria S.A. (C/Sauceda 28), IBAN (EURO) ES52 0182 5117 0702 0159 5495, SWIFT BBVAESMMXXX. | Payment Order (docx «Платежное поручение agaro 101 300 euro.docx», 📨 Молодежь, 05.10.2026): AMOUNT 101 300,00 EURO → BENEFICIARY AGARO COIN AUCTION, S.L. (17220, SPAIN SANT FELIU DE GUÍXOLS (GIRONA) CALLE AGARO, NUM 89), ACCOUNT ES52 0182 5117 0702 0159 5495, BENEF.BANK Banco Bilbao Vizcaya Argentaria s.a. (c/sauceda 28), SWIFT BBVAESMMXXX; PAYMENT DETAILS «PAYMENT BY INVOICE NO. 10-3 DD 05.10.2026». = заявка Тип 4 (инвойс + ордер) → ⬜ Step 3. Клиент ИП Зольников (Молодёжь) — серия Agaro: r13 (инв. 9, 248 203,00 USD), r28 (9-1, 228 223,38), r40 (9-2, 162 657,72), r41 (9-3, 101 360,00 EUR), r65 (9-4/1, 130 446,75), r72 (9-5, 87 300,00), r82 (9-6/1, 115 001,18). ⚠️ Расхождение: bill-to инвойса — **PT Surya Bahari Global** (Джакарта), тогда как серия Agaro-Q8 оформлялась на **Q8 GROUP LIMITED** (HK) — уточняется у Scream. Компания в строке оставлена **Q8** (по названию файла и серии). 💱 Q8 EUR — расчёт себестоимости (евро → USD + 0,3% + 30) ждёт курс EUR/USD от Scream, формула не проставлена.",
+    "calc": null
+  },
+  {
+    "row": 99,
+    "date": "2026-10-05",
+    "sum": 163036.02,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ИП Зольников (Молодёжь)",
+    "costFormula": "163 036,02 + 0,3% + 30 = 163 555,13 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 163555.13,
+    "notes": "✏️ 05.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 163 036,02 + 0,3% + 30 = 163 555,13 USDT.",
     "calc": null
   }
 ]
