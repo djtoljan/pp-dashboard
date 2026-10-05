@@ -1824,7 +1824,26 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 30120,
-    "notes": "✏️ 05.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 000,00 + 0,3% + 30 = 30 120,00 USDT.",
+    "notes": "📄 05.10.2026 (📨 Цветы, файл «EBF CARGO CIA LTDA 30000.docx») — **SWIFT-инструкция на платёж (MT-поля)**: Amount **USD 30 000,00**; Beneficiary **EBF CARGO CIA LTDA** (Av. Simón Bolívar sn y vía Nayón, Centro Corporativo Ekopark torre 1, Quito, Ecuador); ACCOUNT **02005153421**; SWIFT **PRODECEQ**; банк **PRODUBANCO** (AV. AMAZONAS 4545 y PEREIRA); Payment details «**transportation services**». Компания Q8; расчёт Q8 проставлен автоматически (30 000,00 + 0,3% + 30 = 30 120,00 USDT). ⚠️ Совпадение: в тот же день пришёл инвойс **ONETEAMCARGO S.A.** на те же **$30 000** (Цветы r95) — тот же адрес (Centro Corporativo Ekopark torre 1, Quito) и тот же банк PRODUBANCO/PRODECEQ, но другой счёт (EBF 02005153421 vs ONETEAMCARGO 12040835435). Уточнить у Scream: это отдельная сделка EBF CARGO или тот же платёж.",
+    "calc": null
+  },
+  {
+    "row": 97,
+    "date": "2026-10-05",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "7112266.43",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
     "calc": null
   }
 ]
