@@ -1775,8 +1775,8 @@
     "date": "2026-10-05",
     "sum": 75941.92,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "TRANS LOGI",
+    "color": "FFFFFFFF",
     "clientName": "A-BLOEMEN (Цветы)",
     "costFormula": null,
     "extra": null,
@@ -1786,7 +1786,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 05.10.2026 (📨 Цветы, файл «A BLOEMEN 75.941,92.docx» — форма реквизитов) — **реквизиты / заявка на платёж**: Amount **75 941,92**; Currency **Euro**; Beneficiary **A-BLOEMEN EN PLANTEN EXPORT BV** (Middel Broekweg 29, Unit 16, 2675KB Honselersdijk, Nederland); Account/IBAN **NL16 INGB 0009 3461 67**; Beneficiary Bank **ING** (AMSTERDAM, NEDERLAND); SWIFT **INGBNL2A**; Registration number **75454025**; VAT **NL860288808B01**; Director (signer) **Leanca Anatoli**. Компания-плательщик в документе не названа → 🔴 Step 0 (ждём заявку/компанию). check-all-tables по 75941.92 / A-BLOEMEN — совпадений нет (новая сделка).  | 📄 05.10.2026 (📨 Цветы, файл «P.pdf» — скан, читал вижном) — **INVOICE** (A-Bloemen en Planten Export B.V., Middel Broekweg 31A, 2675KC Honselersdijk, Nederland; IBAN NL16 INGB 0009 3461 67, ING BANK, SWIFT INGNL2A, BTW NL860288808B01, KVK 75454025) → **Customer Trans Logistik 1002 GmbH** (Urbanstrasse 84, 10967 Berlin, Duitsland; DE456959087): Invoice date **02-10-2026**, External Reference OrdNr **P**; позиция «**Prepayment For Cut Flowers**» — **75 941,92 EUR** (BTW 0,00 %). Проштампован/подписан. = инвойс-основание к форме реквизитов «A BLOEMEN 75.941,92.docx» (та же сделка, та же сумма 75 941,92 EUR) — новая строка не создаётся. Компания-плательщик не названа → строка остаётся 🔴 (Step 0).",
+    "notes": "📄 05.10.2026 (📨 Цветы, файл «A BLOEMEN 75.941,92.docx» — форма реквизитов) — **реквизиты / заявка на платёж**: Amount **75 941,92**; Currency **Euro**; Beneficiary **A-BLOEMEN EN PLANTEN EXPORT BV** (Middel Broekweg 29, Unit 16, 2675KB Honselersdijk, Nederland); Account/IBAN **NL16 INGB 0009 3461 67**; Beneficiary Bank **ING** (AMSTERDAM, NEDERLAND); SWIFT **INGBNL2A**; Registration number **75454025**; VAT **NL860288808B01**; Director (signer) **Leanca Anatoli**. Компания-плательщик в документе не названа → 🔴 Step 0 (ждём заявку/компанию). check-all-tables по 75941.92 / A-BLOEMEN — совпадений нет (новая сделка).  | 📄 05.10.2026 (📨 Цветы, файл «P.pdf» — скан, читал вижном) — **INVOICE** (A-Bloemen en Planten Export B.V., Middel Broekweg 31A, 2675KC Honselersdijk, Nederland; IBAN NL16 INGB 0009 3461 67, ING BANK, SWIFT INGNL2A, BTW NL860288808B01, KVK 75454025) → **Customer Trans Logistik 1002 GmbH** (Urbanstrasse 84, 10967 Berlin, Duitsland; DE456959087): Invoice date **02-10-2026**, External Reference OrdNr **P**; позиция «**Prepayment For Cut Flowers**» — **75 941,92 EUR** (BTW 0,00 %). Проштампован/подписан. = инвойс-основание к форме реквизитов «A BLOEMEN 75.941,92.docx» (та же сделка, та же сумма 75 941,92 EUR) — новая строка не создаётся. Компания-плательщик не названа → строка остаётся 🔴 (Step 0). | 📄 05.10.2026 (📨 Ордера и Расчеты) — **Payment from TRANS LOGI❗️** (ордер на платёж): Beneficiary **A-BLOEMEN EN PLANTEN EXPORT BV** (Middel Broekweg 29, Unit 16, 2675KB Honselersdijk, Nederland); Beneficiary bank **ING** (AMSTERDAM, NEDERLAND), SWIFT **INGBNL2A**, Account **NL16 INGB 0009 3461 67**; Payment details **INVOICE dd 02.10.26**; Amount **75 941,92 EUR**; **OUR**. Компания-плательщик названа (TRANS LOGI) → Step 3, ⬜. Та же сделка, что инвойс A-Bloemen (Customer Trans Logistik 1002 GmbH, 02-10-2026, 75 941,92 EUR, Prepayment For Cut Flowers) — строка одна, новая не создаётся.",
     "calc": null
   }
 ]
