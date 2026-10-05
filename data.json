@@ -4108,7 +4108,7 @@
       "company": "UK",
       "color": "FFFFFFFF",
       "clientName": "VDX",
-      "costFormula": null,
+      "costFormula": "30 800,00 × 1,0045 + 100 = 31 038,60 USDT",
       "extra": null,
       "rubles_received": null,
       "sent_rubles_vdx": null,
@@ -4116,7 +4116,26 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «76 furaveri 2181623 - PI.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **Furaveri Island Resort&Spa** (Furaveri Maldives, Raa Atoll, 20012, Maldives; Beneficiary Bank **Bank of Maldives**, BML BUILDING 11 BODUTHAKURUFAANU MAGU, MALE; SWIFT **MALBMVMV**; Account **7730-000076-909**), Payment details «**INV.2181623 DD.31.07.2026**», Amount **30 800,00 USD**, OUR. Приложен **PRO-FORMA INVOICE** (Furaveri Island Resort & Spa, TIN 1003226GST001, 31 July 2026): Guest **Mansurova, Irina** (Pax 2A/0C/0I), Room Beach Villa, Arrival 15/10/26 — Departure 22/10/26, Meal Plan Premium All Inclusive, Conf No **2181623**, TA Ref MANSUROVA, Balance Due **30 800,00 USD** (advance payment; agency commission withheld by payer). Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 30 800,00 × 1,0045 + 100 = 31 038,60 USDT.",
+      "calc": null
+    },
+    {
+      "row": 216,
+      "date": "2026-10-05",
+      "sum": 33360,
+      "currency": "USD",
+      "company": "UK",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": "33 360,00 × 1,0045 + 100 = 33 610,12 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «Invoice 97812.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **Kudakurathu Island Resort Pvt Ltd** (H. Aage Building, Boduthakurufaanu Magu, 20094 Male, Republic of Maldives; Bank **Bank of Maldives Plc**, P.O. Box 2053, Kudakurathu Island, Raa Atoll; SWIFT **MALBMVMV**; Account **7730000574586**), Payment details «**INV.146178 dd 23.09.2026**», Amount **33 360,00 USD**, OUR. Приложен **счёт** (Invoice 97812): Villa **RAAYA Residence**, Arrival 15-10-26 — Departure 25-10-26, 10 ночей, Adult/Child 4/2; Accommodation Charges 3 264,00 USD/ночь + Green Tax 72,00 USD/ночь; итог **33 360,00 USD**. Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192/215, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 33 360,00 × 1,0045 + 100 = 33 610,12 USDT.",
       "calc": null
     }
   ]
