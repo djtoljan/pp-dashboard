@@ -615,15 +615,15 @@
     "company": "ALTERA",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "24 951,07 EUR → 27 923 USD; 27 923 / (1-0,35%) + 100 = 28 121 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 28163.14,
-    "sent_usdt": null,
-    "notes": "📄 05.10.2026 (📨 Ордера и Расчеты ! — «**Payment from ALTERA❗️**», вложение «INV 24 951,07 EUR.pdf») — **ОРДЕР/ЗАЯВКА**: Beneficiary **AlteVia OU** (17-51 Tammepõllu tee, 74001 Haabneeme, Estonia); Beneficiary Bank **Coop Pank AS** (Maakri 30, Tallinn 15014), SWIFT **EKRDEE22**, Account **EE794204278622781603**; Payment details **INV.260363 dd 05.10.26**; Amount **24 951,07 EUR**; **OUR**. Вложенный PDF — **INVOICE nr 260363** dd 05.10.2026: Seller **AlteVia OÜ** → Buyer **ALTERA LOGISTICS LIMITED** (Company number 17015210, International House, 55 Longsmith Street, Gloucester, GL1 2HT, UK); позиция Musical instruments 1 pcs × 24 951,07; **TOTAL 24 951,07 EUR**, VAT 0%; Due date **14.10.2026**. Компания (E) = **ALTERA** (из «Payment from ALTERA»); линия AlteVia/ALTERA — Константин (ср. r14 инвойс 260330, r25 инвойс 260352). Сумма ордера = сумме инвойса; check-all-tables по 24 951,07 / 260363 — совпадений нет. Цвет ⬜ (Step 3, компания известна). Расчёт себестоимости — ждём от Scream. | 💱 05.10.2026 (📨 Ордера и Расчеты ! — скрин конвертера валют) — **кросс-курс EUR→USD = 1,11913143** (mid-market, 14:09 UTC): **€24 951,00 ≈ $27 923,44** (для этой строки, 24 951,07 EUR). Курс в calc (в notes), не в costFormula. | 💵 05.10.2026 (Scream: «**Под 24 951,07**») — приход **28 163,14 USDT** (Bobr IN на Рабочий 4 от `TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5`, 14:26 UTC; подтверждён скрином из 📨 Константин Просто Группа). `received_usdt = 28163.14` — под эту заявку (ALTERA/AlteVia, INV.260363, 24 951,07 EUR). Леджер `IN_28163.14_05.10.2026` (txid 20d5a868…4db25, q9_sent).",
-    "calc": null
+    "sent_usdt": 28121,
+    "notes": "📄 05.10.2026 (📨 Ордера и Расчеты ! — «**Payment from ALTERA❗️**», вложение «INV 24 951,07 EUR.pdf») — **ОРДЕР/ЗАЯВКА**: Beneficiary **AlteVia OU** (17-51 Tammepõllu tee, 74001 Haabneeme, Estonia); Beneficiary Bank **Coop Pank AS** (Maakri 30, Tallinn 15014), SWIFT **EKRDEE22**, Account **EE794204278622781603**; Payment details **INV.260363 dd 05.10.26**; Amount **24 951,07 EUR**; **OUR**. Вложенный PDF — **INVOICE nr 260363** dd 05.10.2026: Seller **AlteVia OÜ** → Buyer **ALTERA LOGISTICS LIMITED** (Company number 17015210, International House, 55 Longsmith Street, Gloucester, GL1 2HT, UK); позиция Musical instruments 1 pcs × 24 951,07; **TOTAL 24 951,07 EUR**, VAT 0%; Due date **14.10.2026**. Компания (E) = **ALTERA** (из «Payment from ALTERA»); линия AlteVia/ALTERA — Константин (ср. r14 инвойс 260330, r25 инвойс 260352). Сумма ордера = сумме инвойса; check-all-tables по 24 951,07 / 260363 — совпадений нет. Цвет ⬜ (Step 3, компания известна). Расчёт себестоимости — ждём от Scream. | 💱 05.10.2026 (📨 Ордера и Расчеты ! — скрин конвертера валют) — **кросс-курс EUR→USD = 1,11913143** (mid-market, 14:09 UTC): **€24 951,00 ≈ $27 923,44** (для этой строки, 24 951,07 EUR). Курс в calc (в notes), не в costFormula. | 💵 05.10.2026 (Scream: «**Под 24 951,07**») — приход **28 163,14 USDT** (Bobr IN на Рабочий 4 от `TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5`, 14:26 UTC; подтверждён скрином из 📨 Константин Просто Группа). `received_usdt = 28163.14` — под эту заявку (ALTERA/AlteVia, INV.260363, 24 951,07 EUR). Леджер `IN_28163.14_05.10.2026` (txid 20d5a868…4db25, q9_sent). | 💸 05.10.2026 (📨 Ордера и Расчеты !) — **заказ на выплату USDT** по сделке (24 951,07 EUR): база **27 923 USD** (= 24 951,07 EUR × 1,11913143) → **27 923 / (1-0,35%) + 100 = 28 121 USDT**; адрес выплаты (TRON) `TMkzhMw4inoWfbZjxj5BhEXBpjzQ32aDat`. `sent_usdt` = 28121.",
+    "calc": "ТЕЗ"
   }
 ]
