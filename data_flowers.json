@@ -1696,6 +1696,25 @@
   },
   {
     "row": 90,
+    "date": "2026-09-30",
+    "sum": 30000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ONETEAMCARGO (Цветы)",
+    "costFormula": "30 000,00 + 0,3% + 30 = 30 120,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 30120,
+    "notes": "📄 05.10.2026 (📨 Цветы, файл «ONETEAMCARGO S.A. 30000,00.pdf») — **COMERCIAL INVOICE (PROFORMA)** № **30092026** от 30/09/2026: продавец **ONETEAMCARGO S.A.** (RUC 1793058000001, Pasaje S/N y 24 de Septiembre, Quito, Ecuador) → Bill To **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиции: AWB $29 670,00 + CHA $80,00 + DAE $65,00 + AWC $35,00 + PICK UP $150,00 = **$30 000,00**. AWB «to be defined». Банк: **Produbanco** (Av. Simón Bolívar s/n y Vía Nayón, Quito), SWIFT **PRODECEQ**, счёт **12040835435 Ahorros**. Компания Q8; расчёт Q8 проставлен автоматически (30 000,00 + 0,3% + 30 = 30 120,00 USDT). ⚠️ Клиент ONETEAMCARGO — новый, в clients-db нет; уточнить у Scream/добавить.",
+    "calc": null
+  },
+  {
+    "row": 91,
     "date": "2026-10-01",
     "sum": 35000,
     "currency": "USD",
@@ -1714,7 +1733,7 @@
     "calc": null
   },
   {
-    "row": 91,
+    "row": 92,
     "date": "2026-10-01",
     "sum": 66756.66,
     "currency": "USD",
@@ -1733,7 +1752,7 @@
     "calc": null
   },
   {
-    "row": 92,
+    "row": 93,
     "date": "2026-10-01",
     "sum": 64450.24,
     "currency": "USD",
@@ -1752,7 +1771,7 @@
     "calc": null
   },
   {
-    "row": 93,
+    "row": 94,
     "date": "2026-10-02",
     "sum": null,
     "currency": null,
@@ -1771,7 +1790,7 @@
     "calc": null
   },
   {
-    "row": 94,
+    "row": 95,
     "date": "2026-10-05",
     "sum": 75941.92,
     "currency": "EUR",
@@ -1786,17 +1805,17 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 85376.62,
-    "notes": "📄 05.10.2026 (📨 Цветы, файл «A BLOEMEN 75.941,92.docx» — форма реквизитов) — **реквизиты / заявка на платёж**: Amount **75 941,92**; Currency **Euro**; Beneficiary **A-BLOEMEN EN PLANTEN EXPORT BV** (Middel Broekweg 29, Unit 16, 2675KB Honselersdijk, Nederland); Account/IBAN **NL16 INGB 0009 3461 67**; Beneficiary Bank **ING** (AMSTERDAM, NEDERLAND); SWIFT **INGBNL2A**; Registration number **75454025**; VAT **NL860288808B01**; Director (signer) **Leanca Anatoli**. Компания-плательщик в документе не названа → 🔴 Step 0 (ждём заявку/компанию). check-all-tables по 75941.92 / A-BLOEMEN — совпадений нет (новая сделка).  | 📄 05.10.2026 (📨 Цветы, файл «P.pdf» — скан, читал вижном) — **INVOICE** (A-Bloemen en Planten Export B.V., Middel Broekweg 31A, 2675KC Honselersdijk, Nederland; IBAN NL16 INGB 0009 3461 67, ING BANK, SWIFT INGNL2A, BTW NL860288808B01, KVK 75454025) → **Customer Trans Logistik 1002 GmbH** (Urbanstrasse 84, 10967 Berlin, Duitsland; DE456959087): Invoice date **02-10-2026**, External Reference OrdNr **P**; позиция «**Prepayment For Cut Flowers**» — **75 941,92 EUR** (BTW 0,00 %). Проштампован/подписан. = инвойс-основание к форме реквизитов «A BLOEMEN 75.941,92.docx» (та же сделка, та же сумма 75 941,92 EUR) — новая строка не создаётся. Компания-плательщик не названа → строка остаётся 🔴 (Step 0). | 📄 05.10.2026 (📨 Ордера и Расчеты) — **Payment from TRANS LOGI❗️** (ордер на платёж): Beneficiary **A-BLOEMEN EN PLANTEN EXPORT BV** (Middel Broekweg 29, Unit 16, 2675KB Honselersdijk, Nederland); Beneficiary bank **ING** (AMSTERDAM, NEDERLAND), SWIFT **INGBNL2A**, Account **NL16 INGB 0009 3461 67**; Payment details **INVOICE dd 02.10.26**; Amount **75 941,92 EUR**; **OUR**. Компания-плательщик названа (TRANS LOGI) → Step 3, ⬜. Та же сделка, что инвойс A-Bloemen (Customer Trans Logistik 1002 GmbH, 02-10-2026, 75 941,92 EUR, Prepayment For Cut Flowers) — строка одна, новая не создаётся. | 📈 Кросс-курс EUR/USD = **1,12026** (XE.com, 05.10.2026 10:53 UTC; 1 USD = 0,89265 EUR) — справочно к EUR-сделке TRANS LOGI/A-BLOEMEN. Компания не Q8 → расчёт себестоимости только от Scream. | 🎙 05.10.2026 (Scream, voice, reply на расчёт): «всё правильно, это расчёт себестоимости; платим этот платёж через Translogistik; я USDT под него отправил» — Bobr OUT 85 376,62 USDT подтверждён как оплата ЭТОЙ сделки (строка 94). | 🛡️ 05.10.2026: движение OUT 85376.62 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:94).",
+    "notes": "📄 05.10.2026 (📨 Цветы, файл «A BLOEMEN 75.941,92.docx» — форма реквизитов) — **реквизиты / заявка на платёж**: Amount **75 941,92**; Currency **Euro**; Beneficiary **A-BLOEMEN EN PLANTEN EXPORT BV** (Middel Broekweg 29, Unit 16, 2675KB Honselersdijk, Nederland); Account/IBAN **NL16 INGB 0009 3461 67**; Beneficiary Bank **ING** (AMSTERDAM, NEDERLAND); SWIFT **INGBNL2A**; Registration number **75454025**; VAT **NL860288808B01**; Director (signer) **Leanca Anatoli**. Компания-плательщик в документе не названа → 🔴 Step 0 (ждём заявку/компанию). check-all-tables по 75941.92 / A-BLOEMEN — совпадений нет (новая сделка).  | 📄 05.10.2026 (📨 Цветы, файл «P.pdf» — скан, читал вижном) — **INVOICE** (A-Bloemen en Planten Export B.V., Middel Broekweg 31A, 2675KC Honselersdijk, Nederland; IBAN NL16 INGB 0009 3461 67, ING BANK, SWIFT INGNL2A, BTW NL860288808B01, KVK 75454025) → **Customer Trans Logistik 1002 GmbH** (Urbanstrasse 84, 10967 Berlin, Duitsland; DE456959087): Invoice date **02-10-2026**, External Reference OrdNr **P**; позиция «**Prepayment For Cut Flowers**» — **75 941,92 EUR** (BTW 0,00 %). Проштампован/подписан. = инвойс-основание к форме реквизитов «A BLOEMEN 75.941,92.docx» (та же сделка, та же сумма 75 941,92 EUR) — новая строка не создаётся. Компания-плательщик не названа → строка остаётся 🔴 (Step 0). | 📄 05.10.2026 (📨 Ордера и Расчеты) — **Payment from TRANS LOGI❗️** (ордер на платёж): Beneficiary **A-BLOEMEN EN PLANTEN EXPORT BV** (Middel Broekweg 29, Unit 16, 2675KB Honselersdijk, Nederland); Beneficiary bank **ING** (AMSTERDAM, NEDERLAND), SWIFT **INGBNL2A**, Account **NL16 INGB 0009 3461 67**; Payment details **INVOICE dd 02.10.26**; Amount **75 941,92 EUR**; **OUR**. Компания-плательщик названа (TRANS LOGI) → Step 3, ⬜. Та же сделка, что инвойс A-Bloemen (Customer Trans Logistik 1002 GmbH, 02-10-2026, 75 941,92 EUR, Prepayment For Cut Flowers) — строка одна, новая не создаётся. | 📈 Кросс-курс EUR/USD = **1,12026** (XE.com, 05.10.2026 10:53 UTC; 1 USD = 0,89265 EUR) — справочно к EUR-сделке TRANS LOGI/A-BLOEMEN. Компания не Q8 → расчёт себестоимости только от Scream. | 🎙 05.10.2026 (Scream, voice, reply на расчёт): «всё правильно, это расчёт себестоимости; платим этот платёж через Translogistik; я USDT под него отправил» — Bobr OUT 85 376,62 USDT подтверждён как оплата ЭТОЙ сделки (строка 94). | 🛡️ 05.10.2026: движение OUT 85376.62 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:94). | 📄 05.10.2026 (📨 Цветы, файл «ONETEAMCARGO S.A. 30000,00.docx») — **SWIFT-инструкция** к тому же платежу (MT-поля): 59 Beneficiary Customer ONETEAMCARGO S.A.; адрес AV. 24 DE SEPTIEMBRE S/N Y PASAJE S/N; IBAN/счёт **12040835435**; банк **PRODUBANCO** (Ave Simón Bolívar S/N y Vía Nayón, Centro Corporativo Ekopark, Torre 1, Quito); 57 SWIFT **PRODECEQ**; 32A: **USD 30 000,00**; 71A **OUR**. Реквизиты совпадают с инвойсом 30092026 — новой строки не создаю.",
     "calc": null
   },
   {
-    "row": 95,
-    "date": "2026-09-30",
+    "row": 96,
+    "date": "2026-10-05",
     "sum": 30000,
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "ONETEAMCARGO (Цветы)",
+    "clientName": "EBF CARGO (Цветы)",
     "costFormula": "30 000,00 + 0,3% + 30 = 30 120,00 USDT",
     "extra": null,
     "rubles_received": null,
