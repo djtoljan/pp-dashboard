@@ -3964,7 +3964,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 20190,
-      "notes": "📄 02.10.2026 (📨 Платежи VDX, подпись «Payment from Trevelcom❗️», файл «6 Kuda Vilingili 504486.1 20 000 usd.pdf») — **ордер на платёж / PROFORMA INVOICE № 504486.1 от 03.07.2026** (отель, Maldives; Conf. No. 504486, Cashier 102, гость FO-RAYYAAN, заезд 06-10-26, выезд 15-10-26): получатель **MFAR KUDAVILLINGILI PRIVATE LIMITED** (3rd Floor (3B) H. Nereen, Majeedheemagu, Male 20042, Maldives); банк **Bank of Maldives** (No.11, Boduthakurufaanu Magu, Male, Rep. of Maldives), SWIFT **MALBMVMV**, счёт **7730000224681**; Payment details «INV.504486.1 DD.03/07/26»; Amount **20 000,00 USD**; **OUR**. «The agency commission is withheld by the payer independently». Клиент строки — **VDX** (канал «Платежи VDX»), компания — **UK** (по прецеденту подписи «Payment from Trevelcom/Travelcom», rows 67/68/95/148/178/180/190). Расчёт (UK-тариф) — не-Q8, ждём формулу владельца. | 🛡️ 02.10.2026: движение OUT 20190 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:215). | 🟡 02.10.2026 (📨 ПП компании UK, файл «MFAR KUD 20k usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**), Beneficiary **MFAR KUDAVILLINGILI PRIVATELIMITED** (IBAN 7730000224681, BIC MALBMVMV), Amount **20 000,00 USD** (twenty thousand US dollars), Details «INV.504486.1 DD.03/07/26», Execution Date 10/02/2026. **Штамп Bank's confirmation: IN PROCESS** — подвешенная ПП (отправлено, ещё не исполнено). Цвет ⬜→🟡 (INITIATED); ждём EXECUTED → 🟢. | ✏️ 04.10.2026 (Scream, тариф UK) — costFormula вписан: `20 000,00 + 0,45% = 20 090 → +100 = 20 190 USDT` (sent_usdt = 20190, стоит).",
+      "notes": "📄 02.10.2026 (📨 Платежи VDX, подпись «Payment from Trevelcom❗️», файл «6 Kuda Vilingili 504486.1 20 000 usd.pdf») — **ордер на платёж / PROFORMA INVOICE № 504486.1 от 03.07.2026** (отель, Maldives; Conf. No. 504486, Cashier 102, гость FO-RAYYAAN, заезд 06-10-26, выезд 15-10-26): получатель **MFAR KUDAVILLINGILI PRIVATE LIMITED** (3rd Floor (3B) H. Nereen, Majeedheemagu, Male 20042, Maldives); банк **Bank of Maldives** (No.11, Boduthakurufaanu Magu, Male, Rep. of Maldives), SWIFT **MALBMVMV**, счёт **7730000224681**; Payment details «INV.504486.1 DD.03/07/26»; Amount **20 000,00 USD**; **OUR**. «The agency commission is withheld by the payer independently». Клиент строки — **VDX** (канал «Платежи VDX»), компания — **UK** (по прецеденту подписи «Payment from Trevelcom/Travelcom», rows 67/68/95/148/178/180/190). Расчёт (UK-тариф) — не-Q8, ждём формулу владельца. | 🛡️ 02.10.2026: движение OUT 20190 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:215). | 🟡 02.10.2026 (📨 ПП компании UK, файл «MFAR KUD 20k usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**), Beneficiary **MFAR KUDAVILLINGILI PRIVATELIMITED** (IBAN 7730000224681, BIC MALBMVMV), Amount **20 000,00 USD** (twenty thousand US dollars), Details «INV.504486.1 DD.03/07/26», Execution Date 10/02/2026. **Штамп Bank's confirmation: IN PROCESS** — подвешенная ПП (отправлено, ещё не исполнено). Цвет ⬜→🟡 (INITIATED); ждём EXECUTED → 🟢. | ✏️ 04.10.2026 (Scream, тариф UK) — costFormula вписан: `20 000,00 + 0,45% = 20 090 → +100 = 20 190 USDT` (sent_usdt = 20190, стоит). | 🟢 05.10.2026 (📨 ПП компании UK, файл «MFAR Kudav 20k usd.pdf», UETR a0b054d3-cf4c-400a-8df1-451fdda4f4ea) — **PAYMENT ORDER DEBIT ADVICE**: штамп Bank’s confirmation **EXECUTED** (прочитан рендером) → исполнено → строка 🟡→🟢 (Step 6). Remitter **TRAVELCOM LIMITED** (IBAN GB72TONI04282200006501) → Beneficiary **MFAR KUDAVILLINGILI PRIVATELIMITED** (IBAN 7730000224681, BIC MALBMVMV), **20 000,00 USD** (twenty thousand US dollars), Details «INV.504486.1 DD.03/07/26», Execution Date 10/02/2026.",
       "calc": "ТЕЗ"
     },
     {
@@ -4098,6 +4098,25 @@
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "📄 05.10.2026 (📨 Платежи VDX, файл «Invoice_39241-1.pdf») — **ПРОФОРМА-ИНВОЙС (Тип 1)** «INVOICE #39241-1 от 30.09.2026» (Luxe voyage FZCO, Unit No: 4402 DMCC Business Centre, Level 1 Jewellery & Gemplex 3, Dubai, UAE; www.luxevoyage.mu) для туриста **GREF / YANA MRS** (TOTAL 1 PAX): **Four Seasons Seychelles at Desroches Island 5*** (Seychelles) / 2 Bedroom residence / BB / 5 PAX; даты **28.12.26–01.01.27**, 4 нт × 10 021 EUR/room/night = **29 000,00 EUR**. Payment due date **05.10.2026**. Банк: **EMIRATES NBD** (Dubai, UAE), EUR a/c **AE340260000515630840203**, SWIFT **EBILAEAD**, charge **OUR**. Step 0 → 🔴 (компания-плательщик не названа). ⚠️ Клиент не определён (check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет) — уточнить у Scream. check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет.",
+      "calc": null
+    },
+    {
+      "row": 215,
+      "date": "2026-10-05",
+      "sum": 30800,
+      "currency": "USD",
+      "company": "UK",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
       "calc": null
     }
   ]
