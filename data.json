@@ -4268,7 +4268,7 @@
       "vdx_rate": null,
       "received_usdt": 15407.61,
       "sent_usdt": 15407.61,
-      "notes": "📄 06.10.2026 (📨 Платежи VDX, «**Payment from Travelcom❗️**», файл «26836-3_FNB.pdf») — 🧾 Заявка/ордер: Beneficiary **Zenith Tours and Safaris Pty Ltd** (Un 52 Baviaanskloof Rd, Cape Town, RSA); Bank **FIRSTRAND BANK LIMITED / First National Bank South Africa** (50 Bath Avenue, Rosebank, Johannesburg), SWIFT **FIRNZAJJ**, account **63188186671**; Payment details **INV.ZTS-26836-3 dd.01.09.2026**; Amount **15 239,00 USD**; **OUR**. Приложен инвойс **ZTS-26836-3 dd 01.09.2026** (Zenith Tours and Safaris; туры Mrs. Rimma KOAK 2pax & Mr. Denis Ovsyannikov 2pax, 10.10–23.10.26), Invoice Total **15 239,00 USD** = сумма ордера. Клиент — **VDX**, компания — **UK** (схема UK/VDX, TRAVELCOM LIMITED). ⬜ Step 3 (компания известна). Расчёт: `15 239,00 × 1,0045 + 100 = 15 407,61 USDT`. | 💰 06.10.2026 (Scream — разбивка прихода **138 374 USDT** под 5 UK/VDX-сделок): приход USDT по этой сделке = **15407.61** (Bobr IN 138 374 USDT от `TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G` — Толик/возмещение VDX, Рабочий 4, 06.10.2026 10:23:21 UTC). `received_usdt` = 15407.61.",
+      "notes": "📄 06.10.2026 (📨 Платежи VDX, «**Payment from Travelcom❗️**», файл «26836-3_FNB.pdf») — 🧾 Заявка/ордер: Beneficiary **Zenith Tours and Safaris Pty Ltd** (Un 52 Baviaanskloof Rd, Cape Town, RSA); Bank **FIRSTRAND BANK LIMITED / First National Bank South Africa** (50 Bath Avenue, Rosebank, Johannesburg), SWIFT **FIRNZAJJ**, account **63188186671**; Payment details **INV.ZTS-26836-3 dd.01.09.2026**; Amount **15 239,00 USD**; **OUR**. Приложен инвойс **ZTS-26836-3 dd 01.09.2026** (Zenith Tours and Safaris; туры Mrs. Rimma KOAK 2pax & Mr. Denis Ovsyannikov 2pax, 10.10–23.10.26), Invoice Total **15 239,00 USD** = сумма ордера. Клиент — **VDX**, компания — **UK** (схема UK/VDX, TRAVELCOM LIMITED). ⬜ Step 3 (компания известна). Расчёт: `15 239,00 × 1,0045 + 100 = 15 407,61 USDT`. | 💰 06.10.2026 (Scream — разбивка прихода **138 374 USDT** под 5 UK/VDX-сделок): приход USDT по этой сделке = **15407.61** (Bobr IN 138 374 USDT от `TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G` — Толик/возмещение VDX, Рабочий 4, 06.10.2026 10:23:21 UTC). `received_usdt` = 15407.61. | 📄 06.10.2026 (📨 ПП компании UK, файл «Zenith Tours 15239 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange, Tonio): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**) → Beneficiary **Zenith Tours and Safaris Pty Ltd** (IBAN **63188186671**, BIC **FIRNZAJJ**); Amount **15 239,00 USD**; Details **INV.ZTS-26836-3 dd.01.09.2026**; Execution Date **10/06/2026**; штамп **Bank's confirmation = IN PROCESS** → подвешенная ПП (INITIATED) → ⬜→🟡.",
       "calc": "ТЕЗ"
     },
     {
@@ -4277,7 +4277,7 @@
       "sum": 8812.8,
       "currency": "USD",
       "company": null,
-      "color": "FFFF0000",
+      "color": "FFFFFFFF",
       "clientName": "VDX",
       "costFormula": "8 812,80 × 1,0045 + 100 = 8 952,46 USDT",
       "extra": null,
