@@ -4086,8 +4086,8 @@
       "date": "2026-10-05",
       "sum": 29000,
       "currency": "EUR",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "UK",
+      "color": "FFFFFFFF",
       "clientName": "Luxe Voyage (туризм)",
       "costFormula": null,
       "extra": null,
@@ -4097,7 +4097,7 @@
       "vdx_rate": null,
       "received_usdt": 32729,
       "sent_usdt": null,
-      "notes": "📄 05.10.2026 (📨 Платежи VDX, файл «Invoice_39241-1.pdf») — **ПРОФОРМА-ИНВОЙС (Тип 1)** «INVOICE #39241-1 от 30.09.2026» (Luxe voyage FZCO, Unit No: 4402 DMCC Business Centre, Level 1 Jewellery & Gemplex 3, Dubai, UAE; www.luxevoyage.mu) для туриста **GREF / YANA MRS** (TOTAL 1 PAX): **Four Seasons Seychelles at Desroches Island 5*** (Seychelles) / 2 Bedroom residence / BB / 5 PAX; даты **28.12.26–01.01.27**, 4 нт × 10 021 EUR/room/night = **29 000,00 EUR**. Payment due date **05.10.2026**. Банк: **EMIRATES NBD** (Dubai, UAE), EUR a/c **AE340260000515630840203**, SWIFT **EBILAEAD**, charge **OUR**. Step 0 → 🔴 (компания-плательщик не названа). ⚠️ Клиент не определён (check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет) — уточнить у Scream. check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 32729 (раскладка Scream/M.N. 05.10.2026).",
+      "notes": "📄 05.10.2026 (📨 Платежи VDX, файл «Invoice_39241-1.pdf») — **ПРОФОРМА-ИНВОЙС (Тип 1)** «INVOICE #39241-1 от 30.09.2026» (Luxe voyage FZCO, Unit No: 4402 DMCC Business Centre, Level 1 Jewellery & Gemplex 3, Dubai, UAE; www.luxevoyage.mu) для туриста **GREF / YANA MRS** (TOTAL 1 PAX): **Four Seasons Seychelles at Desroches Island 5*** (Seychelles) / 2 Bedroom residence / BB / 5 PAX; даты **28.12.26–01.01.27**, 4 нт × 10 021 EUR/room/night = **29 000,00 EUR**. Payment due date **05.10.2026**. Банк: **EMIRATES NBD** (Dubai, UAE), EUR a/c **AE340260000515630840203**, SWIFT **EBILAEAD**, charge **OUR**. Step 0 → 🔴 (компания-плательщик не названа). ⚠️ Клиент не определён (check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет) — уточнить у Scream. check-all-tables по 29000 EUR / Luxe Voyage / 39241 — совпадений нет. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 32729 (раскладка Scream/M.N. 05.10.2026). | 📄 06.10.2026 (📨 ПП компании UK, файл «Luxe Voyage FZCO 29k eur.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX, Tonio): Remitter **TRAVELCOM LIMITED** (IBAN **GB13TONI04282200006496**) → Beneficiary **LUXE VOYAGE FZCO** (IBAN **AE340260000515630840203**, BIC **EBILAEAD**); Amount **29 000,00 EUR**; Details **INV.39241-1 dd.30.09.2026**; Execution Date **10/06/2026**; штамп **Bank's confirmation = IN PROCESS** → подвешенная ПП (INITIATED). Компания раскрыта → UK (схема UK/VDX, TRAVELCOM). 🔴→⬜→🟡.",
       "calc": null
     },
     {
