@@ -1795,7 +1795,7 @@
     "sum": 68200,
     "currency": "EUR",
     "company": "SURYA",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Архимед (Молодёжь)",
     "costFormula": "68 200 EUR × 1.12044118 = 76 414 USD + 0,7% = 76 949 USDT",
     "extra": null,
