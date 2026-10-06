@@ -4327,6 +4327,25 @@
       "sent_usdt": 31189.28,
       "notes": "📄 06.10.2026 (📨 Платежи VDX — «**Payment from  ❗️**», файл «7 Pro Forma Invoice - 277661.pdf») — **Заявка (Тип 4) / ордер на платёж**: Beneficiary **IFURU INVESTMENTS PVT LTD** (Ifuru, Raa Atoll, Maldives); банк **COMMERCIAL BANK OF MALDIVES PRIVATE LIMITED** (H. FILIGASDHOSHUGE, AMEERU AHMED MAGU, MALE' 20066, MALDIVES), SWIFT **CBMVMVMV**, account **1000008225**; Payment details **INV.283648 dd.11.02.2026**; Amount **30 950,00 USD**; **OUR**. Вложенная **pro-forma invoice**: Hotel Ref **277661** / Folio Invoice No **283648**, Guest **Mr. Viacheslav Filin**, 19-10-26 → 02-11-26 (14 ночей), villa BSC / TA Ref FILIN, 4/1 pax; позиции — Transportation (Domestic/SVC/TGST) + Exclusive Accommodation Package + Green Tax; **Total USD 30 950,00** (advance payment). Клиент — **VDX**, компания — **UK** (схема UK/VDX; форма «Payment from ❗️» как row 222/225). ⬜ Step 3 (компания известна). Расчёт: `30 950 × 1,0045 + 100 = 31 189,28 USDT`.",
       "calc": "ТЕЗ"
+    },
+    {
+      "row": 227,
+      "date": "2026-10-06",
+      "sum": 88550,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
