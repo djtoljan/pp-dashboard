@@ -4163,7 +4163,7 @@
       "sum": 28606.1,
       "currency": "EUR",
       "company": "Mondschein Bau GmbH",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "Неско (ЭТБ)",
       "costFormula": "(28 606,10 × 1,002 + 60) × 1,1269 = 32 368,30 USDT",
       "extra": null,
