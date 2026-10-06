@@ -4182,7 +4182,7 @@
       "sum": 40362,
       "currency": "USD",
       "company": "UK",
-      "color": "FFFFFF00",
+      "color": "FF92D050",
       "clientName": "VDX",
       "costFormula": null,
       "extra": null,
@@ -4325,7 +4325,7 @@
       "vdx_rate": null,
       "received_usdt": 31189.28,
       "sent_usdt": 31189.28,
-      "notes": "📄 06.10.2026 (📨 Платежи VDX — «**Payment from  ❗️**», файл «7 Pro Forma Invoice - 277661.pdf») — **Заявка (Тип 4) / ордер на платёж**: Beneficiary **IFURU INVESTMENTS PVT LTD** (Ifuru, Raa Atoll, Maldives); банк **COMMERCIAL BANK OF MALDIVES PRIVATE LIMITED** (H. FILIGASDHOSHUGE, AMEERU AHMED MAGU, MALE' 20066, MALDIVES), SWIFT **CBMVMVMV**, account **1000008225**; Payment details **INV.283648 dd.11.02.2026**; Amount **30 950,00 USD**; **OUR**. Вложенная **pro-forma invoice**: Hotel Ref **277661** / Folio Invoice No **283648**, Guest **Mr. Viacheslav Filin**, 19-10-26 → 02-11-26 (14 ночей), villa BSC / TA Ref FILIN, 4/1 pax; позиции — Transportation (Domestic/SVC/TGST) + Exclusive Accommodation Package + Green Tax; **Total USD 30 950,00** (advance payment). Клиент — **VDX**, компания — **UK** (схема UK/VDX; форма «Payment from ❗️» как row 222/225). ⬜ Step 3 (компания известна). Расчёт: `30 950 × 1,0045 + 100 = 31 189,28 USDT`. | 💰 06.10.2026 (Scream — разбивка прихода **138 374 USDT** под 5 UK/VDX-сделок): приход USDT по этой сделке = **31189.28** (Bobr IN 138 374 USDT от `TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G` — Толик/возмещение VDX, Рабочий 4, 06.10.2026 10:23:21 UTC). `received_usdt` = 31189.28.",
+      "notes": "📄 06.10.2026 (📨 Платежи VDX — «**Payment from  ❗️**», файл «7 Pro Forma Invoice - 277661.pdf») — **Заявка (Тип 4) / ордер на платёж**: Beneficiary **IFURU INVESTMENTS PVT LTD** (Ifuru, Raa Atoll, Maldives); банк **COMMERCIAL BANK OF MALDIVES PRIVATE LIMITED** (H. FILIGASDHOSHUGE, AMEERU AHMED MAGU, MALE' 20066, MALDIVES), SWIFT **CBMVMVMV**, account **1000008225**; Payment details **INV.283648 dd.11.02.2026**; Amount **30 950,00 USD**; **OUR**. Вложенная **pro-forma invoice**: Hotel Ref **277661** / Folio Invoice No **283648**, Guest **Mr. Viacheslav Filin**, 19-10-26 → 02-11-26 (14 ночей), villa BSC / TA Ref FILIN, 4/1 pax; позиции — Transportation (Domestic/SVC/TGST) + Exclusive Accommodation Package + Green Tax; **Total USD 30 950,00** (advance payment). Клиент — **VDX**, компания — **UK** (схема UK/VDX; форма «Payment from ❗️» как row 222/225). ⬜ Step 3 (компания известна). Расчёт: `30 950 × 1,0045 + 100 = 31 189,28 USDT`. | 💰 06.10.2026 (Scream — разбивка прихода **138 374 USDT** под 5 UK/VDX-сделок): приход USDT по этой сделке = **31189.28** (Bobr IN 138 374 USDT от `TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G` — Толик/возмещение VDX, Рабочий 4, 06.10.2026 10:23:21 UTC). `received_usdt` = 31189.28. | 📄 06.10.2026 (📨 ПП компании UK, файл «IFURU Invest 30950 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange, Tonio): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**) → Beneficiary **IFURU INVESTMENTS PVT LTD** (IBAN **1000008225**, BIC **CBMVMVMV**); Amount **30 950,00 USD**; Details **INV.283648 dd.11.02.2026**; Execution Date **10/06/2026**; штамп **Bank's confirmation = IN PROCESS** → подвешенная ПП (INITIATED) → ⬜→🟡.",
       "calc": "ТЕЗ"
     },
     {
