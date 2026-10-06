@@ -4306,7 +4306,7 @@
       "vdx_rate": null,
       "received_usdt": 39559.3,
       "sent_usdt": 39559.3,
-      "notes": "📄 06.10.2026 (📨 Платежи VDX — «**Payment from  ❗️**», файл «39 282,53 USD C2H.pdf») — **Заявка (Тип 4) / ордер на платёж**: Beneficiary **C2H Turizm ve Bilişim A.Ş.** (Zara Apt. Sitesi, Çağlayan Mahallesi, Fener Caddesi, No:50/3, Muratpaşa, Antalya); банк **GarantiBank, Lara Branch** (Branch Code 535), SWIFT **TGBATRISXX**, IBAN **TR68 0006 2000 5350 0009 0605 99**; Payment details **INV.C2H-072026-02 dd.24.07.2026 + INV.C2H-092026-08 dd.15.09.2026**; Amount **39 282,53 USD**; **OUR**. Вложенный INVOICE TEXT FOR CURRENCY CONTROL (VED): **C2H-092026-08 dd 15.09.2026**, Contract **М/27/03/2026-С2Н dd 27.03.2026** — услуги администрирования персонала в Грузии (Сухуми, Гори), период 01.08–31.08.2026, Applications №16/17 dd 28.07.2026, 523 работника; **TOTAL AMOUNT DUE USD 39 282,53**. Клиент — **VDX**, компания — **UK** (схема UK/VDX; форма «Payment from ❗️» как у row 222/216/217). ⬜ Step 3 (компания известна). Расчёт: `39 282,53 × 1,0045 + 100 = 39 559,30 USDT`. | 💰 06.10.2026 (Scream — разбивка прихода **138 374 USDT** под 5 UK/VDX-сделок): приход USDT по этой сделке = **39559.30** (Bobr IN 138 374 USDT от `TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G` — Толик/возмещение VDX, Рабочий 4, 06.10.2026 10:23:21 UTC). `received_usdt` = 39559.30.",
+      "notes": "📄 06.10.2026 (📨 Платежи VDX — «**Payment from  ❗️**», файл «39 282,53 USD C2H.pdf») — **Заявка (Тип 4) / ордер на платёж**: Beneficiary **C2H Turizm ve Bilişim A.Ş.** (Zara Apt. Sitesi, Çağlayan Mahallesi, Fener Caddesi, No:50/3, Muratpaşa, Antalya); банк **GarantiBank, Lara Branch** (Branch Code 535), SWIFT **TGBATRISXX**, IBAN **TR68 0006 2000 5350 0009 0605 99**; Payment details **INV.C2H-072026-02 dd.24.07.2026 + INV.C2H-092026-08 dd.15.09.2026**; Amount **39 282,53 USD**; **OUR**. Вложенный INVOICE TEXT FOR CURRENCY CONTROL (VED): **C2H-092026-08 dd 15.09.2026**, Contract **М/27/03/2026-С2Н dd 27.03.2026** — услуги администрирования персонала в Грузии (Сухуми, Гори), период 01.08–31.08.2026, Applications №16/17 dd 28.07.2026, 523 работника; **TOTAL AMOUNT DUE USD 39 282,53**. Клиент — **VDX**, компания — **UK** (схема UK/VDX; форма «Payment from ❗️» как у row 222/216/217). ⬜ Step 3 (компания известна). Расчёт: `39 282,53 × 1,0045 + 100 = 39 559,30 USDT`. | 💰 06.10.2026 (Scream — разбивка прихода **138 374 USDT** под 5 UK/VDX-сделок): приход USDT по этой сделке = **39559.30** (Bobr IN 138 374 USDT от `TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G` — Толик/возмещение VDX, Рабочий 4, 06.10.2026 10:23:21 UTC). `received_usdt` = 39559.30. | 📄 06.10.2026 (📨 ПП компании UK, файл «C2H Tur 39282.53 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange, Tonio): Remitter **RUMORS LIMITED** (IBAN **GB32TONI04282200007124**) → Beneficiary **C2H Turizm ve Bilisim A.S.** (IBAN **TR680006200053500009060599**, BIC **TGBATRISXX**); Amount **39 282,53 USD**; Details **INV C2H-072026-02, INV C2H-092026-08**; Execution Date **10/06/2026**; штамп **Bank's confirmation = IN PROCESS** → подвешенная ПП (INITIATED) → ⬜→🟡.",
       "calc": "ТЕЗ"
     },
     {
@@ -4315,7 +4315,7 @@
       "sum": 30950,
       "currency": "USD",
       "company": "UK",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "VDX",
       "costFormula": "30 950 × 1,0045 + 100 = 31 189,28 USDT",
       "extra": null,
