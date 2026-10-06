@@ -4287,7 +4287,7 @@
       "vdx_rate": null,
       "received_usdt": 8952.46,
       "sent_usdt": 8952.46,
-      "notes": "📄 06.10.2026 (📨 Платежи VDX, файл «invoice 5T24Z2.pdf») — **Elevate DMC / ELEVATE TOURISM LLC** (Dubai; тел. +971 4 216 0600): Booking ID **5T24Z2** — **Jumeirah Beach Hotel Dubai**, holder **NIKOLAY EYRIYAN**, 2 pax, 11/6/2026, external code 5312B6197062, Price 8 812,80 / Taxes 0,00 / **Total 8 812,80 USD**. Банк: **EMIRATES NBD BANK PJSC** (Company name: ELEVATE TOURISM LLC), account **1025774459102**, IBAN **AE180260001025774459102**, SWIFT **EBILAEAD**, DUBAI-SATWA, UAE. Компания-плательщик не названа → **🔴 (Step 0)**. Клиент — **VDX** (группа-источник «📨 Платежи VDX»). check-all-tables по 8812 / 5T24Z2 / Elevate / Eyriyan — совпадений нет (новая сделка). | 💰 06.10.2026 (Scream — разбивка прихода **138 374 USDT** под 5 UK/VDX-сделок): приход USDT по этой сделке = **8952.46** (Bobr IN 138 374 USDT от `TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G` — Толик/возмещение VDX, Рабочий 4, 06.10.2026 10:23:21 UTC). `received_usdt` = 8952.46.",
+      "notes": "📄 06.10.2026 (📨 Платежи VDX, файл «invoice 5T24Z2.pdf») — **Elevate DMC / ELEVATE TOURISM LLC** (Dubai; тел. +971 4 216 0600): Booking ID **5T24Z2** — **Jumeirah Beach Hotel Dubai**, holder **NIKOLAY EYRIYAN**, 2 pax, 11/6/2026, external code 5312B6197062, Price 8 812,80 / Taxes 0,00 / **Total 8 812,80 USD**. Банк: **EMIRATES NBD BANK PJSC** (Company name: ELEVATE TOURISM LLC), account **1025774459102**, IBAN **AE180260001025774459102**, SWIFT **EBILAEAD**, DUBAI-SATWA, UAE. Компания-плательщик не названа → **🔴 (Step 0)**. Клиент — **VDX** (группа-источник «📨 Платежи VDX»). check-all-tables по 8812 / 5T24Z2 / Elevate / Eyriyan — совпадений нет (новая сделка). | 💰 06.10.2026 (Scream — разбивка прихода **138 374 USDT** под 5 UK/VDX-сделок): приход USDT по этой сделке = **8952.46** (Bobr IN 138 374 USDT от `TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G` — Толик/возмещение VDX, Рабочий 4, 06.10.2026 10:23:21 UTC). `received_usdt` = 8952.46. | 📄 06.10.2026 (📨 ПП компании UK, файл «Elevate Tourizm LLC 8812.80 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange, Tonio): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**) → Beneficiary **ELEVATE TOURISM LLC** (IBAN **AE180260001025774459102**, BIC **EBILAEAD**); Amount **8 812,80 USD**; Details **INV.5T24Z2**; Execution Date **10/06/2026**; штамп **Bank's confirmation = IN PROCESS** → подвешенная ПП (INITIATED) → 🔴→⬜→🟡.",
       "calc": "ТЕЗ"
     },
     {
@@ -4296,7 +4296,7 @@
       "sum": 39282.53,
       "currency": "USD",
       "company": "UK",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "VDX",
       "costFormula": "39 282,53 × 1,0045 + 100 = 39 559,30 USDT",
       "extra": null,
