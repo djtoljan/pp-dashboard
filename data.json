@@ -4135,7 +4135,7 @@
       "vdx_rate": null,
       "received_usdt": 33610,
       "sent_usdt": null,
-      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «Invoice 97812.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **Kudakurathu Island Resort Pvt Ltd** (H. Aage Building, Boduthakurufaanu Magu, 20094 Male, Republic of Maldives; Bank **Bank of Maldives Plc**, P.O. Box 2053, Kudakurathu Island, Raa Atoll; SWIFT **MALBMVMV**; Account **7730000574586**), Payment details «**INV.146178 dd 23.09.2026**», Amount **33 360,00 USD**, OUR. Приложен **счёт** (Invoice 97812): Villa **RAAYA Residence**, Arrival 15-10-26 — Departure 25-10-26, 10 ночей, Adult/Child 4/2; Accommodation Charges 3 264,00 USD/ночь + Green Tax 72,00 USD/ночь; итог **33 360,00 USD**. Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192/215, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 33 360,00 × 1,0045 + 100 = 33 610,12 USDT. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 33610 (раскладка Scream/M.N. 05.10.2026).",
+      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «Invoice 97812.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **Kudakurathu Island Resort Pvt Ltd** (H. Aage Building, Boduthakurufaanu Magu, 20094 Male, Republic of Maldives; Bank **Bank of Maldives Plc**, P.O. Box 2053, Kudakurathu Island, Raa Atoll; SWIFT **MALBMVMV**; Account **7730000574586**), Payment details «**INV.146178 dd 23.09.2026**», Amount **33 360,00 USD**, OUR. Приложен **счёт** (Invoice 97812): Villa **RAAYA Residence**, Arrival 15-10-26 — Departure 25-10-26, 10 ночей, Adult/Child 4/2; Accommodation Charges 3 264,00 USD/ночь + Green Tax 72,00 USD/ночь; итог **33 360,00 USD**. Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192/215, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 33 360,00 × 1,0045 + 100 = 33 610,12 USDT. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 33610 (раскладка Scream/M.N. 05.10.2026). | 📄 06.10.2026 (📨 ПП компании UK, файл «Kudakurathu Isl 33360 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange, Tonio): Remitter **TRAVELCOM LIMITED** (IBAN GB72TONI04282200006501) → Beneficiary **Kudakurathu Island Resort Pvt Ltd** (IBAN **7730000574586**, BIC **MALBMVMV**); Amount **33 360,00 USD**; Details **INV.146178 dd 23.09.2026**; Execution Date **10/06/2026**; штамп **Bank's confirmation = IN PROCESS** → подвешенная ПП (INITIATED) → ⬜→🟡.",
       "calc": null
     },
     {
@@ -4154,7 +4154,7 @@
       "vdx_rate": null,
       "received_usdt": 8442,
       "sent_usdt": null,
-      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «Invoice 1129.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **IDOM CO., LTD** (4/16 Moo 9, Vichit Sub-District, Muang District, Phuket 83110; TAX ID 0835559010530); Beneficiary Bank **The Siam Commercial Bank** (Cherngtalay Phuket branch; BUILDING 2 RUTCHADAPISEK ROAD CHATUCHAK, BANGKOK; SWIFT **SICOTHBK**), Account **706-257056-4**; Payment details «**INV.02937 dd.01.10.2026**»; Amount **8 305,00 USD**; OUR. Приложен **INVOICE No. 02937** (Issued 5 October 2026, Customer **Pronyuk Dmitry**): Booking deposit for **Angsana Laguna Village** 26.12.2026–25.01.2027, TOTAL **279 826 THB = 8 305 USD**, due date 11.11.2026. Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192/215/216, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 8 305 × 1,0045 + 100 = 8 442,37 USDT. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 8442 (раскладка Scream/M.N. 05.10.2026).",
+      "notes": "📄 05.10.2026 (📨 Платежи VDX — «Payment from ❗️»; вложение «Invoice 1129.pdf») — **Заявка (Тип 4)**: ордер на платёж → Beneficiary **IDOM CO., LTD** (4/16 Moo 9, Vichit Sub-District, Muang District, Phuket 83110; TAX ID 0835559010530); Beneficiary Bank **The Siam Commercial Bank** (Cherngtalay Phuket branch; BUILDING 2 RUTCHADAPISEK ROAD CHATUCHAK, BANGKOK; SWIFT **SICOTHBK**), Account **706-257056-4**; Payment details «**INV.02937 dd.01.10.2026**»; Amount **8 305,00 USD**; OUR. Приложен **INVOICE No. 02937** (Issued 5 October 2026, Customer **Pronyuk Dmitry**): Booking deposit for **Angsana Laguna Village** 26.12.2026–25.01.2027, TOTAL **279 826 THB = 8 305 USD**, due date 11.11.2026. Компания-плательщик в сообщении не названа — по прецеденту (rows 178/180/192/215/216, тот же канал и подпись «Payment from ❗️») компания **UK**. Step 3 → ⬜. Расчёт (тариф UK): 8 305 × 1,0045 + 100 = 8 442,37 USDT. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 8442 (раскладка Scream/M.N. 05.10.2026). | 📄 06.10.2026 (📨 ПП компании UK, файл «IDOM CO, LTD.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange, Tonio): Remitter **TRAVELCOM LIMITED** (IBAN GB72TONI04282200006501) → Beneficiary **IDOM CO., LTD** (IBAN **7062570564**, BIC **SICOTHBK**); Amount **8 305,00 USD**; Details **INV.02937 dd.01.10.2026**; Execution Date **10/06/2026**; штамп **Bank's confirmation = IN PROCESS** → подвешенная ПП (INITIATED) → ⬜→🟡.",
       "calc": null
     },
     {
@@ -4270,6 +4270,25 @@
       "sent_usdt": 15407.61,
       "notes": "📄 06.10.2026 (📨 Платежи VDX, «**Payment from Travelcom❗️**», файл «26836-3_FNB.pdf») — 🧾 Заявка/ордер: Beneficiary **Zenith Tours and Safaris Pty Ltd** (Un 52 Baviaanskloof Rd, Cape Town, RSA); Bank **FIRSTRAND BANK LIMITED / First National Bank South Africa** (50 Bath Avenue, Rosebank, Johannesburg), SWIFT **FIRNZAJJ**, account **63188186671**; Payment details **INV.ZTS-26836-3 dd.01.09.2026**; Amount **15 239,00 USD**; **OUR**. Приложен инвойс **ZTS-26836-3 dd 01.09.2026** (Zenith Tours and Safaris; туры Mrs. Rimma KOAK 2pax & Mr. Denis Ovsyannikov 2pax, 10.10–23.10.26), Invoice Total **15 239,00 USD** = сумма ордера. Клиент — **VDX**, компания — **UK** (схема UK/VDX, TRAVELCOM LIMITED). ⬜ Step 3 (компания известна). Расчёт: `15 239,00 × 1,0045 + 100 = 15 407,61 USDT`.",
       "calc": "ТЕЗ"
+    },
+    {
+      "row": 224,
+      "date": "2026-10-06",
+      "sum": 8812.8,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
