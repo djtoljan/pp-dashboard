@@ -1944,20 +1944,20 @@
   {
     "row": 103,
     "date": "2026-10-06",
-    "sum": 18070,
+    "sum": 9070,
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "—",
-    "costFormula": "18 070,00 + 0,3% + 30 = 18 154,21 USDT",
+    "costFormula": "9 070,00 + 0,3% + 30 = 9 127,21 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 18154.21,
-    "notes": "✏️ 06.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 18 070,00 + 0,3% + 30 = 18 154,21 USDT.",
+    "sent_usdt": 9127.21,
+    "notes": "📄 06.10.2026 (📨 Молодежь, файл «Inv.xls») — **PROFORMA INVOICE PI-20260810005** от **Dongguan Miaosen Electronic Technology Co., Ltd.** (No. 2 Dongyuan 1st Road, Tangxia Town, Dongguan City, Postcode 523710; TEL 86 0769-8207 5999): **To: Q8 GROUP LIMITED** (DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH, Acc 79807111801). Позиции: Spiral zipper (black / white / dark blue S058 / bright blue S918 / red S171 / green S876; Type 3,20cm / 5,85cm / 5,25cm), **TOTAL 18 070,00 USD**. Payment terms: 100% TT deposit in advance. Бенефициар: Dongguan Miaosen Electronic Technology Co., Ltd., a/c 101414 09627693, **JPMorgan Chase Bank N.A., Singapore Branch** (CAPITAL TOWER 168 ROBINSON ROAD, Singapore), SWIFT CHASSGSG, bank code 7153. → company = **Q8** (To: Q8 GROUP LIMITED), расчёт `18 070,00 + 0,3% + 30 = 18 154,21 USDT`. Клиент (принципал Молодёжи) в документе не назван — уточнить у Scream. | 📄 06.10.2026 (📨 Молодежь, файл «payment order_9070USD.docx») — **PAYMENT ORDER DATE 06/10/2026**: AMOUNT **9 070 USD**; BENEFICIARY **Dongguan Miaosen Electronic Technology Co., LTD.** (8 Shenton Way, #45-01 AXA Tower, Singapore 068811); банк **JPMorgan Chase Bank N.A., Singapore Branch**, a/c **10141409627693**, SWIFT **CHASSGSG**; PAYMENT PURPOSE «**Inv. 20260810005**». → по правилу invoice-vs-order-sum сумма строки = из **ордера** (9 070 USD), инвойс PI-20260810005 (18 070 USD) справочно, строка одна. Расчёт: `9 070,00 + 0,3% + 30 = 9 127,21 USDT`. ⚠️ ордер на 9 070 < инвойса 18 070 — вероятно частичная оплата; уточнить у Scream.",
     "calc": null
   }
 ]
