@@ -4287,6 +4287,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
+      "notes": "📄 06.10.2026 (📨 Платежи VDX, файл «invoice 5T24Z2.pdf») — **Elevate DMC / ELEVATE TOURISM LLC** (Dubai; тел. +971 4 216 0600): Booking ID **5T24Z2** — **Jumeirah Beach Hotel Dubai**, holder **NIKOLAY EYRIYAN**, 2 pax, 11/6/2026, external code 5312B6197062, Price 8 812,80 / Taxes 0,00 / **Total 8 812,80 USD**. Банк: **EMIRATES NBD BANK PJSC** (Company name: ELEVATE TOURISM LLC), account **1025774459102**, IBAN **AE180260001025774459102**, SWIFT **EBILAEAD**, DUBAI-SATWA, UAE. Компания-плательщик не названа → **🔴 (Step 0)**. Клиент — **VDX** (группа-источник «📨 Платежи VDX»). check-all-tables по 8812 / 5T24Z2 / Elevate / Eyriyan — совпадений нет (новая сделка).",
+      "calc": null
+    },
+    {
+      "row": 225,
+      "date": "2026-10-06",
+      "sum": 39282.53,
+      "currency": "USD",
+      "company": "UK",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
       "notes": null,
       "calc": null
     }
