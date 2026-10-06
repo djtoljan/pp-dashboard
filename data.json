@@ -4260,16 +4260,16 @@
       "company": "UK",
       "color": "FFFFFFFF",
       "clientName": "VDX",
-      "costFormula": null,
+      "costFormula": "15 239,00 × 1,0045 + 100 = 15 407,61 USDT",
       "extra": null,
       "rubles_received": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null
+      "sent_usdt": 15407.61,
+      "notes": "📄 06.10.2026 (📨 Платежи VDX, «**Payment from Travelcom❗️**», файл «26836-3_FNB.pdf») — 🧾 Заявка/ордер: Beneficiary **Zenith Tours and Safaris Pty Ltd** (Un 52 Baviaanskloof Rd, Cape Town, RSA); Bank **FIRSTRAND BANK LIMITED / First National Bank South Africa** (50 Bath Avenue, Rosebank, Johannesburg), SWIFT **FIRNZAJJ**, account **63188186671**; Payment details **INV.ZTS-26836-3 dd.01.09.2026**; Amount **15 239,00 USD**; **OUR**. Приложен инвойс **ZTS-26836-3 dd 01.09.2026** (Zenith Tours and Safaris; туры Mrs. Rimma KOAK 2pax & Mr. Denis Ovsyannikov 2pax, 10.10–23.10.26), Invoice Total **15 239,00 USD** = сумма ордера. Клиент — **VDX**, компания — **UK** (схема UK/VDX, TRAVELCOM LIMITED). ⬜ Step 3 (компания известна). Расчёт: `15 239,00 × 1,0045 + 100 = 15 407,61 USDT`.",
+      "calc": "ТЕЗ"
     }
   ]
 }
