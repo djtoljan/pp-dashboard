@@ -4125,7 +4125,7 @@
       "sum": 33360,
       "currency": "USD",
       "company": "UK",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "VDX",
       "costFormula": "33 360,00 × 1,0045 + 100 = 33 610,12 USDT",
       "extra": null,
