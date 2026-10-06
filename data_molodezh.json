@@ -1927,18 +1927,18 @@
     "date": "2026-10-06",
     "sum": 60000,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "—",
-    "costFormula": null,
+    "costFormula": "60 000,00 + 0,3% + 30 = 60 210,00 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 60210,
+    "notes": "📄 06.10.2026 (📨 Молодежь, файл «PO 60000 USD Foshan Xubao Import And Export CO.,LTD.docx») — **PAYMENT ORDER / PO**: Beneficiary **Foshan Xubao Import And Export CO.,LTD** (ROOM 501-2, NO.23 OF JI HUA 5TH RD, CHANCHENG, FOSHAN, CHINA); банк бенефициара **JPMorgan Chase Bank N.A., Hong Kong Branch** (NO.3-4 BLDG NO.2 TONGXING ROAD, CHANCHENG, FOSHAN CITY, GUANGDONG PROVINCE, CHINA); SWIFT/BIC **ABOCCNBJ190**; IBAN/Account **44423301040014020**; Amount **60 000,00 USD**. ⚠️ Клиент/компания в сообщении НЕ названы — в 5 таблицах ни «Foshan Xubao», ни эта сделка не встречаются. Компания не определена → 🔴; уточнить у Scream (клиент/компания/расчёт). | 📄 06.10.2026 (📨 Молодежь, файл «60000_USD_INVOICE_Foshan_Xubao_Import_And_Export_CO_,LTD_1.pdf») — **PROFORMA INVOICE EXP M10-2026-021 от 2026-09-29**: **Buyer Q8 GROUP LIMITED** → Seller **Foshan Xubao Import And Export CO.,LTD** (ROOM 501-2, NO.23 OF JI HUA 5TH RD, CHANCHENG, FOSHAN, CHINA). Позиции (ручки/фурнитура, BLACK 9005FT): XBE-466 P 1100×4,668 = 5 134,80; XBX-980 1100×4,668 = 5 134,80; XGX-1933 6000×4,668 = 28 008,00; LXD-2955 1100×4,895 = 5 384,50; LXD-2954 1000×4,668 = 4 668,00; XSEK-122 1500×4,668 = 7 002,00; XGJB-243 1000×4,6679 = 4 667,90; **TOTAL 12 800 pcs = 60 000,00 USD**. Бенефициар — **AGRICULTURAL BANK OF CHINA FOSHAN HUADA SUB BRANCH**, A/C **44423301040014020**, SWIFT **ABOCCNJ190** (CNAPS 103588042208). → company = **Q8** (Buyer), расчёт `60 000,00 + 0,3% + 30 = 60 210,00 USDT`. Клиент (принципал Молодёжи) в документах не назван — уточнить у Scream.",
     "calc": null
   }
 ]
