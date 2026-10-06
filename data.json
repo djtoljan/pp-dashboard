@@ -4422,6 +4422,25 @@
       "sent_usdt": 61977.2,
       "notes": "📄 06.10.2026 (📨 Платежи VDX — «**Payment from ❗️**» (компания-плательщик не названа); вложение «79 Vilux Proforma Invoice - VH_PI_02_26_20002.pdf») — **PROFORMA INVOICE VH/PI/02/26/20002 от 17.02.2026** (Inquiry No VH42507; Arrival 23-Oct-2026, Departure 01-Nov-2026; Due Date 26-Sep-2026): **VILUXUR HOLIDAYS PTE. LTD.** — PATINA MALDIVES, FARI ISLANDS (Two Bedroom Sunset Water Pool Villa HB/TRPL 3A/3C; One Bedroom Sunset Water Pool Villa BB/DBL 2A; трансферы Luxury Speedboat): Taxable 51 911,11 + GST 17% 8 824,89 + Green Tax 864,00 = **Net Payable USD 61 600,00**. Бенефициар: VILUXUR HOLIDAYS PTE. LTD. (4 Leng Kee Road, #04-01, Singapore 159088); банк **Community Federal Savings Bank** (89-16 Jamaica Ave, Woodhaven, NY, USA, 11421), SWIFT **CMFGUS33**, a/c **8457432853**. = та же схема, что Tomco/Joy/Amber/Divi — UK/VDX. Расчёт: `61 600 × 1,0045 + 100 = 61 977,20 USDT`. Компания **UK**, клиент **VDX**. ⬜ Step 3.",
       "calc": "ТЕЗ"
+    },
+    {
+      "row": 232,
+      "date": "2026-10-06",
+      "sum": 5140.8,
+      "currency": "EUR",
+      "company": "PRIME FOOD",
+      "color": "FFFFFFFF",
+      "clientName": "Профессионал",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
