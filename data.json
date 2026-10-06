@@ -4403,6 +4403,25 @@
       "sent_usdt": 16031.37,
       "notes": "📄 06.10.2026 (📨 Платежи VDX — «**Payment from ❗️**» (компания-плательщик не названа); вложение «Invoice 03D25092026 _USD_06.10.26.pdf») — **заявка (Тип 4) / ордер на платёж**: Beneficiary **AMBER TRAVEL LLC** (P.O.BOX 114525, ABU DHABI, UAE; тел. +971 2 4913536); банк **THE NATIONAL BANK OF RAS AL-KHAIMAH PJSC — RAKBANK**, SWIFT **NRAKAEAK**, счёт **AE460400000322706408002**, routing 804020101; Payment details «**INV.03D25092026 dd.25/09/2026**»; Amount **15 860,00 USD**; **OUR**. Вложенный **INVOICE № 03D25092026 dd 9/25/2026** (Dept TRAVEL): трансферы + отели (Polana Serena, Crowne Plaza Fudan Shanghai, Omah/Pune, Felege Ghion, Rotana RAK, Kiwi/Kan, Seen Ran Bouaké, Ramada Lahore, Esquisse Telavi, Namibia transport) — AMOUNT IN WORDS «FIFTEEN THOUSAND EIGHT HUNDRED SIXTY USD», **TOTAL 15 860**. = та же схема, что Amber r153 — UK/VDX. Расчёт: `15 860 × 1,0045 + 100 = 16 031,37 USDT`. Компания **UK**, клиент **VDX**. ⬜ Step 3. | 💰 06.10.2026 (Scream — разбивка прихода **58 886 USDT** под 3 UK/VDX-сделки): приход USDT по этой сделке = **16031.37** (Bobr IN 58 886 USDT от `TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G` — Толик/возмещение VDX, Рабочий 4, 06.10.2026 12:24:15 UTC). `received_usdt` = 16031.37.",
       "calc": "ТЕЗ"
+    },
+    {
+      "row": 231,
+      "date": "2026-10-06",
+      "sum": 61600,
+      "currency": "USD",
+      "company": "UK",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
