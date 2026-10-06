@@ -4181,8 +4181,8 @@
       "date": "2026-10-05",
       "sum": 40362,
       "currency": "USD",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "UK",
+      "color": "FFFFFFFF",
       "clientName": "VDX",
       "costFormula": null,
       "extra": null,
@@ -4192,7 +4192,7 @@
       "vdx_rate": null,
       "received_usdt": 40644,
       "sent_usdt": null,
-      "notes": "💰 05.10.2026 (📨 Платежи VDX, файл «№DD-2518 Инвойс - Ground Services.pdf») — **проформа-инвойс № DD-2518 от 28.09.2026**: Vendor **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (Ayvansaray Mah. Kafesçi Yümni Sk. No:4-6, Fatih, Istanbul/TURKEY; Tax № 301 054 26 02, Fatih Tax Office); услуги **Ground & Accommodation services in Mersin/Türkiye**, период 30.09–15.10.2026; **Grand Total $40.362,00 USD**; банк **GARANTI BANK** (Branch ÇEMBERLİTAŞ ŞUBESİ, код 44), USD account 9085176, USD IBAN **TR03 0006 2000 0440 0009 0851 76**, SWIFT **TGBATRISXXX**. Компания-плательщик не названа → 🔴 Step 0 (ждём заявку/компанию). Клиент по группе «📨 Платежи VDX» = VDX. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 40644 (раскладка Scream/M.N. 05.10.2026).",
+      "notes": "💰 05.10.2026 (📨 Платежи VDX, файл «№DD-2518 Инвойс - Ground Services.pdf») — **проформа-инвойс № DD-2518 от 28.09.2026**: Vendor **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (Ayvansaray Mah. Kafesçi Yümni Sk. No:4-6, Fatih, Istanbul/TURKEY; Tax № 301 054 26 02, Fatih Tax Office); услуги **Ground & Accommodation services in Mersin/Türkiye**, период 30.09–15.10.2026; **Grand Total $40.362,00 USD**; банк **GARANTI BANK** (Branch ÇEMBERLİTAŞ ŞUBESİ, код 44), USD account 9085176, USD IBAN **TR03 0006 2000 0440 0009 0851 76**, SWIFT **TGBATRISXXX**. Компания-плательщик не названа → 🔴 Step 0 (ждём заявку/компанию). Клиент по группе «📨 Платежи VDX» = VDX. | 💵 05.10.2026 (возмещение Толик VDX, IN 159 622 USDT от TRF9PZ…): received_usdt = 40644 (раскладка Scream/M.N. 05.10.2026). | 📄 06.10.2026 (📨 ПП компании UK, файл «Divi Turizm 40362 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX / Global Remit Exchange, Tonio): Remitter **TRAVELCOM LIMITED** (IBAN **GB72TONI04282200006501**) → Beneficiary **DIVI TURIZM TICARET VE SANAYI LIMITED SIRKETI** (IBAN **TR030006200004400009085176**, BIC **TGBATRISXXX**); Amount **40 362,00 USD**; Details **INV.DD-2518 DD.28.09.2026**; Execution Date **10/06/2026**; штамп **Bank's confirmation = IN PROCESS** → подвешенная ПП (INITIATED). Компания раскрыта → **UK** (схема UK/VDX, TRAVELCOM). 🔴→⬜→🟡.",
       "calc": null
     },
     {
