@@ -4553,7 +4553,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 07.10.2026 (📨 Платежные Поручения, файл «LUMINO_STRATEGIES_LIMITED_MT24CFTE28004000000000005036934_9229bfa5.pdf») — **TRANSACTION CONFIRMATION / PAYOUT** (провайдер, счёт MT24CFTE28004000000000005036934): Company **LUMINO STRATEGIES LIMITED**; Date 07.10.2026 10:42:35 UTC; **Payer/Recipient IFC Holding LTD** (IBAN **GB18PYYP00993910000023**), **Invoice IF21026 от 02.10.2026**, Amount **−25 000,0 EUR**, Payment type **SEPA**; **Status: INITIATED**. → PAYOUT INITIATED → ⬜→🟡. ⚠️ Совпадений по IF21026 / IFC Holding / LUMINO в 5 таблицах нет — новая строка; guard ложно привязал к main r133 по сумме (у r133 бенефициар PREMIUM GLOBAL TRAVEL / DEMLI-152 — другой). @CScream1: подтверди клиента/таблицу (клиент по каналу — VDX; в clients-db есть «IFC (Цветы)»).",
       "calc": null
     }
   ]
