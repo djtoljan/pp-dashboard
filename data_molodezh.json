@@ -2149,5 +2149,24 @@
     "sent_usdt": null,
     "notes": "ПП на VDX №95 от 07.10.2026 ИСПОЛНЕНО (АО «РАЙФФАЙЗЕНБАНК» г. Москва, БИК 044525700, ПРОВЕДЕНО 7 ОКТ. 2026; ЭП Глушков Александр Павлович; УПНО 10445257000000000710202600059720): плательщик **ООО «БЬЮТИ БРЕНДЗ»** (ИНН 7728194795, КПП 772801001, счёт 40702810400000218187) → получатель **ВИДИИКС СЕРВИСЕЗ - ФЗКО** (ИНН 9909710068, ПСБ г. Ярославль, БИК 044525555, счёт 40807810000000015414), **565 696,56 ₽** {VO11100} «beneficiary DUANNY INDUSTRY CO., LIMITED, For enrollment contract N 104 of 29.09.2026, оплата по Поручению №4 от 07.10.2026 по аг.договору №111 от 21.07.2026. Without VAT». = ТЕЛО платежа. | ПП на VDX №94 от 07.10.2026 ИСПОЛНЕНО (АО «РАЙФФАЙЗЕНБАНК» г. Москва, БИК 044525700, ПРОВЕДЕНО 7 ОКТ. 2026; ЭП Глушков Александр Павлович; УПНО 10445257000000000710202600059727): тот же плательщик → тот же получатель VDX, **28 456,25 ₽** {VO21100} «Для зачисления по контракту 111 от 21.07.2026, оплата по Поручению №4 от 07.10.2026г., вознаграждение, в том числе НДС 22% — 5131,45». = ВОЗНАГРАЖДЕНИЕ агента. `sent_rubles_vdx` = 565 696,56 / 28 456,25 (VDX). Клиент **Бьюти Брендз (Молодёжь)**, компания-плательщик не названа → 🔵 (заявки/поручения №4 отдельным документом не было — ждём). ⚠️ Совпадений по 28 456,25 / 565 696,56 / DUANNY / Бьюти в 5 таблицах нет (новая сделка). | 📄 07.10.2026 (📨 Молодёжь, файл «payment order DUANNY.docx») — **PAYMENT ORDER (заявка/ордер на платёж)**: DATE 07/10/2026; AMOUNT **6 600,00 USD**; CURRENCY USD; PAYMENT METHOD **SWIFT**; BENEFICIARY **DUANNY INDUSTRY CO., LIMITED** (Rm 501, Unit 5, No.31 Wuai Rd, Jiangdong Str., Yiwu, Zhejiang, China); BENEFICIARY BANK **ZHEJIANG CHOUZHOU COMMERCIAL BANK** (No. 188, Mall Avenue, Yiwu, Zhejiang, China); ACCOUNT NUMBER **NRA15602142010500014067**; SWIFT **CZCBCN2XXXX**; PAYMENT PURPOSE «**PROFORMA INVOICE PI26092401 dd 30.09.2026**». ✅ Та же сделка — Поручение №4 (аг.договор №111 от 21.07.2026), бенефициар DUANNY INDUSTRY (совпадает с назначением ПП №95). Новая строка НЕ создаётся; заявка по сделке получена. | 📄 07.10.2026 (📨 Молодёжь, файл «PI_Jar_for_MoneSkin_Wild_Waves_melting_balm_Beauty_Brands_LLC_2026.pdf») — **PROFORMA INVOICE** (продавец **DUANNY INDUSTRY CO., LIMITED**, Rm 501, Unit 5, No.31 Wuai Rd, Yiwu, Zhejiang, China) → покупатель **Q8 GROUP LIMITED**: позиция 1 «**Rotating Stick Cleansing Balm Jar**» DNJP-629, 50g, 70×80 мм, материал PP (Cap 1767 glossy/opacity 50%; Inner grinder 1777; Body 1767 U matte; 1-color silk screen printing), **10 000 шт × 0,660 = 6 600,00 USD**; Total/TTL **6 600,00 USD**; EXW; Remarks: Export Packing, предоплата 100% (balance 0%), lead time 30 дней, допустимо ±3-5%. Банк: **ZHEJIANG CHOUZHOU COMMERCIAL BANK** (No.188 Mall Avenue, Yiwu), SWIFT **CZCBCN2XXXX**, счёт **NRA15602142010500014067**, бенефициар DUANNY INDUSTRY; интермедиатор **CITIUS33XXX — CITIBANK NA New York** (388 Greenwich Street), VIA CITIUS33XXX. ✅ Инвойс-обоснование к платежу DUANNY (6 600 USD) — та же сделка, что строка 113 (Поручение №4, Бьюти Брендз). `sum` = 6 600,00 USD. | 📄 07.10.2026 (📨 Молодёжь, файл «Поручение №4 Duanny.pdf») — **ПОРУЧЕНИЕ № 4 от 07.10.2026** (Transfer request No. 4; Приложение № 1 к Агентскому договору № 111 от 21.07.2026): **от ООО «Бьюти Брендз» в адрес FZCO «VDX SERVICES»** на осуществление платежа в иностранной валюте по инвойсу **PI26092401 от 30.09.2026**. Принципал **ООО «Бьюти Брендз»**; сумма **6 600,00 USD**; получатель (нерезидент) **DUANNY INDUSTRY CO., LIMITED** (Rm 501, Unit 5, No.31 Wuai Rd, Jiangdong Str., Yiwu, Zhejiang, China); банк получателя **ZHEJIANG CHOUZHOU COMMERCIAL BANK** (No. 188, Mall Avenue, Yiwu, Zhejiang, China), счёт **NRA15602142010500014067**, SWIFT **CZCBCN2XXXX**; назначение «PROFORMA INVOICE PI26092401 dd 30.09.2026 for DNJP-629, 10 000 pcs»; **курс конвертации 85,7116**; сумма к перечислению в рублях **565 696,56 ₽**; **комиссия Агента 28 456,25 ₽**; срок 2-3 банковских дней. Подписи: ООО «Бьюти Брендз» / FZCO «VDX SERVICES». ✅ Суммы сходятся: ПП №95 тело 565 696,56 ₽ + ПП №94 вознаграждение 28 456,25 ₽; инвойс PI26092401 (= 6 600,00 USD, DUANNY → Q8 GROUP LIMITED).",
     "calc": null
+  },
+  {
+    "row": 114,
+    "date": "2026-10-07",
+    "sum": 47507.5,
+    "currency": "EUR",
+    "company": "SURYA",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
