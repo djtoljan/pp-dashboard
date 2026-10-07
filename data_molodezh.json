@@ -2092,5 +2092,24 @@
     "sent_usdt": null,
     "notes": "📄 07.10.2026 (📨 Молодёжь, файл «Поручение №13 Италия.pdf» — скан, читал вижном) — **ПОРУЧЕНИЕ № 13 от 07.10.2026** (Transfer request No. 13; Приложение №1 к Агентскому договору № 251106-001 от 06.11.2025): **от ООО «РК-Трейд» в адрес ОсОО «Блэкшарк Трейд»** на осуществление платежа в иностранной валюте **по инвойсам 26/00104 от 06/10/2026 и 26/00362 от 30.06.2026**. Принципал **ООО «РК-ТРЕЙД»**; сумма **195 424,38 евро**; получатель (нерезидент) **«PT SUMMIT TRADE WORLDWIDE» Limited Liability Company** (Jalan Gunung Andakasa Gg. Matahari III A No.9, Denpasar, Bali); банк получателя **PT Bank Mandiri (Persero) Tbk**, KCP Denpasar Sanur (Jl. By Pass I Gusti Ngurah Rai No.104, Sanur, Denpasar Selatan, Bali 80227), BANK CODE 008145, BRANCH CODE 14531, SWIFT **BMRIIDJAXXX**; счета: IDR 1450018134425 / USD 1450018134482 / EUR 1450018134466 / CNY 1450018134490; назначение «оплата по контракту **№0107026-001 от 01.07.2026**»; **курс 96,52**; сумма в рублях **18 862 360,20 руб**; **комиссия Агента 245 210,69 руб**; срок 2-3 банк. дня. Подписи: Дмитриев М.С. (РК-Трейд, ген. директор) / Курьянов Т.А. (Блэкшарк, директор). Компания-плательщик не названа → 🔴 (Step 0). ⚠️ Отдельная сделка от строки 109 (там проформа 26/00064 = 147 916,88 EUR); здесь инвойсы 26/00104 + 26/00362 = 195 424,38 EUR.",
     "calc": null
+  },
+  {
+    "row": 111,
+    "date": "2026-10-07",
+    "sum": 110000,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Архимед (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
