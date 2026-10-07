@@ -2052,7 +2052,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10060,
-    "notes": "✏️ 07.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT.",
+    "notes": "📄 07.10.2026 (📨 Молодёжь, файл «10000 USD INVOICE Sihuaer Technology Co., Ltd (1).pdf») — **PROFORMA INVOICE № SHR-C2C20261001002M dd Oct.1st, 2026**: Seller **Sihuaer Technology Co., Ltd** (Room 1801, Easey Commercial Building, 253-261 Hennessy Road, Wan Chai, Hong Kong) → **Buyer Q8 GROUP LIMITED**. Позиции (сетевое оборудование Huawei): S5735-S48P4XE-V2 + L-MLICS57S 940×4 = 3 760; PAC1000S56-EB 164×8 = 1 312; S5735I-S8T4SN-V2 352×14 = 4 928; **Total amount $10 000**. Банк: **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD** (No.161 Ba Yi South Street, Jinhua, Zhejiang, China), SWIFT **CZCBCN2X**, a/c **NRA15702002010590036613**, beneficiary SIHUAER TECHNOLOGY CO., LIMITED. → company = **Q8** (Buyer) → 🔴→⬜ (Step 3), Q8-расчёт `10 000,00 + 0,3% + 30 = 10 060,00 USDT`. Клиент (принципал Молодёжи) в документе не назван — уточнить у Scream. | 📄 07.10.2026 (📨 **Заявки Компания Q8**, файл «PO 10000 USD Sihuaer Technology Co., Ltd.docx») — **PAYMENT ORDER / PO**: Beneficiary **Sihuaer Technology Co., Ltd** (Room 1801, Easey Commercial Building, 253-261 Hennessy Road, Wan Chai, Hong Kong); банк **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD.** (No.161 Ba Yi South Street, Jinhua, Zhejiang, China); SWIFT **CZCBCN2X**; IBAN/Account **NRA15702002010590036613**; Amount **10 000 USD**. Тот же платёж, что проформа SHR-C2C20261001002M (строка одна, новую НЕ создаём); канал «Заявки Компания Q8» подтверждает company = **Q8**. Цвет без изменений ⬜.",
     "calc": null
   }
 ]
