@@ -1995,7 +1995,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 12066,
-    "notes": "✏️ 07.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 12 000,00 + 0,3% + 30 = 12 066,00 USDT.",
+    "notes": "📄 07.10.2026 (📨 Цветы, файл «Inv №FL01071026.pdf» + текст-реквизиты) — **INVOICE № FL01/071026 dd 07.10.2026** (Тип 1/4): продавец/бенефициар **ModestoGroup OU** (Reg. code 16203107; K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia; email info@m-flowers.com; банк **THE CURRENCY CLOUD LIMITED**, 1 Sheldon Square, London, W2 6TT, United Kingdom, IBAN **GB32TCCL04143483461312**, BIC/SWIFT **TCCLGB3L**) → покупатель/Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong). Позиции: 1) **AA Kenyan rose mix** 15 000 × 0,59 = 8 850,00 USD; 2) **AA Air logistics services** 3 150,00 USD. **Total USD 12 000,00**. Компания **Q8** → Step 3 → ⬜. Q8-расчёт (12 000 + 0,3% + 30) — USD, ставится сразу (q8-table-guard).",
     "calc": null
   }
 ]
