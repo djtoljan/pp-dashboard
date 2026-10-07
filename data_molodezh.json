@@ -2022,18 +2022,18 @@
     "date": "2026-10-07",
     "sum": 3656.45,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "—",
-    "costFormula": null,
+    "costFormula": "3 656,45 + 0,3% + 30 = 3 697,42 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 3697.42,
+    "notes": "📄 07.10.2026 (📨 Молодёжь, файл «PO_3656,45_USD_Shenzhen_Lingo_Supply_Chain_Management_Co_,LTD.docx») — **PAYMENT ORDER / PO**: Beneficiary **Shenzhen Lingo Supply Chain Management Co.,LTD** (1008-1018 Yueyun Building No.1001, Wenjin South Road, Nanhu Street, Luohu District, Shenzhen, China); банк **CHINA MERCHANTS BANK** (1-2/F, Foreign Trade Light Ind Bldg, No.1002 Aiguo Road, Shenzhen, China); SWIFT/BIC **CMBCCNBS050**; IBAN/Account **755969239132000**; Amount **3 656,45 USD**. ⚠️ Компания-плательщик и клиент (принципал Молодёжи) в документе НЕ названы — в 5 таблицах ни «Shenzhen Lingo», ни сделка не встречаются. Компания не определена → 🔴; уточнить у Scream (клиент/компания/расчёт). Клиент строки — «—» (по типу соседних PO Молодёжи r102/r103/r105). | 📄 07.10.2026 (📨 Молодёжь, файл «3656,45_USD_INVOICE_Shenzhen_Lingo_Supply_Chain_Management_Co_,LTD.pdf») — **INVOICE INV260900545 от 2026-09-28**: **Payer Q8 GROUP LIMITED** → Shenzhen Lingo Supply Chain Management Co.,LTD; описание «**AIR FREIGHT**»; **Total USD 3 656,45**; реквизиты получателя те же (China Merchants Bank, SWIFT CMBCCNBS050, a/c USD 755969239132000). → company = **Q8** (Payer) → 🔴→⬜ (Step 3), Q8-расчёт `3 656,45 + 0,3% + 30 = 3 697,42 USDT`. Клиент (принципал Молодёжи) в документах не назван — уточнить у Scream. | ✏️ 07.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 3 656,45 + 0,3% + 30 = 3 697,42 USDT.",
     "calc": null
   }
 ]
