@@ -1997,5 +1997,24 @@
     "sent_usdt": 20090,
     "notes": "📄 06.10.2026 (📨 Молодежь, файл «payment order 20000.docx») — **PAYMENT ORDER DATE 06/10/2026**: AMOUNT **20 000,00 USD**, CURRENCY USD, PAYMENT METHOD bank transfer; BENEFICIARY **Wide World (Hong Kong) Limited** (ROOM S032, 2/F, The Capital, 61-65 Chatham Road South, Tsim Sha Tsui, KL, Hong Kong); банк **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD** (Chouyin Building, 188 Shangcheng Avenue, Futian Street, Yiwu City, Zhejiang, China), SWIFT **CZCBCN2XXX**, a/c **NRA15602002010590023910**; PAYMENT PURPOSE «**Invoice NO.: 20260902, Microphone**». ⚠️ Клиент/компания в сообщении НЕ названы. В 5 таблицах прямой строки нет (Wide World ранее — Молодёжь r44: company **Q8**, клиент «Мосты (Молодёжь)», PI Order 20260901). Уточнить у Scream (клиент/компания/расчёт). 🔴 (компания не определена). | 📄 06.10.2026 (📨 Молодежь, файл «Копия 20260901 фин.pdf») — **PROFORMA INVOICE Order NO. 20260902 от 01-Oct-26** от **WIDE WORLD (HONG KONG) LIMITED** (ROOM S032, 2/F, THE CAPITAL, 61-65 CHATHAM ROAD SOUTH, TSIM SHA TSUI, KL HK; TEL 86 755 32832911): Consignee **Q8 GROUP LIMITED**; Port of Loading NINGBO (CHINA) → HONG KONG; EXW SHENZHEN. Позиции: **Microphone** (материал 316L Stainless Steel, с Intelliko Sticker) INT-VMIC20-B01 = 40 × $483,35 = $19 334,00; Shipping Cost (вкл. пошлины обе стороны, door to door) = $466,00; HANDLING FEE $200,00; **SUB-TOTAL / TOTAL $20 000,00**. TERMS: 100% deposit in advance. → company = **Q8** (Consignee), расчёт `20 000,00 + 0,3% + 30 = 20 090,00 USDT`. Клиент (принципал Молодёжи) не назван — уточнить у Scream.",
     "calc": null
+  },
+  {
+    "row": 106,
+    "date": "2026-10-07",
+    "sum": 19456,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Denis (Молодёжь)",
+    "costFormula": "19 456,00 + 0,3% + 30 = 19 544,37 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 19544.37,
+    "notes": "✏️ 07.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 19 456,00 + 0,3% + 30 = 19 544,37 USDT.",
+    "calc": null
   }
 ]
