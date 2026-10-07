@@ -699,6 +699,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
+    "notes": "📄 07.10.2026 (📨 Константин Просто Группа, файл «Proforma Invoice 3975664.pdf») — **Proforma Invoice № 3975664 dd 05.10.2026** (Тип 1): продавец **Melitta Europa GmbH & Co. KG** (Германия; оговорка о праве собственности Melitta Europa GmbH & Co. KG); Customer/Payer № **26157**; грузополучатель / delivery address **ANGLESEY FOOD COM.** (MR. ASKAR NAVRUZEV, BOBUR STREET 6, 100090 TASHKENT, WE-Nr 26157); Versandweg **by truck**; Incoterms **FCA MINDEN**; наша Auftragsnr «**Mono Truck Latte**». Позиция: **KAFFEEVOLLAUTOMAT LATTE SELECT SILBER** (FULLY AUTOMATIC MACHINE LATTE SELECT SILVER, F630-211 EU; материал 3891889, штрихкод 400650822797.6 / 6781937), страна происхождения **Portugal**, HS **8516.71.00**, **361 PC × 330,0000 = 119 130,00 EUR**; Gross weight 4 085,437; Netweight 3 586,896. Компания-плательщик НЕ названа → 🔴 (Step 0). Совпадений по 3975664 / Melitta / 119 130 в 5 таблицах нет (новая сделка).",
+    "calc": null
+  },
+  {
+    "row": 38,
+    "date": "2026-10-07",
+    "sum": 198465,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
     "notes": null,
     "calc": null
   }
