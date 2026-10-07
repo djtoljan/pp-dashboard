@@ -1940,5 +1940,24 @@
     "sent_usdt": 119797.09,
     "notes": "📄 07.10.2026 (📨 Цветы, файл «Gulf Flowers FZCO 119 408,86.docx» — форма реквизитов) — **реквизиты / заявка на платёж**: Amount **119 408,86**; Currency **USD**; Beneficiary **Gulf Flowers FZCO** (Unit 4WB 336, Building 4WB (West Side), Dubai Airport Free Zone, Dubai, UAE); Account/IBAN **AE200340003528243426702**; Beneficiary Bank **EMIRATES ISLAMIC BANK** (Al Yousuf Tower, 6564, Dubai, UAE); SWIFT **MEBLAEAD**; Registration number **1713**; VAT **1000472048600003**; Director (signer) **Tsepov Alexander**; Intermediary Bank **The Bank of New York Mellon**, SWIFT **IRVTUS3NXXX**, a/c **8901515981**; Details of Payment «**Payment for cut flowers under contract GF-EXG/2025/10/20 dd 20.10.2025**». Компания-плательщик в документе НЕ названа → 🔴 Step 0. check-all-tables по 119 408,86 / Gulf Flowers — совпадений в 5 таблицах нет (новая сделка). Клиент — **Gulf Flowers FZCO (Цветы)** (по clients-db, группа Цветы). | 📄 07.10.2026 (📨 Цветы, файл «Gulf Flowers FZCO 119 408,86.pdf» — скан, читал вижном) — **INVOICE № 1509-QBG dd 15.09.2026** (Gulf Flowers FZCO, Dubai Airport Free Zone, UAE; License 3471; EMIRATES ISLAMIC BANK, SWIFT MEBLAEAD, IBAN AE200340003528243426702) → **Buyer Q8 GROUP LIMITED** (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg. 80242882). Contract **QF-QBG/2026/05/21 dd 21/05/2026**; FCA Amsterdam/Aalsmeer, INCOterms 2010, OPEN ACCOUNT. **213 284 colli** cut flowers and greens (розы/гвоздики/альстромерии/статица/гортензии и др.), gross 9407,80 кг; **TOTAL 119 408,86 USD**. Подпись Director Tsepov Alexander, печать Gulf Flowers FZCO. → company = **Q8** (Buyer) → 🔴→⬜ (Step 3). | ✏️ 07.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 119 408,86 + 0,3% + 30 = 119 797,09 USDT.",
     "calc": null
+  },
+  {
+    "row": 103,
+    "date": "2026-10-07",
+    "sum": 35000,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null
   }
 ]
