@@ -4418,9 +4418,9 @@
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
-      "received_usdt": null,
+      "received_usdt": 61977,
       "sent_usdt": 61977.2,
-      "notes": "📄 06.10.2026 (📨 Платежи VDX — «**Payment from ❗️**» (компания-плательщик не названа); вложение «79 Vilux Proforma Invoice - VH_PI_02_26_20002.pdf») — **PROFORMA INVOICE VH/PI/02/26/20002 от 17.02.2026** (Inquiry No VH42507; Arrival 23-Oct-2026, Departure 01-Nov-2026; Due Date 26-Sep-2026): **VILUXUR HOLIDAYS PTE. LTD.** — PATINA MALDIVES, FARI ISLANDS (Two Bedroom Sunset Water Pool Villa HB/TRPL 3A/3C; One Bedroom Sunset Water Pool Villa BB/DBL 2A; трансферы Luxury Speedboat): Taxable 51 911,11 + GST 17% 8 824,89 + Green Tax 864,00 = **Net Payable USD 61 600,00**. Бенефициар: VILUXUR HOLIDAYS PTE. LTD. (4 Leng Kee Road, #04-01, Singapore 159088); банк **Community Federal Savings Bank** (89-16 Jamaica Ave, Woodhaven, NY, USA, 11421), SWIFT **CMFGUS33**, a/c **8457432853**. = та же схема, что Tomco/Joy/Amber/Divi — UK/VDX. Расчёт: `61 600 × 1,0045 + 100 = 61 977,20 USDT`. Компания **UK**, клиент **VDX**. ⬜ Step 3.",
+      "notes": "📄 06.10.2026 (📨 Платежи VDX — «**Payment from ❗️**» (компания-плательщик не названа); вложение «79 Vilux Proforma Invoice - VH_PI_02_26_20002.pdf») — **PROFORMA INVOICE VH/PI/02/26/20002 от 17.02.2026** (Inquiry No VH42507; Arrival 23-Oct-2026, Departure 01-Nov-2026; Due Date 26-Sep-2026): **VILUXUR HOLIDAYS PTE. LTD.** — PATINA MALDIVES, FARI ISLANDS (Two Bedroom Sunset Water Pool Villa HB/TRPL 3A/3C; One Bedroom Sunset Water Pool Villa BB/DBL 2A; трансферы Luxury Speedboat): Taxable 51 911,11 + GST 17% 8 824,89 + Green Tax 864,00 = **Net Payable USD 61 600,00**. Бенефициар: VILUXUR HOLIDAYS PTE. LTD. (4 Leng Kee Road, #04-01, Singapore 159088); банк **Community Federal Savings Bank** (89-16 Jamaica Ave, Woodhaven, NY, USA, 11421), SWIFT **CMFGUS33**, a/c **8457432853**. = та же схема, что Tomco/Joy/Amber/Divi — UK/VDX. Расчёт: `61 600 × 1,0045 + 100 = 61 977,20 USDT`. Компания **UK**, клиент **VDX**. ⬜ Step 3. | 💸 07.10.2026 (Scream, разбивка Bobr-прихода 100 549 USDT от TRF9PZ…Y6G / Толик-возмещение VDX): `received_usdt` = **61 977** (61 600 × 1,0045 + 100). Q9 отправлен, леджер `IN_100549_07.10.2026`.",
       "calc": "ТЕЗ"
     },
     {
@@ -4475,9 +4475,9 @@
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
-      "received_usdt": null,
+      "received_usdt": 18131,
       "sent_usdt": null,
-      "notes": "📄 07.10.2026 (📨 Платежи VDX, подпись «**Payment from TREVELCOM❗️**»; файлы — текст реквизитов + «INVOICE AX-FCM1025 9384 - 17 950.00 USD (2).pdf») — **ордер на платёж (Тип 4)**: Beneficiary **AYABEX INC.** (11 Saiwa-doori, Ayabe, Kyoto 623-0052, Japan; тел. +81(773) 45-8088); Bank **The Bank of Kyoto, Ltd, Ayabe Branch** (21 Ekimae-dori, Ayabe, Kyoto), SWIFT **BOKFJPJZ**, A/C **334-4130217**; Payment details «**INV.AX-FCM1025 9384 dd.04/10/2026**»; Amount **17 950,00 USD**; Charge **OUR**. Инвойс-основание: **AYABEX INC. INVOICE # AX-FCM1025 9384 dd 04-Oct-26**: Tour Code AX-FCM1025 9384, Group 16 pax — проживание 25–30.10.2026 Richmond Hotel Premier Tokyo Schole (Box Theater 11×1090 + Double 4×1190 + Trial Gaming 1×1200) = **TOTAL  950,00**. Клиент **VDX** (серия «Payment from Travelcom»), компания **UK** (по прецеденту Travelcom-строк), расчёт не-Q8 — ждём от Scream. Step 3 → ⬜.",
+      "notes": "📄 07.10.2026 (📨 Платежи VDX, подпись «**Payment from TREVELCOM❗️**»; файлы — текст реквизитов + «INVOICE AX-FCM1025 9384 - 17 950.00 USD (2).pdf») — **ордер на платёж (Тип 4)**: Beneficiary **AYABEX INC.** (11 Saiwa-doori, Ayabe, Kyoto 623-0052, Japan; тел. +81(773) 45-8088); Bank **The Bank of Kyoto, Ltd, Ayabe Branch** (21 Ekimae-dori, Ayabe, Kyoto), SWIFT **BOKFJPJZ**, A/C **334-4130217**; Payment details «**INV.AX-FCM1025 9384 dd.04/10/2026**»; Amount **17 950,00 USD**; Charge **OUR**. Инвойс-основание: **AYABEX INC. INVOICE # AX-FCM1025 9384 dd 04-Oct-26**: Tour Code AX-FCM1025 9384, Group 16 pax — проживание 25–30.10.2026 Richmond Hotel Premier Tokyo Schole (Box Theater 11×1090 + Double 4×1190 + Trial Gaming 1×1200) = **TOTAL  950,00**. Клиент **VDX** (серия «Payment from Travelcom»), компания **UK** (по прецеденту Travelcom-строк), расчёт не-Q8 — ждём от Scream. Step 3 → ⬜. | 💸 07.10.2026 (Scream, разбивка Bobr-прихода 100 549 USDT от TRF9PZ…Y6G / Толик-возмещение VDX): `received_usdt` = **18 131** (17 950 × 1,0045 + 100). Q9 отправлен, леджер `IN_100549_07.10.2026`.",
       "calc": null
     },
     {
@@ -4494,9 +4494,9 @@
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
-      "received_usdt": null,
+      "received_usdt": 20441,
       "sent_usdt": null,
-      "notes": "📄 07.10.2026 (📨 Платежи VDX, подпись «**Payment from  ❗️**» — компания-плательщик в сообщении НЕ указана; файл «81 _invoice_90088004.pdf») — **ордер на платёж (Тип 4)**: Beneficiary **EXOTIC VOYAGE CO., LTD** (131/111 Wichitsongkram Road, Moo 7, Kathu, Phuket Province, Thailand; Tax ID 0835544000991); Beneficiary Bank **KASIKORN BANK COMPANY LIMITED, PHUKET BRANCH** (14 Phang Nga Road Amphur Muang, Phuket 83000, Thailand), SWIFT **KASITHBK**, счёт **102-1-07658-5**; Payment details «**INV.90088004 DD.15.06.2026**»; Amount **20 250,00 USD**; Charge **OUR**. Вложенный INVOICE Reservation No **90088004** dd 15.06.2026 — тур 2 pax (31.10.2026–05.11.2026): проживание Anantara Layan Phuket Resort (Sala Pool Villa, 5 ночей) + трансферы (Mercedes Benz Vito 2); **Grand total 20 250,00 USD**; advance payment (agency commission withheld by the payer). Компания — **UK** (по прецеденту канала «📨 Платежи VDX» при «Payment from ❗️» — r120/r222), клиент — **VDX**. Расчёт не-Q8 — ждём от Scream. Step 3 → ⬜.",
+      "notes": "📄 07.10.2026 (📨 Платежи VDX, подпись «**Payment from  ❗️**» — компания-плательщик в сообщении НЕ указана; файл «81 _invoice_90088004.pdf») — **ордер на платёж (Тип 4)**: Beneficiary **EXOTIC VOYAGE CO., LTD** (131/111 Wichitsongkram Road, Moo 7, Kathu, Phuket Province, Thailand; Tax ID 0835544000991); Beneficiary Bank **KASIKORN BANK COMPANY LIMITED, PHUKET BRANCH** (14 Phang Nga Road Amphur Muang, Phuket 83000, Thailand), SWIFT **KASITHBK**, счёт **102-1-07658-5**; Payment details «**INV.90088004 DD.15.06.2026**»; Amount **20 250,00 USD**; Charge **OUR**. Вложенный INVOICE Reservation No **90088004** dd 15.06.2026 — тур 2 pax (31.10.2026–05.11.2026): проживание Anantara Layan Phuket Resort (Sala Pool Villa, 5 ночей) + трансферы (Mercedes Benz Vito 2); **Grand total 20 250,00 USD**; advance payment (agency commission withheld by the payer). Компания — **UK** (по прецеденту канала «📨 Платежи VDX» при «Payment from ❗️» — r120/r222), клиент — **VDX**. Расчёт не-Q8 — ждём от Scream. Step 3 → ⬜. | 💸 07.10.2026 (Scream, разбивка Bobr-прихода 100 549 USDT от TRF9PZ…Y6G / Толик-возмещение VDX): `received_usdt` = **20 441** (20 250 × 1,0045 + 100). Q9 отправлен, леджер `IN_100549_07.10.2026`.",
       "calc": null
     },
     {
