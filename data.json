@@ -4553,6 +4553,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
+      "notes": "📄 07.10.2026 (📨 Платежи VDX, подпись «**Payment from  Travelcom❗️**» + файл «Invoice_39241-2.pdf») — **Заявка/ордер на платёж (Тип 4)**: Beneficiary **LUXE VOYAGE FZCO** (4402 DMCC Business Centre, Level No 1 Jewellery & Gemplex 3, Dubai, United Arab Emirates); Bank **EMIRATES NBD** (Dubai, UAE), SWIFT **EBILAEAD**, счёт **AE340260000515630840203**; Payment details «**INV.39241-2 dd. 07.10.2026**»; Amount **28 200,00 EUR**; **OUR**. Приложенный **INVOICE #39241-2 dd 07.10.2026** (Luxe voyage FZCO, www.luxevoyage.mu; issued by Elena Kovalchuk) → Tourists «GREF / YANA MRS» (1 PAX): «**Four Seasons Seychelles at Desroches Island 5\\* / 2 Bedroom residence / BB / 5 PAX**», 01.01.27–05.01.27, 4 nts × 10 021 EUR = **28 200,00 EUR**; Payment due 08.10.2026; POP STR; charges OUR. Компания-плательщик **Travelcom** → Step 3 → ⬜. Клиент — VDX. Совпадений по 28 200 / LUXE VOYAGE / 39241-2 нет (новая сделка).",
+      "calc": null
+    },
+    {
+      "row": 239,
+      "date": "2026-10-07",
+      "sum": 20000,
+      "currency": "EUR",
+      "company": "UK",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
       "notes": null,
       "calc": null
     }
