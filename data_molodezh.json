@@ -2014,7 +2014,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 19544.37,
-    "notes": "✏️ 07.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 19 456,00 + 0,3% + 30 = 19 544,37 USDT.",
+    "notes": "✏️ 07.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 19 456,00 + 0,3% + 30 = 19 544,37 USDT. | 📄 07.10.2026 (📨 FINIVEST AI, исходно 📨 Молодежь; файлы «Denis Invoice 2000 AO Sept.pdf» + «Платежное поручение 158891.docx») — **COMMERCIAL INVOICE INV: 0926 dd September 21-2026** от **Ultronic Sciences of America** (32163-373 AV WEST, Foothills, AB T1S6B9, Canada; +1 403 829 3026, randy@ultronicsciences.ca): Ship To **Hong Kong, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Kowloon**; Sold To **Q8 GROUP LIMITED**. Позиция **AEROBIC OXYGEN WATER PURIFICATION** — 2000 × 60 ML × 9,50 USD = **19 000,00 USD** + Private Product Labels **456,00 USD** = **Iš viso/Total 19 456,00 USD**; Terms: 100% prior to shipping; упаковка 8 коробок, 143 кг. Банк **ROYAL BANK OF CANADA (RBC)** (144 Elizabeth St., Okotoks, Alberta T1S1A1), SWIFT **ROYCCAT2**, счёт **080394003893**; сайт https://www.goodforyou.ca. | 📄 07.10.2026 — **платёжное поручение (Application for transfer)**: AMOUNT **19 456,00 USD**, BENEFICIARY **ULTRONIC SCIENCES OF AMERICA**, ACCOUNT 080394003893, BENEF.BANK **ROYAL BANK OF CANADA (RBC)**, SWIFT **ROY CCAT2**; PAYMENT DETAILS «**PAYMENT BY PROFORMA INVOICE NO. 0926 DD 21.09.2026 FOR WATER**». Инвойс + ордер = заявка (Тип 4); компания **Q8** (Sold To / Consignee Q8 Group Limited) → ⬜ Step 3. Q8-расчёт: 19 456,00 + 0,3% + 30 = **19 544,37 USDT**. ⚠️ Клиент «Denis» взят из имени файла (в clients-db не заведён) — уточнить и внести.",
     "calc": null
   }
 ]
