@@ -4460,6 +4460,25 @@
       "sent_usdt": null,
       "notes": "📄 07.10.2026 (📨 ИП Мазуренко И.А. - Fininvest/ЭТБ, файл «Skaitytuvas_20261006.pdf» — скан, читал вижном) — **SĄSKAITA FAKTŪRA / Invoice № LAS000000390 dd 2026.10.06**: Продавец (Tiekėjas/Pardavėjas) **MB LASKELA** (Kalnų g. 29, Varniškių km., Vilniaus raj.; Įmonės kodas 306335453; банк **AS Citadele bankas** (banko kodas 72900), A.s. **LT167290099017528052**) → Покупатель (Pirkėjas/Mokėtojas) **I/I Ivan Mazurenko** (Kaliningradas, Naberežnaja Karbyševo 20-5; Įmonės kodas **390701068179**). Позиция: **Draudimo įmokos pagal sutartį** (страховые взносы по договору) — 1 × 15 000,00 €; **Iš viso / Total Due = 15 000,00 EUR**. Компания-плательщик не названа, заявки/поручения нет → 🔴 (Step 0). ⚠️ Новый продавец MB LASKELA (не UAB Eurokusta из серии r47/r183/r202) — отдельная сделка. Клиент **ИП Мазуренко**, таблица Main. | 📄 07.10.2026 (📨 FINIVEST AI, форвард от Игоря Павленко @pavivBK, файл «SUTARTIS 01.04.2026 SU EE.docx») — справочно, строка не создаётся: **BENDRADARBIAVIMO SUTARTIS NR. LAS-20 (2026.04.01, Vilnius)** — рамочный договор на оформление погранстраховых полисов ОСГО в Литве. Стороны: **MB «Laskela»** (jur. kodas 306335453, Vilniaus r. sav. Riešės sen., Varniškių k., Kalnų g. 29; директор Artūras Verseckas) как **Draudimo tarpininkas** (страховой посредник, действует от имени ADB «COMPENSA» — Draudikas) ↔ **OÜ Estline Capital** (VAT No EE102155840, registry code 14715582) как **Užsakovas** (заказчик). Предмет: оформление Pasienio draudimo sutartis по поручению заказчика. Это базовый договор серии MB Laskela (к инвойсу r233 LAS000000390 dd 06.10.2026 «Draudimo įmokos pagal sutartį»).",
       "calc": null
+    },
+    {
+      "row": 234,
+      "date": "2026-10-07",
+      "sum": 17950,
+      "currency": "USD",
+      "company": "UK",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
