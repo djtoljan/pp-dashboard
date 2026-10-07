@@ -4572,6 +4572,25 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
+      "notes": "📄 07.10.2026 (📨 Платежи VDX, подпись «**Payment from    ❗️**» — компания-плательщик в сообщении НЕ названа; файл «INV-2026-001278.pdf») — **Заявка/ордер на платёж (Тип 4)**: Beneficiary **SINOP TURIZM YATIRIMLARI SAN.VE TIC.A.S.** (07230, Caglayan Mah. Eski Lara Cad., 291 Gunes apt K2 D5, ANTALYA, TURKEY; VAT 7710330748); Bank **TURKIYE GARANTI BANKASI A.S.** (Caglayan Mah., Barınaklar Blv. No: 32, 07230 Muratpasa, Antalya, Turkiye), SWIFT **TGBATRISXXX**, A/C EUR **TR95 0006 2000 0140 0009 0846 40**; Payment details «**INV. INV-2026/001278, DD. 07.10.2026**»; Amount **20 000,00 EUR**; **OUR**. Приложенный **INVOICE # INV-2026/001278 dd 2026-10-07 UNPAID** (SINOP TURIZM …, VAT 7710330748) → «**ACCOMMODATION @ MAXX ROYAL KEMER**, Arrival 10.10.2026 / Departure 20.10.2026, 2 × Suites Land View», 2 × 10 000 = **20 000,00 EUR**; Due 17.10.2026; Sale Agent LIDIA TUNCKOLLU; IBAN USD TR25…46 39, GBP TR14…46 43. Компания-плательщик не названа — по прецеденту строк 78/92/94 **UK** → Step 3 → ⬜. Клиент VDX. Совпадений по 20 000 / 001278 нет.",
+      "calc": null
+    },
+    {
+      "row": 240,
+      "date": "2026-10-07",
+      "sum": 42755.45,
+      "currency": "USD",
+      "company": "UK",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
       "notes": null,
       "calc": null
     }
