@@ -2263,5 +2263,25 @@
     "notes": "📄 08.10.2026 (📨 Цветы, файл «Novpec S.A. 10000.docx») — **форма реквизитов платежа (заявка, Тип 4)**: Amount **10 000**, Currency **USD**; Beneficiary **Novpec S.A** (Av. Republica del Salvador N35-82 y Portugal, Quito, Ecuador); Account **48406459**; Beneficiary Bank **Banco Guayaquil S.A** (Pichincha 105 y P. Icaza), SWIFT **GUAYECEGXXX**; Registration number **1792735319001**; Director **ALEX HERNANDEZ**; Intermediary **WELLS FARGO BANK** (SWIFT **PNBPUS3NNYC**, acc 2000192321514). Клиент **Novpec (Цветы)**, компания **Q8** → Step 3 ⬜. ⚠️ Та же форма реквизитов, что была по r44 (15.09, инвойс №10642) — если это повтор, строку удалить. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT. | 📄 08.10.2026 (📨 Цветы, файл «NOVPEC_Invoice_08102026_08-Oct-2026_USD_10000.pdf») — **NOVPEC S.A. INVOICE № 08102026 dd 08-OCT-2026** (TO **Q8 Group Limited**, Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong; CARGO AGENCY FLOWER CARGO): NOVPEC S.A. (Av. Republica del Salvador N35-82 y Portugal, Quito, Ecuador), account **48406459**, **Banco Guayaquil S.A** (SWIFT **GUAYECEGXXX**, Pichincha 105 y P. Icaza); M.A.W.B/H.A.W.B **369-9930 2921**, TOTAL FULL BOXES 18,5; TRUCK INTERFLOWERS; INTERMEDIARY **WELLS FARGO BANK** (PNBPUS3NNYC, acc 2000192321514); Reg. **1792735319001**; Director **ALEX HERNANDEZ**; TOTAL **USD 10 000,00**. ✅ Инвойс-основание; **новый** номер (08102026 ≠ r44/10642) — подтверждает, что r113 = НОВАЯ сделка (не повтор r44).",
     "calc": null,
     "rowId": "flw-000113"
+  },
+  {
+    "row": 114,
+    "date": "2026-10-08",
+    "sum": 37021.09,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFF0000",
+    "clientName": "DBA Euro Plants (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 08.10.2026 (прямое указание Scream: «Создай ещё одну строку у цветов на сегодня с этими данными: 37 021,09 EUR, ATB, USDT, DBA Euro Plants (Цветы)») — **37 021,09 EUR**, компания **ATB**, клиент **DBA Euro Plants (Цветы)**, расчёт **ТЕЗ (USDT)**. Step 0 🔴.",
+    "calc": "ТЕЗ",
+    "rowId": "flw-000114"
   }
 ]
