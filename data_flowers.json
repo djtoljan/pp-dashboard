@@ -2272,15 +2272,15 @@
     "company": "ATB",
     "color": "FFFF0000",
     "clientName": "DBA Euro Plants (Цветы)",
-    "costFormula": null,
+    "costFormula": "37 021,09 × 1,0025 = 37 113,64 + 80 = 37 193,64 × 1,13 = 42 028,82 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 08.10.2026 (прямое указание Scream: «Создай ещё одну строку у цветов на сегодня с этими данными: 37 021,09 EUR, ATB, USDT, DBA Euro Plants (Цветы)») — **37 021,09 EUR**, компания **ATB**, клиент **DBA Euro Plants (Цветы)**, расчёт **ТЕЗ (USDT)**. Step 0 🔴.",
+    "sent_usdt": 42028.82,
+    "notes": "📄 08.10.2026 (прямое указание Scream: «Создай ещё одну строку у цветов на сегодня с этими данными: 37 021,09 EUR, ATB, USDT, DBA Euro Plants (Цветы)») — **37 021,09 EUR**, компания **ATB**, клиент **DBA Euro Plants (Цветы)**, расчёт **ТЕЗ (USDT)**. Step 0 🔴. | 🧮 08.10.2026 (Scream, расчёт): 37 021,09 × 1,0025 = 37 113,64; + 80 = 37 193,64; × 1,13 = **42 028,82 USDT**. costFormula/sent_usdt проставлены.",
     "calc": "ТЕЗ",
     "rowId": "flw-000114"
   }
