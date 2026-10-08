@@ -4604,6 +4604,25 @@
       "sent_usdt": null,
       "notes": "📄 07.10.2026 (📨 Платежи VDX, подпись «**Payment from  ❗️**» — компания-плательщик НЕ названа; файл «invoice 42 755,45 USD.pdf») — **Заявка/ордер на платёж (Тип 4)**: Beneficiary **Etica Empresa Turística Internacional C.A.** (Av. de las Palmeras N45-74 y Las Orquídeas, Quito, Ecuador); Bank **TERRABANK N.A** (3191 Coral Way, PH1, Miami, FL 33145, USA), SWIFT **TBNAUS33**, счёт **1305229206**; Payment details «**INV.00094445 dd.07/10/2026, INV.00094455 dd.05/10/2026**»; Amount **42 755,45 USD**; **OUR**. Компания-плательщик не названа — по прецеденту строк 78/92/94 **UK** → Step 3 → ⬜. Клиент VDX. (Прежняя сделка Etica — строка 94, 34 578 USD, INV.00094444.)",
       "calc": null
+    },
+    {
+      "row": 241,
+      "date": "2026-10-08",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null
     }
   ]
 }
