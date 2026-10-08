@@ -4823,6 +4823,20 @@
       "notes": "📄 08.10.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️»; файл «INV_PROFUN_100,000.00 USD.pdf») — **ордер на платёж / INVOICE (Тип 4)**: плательщик **Q8**; Beneficiary **PROFUN INTERNATIONAL TRADING GROUP** (US/840, New York, 13 Campden Rd., Scarsdale, NY 10583-3301); банк **JPMORGAN CHASE BANK, N.A.** (US/840, New York, 383 Madison Avenue; SWIFT **CHASUS33XXX**), счёт **829703719**; Payment details «**BTV-2024-04**»; сумма **100 000,00 USD**; комиссия **OUR**. Компания **Q8** → Step 3 ⬜. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 100 000,00 + 0,3% + 30 = 100 330,00 USDT.",
       "calc": "ТЕЗ",
       "sent_usdt": 100330
+    },
+    {
+      "row": 256,
+      "date": "2026-10-08",
+      "sum": 23542.57,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": "23 542,57 + 0,3% + 30 = 23 643,20 USDT",
+      "extra": null,
+      "notes": "📄 08.10.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️»; файл «INV 23 542,57 USD.pdf») — **ордер на платёж / INVOICE (Тип 4)**: плательщик **Q8**; Beneficiary **OKAR DIS TICARET LIMITED SIRKETI** (Bahcesehir 2. Kisim Mah., 50. Yil Cad., Avrupark Bahcekent D01 No:71, Ic Kapi No:17, Basaksehir / Istanbul); банк **Türkiye Vakiflar Bankası T.A.O**, SWIFT **TVBATR2A**, счёт **TR23 0001 5001 5804 8024 7897 38**; Payment details «**PROFORMA INVOICE NO. 081026 DATED 08.10.2026**»; сумма **23 542,57 USD**; комиссия **OUR**. Компания **Q8** → Step 3 ⬜. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 23 542,57 + 0,3% + 30 = 23 643,20 USDT.",
+      "calc": "ТЕЗ",
+      "sent_usdt": 23643.2
     }
   ]
 }
