@@ -4747,6 +4747,48 @@
       "extra": null,
       "notes": "📄 08.10.2026 (📨 Платежи VDX, файл «Mr. Artem Astanin x 4pax - invoice.pdf») — **Invoice (Тип 4)**: **TOMCO Incentive & Travel Service Ltd** (Unit 26, Floor L2, Mirror Tower, 61 Mody Road, Tsimshatsui East, Hong Kong) → получатель платежа Tomco Incentive And Travel Service Ltd, банк **Bank of China (Hong Kong) Limited**, счёт **012-878-2-034186-5**, SWIFT **BKCHHKHHXXX**. Бронь **Mr. Artem Astanin x 4pax** (Peninsula Shanghai, Deluxe River Room ×2, заезд 31Oct26 — выезд 05Nov26): **Total USD 7 600,00** (= CNY 51 021,00). Компания **UK** (серия TOMCO: r184, r228 — UK). Step 3 → ⬜.",
       "calc": null
+    },
+    {
+      "row": 251,
+      "date": "2026-10-08",
+      "sum": 482142.86,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": "482 142,86 + 0,3% + 30 = 483 619,29 USDT",
+      "extra": null,
+      "notes": "📄 08.10.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️»; файл «4_5922614976102539242.pdf») — **ордер на платёж / INVOICE (Тип 4)**: плательщик **Q8**; Beneficiary **UMEI LIMITED** (Rooms 1318-19, 13/F, Hollywood Plaza, 610 Nathan Road, Mong Kok, Hong Kong); банк **The Hong Kong and Shanghai Banking Corporation Limited** (HSBC, 1 Queen’s Road Central; SWIFT **HSBCHKHHHKH**), счёт **521-225813-838**; Payment details «**Inv LMN260820001Y dd 20.08.2026**»; позиция KITS - BOX OF 5 × 25000 × 19.2857 = **482 142,86 USD** (full deposit); срок поставки до 07.09.2026; комиссия **OUR**. Компания **Q8** → Step 3 ⬜. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 482 142,86 + 0,3% + 30 = 483 619,29 USDT.",
+      "calc": "ТЕЗ",
+      "sent_usdt": 483619.29
+    },
+    {
+      "row": 252,
+      "date": "2026-10-08",
+      "sum": 78897.4,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": "78 897,40 + 0,3% + 30 = 79 164,09 USDT",
+      "extra": null,
+      "notes": "📄 08.10.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️»; файл «4_5922612115654319497.pdf») — **ордер на платёж (Тип 4)**: плательщик **Q8**; Beneficiary **AIRHOUSE INTERNATIONAL LOGISTICS LIMITED** (Flat 1506, 15/F, Cheung Fung Commercial Bldg, 21-25 Cheung Sha Wan Road, Sham Shui Po, HK); банк **HSBC** (1 Queen’s Road Central; SWIFT **HSBCHKHHHKH**), счёт **747322725838**; Payment details «**DN dd 11.09.2026**»; сумма **78 897,40 USD**; комиссия **OUR**. Компания **Q8** → Step 3 ⬜. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 78 897,40 + 0,3% + 30 = 79 164,09 USDT.",
+      "calc": "ТЕЗ",
+      "sent_usdt": 79164.09
+    },
+    {
+      "row": 253,
+      "date": "2026-10-08",
+      "sum": 79695,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": "79 695,00 + 0,3% + 30 = 79 964,08 USDT",
+      "extra": null,
+      "notes": "📄 08.10.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️»; файл «4_5922793088396304209.pdf») — **ордер на платёж (Тип 4)**: плательщик **Q8**; Beneficiary **CLINK SUPPLY CHAIN LIMITED** (Suite 23048, 8 Shepherd Market, Mayfair, London, UK, W1J 7JY); банк **HSBC** (1 Queen’s Road Central, Hong Kong; SWIFT **HSBCHKHHHKH**), счёт **741765358838**; Payment details «**Inv WTS260901 dd 20.09.2026**»; сумма **79 695,00 USD**; комиссия **OUR**. Компания **Q8** → Step 3 ⬜. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 79 695,00 + 0,3% + 30 = 79 964,08 USDT.",
+      "calc": "ТЕЗ",
+      "sent_usdt": 79964.08
     }
   ]
 }
