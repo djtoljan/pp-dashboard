@@ -4682,6 +4682,19 @@
       "extra": null,
       "notes": "📄 08.10.2026 (📨 Логолок/Fininvest, файл «W20260811-2.pdf») — **INVOICE (proforma) PI# W20260811-2**: продавец/бенефициар **WTRON ELECTRONIC TECHNOLOGY (H.K) CO., LIMITED** (ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15702002010590032281) → покупатель **LLC «LOGOLOK»** (Москва, ул. Бойцовая, 14, к.7, кв.90). Позиция: **TC4-1T+** (MINI) 2000 шт × 0,680 = **1 360,00 USD**; **ИТОГО 1 360,00 USD**. Компания-плательщик не названа → 🔴 (Step 0).",
       "calc": null
+    },
+    {
+      "row": 246,
+      "date": "2026-10-08",
+      "sum": 4214.1,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Логолок",
+      "costFormula": null,
+      "extra": null,
+      "notes": "📄 08.10.2026 (📨 Логолок/Fininvest, файл «W20260917.pdf») — **INVOICE (proforma) PI# W20260917 dd 17.09.2026**: продавец/бенефициар **WTRON ELECTRONIC TECHNOLOGY (H.K) CO., LIMITED** (ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15702002010590032281) → покупатель **LLC «LOGOLOK»** (Москва, ул. Бойцовая, 14, к.7, кв.90). Позиции: **9185507803** (Harting) 1400 × 2,53 = **3 542,00 USD**; **2EDGKN-5.08-06P-14-00Z(H)** (Degson) 20 × 0,65 = **13,00 USD**; **SIP-06T-V** (Diptronics) 1014 × 0,65 = **659,10 USD**; **ИТОГО 4 214,10 USD**. Компания-плательщик не названа → 🔴 (Step 0).",
+      "calc": null
     }
   ]
 }
