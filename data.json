@@ -4627,11 +4627,11 @@
     {
       "row": 242,
       "date": "2026-10-08",
-      "sum": null,
-      "currency": null,
+      "sum": 37956,
+      "currency": "USD",
       "company": null,
-      "color": null,
-      "clientName": null,
+      "color": "FFFF0000",
+      "clientName": "Логолок",
       "costFormula": null,
       "extra": null,
       "rubles_received": null,
@@ -4641,7 +4641,46 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 08.10.2026 (📨 Логолок/Fininvest, файл «W20260731 85%.pdf») — **INVOICE (proforma) PI# W20260731 dd 31.07.2026**: продавец/бенефициар **WTRON ELECTRONIC TECHNOLOGY (H.K) CO., LIMITED** (ZHEJIANG CHOUZHOU COMMERCIAL BANK CO.,LTD, SWIFT CZCBCN2X, счёт NRA15702002010590032281) → покупатель **LLC «LOGOLOK»** (107370, Москва, ул. Бойцовая, 14, корп. 7, кв. 90; Purchaser Nadia Sheremetyeva). Позиции: **AM1063-2** (Atlanta) 1200 шт × 23,520 = **28 224,00 USD**; **TGL4203** (Qorvo) 400 шт × 24,330 = **9 732,00 USD**; **ИТОГО 37 956,00 USD**. Файл помечен «85%». Компания-плательщик не названа → 🔴 (Step 0). ⚠️ уточнить: сумма строки = 37 956 USD (весь инвойс) или 85% = 32 262,60 USD?",
+      "calc": null
+    },
+    {
+      "row": 243,
+      "date": "2026-10-08",
+      "sum": 30285,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Логолок",
+      "costFormula": null,
+      "extra": null,
+      "notes": "📄 08.10.2026 (📨 Логолок/Fininvest, файл «W20260810 50%.pdf») — **INVOICE (proforma) PI# W20260810 dd 10.08.2026**: продавец/бенефициар **WTRON ELECTRONIC TECHNOLOGY (H.K) CO., LIMITED** (ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15702002010590032281) → покупатель **LLC «LOGOLOK»** (Москва, ул. Бойцовая, 14, к.7, кв.90). Позиции: **MA4AGSW1** (MACOM) 300 шт × 8,150 = **2 445,00 USD**; **MA4AGSW2** (MACOM) 1500 шт × 18,560 = **27 840,00 USD**; **ИТОГО 30 285,00 USD**. Файл помечен «50%». Компания-плательщик не названа → 🔴 (Step 0). ⚠️ уточнить: сумма = 30 285 USD (весь инвойс) или 50% = 15 142,50 USD?",
+      "calc": null
+    },
+    {
+      "row": 244,
+      "date": "2026-10-08",
+      "sum": 7086,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Логолок",
+      "costFormula": null,
+      "extra": null,
+      "notes": "📄 08.10.2026 (📨 Логолок/Fininvest, файл «W20260811.pdf») — **INVOICE (proforma) PI# W20260811 dd 11.08.2026**: продавец/бенефициар **WTRON ELECTRONIC TECHNOLOGY (H.K) CO., LIMITED** (ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15702002010590032281) → покупатель **LLC «LOGOLOK»** (Москва, ул. Бойцовая, 14, к.7, кв.90). Позиция: **TGL4203-SM** (Qorvo) 300 шт × 23,620 = **7 086,00 USD**; **ИТОГО 7 086,00 USD**. Компания-плательщик не названа → 🔴 (Step 0).",
+      "calc": null
+    },
+    {
+      "row": 245,
+      "date": "2026-10-08",
+      "sum": 1360,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Логолок",
+      "costFormula": null,
+      "extra": null,
+      "notes": "📄 08.10.2026 (📨 Логолок/Fininvest, файл «W20260811-2.pdf») — **INVOICE (proforma) PI# W20260811-2**: продавец/бенефициар **WTRON ELECTRONIC TECHNOLOGY (H.K) CO., LIMITED** (ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15702002010590032281) → покупатель **LLC «LOGOLOK»** (Москва, ул. Бойцовая, 14, к.7, кв.90). Позиция: **TC4-1T+** (MINI) 2000 шт × 0,680 = **1 360,00 USD**; **ИТОГО 1 360,00 USD**. Компания-плательщик не названа → 🔴 (Step 0).",
       "calc": null
     }
   ]
