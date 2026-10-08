@@ -665,7 +665,7 @@
     "sum": 77164,
     "currency": "USD",
     "company": "Terustav",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(77 164,00 USD + 100) × 1,005 = 77 650,32 USDT",
     "extra": null,
