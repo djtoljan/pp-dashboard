@@ -4809,6 +4809,20 @@
       "extra": null,
       "notes": "📄 08.10.2026 (📨 Неско- Fininvest/ЭТБ, файл «Poruchenie_23__Global от 08.10.2026.docx») — **ПОРУЧЕНИЕ № 23 от 08.10.2026** (Transfer request No. 23): Принципал **ООО «Неско САНКТ-ПЕТЕРБУРГ»** → получатель **GLOBAL MARINE SUPPLY OÜ** (Spinati tee 16, Maardu 74117, Harjumaa, Estonia); банк **PKO BANK POLSKI S.A.** (UL. PULAWSKA 15, WARSZAWA), SWIFT **BPKOPLPWXXX**, IBAN **PL71102049000000890235842116**; сумма **65 300,40 EUR**; назначение «Payment to contract **14/2022 dd 01.09.2023**, invoice **GLO-260974 dd 22.09.2026 — 18 218,40 eur**, **GLO-260975 dd 27.08.2026 — 47 082,00 eur** for alcoholic products» (18 218,40 + 47 082,00 = 65 300,40). Компания-плательщик в поручении не названа → 🔴 (Step 0). ⚠️ тот же получатель/банк/контракт, что в r59/r200 (компания PRIME FOOD) — уточнить компанию.",
       "calc": null
+    },
+    {
+      "row": 255,
+      "date": "2026-10-08",
+      "sum": 100000,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": "100 000,00 + 0,3% + 30 = 100 330,00 USDT",
+      "extra": null,
+      "notes": "📄 08.10.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️»; файл «INV_PROFUN_100,000.00 USD.pdf») — **ордер на платёж / INVOICE (Тип 4)**: плательщик **Q8**; Beneficiary **PROFUN INTERNATIONAL TRADING GROUP** (US/840, New York, 13 Campden Rd., Scarsdale, NY 10583-3301); банк **JPMORGAN CHASE BANK, N.A.** (US/840, New York, 383 Madison Avenue; SWIFT **CHASUS33XXX**), счёт **829703719**; Payment details «**BTV-2024-04**»; сумма **100 000,00 USD**; комиссия **OUR**. Компания **Q8** → Step 3 ⬜. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 100 000,00 + 0,3% + 30 = 100 330,00 USDT.",
+      "calc": "ТЕЗ",
+      "sent_usdt": 100330
     }
   ]
 }
