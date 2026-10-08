@@ -717,5 +717,18 @@
     "extra": null,
     "notes": "📄 08.10.2026 (📨 Константин Просто Группа, файл «17 500 EUR  (08.10.2026).xlsx» — форма заявки) — **ЗАЯВКА на платёж**: сумма **17 500,00 EUR**; бенефициар **Malvarrosa OÜ** (Estonia, Tulika 19, Kristiine linnaosa, Tallinn, 10613); банк **Paysera LT, UAB** (IBAN **LT923500010017273592**, SWIFT **EVIULT2VXXX**); назначение «**Payment for furniture to invoice No. M09-03 dd 16.09.2026**». Та же сделка/инвойс, что r29 (Malvarrosa OÜ, инв. M09-03, компания VELLORA, первая оплата 16 500 EUR). Компания-плательщик в форме не названа → 🔴 (Step 0). ⚠️ уточнить: это доплата по M09-03 (полный инвойс 33 000 €) и компания снова VELLORA? | 📄 08.10.2026 (📨 Константин Просто Группа, файл «invoice M09-03 Paysera.pdf») — **INVOICE Nr M09-03 dd 16.09.2026**: продавец **MALVARROSA OÜ** (Reg. 14389384, Tulika 19, 10613 Tallinn, Estonia; VAT EE102033661; Paysera LT UAB, IBAN LT923500010017273592, SWIFT EVIULT2VXXX), позиция **Tableware** — **ИТОГО 34 000,00 €**. Та же сделка, что r29 (компания **VELLORA**, покупатель VELLORA HOME LIMITED). ✅ Сверка оплат по инвойсу: 16 500,00 € (r29) + 17 500,00 € (эта строка) = **34 000,00 €** — полная оплата M09-03. Компания **VELLORA** → Step 3 ⬜.",
     "calc": null
+  },
+  {
+    "row": 38,
+    "date": "2026-10-08",
+    "sum": 34987.86,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "notes": "📄 08.10.2026 (📨 Константин Просто Группа, файл «инвойс 2026WD-SH-02 пдф.pdf»; инвойс датирован 05.09.2026, Invoice No. 2026WD-IST / 2026WD-SH-02 DD 03.09.2026) — **INVOICE / COMMERCIAL INVOICE**: Sold to **PT VARD TRADE NOKRA**; FOB CHONGQING, CHINA; позиция **Frame parts** — 300 SETS × 116,62 = **34 987,86 USD**; бенефициар **CHONGQING WOIDEAL SPECIAL VEHICLE CO., LTD.** (Building 2, No.7, Tonggui Second Road, Yufengshan Town, Yubei District, Chongqing, China); банк **STANDARD CHARTERED BANK (CHINA) LIMITED CHONGQING BRANCH** (SWIFT **SCBLCNSXCHQ**), USD-счёт **000000501511863812** (CNY-счёт 000000501511863811). Компания-плательщик в инвойсе не названа → 🔴 (Step 0). | 📄 08.10.2026 (📨 Константин Просто Группа, файл «34987,86 USD (08.10.2026).xlsx» — форма заявки) — **ЗАЯВКА на платёж**: сумма **34 987,86 USD**; бенефициар **CHONGQING WOIDEAL SPECIAL VEHICLE CO., LTD** (Building 2, No.7, Tonggui Second Road, Yufengshan Town, Yubei, Chongqing, China); банк **STANDARD CHARTERED BANK (CHINA) LIMITED CHONGQING BRANCH**, SWIFT **SCBLCNSXCHQ**, счёт **000000501511863812**; назначение «**PAYMENT FOR PROFORMA 2026WD-SH-02 DD 05.09.2026**». Совпадает с инвойсом (r38, 34 987,86 USD) — та же сделка. Компания-плательщик в форме не названа → остаётся 🔴.",
+    "calc": null
   }
 ]
