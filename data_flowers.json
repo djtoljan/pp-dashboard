@@ -2081,7 +2081,19 @@
     "sent_usdt": 14171,
     "notes": "📄 07.10.2026 (📨 Цветы, файлы «UNIFLOR L.L.C-FZ 14 000.doc» + «prof_inv_013_2026_CLEAR.pdf») — **PROFORMA INVOICE No. 17/2026 dd 06/10/2026**: Seller **UNIFLOR L.L.C-FZ** (Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, UAE; License 2538917.01; TRN 105336460800001) → Buyer **PT LEO SPOT CAPITAL** (Company No. 1402220067067, Biliq Sunset Office Space, Ruko Sunset Indah II No. 10, Kuta, Badung, Bali, Indonesia). Позиция: «Supply of fresh-cut flowers of South Africa origin» = **14 000,00 USD**; Total **$14 000,00** (= AED 51 380 при 1$=3.67 AED); Mode/Terms of Payment **Bank transfer**; оплата в течение 7 кал. дней; VAT not applicable; Supply to: TBA. Банк получателя: **Emirates Islamic** (EI SHK ZAYED RD AL WASL TOWER, Dubai, UAE), счёт **3708515772902**, IBAN **AE530340003708515772902**, BIC/SWIFT **MEBLAEADXXX**. Director UNIFLOR — Mr. Yaakov Sheinkman. Второй файл (.doc, конвертирован из CFB через Word COM) — **форма реквизитов (SWIFT-поля)**: USD 14 000,00; получатель UNIFLOR L.L.C-FZ (IBAN AE530340003708515772902, EMIRATES ISLAMIC, MEBLAEADXXX). Company (buyer) **LEO SPOT CAPITAL** → Step 3 → ⬜. Совпадений по 14 000 / UNIFLOR / LEO SPOT в 5 таблицах нет (новая сделка). | 📄 08.10.2026 (📨 Ордера и Расчеты !, «Payment from TOMO❗️»; файл «INV 14 000,00 USD (2).pdf») — **ордер на платёж (Тип 4)**: Beneficiary **UNIFLOR L.L.C-FZ** (Meydan Grandstand, Dubai); банк **EMIRATES ISLAMIC**, SWIFT **MEBLAEADXXX**, счёт **AE530340003708515772902**; Payment details «**INV 17/2026 dd 06.10.26**»; сумма **14 000,00 USD**; OUR. Компания-плательщик → **TOMO**. Подтверждает эту строку (UNIFLOR, proforma 17/2026, 14 000 USD). | 💸 08.10.2026 (📨 Платежные Поручения, файл «14000_USD_78606.pdf») — **International Foreign Currency Transfer (Индонезия, Single Transfer)** — Transaction Status **Pending Approval** (подвешено, не исполнено): Ref No **261008191506308** (Doc No 261008191506308), Submit **08.10.2026 19:28:52 GMT+07**; Transfer From **003705931735 / TOMO TRADING GROUP P(USD)** → Beneficiary **UNIFLOR L.L.C-FZ** (Meydan Grandstand, 6th fl, Meydan Rd, Nad Al Sheba, Dubai), банк **EMIRATES ISLAMIC BANK** (MEBLAEADXXX, Dubai), счёт **AE530340003708515772902**; Amount **14 000,00 USD**, Remittance Charge **Full Amount (Our)**, Instruction Mode Immediate, Expired On 07 Nov 2026 → ⬜→🟡. | 💸 08.10.2026 (Ордера и Расчеты !; Scream: «(14 000,00 USD + 100) * 1.005 = 14171; (34 987,86 USD + 100) * 1.005 = 35263; 14171+35263 = 49 434. Отсюда: TKrAyPuMVG83R557sHzNU7sHUyFk2WjDri; Сюда: TVi7HtQW2tcmcxUQu5nW2oaiGT9yJNVMVh») — расчёт себестоимости: (14 000,00 + 100) × 1,005 = **14 171 USDT**; sent_usdt проставлен. Планируемый сводный OUT 49 434 USDT (Рабочий 4 → TVi7HtQW2tcmcxUQu5nW2oaiGT9yJNVMVh) вместе с Константин r38 (35 263).",
     "calc": null,
-    "rowId": "flw-000104"
+    "rowId": "flw-000104",
+    "payment_facts": [
+      {
+        "entryId": "OUT_49434_08.10.2026_1791474789806",
+        "ref": "640062a41770ec03aaef83f7b7bc188bcab31b76aa58b7cdaa3e694b4944ed20",
+        "txid": "640062a41770ec03aaef83f7b7bc188bcab31b76aa58b7cdaa3e694b4944ed20",
+        "bobrAlertId": null,
+        "date": "08.10.2026",
+        "direction": "OUT",
+        "amount": 14171,
+        "rowId": "flw-000104"
+      }
+    ]
   },
   {
     "row": 105,
@@ -2282,6 +2294,18 @@
     "sent_usdt": 42028.82,
     "notes": "📄 08.10.2026 (прямое указание Scream: «Создай ещё одну строку у цветов на сегодня с этими данными: 37 021,09 EUR, ATB, USDT, DBA Euro Plants (Цветы)») — **37 021,09 EUR**, компания **ATB**, клиент **DBA Euro Plants (Цветы)**, расчёт **ТЕЗ (USDT)**. Step 0 🔴. | 🧮 08.10.2026 (Scream, расчёт): 37 021,09 × 1,0025 = 37 113,64; + 80 = 37 193,64; × 1,13 = **42 028,82 USDT**. costFormula/sent_usdt проставлены.",
     "calc": "ТЕЗ",
-    "rowId": "flw-000114"
+    "rowId": "flw-000114",
+    "payment_facts": [
+      {
+        "entryId": "OUT_42028.82_08.10.2026_1791474153579",
+        "ref": "3bcb473edad015b2d3122e6657b973a3cd637d447e2b9b9ae6c845af14f33903",
+        "txid": "3bcb473edad015b2d3122e6657b973a3cd637d447e2b9b9ae6c845af14f33903",
+        "bobrAlertId": null,
+        "date": "08.10.2026",
+        "direction": "OUT",
+        "amount": 42028.82,
+        "rowId": "flw-000114"
+      }
+    ]
   }
 ]

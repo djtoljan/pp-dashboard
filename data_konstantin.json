@@ -757,7 +757,29 @@
     "calc": null,
     "rowId": "kon-000037",
     "received_usdt": 19764.95,
-    "sent_usdt": 19735.725
+    "sent_usdt": 19735.725,
+    "payment_facts": [
+      {
+        "entryId": "IN_55132.71_08.10.2026_1791466159087",
+        "ref": "fcc12c49a1f7dabfc30e8b8a2d1454cffa2cafd77cf405b91f64e829271ca9a5",
+        "txid": "fcc12c49a1f7dabfc30e8b8a2d1454cffa2cafd77cf405b91f64e829271ca9a5",
+        "bobrAlertId": null,
+        "date": "08.10.2026",
+        "direction": "IN",
+        "amount": 19764.95,
+        "rowId": "kon-000037"
+      },
+      {
+        "entryId": "OUT_93073_08.10.2026_1791473075166",
+        "ref": "63e906d6496974dcda525fc6a13bff2ffc3982da650dd9a0fdc3ae425a64eef8",
+        "txid": "63e906d6496974dcda525fc6a13bff2ffc3982da650dd9a0fdc3ae425a64eef8",
+        "bobrAlertId": null,
+        "date": "08.10.2026",
+        "direction": "OUT",
+        "amount": 19735.72,
+        "rowId": "kon-000037"
+      }
+    ]
   },
   {
     "row": 38,
@@ -773,6 +795,28 @@
     "calc": null,
     "rowId": "kon-000038",
     "received_usdt": 35367.76,
-    "sent_usdt": 35263
+    "sent_usdt": 35263,
+    "payment_facts": [
+      {
+        "entryId": "OUT_49434_08.10.2026_1791474789806",
+        "ref": "640062a41770ec03aaef83f7b7bc188bcab31b76aa58b7cdaa3e694b4944ed20",
+        "txid": "640062a41770ec03aaef83f7b7bc188bcab31b76aa58b7cdaa3e694b4944ed20",
+        "bobrAlertId": null,
+        "date": "08.10.2026",
+        "direction": "OUT",
+        "amount": 35263,
+        "rowId": "kon-000038"
+      },
+      {
+        "entryId": "IN_55132.71_08.10.2026_1791466159087",
+        "ref": "fcc12c49a1f7dabfc30e8b8a2d1454cffa2cafd77cf405b91f64e829271ca9a5",
+        "txid": "fcc12c49a1f7dabfc30e8b8a2d1454cffa2cafd77cf405b91f64e829271ca9a5",
+        "bobrAlertId": null,
+        "date": "08.10.2026",
+        "direction": "IN",
+        "amount": 35367.76,
+        "rowId": "kon-000038"
+      }
+    ]
   }
 ]
