@@ -640,5 +640,26 @@
     "notes": "📤 09 октября 2026 (📨 Молодежь, файл «rpp_274 (2).pdf») — ПП на VDX №274 от 09 октября 2026 ИСПОЛНЕН (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): плательщик **ООО «ВИВАС»** (ИНН 9703208866, КПП 781401001, счёт 40702810100810051750, Банк ВТБ) → **ВиДиИкс Сервисез - ФЗКО** (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, счёт 40807810000000015414), **2 932 362,90 ₽**, {VO11200} Постоплата за товар по инвойсу VIVAS20261009, договор 2V09/2025, HS code 9031803800, НДС не облагается. sent_rubles_vdx = 2932362.90 (VDX). ⚠️ заявки нет — 🔵 отправка на VDX.",
     "calc": null,
     "rowId": "mol-000125"
+  },
+  {
+    "row": 33,
+    "date": "2026-10-09",
+    "sum": 30000,
+    "currency": "EUR",
+    "company": "TOMO",
+    "color": "FFFFFFFF",
+    "clientName": "Василий",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000126"
   }
 ]
