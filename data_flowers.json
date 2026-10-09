@@ -2328,5 +2328,26 @@
     "notes": "✏️ 09.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 20 000,00 + 0,3% + 30 = 20 090,00 USDT. | 📄 09.10.2026 (📨 Цветы; файл «Inv №FL01:091026.pdf») — INVOICE № FL01/091026 dd 09.10.2026: **ModestoGroup OU** (Reg. 16203107, Tallinn, Estonia; info@m-flowers.com) → bill to **Q8 Group Limited**; AA Kenyan rose mix + AA Air logistics services, Total **20 000,00 USD**. Реквизиты: THE CURRENCY CLOUD LIMITED (London, UK), SWIFT TCCLGB3L, IBAN GB32TCCL04143483461312. Заявка на оплату от Q8 → ⬜ (Step 3).",
     "calc": null,
     "rowId": "flw-000116"
+  },
+  {
+    "row": 116,
+    "date": "2026-10-09",
+    "sum": null,
+    "currency": null,
+    "company": "—",
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "5721604.38",
+    "statementRef": "Почтабанк Блэкшарк iBank (Кт ПП №367, ПРИОРИТЕТ МАРКЕТ)",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: Почтабанк Блэкшарк iBank (Кт ПП №367, ПРИОРИТЕТ МАРКЕТ) | 🏦 09 октября 2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf») — предварительная выписка АО АКИБ «ПОЧТОБАНК» (ОсОО «Блэкшарк Трейд», счёт 40807810100157518600): приход **Кт ПП №367** — **ООО «ПРИОРИТЕТ МАРКЕТ»** (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723), **5 721 604,38 ₽**, {VO11200} «Для зачисления по контракту, оплата за цветочную продукцию» → rubles_received = 5 721 604,38. Прочие операции выписки подтверждены (Дт №639 → d78 row 1; Дт №640 → main row 63; Кт №2611/2613 → d78 row 2; Кт №81 → main row 63). 🔵 — ждём отправку на VDX.",
+    "calc": null,
+    "rowId": "flw-000118"
   }
 ]
