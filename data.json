@@ -5271,7 +5271,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 09.10.2026 (📨 Платежи VDX, подпись «Payment from ❗️» — компания-плательщик НЕ названа; файл «invoice_FZ323M (2).pdf») — **ордер на платёж**: Beneficiary **ELEVATE TOURISM LLC** (Elevate Tourism Hub, Warehouse 10, Al Khayat Avenue, Al Quoz, Dubai, UAE, P.O. Box 114456); банк **EMIRATES NBD BANK PJSC** (DUBAI-SATWA, UAE, SWIFT **EBILAEAD**), счёт **AE180260001025774459102**; Payment details «**INV.FZ323M**»; сумма **50 856,00 USD**; OUR. Клиент **VDX** (как ELEVATE r224).",
       "calc": null,
       "rowId": "main-000261"
     }
