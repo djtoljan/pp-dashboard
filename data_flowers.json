@@ -2316,7 +2316,7 @@
     "company": "Alsafi Q8",
     "color": "FFFFFFFF",
     "clientName": "Gulf Flowers FZCO (Цветы)",
-    "costFormula": null,
+    "costFormula": "119408,86 + 0,3% = 119767,09 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2324,8 +2324,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 119767.09,
+    "notes": " | 📄 09.10.2026 (Scream): Gulf Flowers FZCO (Цветы), 07.10.2026 119 408,86 USD, компания Alsafi Q8. Себестоимость +0,3% (без +30). Маршрут Al Safi (заявление на покупку 119 800 USD за 10 266 860 ₽, курс 85,7).",
     "calc": null,
     "rowId": "flw-000115"
   }
