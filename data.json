@@ -1184,6 +1184,39 @@
     {
       "row": 58,
       "date": "2026-10-09",
+      "sum": 30000,
+      "currency": "EUR",
+      "company": "TOMO",
+      "color": "FFFFFFFF",
+      "clientName": "Василий",
+      "costFormula": "(30 000,00 + 100) x 1,1209 x 1,027 = 34 650 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 34650,
+      "notes": "| 📄 09.10.2026 (📨 Платежи VDX / @VDX_services — «Payment from TOMO❗️») — ордер на платёж: Amount **30 000,00 EUR**; Beneficiary **Vassili Neizvestnoi** (6/68 Muban Ban Suan Yu Charoen 2, Chengtalay, Thalang 83110); Beneficiary Bank **BANGKOK BANK PUBLIC COMPANY LIMITED** (333 Silom Road, Bangkok), SWIFT **BKKBTHBK**, account **696 7 12752 0**; payment details «Inv 01092026-1 dd 01.09.2026»; OUR. Компания-плательщик **TOMO**; заявка оплачена в составе сводного OUT 63 930 (KIRANA 24 390 + TOMO 4 890 + Vassili Neizvestnoi 34 650). | 🔗 2026-10-09 (Scream: «клиент ведётся в Main») — строка перенесена из таблицы Molodezh (была row 33, rowId mol-000126) в Main (rowId main-000267).",
+      "calc": null,
+      "rowId": "main-000267",
+      "payment_facts": [
+        {
+          "entryId": "OUT_63930_09.10.2026_1791559734990",
+          "ref": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
+          "txid": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
+          "bobrAlertId": null,
+          "date": "09.10.2026",
+          "direction": "OUT",
+          "amount": 34650,
+          "rowId": "main-000267"
+        }
+      ]
+    },
+    {
+      "row": 59,
+      "date": "2026-10-09",
       "sum": 27000,
       "currency": "EUR",
       "company": "UK",
@@ -1215,7 +1248,7 @@
       ]
     },
     {
-      "row": 59,
+      "row": 60,
       "date": "2026-10-09",
       "sum": 50856,
       "currency": "USD",
@@ -1248,7 +1281,7 @@
       ]
     },
     {
-      "row": 60,
+      "row": 61,
       "date": "2026-10-09",
       "sum": 14091,
       "currency": "USD",
@@ -1281,7 +1314,7 @@
       ]
     },
     {
-      "row": 61,
+      "row": 62,
       "date": "2026-10-09",
       "sum": 29600,
       "currency": "EUR",
@@ -1302,7 +1335,7 @@
       "rowId": "main-000263"
     },
     {
-      "row": 62,
+      "row": 63,
       "date": "2026-10-09",
       "sum": 31180,
       "currency": "EUR",
@@ -1335,7 +1368,7 @@
       ]
     },
     {
-      "row": 63,
+      "row": 64,
       "date": "2026-10-09",
       "sum": null,
       "currency": null,
@@ -1356,7 +1389,7 @@
       "rowId": "main-000265"
     },
     {
-      "row": 64,
+      "row": 65,
       "date": "2026-10-09",
       "sum": 723,
       "currency": "USD",

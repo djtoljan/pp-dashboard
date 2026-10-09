@@ -666,38 +666,5 @@
     "notes": "📤 09 октября 2026 (📨 Молодежь, файл «rpp_274 (2).pdf») — ПП на VDX №274 от 09 октября 2026 ИСПОЛНЕН (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): плательщик **ООО «ВИВАС»** (ИНН 9703208866, КПП 781401001, счёт 40702810100810051750, Банк ВТБ) → **ВиДиИкс Сервисез - ФЗКО** (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, счёт 40807810000000015414), **2 932 362,90 ₽**, {VO11200} Постоплата за товар по инвойсу VIVAS20261009, договор 2V09/2025, HS code 9031803800, НДС не облагается. sent_rubles_vdx = 2932362.90 (VDX). ⚠️ заявки нет — 🔵 отправка на VDX.",
     "calc": null,
     "rowId": "mol-000125"
-  },
-  {
-    "row": 33,
-    "date": "2026-10-09",
-    "sum": 30000,
-    "currency": "EUR",
-    "company": "TOMO",
-    "color": "FFFFFFFF",
-    "clientName": "Василий",
-    "costFormula": "(30 000,00 + 100) x 1,1209 x 1,027 = 34 650 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 34650,
-    "notes": "| 📄 09.10.2026 (📨 Платежи VDX / @VDX_services — «Payment from TOMO❗️») — ордер на платёж: Amount **30 000,00 EUR**; Beneficiary **Vassili Neizvestnoi** (6/68 Muban Ban Suan Yu Charoen 2, Chengtalay, Thalang 83110); Beneficiary Bank **BANGKOK BANK PUBLIC COMPANY LIMITED** (333 Silom Road, Bangkok), SWIFT **BKKBTHBK**, account **696 7 12752 0**; payment details «Inv 01092026-1 dd 01.09.2026»; OUR. Компания-плательщик **TOMO**; заявка оплачена в составе сводного OUT 63 930 (KIRANA 24 390 + TOMO 4 890 + Vassili Neizvestnoi 34 650).",
-    "calc": null,
-    "rowId": "mol-000126",
-    "payment_facts": [
-      {
-        "entryId": "OUT_63930_09.10.2026_1791559734990",
-        "ref": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
-        "txid": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
-        "bobrAlertId": null,
-        "date": "09.10.2026",
-        "direction": "OUT",
-        "amount": 34650,
-        "rowId": "mol-000126"
-      }
-    ]
   }
 ]
