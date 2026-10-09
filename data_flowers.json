@@ -2307,5 +2307,26 @@
         "rowId": "flw-000114"
       }
     ]
+  },
+  {
+    "row": 115,
+    "date": "2026-10-07",
+    "sum": 119408.86,
+    "currency": "USD",
+    "company": "Alsafi Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Gulf Flowers FZCO (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000115"
   }
 ]
