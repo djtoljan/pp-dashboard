@@ -198,5 +198,47 @@
         "rowId": "kon-000038"
       }
     ]
+  },
+  {
+    "row": 8,
+    "date": "2026-10-09",
+    "sum": 12700.48,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 09.10.2026 (📨 Константин Просто Группа, файл «PROFORMA INVOICE_26-010-000175.pdf») — **PROFORMA INVOICE № 26-010-000175** (сербская форма, дата 30.09.2026, действует до 15.10.2026; оформлена в DataLab / RESTART SHOP): покупатель (kupac) **Q8 GROUP LIMITED** (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: **CX1 BOOST MIELE Boost CX1 Graphite grey VC** (HS 8508110000), 71 kom / 5,680 bruto KG, цена 178,88 → **12 700,48 EUR**, PDV 0%. Компания-плательщик **Q8** → Step 3 → ⬜. | 📄 09.10.2026 (📨 Константин Просто Группа, файл «12700,48 EUR (09.10.2026).xlsx» — заявка / application form) — **заявка на платёж** (валюта **EUR**): бенефициар **220-B d.o.o.** (Bosanska 47, 11224 Vrčin, Сербия), банк **OTP BANKA SRBIJA A.D.** (BULEVAR OSLOBODJENJA 80, NOVI SAD; SWIFT **OTPVRS22**, счёт **RS35325960160000415772**); назначение «Payment for household appliances to invoice No. **26-010-000174 dd 29.09.2026**; **26-010-000175 dd 30.09.2026**». Заявка покрывает ДВЕ проформы — **000174** (строки нет) + **000175** (= эта строка r8). Строка r8 — часть общей заявки.",
+    "calc": null,
+    "rowId": "kon-000039"
+  },
+  {
+    "row": 9,
+    "date": "2026-10-09",
+    "sum": 42880,
+    "currency": "USD",
+    "company": "Terustav",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 09.10.2026 (📨 Константин Просто Группа, файл «INV ABC USD 42880 (1).pdf») — **INVOICE (ABC World Trade)** от поставщика **ABC** (Director Putu Alit Setiawati; Jalan Ratna No. 80, Tonja, Denpasar Utara, Bali, Indonesia; official.abcworldtrade@gmail.com; abcworldtrade.com) → покупателю **Terustav Trade Limited** (Unit Level 9F(2), Main Office Tower, Financial Park Labuan, Jalan Merdeka, Labuan, Malaysia; terustav.com). Услуги: **consulting and marketing services** (market research and analysis; strategic advice on market entry and business expansion), 1 поз. × 42 880,00 = **42 880,00 USD**. Банк поставщика: **Bank Mandiri (Persero)** (Jakarta; SWIFT **BMRIIDJA**, счёт USD 1750004922307). Компания-плательщик **Terustav** → ⬜ (Step 3). | 📄 09.10.2026 (📨 Константин Просто Группа, файл «42880 USD (09.10.2026).xlsx» — заявка / application form, заполнена клиентом) — **заявка на платёж**: сумма **42 880 USD**; бенефициар **PT ABC WORLD TRADE** (Indonesia; Jalan Ratna Nomor 80, Tonja, Denpasar Utara, Bali); банк **Bank Mandiri (Persero)** (Indonesia, JL. GATOT SUBROTO 36-38, Jakarta; SWIFT **BMRIIDJA**, счёт **1750004922307**); назначение «invoice N: U011026 dd 01/10/26». Та же сделка, что строка выше (ABC → Terustav, 42 880 USD) — новую строку не создаю, ⬜.",
+    "calc": null,
+    "rowId": "kon-000040"
   }
 ]
