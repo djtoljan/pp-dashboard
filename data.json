@@ -1241,6 +1241,27 @@
       "notes": "📄 09.10.2026 (📨 Платежи VDX, подпись «Payment from ❗️» — компания-плательщик НЕ названа; файл «INVOIS №J-WW261102-B -08.10.pdf») — **ордер на платёж**: Beneficiary **SANYA HAIYUE TRAVEL SERVICE CO. LTD.** (151 Xiayangtian 1st Road, Sanya, Hainan 572000, China); банк **BANK OF CHINA SANYA BRANCH** (SWIFT **BKCHCNBJ75A**), счёт **265000093812**; Payment details «**INV.J-WW261102-B dd.08.10.2026**»; сумма **14 091,00 USD**; OUR. Клиент **VDX** (серия «Payment from ❗️», 📨 Платежи VDX).",
       "calc": null,
       "rowId": "main-000262"
+    },
+    {
+      "row": 61,
+      "date": "2026-10-09",
+      "sum": 29600,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "📄 09.10.2026 (📨 ВТС-Fininvest t5273; файлы «INV_024 (5).xlsx», «инвойс услуги Би трейд 73656.pdf», «Поручение 73656.pdf») — **ПОРУЧЕНИЕ № 73656 от 09.10.2026** (Приложение №2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал **ООО «ВТС»** → Агент **ОсОО «БиТрейд Кей Джи»**. Получатель **KALINA KARGO OOD** (Бургас, Болгария; D COMMERCE BANK AD, SWIFT DEMIBGSF); назначение «PAYMENT BY INVOICE No. 024 dd 31.07.2026» (инвойс-основание — INV_024, scent compositions / KALINA CARGO); комиссия агента 1,5% + 100 USD (инвойс услуг № 73656 — 50 930,81 ₽). Компания-плательщик не названа → 🔴 (Step 0).",
+      "calc": null,
+      "rowId": "main-000263"
     }
   ]
 }
