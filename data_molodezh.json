@@ -355,9 +355,21 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 07.10.2026 (📨 Молодёжь, файл «PAYMENT_ORDER 07102026.docx») — **PAYMENT ORDER DATE 07/10/2026**: AMOUNT **24 168,35 USD**; CURRENCY USD; BENEFICIARY **FUJIA AUTOMAT LIMITED** (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong); BENEFICIARY BANK **Citibank, N.A., Hong Kong Branch** (49th Floor, Champion Tower, 3 Garden Road, Central, HKG); ACCOUNT NUMBER **390205798**; SWIFT **CITIHKHXXXX**; BANK CODE **006**; BRANCH CODE **391**; PAYMENT PURPOSE «**invoice No ST261007-01**». Компания-плательщик и клиент (принципал Молодёжи) в документе НЕ названы → 🔴; в 5 таблицах совпадений по 24 168,35 / FUJIA / ST261007-01 нет. Уточнить у Scream (клиент/компания/расчёт). | 📄 07.10.2026 (📨 Молодёжь, файл «invoice ST261007-01.pdf») — **PROFORMA INVOICE № ST261007-01 dd 07/10/2026**, **Issued to: PT KIRANA GLOBAL HUB** (Jalan Subak Sari 13, Desa/Kelurahan Tibubeneng, Kec. Kuta Utara, Kab. Badung, Provinsi Bali): позиция «**Airport services and refueling 07.10.2026**» ×1 = **24 168,35 USD**; Grand Total **24 168,35 USD**. → company = **KIRANA GLOBAL HUB** (покупатель/Issued to) → 🔴→⬜ (Step 3). Тот же платёж, что PO «PAYMENT_ORDER 07102026.docx» (строка одна, сумму не меняем). | 📄 09.10.2026 (📨 Ордера и Расчеты !, подпись «**Payment from KIRANA❗️**»; файл «INV 24 168,35 USD.pdf») — подтверждение того же ордера: плательщик **KIRANA** (= KIRANA GLOBAL HUB), бенефициар **FUJIA AUTOMAT LIMITED** и реквизиты — как в ордере выше, invoice **ST261007-01** dd 07.10.26. Строка та же (mol-000111), новую не создаю. | 📄 09 октября 2026 (📨 Платежные Поручения, файл «24168.35_USD_78813.pdf» — Transaction Status) — **Transaction Status** (Id 202610092044711341): Source **KIRANA GLOBAL HUB** (счёт 1750004805874 USD) → **FUJIA AUTOMAT LIMITED** (Hong Kong; CITIBANK N.A., BIC CITIHKHXXXX), Amount **24 168,35 USD** (Charge OUR; cable 5.00 + correspondent 25.00 + provision 30.21; Total Debit 24 228,56 USD); назначение «INV Payment for invoice ST261007-01 dated 2026-10-07». Статус **PendingApproval** → 🟡 (в процессе).",
+    "notes": "📄 07.10.2026 (📨 Молодёжь, файл «PAYMENT_ORDER 07102026.docx») — **PAYMENT ORDER DATE 07/10/2026**: AMOUNT **24 168,35 USD**; CURRENCY USD; BENEFICIARY **FUJIA AUTOMAT LIMITED** (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong); BENEFICIARY BANK **Citibank, N.A., Hong Kong Branch** (49th Floor, Champion Tower, 3 Garden Road, Central, HKG); ACCOUNT NUMBER **390205798**; SWIFT **CITIHKHXXXX**; BANK CODE **006**; BRANCH CODE **391**; PAYMENT PURPOSE «**invoice No ST261007-01**». Компания-плательщик и клиент (принципал Молодёжи) в документе НЕ названы → 🔴; в 5 таблицах совпадений по 24 168,35 / FUJIA / ST261007-01 нет. Уточнить у Scream (клиент/компания/расчёт). | 📄 07.10.2026 (📨 Молодёжь, файл «invoice ST261007-01.pdf») — **PROFORMA INVOICE № ST261007-01 dd 07/10/2026**, **Issued to: PT KIRANA GLOBAL HUB** (Jalan Subak Sari 13, Desa/Kelurahan Tibubeneng, Kec. Kuta Utara, Kab. Badung, Provinsi Bali): позиция «**Airport services and refueling 07.10.2026**» ×1 = **24 168,35 USD**; Grand Total **24 168,35 USD**. → company = **KIRANA GLOBAL HUB** (покупатель/Issued to) → 🔴→⬜ (Step 3). Тот же платёж, что PO «PAYMENT_ORDER 07102026.docx» (строка одна, сумму не меняем). | 📄 09.10.2026 (📨 Ордера и Расчеты !, подпись «**Payment from KIRANA❗️**»; файл «INV 24 168,35 USD.pdf») — подтверждение того же ордера: плательщик **KIRANA** (= KIRANA GLOBAL HUB), бенефициар **FUJIA AUTOMAT LIMITED** и реквизиты — как в ордере выше, invoice **ST261007-01** dd 07.10.26. Строка та же (mol-000111), новую не создаю. | 📄 09 октября 2026 (📨 Платежные Поручения, файл «24168.35_USD_78813.pdf» — Transaction Status) — **Transaction Status** (Id 202610092044711341): Source **KIRANA GLOBAL HUB** (счёт 1750004805874 USD) → **FUJIA AUTOMAT LIMITED** (Hong Kong; CITIBANK N.A., BIC CITIHKHXXXX), Amount **24 168,35 USD** (Charge OUR; cable 5.00 + correspondent 25.00 + provision 30.21; Total Debit 24 228,56 USD); назначение «INV Payment for invoice ST261007-01 dated 2026-10-07». Статус **PendingApproval** → 🟡 (в процессе). | | → 09.10.2026: оплачено в составе сводного OUT **63 930 USDT** (Рабочий 4 → TVi7HtQW2tcmcxUQu5nW2oaiGT9yJNVMVh, txid 66e6f2b0…): доля KIRANA **24 390 USDT** ((24 168,35 + 100) × 1,005).",
     "calc": null,
-    "rowId": "mol-000111"
+    "rowId": "mol-000111",
+    "payment_facts": [
+      {
+        "entryId": "OUT_63930_09.10.2026_1791559734990",
+        "ref": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
+        "txid": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
+        "bobrAlertId": null,
+        "date": "09.10.2026",
+        "direction": "OUT",
+        "amount": 24390,
+        "rowId": "mol-000111"
+      }
+    ]
   },
   {
     "row": 19,
@@ -473,7 +485,19 @@
     "sent_usdt": null,
     "notes": "ПП на VDX №439 от 08.10.2026 (411 829,25 ₽ — номер из документа ПП) | ПП на VDX №440 от 08.10.2026 (25 539,91 ₽ — номер из документа ПП) | 💸 08.10.2026 (📨 Молодежь, файлы «ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD 411.829,25.pdf» + «VDX 25.539,91.pdf») — рубли ушли с ООО «ЭКСПЕРТ» (ИНН 9725006990, счёт 40702810620010005398, АО ЮНИКРЕДИТ БАНК, БИК 044525545) на **VDX SERVICES - FZCO** (счёт 40807810000000015414, ПСБ), по **Поручению №19 от 08.10.2026** (аг.дог. №09-02-2/26 от 09.02.2026): **ПП №439 от 08.10.2026** — **411 829,25 ₽** {VO11100} «для перечисления (ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD) за товар по cont.321-EX170323 dd 17.03.2023 по PR.IN.HZH2026E60708 dd 05.10.26» (тело) + **ПП №440 от 08.10.2026** — **25 539,91 ₽** {VO21100} «оплата вознаграждения агента по поручению №19» (агентское). sent_rubles_vdx = 411 829,25 / 25 539,91 (VDX - поручение 19). Заявка/инвойс (Поручение №19, PR.IN.HZH2026E60708) в таблицах нет — 🔵, ждём. | 📄 08.10.2026 (📨 Молодежь, файл «Поручение №19.pdf») — **ПОРУЧЕНИЕ №19 от 08.10.2026** (Transfer request No. 19; Приложение №1 к Агентскому договору № 09-02-2/26 от 09.02.2026): от **ООО «Эксперт»** в адрес **LLC «VDX SERVICES - FZCO»**, платёж по инвойсу **№ HZH2026E60708 DD 05.10.2026**, контракт **321-EX170323 от 17.03.23**. Принципал ООО «Эксперт»; сумма **31 750,00 CNY**; получатель (нерезидент) **ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD** (NO.18 XINGLONG ROAD, FURNITURE GARDEN, WANQUAN INDUSTRY BASE, PINGYANG, WENZHOU, ZHEJIANG, CHINA); банк **INDUSTRIAL AND COMMERCIAL BANK OF CHINA, ZHEJIANG PROVINCIAL BRANCH** (NO.68-70 XINHEZHONG ROAD, PINGYANG), a/c **1203283209045761119**, SWIFT **ICBKCNBJZJP**; назначение «Payment under PROFORMA INVOICE NO. HZH2026E60708 DD 05.10.2026, contract 321-EX170323 от 17.03.23 **FOR MASSAGE CHAIRS**»; курс **1 CNY = 12,9710 РУБЛЕЙ**; сумма в рублях **411 829,25**; комиссия Агента **25 539,91**; срок 2-3 банк. дня. Подписи: Ильина С.Г. (Эксперт), Hikmat Ahmadov (VDX). ✅ Ордер/заявка к строке (сумма заявки 31 750 CNY = 411 829,25 ₽; совпадает с ПП №439/№440). | 📄 08.10.2026 (📨 Молодежь, файл «Платежное поручение 159306.docx») — платёжные реквизиты/поручение (№159306): AMOUNT **31 750,00 CNY**; BENEFICIARY **ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD** (NO.18 XINGLONG ROAD, FURNITURE GARDEN, WANQUAN INDUSTRY BASE, PINGYANG, WENZHOU, ZHEJIANG, CHINA); ACCOUNT **1203283209045761119**; BENEF.BANK INDUSTRIAL AND COMMERCIAL BANK OF CHINA, ZHEJIANG PROVINCIAL BRANCH (NO.68-70 XINHEZHONG ROAD, PINGYANG); SWIFT **ICBKCNBJZJP**; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. HZH2026E60708 DD 05.10.2026 **FOR MASSAGE CHAIRS**»; IREST.COM. ✅ Подтверждает ордер Поручения №19 (31 750 CNY). | 📄 08.10.2026 (📨 Молодежь, файл «Копия PI(A553+A396) HZH2026E60708 2026.10.5 EXPERT LLC.pdf») — **PROFORMA INVOICE № HZH2026E60708 dd 2026.10.5** (ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO.,LTD, Pingyang, Wenzhou) → The Buyer **PT TOMO TRADING GROUP** (Jalan Batu Bidak No.88B, Kerobokan Kaja, Kuta Utara, Badung, Bali 80361). Позиции: F600/A553S-2 MASSAGE CHAIR #Brown 10 × ¥6 400 = ¥64 000; #Beige 15 × ¥6 400 = ¥96 000; F100/A396SY-2 MASSAGE CHAIR #Brown 10 × ¥6 300 = ¥63 000; #Beige 15 × ¥6 300 = ¥94 500; **Total 50 Pcs = ¥317 500,00**. Payment Terms: **BY T/T 31 750 RMB first deposit**, 63 500 second deposit after 3 weeks, balance 222 250 RMB before shipment. Loading Port NINGBO; Delivery ≈ 20.11.2026. Банк: ICBC Zhejiang Provincial Branch, SWIFT ICBKCNBJZJP, a/c 1203283209045761119 (sophy@irest.biz). ✅ Инвойс-основание; **компания = TOMO** (The Buyer PT TOMO TRADING GROUP) — проставил.",
     "calc": null,
-    "rowId": "mol-000117"
+    "rowId": "mol-000117",
+    "payment_facts": [
+      {
+        "entryId": "OUT_63930_09.10.2026_1791559734990",
+        "ref": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
+        "txid": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
+        "bobrAlertId": null,
+        "date": "09.10.2026",
+        "direction": "OUT",
+        "amount": 4890,
+        "rowId": "mol-000117"
+      }
+    ]
   },
   {
     "row": 25,
@@ -649,7 +673,7 @@
     "company": "TOMO",
     "color": "FFFFFFFF",
     "clientName": "Василий",
-    "costFormula": null,
+    "costFormula": "(30 000,00 + 100) x 1,1209 x 1,027 = 34 650 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -657,9 +681,21 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 34650,
+    "notes": "| 📄 09.10.2026 (📨 Платежи VDX / @VDX_services — «Payment from TOMO❗️») — ордер на платёж: Amount **30 000,00 EUR**; Beneficiary **Vassili Neizvestnoi** (6/68 Muban Ban Suan Yu Charoen 2, Chengtalay, Thalang 83110); Beneficiary Bank **BANGKOK BANK PUBLIC COMPANY LIMITED** (333 Silom Road, Bangkok), SWIFT **BKKBTHBK**, account **696 7 12752 0**; payment details «Inv 01092026-1 dd 01.09.2026»; OUR. Компания-плательщик **TOMO**; заявка оплачена в составе сводного OUT 63 930 (KIRANA 24 390 + TOMO 4 890 + Vassili Neizvestnoi 34 650).",
     "calc": null,
-    "rowId": "mol-000126"
+    "rowId": "mol-000126",
+    "payment_facts": [
+      {
+        "entryId": "OUT_63930_09.10.2026_1791559734990",
+        "ref": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
+        "txid": "66e6f2b0497f9e72389bd9243b72fff4b71526ec5ec8c29030a2dc0bc1c9c11d",
+        "bobrAlertId": null,
+        "date": "09.10.2026",
+        "direction": "OUT",
+        "amount": 34650,
+        "rowId": "mol-000126"
+      }
+    ]
   }
 ]
