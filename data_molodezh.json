@@ -652,7 +652,7 @@
     "sum": 33476.69,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "ООО «ВИВАС»",
     "costFormula": "33 476,69 + 0,3% + 30 = 33 607,12 USDT",
     "extra": null,
