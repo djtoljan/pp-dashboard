@@ -377,17 +377,17 @@
     "sum": 29050,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FF4FC3F7",
+    "color": "FFFF0000",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": "2833615.44 (VDX)",
+    "sent_rubles_vdx": "2833615.44 / 52258.50 (VDX - поручение 28)",
     "exchange_to": "VDX",
     "vdx_rate": 85.6,
     "received_usdt": "33 069,88",
     "sent_usdt": null,
-    "notes": "ПП на VDX №4753 от 07.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545, к/с 30101810300000000545; электронно; «Проведено: 07.10.2026»): плательщик **АО «Фри Лайнс Компани»** (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **2 833 615,44 ₽** {VO21200} «для перечисления (**CPW TASIMACILIK VE TICARET AS**) Payment CPA2026000000131 dd 22.09.2026; CONTRACT № 110422-1-EURO dd 11.04.2022 по аген. дог № 09-02-3/26 от 09.02.26. НДС не облаг.». Получатель VDX → `sent_rubles_vdx`. ⚠️ заявки/поручения по CPW в 5 таблицах нет — 🔵 отправка на VDX без заявки. | 📄 07.10.2026 (📨 Молодёжь, файл «Поручение №28.pdf») — **ПОРУЧЕНИЕ № 28 от 07.10.2026** (Transfer request No. 28; Приложение № 1 к Агентскому договору № 09-02-3/26 от 09.02.2026): от **АО «Фри Лайнс Компани»** в адрес LLC «VDX SERVICES - FZCO», платёж по инвойсу **CPA2026000000131 dd 22.09.2026**, контракт **110422-1-EURO от 11.04.22**. Сумма **29 050,00 EUR**; получатель **CPW TASIMACILIK VE TICARET AS** (Dereboyu Cad. Meydan Sok. No:1 Kat:20 75-76, Maslak 34398 Istanbul, TURKEY); банк **TURKIYE VAKIFLAR BANKASI T.A.O.**, счёт **TR910001500158048024155977**, SWIFT **ETVBATR2A**; курс **1 EUR = 97,5427 ₽** → в рублях **2 833 615,44 ₽** (= ПП №4753). | 📄 07.10.2026 (📨 Молодёжь, файл «FREE - КС! 0909.pdf») — **CPW e-Arşiv Fatura № CPA2026000000131 dd 22.09.2026** (ETTN BD3587F3-BFDB-4445-8CFC-8DE8BECA2820): продавец **CPW TAŞIMACILIK VE TİCARET A.Ş.** (Maslak, Sarıyer/İstanbul; VKN 2150253785) → покупатель **Q8 GROUP LIMITED** (Kwun Tong, HK): позиция 1 «**LCL - OCEAN FREIGHT**» 1 Adet = **29 050,00 EUR**; KDV 0%; KUR 45,2384; Sipariş No SAP-1030; TIR 28695. ✅ Инвойс-обоснование к Поручению №28 / ПП №4753. | 📄 07.10.2026 (📨 Молодёжь, файл «payment order 4.docx») — **PAYMENT ORDER DATE 07/10/26**: AMOUNT **29 050,00 EUR**; CURRENCY EUR; PAYMENT METHOD «100% afterpayment»; BENEFICIARY **CPW TAŞIMACILIK VE TİCARET A.Ş.** (Dereboyu/Meydan Sk. Beybigiz Plaza No:1, 34398 Maslak/Sarıyer/İstanbul); BENEFICIARY BANK **TURKIYE VAKIFLAR BANKASI T.A.O.** (Yeni Mah. Gazi Mustafa Kemal Bulvarı No:688D, Mezitli/MERSİN); IBAN **TR910001500158048024155977**; SWIFT **ETVBATR2A**; PAYMENT PURPOSE «Payment for transport service under invoice **CPA2026000000131 dd 22.09.2026**». ✅ Та же сделка, что строка (Поручение №28 / ПП №4753).",
+    "notes": "ПП на VDX №4753 от 07.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545, к/с 30101810300000000545; электронно; «Проведено: 07.10.2026»): плательщик **АО «Фри Лайнс Компани»** (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **2 833 615,44 ₽** {VO21200} «для перечисления (**CPW TASIMACILIK VE TICARET AS**) Payment CPA2026000000131 dd 22.09.2026; CONTRACT № 110422-1-EURO dd 11.04.2022 по аген. дог № 09-02-3/26 от 09.02.26. НДС не облаг.». Получатель VDX → `sent_rubles_vdx`. ⚠️ заявки/поручения по CPW в 5 таблицах нет — 🔵 отправка на VDX без заявки. | 📄 07.10.2026 (📨 Молодёжь, файл «Поручение №28.pdf») — **ПОРУЧЕНИЕ № 28 от 07.10.2026** (Transfer request No. 28; Приложение № 1 к Агентскому договору № 09-02-3/26 от 09.02.2026): от **АО «Фри Лайнс Компани»** в адрес LLC «VDX SERVICES - FZCO», платёж по инвойсу **CPA2026000000131 dd 22.09.2026**, контракт **110422-1-EURO от 11.04.22**. Сумма **29 050,00 EUR**; получатель **CPW TASIMACILIK VE TICARET AS** (Dereboyu Cad. Meydan Sok. No:1 Kat:20 75-76, Maslak 34398 Istanbul, TURKEY); банк **TURKIYE VAKIFLAR BANKASI T.A.O.**, счёт **TR910001500158048024155977**, SWIFT **ETVBATR2A**; курс **1 EUR = 97,5427 ₽** → в рублях **2 833 615,44 ₽** (= ПП №4753). | 📄 07.10.2026 (📨 Молодёжь, файл «FREE - КС! 0909.pdf») — **CPW e-Arşiv Fatura № CPA2026000000131 dd 22.09.2026** (ETTN BD3587F3-BFDB-4445-8CFC-8DE8BECA2820): продавец **CPW TAŞIMACILIK VE TİCARET A.Ş.** (Maslak, Sarıyer/İstanbul; VKN 2150253785) → покупатель **Q8 GROUP LIMITED** (Kwun Tong, HK): позиция 1 «**LCL - OCEAN FREIGHT**» 1 Adet = **29 050,00 EUR**; KDV 0%; KUR 45,2384; Sipariş No SAP-1030; TIR 28695. ✅ Инвойс-обоснование к Поручению №28 / ПП №4753. | 📄 07.10.2026 (📨 Молодёжь, файл «payment order 4.docx») — **PAYMENT ORDER DATE 07/10/26**: AMOUNT **29 050,00 EUR**; CURRENCY EUR; PAYMENT METHOD «100% afterpayment»; BENEFICIARY **CPW TAŞIMACILIK VE TİCARET A.Ş.** (Dereboyu/Meydan Sk. Beybigiz Plaza No:1, 34398 Maslak/Sarıyer/İstanbul); BENEFICIARY BANK **TURKIYE VAKIFLAR BANKASI T.A.O.** (Yeni Mah. Gazi Mustafa Kemal Bulvarı No:688D, Mezitli/MERSİN); IBAN **TR910001500158048024155977**; SWIFT **ETVBATR2A**; PAYMENT PURPOSE «Payment for transport service under invoice **CPA2026000000131 dd 22.09.2026**». ✅ Та же сделка, что строка (Поручение №28 / ПП №4753). | 🔗 2026-10-10 (Scream: «Scream 10.10: тело 2 833 615,44 (стр.19) + комиссия 52 258,50 (стр.22) — одна сделка Фри Лайнс (поручение №28)») — строки 22 объединены с этой: sum = 29050 EUR; rubles_received = null; sent_rubles_vdx = 2833615.44 / 52258.50 (VDX - поручение 28). Полные notes прежних строк — в Molodezh.removed-rows_19-22_2026-10-10.json.",
     "calc": null,
     "rowId": "mol-000115"
   },
@@ -444,26 +444,6 @@
   {
     "row": 22,
     "date": "2026-10-08",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
-    "clientName": "Фри Лайнс Компани (Молодёжь)",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": "52258.50 (VDX - поручение 28)",
-    "exchange_to": "VDX",
-    "vdx_rate": 85.85,
-    "received_usdt": 608.11,
-    "sent_usdt": null,
-    "notes": "ПП на VDX №4755 от 07.10.2026 (52 258,50 ₽ — номер из документа ПП) | 💸 08.10.2026 (📨 Молодежь, файл «VDX 52.258,50.pdf») — рубли ушли с АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274, АО ЮНИКРЕДИТ БАНК) на **VDX SERVICES - FZCO**, **ПП №4755 от 07.10.2026** — **52 258,50 ₽** {VO21100} «оплата вознаграждения согласно поручению №28 от 07.10.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026» (агентское). sent_rubles_vdx = 52 258,50 (VDX - поручение 28). Тело по поручению №28 и заявка/инвойс в таблицах не найдены — 🔵, ждём.",
-    "calc": null,
-    "rowId": "mol-000118"
-  },
-  {
-    "row": 23,
-    "date": "2026-10-08",
     "sum": 4210,
     "currency": "EUR",
     "company": "ALTERA",
@@ -482,7 +462,7 @@
     "rowId": "mol-000119"
   },
   {
-    "row": 24,
+    "row": 23,
     "date": "2026-10-09",
     "sum": 6607.25,
     "currency": "EUR",
@@ -503,7 +483,7 @@
     "rowId": "mol-000120"
   },
   {
-    "row": 25,
+    "row": 24,
     "date": "2026-10-09",
     "sum": 6598,
     "currency": "EUR",
@@ -524,7 +504,7 @@
     "rowId": "mol-000121"
   },
   {
-    "row": 26,
+    "row": 25,
     "date": "2026-10-09",
     "sum": 7832.34,
     "currency": "EUR",
@@ -545,7 +525,7 @@
     "rowId": "mol-000122"
   },
   {
-    "row": 27,
+    "row": 26,
     "date": "2026-10-09",
     "sum": 4321.56,
     "currency": "EUR",
@@ -566,7 +546,7 @@
     "rowId": "mol-000123"
   },
   {
-    "row": 28,
+    "row": 27,
     "date": "2026-10-09",
     "sum": 7700,
     "currency": "EUR",
@@ -587,7 +567,7 @@
     "rowId": "mol-000124"
   },
   {
-    "row": 29,
+    "row": 28,
     "date": "2026-10-09",
     "sum": 33476.69,
     "currency": "USD",
