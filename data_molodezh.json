@@ -142,51 +142,31 @@
   {
     "row": 8,
     "date": "2026-10-06",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
+    "sum": 60000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FF92D050",
     "clientName": "АВЛОГ (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "60 000,00 + 0,3% + 30 = 60 210,00 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": "5304348.00 (VDX)",
     "exchange_to": "VDX",
     "vdx_rate": 86.05,
     "received_usdt": 61580.98,
-    "sent_usdt": null,
-    "notes": "ПП на VDX №587 от 06.10.2026 (5 304 348,00 ₽ — номер из документа ПП) | 📄 06.10.2026 (📨 Молодежь, файл «doc00162420260923120331.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №587 от 06.10.2026** (исполнен 06.10.2026 13:46:33, Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411; ЭП Егорова Ю.Г.): плательщик **ООО «АВЛОГ»** (ИНН 7805808900, КПП 780501001, счёт 40702810326710001396) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **5 304 348,00 ₽** {VO11100} «Предоплата по контракту №AL26-001 от 29.09.2026 за профиль алюминиевый», НДС не облагается. Получатель — VDX → `sent_rubles_vdx`. ПП на VDX **№587 от 06.10.2026** (5 304 348,00 ₽ VDX). ⚠️ заявки нет — 🔵 отправка на VDX без заявки. Клиент — АВЛОГ (Молодёжь).",
+    "sent_usdt": 60210,
+    "notes": "ПП на VDX №587 от 06.10.2026 (5 304 348,00 ₽ — номер из документа ПП) | 📄 06.10.2026 (📨 Молодежь, файл «doc00162420260923120331.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №587 от 06.10.2026** (исполнен 06.10.2026 13:46:33, Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411; ЭП Егорова Ю.Г.): плательщик **ООО «АВЛОГ»** (ИНН 7805808900, КПП 780501001, счёт 40702810326710001396) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **5 304 348,00 ₽** {VO11100} «Предоплата по контракту №AL26-001 от 29.09.2026 за профиль алюминиевый», НДС не облагается. Получатель — VDX → `sent_rubles_vdx`. ПП на VDX **№587 от 06.10.2026** (5 304 348,00 ₽ VDX). ⚠️ заявки нет — 🔵 отправка на VDX без заявки. Клиент — АВЛОГ (Молодёжь). | 🔗 2026-10-10 (Scream: «Scream: строки 8 и 9 — одна сделка, АВЛОГ на Q8 60 000 USD») — строки 9 объединены с этой: sum = 60000 USD; rubles_received = null; sent_rubles_vdx = 5304348.00 (VDX). Полные notes прежних строк — в Molodezh.removed-rows_8-9_2026-10-10.json. | ✏️ 10.10.2026 (q8-table-guard): company=Q8 → Q8-расчёт проставлен автоматически, 60 000,00 + 0,3% + 30 = 60 210,00 USDT. | 🏦 08.10.2026 BONBILL Payment Certificate (Тип 7, платёж Q8): Transaction ID O2108062635655299072199, Payment Time 2026-10-08 13:11:12, Payer Q8 GROUP LIMITED → Payee Foshan Xubao Import And Export CO.,LTD (AGRICULTURAL BANK OF CHINA, a/c 44423301040014020), USD 60 000,00, Remarks Invoice EXPM-102026021 dd 29.09.2026 → исполнено 🟢. 🔗 10.10.2026 (Scream): строка 9 признана той же сделкой (АВЛОГ → Q8) и объединена с этой — сумма 60 000 USD перенесена сюда.",
     "calc": null,
     "rowId": "mol-000101"
   },
   {
     "row": 9,
     "date": "2026-10-06",
-    "sum": 60000,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FF92D050",
-    "clientName": "—",
-    "costFormula": "60 000,00 + 0,3% + 30 = 60 210,00 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 60210,
-    "notes": "📄 06.10.2026 (📨 Молодежь, файл «PO 60000 USD Foshan Xubao Import And Export CO.,LTD.docx») — **PAYMENT ORDER / PO**: Beneficiary **Foshan Xubao Import And Export CO.,LTD** (ROOM 501-2, NO.23 OF JI HUA 5TH RD, CHANCHENG, FOSHAN, CHINA); банк бенефициара **JPMorgan Chase Bank N.A., Hong Kong Branch** (NO.3-4 BLDG NO.2 TONGXING ROAD, CHANCHENG, FOSHAN CITY, GUANGDONG PROVINCE, CHINA); SWIFT/BIC **ABOCCNBJ190**; IBAN/Account **44423301040014020**; Amount **60 000,00 USD**. ⚠️ Клиент/компания в сообщении НЕ названы — в 5 таблицах ни «Foshan Xubao», ни эта сделка не встречаются. Компания не определена → 🔴; уточнить у Scream (клиент/компания/расчёт). | 📄 06.10.2026 (📨 Молодежь, файл «60000_USD_INVOICE_Foshan_Xubao_Import_And_Export_CO_,LTD_1.pdf») — **PROFORMA INVOICE EXP M10-2026-021 от 2026-09-29**: **Buyer Q8 GROUP LIMITED** → Seller **Foshan Xubao Import And Export CO.,LTD** (ROOM 501-2, NO.23 OF JI HUA 5TH RD, CHANCHENG, FOSHAN, CHINA). Позиции (ручки/фурнитура, BLACK 9005FT): XBE-466 P 1100×4,668 = 5 134,80; XBX-980 1100×4,668 = 5 134,80; XGX-1933 6000×4,668 = 28 008,00; LXD-2955 1100×4,895 = 5 384,50; LXD-2954 1000×4,668 = 4 668,00; XSEK-122 1500×4,668 = 7 002,00; XGJB-243 1000×4,6679 = 4 667,90; **TOTAL 12 800 pcs = 60 000,00 USD**. Бенефициар — **AGRICULTURAL BANK OF CHINA FOSHAN HUADA SUB BRANCH**, A/C **44423301040014020**, SWIFT **ABOCCNJ190** (CNAPS 103588042208). → company = **Q8** (Buyer), расчёт `60 000,00 + 0,3% + 30 = 60 210,00 USDT`. Клиент (принципал Молодёжи) в документах не назван — уточнить у Scream. | 🏦 08.10.2026 (📨 ПП компании Q8, файл «60000.00 (3).pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2108062635655299072199**, Payment Time **2026-10-08 13:11:12**, Payer **Q8 GROUP LIMITED** → Payee **Foshan Xubao Import And Export CO.,LTD** (AGRICULTURAL BANK OF CHINA, счёт 44423301040014020), **USD 60 000,00**, Transaction Remarks «InvoiceEXPM102026021DD29092026ForTechParts» = инвойс **EXPM-102026021 dd 29.09.2026** (техдетали). Совпало → платёж исполнен → 🟢.",
-    "calc": null,
-    "rowId": "mol-000102"
-  },
-  {
-    "row": 10,
-    "date": "2026-10-06",
     "sum": 9070,
     "currency": "USD",
     "company": "Q8",
     "color": "FF92D050",
-    "clientName": "—",
+    "clientName": "Мосты (Молодёжь)",
     "costFormula": "9 070,00 + 0,3% + 30 = 9 127,21 USDT",
     "extra": null,
     "rubles_received": null,
@@ -200,7 +180,7 @@
     "rowId": "mol-000103"
   },
   {
-    "row": 11,
+    "row": 10,
     "date": "2026-10-06",
     "sum": null,
     "currency": null,
@@ -220,13 +200,13 @@
     "rowId": "mol-000104"
   },
   {
-    "row": 12,
+    "row": 11,
     "date": "2026-10-06",
     "sum": 20000,
     "currency": "USD",
     "company": "Q8",
     "color": "FF92D050",
-    "clientName": "—",
+    "clientName": "Мосты (Молодёжь)",
     "costFormula": "20 000,00 + 0,3% + 30 = 20 090,00 USDT",
     "extra": null,
     "rubles_received": null,
@@ -240,7 +220,7 @@
     "rowId": "mol-000105"
   },
   {
-    "row": 13,
+    "row": 12,
     "date": "2026-10-07",
     "sum": 19456,
     "currency": "USD",
@@ -260,13 +240,13 @@
     "rowId": "mol-000106"
   },
   {
-    "row": 14,
+    "row": 13,
     "date": "2026-10-07",
     "sum": 3656.45,
     "currency": "USD",
     "company": "Q8",
     "color": "FF92D050",
-    "clientName": "—",
+    "clientName": "Вилог",
     "costFormula": "3 656,45 + 0,3% + 30 = 3 697,42 USDT",
     "extra": null,
     "rubles_received": null,
@@ -280,7 +260,7 @@
     "rowId": "mol-000107"
   },
   {
-    "row": 15,
+    "row": 14,
     "date": "2026-10-07",
     "sum": 10000,
     "currency": "USD",
@@ -300,7 +280,7 @@
     "rowId": "mol-000108"
   },
   {
-    "row": 16,
+    "row": 15,
     "date": "2026-10-07",
     "sum": 147916.88,
     "currency": "EUR",
@@ -320,7 +300,7 @@
     "rowId": "mol-000109"
   },
   {
-    "row": 17,
+    "row": 16,
     "date": "2026-10-07",
     "sum": 110000,
     "currency": "EUR",
@@ -340,7 +320,7 @@
     "rowId": "mol-000110"
   },
   {
-    "row": 18,
+    "row": 17,
     "date": "2026-10-07",
     "sum": 24168.35,
     "currency": "USD",
@@ -372,7 +352,7 @@
     ]
   },
   {
-    "row": 19,
+    "row": 18,
     "date": "2026-10-07",
     "sum": 6600,
     "currency": "USD",
@@ -392,7 +372,7 @@
     "rowId": "mol-000112"
   },
   {
-    "row": 20,
+    "row": 19,
     "date": "2026-10-07",
     "sum": 47507.5,
     "currency": "EUR",
@@ -412,7 +392,7 @@
     "rowId": "mol-000113"
   },
   {
-    "row": 21,
+    "row": 20,
     "date": "2026-10-07",
     "sum": null,
     "currency": null,
@@ -432,7 +412,7 @@
     "rowId": "mol-000114"
   },
   {
-    "row": 22,
+    "row": 21,
     "date": "2026-10-07",
     "sum": 29050,
     "currency": "EUR",
@@ -452,7 +432,7 @@
     "rowId": "mol-000115"
   },
   {
-    "row": 23,
+    "row": 22,
     "date": "2026-10-08",
     "sum": 104265.3,
     "currency": "USD",
@@ -470,7 +450,7 @@
     "received_usdt": "104 112,50 / 1 145,24"
   },
   {
-    "row": 24,
+    "row": 23,
     "date": "2026-10-08",
     "sum": 31750,
     "currency": "CNY",
@@ -502,7 +482,7 @@
     ]
   },
   {
-    "row": 25,
+    "row": 24,
     "date": "2026-10-08",
     "sum": null,
     "currency": null,
@@ -522,7 +502,7 @@
     "rowId": "mol-000118"
   },
   {
-    "row": 26,
+    "row": 25,
     "date": "2026-10-08",
     "sum": 4210,
     "currency": "EUR",
@@ -542,7 +522,7 @@
     "rowId": "mol-000119"
   },
   {
-    "row": 27,
+    "row": 26,
     "date": "2026-10-09",
     "sum": 6607.25,
     "currency": "EUR",
@@ -563,7 +543,7 @@
     "rowId": "mol-000120"
   },
   {
-    "row": 28,
+    "row": 27,
     "date": "2026-10-09",
     "sum": 6598,
     "currency": "EUR",
@@ -584,7 +564,7 @@
     "rowId": "mol-000121"
   },
   {
-    "row": 29,
+    "row": 28,
     "date": "2026-10-09",
     "sum": 7832.34,
     "currency": "EUR",
@@ -605,7 +585,7 @@
     "rowId": "mol-000122"
   },
   {
-    "row": 30,
+    "row": 29,
     "date": "2026-10-09",
     "sum": 4321.56,
     "currency": "EUR",
@@ -626,7 +606,7 @@
     "rowId": "mol-000123"
   },
   {
-    "row": 31,
+    "row": 30,
     "date": "2026-10-09",
     "sum": 7700,
     "currency": "EUR",
@@ -647,7 +627,7 @@
     "rowId": "mol-000124"
   },
   {
-    "row": 32,
+    "row": 31,
     "date": "2026-10-09",
     "sum": 33476.69,
     "currency": "USD",
