@@ -162,20 +162,20 @@
   {
     "row": 9,
     "date": "2026-10-06",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
+    "sum": 19456,
+    "currency": "USD",
+    "company": "Denis",
+    "color": "FF92D050",
     "clientName": "Брызгунов (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "19 456,00 + 0,3% + 30 = 19 544,37 USDT",
     "extra": null,
     "rubles_received": null,
     "sent_rubles_vdx": "1761781.04 (VDX)",
     "exchange_to": "VDX",
     "vdx_rate": 85.45,
     "received_usdt": 20597.07,
-    "sent_usdt": null,
-    "notes": "ПП на VDX №216 от 05.10.2026 (1 761 781,04 ₽ — номер из документа ПП) | 📄 06.10.2026 (📨 Молодежь, файл «Платежное_поручение_№216_06.10.2026.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №216 от 05.10.2026** (электронно; штамп **ИСПОЛНЕНО 06.10.2026**, АО «АЛЬФА-БАНК» г. Москва, ДО «Тимирязевский (ЮЛ)», БИК 044525593): плательщик **ИП БРЫЗГУНОВ ДЕНИС ЕВГЕНЬЕВИЧ** (ИНН 732503651709, ул. Гончарова, д.5а, кв.60, Москва, 127254; счёт 40802810202260002318) → получатель **ВИДИИКС СЕРВИСЕЗ - ФЗКО** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **1 761 781,04 ₽** {VO11100} «Предоплата по проформе инвойса № АА-001-158891 от 25.09.2026 по Договору № ATL-381-USD от 12 ноября 2025. ИОНИЗИРОВАННАЯ ВОДА. НДС не облагается». Получатель — VDX → `sent_rubles_vdx`. ПП на VDX **№216 от 06.10.2026** (1 761 781,04 ₽). ⚠️ заявки нет — 🔵 отправка на VDX без заявки. Клиент — Брызгунов (Молодёжь) [предварительно, плательщик]. Guard пройден.",
+    "sent_usdt": 19544.37,
+    "notes": "ПП на VDX №216 от 05.10.2026 (1 761 781,04 ₽ — номер из документа ПП) | 📄 06.10.2026 (📨 Молодежь, файл «Платежное_поручение_№216_06.10.2026.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №216 от 05.10.2026** (электронно; штамп **ИСПОЛНЕНО 06.10.2026**, АО «АЛЬФА-БАНК» г. Москва, ДО «Тимирязевский (ЮЛ)», БИК 044525593): плательщик **ИП БРЫЗГУНОВ ДЕНИС ЕВГЕНЬЕВИЧ** (ИНН 732503651709, ул. Гончарова, д.5а, кв.60, Москва, 127254; счёт 40802810202260002318) → получатель **ВИДИИКС СЕРВИСЕЗ - ФЗКО** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **1 761 781,04 ₽** {VO11100} «Предоплата по проформе инвойса № АА-001-158891 от 25.09.2026 по Договору № ATL-381-USD от 12 ноября 2025. ИОНИЗИРОВАННАЯ ВОДА. НДС не облагается». Получатель — VDX → `sent_rubles_vdx`. ПП на VDX **№216 от 06.10.2026** (1 761 781,04 ₽). ⚠️ заявки нет — 🔵 отправка на VDX без заявки. Клиент — Брызгунов (Молодёжь) [предварительно, плательщик]. Guard пройден. | 🔗 2026-10-10 (Scream: «Scream 10.10: строки 9 и 11 — одна сделка (рубли Брызгунова → VDX, оплата инвойса Ultronic 19 456 USD); клиент Брызгунов») — строки 11 объединены с этой: sum = 19456 USD; rubles_received = null; sent_rubles_vdx = 1761781.04 (VDX). Полные notes прежних строк — в Molodezh.removed-rows_9-11_2026-10-10.json. | 🔗 10.10.2026 (Scream): строки 9 и 11 — одна сделка (рубли Брызгунова → VDX, оплата инвойса Ultronic 19 456 USD). Клиент поставлен по рублёвому ПП — «Брызгунов (Молодёжь)»; company = Denis; перенесены Q8-расчёт (19 544,37 USDT) и 🟢 (BONBILL, txid O2108064460420808704575).",
     "calc": null,
     "rowId": "mol-000104"
   },
@@ -202,26 +202,6 @@
   {
     "row": 11,
     "date": "2026-10-07",
-    "sum": 19456,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FF92D050",
-    "clientName": "Denis (Молодёжь)",
-    "costFormula": "19 456,00 + 0,3% + 30 = 19 544,37 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 19544.37,
-    "notes": "✏️ 07.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 19 456,00 + 0,3% + 30 = 19 544,37 USDT. | 📄 07.10.2026 (📨 FINIVEST AI, исходно 📨 Молодежь; файлы «Denis Invoice 2000 AO Sept.pdf» + «Платежное поручение 158891.docx») — **COMMERCIAL INVOICE INV: 0926 dd September 21-2026** от **Ultronic Sciences of America** (32163-373 AV WEST, Foothills, AB T1S6B9, Canada; +1 403 829 3026, randy@ultronicsciences.ca): Ship To **Hong Kong, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Kowloon**; Sold To **Q8 GROUP LIMITED**. Позиция **AEROBIC OXYGEN WATER PURIFICATION** — 2000 × 60 ML × 9,50 USD = **19 000,00 USD** + Private Product Labels **456,00 USD** = **Iš viso/Total 19 456,00 USD**; Terms: 100% prior to shipping; упаковка 8 коробок, 143 кг. Банк **ROYAL BANK OF CANADA (RBC)** (144 Elizabeth St., Okotoks, Alberta T1S1A1), SWIFT **ROYCCAT2**, счёт **080394003893**; сайт https://www.goodforyou.ca. | 📄 07.10.2026 — **платёжное поручение (Application for transfer)**: AMOUNT **19 456,00 USD**, BENEFICIARY **ULTRONIC SCIENCES OF AMERICA**, ACCOUNT 080394003893, BENEF.BANK **ROYAL BANK OF CANADA (RBC)**, SWIFT **ROY CCAT2**; PAYMENT DETAILS «**PAYMENT BY PROFORMA INVOICE NO. 0926 DD 21.09.2026 FOR WATER**». Инвойс + ордер = заявка (Тип 4); компания **Q8** (Sold To / Consignee Q8 Group Limited) → ⬜ Step 3. Q8-расчёт: 19 456,00 + 0,3% + 30 = **19 544,37 USDT**. ⚠️ Клиент «Denis» взят из имени файла (в clients-db не заведён) — уточнить и внести. | 🏦 08.10.2026 (📨 ПП компании Q8, файл «19456.00.pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2108064460420808704575**, Payment Time **2026-10-08 13:18:28**, Payer **Q8 GROUP LIMITED** → Payee **ULTRONIC SCIENCES OF AMERICA** (ROYAL BANK OF CANADA, счёт 080394003893), **USD 19 456,00**, Transaction Remarks «INVOICE0926DD21092026FORWATERPUR…» = инвойс **INV 0926 dd 21.09.2026** (Aerobic Oxygen Water Purification). Реквизиты/сумма/инвойс совпали → платёж исполнен → 🟢.",
-    "calc": null,
-    "rowId": "mol-000106"
-  },
-  {
-    "row": 12,
-    "date": "2026-10-07",
     "sum": 3656.45,
     "currency": "USD",
     "company": "Q8",
@@ -240,7 +220,7 @@
     "rowId": "mol-000107"
   },
   {
-    "row": 13,
+    "row": 12,
     "date": "2026-10-07",
     "sum": 10000,
     "currency": "USD",
@@ -260,7 +240,7 @@
     "rowId": "mol-000108"
   },
   {
-    "row": 14,
+    "row": 13,
     "date": "2026-10-07",
     "sum": 147916.88,
     "currency": "EUR",
@@ -272,15 +252,15 @@
     "rubles_received": "18862360.19 / 245210.69",
     "sent_rubles_vdx": "8780782.88 (VDX заявка 825) / 10326788.00 (Аль Сафи)",
     "exchange_to": "VDX / Аль Сафи",
-    "vdx_rate": null,
+    "vdx_rate": "85.1 (VDX) / 85.7 (Аль Сафи)",
     "received_usdt": null,
     "sent_usdt": 166934,
-    "notes": "📄 07.10.2026 (📨 Молодёжь, файл «Proforma Invoice 147 916.88 EUR RK TRADE.pdf») — **PROFORMA INVOICE № 26/00064 dd 03/07/2026** (Тип 1): продавец **PT SUMMIT TRADE WORLDWIDE** (Jalan Gunung Andakasa Gg. Matahari III A No.9, Denpasar, Bali, Indonesia) → покупатель **LLC «RK-Trade»** (129110, Москва, Мещанский окр., ул. Гиляровского, 57/1). Позиция 5 «**50% DOWN PAYMENT** for the following supply» = **147 916,88 EUR** (остальные позиции — оборудование: BELT FILTER PRESS MONOBELT NP20-10ST ×3, BOTTOM TANK, POLYDILUTION UNIT CAP30CE03, OUTLET MANIFOLD, ANTI-CONDENSATION HEATER, INLINE MIXER DN80, платформы — с ценами 0,00 как состав поставки). Условия **50% ORDER, 50% GOODS READY**, **EXW**; **Amount payable EUR 147 916,88**. Банк получателя — **PT. BANK MANDIRI (Persero) Tbk**, KCP Denpasar Sanur, SWIFT **BMRIIDJAXXX**, счёт **EUR 1450018134466** (счета из ДКП/ДС: IDR 1450018134425 / USD 1450018134482 / EUR 1450018134466 / CNY 1450018134490). Сделка по контракту **№ 0107026-001 от 01.07.2026** (+ ДС №1: оплата в рублях в пользу ОсОО «Блэкшарк Трейд»). Клиент — **РК-Трейд**. Компания-плательщик не названа → 🔴 (Step 0); по сумме 147 916,88 совпадений в 5 таблицах нет. Расчёт не-Q8 — ждём от Scream. | 📄 07.10.2026 (📨 Молодёжь, файл «Proforma Invoice 147 916,88 EUR .pdf») — **PROFORMA INVOICE PI 26/00064 dd 03/07/2026**: продавец **Teknofanghi s.r.l.** (Via Brescia 18, 20063 Cernusco S/N MI; C.F.-P.I. IT 08969100158; Sede Legale Via F.Sforza n.1, 20122 Milano) → Customer **PT Infinite Sunrise Asia** (Jalan Udayana No. 164, Desa/Kelurahan Buruan, Kec. Blahbatuh, Kab. Gianyar, Provinsi Bali 80581); payment «50% ORDER, 50% GOODS READY»; IBAN **IT36L0306932880100000011261**; EXW CERNUSCO S/N MI, ITA. Позиция 5: «**50% DOWN PAYMENT FOR THE FOLLOWING SUPPLY**» = **147 916,88 EUR** (BELT FILTER PRESS MONOBELT NP20-10ST B ×3 и комплектующие: бак, полидилюция CAP30CE03, миксер DN80, деревянные платформы). ✅ Та же сделка/инвойс, что строка (26/00064, 147 916,88 EUR). ⚠️ в более раннем файле «Proforma Invoice 147 916.88 EUR RK TRADE.pdf» продавцом значился PT SUMMIT TRADE WORLDWIDE — здесь продавец Teknofanghi, покупатель PT Infinite Sunrise Asia; уточнить связь/цепочку. | 📄 07.10.2026 (📨 Молодёжь, файл «Payment Order Italy104.pdf» — повторная отправка, AMOUNT 147 916,88) — **PAYMENT ORDER 07/10/2026**: AMOUNT **147 916,88 EUR**; PAYMENT METHOD SWIFT; Beneficiary **Teknofanghi S.r.l** (Via Brescia 18, 20063 Cernusco S/N MI); BENEFICIARY BANK **INTESA SANPAOLO SPA, FILIALE CERNUSCO S/N** (Piazza Giacomo Matteotti 21, Cernusco sul Naviglio MI, ITALY), счёт **IT36L0306932880100000011261**, SWIFT **BCITITMM682**; PAYMENT PURPOSE «**Proforma Invoice No.26/00362 от 30/06/2026**». ⚠️ сумма ордера 147 916,88 EUR = позиции «50% DOWN PAYMENT FOR THE FOLLOWING SUPPLY» инвойса 26/00064 (строка), но назначение ссылается на инвойс 26/00362 — уточнить связь. | 🗑️ 10.10.2026 (Scream): приход и уходы по Поручению №13 сведены на эту строку целиком (без разбивки по долям); суммы — в полях строки (rubles_received / sent_rubles_vdx). Полные реквизиты выписок ПОЧТОБАНК и ПП — в файле Molodezh.rk-trade-detached-r15_2026-10-10.json. | 🛡️ 09.10.2026: движение OUT 166934 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:16). | 🗑️ 10.10.2026 (Scream): приход 18 862 360,19 / 245 210,69 ₽ (тело / агентское — доки №44/№41); уход на VDX 8 780 782,88 ₽ (ПП №636, заявка 825); уход на Аль Сафи 10 326 788,00 ₽ (ПП №634) — всё на этой строке, как в платёжных поручениях.",
+    "notes": "📄 07.10.2026 (📨 Молодёжь, файл «Proforma Invoice 147 916.88 EUR RK TRADE.pdf») — **PROFORMA INVOICE № 26/00064 dd 03/07/2026** (Тип 1): продавец **PT SUMMIT TRADE WORLDWIDE** (Jalan Gunung Andakasa Gg. Matahari III A No.9, Denpasar, Bali, Indonesia) → покупатель **LLC «RK-Trade»** (129110, Москва, Мещанский окр., ул. Гиляровского, 57/1). Позиция 5 «**50% DOWN PAYMENT** for the following supply» = **147 916,88 EUR** (остальные позиции — оборудование: BELT FILTER PRESS MONOBELT NP20-10ST ×3, BOTTOM TANK, POLYDILUTION UNIT CAP30CE03, OUTLET MANIFOLD, ANTI-CONDENSATION HEATER, INLINE MIXER DN80, платформы — с ценами 0,00 как состав поставки). Условия **50% ORDER, 50% GOODS READY**, **EXW**; **Amount payable EUR 147 916,88**. Банк получателя — **PT. BANK MANDIRI (Persero) Tbk**, KCP Denpasar Sanur, SWIFT **BMRIIDJAXXX**, счёт **EUR 1450018134466** (счета из ДКП/ДС: IDR 1450018134425 / USD 1450018134482 / EUR 1450018134466 / CNY 1450018134490). Сделка по контракту **№ 0107026-001 от 01.07.2026** (+ ДС №1: оплата в рублях в пользу ОсОО «Блэкшарк Трейд»). Клиент — **РК-Трейд**. Компания-плательщик не названа → 🔴 (Step 0); по сумме 147 916,88 совпадений в 5 таблицах нет. Расчёт не-Q8 — ждём от Scream. | 📄 07.10.2026 (📨 Молодёжь, файл «Proforma Invoice 147 916,88 EUR .pdf») — **PROFORMA INVOICE PI 26/00064 dd 03/07/2026**: продавец **Teknofanghi s.r.l.** (Via Brescia 18, 20063 Cernusco S/N MI; C.F.-P.I. IT 08969100158; Sede Legale Via F.Sforza n.1, 20122 Milano) → Customer **PT Infinite Sunrise Asia** (Jalan Udayana No. 164, Desa/Kelurahan Buruan, Kec. Blahbatuh, Kab. Gianyar, Provinsi Bali 80581); payment «50% ORDER, 50% GOODS READY»; IBAN **IT36L0306932880100000011261**; EXW CERNUSCO S/N MI, ITA. Позиция 5: «**50% DOWN PAYMENT FOR THE FOLLOWING SUPPLY**» = **147 916,88 EUR** (BELT FILTER PRESS MONOBELT NP20-10ST B ×3 и комплектующие: бак, полидилюция CAP30CE03, миксер DN80, деревянные платформы). ✅ Та же сделка/инвойс, что строка (26/00064, 147 916,88 EUR). ⚠️ в более раннем файле «Proforma Invoice 147 916.88 EUR RK TRADE.pdf» продавцом значился PT SUMMIT TRADE WORLDWIDE — здесь продавец Teknofanghi, покупатель PT Infinite Sunrise Asia; уточнить связь/цепочку. | 📄 07.10.2026 (📨 Молодёжь, файл «Payment Order Italy104.pdf» — повторная отправка, AMOUNT 147 916,88) — **PAYMENT ORDER 07/10/2026**: AMOUNT **147 916,88 EUR**; PAYMENT METHOD SWIFT; Beneficiary **Teknofanghi S.r.l** (Via Brescia 18, 20063 Cernusco S/N MI); BENEFICIARY BANK **INTESA SANPAOLO SPA, FILIALE CERNUSCO S/N** (Piazza Giacomo Matteotti 21, Cernusco sul Naviglio MI, ITALY), счёт **IT36L0306932880100000011261**, SWIFT **BCITITMM682**; PAYMENT PURPOSE «**Proforma Invoice No.26/00362 от 30/06/2026**». ⚠️ сумма ордера 147 916,88 EUR = позиции «50% DOWN PAYMENT FOR THE FOLLOWING SUPPLY» инвойса 26/00064 (строка), но назначение ссылается на инвойс 26/00362 — уточнить связь. | 🗑️ 10.10.2026 (Scream): приход и уходы по Поручению №13 сведены на эту строку целиком (без разбивки по долям); суммы — в полях строки (rubles_received / sent_rubles_vdx). Полные реквизиты выписок ПОЧТОБАНК и ПП — в файле Molodezh.rk-trade-detached-r15_2026-10-10.json. | 🛡️ 09.10.2026: движение OUT 166934 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:16). | 🗑️ 10.10.2026 (Scream): приход 18 862 360,19 / 245 210,69 ₽ (тело / агентское — доки №44/№41); уход на VDX 8 780 782,88 ₽ (ПП №636, заявка 825); уход на Аль Сафи 10 326 788,00 ₽ (ПП №634) — всё на этой строке, как в платёжных поручениях. | 💱 10.10.2026 (Scream): курс VDX (ПП №636, VDX-таблица 09.10) = 85,1; курс Аль Сафи = 85,70 (клиент Блэкшарк, продажа RUB, покупка 119 800 USD).",
     "calc": null,
     "rowId": "mol-000109"
   },
   {
-    "row": 15,
+    "row": 14,
     "date": "2026-10-07",
     "sum": 110000,
     "currency": "EUR",
@@ -300,7 +280,7 @@
     "rowId": "mol-000110"
   },
   {
-    "row": 16,
+    "row": 15,
     "date": "2026-10-07",
     "sum": 24168.35,
     "currency": "USD",
@@ -332,7 +312,7 @@
     ]
   },
   {
-    "row": 17,
+    "row": 16,
     "date": "2026-10-07",
     "sum": 6600,
     "currency": "USD",
@@ -352,7 +332,7 @@
     "rowId": "mol-000112"
   },
   {
-    "row": 18,
+    "row": 17,
     "date": "2026-10-07",
     "sum": 47507.5,
     "currency": "EUR",
@@ -372,7 +352,7 @@
     "rowId": "mol-000113"
   },
   {
-    "row": 19,
+    "row": 18,
     "date": "2026-10-07",
     "sum": 29050,
     "currency": "EUR",
@@ -392,7 +372,7 @@
     "rowId": "mol-000115"
   },
   {
-    "row": 20,
+    "row": 19,
     "date": "2026-10-08",
     "sum": 104265.3,
     "currency": "USD",
@@ -410,7 +390,7 @@
     "received_usdt": "104 112,50 / 1 145,24"
   },
   {
-    "row": 21,
+    "row": 20,
     "date": "2026-10-08",
     "sum": 31750,
     "currency": "CNY",
@@ -442,7 +422,7 @@
     ]
   },
   {
-    "row": 22,
+    "row": 21,
     "date": "2026-10-08",
     "sum": 4210,
     "currency": "EUR",
@@ -462,7 +442,7 @@
     "rowId": "mol-000119"
   },
   {
-    "row": 23,
+    "row": 22,
     "date": "2026-10-09",
     "sum": 6607.25,
     "currency": "EUR",
@@ -483,7 +463,7 @@
     "rowId": "mol-000120"
   },
   {
-    "row": 24,
+    "row": 23,
     "date": "2026-10-09",
     "sum": 6598,
     "currency": "EUR",
@@ -504,7 +484,7 @@
     "rowId": "mol-000121"
   },
   {
-    "row": 25,
+    "row": 24,
     "date": "2026-10-09",
     "sum": 7832.34,
     "currency": "EUR",
@@ -525,7 +505,7 @@
     "rowId": "mol-000122"
   },
   {
-    "row": 26,
+    "row": 25,
     "date": "2026-10-09",
     "sum": 4321.56,
     "currency": "EUR",
@@ -546,7 +526,7 @@
     "rowId": "mol-000123"
   },
   {
-    "row": 27,
+    "row": 26,
     "date": "2026-10-09",
     "sum": 7700,
     "currency": "EUR",
@@ -567,7 +547,7 @@
     "rowId": "mol-000124"
   },
   {
-    "row": 28,
+    "row": 27,
     "date": "2026-10-09",
     "sum": 33476.69,
     "currency": "USD",
