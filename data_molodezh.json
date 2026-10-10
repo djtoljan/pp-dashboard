@@ -121,26 +121,6 @@
   },
   {
     "row": 7,
-    "date": "2026-10-05",
-    "sum": 91000,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "ИП Зольников (Молодёжь)",
-    "costFormula": "91 000,00 + 0,3% + 30 = 91 303,00 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 91303,
-    "notes": "✏️ 05.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 91 000,00 + 0,3% + 30 = 91 303,00 USDT. | Инвойс № 10-2 dd 05.10.2026 (Invoice, PDF «Invoice 05.10.26 Agaro-Q8 91 000 usd.pdf» — скан без текст.слоя, прочитан вижн, 📨 Молодежь, 05.10.2026): AGARO COIN AUCTION, S.L. (17220, Spain Sant Feliu De Guíxols (GIRONA) Calle Agaro, NUM 89; info@agarosl.com, +34 640 32 56 91) → Customer/Bill To: **Q8 GROUP LIMITED (Hong Kong)**. Lot 1 — Lots of Foreign world and roman coins (коллекционные монеты), Total hammer USD 91 000,00, VAT 0% (0,00), Shipping 0,00, Total USD 91 000,00. Банк: Banco Bilbao Vizcaya Argentaria S.A., C/Sauceda 28, IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX. = инвойс Agaro (ордер ещё не поступал) → ⬜. Клиент ИП Зольников (Молодёжь), серия Agaro. Q8-формула (USD): 91 000,00 + 0,3% + 30 → USDT.",
-    "calc": null,
-    "rowId": "mol-000100"
-  },
-  {
-    "row": 8,
     "date": "2026-10-06",
     "sum": 60000,
     "currency": "USD",
@@ -160,7 +140,7 @@
     "rowId": "mol-000101"
   },
   {
-    "row": 9,
+    "row": 8,
     "date": "2026-10-06",
     "sum": 9070,
     "currency": "USD",
@@ -180,7 +160,7 @@
     "rowId": "mol-000103"
   },
   {
-    "row": 10,
+    "row": 9,
     "date": "2026-10-06",
     "sum": null,
     "currency": null,
@@ -200,7 +180,7 @@
     "rowId": "mol-000104"
   },
   {
-    "row": 11,
+    "row": 10,
     "date": "2026-10-06",
     "sum": 20000,
     "currency": "USD",
@@ -220,7 +200,7 @@
     "rowId": "mol-000105"
   },
   {
-    "row": 12,
+    "row": 11,
     "date": "2026-10-07",
     "sum": 19456,
     "currency": "USD",
@@ -240,7 +220,7 @@
     "rowId": "mol-000106"
   },
   {
-    "row": 13,
+    "row": 12,
     "date": "2026-10-07",
     "sum": 3656.45,
     "currency": "USD",
@@ -260,13 +240,13 @@
     "rowId": "mol-000107"
   },
   {
-    "row": 14,
+    "row": 13,
     "date": "2026-10-07",
     "sum": 10000,
     "currency": "USD",
     "company": "Q8",
     "color": "FF92D050",
-    "clientName": "—",
+    "clientName": "Вилог",
     "costFormula": "10 000,00 + 0,3% + 30 = 10 060,00 USDT",
     "extra": null,
     "rubles_received": null,
@@ -280,7 +260,7 @@
     "rowId": "mol-000108"
   },
   {
-    "row": 15,
+    "row": 14,
     "date": "2026-10-07",
     "sum": 147916.88,
     "currency": "EUR",
@@ -300,7 +280,7 @@
     "rowId": "mol-000109"
   },
   {
-    "row": 16,
+    "row": 15,
     "date": "2026-10-07",
     "sum": 110000,
     "currency": "EUR",
@@ -320,7 +300,7 @@
     "rowId": "mol-000110"
   },
   {
-    "row": 17,
+    "row": 16,
     "date": "2026-10-07",
     "sum": 24168.35,
     "currency": "USD",
@@ -352,7 +332,7 @@
     ]
   },
   {
-    "row": 18,
+    "row": 17,
     "date": "2026-10-07",
     "sum": 6600,
     "currency": "USD",
@@ -372,7 +352,7 @@
     "rowId": "mol-000112"
   },
   {
-    "row": 19,
+    "row": 18,
     "date": "2026-10-07",
     "sum": 47507.5,
     "currency": "EUR",
@@ -392,7 +372,7 @@
     "rowId": "mol-000113"
   },
   {
-    "row": 20,
+    "row": 19,
     "date": "2026-10-07",
     "sum": null,
     "currency": null,
@@ -412,7 +392,7 @@
     "rowId": "mol-000114"
   },
   {
-    "row": 21,
+    "row": 20,
     "date": "2026-10-07",
     "sum": 29050,
     "currency": "EUR",
@@ -432,7 +412,7 @@
     "rowId": "mol-000115"
   },
   {
-    "row": 22,
+    "row": 21,
     "date": "2026-10-08",
     "sum": 104265.3,
     "currency": "USD",
@@ -450,7 +430,7 @@
     "received_usdt": "104 112,50 / 1 145,24"
   },
   {
-    "row": 23,
+    "row": 22,
     "date": "2026-10-08",
     "sum": 31750,
     "currency": "CNY",
@@ -482,7 +462,7 @@
     ]
   },
   {
-    "row": 24,
+    "row": 23,
     "date": "2026-10-08",
     "sum": null,
     "currency": null,
@@ -502,7 +482,7 @@
     "rowId": "mol-000118"
   },
   {
-    "row": 25,
+    "row": 24,
     "date": "2026-10-08",
     "sum": 4210,
     "currency": "EUR",
@@ -522,7 +502,7 @@
     "rowId": "mol-000119"
   },
   {
-    "row": 26,
+    "row": 25,
     "date": "2026-10-09",
     "sum": 6607.25,
     "currency": "EUR",
@@ -543,7 +523,7 @@
     "rowId": "mol-000120"
   },
   {
-    "row": 27,
+    "row": 26,
     "date": "2026-10-09",
     "sum": 6598,
     "currency": "EUR",
@@ -564,7 +544,7 @@
     "rowId": "mol-000121"
   },
   {
-    "row": 28,
+    "row": 27,
     "date": "2026-10-09",
     "sum": 7832.34,
     "currency": "EUR",
@@ -585,7 +565,7 @@
     "rowId": "mol-000122"
   },
   {
-    "row": 29,
+    "row": 28,
     "date": "2026-10-09",
     "sum": 4321.56,
     "currency": "EUR",
@@ -606,7 +586,7 @@
     "rowId": "mol-000123"
   },
   {
-    "row": 30,
+    "row": 29,
     "date": "2026-10-09",
     "sum": 7700,
     "currency": "EUR",
@@ -627,7 +607,7 @@
     "rowId": "mol-000124"
   },
   {
-    "row": 31,
+    "row": 30,
     "date": "2026-10-09",
     "sum": 33476.69,
     "currency": "USD",
