@@ -46,7 +46,7 @@
     "sum": 3300,
     "currency": "USD",
     "company": "Z SOURCE",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Оникс",
     "costFormula": "3 300,00 + 0,3% + 30 = 3 339,90 USDT",
     "extra": null,
