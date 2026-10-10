@@ -459,7 +459,7 @@
     "sum": 37021.09,
     "currency": "EUR",
     "company": "ATB",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "DBA Euro Plants (Цветы)",
     "costFormula": "37 021,09 × 1,0025 = 37 113,64 + 80 = 37 193,64 × 1,13 = 42 028,82 USDT",
     "extra": null,
@@ -469,7 +469,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 42028.82,
-    "notes": "📄 08.10.2026 (прямое указание Scream: «Создай ещё одну строку у цветов на сегодня с этими данными: 37 021,09 EUR, ATB, USDT, DBA Euro Plants (Цветы)») — **37 021,09 EUR**, компания **ATB**, клиент **DBA Euro Plants (Цветы)**, расчёт **ТЕЗ (USDT)**. Step 0 🔴. | 🧮 08.10.2026 (Scream, расчёт): 37 021,09 × 1,0025 = 37 113,64; + 80 = 37 193,64; × 1,13 = **42 028,82 USDT**. costFormula/sent_usdt проставлены.",
+    "notes": "📄 08.10.2026 (прямое указание Scream: «Создай ещё одну строку у цветов на сегодня с этими данными: 37 021,09 EUR, ATB, USDT, DBA Euro Plants (Цветы)») — **37 021,09 EUR**, компания **ATB**, клиент **DBA Euro Plants (Цветы)**, расчёт **ТЕЗ (USDT)**. Step 0 🔴. | 🧮 08.10.2026 (Scream, расчёт): 37 021,09 × 1,0025 = 37 113,64; + 80 = 37 193,64; × 1,13 = **42 028,82 USDT**. costFormula/sent_usdt проставлены. |  | 📄 28.09.2026 (📨 Платежные Поручения, файл «Transaction-Details_09-28-26.pdf») — **SEPA Credit transfer** (Postbank): From account **ATB Service GmbH** (Postbank Business Giro aktiv plus, DE86 1007 0399 0077 8100 00) → Transfer to **DBA Euro Plants GmbH** (LT19 3250 0104 6002 7222, REVOLUT BANK UAB (PAYMENTS), REVOLT21XXX); **Amount 37.021,09 €**; Description «INV DBA21092026/01 dd 21.09.26»; PDF created 28.09.2026. ✅ Подтверждает оплату по этой строке (инвойс DBA21092026/01, 37 021,09 EUR) — 🟢 по подтверждению владельца (Scream: «это платёж по строке 23 → 🟢»).",
     "calc": "ТЕЗ",
     "rowId": "flw-000114",
     "payment_facts": [
