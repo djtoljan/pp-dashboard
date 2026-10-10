@@ -310,12 +310,12 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "2104937.50 (VDX)",
+    "exchange_to": "VDX",
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 24437.33,
     "sent_usdt": null,
-    "notes": "📄 07.10.2026 (📨 Молодёжь, файл «PAYMENT_ORDER 07102026.docx») — **PAYMENT ORDER DATE 07/10/2026**: AMOUNT **24 168,35 USD**; CURRENCY USD; BENEFICIARY **FUJIA AUTOMAT LIMITED** (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong); BENEFICIARY BANK **Citibank, N.A., Hong Kong Branch** (49th Floor, Champion Tower, 3 Garden Road, Central, HKG); ACCOUNT NUMBER **390205798**; SWIFT **CITIHKHXXXX**; BANK CODE **006**; BRANCH CODE **391**; PAYMENT PURPOSE «**invoice No ST261007-01**». Компания-плательщик и клиент (принципал Молодёжи) в документе НЕ названы → 🔴; в 5 таблицах совпадений по 24 168,35 / FUJIA / ST261007-01 нет. Уточнить у Scream (клиент/компания/расчёт). | 📄 07.10.2026 (📨 Молодёжь, файл «invoice ST261007-01.pdf») — **PROFORMA INVOICE № ST261007-01 dd 07/10/2026**, **Issued to: PT KIRANA GLOBAL HUB** (Jalan Subak Sari 13, Desa/Kelurahan Tibubeneng, Kec. Kuta Utara, Kab. Badung, Provinsi Bali): позиция «**Airport services and refueling 07.10.2026**» ×1 = **24 168,35 USD**; Grand Total **24 168,35 USD**. → company = **KIRANA GLOBAL HUB** (покупатель/Issued to) → 🔴→⬜ (Step 3). Тот же платёж, что PO «PAYMENT_ORDER 07102026.docx» (строка одна, сумму не меняем). | 📄 09.10.2026 (📨 Ордера и Расчеты !, подпись «**Payment from KIRANA❗️**»; файл «INV 24 168,35 USD.pdf») — подтверждение того же ордера: плательщик **KIRANA** (= KIRANA GLOBAL HUB), бенефициар **FUJIA AUTOMAT LIMITED** и реквизиты — как в ордере выше, invoice **ST261007-01** dd 07.10.26. Строка та же (mol-000111), новую не создаю. | 📄 09 октября 2026 (📨 Платежные Поручения, файл «24168.35_USD_78813.pdf» — Transaction Status) — **Transaction Status** (Id 202610092044711341): Source **KIRANA GLOBAL HUB** (счёт 1750004805874 USD) → **FUJIA AUTOMAT LIMITED** (Hong Kong; CITIBANK N.A., BIC CITIHKHXXXX), Amount **24 168,35 USD** (Charge OUR; cable 5.00 + correspondent 25.00 + provision 30.21; Total Debit 24 228,56 USD); назначение «INV Payment for invoice ST261007-01 dated 2026-10-07». Статус **PendingApproval** → 🟡 (в процессе). | | → 09.10.2026: оплачено в составе сводного OUT **63 930 USDT** (Рабочий 4 → TVi7HtQW2tcmcxUQu5nW2oaiGT9yJNVMVh, txid 66e6f2b0…): доля KIRANA **24 390 USDT** ((24 168,35 + 100) × 1,005).",
+    "notes": "📄 07.10.2026 (📨 Молодёжь, файл «PAYMENT_ORDER 07102026.docx») — **PAYMENT ORDER DATE 07/10/2026**: AMOUNT **24 168,35 USD**; CURRENCY USD; BENEFICIARY **FUJIA AUTOMAT LIMITED** (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong); BENEFICIARY BANK **Citibank, N.A., Hong Kong Branch** (49th Floor, Champion Tower, 3 Garden Road, Central, HKG); ACCOUNT NUMBER **390205798**; SWIFT **CITIHKHXXXX**; BANK CODE **006**; BRANCH CODE **391**; PAYMENT PURPOSE «**invoice No ST261007-01**». Компания-плательщик и клиент (принципал Молодёжи) в документе НЕ названы → 🔴; в 5 таблицах совпадений по 24 168,35 / FUJIA / ST261007-01 нет. Уточнить у Scream (клиент/компания/расчёт). | 📄 07.10.2026 (📨 Молодёжь, файл «invoice ST261007-01.pdf») — **PROFORMA INVOICE № ST261007-01 dd 07/10/2026**, **Issued to: PT KIRANA GLOBAL HUB** (Jalan Subak Sari 13, Desa/Kelurahan Tibubeneng, Kec. Kuta Utara, Kab. Badung, Provinsi Bali): позиция «**Airport services and refueling 07.10.2026**» ×1 = **24 168,35 USD**; Grand Total **24 168,35 USD**. → company = **KIRANA GLOBAL HUB** (покупатель/Issued to) → 🔴→⬜ (Step 3). Тот же платёж, что PO «PAYMENT_ORDER 07102026.docx» (строка одна, сумму не меняем). | 📄 09.10.2026 (📨 Ордера и Расчеты !, подпись «**Payment from KIRANA❗️**»; файл «INV 24 168,35 USD.pdf») — подтверждение того же ордера: плательщик **KIRANA** (= KIRANA GLOBAL HUB), бенефициар **FUJIA AUTOMAT LIMITED** и реквизиты — как в ордере выше, invoice **ST261007-01** dd 07.10.26. Строка та же (mol-000111), новую не создаю. | 📄 09 октября 2026 (📨 Платежные Поручения, файл «24168.35_USD_78813.pdf» — Transaction Status) — **Transaction Status** (Id 202610092044711341): Source **KIRANA GLOBAL HUB** (счёт 1750004805874 USD) → **FUJIA AUTOMAT LIMITED** (Hong Kong; CITIBANK N.A., BIC CITIHKHXXXX), Amount **24 168,35 USD** (Charge OUR; cable 5.00 + correspondent 25.00 + provision 30.21; Total Debit 24 228,56 USD); назначение «INV Payment for invoice ST261007-01 dated 2026-10-07». Статус **PendingApproval** → 🟡 (в процессе). | | → 09.10.2026: оплачено в составе сводного OUT **63 930 USDT** (Рабочий 4 → TVi7HtQW2tcmcxUQu5nW2oaiGT9yJNVMVh, txid 66e6f2b0…): доля KIRANA **24 390 USDT** ((24 168,35 + 100) × 1,005). | 🔗 2026-10-10 (Scream: «Scream 10.10: рубли Кристал Джет 2 104 937,50 (ПП №533) относятся к платежу 24 168,35 USD») — строки 19 объединены с этой: sum = 24168.35 USD; rubles_received = null; sent_rubles_vdx = 2104937.50 (VDX). Полные notes прежних строк — в Molodezh.removed-rows_16-19_2026-10-10.json. | 📄 10.10.2026 (Scream): приход 24 437,33 USDT (по ПП №533, 2 104 937,50 ₽, ООО «Кристалл Джет») относится к этой сделке — строки 16 и 19 объединены в одну.",
     "calc": null,
     "rowId": "mol-000111",
     "payment_facts": [
@@ -374,26 +374,6 @@
   {
     "row": 19,
     "date": "2026-10-07",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
-    "clientName": "Кристалл Джет (Молодёжь)",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": "2104937.50 (VDX)",
-    "exchange_to": "VDX",
-    "vdx_rate": 86.05,
-    "received_usdt": 24437.33,
-    "sent_usdt": null,
-    "notes": "ПП на VDX №533 от 07.10.2026 ИСПОЛНЕНО (БАНК ГПБ (АО) г. Москва, БИК 044525823, к/с 30101810200000000823; электронно; штамп «ИСПОЛНЕНО 07.10.2026»): плательщик **ООО «Кристалл Джет»** (ИНН 7717665139, КПП 771401001, счёт 40702810900000021724) → получатель **ВИДИИКС СЕРВИСЕЗ - ФЗКО** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **2 104 937,50 ₽** {VO23210} «Оплата за услуги по договору 210933/КД от 15.09.2021. НДС не облагается». Получатель VDX → `sent_rubles_vdx`. ⚠️ заявки нет — 🔵 отправка на VDX без заявки. Клиент добавлен в clients-db (Кристалл Джет (Молодёжь)).",
-    "calc": null,
-    "rowId": "mol-000114"
-  },
-  {
-    "row": 20,
-    "date": "2026-10-07",
     "sum": 29050,
     "currency": "EUR",
     "company": "Q8",
@@ -412,7 +392,7 @@
     "rowId": "mol-000115"
   },
   {
-    "row": 21,
+    "row": 20,
     "date": "2026-10-08",
     "sum": 104265.3,
     "currency": "USD",
@@ -430,7 +410,7 @@
     "received_usdt": "104 112,50 / 1 145,24"
   },
   {
-    "row": 22,
+    "row": 21,
     "date": "2026-10-08",
     "sum": 31750,
     "currency": "CNY",
@@ -462,7 +442,7 @@
     ]
   },
   {
-    "row": 23,
+    "row": 22,
     "date": "2026-10-08",
     "sum": null,
     "currency": null,
@@ -482,7 +462,7 @@
     "rowId": "mol-000118"
   },
   {
-    "row": 24,
+    "row": 23,
     "date": "2026-10-08",
     "sum": 4210,
     "currency": "EUR",
@@ -502,7 +482,7 @@
     "rowId": "mol-000119"
   },
   {
-    "row": 25,
+    "row": 24,
     "date": "2026-10-09",
     "sum": 6607.25,
     "currency": "EUR",
@@ -523,7 +503,7 @@
     "rowId": "mol-000120"
   },
   {
-    "row": 26,
+    "row": 25,
     "date": "2026-10-09",
     "sum": 6598,
     "currency": "EUR",
@@ -544,7 +524,7 @@
     "rowId": "mol-000121"
   },
   {
-    "row": 27,
+    "row": 26,
     "date": "2026-10-09",
     "sum": 7832.34,
     "currency": "EUR",
@@ -565,7 +545,7 @@
     "rowId": "mol-000122"
   },
   {
-    "row": 28,
+    "row": 27,
     "date": "2026-10-09",
     "sum": 4321.56,
     "currency": "EUR",
@@ -586,7 +566,7 @@
     "rowId": "mol-000123"
   },
   {
-    "row": 29,
+    "row": 28,
     "date": "2026-10-09",
     "sum": 7700,
     "currency": "EUR",
@@ -607,7 +587,7 @@
     "rowId": "mol-000124"
   },
   {
-    "row": 30,
+    "row": 29,
     "date": "2026-10-09",
     "sum": 33476.69,
     "currency": "USD",
