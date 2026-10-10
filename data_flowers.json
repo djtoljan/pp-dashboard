@@ -396,46 +396,6 @@
   {
     "row": 20,
     "date": "2026-10-08",
-    "sum": 10000,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "SUBATI GROUPS (Цветы)",
-    "costFormula": "10 000,00 + 0,3% + 30 = 10 060,00 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 10060,
-    "notes": "📄 08.10.2026 (📨 Цветы, файлы «SUBATI GROUPS LIMITED 10 000.doc» (CFB, конвертирован Word COM) + «SUBATI GROUPS LIMITED 10 000.pdf») — **форма реквизитов платежа (заявка) + SALES INVOICE**: BENEFICIARY **SUBATI GROUPS LIMITED** (P.O. BOX 25130-00100, Nairobi, Kenya); BENEFICIARY BANK **ABSA BANK KENYA PLC** (ABSA TOWERS BRANCH, Business Centre, Loita Street, P.O. Box 30120-00100, Nairobi, Kenya), SWIFT **BARCKENX**, Account **2035473753**; назначение «For the flowers»; сумма **10 000,00 USD**. Приложенный **SALES INVOICE № SFL-300926 dd 30-Sep-26** (Subati Group Limited, Nairobi; Incoterms FCA, Currency USD; позиции SINGLEMIX/SPRAYMIX/SUMMERFLOWERS; Customs Authorisation KEN/NBI/P/5131) — **Total USD 10 000,00**, VAT 16%. Клиент **SUBATI GROUPS (Цветы)**. Компания **Q8** (по прецеденту r39 — та же форма «SUBATI GROUPS LIMITED NNNNN.doc») → Step 3 ⬜. Проверка 5 таблиц: по 10 000 / SUBATI / BARCKENX / 2035473753, кроме r39 (20 000 USD, закрыта), совпадений нет. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT.",
-    "calc": null,
-    "rowId": "flw-000109"
-  },
-  {
-    "row": 21,
-    "date": "2026-10-08",
-    "sum": 10000,
-    "currency": "USD",
-    "company": "Q8",
-    "color": "FFFFFFFF",
-    "clientName": "AOA VENTURES (Цветы)",
-    "costFormula": "10 000,00 + 0,3% + 30 = 10 060,00 USDT",
-    "extra": null,
-    "rubles_received": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 10060,
-    "notes": "📄 08.10.2026 (📨 Заявки Компания Q8, файл «AOA VENTURES LTD 10 000.docx») — **форма реквизитов платежа (заявка, Тип 4)**: AMOUNT **10 000$**, CURRENCY **USD**; BENEFICIARY **AOA VENTURES LTD** (Port Louis, Mauritius); Account **MU07AFBL2501076818000000027USD**; Beneficiary Bank **AfrAsia Bank Ltd** (Bowen Square 10, Dr Ferriere Street, Port Louis, Mauritius), SWIFT **AFBLMUMU**; Registration number **162120**; Director **Safaraliiev Aleksandr** (alexandr.lakshmigroup@gmail.com); Details of Payment «For flowers and/ or logistics». Клиент **AOA VENTURES (Цветы)** (по прецеденту r41). Компания **Q8** → Step 3 ⬜. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT. | 📄 08.10.2026 (📨 Заявки Компания Q8, файл «AOA VENTURES LTD 10 000.pdf» — скан, читал вижном) — **INVOICE № 038 dd 29th September 2026** (AOA VENTURES LTD → **Q8 Group Limited**, Company Number 802242882, Room A22, 10/F, No. 5, Hung To Road, Kwun Tong, Hong Kong): позиция «**PAYMENT FOR FLOWERS**» — **TOTAL USD 10 000,00**. Реквизиты: AOA VENTURES LTD (4 Ter Saint George Street, Port Louis, Mauritius); AfrAsia Bank Ltd; Account **0768180000000027** (USD); IBAN **MU07AFBL2501076818000000027USD**; SWIFT **AFBLMUMU**; Correspondent Bank **Citibank NA, New York**, a/c **36889497**, SWIFT **CITIUS33**. ✅ Инвойс-основание к строке (10 000,00 USD).",
-    "calc": null,
-    "rowId": "flw-000110"
-  },
-  {
-    "row": 22,
-    "date": "2026-10-08",
     "sum": 15000,
     "currency": "USD",
     "company": "Q8",
@@ -454,7 +414,7 @@
     "rowId": "flw-000111"
   },
   {
-    "row": 23,
+    "row": 21,
     "date": "2026-10-08",
     "sum": 40000,
     "currency": "USD",
@@ -474,7 +434,7 @@
     "rowId": "flw-000112"
   },
   {
-    "row": 24,
+    "row": 22,
     "date": "2026-10-08",
     "sum": 10000,
     "currency": "USD",
@@ -494,7 +454,7 @@
     "rowId": "flw-000113"
   },
   {
-    "row": 25,
+    "row": 23,
     "date": "2026-10-08",
     "sum": 37021.09,
     "currency": "EUR",
@@ -526,7 +486,7 @@
     ]
   },
   {
-    "row": 26,
+    "row": 24,
     "date": "2026-10-09",
     "sum": 20000,
     "currency": "USD",
@@ -547,7 +507,7 @@
     "rowId": "flw-000116"
   },
   {
-    "row": 27,
+    "row": 25,
     "date": "2026-10-09",
     "sum": null,
     "currency": null,
