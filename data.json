@@ -1510,9 +1510,30 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 32527.2,
-      "notes": "✏️ 12.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 32 400,00 + 0,3% + 30 = 32 527,20 USDT.",
+      "notes": "✏️ 12.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 32 400,00 + 0,3% + 30 = 32 527,20 USDT. | 📄 12.10.2026 (📨 КГ бр (Аренда), файл «12 inv Prodema Q8 SCB 11-9-26 2600114 (1).pdf» — скан без текстового слоя, читал вижном) — **INVOICE № 2600114** dd 11.09.2026 (продавец **PRODEMA LIMITED**, Unit 1411, 14/Floor, Cosco Tower, 183 Queen's Road Central, Sheung Wan, Hong Kong; Company Registration Number 3293131 → покупатель **Q8 GROUP LIMITED**, Rm A22, 10/F, No.52, Hung To Road, Kwun Tong, Hong Kong): Consulting services rendered from 01.09.2026 to 04.09.2026 — 27 hours × US$ 1 200 = **US$ 32 400,00** (Payment as per Agreement 14-05-2026). Банк: **Standard Chartered Bank (Hong Kong) Limited**, SWIFT **SCBLHKHH**, счёт **36896597748** (Beneficiary Prodema Ltd). Подпись: Sole director Frederic Basset. Компания-плательщик **Q8** → ⬜ (Step 3).",
       "calc": "ТЕЗ",
       "rowId": "main-000273"
+    },
+    {
+      "row": 71,
+      "date": "2026-10-12",
+      "sum": 30600,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "КГ бр (Аренда)",
+      "costFormula": "30 600,00 + 0,3% + 30 = 30 721,80 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 30721.8,
+      "notes": "✏️ 12.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 600,00 + 0,3% + 30 = 30 721,80 USDT.",
+      "calc": "ТЕЗ",
+      "rowId": "main-000274"
     }
   ]
 }
