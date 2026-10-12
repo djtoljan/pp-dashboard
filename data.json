@@ -1393,8 +1393,8 @@
       "date": "2026-10-09",
       "sum": 723,
       "currency": "USD",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "Z SOURCE",
+      "color": "FFFFFFFF",
       "clientName": "VDX",
       "costFormula": null,
       "extra": null,
@@ -1426,7 +1426,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "💳 Payment from Q8 (📨 Платежи VDX) — ордер на оплату: бенефициар LOREX d.o.o. (Ljubljana, Stegne 33, 1000 Ljubljana, Slovenia), банк UNICREDIT BANK (ŠMARTINSKA 140, 1000 LJUBLJANA), SWIFT BACXSI22XXX, счёт SI56290000003240627; payment details «Inv 26-010-001129 dd 07.10.2026»; Amount 10 775.84 EUR; OUR. Приложена проформа №26-010-001129 от 07.10.2026 (LOREX d.o.o. → Q8 Group Limited), итог 10 775.84 EUR — полная оплата. Компания-плательщик Q8 → ⬜ (Step 3), клиент VDX. Q8 EUR: расчёт ждёт курс.",
       "calc": null,
       "rowId": "main-000269"
     }
