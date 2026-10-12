@@ -300,8 +300,29 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 12.10.2026 (📨 Константин Просто Группа, файл «49 250.04 EUR (12.10.2026).xlsx») — **Заявка (форма «Необходимые данные для заявки»)**: Beneficiary **220-B d.o.o.** (Bosanska 47, 11224 Vrčin, SRBIJA); банк **OTP BANKA SRBIJA A.D.** (Bulevar Oslobođenja 80, Novi Sad), SWIFT **OTPVRS22**, IBAN **RS35325960160000415772**; назначение «Payment for household appliances to invoice No. 26-010-000174 dd 29.09.2026; 26-010-000175 dd 30.09.2026». В форме «Сумма платежа» указана общая сумма; к заведению — **49 250,04 EUR** (остаток по тем же счёту/инвойсам после уже оплаченного r8 — см. r8). Компания-плательщик не названа → 🔴.",
     "calc": null,
     "rowId": "kon-000043"
+  },
+  {
+    "row": 13,
+    "date": "2026-10-12",
+    "sum": 56796,
+    "currency": "USD",
+    "company": "SURYA",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000044"
   }
 ]
