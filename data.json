@@ -1573,9 +1573,30 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": " | 💳 12.10.2026 (📨 ПП компании Q8, файл «Processing 1975.62 USD.pdf») — **BONBILL Payment Certificate**: Transaction ID **O2109600653700628480365**, Payment Time 20261012 19:02:45, Payer **Z SOURCE LIMITED**, Payment Status **Processing**; Payee **P.T.INTERNATIONAL CO,LIMITED** (PING AN BANK CO., LTD., SWIFT SZDBCNBS, счёт OSA1100****801), USD **1 975,62** (Handling Fee 32 USD), Remarks «Invoice202610057DD06102026ForToys» (инвойс **202610057** dd 06.10.2026 «For Toys»). Продавец — тот же P.T. INTERNATIONAL, что и Main r67 (инвойс 202610056).",
       "calc": null,
       "rowId": "main-000276"
+    },
+    {
+      "row": 74,
+      "date": "2026-10-12",
+      "sum": 8779.11,
+      "currency": "USD",
+      "company": "Z SOURCE",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000277"
     }
   ]
 }
