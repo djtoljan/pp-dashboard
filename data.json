@@ -1412,11 +1412,11 @@
     {
       "row": 66,
       "date": "2026-10-12",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": null,
-      "clientName": null,
+      "sum": 10775.84,
+      "currency": "EUR",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
       "costFormula": null,
       "extra": null,
       "rubles_received": null,
@@ -1428,7 +1428,7 @@
       "sent_usdt": null,
       "notes": null,
       "calc": null,
-      "rowId": "main-000268"
+      "rowId": "main-000269"
     }
   ]
 }
