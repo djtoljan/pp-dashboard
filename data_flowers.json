@@ -502,7 +502,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 20090,
-    "notes": "✏️ 09.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 20 000,00 + 0,3% + 30 = 20 090,00 USDT. | 📄 09.10.2026 (📨 Цветы; файл «Inv №FL01:091026.pdf») — INVOICE № FL01/091026 dd 09.10.2026: **ModestoGroup OU** (Reg. 16203107, Tallinn, Estonia; info@m-flowers.com) → bill to **Q8 Group Limited**; AA Kenyan rose mix + AA Air logistics services, Total **20 000,00 USD**. Реквизиты: THE CURRENCY CLOUD LIMITED (London, UK), SWIFT TCCLGB3L, IBAN GB32TCCL04143483461312. Заявка на оплату от Q8 → ⬜ (Step 3).",
+    "notes": "✏️ 09.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 20 000,00 + 0,3% + 30 = 20 090,00 USDT. | 📄 09.10.2026 (📨 Цветы; файл «Inv №FL01:091026.pdf») — INVOICE № FL01/091026 dd 09.10.2026: **ModestoGroup OU** (Reg. 16203107, Tallinn, Estonia; info@m-flowers.com) → bill to **Q8 Group Limited**; AA Kenyan rose mix + AA Air logistics services, Total **20 000,00 USD**. Реквизиты: THE CURRENCY CLOUD LIMITED (London, UK), SWIFT TCCLGB3L, IBAN GB32TCCL04143483461312. Заявка на оплату от Q8 → ⬜ (Step 3). | 📄 12.10.2026 (📨 ПП компании Q8, файл «20000.00 (10).pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2109564667016904704836**, Payment Time 2026-10-12 16:39:45; Payer **Q8 GROUP LIMITED** → Payee **Modestogroup OU** (THE CURRENCY CLOUD LIMITED, счёт GB32TCCL04143483461312); Currency Amount **USD 20 000,00**; Remarks «Invoice FLO1091026 DD 09102026 For Flowers And Logistics». Подтверждение исполнения → ⬜→🟢.",
     "calc": null,
     "rowId": "flw-000116"
   },
