@@ -458,7 +458,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **DAZ TRANS LOGISTIK Sp. z o.o.** (PKO BP, SWIFT BPKOPLPW) — DAZ 127 (3 057,25) + DAZ 133 (3 550,00) = 6 607,25 EUR (VAT 0%). Scream: «На оплату от Q8 на DAZ 6607,25 EUR».",
+    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **DAZ TRANS LOGISTIK Sp. z o.o.** (PKO BP, SWIFT BPKOPLPW) — DAZ 127 (3 057,25) + DAZ 133 (3 550,00) = 6 607,25 EUR (VAT 0%). Scream: «На оплату от Q8 на DAZ 6607,25 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-03-10-2026 DAZ 133.pdf») — **FAKTURA VAT 03/10/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa 133 (GTU_13), 1 шт, **3 550,00 EUR** (15 529,48 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Один из двух инвойсов к строке (DAZ 127 + DAZ 133 = 6 607,25 EUR) — новую строку не создаю. | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-22-09-2026 DAZ 127.pdf») — **FAKTURA VAT 22/09/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa / Zlecenie nr 127 (GTU_13), 1 шт, **3 057,25 EUR** (13 375,47 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Второй из двух инвойсов к строке (DAZ 127 + DAZ 133 = 6 607,25 EUR) — новую строку не создаю.",
     "calc": null,
     "rowId": "mol-000120"
   },
@@ -479,7 +479,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **DAZ TRANS LOGISTIK Sp. z o.o.** — DAZ 134 (3 550,00) + DAZ 135 (3 048,00) = 6 598,00 EUR (VAT 0%). Scream: «На оплату от Q8 на DAZ 6598 EUR».",
+    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **DAZ TRANS LOGISTIK Sp. z o.o.** — DAZ 134 (3 550,00) + DAZ 135 (3 048,00) = 6 598,00 EUR (VAT 0%). Scream: «На оплату от Q8 на DAZ 6598 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-04-10-2026 DAZ 134.pdf») — **FAKTURA VAT 04/10/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa 134 (GTU_13), 1 шт, **3 550,00 EUR** (15 529,48 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Один из двух инвойсов к строке (DAZ 134 + DAZ 135 = 6 598,00 EUR) — новую строку не создаю.",
     "calc": null,
     "rowId": "mol-000121"
   },
@@ -542,7 +542,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **BASZAK Sp. z o.o.** (Biała Podlaska, NIP 5372656337; PKO BP, SWIFT BPKOPLPWXXX) — BZS 130 (3 850,00) + BZS 119 (3 850,00) = 7 700,00 EUR (VAT 0%, реверс-чардж, заказы 130 и 119). Scream: «На оплату от Q8 на Baszak 7700 EUR».",
+    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **BASZAK Sp. z o.o.** (Biała Podlaska, NIP 5372656337; PKO BP, SWIFT BPKOPLPWXXX) — BZS 130 (3 850,00) + BZS 119 (3 850,00) = 7 700,00 EUR (VAT 0%, реверс-чардж, заказы 130 и 119). Scream: «На оплату от Q8 на Baszak 7700 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «290926-10 BZS 130.pdf») — **FAKTURA Nr 290926-10** (BASZAK Sp. z o.o., ul. Stefana Żeromskiego 45 lok. 2, 21-500 Biała Podlaska, Polska, NIP 5372656337 → **Q8 GROUP LIMITED**, 18/F, The Center, 99 Queen's Road Central, Hong Kong, NIP 68975013): Transport services 130, 1 шт, **3 850,00 EUR** (16 851,07 PLN), VAT np (реверс-чардж / odwrotne obciążenie); банк PKO BP, счёт **68 1020 1260 0000 0102 0195 1151**, SWIFT **BPKOPLPWXXX**. Один из двух инвойсов к строке (BZS 130 + BZS 119 = 7 700,00 EUR) — новую строку не создаю. | 📄 12.10.2026 (📨 Молодежь, файл «51026-10 BZS 119.pdf») — **FAKTURA Nr 51026-10** (BASZAK Sp. z o.o., ul. Stefana Żeromskiego 45 lok. 2, 21-500 Biała Podlaska, Polska, NIP 5372656337 → **Q8 GROUP LIMITED**, 18/F, The Center, 99 Queen's Road Central, Hong Kong, NIP 68975013): Transport services 119, 1 шт, **3 850,00 EUR** (16 841,83 PLN), VAT np (реверс-чардж / odwrotne obciążenie); банк PKO BP, счёт **68 1020 1260 0000 0102 0195 1151**, SWIFT **BPKOPLPWXXX**. Второй из двух инвойсов к строке (BZS 130 + BZS 119 = 7 700,00 EUR) — новую строку не создаю.",
     "calc": null,
     "rowId": "mol-000124"
   },
