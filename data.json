@@ -1408,6 +1408,27 @@
       "notes": "📄 09.10.2026 (📨 Платежи VDX, файл «inv_723 USD.pdf») — **INVOICE (KMP FREIGHT PRIVATE LIMITED)** (Chennai, India; GST 33AAICK4726C1ZU; LUT ARN AD330326104673D; PAN AAICK4726C): услуги **Export Air Transport** + **Export Air Forwarding** (экспорт, zero-rated) = **723,00 USD**. Банк поставщика: **HDFC Bank** (Chennai; SWIFT **HDFCINBBCHE**). Компания-плательщик не названа → Step 0 → 🔴.",
       "calc": null,
       "rowId": "main-000266"
+    },
+    {
+      "row": 66,
+      "date": "2026-10-12",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": null,
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000268"
     }
   ]
 }
