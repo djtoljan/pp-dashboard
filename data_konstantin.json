@@ -291,7 +291,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "49 250,04 × 1,12107625 + 0,5% + 100 = 55 589,12 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -299,9 +299,9 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 55589.12,
     "notes": "📄 12.10.2026 (📨 Константин Просто Группа, файл «49 250.04 EUR (12.10.2026).xlsx») — **Заявка (форма «Необходимые данные для заявки»)**: Beneficiary **220-B d.o.o.** (Bosanska 47, 11224 Vrčin, SRBIJA); банк **OTP BANKA SRBIJA A.D.** (Bulevar Oslobođenja 80, Novi Sad), SWIFT **OTPVRS22**, IBAN **RS35325960160000415772**; назначение «Payment for household appliances to invoice No. 26-010-000174 dd 29.09.2026; 26-010-000175 dd 30.09.2026». В форме «Сумма платежа» указана общая сумма; к заведению — **49 250,04 EUR** (остаток по тем же счёту/инвойсам после уже оплаченного r8 — см. r8). Компания-плательщик не названа → 🔴. | 📄 12.10.2026 (📨 Константин Просто Группа, файл «PROFORMA INVOICE_26-010-000174.pdf») — **PROFORMA INVOICE № 26-010-000174** dd 29.9.2026 (važi do 14.10.2026): продавец **220-B d.o.o.** (Srbija) → покупатель **Q8 GROUP LIMITED** (Room A22 10/F, No.52, Hung To Road, Kwun Tong, Hong Kong); позиция **V16 PISTON ANSUB** (V16 Piston Animal Submarine New Model; šifra 492969), 84 kom, итог **49 250,04 EUR**; PDV 0%; HS 8508110000. Инвойс к этой строке (сумма 49 250,04 EUR совпадает) — сумму не меняю. Компания-плательщик **Q8** → ⬜ (Step 3).",
-    "calc": null,
+    "calc": "ТЕЗ",
     "rowId": "kon-000043"
   },
   {
@@ -309,10 +309,10 @@
     "date": "2026-10-12",
     "sum": 35696,
     "currency": "USD",
-    "company": "SURYA",
+    "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "35 696 + 0,5% + 100 = 35 974,48 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -320,9 +320,9 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 12.10.2026 (📨 Константин Просто Группа, файл «DONGGUAN KINSUN INV FOR Surya 56796.pdf») — **INVOICE № KJ202601 dd 18.09.2026** (DONGGUAN KINSUN INTL LOGISTICS CO., LTD, 5065, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan; тел. 0086 18747027613 → Customer **PT Surya Bahari Global**, Jalan Tebet Raya No 11G 1, Tebet Barat, Jakarta Selatan): морская перевозка из Китая **9×40HQ**; Contract No. MK202601 от 27.06.2026; Freight **$56 796,00 USD**. Beneficiary bank **China Construction Bank, Dongguan Branch International Section** (No.2 Floor Jiansheng Building, No.5 Tiyu Road, Dongguan City), SWIFT **PCBCCNBJGDD**, счёт **440501778808…3709**. Компания-плательщик **SURYA** → ⬜ (Step 3). | 📄 12.10.2026 (📨 Константин Просто Группа, файл-заявка «…USD (12.10.2026).xlsx»; реквизиты к инвойсу KJ202601 — см. r13) — **Заявка (форма «Необходимые данные для заявки»)**: Бенефициар **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (506#, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan, CHINA); банк **CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION** (No.2 Floor Jiansheng Building, No.5 Tiyu Road, Dongguan City), SWIFT **PCBCCNBJGDD**, счёт **44050177880800003709**; назначение «For freight for inv KJ202601 dd 18/09/2026». Сумма в форме **56 796 USD** — совпадает с инвойсом KJ202601. Та же сделка, что r13 — новую строку не создаю. |  | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «35 696 USD (12.10.2026).xlsx») — **заявка** (форма «Необходимые данные для заявки»): Сумма **35 696 USD**; бенефициар **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (506#, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan, CHINA); банк **CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION** (SWIFT PCBCCNBJGDD, счёт 44050177880800003709); назначение «For freight for inv KJ202601 dd 18/09/2026». Та же сделка, что строка (инвойс KJ202601, SURYA) — заявка приоритетнее инвойса: **sum → 35 696 USD** (инвойс 56 796 справочно).",
-    "calc": null,
+    "sent_usdt": 35833.09,
+    "notes": "📄 12.10.2026 (📨 Константин Просто Группа, файл «DONGGUAN KINSUN INV FOR Surya 56796.pdf») — **INVOICE № KJ202601 dd 18.09.2026** (DONGGUAN KINSUN INTL LOGISTICS CO., LTD, 5065, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan; тел. 0086 18747027613 → Customer **PT Surya Bahari Global**, Jalan Tebet Raya No 11G 1, Tebet Barat, Jakarta Selatan): морская перевозка из Китая **9×40HQ**; Contract No. MK202601 от 27.06.2026; Freight **$56 796,00 USD**. Beneficiary bank **China Construction Bank, Dongguan Branch International Section** (No.2 Floor Jiansheng Building, No.5 Tiyu Road, Dongguan City), SWIFT **PCBCCNBJGDD**, счёт **440501778808…3709**. Компания-плательщик **SURYA** → ⬜ (Step 3). | 📄 12.10.2026 (📨 Константин Просто Группа, файл-заявка «…USD (12.10.2026).xlsx»; реквизиты к инвойсу KJ202601 — см. r13) — **Заявка (форма «Необходимые данные для заявки»)**: Бенефициар **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (506#, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan, CHINA); банк **CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION** (No.2 Floor Jiansheng Building, No.5 Tiyu Road, Dongguan City), SWIFT **PCBCCNBJGDD**, счёт **44050177880800003709**; назначение «For freight for inv KJ202601 dd 18/09/2026». Сумма в форме **56 796 USD** — совпадает с инвойсом KJ202601. Та же сделка, что r13 — новую строку не создаю. |  | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «35 696 USD (12.10.2026).xlsx») — **заявка** (форма «Необходимые данные для заявки»): Сумма **35 696 USD**; бенефициар **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (506#, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan, CHINA); банк **CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION** (SWIFT PCBCCNBJGDD, счёт 44050177880800003709); назначение «For freight for inv KJ202601 dd 18/09/2026». Та же сделка, что строка (инвойс KJ202601, SURYA) — заявка приоритетнее инвойса: **sum → 35 696 USD** (инвойс 56 796 справочно). |  | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «DONGGUAN KINSUN INV FOR Q8 56796 (1).pdf») — **INVOICE № KJ202601 dd 18.09.2026**: продавец **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (5065, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan); Customer **Q8 GROUP LIMITED (Hong Kong)**; Contract No. **MK202601** от 2026/6/27; «Sea cargo transportation from China 9*40HQ», Freight **56 796,00 USD**; банк CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION, SWIFT PCBCCNBJGDD. Компания-плательщик = **Q8** → company Q8. | ✏️ 12.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 35 696,00 + 0,3% + 30 = 35 833,09 USDT.",
+    "calc": "ТЕЗ",
     "rowId": "kon-000044"
   }
 ]
