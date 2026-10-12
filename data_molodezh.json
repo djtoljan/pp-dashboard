@@ -479,7 +479,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **DAZ TRANS LOGISTIK Sp. z o.o.** — DAZ 134 (3 550,00) + DAZ 135 (3 048,00) = 6 598,00 EUR (VAT 0%). Scream: «На оплату от Q8 на DAZ 6598 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-04-10-2026 DAZ 134.pdf») — **FAKTURA VAT 04/10/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa 134 (GTU_13), 1 шт, **3 550,00 EUR** (15 529,48 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Один из двух инвойсов к строке (DAZ 134 + DAZ 135 = 6 598,00 EUR) — новую строку не создаю.",
+    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **DAZ TRANS LOGISTIK Sp. z o.o.** — DAZ 134 (3 550,00) + DAZ 135 (3 048,00) = 6 598,00 EUR (VAT 0%). Scream: «На оплату от Q8 на DAZ 6598 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-04-10-2026 DAZ 134.pdf») — **FAKTURA VAT 04/10/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa 134 (GTU_13), 1 шт, **3 550,00 EUR** (15 529,48 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Один из двух инвойсов к строке (DAZ 134 + DAZ 135 = 6 598,00 EUR) — новую строку не создаю. | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-05-10-2026 DAZ 135.pdf») — **FAKTURA VAT 05/10/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa 135 (GTU_13), 1 шт, **3 048,00 EUR** (13 341,10 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Второй из двух инвойсов к строке (DAZ 134 + DAZ 135 = 6 598,00 EUR) — новую строку не создаю.",
     "calc": null,
     "rowId": "mol-000121"
   },
@@ -500,7 +500,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **Argemonia** (Erste Bank Polska, SWIFT WBKPPLPP) — ARG 117 (4 331,56) + ARG 126 (3 500,78) = 7 832,34 EUR (VAT 0%). Scream: «На оплату от Q8 на Argemonia 7832,34 EUR».",
+    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **Argemonia** (Erste Bank Polska, SWIFT WBKPPLPP) — ARG 117 (4 331,56) + ARG 126 (3 500,78) = 7 832,34 EUR (VAT 0%). Scream: «На оплату от Q8 на Argemonia 7832,34 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-26-09-2026 ARG 126.pdf») — **FAKTURA VAT 26/09/2026** (ARGEMONIA POLAND Sp. z o.o., Chełmżyńska 180a, 04-464 Warszawa, NIP 5272715253 → **Q8 GROUP LIMITED**, 18/F, 99 Queen's Road Central, Hong Kong, NIP 68975013): USŁUGA TRANSPORTOWA 126 (GTU_13), 1 шт, **3 500,78 EUR** (15 315,91 PLN), VAT 0% (transport międzynarodowy); банк Erste Bank Polska S.A. (Plac Europejski 3A, Warszawa), SWIFT **WBKPPLPP**, счёт **PL61 1090 2590 0000 0001 2397 0816** (EUR). Один из двух инвойсов к строке (ARG 117 + ARG 126 = 7 832,34 EUR) — новую строку не создаю. | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-27-09-2026 ARG 117.pdf») — **FAKTURA VAT 27/09/2026** (ARGEMONIA POLAND Sp. z o.o., Chełmżyńska 180a, 04-464 Warszawa, NIP 5272715253 → **Q8 GROUP LIMITED**, 18/F, 99 Queen's Road Central, Hong Kong, NIP 68975013): USŁUGA TRANSPORTOWA 117 (GTU_13), 1 шт, **4 331,56 EUR** (18 950,58 PLN), VAT 0% (transport międzynarodowy); банк Erste Bank Polska S.A. (Plac Europejski 3A, Warszawa), SWIFT **WBKPPLPP**, счёт **PL61 1090 2590 0000 0001 2397 0816** (EUR). Второй из двух инвойсов к строке (ARG 117 + ARG 126 = 7 832,34 EUR) — новую строку не создаю.",
     "calc": null,
     "rowId": "mol-000122"
   },
@@ -521,7 +521,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **Argemonia** (Erste Bank Polska, SWIFT WBKPPLPP) — ARG 118 = 4 321,56 EUR (VAT 0%). Scream: «На оплату от Q8 на Argemonia 4321,56 EUR».",
+    "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **Argemonia** (Erste Bank Polska, SWIFT WBKPPLPP) — ARG 118 = 4 321,56 EUR (VAT 0%). Scream: «На оплату от Q8 на Argemonia 4321,56 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-28-09-2026 ARG 118.pdf») — **FAKTURA VAT 28/09/2026** (ARGEMONIA POLAND Sp. z o.o., Chełmżyńska 180a, 04-464 Warszawa, NIP 5272715253 → **Q8 GROUP LIMITED**, 18/F, 99 Queen's Road Central, Hong Kong, NIP 68975013): USŁUGA TRANSPORTOWA 118 (GTU_13), 1 шт, **4 321,56 EUR** (18 915,04 PLN), VAT 0% (transport międzynarodowy); банк Erste Bank Polska S.A. (Plac Europejski 3A, Warszawa), SWIFT **WBKPPLPP**, счёт **PL61 1090 2590 0000 0001 2397 0816** (EUR). Инвойс к строке (ARG 118 = 4 321,56 EUR) — новую строку не создаю.",
     "calc": null,
     "rowId": "mol-000123"
   },

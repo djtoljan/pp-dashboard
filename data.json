@@ -1492,6 +1492,27 @@
       "notes": "📄 12.10.2026 (📨 Платежи VDX, файл «15616_inv.pdf») — **PROFORMA INVOICE** (продавец **Guangzhou Chaohuite Machinery Engineering Co., Ltd**, Shop 705-707, Street 6, No.36 Zhuji Road, Tianhe District, Guangzhou, Guangdong, China): PI No **CHT-20261008** dd 08.10.2026; запчасти для экскаваторов (сенсоры, крышки, моторы, помпы, жгуты, seal kits и др., 195 позиций, 688 шт); **Goods Value 13 263,76 + Wooden Case 29,85 + Bank Charges 28,00 = Total Amount(USD) EXW 13 321,61**. Банк: **DBS Bank (Hong Kong) Limited** (11th Floor, The Center, 99 Queen's Road Central, Hong Kong), SWIFT **DHBKHKHH**, счёт **79801807557**. Компания-плательщик не названа → Step 0 → 🔴 (ждём заявку).",
       "calc": null,
       "rowId": "main-000272"
+    },
+    {
+      "row": 70,
+      "date": "2026-10-12",
+      "sum": 32400,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "КГ бр (Аренда)",
+      "costFormula": "32 400,00 + 0,3% + 30 = 32 527,20 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 32527.2,
+      "notes": "✏️ 12.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 32 400,00 + 0,3% + 30 = 32 527,20 USDT.",
+      "calc": "ТЕЗ",
+      "rowId": "main-000273"
     }
   ]
 }
