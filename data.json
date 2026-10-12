@@ -1450,6 +1450,27 @@
       "notes": "📄 12.10.2026 (📨 Платежи VDX, файл «15607_inv.pdf») — **INVOICE** от продавца **P.T. INTERNATIONAL CO, LIMITED** (NO.2007, 20th Floor, Fortune & Wisdom International Building, 1577# Xingyue Road, Keqiao, Shaoxing, Zhejiang, China); Invoice No. **202610056** dd 06.10.2026; позиция **Cloth** = **72 140,83 USD**; условия 100% T/T before shipment, EXW. Банк: **Ping An Bank, H.O. Offshore Banking Department** (11/F, No.5047, Road Shennan Dong, Shenzhen), SWIFT **SZDBCNBS**, счёт **OSA11009439760801**. Компания-плательщик не названа → Step 0 → 🔴 (ждём заявку).",
       "calc": null,
       "rowId": "main-000270"
+    },
+    {
+      "row": 68,
+      "date": "2026-10-12",
+      "sum": 18938.33,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Дре Русланд",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000271"
     }
   ]
 }
