@@ -399,7 +399,7 @@
     "sum": 15000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Milele Flowers (Цветы)",
     "costFormula": "15 000,00 + 0,3% + 30 = 15 075,00 USDT",
     "extra": null,
