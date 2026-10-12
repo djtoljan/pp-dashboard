@@ -357,7 +357,7 @@
     "sum": 29050,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
     "costFormula": "29050 / 0.889868064063 (FX Q8 12.10.2026: 1 USD = 0.889868064063 EUR) + 0,3% + 30 = 32773.22 USDT",
     "extra": null,
