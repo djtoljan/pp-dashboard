@@ -1396,7 +1396,7 @@
       "company": "Z SOURCE",
       "color": "FFFFFFFF",
       "clientName": "VDX",
-      "costFormula": "723 + 0,3% + 30 = 755,17 USDT",
+      "costFormula": "723,00 × 1,003 + 100 = 825 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -1404,7 +1404,7 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": 755.17,
+      "sent_usdt": 825,
       "notes": "📄 09.10.2026 (📨 Платежи VDX, файл «inv_723 USD.pdf») — **INVOICE (KMP FREIGHT PRIVATE LIMITED)** (Chennai, India; GST 33AAICK4726C1ZU; LUT ARN AD330326104673D; PAN AAICK4726C): услуги **Export Air Transport** + **Export Air Forwarding** (экспорт, zero-rated) = **723,00 USD**. Банк поставщика: **HDFC Bank** (Chennai; SWIFT **HDFCINBBCHE**). Компания-плательщик не названа → Step 0 → 🔴. | 📄 12.10.2026 (📨 Заявки Z Source, файл «inv_723 USD.pdf») — та же сделка (KMP FREIGHT, 723 USD): канал подтверждает компанию-плательщика **Z SOURCE** → 🔴→⬜ (Step 3). Z SOURCE: расчёт 723 + 0,3% + 30 = 755,17 USDT.",
       "calc": "ТЕЗ",
       "rowId": "main-000266"
@@ -1480,7 +1480,7 @@
       "company": null,
       "color": "FFFF0000",
       "clientName": "VDX",
-      "costFormula": null,
+      "costFormula": "13 321,61 × 1,003 + 100 = 13 462 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -1488,7 +1488,7 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
+      "sent_usdt": 13462,
       "notes": "📄 12.10.2026 (📨 Платежи VDX, файл «15616_inv.pdf») — **PROFORMA INVOICE** (продавец **Guangzhou Chaohuite Machinery Engineering Co., Ltd**, Shop 705-707, Street 6, No.36 Zhuji Road, Tianhe District, Guangzhou, Guangdong, China): PI No **CHT-20261008** dd 08.10.2026; запчасти для экскаваторов (сенсоры, крышки, моторы, помпы, жгуты, seal kits и др., 195 позиций, 688 шт); **Goods Value 13 263,76 + Wooden Case 29,85 + Bank Charges 28,00 = Total Amount(USD) EXW 13 321,61**. Банк: **DBS Bank (Hong Kong) Limited** (11th Floor, The Center, 99 Queen's Road Central, Hong Kong), SWIFT **DHBKHKHH**, счёт **79801807557**. Компания-плательщик не названа → Step 0 → 🔴 (ждём заявку).",
       "calc": null,
       "rowId": "main-000272"
@@ -1657,7 +1657,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": " | 📄 12.10.2026 (📨 НБС-Fininvest (t725), файл «PI- ZYXCH260910FTC1039.pdf») — **PROFORMA INVOICE ZYXCH260910FTC1039** (SC No. АРЗ0-002192 / 09.09.2026, dated SEPT 10.2026): продавец **Zhejiang Zanyu New Material Co., Ltd.** (FLOOR 2, BUILDING 1, YUEQUAN INTELLIGENT EQUIPMENT INDUSTRIAL PARK, NO.589, FENGHE ROAD, PUJIANG COUNTY, ZHEJIANG, CHINA); Buyer **BLACKSHARK TRADE LLC** (INN 9909705614, Microdistrict 10, 34 Bishkek); товар **Stearic acid 1860** (25KG BAG ON PALLETS), 96 MT × ¥9 070,00 = **¥870 720,00 CNY**; Price term FOB NINGBO, Payment 100% T/T in advance; Destination ST PETERBURG, RUSSIA; банк PJSC VTB BANK Shanghai Branch (SWIFT VTBRCNSH, счёт 40807156200610029443, бенефициар Zhejiang Zanyu). Компания-плательщик не названа → Step 0 → 🔴. |  | 📄 12.10.2026 (📨 НБС-Fininvest (t725), файл «PO- ZYXCH260910FTC1039.pdf») — **SALES CONTRACT ZYXCH260910FTC1039** (SC No. АРЗ0-002192 / 09.09.2026): та же сделка; продавец Zhejiang Zanyu New Material Co., Ltd., Buyer BLACKSHARK TRADE LLC; Stearic acid 1860, 96 MT × ¥9 070,00 = **¥870 720,00 CNY**; FOB NINGBO, 100% T/T IN ADVANCE, Destination ST PETERBURG; бенефициар Zhejiang Zanyu (PJSC VTB BANK Shanghai, SWIFT VTBRCNSH). Новую строку не создаю.",
       "calc": null,
       "rowId": "main-000280"
     }
