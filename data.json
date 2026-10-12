@@ -1668,7 +1668,7 @@
       "currency": "USD",
       "company": "SURYA",
       "color": "FFFFFFFF",
-      "clientName": "Игорь от Васи",
+      "clientName": "Игорь от Василия",
       "costFormula": null,
       "extra": null,
       "rubles_received": null,
@@ -1678,7 +1678,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": " | 📄 12.10.2026 (📨 Платежи VDX — переслал Аlex @VDX_services, подпись «**Payment from SURYA❗️**», файл «INV 151 000,00 USD.pdf») — **ордер**: Amount **151 000,00 USD**; Beneficiary **GOOD TEAM 888 CO.,LTD.** (At 149/13 Moo.4 Si Sunthon Subdistrict, Thalang District, Phuket 83110; Tax ID 0835565016064); Beneficiary Bank **Bangkok Bank** (Cherngtalay Phuket; SWIFT BKKBTHBK, счёт 696-7-12473-3); Payment details «INV INV20260713-006 dd 13.7.26»; **OUR**. | 📄 INVOICE **INV20260713-006** dd 13/7/2026 (due 12/8/2026), NAME **Mr. Igor Aldabaev** (Plot L72, passport 76 3694709, admin@cloverth.net): «Outstanding Balance for 5th Payment - Completion of the structure upper floor and roof» 531,06 + «6th payment - Completion of the wall, floor and interior work» 150 468,94 = **$151 000,00**. Компания-плательщик **SURYA** → ⬜.",
       "calc": null,
       "rowId": "main-000281"
     }
