@@ -1468,9 +1468,30 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 12.10.2026 (📨 ООО Дре русланд трейдинг - Fininvest/ЭТБ, файл «Поручение Блекшарк (1) (40).pdf») — **ПОРУЧЕНИЕ № 48 от 12.10.2026** (Transfer request No. 48; Приложение № 1 к Агентскому договору № 2701-27/1 от 27.01.26): Принципал **ООО «ДРЕ РУСЛАНД ТРЕЙДИНГ»** → Агент **ОсОО «Блэкшарк Трейд»**; платёж по инвойсу **FV/4885/2026 от 15.09.2026**: получатель **MAR-S SP Z O O** (POLAND, BRALIN, 63-40, UL. NAMYSLOWSKA 9B); банк **SANTANDER BANK POLSKA S.A.** (WBKPPLPP), IBAN **PL86109011440000000122754883**; сумма **18 938,33 EUR**; курс **94,9745** → **1 798 658,42 ₽**; комиссия Агента 1,6% (28 778,53). Компания-плательщик не названа → Step 0 → 🔴. | 📄 12.10.2026 (📨 ООО Дре русланд трейдинг - Fininvest/ЭТБ, файл «S22C-826091513370_removed_261012_094708.pdf») — скан-подтверждение оплаты (польский банк): «Płatność w euro. Kurs wymiany 4,2 = 18 938,33 euro» — та же сделка (Поручение № 48, MAR-S, 18 938,33 EUR).",
       "calc": null,
       "rowId": "main-000271"
+    },
+    {
+      "row": 69,
+      "date": "2026-10-12",
+      "sum": 13321.61,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000272"
     }
   ]
 }
