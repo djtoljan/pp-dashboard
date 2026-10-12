@@ -289,7 +289,7 @@
     "sum": 49250.04,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "49 250,04 / 0.891154924668 (FX Q8 12.10.2026: 1 USD = 0.891154924668 EUR) + 0,5% + 100 = 55641.73 USDT",
     "extra": null,
@@ -300,7 +300,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 55641.73,
-    "notes": "📄 12.10.2026 (📨 Константин Просто Группа, файл «49 250.04 EUR (12.10.2026).xlsx») — **Заявка (форма «Необходимые данные для заявки»)**: Beneficiary **220-B d.o.o.** (Bosanska 47, 11224 Vrčin, SRBIJA); банк **OTP BANKA SRBIJA A.D.** (Bulevar Oslobođenja 80, Novi Sad), SWIFT **OTPVRS22**, IBAN **RS35325960160000415772**; назначение «Payment for household appliances to invoice No. 26-010-000174 dd 29.09.2026; 26-010-000175 dd 30.09.2026». В форме «Сумма платежа» указана общая сумма; к заведению — **49 250,04 EUR** (остаток по тем же счёту/инвойсам после уже оплаченного r8 — см. r8). Компания-плательщик не названа → 🔴. | 📄 12.10.2026 (📨 Константин Просто Группа, файл «PROFORMA INVOICE_26-010-000174.pdf») — **PROFORMA INVOICE № 26-010-000174** dd 29.9.2026 (važi do 14.10.2026): продавец **220-B d.o.o.** (Srbija) → покупатель **Q8 GROUP LIMITED** (Room A22 10/F, No.52, Hung To Road, Kwun Tong, Hong Kong); позиция **V16 PISTON ANSUB** (V16 Piston Animal Submarine New Model; šifra 492969), 84 kom, итог **49 250,04 EUR**; PDV 0%; HS 8508110000. Инвойс к этой строке (сумма 49 250,04 EUR совпадает) — сумму не меняю. Компания-плательщик **Q8** → ⬜ (Step 3).",
+    "notes": "📄 12.10.2026 (📨 Константин Просто Группа, файл «49 250.04 EUR (12.10.2026).xlsx») — **Заявка (форма «Необходимые данные для заявки»)**: Beneficiary **220-B d.o.o.** (Bosanska 47, 11224 Vrčin, SRBIJA); банк **OTP BANKA SRBIJA A.D.** (Bulevar Oslobođenja 80, Novi Sad), SWIFT **OTPVRS22**, IBAN **RS35325960160000415772**; назначение «Payment for household appliances to invoice No. 26-010-000174 dd 29.09.2026; 26-010-000175 dd 30.09.2026». В форме «Сумма платежа» указана общая сумма; к заведению — **49 250,04 EUR** (остаток по тем же счёту/инвойсам после уже оплаченного r8 — см. r8). Компания-плательщик не названа → 🔴. | 📄 12.10.2026 (📨 Константин Просто Группа, файл «PROFORMA INVOICE_26-010-000174.pdf») — **PROFORMA INVOICE № 26-010-000174** dd 29.9.2026 (važi do 14.10.2026): продавец **220-B d.o.o.** (Srbija) → покупатель **Q8 GROUP LIMITED** (Room A22 10/F, No.52, Hung To Road, Kwun Tong, Hong Kong); позиция **V16 PISTON ANSUB** (V16 Piston Animal Submarine New Model; šifra 492969), 84 kom, итог **49 250,04 EUR**; PDV 0%; HS 8508110000. Инвойс к этой строке (сумма 49 250,04 EUR совпадает) — сумму не меняю. Компания-плательщик **Q8** → ⬜ (Step 3). |  | 💳 12.10.2026 (📨 ПП компании Q8/Z-source, файл «Processing 49250.04 EUR.pdf») — **BONBILL Payment Certificate**: Transaction ID O2109629882333003776656, Payment Time 20261012 20:58:53, Payer Q8 GROUP LIMITED, Payment Status **Processing**; Payee **220B d.o.o.** (OTP BANKA SRBIJA A.D., SWIFT OTPVRS22, счёт RS3532****772; Bosanska 47, 11224 Vrcin), EUR 49 250,04, Remarks «Invoice 26010000174 dd 29.09.2026 и 26010000175 dd 30.09.2026 For Household Appliances». Статус Processing = INITIATED → 🟡 (не зелёнка).",
     "calc": "ТЕЗ",
     "rowId": "kon-000043"
   },
