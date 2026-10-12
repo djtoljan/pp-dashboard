@@ -265,7 +265,7 @@
     "sum": 110000,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Архимед (Молодёжь)",
     "costFormula": "110000 / 0.889868064063 (FX Q8 12.10.2026: 1 USD = 0.889868064063 EUR) + 0,3% + 30 = 124014.67 USDT",
     "extra": null,
