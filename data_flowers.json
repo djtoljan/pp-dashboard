@@ -534,7 +534,7 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "FLORES DE CONEJERA SAS (Цветы)",
+    "clientName": "Flores de Conejera (Цветы)",
     "costFormula": "10 000,00 + 0,3% + 30 = 10 060,00 USDT",
     "extra": null,
     "rubles_received": null,
@@ -542,11 +542,23 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 10160,
     "sent_usdt": 10060,
     "notes": "✏️ 12.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT. | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «FLORES DE CONEJERA SAS 10000.docx») — **форма реквизитов платежа (заявка, Тип 4)**: Amount **10 000**, Currency **USD**; Beneficiary **FLORES DE CONEJERA SAS** (AV 100 19A 50 OFF. 1002, BOGOTA, COLOMBIA); Account **13401600454**; Beneficiary Bank **BANCOLOMBIA** (CALLE 30A 6 38 FLOOR 2, BOGOTA, COLOMBIA), SWIFT **COLOCOBM**; Registration number **860501528-7**; INTERMEDIARY BANK **CITIBANK NY** (SWIFT **CITIUS33**, счёт **36006658**); Details of Payment «FOR FRESH CUT FLOWERS». Клиент **FLORES DE CONEJERA SAS (Цветы)**, компания **Q8** → Step 3 ⬜. | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «FLORES DE CONEJERA SAS 10000.pdf») — **INVOICE № 511922 dd 06-Oct-26** (FLORES LA CONEJERA SAS, NIT **860.501.528-7**, Calle 100 #19A-50 Oficina 405, Bogotá DC, Colombia; facturacion@konejera.com, тел. 57 6220020): BILL TO / SHIP TO **Q8 Group Limited** (Company № 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). PRODUCT **CLAVEL** (VARIETY ASSORTED, GRADE SELECT), FULL BOXES 25.00 / 50 000 tallos, PRICE/UNIT 0.200 → **TOTAL USD 10 000,00**; подписал JUAN CAMILO ROJAS. ✅ Инвойс-основание (10 000,00 USD); плательщик **Q8** — подтверждает компанию.",
     "calc": null,
-    "rowId": "flw-000119"
+    "rowId": "flw-000119",
+    "payment_facts": [
+      {
+        "entryId": "IN_20320_12.10.2026_1791831864500",
+        "ref": "8d83e6a3d18a3520545361ee31426feaca8919d79d28310d71e18974222f2e16",
+        "txid": "8d83e6a3d18a3520545361ee31426feaca8919d79d28310d71e18974222f2e16",
+        "bobrAlertId": null,
+        "date": "12.10.2026",
+        "direction": "IN",
+        "amount": 10160,
+        "rowId": "flw-000119"
+      }
+    ]
   },
   {
     "row": 27,
@@ -563,10 +575,55 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 10160,
     "sent_usdt": 10060,
     "notes": "✏️ 12.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT. | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «Milele Flowers limited 10000.docx») — **форма реквизитов платежа (заявка, Тип 4)**: Amount **10 000**, Currency **USD**; Beneficiary **Milele Flowers limited** (P.O. Box 295-10218 Kangari-Kenya); Account **1203691181**; Beneficiary Bank **KENYA COMMERCIAL BANK LIMITED** (Gateway Park House, Mombasa Road, P.O. Box 27618-00506, Nairobi), SWIFT **KCBLKENX**; Registration number **CPR/2015/193085**; VAT **P051544103S**; Director **John Kimani Macharia** (+254 712 370192, mileleflowers@gmail.com); Transaction Costs **By customer**; Details of Payment «For Flowers». Клиент **Milele Flowers (Цветы)**, компания **Q8** → Step 3 ⬜. ⚠️ Новая сумма (**10 000**, не r20 15 000 / инвойс 1300/3256) — новая сделка, ждём инвойс/AWB.",
     "calc": null,
-    "rowId": "flw-000120"
+    "rowId": "flw-000120",
+    "payment_facts": [
+      {
+        "entryId": "IN_20320_12.10.2026_1791831864500",
+        "ref": "8d83e6a3d18a3520545361ee31426feaca8919d79d28310d71e18974222f2e16",
+        "txid": "8d83e6a3d18a3520545361ee31426feaca8919d79d28310d71e18974222f2e16",
+        "bobrAlertId": null,
+        "date": "12.10.2026",
+        "direction": "IN",
+        "amount": 10160,
+        "rowId": "flw-000120"
+      }
+    ]
+  },
+  {
+    "row": 28,
+    "date": "2026-10-12",
+    "sum": 23688,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Condor Andino (Цветы)",
+    "costFormula": "23 688,00 + 0,3% + 30 = 23 789,06 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": 23930,
+    "sent_usdt": 23789.06,
+    "notes": "✏️ 12.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 23 688,00 + 0,3% + 30 = 23 789,06 USDT. | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «INVOICE 335 Q8 GROUP LIMITED.pdf») — **INVOICE № 335 dd 12/10/2026** (CONDOR ANDINO SAS, NIT **901.271.131-7**, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; cel (57) 3206668410; директор Elizabeth Tabares) → BILL TO **Q8 Group Limited** (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): **FRESH CUT HYDRANGEAS**, PACK QB, 125 боксов / 29 610 стеблей, VR UND 0.8 → **TOTAL USD 23 688,00**. Реквизиты: BENEFICIARY CONDOR ANDINO SAS, счёт **55700015652**, BANK **BANCOLOMBIA** (CLL 10 # 8-48 La Unión Ant, Col), SWIFT **COLOCOBM**. Клиент **Condor Andino (Цветы)**, компания **Q8** → Step 3 ⬜.",
+    "calc": null,
+    "rowId": "flw-000121",
+    "payment_facts": [
+      {
+        "entryId": "IN_23930_12.10.2026_1791832684946",
+        "ref": "81b49433b01cc0311bf9c80dbf6fa2d875eb5c47afcb371ddd5508dc5e29888b",
+        "txid": "81b49433b01cc0311bf9c80dbf6fa2d875eb5c47afcb371ddd5508dc5e29888b",
+        "bobrAlertId": null,
+        "date": "12.10.2026",
+        "direction": "IN",
+        "amount": 23930,
+        "rowId": "flw-000121"
+      }
+    ]
   }
 ]
