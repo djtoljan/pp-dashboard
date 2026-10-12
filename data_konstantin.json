@@ -226,7 +226,7 @@
     "sum": 42880,
     "currency": "USD",
     "company": "Terustav",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -237,7 +237,7 @@
     "vdx_rate": null,
     "received_usdt": 43194.4,
     "sent_usdt": null,
-    "notes": "📄 09.10.2026 (📨 Константин Просто Группа, файл «INV ABC USD 42880 (1).pdf») — **INVOICE (ABC World Trade)** от поставщика **ABC** (Director Putu Alit Setiawati; Jalan Ratna No. 80, Tonja, Denpasar Utara, Bali, Indonesia; official.abcworldtrade@gmail.com; abcworldtrade.com) → покупателю **Terustav Trade Limited** (Unit Level 9F(2), Main Office Tower, Financial Park Labuan, Jalan Merdeka, Labuan, Malaysia; terustav.com). Услуги: **consulting and marketing services** (market research and analysis; strategic advice on market entry and business expansion), 1 поз. × 42 880,00 = **42 880,00 USD**. Банк поставщика: **Bank Mandiri (Persero)** (Jakarta; SWIFT **BMRIIDJA**, счёт USD 1750004922307). Компания-плательщик **Terustav** → ⬜ (Step 3). | 📄 09.10.2026 (📨 Константин Просто Группа, файл «42880 USD (09.10.2026).xlsx» — заявка / application form, заполнена клиентом) — **заявка на платёж**: сумма **42 880 USD**; бенефициар **PT ABC WORLD TRADE** (Indonesia; Jalan Ratna Nomor 80, Tonja, Denpasar Utara, Bali); банк **Bank Mandiri (Persero)** (Indonesia, JL. GATOT SUBROTO 36-38, Jakarta; SWIFT **BMRIIDJA**, счёт **1750004922307**); назначение «invoice N: U011026 dd 01/10/26». Та же сделка, что строка выше (ABC → Terustav, 42 880 USD) — новую строку не создаю, ⬜.",
+    "notes": "📄 09.10.2026 (📨 Константин Просто Группа, файл «INV ABC USD 42880 (1).pdf») — **INVOICE (ABC World Trade)** от поставщика **ABC** (Director Putu Alit Setiawati; Jalan Ratna No. 80, Tonja, Denpasar Utara, Bali, Indonesia; official.abcworldtrade@gmail.com; abcworldtrade.com) → покупателю **Terustav Trade Limited** (Unit Level 9F(2), Main Office Tower, Financial Park Labuan, Jalan Merdeka, Labuan, Malaysia; terustav.com). Услуги: **consulting and marketing services** (market research and analysis; strategic advice on market entry and business expansion), 1 поз. × 42 880,00 = **42 880,00 USD**. Банк поставщика: **Bank Mandiri (Persero)** (Jakarta; SWIFT **BMRIIDJA**, счёт USD 1750004922307). Компания-плательщик **Terustav** → ⬜ (Step 3). | 📄 09.10.2026 (📨 Константин Просто Группа, файл «42880 USD (09.10.2026).xlsx» — заявка / application form, заполнена клиентом) — **заявка на платёж**: сумма **42 880 USD**; бенефициар **PT ABC WORLD TRADE** (Indonesia; Jalan Ratna Nomor 80, Tonja, Denpasar Utara, Bali); банк **Bank Mandiri (Persero)** (Indonesia, JL. GATOT SUBROTO 36-38, Jakarta; SWIFT **BMRIIDJA**, счёт **1750004922307**); назначение «invoice N: U011026 dd 01/10/26». Та же сделка, что строка выше (ABC → Terustav, 42 880 USD) — новую строку не создаю, ⬜. | 📄 12.10.2026 (📨 ПП компании Q8, файл «42880.00.pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2109575879729479680376**, Payment Time 2026-10-12 17:24:18; Payer **Q8 GROUP LIMITED** → Payee **PT ABC WORLD TRADE** (BANK MANDIRI (PERSERO), PT, счёт 1750004922307); Currency Amount **USD 42 880,00**; Remarks «Invoice U011026 DD 01102026 For Provision Of consulting And Marketing Services». Подтверждение исполнения по ордеру Q8 → ABC World Trade → ⬜→🟢.",
     "calc": null,
     "rowId": "kon-000040"
   },
