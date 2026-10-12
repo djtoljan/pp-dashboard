@@ -1660,6 +1660,27 @@
       "notes": " | 📄 12.10.2026 (📨 НБС-Fininvest (t725), файл «PI- ZYXCH260910FTC1039.pdf») — **PROFORMA INVOICE ZYXCH260910FTC1039** (SC No. АРЗ0-002192 / 09.09.2026, dated SEPT 10.2026): продавец **Zhejiang Zanyu New Material Co., Ltd.** (FLOOR 2, BUILDING 1, YUEQUAN INTELLIGENT EQUIPMENT INDUSTRIAL PARK, NO.589, FENGHE ROAD, PUJIANG COUNTY, ZHEJIANG, CHINA); Buyer **BLACKSHARK TRADE LLC** (INN 9909705614, Microdistrict 10, 34 Bishkek); товар **Stearic acid 1860** (25KG BAG ON PALLETS), 96 MT × ¥9 070,00 = **¥870 720,00 CNY**; Price term FOB NINGBO, Payment 100% T/T in advance; Destination ST PETERBURG, RUSSIA; банк PJSC VTB BANK Shanghai Branch (SWIFT VTBRCNSH, счёт 40807156200610029443, бенефициар Zhejiang Zanyu). Компания-плательщик не названа → Step 0 → 🔴. |  | 📄 12.10.2026 (📨 НБС-Fininvest (t725), файл «PO- ZYXCH260910FTC1039.pdf») — **SALES CONTRACT ZYXCH260910FTC1039** (SC No. АРЗ0-002192 / 09.09.2026): та же сделка; продавец Zhejiang Zanyu New Material Co., Ltd., Buyer BLACKSHARK TRADE LLC; Stearic acid 1860, 96 MT × ¥9 070,00 = **¥870 720,00 CNY**; FOB NINGBO, 100% T/T IN ADVANCE, Destination ST PETERBURG; бенефициар Zhejiang Zanyu (PJSC VTB BANK Shanghai, SWIFT VTBRCNSH). Новую строку не создаю.",
       "calc": null,
       "rowId": "main-000280"
+    },
+    {
+      "row": 78,
+      "date": "2026-10-12",
+      "sum": 151000,
+      "currency": "USD",
+      "company": "SURYA",
+      "color": "FFFFFFFF",
+      "clientName": "Игорь от Васи",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000281"
     }
   ]
 }
