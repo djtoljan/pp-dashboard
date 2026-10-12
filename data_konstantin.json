@@ -291,7 +291,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "49 250,04 × 1,12107625 + 0,5% + 100 = 55 589,12 USDT",
+    "costFormula": "49 250,04 / 0.891154924668 (FX Q8 12.10.2026: 1 USD = 0.891154924668 EUR) + 0,5% + 100 = 55641.73 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
