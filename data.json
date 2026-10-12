@@ -1396,7 +1396,7 @@
       "company": "Z SOURCE",
       "color": "FFFFFFFF",
       "clientName": "VDX",
-      "costFormula": null,
+      "costFormula": "723 + 0,3% + 30 = 755,17 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -1404,9 +1404,9 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 09.10.2026 (📨 Платежи VDX, файл «inv_723 USD.pdf») — **INVOICE (KMP FREIGHT PRIVATE LIMITED)** (Chennai, India; GST 33AAICK4726C1ZU; LUT ARN AD330326104673D; PAN AAICK4726C): услуги **Export Air Transport** + **Export Air Forwarding** (экспорт, zero-rated) = **723,00 USD**. Банк поставщика: **HDFC Bank** (Chennai; SWIFT **HDFCINBBCHE**). Компания-плательщик не названа → Step 0 → 🔴.",
-      "calc": null,
+      "sent_usdt": 755.17,
+      "notes": "📄 09.10.2026 (📨 Платежи VDX, файл «inv_723 USD.pdf») — **INVOICE (KMP FREIGHT PRIVATE LIMITED)** (Chennai, India; GST 33AAICK4726C1ZU; LUT ARN AD330326104673D; PAN AAICK4726C): услуги **Export Air Transport** + **Export Air Forwarding** (экспорт, zero-rated) = **723,00 USD**. Банк поставщика: **HDFC Bank** (Chennai; SWIFT **HDFCINBBCHE**). Компания-плательщик не названа → Step 0 → 🔴. | 📄 12.10.2026 (📨 Заявки Z Source, файл «inv_723 USD.pdf») — та же сделка (KMP FREIGHT, 723 USD): канал подтверждает компанию-плательщика **Z SOURCE** → 🔴→⬜ (Step 3). Z SOURCE: расчёт 723 + 0,3% + 30 = 755,17 USDT.",
+      "calc": "ТЕЗ",
       "rowId": "main-000266"
     },
     {
