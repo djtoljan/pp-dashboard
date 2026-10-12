@@ -1629,6 +1629,27 @@
       "clientName": "АО «КОИН» (Компоненты и Инжиниринг)",
       "costFormula": null,
       "extra": null,
+      "rubles_received": 11009264.6,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": " | 📄 12.10.2026 (📨 Tez IZ, файл «1344_12102026.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 1344 от 12.10.2026** (статус «ждёт подписей»): плательщик **АО «КОИН» (Компоненты и Инжиниринг)** (ИНН 7802942633, КПП 780201001; 194044, СПб, ул. Саратовская 23-25, лит.А; счёт 40702810490200003718, ПАО «Банк «Санкт-Петербург») → получатель **ООО «Блэкшарк Трейд»** (ИНН 9909705614; Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, счёт 40807810825640000009), сумма **11 009 264,60 ₽**; назначение {VO11200} «Оплата за товар по договору KH55.06.2024SPB от 27.06.2024 по инв PN000072 от 11.02.2026 (868 656,42 ю)», НДС не облагается. Контракт KH55.06.2024SPB (PINDUS PTE. LTD. ↔ КОИН), доп. соглашение №16 → получатель Блэкшарк Трейд.",
+      "calc": null,
+      "rowId": "main-000279"
+    },
+    {
+      "row": 77,
+      "date": "2026-10-12",
+      "sum": 870720,
+      "currency": "CNY",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "BLACKSHARK TRADE LLC",
+      "costFormula": null,
+      "extra": null,
       "rubles_received": null,
       "statementRef": null,
       "sent_rubles_vdx": null,
@@ -1638,7 +1659,7 @@
       "sent_usdt": null,
       "notes": null,
       "calc": null,
-      "rowId": "main-000279"
+      "rowId": "main-000280"
     }
   ]
 }
