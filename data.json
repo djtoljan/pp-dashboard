@@ -1566,7 +1566,7 @@
       "company": "Z SOURCE",
       "color": "FF92D050",
       "clientName": "VDX",
-      "costFormula": null,
+      "costFormula": "1 975,62 × 1,003 + 100 = 2 081,55 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -1574,9 +1574,9 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
+      "sent_usdt": 2081.55,
       "notes": " | 💳 12.10.2026 (📨 ПП компании Q8, файл «Processing 1975.62 USD.pdf») — **BONBILL Payment Certificate**: Transaction ID **O2109600653700628480365**, Payment Time 20261012 19:02:45, Payer **Z SOURCE LIMITED**, Payment Status **Processing**; Payee **P.T.INTERNATIONAL CO,LIMITED** (PING AN BANK CO., LTD., SWIFT SZDBCNBS, счёт OSA1100****801), USD **1 975,62** (Handling Fee 32 USD), Remarks «Invoice202610057DD06102026ForToys» (инвойс **202610057** dd 06.10.2026 «For Toys»). Продавец — тот же P.T. INTERNATIONAL, что и Main r67 (инвойс 202610056). | 💳 13.10.2026 (📨 ПП компании Q8/Z-source, файл «1975.62.pdf») — BONBILL Payment Certificate (lean-шаблон, без Payment Status → исполнено): Transaction ID O2109600653700628480365, Payment Time 2026-10-12 19:02:45, Payer Z SOURCE LIMITED → Payee P.T.INTERNATIONAL CO,LIMITED (PING AN BANK CO., LTD., счёт OSA11009439760801), USD 1 975,62, Remarks «Invoice 202610057 DD 06.10.2026 For Toys». → 🟡→🟢.",
-      "calc": null,
+      "calc": "ТЕЗ",
       "rowId": "main-000276"
     },
     {
@@ -1587,7 +1587,7 @@
       "company": "Z SOURCE",
       "color": "FF92D050",
       "clientName": "VDX",
-      "costFormula": null,
+      "costFormula": "8 779,11 × 1,003 + 100 = 8 905,45 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -1595,9 +1595,9 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
+      "sent_usdt": 8905.45,
       "notes": " | 💳 12.10.2026 (📨 ПП компании Q8, файл «Processing 8779.11 USD.pdf») — **BONBILL Payment Certificate**: Transaction ID **O210960186750284595224**, Payment Time 20261012 19:07:34, Payer **Z SOURCE LIMITED**, Payment Status **Processing**; Payee **P.T.INTERNATIONAL CO,LIMITED** (PING AN BANK CO., LTD., SWIFT SZDBCNBS, счёт OSA1100****801), USD **8 779,11** (Handling Fee 32 USD), Remarks «Invoice202610058DD06102026ForToys» (инвойс **202610058** dd 06.10.2026 «For Toys»). Продавец — тот же P.T. INTERNATIONAL (рядом инвойсы 202610056 = Main r67 и 202610057 = Main r73). | 💳 13.10.2026 (📨 ПП компании Q8/Z-source, файл «8779.11.pdf») — BONBILL Payment Certificate (lean-шаблон, без Payment Status → исполнено): Transaction ID O210960186750284595224, Payment Time 2026-10-12 19:07:34, Payer Z SOURCE LIMITED → Payee P.T.INTERNATIONAL CO,LIMITED (PING AN BANK CO., LTD., счёт OSA11009439760801), USD 8 779,11, Remarks «Invoice 202610058 DD 06.10.2026 For Toys». → 🟡→🟢.",
-      "calc": null,
+      "calc": "ТЕЗ",
       "rowId": "main-000277"
     },
     {
@@ -1701,7 +1701,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "🏦 12.10.2026 (📨 Платежи из Мира Привелегий (операционка), файл «ОсОО_Блэкшарк_Трейд_ПОЧТОБАНК_iBank_для_Бизнеса.pdf») — предварительная выписка АО АКИБ «ПОЧТОБАНК» г. Пермь (ОсОО «Блэкшарк Трейд», счёт 40807810100157518600 RUB): Кт ПП №84 — АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» (ИНН 9909705580, счёт 40807810324600000016), 1 768 099,67 ₽, {VO60081} «Оплата по Агентскому Договору»; Кт ПП №83 — тот же плательщик, 1 929 853,84 ₽, {VO60081}. rubles_received = 1929853.84 / 1768099.67. 🔵 — заявки нет, ждём поручение/инвойс.",
       "calc": null,
       "rowId": "main-000284"
     }
