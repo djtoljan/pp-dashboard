@@ -1906,14 +1906,14 @@
       "clientName": "—",
       "costFormula": null,
       "extra": null,
-      "rubles_received": null,
+      "rubles_received": 1552484.27,
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "| 💸 13.10.2026 (Scream переслал от Altayeva Aizhan, файл «MT103_AILSKZ2K_121026_1552484_27.TXT») — **SWIFT MT103** (из AILSKZ2K в PSHBRUMM; реф **+ASB126101200015**, дата валютирования 12.10.2026): отправитель **BLACKSHARK TRADE LLC** (счёт KZ889990172RUB000778) → получатель **OOO PO ENERGOFORM** (ИНН 7704393696, КПП 770401001, счёт 40702810700000295716, AO RAIFFAIZENBANK, 119002 Москва, Карманицкий пер., 9); сумма **1 552 484,27 RUB**; назначение «(VO10100) ОПЛАТА ПО КНТР. 0017/26D ОТ 06.03.2026 ЗА ЗАЩИТНЫЕ КОСТЮМЫ И КОМПЛЕКТУЮЩИЕ»; :71A **OUR**; :72 /RPP/229.261012.5.ELEK.01. Рубли направлены на PO ENERGOFORM (защитные костюмы). Совпадений по 1 552 484,27 / ENERGOFORM в 5 таблицах нет — новая 🔵 строка (клиент уточнить).",
       "calc": null,
       "rowId": "main-000300"
     }
