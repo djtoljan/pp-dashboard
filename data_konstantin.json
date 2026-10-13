@@ -382,9 +382,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 21305.5,
     "sent_usdt": 21193.3,
-    "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 21 100,00 + 0,3% + 30 = 21 193,30 USDT.",
+    "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 21 100,00 + 0,3% + 30 = 21 193,30 USDT. | 📄 13.10.2026 (Scream переслал от Ks @KS911KS, файлы «21 100 USD (13.10.2026) (1).xlsx» и «DONGGUAN KINSUN INV FOR Q8 56796 (1).pdf»; Scream: «Платит Q8»; заявка 21100) — **Заявка на платёж**: Amount **21 100 USD**; Beneficiary **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (506#,7BLD FEICUI GARDEN, JIANSHE ROAD, NANCHENG AREA, DONGGUAN, CHINA); Beneficiary Bank **CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION** (NO.2 FLOOR, JIANSHENG BUILDING, NO.5 TIYU ROAD, DONGGUAN CITY), SWIFT **PCBCCNBJGDD**, счёт **44050177880800003709**; Purpose «For freight for inv KJ202601 dd 18/09/2026». Инвойс **KJ202601 dd 18.09.2026** (DONGGUAN KINSUN → Customer **Q8 GROUP LIMITED**; Contract No. MK202601 dd 27.06.2026; sea cargo transportation from China 9*40HQ; Freight **USD 56 796,00** — оплата ЧАСТИЧНАЯ, 21 100). Компания **Q8** («платит Q8»). received_usdt = 21305.5 (Bobr IN под заявку 21100).",
     "calc": "ТЕЗ",
     "rowId": "kon-000048"
   }
