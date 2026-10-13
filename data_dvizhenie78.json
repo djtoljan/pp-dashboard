@@ -162,7 +162,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 13.10.2026 (📨 Движение 78 (t1540), файл «Application for transfer 9 750_00 .docx») — **Application for transfer (Заявка на перевод)**: Currency **USD**, Amount **9 750.00**, Beneficiary **NECO GLOBAL LIMITED** (Room 1503-09, 15/F, Causeway Bay Centre, 15-23 Sugar Street, Causeway Bay, Hong Kong); Beneficiary Bank **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD** (13F, Chouyin Mansion, No.158 Wangchao Rd, Shangcheng, Hangzhou, China), SWIFT **CZCBCN2XXXX**, счёт **NRA18809142010500035094**; Purpose of payment «PAYMENT INVOICE SALSE2609-262A Dt. 2026-10-12». Совпадений по 9 750 / SALSE2609-262A в 5 таблицах нет — новая строка. Компания-плательщик не названа → 🔴 (Step 0; получатель NECO — как в пор. 86, r7). | | 📄 13.10.2026 (📨 Движение 78 (t1540), файл «Счета.pdf») — счета от **NECO GLOBAL LIMITED** → **LLC «BALTIC LAND»** (морской фрахт): Invoice **SALSE2610-086A** (JOB SALSE2610-086, 2026-10-12; POL QINGDAO ETD 2026-10-12 → POD VRANGEL BAY ETA 2026-10-17; контейнер HNKU6182958, судно YOULIAN SHANGHAI/2623N; **OCEAN FREIGHT USD 4 100**); Invoice (контейнер BMOU2858829, судно ZHONG CHUAN HAI/2607N, VRANGEL BAY ETA 2026-10-10; **OCEAN FREIGHT USD 1 950**). Реквизиты NECO GLOBAL LIMITED: CNY NRA18809012010590002407 / USD NRA18809142010500035094, ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2XXXX.",
     "calc": null,
     "rowId": "d78-000028"
   }
