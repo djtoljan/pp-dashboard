@@ -1892,7 +1892,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 13.10.2026 (📨 Платежи VDX, файл «A-PI0013102026.pdf») — **Invoice A-PI0013102026 dd 13-Oct-26** (продавец **BOMPROFI LIMITED**, FLAT RM D3 3F REALITY TOWER CHAI WAN NO.4 SUN ON STREET, HK) → Payer / Ship To **Q8 GROUP LIMITED** (18/F, The Center, 99 Queen’s Road Central, Central, Hong Kong); Shipment terms **EXW – Shenzhen / EXW – Hong Kong**; Payment terms **100% TT in advance**; позиция **XL-5050RGBC-WS2812B** (произв. **XINGLIGHT**, DC 24+, HS 94054090), 98 344 шт, price ¥6,462; **TOTAL ¥635 500,00**; банк **JP Morgan Chase HONG KONG BRANCH** (The Quayside, 18/F Tower 1, 77 Hoi Bun Road, Kwun Tong, HK), SWIFT **CHASHKHHXXX**, счёт **63115227989**. Совпадений по 635 500 / A-PI0013102026 / BOMPROFI в 5 таблицах нет — новая строка. Компания **Q8**; клиент **VDX** (канал «Платежи VDX») → ⬜; Q8-расчёт ждёт курс (CNY).",
       "calc": null,
       "rowId": "main-000296"
     }
