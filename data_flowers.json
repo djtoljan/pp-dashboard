@@ -674,7 +674,7 @@
     "sum": 60189.26,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": null,
     "extra": null,
@@ -685,12 +685,33 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 13.10.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_60189_26_EUR_13-Oct-2026.pdf») — **COMMERCIAL INVOICE AA-Q8-2026-1013 dd 13 October 2026** (продавец **Atlantic Avrora EOOD**, Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas 8000, Bulgaria; Director Aleksandrs Rakovskis) → Buyer **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Currency **EUR**, Terms «As per agreement»; «Fresh cut flowers, assorted», 1 lot; **Total Amount EUR 60 189,26** (европейскими: Sixty Thousand One Hundred Eighty-Nine Euros And 26/100 Only); банк **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Совпадений по 60 189,26 / AA-Q8-2026-1013 в 5 таблицах нет — новая строка. Компания **Q8** → ⬜; Q8-расчёт ждёт курс (EUR).",
+    "notes": "📄 13.10.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_60189_26_EUR_13-Oct-2026.pdf») — **COMMERCIAL INVOICE AA-Q8-2026-1013 dd 13 October 2026** (продавец **Atlantic Avrora EOOD**, Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas 8000, Bulgaria; Director Aleksandrs Rakovskis) → Buyer **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Currency **EUR**, Terms «As per agreement»; «Fresh cut flowers, assorted», 1 lot; **Total Amount EUR 60 189,26** (европейскими: Sixty Thousand One Hundred Eighty-Nine Euros And 26/100 Only); банк **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Совпадений по 60 189,26 / AA-Q8-2026-1013 в 5 таблицах нет — новая строка. Компания **Q8** → ⬜; Q8-расчёт ждёт курс (EUR). | | 🟢 13.10.2026 (📨 ПП компании Q8/Z-source, файл «Processing 60189.26 EUR.pdf») — **BONBILL LIMITED Payment Certificate** (付款回单电子凭证): Payment Details **02109965330305646592705**, Transaction **O2109965330305646592705**; Payer **Q8 GROUP LIMITED** → Payee **BONBILL LIMITED**; получатель **Atlantic Avrora EOOD** (Bulgarian-American Credit Bank, IBAN BG04BGUS9160****300, SWIFT BGUSBGSF); Currency Amount **EUR 60 189,26**; Handling Fee 26.8 EUR; Transaction Remarks «InvoiceAAQ820261013DD13102026ForFlowers». ✅ Тип 7 (BONBILL Q8) → строка 🟢.",
     "calc": null,
     "rowId": "flw-000124"
   },
   {
     "row": 32,
+    "date": "2026-10-13",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": 6369999.53,
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📨 13.10.2026 (📨 Отправки рублей ПП.): рубли ушли на VDX — с Блэкшарк (ПОЧТА) **6 369 999,53 ₽**, «цветы» (заявка **843**) — ООО «Приоритет маркет». Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 13.10.26. sent_rubles_vdx = 6 369 999,53 (VDX, заявка 843). Заявки/строки нет — 🔵.",
+    "calc": null,
+    "rowId": "flw-000125"
+  },
+  {
+    "row": 33,
     "date": "2026-10-13",
     "sum": null,
     "currency": null,
@@ -708,6 +729,6 @@
     "sent_usdt": null,
     "notes": null,
     "calc": null,
-    "rowId": "flw-000125"
+    "rowId": "flw-000126"
   }
 ]
