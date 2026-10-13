@@ -1706,27 +1706,6 @@
       "notes": "🏦 12.10.2026 (📨 Платежи из Мира Привелегий (операционка), файл «ОсОО_Блэкшарк_Трейд_ПОЧТОБАНК_iBank_для_Бизнеса.pdf») — предварительная выписка АО АКИБ «ПОЧТОБАНК» г. Пермь (ОсОО «Блэкшарк Трейд», счёт 40807810100157518600 RUB): Кт ПП №84 — АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» (ИНН 9909705580, счёт 40807810324600000016), 1 768 099,67 ₽, {VO60081} «Оплата по Агентскому Договору»; Кт ПП №83 — тот же плательщик, 1 929 853,84 ₽, {VO60081}. rubles_received = 1929853.84 / 1768099.67. 🔵 — заявки нет, ждём поручение/инвойс.",
       "calc": null,
       "rowId": "main-000284"
-    },
-    {
-      "row": 80,
-      "date": "2026-10-13",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": null,
-      "clientName": null,
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null,
-      "rowId": "main-000285"
     }
   ]
 }

@@ -625,5 +625,26 @@
         "rowId": "flw-000121"
       }
     ]
+  },
+  {
+    "row": 29,
+    "date": "2026-10-13",
+    "sum": 25585,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ANNIROSES (Цветы)",
+    "costFormula": "25 585,00 + 0,3% + 30 = 25 691,75 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 25691.75,
+    "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 25 585,00 + 0,3% + 30 = 25 691,75 USDT.",
+    "calc": null,
+    "rowId": "flw-000122"
   }
 ]
