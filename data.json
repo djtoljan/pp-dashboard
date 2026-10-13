@@ -1396,7 +1396,7 @@
       "company": "Z SOURCE",
       "color": "FFFFFFFF",
       "clientName": "VDX",
-      "costFormula": "723,00 × 1,003 + 100 = 825 USDT",
+      "costFormula": "723 × 1,003 + 100 = 825 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
