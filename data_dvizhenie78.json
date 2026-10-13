@@ -81,5 +81,26 @@
     "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 14 675,00 + 0,3% + 30 = 14 749,02 USDT. |  | 🔀 13.10.2026 (Scream, ЛС): выделена из r1 как ОТДЕЛЬНАЯ сделка Балтик Лэнд — поручение №83, контракт 100726, получатель NINGBO FENDI INTERNATIONAL LOGISTICS (China Zheshang Bank, SWIFT ZJCBCN2N, счёт 3320020011420101247795), Debit Note/инвойс SHNBFD26090048, фрахт VRANGEL BAY—SHANGHAI—VRANGEL BAY (40'HQ CSKU4615020); вторая часть Application for transfer 14 675,00 USD. Рубли (тело/агентское ПП №2612/№2613) перенесены со строки Qianfanjing. Зелёнка — BONBILL Q8 (txid O2109680190434181120467, 14 675 USD, INVOICE SHNBFD26090048 DD 09.09.2026 For Freight).",
     "calc": null,
     "rowId": "d78-000024"
+  },
+  {
+    "row": 5,
+    "date": "2026-10-13",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "d78-000025"
   }
 ]
