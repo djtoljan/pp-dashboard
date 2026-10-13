@@ -1755,7 +1755,7 @@
       "sum": 62193.6,
       "currency": "EUR",
       "company": "Grandwell Trading Limited",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "Неско (ЭТБ)",
       "costFormula": "62 193,60 EUR → 69658/(1−0,35%) = 69 902,659 USDT",
       "extra": null,
