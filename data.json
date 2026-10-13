@@ -1748,27 +1748,6 @@
       "notes": "📨 12.10.2026 (📨 Отправки рублей ПП.): рубли ушли на VDX — с Блэкшарк ЭНЕРГОТРАНС 455228.38 ₽ за мебель (заявка 838) — ООО «ДРЕ Русланд Трейдинг». ⚠️ заявки нет — 🔵 отправка на VDX без заявки.",
       "calc": null,
       "rowId": "main-000287"
-    },
-    {
-      "row": 82,
-      "date": "2026-10-13",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": null,
-      "clientName": null,
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null,
-      "rowId": "main-000288"
     }
   ]
 }
