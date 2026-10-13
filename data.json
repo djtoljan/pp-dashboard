@@ -1610,7 +1610,7 @@
       "clientName": "ВТС",
       "costFormula": null,
       "extra": null,
-      "rubles_received": null,
+      "rubles_received": "3950425.91 / 67746.87",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
@@ -1683,27 +1683,6 @@
       "notes": " | 📄 12.10.2026 (📨 Платежи VDX — переслал Аlex @VDX_services, подпись «**Payment from SURYA❗️**», файл «INV 151 000,00 USD.pdf») — **ордер**: Amount **151 000,00 USD**; Beneficiary **GOOD TEAM 888 CO.,LTD.** (At 149/13 Moo.4 Si Sunthon Subdistrict, Thalang District, Phuket 83110; Tax ID 0835565016064); Beneficiary Bank **Bangkok Bank** (Cherngtalay Phuket; SWIFT BKKBTHBK, счёт 696-7-12473-3); Payment details «INV INV20260713-006 dd 13.7.26»; **OUR**. | 📄 INVOICE **INV20260713-006** dd 13/7/2026 (due 12/8/2026), NAME **Mr. Igor Aldabaev** (Plot L72, passport 76 3694709, admin@cloverth.net): «Outstanding Balance for 5th Payment - Completion of the structure upper floor and roof» 531,06 + «6th payment - Completion of the wall, floor and interior work» 150 468,94 = **$151 000,00**. Компания-плательщик **SURYA** → ⬜. |  | 💸 12.10.2026 (📨 Ордера и Расчеты !) — заказ на выплату USDT: `TJ2ZWcu3uS1zvQgWRjy8eN2qtZ38pTKFFV`; 151 000,00 USD + 0,5% = **151 755 USDT**. sent_usdt = 151 755. | 🛡️ 12.10.2026: движение OUT 151755 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:78).",
       "calc": null,
       "rowId": "main-000281"
-    },
-    {
-      "row": 79,
-      "date": "2026-10-13",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": null,
-      "clientName": null,
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null,
-      "rowId": "main-000283"
     }
   ]
 }
