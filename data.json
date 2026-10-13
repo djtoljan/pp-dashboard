@@ -1398,7 +1398,7 @@
       "sum": 723,
       "currency": "USD",
       "company": "Z SOURCE",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "clientName": "VDX",
       "costFormula": "723 + 0,3% + 30 = 755,17 USDT",
       "extra": null,
