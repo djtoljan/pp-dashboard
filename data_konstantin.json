@@ -333,7 +333,7 @@
     "company": "SURYA",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "39 200,00 + 0,6% + swift 100$ = 39 535 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -341,9 +341,9 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 39613.6,
-    "sent_usdt": null,
-    "notes": "📄 13.10.2026 (📨 Константин Просто Группа, подпись «Платит Surya»; файлы «13102026-PT-Surya-Bahari-Global.pdf» — INVOICE + «Maggeta 39200.xlsx» — форма реквизитов) — **Заявка (Тип 4)**: INVOICE **#13102026** dd 13/10/2026 (Maggeta FZ-LLC, License 2204290.01, M Floor, Business Center 1, The Meydan Hotel, Nad Al Sheba, Dubai, UAE → Bill To **PT Surya Bahari Global**, Jakarta): «Payment for Marketing Service Agreement dated 02.09.2026, for the period September 2026 to October 2026» — Total **$39 200,00**. Реквизиты (форма Maggeta 39200): Beneficiary **Maggeta L.L.C-FZ**, IBAN **AE780860000009581091313**, BIC **WIOBAEADXXX** (WIO, Etihad Airways Centre, Abu Dhabi). Компания-плательщик **SURYA** → ⬜. Совпадений по 39 200 / Maggeta в 5 таблицах нет — заведена новая строка. | 🧾 13.10.2026 (Scream, FINIVEST AI): удержание **39 613,6 USDT** (движения Константин (Просто группа): IN 396 613,6 − OUT 357 000) — под заявку **39200** (эта строка). received_usdt = 39613.6. | 📄 13.10.2026 (📨 Ордера и Расчеты !, подпись «Payment from Surya❗️», файл «INV 39 200,00 USD.pdf») — **Заявка/ордер на платёж**: Company **SURYA**; Beneficiary **Maggeta FZ-LLC / MAGGETA L.L.C-FZ** (Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E); Bank **WIO** (Etihad Airways Centre 5th Floor, Abu Dhabi, UAE), IBAN **AE780860000009581091313**, SWIFT/BIC **WIOBAEADXXX**; Payment details «invoice 13102026 dd 13.10.26»; Amount **39 200,00 USD**; OUR. Та же заявка, что r14 (Константин (Просто группа), 39 200 USD, SURYA → Maggeta).",
-    "calc": null,
+    "sent_usdt": 39535,
+    "notes": "📄 13.10.2026 (📨 Константин Просто Группа, подпись «Платит Surya»; файлы «13102026-PT-Surya-Bahari-Global.pdf» — INVOICE + «Maggeta 39200.xlsx» — форма реквизитов) — **Заявка (Тип 4)**: INVOICE **#13102026** dd 13/10/2026 (Maggeta FZ-LLC, License 2204290.01, M Floor, Business Center 1, The Meydan Hotel, Nad Al Sheba, Dubai, UAE → Bill To **PT Surya Bahari Global**, Jakarta): «Payment for Marketing Service Agreement dated 02.09.2026, for the period September 2026 to October 2026» — Total **$39 200,00**. Реквизиты (форма Maggeta 39200): Beneficiary **Maggeta L.L.C-FZ**, IBAN **AE780860000009581091313**, BIC **WIOBAEADXXX** (WIO, Etihad Airways Centre, Abu Dhabi). Компания-плательщик **SURYA** → ⬜. Совпадений по 39 200 / Maggeta в 5 таблицах нет — заведена новая строка. | 🧾 13.10.2026 (Scream, FINIVEST AI): удержание **39 613,6 USDT** (движения Константин (Просто группа): IN 396 613,6 − OUT 357 000) — под заявку **39200** (эта строка). received_usdt = 39613.6. | 📄 13.10.2026 (📨 Ордера и Расчеты !, подпись «Payment from Surya❗️», файл «INV 39 200,00 USD.pdf») — **Заявка/ордер на платёж**: Company **SURYA**; Beneficiary **Maggeta FZ-LLC / MAGGETA L.L.C-FZ** (Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E); Bank **WIO** (Etihad Airways Centre 5th Floor, Abu Dhabi, UAE), IBAN **AE780860000009581091313**, SWIFT/BIC **WIOBAEADXXX**; Payment details «invoice 13102026 dd 13.10.26»; Amount **39 200,00 USD**; OUR. Та же заявка, что r14 (Константин (Просто группа), 39 200 USD, SURYA → Maggeta). | 🧾 13.10.2026 (Scream, 📨 Ордера и Расчеты !): расчёт по заявке 39200 (SURYA → Maggeta): **39 200,00 USD + 0,6% + swift 100$ = 39 535 USDT**. Адрес для отправки USDT: `TTjayuotg5s4iABpWPXYCzdNYGqR6kTqKV`.",
+    "calc": "ТЕЗ",
     "rowId": "kon-000046"
   },
   {
