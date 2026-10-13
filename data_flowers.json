@@ -722,12 +722,12 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": 9224999.84,
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📨 13.10.2026 (📨 Отправки рублей ПП.): рубли ушли на VDX — с Блэкшарк (ПОЧТА) **9 224 999,84 ₽**, «цветы» (заявка **844**) — ООО «Приоритет маркет». Сумма соответствует первой паре приходов Цветы r30 (тело + агентское, см. r30). Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 13.10.26_1. sent_rubles_vdx = 9 224 999,84 (VDX, заявка 844).",
     "calc": null,
     "rowId": "flw-000126"
   }
