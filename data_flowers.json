@@ -646,5 +646,26 @@
     "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 25 585,00 + 0,3% + 30 = 25 691,75 USDT. | 🛡️ 13.10.2026: движение IN 25838.5 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:29). | | 📄 13.10.2026 (📨 ПП компании Q8/Z-source, файл «25585.00.pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2109898412920012800611**, Payment Time 2026-10-13 14:43:11; Payer **Q8 GROUP LIMITED** → Payee **ANNIROSES CORPORATION** (JPMORGAN CHASE BANK, N.A., счёт 271378793); Currency Amount **USD 25 585,00**; Transaction Remarks «Invoice ANN2026101301 DD 13102026 For Flowers». → исполнение заявки Q8 (r29) → 🟢.",
     "calc": null,
     "rowId": "flw-000122"
+  },
+  {
+    "row": 30,
+    "date": "2026-10-13",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000123"
   }
 ]
