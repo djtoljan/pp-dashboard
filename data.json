@@ -1845,12 +1845,12 @@
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": 2365409.89,
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📨 13.10.2026 (📨 Отправки рублей ПП.): рубли ушли на VDX — с Блэкшарк (ПОЧТА) **2 365 409,89 ₽**, «электронные компоненты» (заявка **839**) — ООО «Логолок». ⚠️ заявки нет — 🔵 отправка на VDX без заявки. Доки на вход: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Логолок\\вход 13.10.26.",
       "calc": null,
       "rowId": "main-000294"
     }
