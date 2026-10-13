@@ -641,9 +641,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 25838.5,
     "sent_usdt": 25691.75,
-    "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 25 585,00 + 0,3% + 30 = 25 691,75 USDT.",
+    "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 25 585,00 + 0,3% + 30 = 25 691,75 USDT. | 🛡️ 13.10.2026: движение IN 25838.5 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:29).",
     "calc": null,
     "rowId": "flw-000122"
   }
