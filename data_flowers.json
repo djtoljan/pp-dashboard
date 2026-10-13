@@ -674,7 +674,7 @@
     "sum": 60189.26,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FF92D050",
+    "color": "FFFFFF00",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": null,
     "extra": null,
@@ -685,7 +685,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 13.10.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_60189_26_EUR_13-Oct-2026.pdf») — **COMMERCIAL INVOICE AA-Q8-2026-1013 dd 13 October 2026** (продавец **Atlantic Avrora EOOD**, Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas 8000, Bulgaria; Director Aleksandrs Rakovskis) → Buyer **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Currency **EUR**, Terms «As per agreement»; «Fresh cut flowers, assorted», 1 lot; **Total Amount EUR 60 189,26** (европейскими: Sixty Thousand One Hundred Eighty-Nine Euros And 26/100 Only); банк **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Совпадений по 60 189,26 / AA-Q8-2026-1013 в 5 таблицах нет — новая строка. Компания **Q8** → ⬜; Q8-расчёт ждёт курс (EUR). | | 🟢 13.10.2026 (📨 ПП компании Q8/Z-source, файл «Processing 60189.26 EUR.pdf») — **BONBILL LIMITED Payment Certificate** (付款回单电子凭证): Payment Details **02109965330305646592705**, Transaction **O2109965330305646592705**; Payer **Q8 GROUP LIMITED** → Payee **BONBILL LIMITED**; получатель **Atlantic Avrora EOOD** (Bulgarian-American Credit Bank, IBAN BG04BGUS9160****300, SWIFT BGUSBGSF); Currency Amount **EUR 60 189,26**; Handling Fee 26.8 EUR; Transaction Remarks «InvoiceAAQ820261013DD13102026ForFlowers». ✅ Тип 7 (BONBILL Q8) → строка 🟢.",
+    "notes": "📄 13.10.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_60189_26_EUR_13-Oct-2026.pdf») — **COMMERCIAL INVOICE AA-Q8-2026-1013 dd 13 October 2026** (продавец **Atlantic Avrora EOOD**, Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas 8000, Bulgaria; Director Aleksandrs Rakovskis) → Buyer **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Currency **EUR**, Terms «As per agreement»; «Fresh cut flowers, assorted», 1 lot; **Total Amount EUR 60 189,26** (европейскими: Sixty Thousand One Hundred Eighty-Nine Euros And 26/100 Only); банк **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Совпадений по 60 189,26 / AA-Q8-2026-1013 в 5 таблицах нет — новая строка. Компания **Q8** → ⬜; Q8-расчёт ждёт курс (EUR). | | 🟢 13.10.2026 (📨 ПП компании Q8/Z-source, файл «Processing 60189.26 EUR.pdf») — **BONBILL LIMITED Payment Certificate** (付款回单电子凭证): Payment Details **02109965330305646592705**, Transaction **O2109965330305646592705**; Payer **Q8 GROUP LIMITED** → Payee **BONBILL LIMITED**; получатель **Atlantic Avrora EOOD** (Bulgarian-American Credit Bank, IBAN BG04BGUS9160****300, SWIFT BGUSBGSF); Currency Amount **EUR 60 189,26**; Handling Fee 26.8 EUR; Transaction Remarks «InvoiceAAQ820261013DD13102026ForFlowers». ✅ Тип 7 (BONBILL Q8) → строка 🟢. | ⚠️ 13.10.2026 (Scream): в BONBILL-квитанции поле **支付状态 / Payment Status = «Processing»** — платёж НЕ исполнен; ошибочно проставленная 🟢 СНЯТА, строка возвращена в 🟡 (ждём статус Success/Executed).",
     "calc": null,
     "rowId": "flw-000124"
   },
@@ -730,5 +730,26 @@
     "notes": "ПП на VDX №651 от 13.10.2026 (9 224 999,84 ₽ — номер из документа ПП) | 📨 13.10.2026 (📨 Отправки рублей ПП.): рубли ушли на VDX — с Блэкшарк (ПОЧТА) **9 224 999,84 ₽**, «цветы» (заявка **844**) — ООО «Приоритет маркет». Сумма соответствует первой паре приходов Цветы r30 (тело + агентское, см. r30). Доки: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 13.10.26_1. sent_rubles_vdx = 9 224 999,84 (VDX, заявка 844). | | 💸 13.10.2026 (📨 Отправки рублей ПП., подпись «исп», файл «пп 651.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 651 от 13.10.2026, ИСПОЛНЕНО** (АО АКИБ «ПОЧТОБАНК» г. Пермь, БИК 045773705; доставлено iBank 13.10.2026 17:59, ЭП Палий Константин Константинович): плательщик **ОсОО «Блэкшарк Трейд»** → получатель **ВиДиИкс Сервисез - ФЗКО** (ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **9 224 999,84 ₽** {VO60081} «Оплата по агент.дог. № 4 от 31.03.2025, согл. заяв.844 от 13.10.2026г. за цветы. НДС не облагается». ✅ Подтверждает sent_rubles_vdx = 9 224 999,84 (VDX, заявка 844). Маркер «ПП на VDX №651» проставлен.",
     "calc": null,
     "rowId": "flw-000126"
+  },
+  {
+    "row": 34,
+    "date": "2026-10-13",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000127"
   }
 ]
