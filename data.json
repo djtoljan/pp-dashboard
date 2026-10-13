@@ -1904,7 +1904,7 @@
       "company": "Z SOURCE",
       "color": "FFFFFFFF",
       "clientName": "VDX",
-      "costFormula": null,
+      "costFormula": "4 548,00 + 0,3% + 30 = 4 591,64 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -1912,9 +1912,9 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null,
+      "sent_usdt": 4591.64,
+      "notes": "📄 13.10.2026 (📨 Платежи VDX, подпись «Payment from Z-source❗️», файл «PI-GOON261462 (1)_261012_162400.pdf») — **PROFORMA INVOICE GOON261462 dd Oct 9, 2026** (продавец **GO-ON TECHNOLOGY LIMITED (HK) / SHENZHEN GO-ON ELECTRONICS CO., LTD.**, 5F Building 5, YuSheng Industrial Zone, Xixiang, Baoan district, Shenzhen, Guangdong) → BUYER **Z SOURCE LIMITED** (RM 509 5/F The Cloud, 111 Tung Chau Street, Tai Kok Tsui); позиции: RF-309 wireless headphones ×200 @$18.20 = $3,640.00; TX-60RF ×4 @$88 = $352.00; Chargers ×7 @$18 = $126.00; PARTS (ear pads RF-309) ×400 @$0.90 = $360.00; shipping freight $70.00; **TOTAL US$4,548.00**; условия EX Factory, T/T in advance, lead time 30 дней; банк **HSBC Hong Kong** (1 Queen’ Road Central, HK), SWIFT **HSBCHKHHHKH**, счёт **168-316024-201**. Совпадений по 4 548 / GOON261462 / GO-ON в 5 таблицах нет — новая строка. Компания **Z SOURCE** (Z-source); клиент **VDX** → ⬜; расчёт Z SOURCE = 4 548,00 + 0,3% + 30 = 4 591,64 USDT.",
+      "calc": "ТЕЗ",
       "rowId": "main-000297"
     }
   ]
