@@ -363,7 +363,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 21193.3,
-    "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 21 100,00 + 0,3% + 30 = 21 193,30 USDT.",
+    "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 21 100,00 + 0,3% + 30 = 21 193,30 USDT. | 📄 13.10.2026 (📨 Константин Просто Группа, файл «21 100 USD (13.10.2026) (1).xlsx») — **Заявка (форма «Необходимые данные для заявки» / Required data for the application)**: Сумма платежа **21 100 USD**; бенефициар **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (506#, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan, CHINA); банк **CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION** (NO.2 FLOOR, JIANSHENG BUILDING, NO.5 TIYU ROAD, DONGGUAN CITY; SWIFT **PCBCCNBJGDD**, счёт **44050177880800003709**); назначение «For freight for inv KJ202601 dd 18/09/2026». Компания **Q8**; клиент **Константин (Просто группа)** → ⬜. Доплата по тому же инвойсу KJ202601, что и r13 (35 696 USD): 35 696 + 21 100 = **56 796 USD** = сумма инвойса.",
     "calc": "ТЕЗ",
     "rowId": "kon-000047"
   }
