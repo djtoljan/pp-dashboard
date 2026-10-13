@@ -1925,7 +1925,7 @@
       "company": "Z SOURCE",
       "color": "FFFFFFFF",
       "clientName": "VDX",
-      "costFormula": null,
+      "costFormula": "56 321,88 + 0,3% + 30 = 56 520,85 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -1933,9 +1933,9 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null,
+      "sent_usdt": 56520.85,
+      "notes": "📄 13.10.2026 (📨 Платежи VDX, подпись «Payment from Z SOURCE❗️», файлы «Invoice Z Source.pdf», «INVOCE Z SOURCE 43513.38.pdf») — **Заявка/ордер на платёж**: Company **Z SOURCE**; Beneficiary **Qingdao Junfeng Industry Company Limited** (Rm 3-2211, Resources BOYA Plaza, 1 Xiangling Rd, Laoshan Dist, Qingdao; адрес 20/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong); Bank **Citibank N.A. Hong Kong Branch** (Champion Tower, Three Garden Road, Central, Hong Kong), SWIFT **CITIHKHX**, счёт **3974000001620**; Payment details «Proforma JF26-0600, JF26-06002 dd 18.08.2026»; Amount **56 321,88 USD**; OUR. Проформы (fiberglass mesh): **JF26-06001** (≈43 513,38 USD; в PI словами «SAY USD SIXTY-TWO THOUSAND ONE HUNDRED AND SIXTY-THREE AND CENTS THIRTY-EIGHT» — расхождение, уточнить) + **JF26-06002 dd 12.10.2026** (Total 12 808,50 USD); 43 513,38 + 12 808,50 = 56 321,88. Совпадений в 5 таблицах нет — новая строка. Компания **Z SOURCE**; клиент **VDX** → ⬜; расчёт Z SOURCE = 56 321,88 + 0,3% + 30 = 56 520,85 USDT.",
+      "calc": "ТЕЗ",
       "rowId": "main-000298"
     }
   ]
