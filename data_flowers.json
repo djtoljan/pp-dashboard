@@ -877,5 +877,26 @@
     "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 9 000,00 + 0,3% + 30 = 9 057,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «GEOFLORA_Proforma_Invoice_1102_9000_USD_15-10-2026.pdf») — PROFORMA INVOICE No. 1102 dd October 15th 2026: GEOFLORA SAS (Km 4 Via Corzo-Bojaca, Bojaca, Colombia; NIT 900.552.241-1; General Manager Nicolas Hurtado); Customer Q8 Group Limited (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Cut Flowers 39 130,43 стеблей × $0,23 = $9 000,00. Банк BBVA COLOMBIA (CRA 9 No. 72-21 Piso 5, Bogota), SWIFT GEROCOBB, счёт 00130382000100017184. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 9 000,00 + 0,3% + 30 = 9 057,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «GEOFLORA SAS 9000.docx») — платёжная форма (реквизиты): Amount 9000 usd; Beneficiary GEOFLORA SAS; адрес Km 4 Via Corzo – Bojaca, Colombia; Account/IBAN 00130382000100017184; Beneficiary Bank BBVA COLOMBIA (CRA 9 No. 72-21 Piso 5, Bogota, Colombia); SWIFT GEROCOBB. Реквизиты совпадают с проформой №1102 — уточняющий документ к r40, новой строки не создаю.",
     "calc": null,
     "rowId": "flw-000136"
+  },
+  {
+    "row": 41,
+    "date": "2026-10-14",
+    "sum": 60906.68,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000137"
   }
 ]
