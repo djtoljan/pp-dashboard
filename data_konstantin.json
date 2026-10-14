@@ -244,27 +244,6 @@
   {
     "row": 10,
     "date": "2026-10-12",
-    "sum": 180900.2,
-    "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 12.10.2026 (📨 Константин Просто Группа, файл «PI 7030128902.pdf») — **PROFORMA INVOICE № (OC) 7030128902** (продавец **BABYLISS INTERNATIONAL FZE**, Standard Chartered Bank, Dubai — SWIFT **SCBLAEADXXX**, счёт USD01-7003560-01, IBAN **AE550440000101700356001** → покупатель **FINEST LTD**, HAJI YAQOUB 2 SUHL RD, 00000 KABUL, AFGHANISTAN): приборы BaByliss (CRIMPER CERAMIC, DC/AC DRYER, TRIMMER, CURLING IRON и др., 8 страниц); Order Date 06.10.2026; Customer PO «OCT'26 - PCA»; Incoterms FCA Grzedy - Poland; Payment TT, «to pay immediately, 2%». **Subtotal 184 592,06 − Cash Discount 3 691,86 = Total due amount USD 180 900,20**. Компания-плательщик не названа → Step 0 → 🔴 (ждём заявку).",
-    "calc": null,
-    "rowId": "kon-000041"
-  },
-  {
-    "row": 11,
-    "date": "2026-10-12",
     "sum": 160317,
     "currency": "EUR",
     "company": "INTEGRA",
@@ -284,7 +263,7 @@
     "rowId": "kon-000042"
   },
   {
-    "row": 12,
+    "row": 11,
     "date": "2026-10-12",
     "sum": 49250.04,
     "currency": "EUR",
@@ -305,7 +284,7 @@
     "rowId": "kon-000043"
   },
   {
-    "row": 13,
+    "row": 12,
     "date": "2026-10-12",
     "sum": 35696,
     "currency": "USD",
@@ -326,7 +305,7 @@
     "rowId": "kon-000044"
   },
   {
-    "row": 14,
+    "row": 13,
     "date": "2026-10-13",
     "sum": 39200,
     "currency": "USD",
@@ -347,7 +326,7 @@
     "rowId": "kon-000046"
   },
   {
-    "row": 15,
+    "row": 14,
     "date": "2026-10-13",
     "sum": 21100,
     "currency": "USD",
@@ -361,14 +340,26 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 21305.5,
     "sent_usdt": 21224.29,
     "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 21 100,00 + 0,3% + 30 = 21 193,30 USDT. | 📄 13.10.2026 (📨 Константин Просто Группа, файл «21 100 USD (13.10.2026) (1).xlsx») — **Заявка (форма «Необходимые данные для заявки» / Required data for the application)**: Сумма платежа **21 100 USD**; бенефициар **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (506#, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan, CHINA); банк **CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION** (NO.2 FLOOR, JIANSHENG BUILDING, NO.5 TIYU ROAD, DONGGUAN CITY; SWIFT **PCBCCNBJGDD**, счёт **44050177880800003709**); назначение «For freight for inv KJ202601 dd 18/09/2026». Компания **Q8**; клиент **Константин (Просто группа)** → ⬜. Доплата по тому же инвойсу KJ202601, что и r13 (35 696 USD): 35 696 + 21 100 = **56 796 USD** = сумма инвойса. | Q8-батч 14.10.2026: себестоимость по Q8-0002 = 21 224,29 USDT (USDT-экв. + TT 50,18). Scream 14.10.2026. |  | 🗑 14.10.2026 (Scream): строка-дубль kon-000048 (row 16) удалена — та же заявка Q8-0002 (21 100 USD, DONGGUAN KINSUN INTL LOGISTICS CO. LTD, инвойс 56796; Scream: «Платит Q8»); инфо сведено в эту строку. | Формат формулы подтверждён Scream 14.10.2026.",
     "calc": "ТЕЗ",
-    "rowId": "kon-000047"
+    "rowId": "kon-000047",
+    "payment_facts": [
+      {
+        "entryId": "IN_21305.5_13.10.2026_1791898157440",
+        "ref": "d59361e0c715df1764c0592a5f22579aef1e40f33ca1e001d2030d3cc34ff7c8",
+        "txid": "d59361e0c715df1764c0592a5f22579aef1e40f33ca1e001d2030d3cc34ff7c8",
+        "bobrAlertId": null,
+        "date": "13.10.2026",
+        "direction": "IN",
+        "amount": 21305.5,
+        "rowId": "kon-000047"
+      }
+    ]
   },
   {
-    "row": 16,
+    "row": 15,
     "date": "2026-10-14",
     "sum": 100000,
     "currency": "USD",
@@ -389,7 +380,7 @@
     "rowId": "kon-000049"
   },
   {
-    "row": 17,
+    "row": 16,
     "date": "2026-10-14",
     "sum": 36130.5,
     "currency": "EUR",
