@@ -648,7 +648,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 14.10.2026 (📨 Молодежь, файл «payment order.docx») — **PAYMENT ORDER dd 14/10/2026** (в документе опечатка даты «14/10/2025»): Amount **36 000,00 USD**; Beneficiary **SILXERA TECHNOLOGY CO., LIMITED** (Unit D12 16/F Jing Ho Ind Bldg, Nos 78-84 Wang Lung, Tsuen Wan, Hong Kong); Bank **JPMorgan Chase Bank N.A., Hong Kong Branch** (Floor 8, World Trade Center, 280 Gloucester Road), SWIFT **CHASHKHHXXX** (при 8 знаках — без «XXX»), счёт **63000319281**, Bank Code 007, Branch Code 630; Payment purpose: «Payment for connectors, invoice IS20260730114 dd 08.10.2026». Совпадений по 36 000 / IS20260730114 / SILXERA в 5 таблицах нет — новая строка, 🔴. | 📄 14.10.2026 (📨 Молодежь, файл «PI-IS20260730114.pdf») — **PROFORMA INVOICE № IS20260730114 dd October 08, 2026** (PO № EK00-001979): Seller **SILXERA TECHNOLOGY CO., LIMITED** (Hong Kong, contact Karson, karson.z@xtelectronics.com); Buyer **Z SOURCE LIMITED**; Ship To to be advised; Payment Terms NET 1, Shipment EXW ShenZhen; позиция Connectors, QTY 25 000, MFR CHINA, DATE CODE 25+, UNIT PRICE $1.44 → **LINE TOTAL $36 000.00**; TOTAL **$36 000.00**; реквизиты SILXERA: JPMorgan Chase Bank N.A., Hong Kong Branch, счёт 63000319281, SWIFT CHASHKHHXXX (Bank Code 007, Branch 630). ✅ Инвойс-основание к PAYMENT ORDER (эта строка): сумма совпала (36 000,00 USD). Buyer **Z SOURCE LIMITED** — контрагент; company в строке не проставляю (плательщик в ордере не назван).",
     "calc": null,
     "rowId": "mol-000130"
   }
