@@ -1991,6 +1991,27 @@
       "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 100 209,70 + 0,3% + 30 = 100 540,33 USDT. | 📄 13.10.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️», файл «WELL 118-120 Inf for balance payment.pdf») — **Заявка/ордер на платёж**: Company **Q8**; Beneficiary **SHANGHAI WELL INDUSTRIES CO., LTD.** (Suite 1201, Bldg. 2, Baoshan Wanda Plaza, Shanghai 200435, China); Bank **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD.** (13F, Chouyin Mansion, No. 158 Wangchao Rd, Shangcheng District, Hangzhou 310016, China), SWIFT **CZCBCN2X**, счёт **NRA18801142010500003149** (буквы «NRA» указывать обязательно); intermediary **CHASUS33**; Payment details: **Inv 26OP0522NG1, 26OP0522NG2, 26OP0522NG3, 26OP0824NN8**; Amount **100 209,70 USD**; **OUR**. Инвойс Well 118-120 (balance payment): Total ¥1 261 405,00, депозит 30% ¥590 000,00, остаток ¥671 405,00 = 100 209,70 USD. Совпадений в 5 таблицах нет — новая строка. Компания **Q8**; клиент **VDX** → ⬜; расчёт Q8 = 100 209,70 + 0,3% + 30 = **100 540,33 USDT**. | 🛡️ 13.10.2026: движение IN 100610 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:92). | 🟢 13.10.2026 (Bobr IN **100 610,0 USDT** на кошелёк «Рабочий 4» TKrAyPuM… от TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G, txid 8151451de4fe49406d10b3355cdd7c2cc0ce1cf7ed830e3ec8c3eb5de88421f5): **под заявку 100209.70** (Scream) → Q9 отправлен (клиент **VDX**), леджер IN_100610_13.10.2026. received_usdt = 100610.",
       "calc": "ТЕЗ",
       "rowId": "main-000303"
+    },
+    {
+      "row": 93,
+      "date": "2026-10-14",
+      "sum": 67757.6,
+      "currency": "EUR",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000304"
     }
   ]
 }
