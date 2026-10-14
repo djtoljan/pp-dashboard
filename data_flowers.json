@@ -793,5 +793,26 @@
     "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 000,00 + 0,3% + 30 = 30 120,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «Invoice_DC_Q8_261016_30000_USD.pdf») — INVOICE No. 0000 261016 dd 14.10.2026: D&C EXPORT E IMPORT CIA. LTDA. (R.U.C. 1791357973001, Dir. Marcabeli 225 y Cuyuja, Quito, Ecuador); Cliente Q8 Group Limited (RUC 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); позиция 5012 REEMBOLSO DE GUIA INTERNACIONAL = USD 30 000,00. Компания Q8 (по инвойсу), цвет ⬜. | 📄 14.10.2026 (📨 Цветы, файл «DAVILA Y CURILLO CIA LTDA 30000.docx») — SWIFT-инструкция на платёж (MT-поля): Amount USD 30 000,00; Beneficiary DAVILA Y CURILLO CIA LTDA (Marcabeli 225 y Cuyuja); ACCOUNT 02041000516; SWIFT PRODECEQ; банк PRODUBANCO (Ave Simón Bolívar S/N y Vía Nayón, Centro Corporativo Ekopark, Torre 1). 🚨 Тот же адрес (Marcabeli 225 y Cuyuja) и банк PRODUBANCO/PRODECEQ, что у инвойса D&C EXPORT E IMPORT (r36) — вероятно, юр. название того же получателя (D&C = Davila y Curillo); привязал к r36. Если это отдельная сделка — уточнить у Scream.",
     "calc": null,
     "rowId": "flw-000132"
+  },
+  {
+    "row": 37,
+    "date": "2026-10-14",
+    "sum": 22000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": "22 000,00 + 0,3% + 30 = 22 096,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 22096,
+    "notes": "📄 14.10.2026 (📨 Цветы, файл «Dolina Agro Ltd 22000.docx») — Application for transfer (MT-поля): Amount USD 22 000; Beneficiary Dolina Agro Ltd (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 Israel); ACCOUNT IL750107440000027660042; SWIFT LUMIILITXXX; банк BANK LEUMI LE ISRAEL (Business Nathanya branch 744). Компания в документе не указана → 🔴 (ждём заявку/инвойс). Отдельная сделка от r14 (Dolina Agro 35 000 EUR, 07.10.2026). | ✏️ 14.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 22 000,00 + 0,3% + 30 = 22 096,00 USDT.",
+    "calc": null,
+    "rowId": "flw-000133"
   }
 ]
