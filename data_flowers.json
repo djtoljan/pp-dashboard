@@ -811,7 +811,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 22096,
-    "notes": "📄 14.10.2026 (📨 Цветы, файл «Dolina Agro Ltd 22000.docx») — Application for transfer (MT-поля): Amount USD 22 000; Beneficiary Dolina Agro Ltd (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 Israel); ACCOUNT IL750107440000027660042; SWIFT LUMIILITXXX; банк BANK LEUMI LE ISRAEL (Business Nathanya branch 744). Компания в документе не указана → 🔴 (ждём заявку/инвойс). Отдельная сделка от r14 (Dolina Agro 35 000 EUR, 07.10.2026). | ✏️ 14.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 22 000,00 + 0,3% + 30 = 22 096,00 USDT.",
+    "notes": "📄 14.10.2026 (📨 Цветы, файл «Dolina Agro Ltd 22000.docx») — Application for transfer (MT-поля): Amount USD 22 000; Beneficiary Dolina Agro Ltd (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 Israel); ACCOUNT IL750107440000027660042; SWIFT LUMIILITXXX; банк BANK LEUMI LE ISRAEL (Business Nathanya branch 744). Компания в документе не указана → 🔴 (ждём заявку/инвойс). Отдельная сделка от r14 (Dolina Agro 35 000 EUR, 07.10.2026). | ✏️ 14.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 22 000,00 + 0,3% + 30 = 22 096,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «DOLINA_AGRO_Q8_22000_USD_14-10-2026.pdf») — инвойс Dolina Agro Ltd (розы, всего 55 500 стеблей): TOTAL FLOWERS FOB USD 22 000,00; COMISION 0.00; PACKING 0.00; INLAND 0.00; TOTAL AWB = TOTAL USD 22 000,00. Компания Q8 (по партии Q8 Group Limited), Step 3 → ⬜; Q8-расчёт 22 000,00 + 0,3% + 30 = 22 096,00 USDT. Уточняющий к строке, созданной из Application for transfer (r37).",
     "calc": null,
     "rowId": "flw-000133"
   }
