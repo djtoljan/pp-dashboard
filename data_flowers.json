@@ -832,8 +832,29 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 7051,
-    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «SURANDINA_Invoice_99583_2026-10-15_USD7000.pdf») — INVOICE No. 99583 dd OCTOBER 15/2026: C.I. SURANDINA DE FLORES SAS (NIT 900.137.094-6, Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia, SURAMERICA); Foreign Purchaser Q8 Group Limited (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); 237 boxes / 7 615 стеблей (гидрангеи HYDRANGEA, 30/35 см); Total Value USD 7 000,00. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 7 000,00 + 0,3% + 30 = 7 051,00 USDT.",
+    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «SURANDINA_Invoice_99583_2026-10-15_USD7000.pdf») — INVOICE No. 99583 dd OCTOBER 15/2026: C.I. SURANDINA DE FLORES SAS (NIT 900.137.094-6, Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia, SURAMERICA); Foreign Purchaser Q8 Group Limited (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); 237 boxes / 7 615 стеблей (гидрангеи HYDRANGEA, 30/35 см); Total Value USD 7 000,00. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «CI SURANDINA DE FLORES 7000.doc») — платёжная форма (реквизиты): Beneficiary CI SURANDINA DE FLORES; адрес CARRERA 26A NUMERO 5B-90, LA CEJA, Postcode 055010, COLOMBIA; Account 34936346610 CORRIENTE; SWIFT COLOCOBM; банк BANCOLOMBIA (Cra. 21 #19-25, La Ceja, Colombia); RUC 900137094. Реквизиты совпадают с инвойсом №99583 — уточняющий документ к r38, новой строки не создаю.",
     "calc": null,
     "rowId": "flw-000134"
+  },
+  {
+    "row": 39,
+    "date": "2026-10-14",
+    "sum": 4000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "EXPOFLORES JH SAS (Цветы)",
+    "costFormula": "4 000,00 + 0,3% + 30 = 4 042,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 4042,
+    "notes": "📄 14.10.2026 (📨 Цветы, файл «EXPOFLORES JH SAS 4000.doc») — платёжная форма (реквизиты): Beneficiary EXPOFLORES JH SAS; адрес VEREDA LA AMAPOLA EL RETIRO ANTIOQUIA, COLOMBIA; Account 02300005295; SWIFT COLOCOBM; банк BANCOLOMBIA SAS (CARRERA 48#26-85 MEDELLIN, Colombia); RUC не указан. Сумма 4000$. Компания не указана → 🔴 (ждём заявку/инвойс). | ✏️ 14.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 4 000,00 + 0,3% + 30 = 4 042,00 USDT.",
+    "calc": null,
+    "rowId": "flw-000135"
   }
 ]
