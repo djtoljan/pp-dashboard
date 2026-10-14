@@ -2012,6 +2012,27 @@
       "notes": "Payment from Q8. Бенефициар: GENBIOTEK BIOSISTEM LABORATUAR MALZ. DANS. OTO. SAN. VE TIC. LTD. STI., Pinartepe Mah. Turgut Ozal Cad. Sutculer Sk. Goksu Villalari 5B A/2, Buyukcekmece-Istanbul, 34500. Банк: EMLAK KATILIM BANKASI (EMLAK BANK), Barbaros Mah. Begonya Sk. No:9A, Atasehir/Istanbul. SWIFT EMLATRISXXX, счёт TR67 0021 1000 0007 2855 9001 02. Payment details: inv. ZX-GB-9568312 DD 14/10/2026, OUR. Заказ: Kit Customer V-300, 1000 шт, 100% предоплата, delivery 30.12.2026, consignee PT JARI JARI GROUP.",
       "calc": null,
       "rowId": "main-000304"
+    },
+    {
+      "row": 94,
+      "date": "2026-10-14",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "6434611.32",
+      "statementRef": "Блэкшарк_Трейд ПОЧТОБАНК 13-14.10.2026",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: Блэкшарк_Трейд ПОЧТОБАНК 13-14.10.2026",
+      "calc": null,
+      "rowId": "main-000305"
     }
   ]
 }
