@@ -814,5 +814,26 @@
     "notes": "📄 14.10.2026 (📨 Цветы, файл «Dolina Agro Ltd 22000.docx») — Application for transfer (MT-поля): Amount USD 22 000; Beneficiary Dolina Agro Ltd (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 Israel); ACCOUNT IL750107440000027660042; SWIFT LUMIILITXXX; банк BANK LEUMI LE ISRAEL (Business Nathanya branch 744). Компания в документе не указана → 🔴 (ждём заявку/инвойс). Отдельная сделка от r14 (Dolina Agro 35 000 EUR, 07.10.2026). | ✏️ 14.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 22 000,00 + 0,3% + 30 = 22 096,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «DOLINA_AGRO_Q8_22000_USD_14-10-2026.pdf») — инвойс Dolina Agro Ltd (розы, всего 55 500 стеблей): TOTAL FLOWERS FOB USD 22 000,00; COMISION 0.00; PACKING 0.00; INLAND 0.00; TOTAL AWB = TOTAL USD 22 000,00. Компания Q8 (по партии Q8 Group Limited), Step 3 → ⬜; Q8-расчёт 22 000,00 + 0,3% + 30 = 22 096,00 USDT. Уточняющий к строке, созданной из Application for transfer (r37).",
     "calc": null,
     "rowId": "flw-000133"
+  },
+  {
+    "row": 38,
+    "date": "2026-10-14",
+    "sum": 7000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "C.I. Surandina de Flores (Цветы)",
+    "costFormula": "7 000,00 + 0,3% + 30 = 7 051,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 7051,
+    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «SURANDINA_Invoice_99583_2026-10-15_USD7000.pdf») — INVOICE No. 99583 dd OCTOBER 15/2026: C.I. SURANDINA DE FLORES SAS (NIT 900.137.094-6, Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia, SURAMERICA); Foreign Purchaser Q8 Group Limited (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); 237 boxes / 7 615 стеблей (гидрангеи HYDRANGEA, 30/35 см); Total Value USD 7 000,00. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 7 000,00 + 0,3% + 30 = 7 051,00 USDT.",
+    "calc": null,
+    "rowId": "flw-000134"
   }
 ]
