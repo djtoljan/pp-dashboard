@@ -609,5 +609,26 @@
     "notes": "📄 13.10.2026 (📨 Молодежь, файл «PAYMENT_ORDER 13102026.docx») — **PAYMENT ORDER dd 13/10/2026**: Amount **23 410,85 USD**; Beneficiary **FUJIA AUTOMAT LIMITED** (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong); Bank **Citibank, N.A., Hong Kong Branch** (49th Floor, Champion Tower, 3 Garden Road, Central, HKG), SWIFT **CITIHKHXXXX**, счёт **390205798** (Bank Code 006, Branch Code 391); Purpose «invoice No ST261013-01». Совпадений по 23 410,85 / ST261013-01 / FUJIA в 5 таблицах нет — новая строка (компания/клиент уточнить), 🔴. | | 📄 13.10.2026 (📨 Молодежь, файл «invoice ST261013-01.pdf») — **Proforma Invoice № ST261013-01 dd 13/10/2026**: Issued to **PT KIRANA GLOBAL HUB** (Jalan Subak Sari 13, Desa/Kelurahan Tibubeneng, Kec. Kuta Utara, Kab. Badung, Provinsi Bali, Indonesia); позиция «Airport services and refueling 13.10.2026», Qty 1, Price **USD 23 410,85**; Grand Total **USD 23 410,85**. ✅ Инвойс к PAYMENT ORDER r29 (получатель FUJIA AUTOMAT LIMITED, purpose «invoice No ST261013-01»).",
     "calc": null,
     "rowId": "mol-000128"
+  },
+  {
+    "row": 30,
+    "date": "2026-10-14",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ООО «СТРЕЛОЙ Е-КОММЕРЦ»",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000129"
   }
 ]
