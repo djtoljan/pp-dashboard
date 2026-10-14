@@ -2086,14 +2086,14 @@
       "clientName": "Блэкшарк Трейд",
       "costFormula": null,
       "extra": null,
-      "rubles_received": null,
+      "rubles_received": "16428260",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "🏦 Выписка Почтобанк (АО АКИБ «ПОЧТОБАНК», г. Пермь; ОсОО «Блэкшарк Трейд», счёт 40807810100157518600, RUB) за 14.10.2026: Кт №226 {VO60076} «ПЕРЕВОД СОБСТВЕННЫХ СРЕДСТВ» — BLACKSHARK TRADE LLC (Октябрьский р-н, Бишкек, КГ; р/с KZ889990172RUB000778 в AL SAFI BANK LTD) → Почта; rubles_received = 16 428 260,00. Ожидается перестановка на ВТБ Блэкшарк. Заявки нет — 🔵. Кт №85 от АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» → строка 94. Дт за день: комиссии банка (НДС с комиссии + тарифы РКО), только notes.",
       "calc": null,
       "rowId": "main-000309"
     }
