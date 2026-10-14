@@ -354,7 +354,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "21 100,00 / 0,9965 + 50,18 (TT) = 21 224,29 USDT",
+    "costFormula": "21 100,00 / (1 − 0,35%) + 50,18 = 21 224,29 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -363,7 +363,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 21224.29,
-    "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 21 100,00 + 0,3% + 30 = 21 193,30 USDT. | 📄 13.10.2026 (📨 Константин Просто Группа, файл «21 100 USD (13.10.2026) (1).xlsx») — **Заявка (форма «Необходимые данные для заявки» / Required data for the application)**: Сумма платежа **21 100 USD**; бенефициар **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (506#, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan, CHINA); банк **CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION** (NO.2 FLOOR, JIANSHENG BUILDING, NO.5 TIYU ROAD, DONGGUAN CITY; SWIFT **PCBCCNBJGDD**, счёт **44050177880800003709**); назначение «For freight for inv KJ202601 dd 18/09/2026». Компания **Q8**; клиент **Константин (Просто группа)** → ⬜. Доплата по тому же инвойсу KJ202601, что и r13 (35 696 USD): 35 696 + 21 100 = **56 796 USD** = сумма инвойса. | Q8-батч 14.10.2026: себестоимость по Q8-0002 = 21 224,29 USDT (USDT-экв. + TT 50,18). Scream 14.10.2026. |  | 🗑 14.10.2026 (Scream): строка-дубль kon-000048 (row 16) удалена — та же заявка Q8-0002 (21 100 USD, DONGGUAN KINSUN INTL LOGISTICS CO. LTD, инвойс 56796; Scream: «Платит Q8»); инфо сведено в эту строку.",
+    "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 21 100,00 + 0,3% + 30 = 21 193,30 USDT. | 📄 13.10.2026 (📨 Константин Просто Группа, файл «21 100 USD (13.10.2026) (1).xlsx») — **Заявка (форма «Необходимые данные для заявки» / Required data for the application)**: Сумма платежа **21 100 USD**; бенефициар **DONGGUAN KINSUN INTL LOGISTICS CO., LTD** (506#, 7BLD Feicui Garden, Jianshe Road, Nancheng Area, Dongguan, CHINA); банк **CHINA CONSTRUCTION BANK DONGGUAN BRANCH INTERNATIONAL SECTION** (NO.2 FLOOR, JIANSHENG BUILDING, NO.5 TIYU ROAD, DONGGUAN CITY; SWIFT **PCBCCNBJGDD**, счёт **44050177880800003709**); назначение «For freight for inv KJ202601 dd 18/09/2026». Компания **Q8**; клиент **Константин (Просто группа)** → ⬜. Доплата по тому же инвойсу KJ202601, что и r13 (35 696 USD): 35 696 + 21 100 = **56 796 USD** = сумма инвойса. | Q8-батч 14.10.2026: себестоимость по Q8-0002 = 21 224,29 USDT (USDT-экв. + TT 50,18). Scream 14.10.2026. |  | 🗑 14.10.2026 (Scream): строка-дубль kon-000048 (row 16) удалена — та же заявка Q8-0002 (21 100 USD, DONGGUAN KINSUN INTL LOGISTICS CO. LTD, инвойс 56796; Scream: «Платит Q8»); инфо сведено в эту строку. | Формат формулы подтверждён Scream 14.10.2026.",
     "calc": "ТЕЗ",
     "rowId": "kon-000047"
   },
