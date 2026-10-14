@@ -404,7 +404,11 @@
         "amount": 21305.5,
         "rowId": "kon-000047"
       }
-    ]
+    ],
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; Scream; батч Q8 14.10.2026; msg из notes строки"
+    }
   },
   {
     "row": 15,

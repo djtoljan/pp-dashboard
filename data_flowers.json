@@ -258,7 +258,11 @@
     "sent_usdt": 119767.09,
     "notes": "📄 07.10.2026 (📨 Цветы, файл «Gulf Flowers FZCO 119 408,86.docx» — форма реквизитов) — **реквизиты / заявка на платёж**: Amount **119 408,86**; Currency **USD**; Beneficiary **Gulf Flowers FZCO** (Unit 4WB 336, Building 4WB (West Side), Dubai Airport Free Zone, Dubai, UAE); Account/IBAN **AE200340003528243426702**; Beneficiary Bank **EMIRATES ISLAMIC BANK** (Al Yousuf Tower, 6564, Dubai, UAE); SWIFT **MEBLAEAD**; Registration number **1713**; VAT **1000472048600003**; Director (signer) **Tsepov Alexander**; Intermediary Bank **The Bank of New York Mellon**, SWIFT **IRVTUS3NXXX**, a/c **8901515981**; Details of Payment «**Payment for cut flowers under contract GF-EXG/2025/10/20 dd 20.10.2025**». Компания-плательщик в документе НЕ названа → 🔴 Step 0. check-all-tables по 119 408,86 / Gulf Flowers — совпадений в 5 таблицах нет (новая сделка). Клиент — **Gulf Flowers FZCO (Цветы)** (по clients-db, группа Цветы). | 📄 07.10.2026 (📨 Цветы, файл «Gulf Flowers FZCO 119 408,86.pdf» — скан, читал вижном) — **INVOICE № 1509-QBG dd 15.09.2026** (Gulf Flowers FZCO, Dubai Airport Free Zone, UAE; License 3471; EMIRATES ISLAMIC BANK, SWIFT MEBLAEAD, IBAN AE200340003528243426702) → **Buyer Q8 GROUP LIMITED** (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; Reg. 80242882). Contract **QF-QBG/2026/05/21 dd 21/05/2026**; FCA Amsterdam/Aalsmeer, INCOterms 2010, OPEN ACCOUNT. **213 284 colli** cut flowers and greens (розы/гвоздики/альстромерии/статица/гортензии и др.), gross 9407,80 кг; **TOTAL 119 408,86 USD**. Подпись Director Tsepov Alexander, печать Gulf Flowers FZCO. → company = **Q8** (Buyer) → 🔴→⬜ (Step 3). | ✏️ 07.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 119 408,86 + 0,3% + 30 = 119 797,09 USDT. | ✏️ 09.10.2026 (Scream): себестоимость +0,3% (без +30). | ✅ 09 октября 2026 (📨 Цветы, форвард от Altayeva Aizhan, файл «pacs.008 USD 119 408.86 DELUFR2.pdf») — **pacs.008 (CustomerCreditTransfer)**: AL SAFI BANK LTD. (Astana, KZ; BIC AILSKZ2KXXX) → **GULF FLOWERS FZCO** (Dubai, AE; Emirates NBD, BIC MEBLAEADXXX, IBAN AE200340003528243426702), **119 408,86 USD**; назначение «PREPAYMENT FOR FLOWERS UNDER CNTR. GF-Q8G/2026/05/21 DD 21.05.2026, INV. 1509-Q8G DD 150926». Платёж **исполнен** (подтверждение Scream) → 🟢.",
     "calc": null,
-    "rowId": "flw-000102"
+    "rowId": "flw-000102",
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; Scream; батч Q8 14.10.2026; msg из notes строки"
+    }
   },
   {
     "row": 14,
@@ -687,7 +691,11 @@
     "sent_usdt": 68152.99,
     "notes": "📄 13.10.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_60189_26_EUR_13-Oct-2026.pdf») — **COMMERCIAL INVOICE AA-Q8-2026-1013 dd 13 October 2026** (продавец **Atlantic Avrora EOOD**, Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas 8000, Bulgaria; Director Aleksandrs Rakovskis) → Buyer **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Currency **EUR**, Terms «As per agreement»; «Fresh cut flowers, assorted», 1 lot; **Total Amount EUR 60 189,26** (европейскими: Sixty Thousand One Hundred Eighty-Nine Euros And 26/100 Only); банк **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Совпадений по 60 189,26 / AA-Q8-2026-1013 в 5 таблицах нет — новая строка. Компания **Q8** → ⬜; Q8-расчёт ждёт курс (EUR). | | 🟢 13.10.2026 (📨 ПП компании Q8/Z-source, файл «Processing 60189.26 EUR.pdf») — **BONBILL LIMITED Payment Certificate** (付款回单电子凭证): Payment Details **02109965330305646592705**, Transaction **O2109965330305646592705**; Payer **Q8 GROUP LIMITED** → Payee **BONBILL LIMITED**; получатель **Atlantic Avrora EOOD** (Bulgarian-American Credit Bank, IBAN BG04BGUS9160****300, SWIFT BGUSBGSF); Currency Amount **EUR 60 189,26**; Handling Fee 26.8 EUR; Transaction Remarks «InvoiceAAQ820261013DD13102026ForFlowers». ✅ Тип 7 (BONBILL Q8) → строка 🟢. | ⚠️ 13.10.2026 (Scream): в BONBILL-квитанции поле **支付状态 / Payment Status = «Processing»** — платёж НЕ исполнен; ошибочно проставленная 🟢 СНЯТА, строка возвращена в 🟡 (ждём статус Success/Executed). | Q8-батч 14.10.2026: себестоимость по Q8-0003 = 68 152,99 USDT (USDT-экв. + TT 50,18). Scream 14.10.2026. | Формат формулы подтверждён Scream 14.10.2026. | Формат: кросс-курс − процент (EUR 0,55%). Scream 14.10.2026.",
     "calc": null,
-    "rowId": "flw-000124"
+    "rowId": "flw-000124",
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; Scream; батч Q8 14.10.2026; msg из notes строки"
+    }
   },
   {
     "row": 32,
