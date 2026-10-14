@@ -769,8 +769,29 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 30120,
-    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 000,00 + 0,3% + 30 = 30 120,00 USDT.",
+    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 000,00 + 0,3% + 30 = 30 120,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «EBF_Invoice_30000_USD_14-10-2026.pdf») — COMMERCIAL INVOICE № INV-14102026-01 dd 14.10.2026: Customer Q8 Group Limited (HK, Company Number 80242882); AIR LOGISTICS SERVICES 1 × 30 000,00 = TOTAL USD 30 000,00; beneficiary EBF CARGO CIA LTDA (Av. Simón Bolívar s/n y vía Nayón, Centro Corporativo Ekopark Torre 1, Quito, Ecuador), PRODUBANCO (AV. AMAZONAS 4545 y PEREIRA), SWIFT PRODECEQ, счёт 02005153421; payment details «Air logistics services». Компания Q8 (по инвойсу), цвет ⬜. Отдельная от исполненной r7 (INV-05102026-01, оплачена MT103 07.10.2026). | 📄 14.10.2026 (📨 Цветы, файл «EBF CARGO CIA LTDA 30000.docx») — SWIFT-инструкция на платёж (MT-поля): Amount USD 30 000,00; Beneficiary EBF CARGO CIA LTDA (Av. Simón Bolívar sn y vía Nayón, Centro Corporativo Ekopark torre 1, Quito, Ecuador); ACCOUNT 02005153421; SWIFT PRODECEQ; банк PRODUBANCO (AV. AMAZONAS 4545 y PEREIRA); Payment details «transportation services». Реквизиты совпадают с инвойсом INV-14102026-01 — уточняющий документ к этой же строке, новой не создаю.",
     "calc": null,
     "rowId": "flw-000131"
+  },
+  {
+    "row": 36,
+    "date": "2026-10-14",
+    "sum": 30000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "D&C EXPORT E IMPORT (Цветы)",
+    "costFormula": "30 000,00 + 0,3% + 30 = 30 120,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 30120,
+    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 000,00 + 0,3% + 30 = 30 120,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «Invoice_DC_Q8_261016_30000_USD.pdf») — INVOICE No. 0000 261016 dd 14.10.2026: D&C EXPORT E IMPORT CIA. LTDA. (R.U.C. 1791357973001, Dir. Marcabeli 225 y Cuyuja, Quito, Ecuador); Cliente Q8 Group Limited (RUC 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); позиция 5012 REEMBOLSO DE GUIA INTERNACIONAL = USD 30 000,00. Компания Q8 (по инвойсу), цвет ⬜. | 📄 14.10.2026 (📨 Цветы, файл «DAVILA Y CURILLO CIA LTDA 30000.docx») — SWIFT-инструкция на платёж (MT-поля): Amount USD 30 000,00; Beneficiary DAVILA Y CURILLO CIA LTDA (Marcabeli 225 y Cuyuja); ACCOUNT 02041000516; SWIFT PRODECEQ; банк PRODUBANCO (Ave Simón Bolívar S/N y Vía Nayón, Centro Corporativo Ekopark, Torre 1). 🚨 Тот же адрес (Marcabeli 225 y Cuyuja) и банк PRODUBANCO/PRODECEQ, что у инвойса D&C EXPORT E IMPORT (r36) — вероятно, юр. название того же получателя (D&C = Davila y Curillo); привязал к r36. Если это отдельная сделка — уточнить у Scream.",
+    "calc": null,
+    "rowId": "flw-000132"
   }
 ]
