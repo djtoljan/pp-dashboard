@@ -785,5 +785,26 @@
     "notes": "ПП на VDX №651 от 15.10.2026 (703 018,53 ₽ — номер из документа ПП) | 🏦 15.10.2026 (📨 Молодежь, файл «rpp_651.pdf») — ПП №651 от 15.10.2026 ИСПОЛНЕН (ВТБ «Центральный», 16:38:18): ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199) → ВиДиИкс Сервисез - ФЗКО (ПСБ, счёт 40807810000000015414), 703 018,53 ₽ {VO11100} «Частичная оплата за товар по инвойсу №PRM-080-20261001 от 01.10.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 87,7238)». sent_rubles_vdx = 703 018,53 (VDX).",
     "calc": null,
     "rowId": "mol-000138"
+  },
+  {
+    "row": 38,
+    "date": "2026-10-15",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Фри Лайнс Компани (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000139"
   }
 ]
