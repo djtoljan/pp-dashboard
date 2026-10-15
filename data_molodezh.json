@@ -680,5 +680,26 @@
     "notes": null,
     "calc": null,
     "rowId": "mol-000133"
+  },
+  {
+    "row": 33,
+    "date": "2026-10-15",
+    "sum": 4500,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ООО «Сенсис»",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000134"
   }
 ]
