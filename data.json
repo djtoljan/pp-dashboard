@@ -2184,9 +2184,30 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 15.10.2026 (📨 ВТС-Fininvest (t5668), файл «инвойс услуги Би трейд 76256.pdf») — ИНВОЙС № 76256 от 15.10.2026 (ОсОО «БиТрейд Кей Джи», ИНН/КПП 9909705572/772887001 → Покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001, ген. дир. Бондарев А.П.); договор 27062025TК/1 от 24.06.2025): «Посреднические услуги по проведению расчётов с иностранным поставщиком» — 404,91 EUR (курс EUR 94,3000) = 38 183,45 ₽ + 100,00 USD (курс USD 84,2000) = 8 420,00 ₽; ИТОГО 46 603,45 ₽. Банк ОсОО «БиТрейд Кей Джи» — ВТБ, счёт 40807810525640000008, SWIFT VTBRRUM2MS2. Компания-плательщик не названа → 🔴 (Step 0).",
       "calc": null,
       "rowId": "main-000327"
+    },
+    {
+      "row": 101,
+      "date": "2026-10-15",
+      "sum": 26994.31,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000328"
     }
   ]
 }
