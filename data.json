@@ -2166,6 +2166,27 @@
       "notes": "📄 15.10.2026 (📨 ВТС-Fininvest (t5624), файл «Форма для реквизитов 68130.....docx») — Форма для реквизитов / заявка на платёж №68130 от 13.10.2026 (на основании договора 11/19-09/19092024 от 19.09.2024): AMOUNT 100 000,00, CURRENCY EUR; BENEFICIARY MET SPA (Via Piemonte 373, 23018 Talamona SO, Italia); ACCOUNT (IBAN) IT89T0200852230000104341025; BENEFICIARY'S BANK UNICREDIT BANK SPA (Via Rivolta 7, 23017 Morbegno, ITALY; SWIFT UNCRITMM); PAYMENT DETAILS For P/I 271/2026P dd 12/10/2026. Компания-плательщик не названа → строка 🔴 (Step 0). | 📄 15.10.2026 (📨 ВТС-Fininvest (t5624), файл «271-Proforma.pdf») — Pro Forma Invoice №271/2026P dd 12-10-2026 (продавец/бенефициар MET SPA; Customer LLC BIKE PRODUCTS, Москва; вело-шлемы, заказы 3455/1627/3447/3448 и др.): Total Pro Forma = 366 196,00 EUR, оплата PREPAYMENT 12/10/2026. СПРАВОЧНО: сумма строки = 100 000,00 EUR (заявка/форма 68130), инвойс 271/2026P — на 366 196,00 EUR, это ОДНА сделка (первый платёж-предоплата по инвойсу). Нюанс от Оксаны: следующие платежи запускаются через ЭТОТ ЖЕ инвойс 271/2026P — строка не создаётся на каждую доплату, доплаты идут в notes этой же строки; по инвойсу сделку не закрывать.",
       "calc": null,
       "rowId": "main-000326"
+    },
+    {
+      "row": 100,
+      "date": "2026-10-15",
+      "sum": 46603.45,
+      "currency": "RUB",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000327"
     }
   ]
 }
