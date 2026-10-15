@@ -627,7 +627,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 15.10.2026 (📨 Молодежь, файл «19290_USD_INVOICE_ONEPHOENIX_GLOBAL_LOGISTICS_CO_,_LTD_1_1.pdf») — INVOICE (ONEPHOENIX GLOBAL LOGISTICS CO., LTD, RM5011, National Jewelry Cultural & Creative Industry Base, Yantian District, Shenzhen): PAYER Z SOURCE LIMITED; INVOICE NUMBER DEBIT26090024; INV DATE 2026/09/24; CNTR.QTY/TY 40HQ×2; RAILWAY FREIGHT 9 645 ×2 = 19 290,00 USD (TOTAL); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD (SWIFT CZCBCN2XXXX), счёт 15602002010090032114. Компания-плательщик Z SOURCE LIMITED (из инвойса); клиент по документу не назван. Новую строку завёл (dedup NEW_ROW) — уточнить клиента. | 📄 15.10.2026 (📨 Молодежь, файл «PO 19290 USD ONEPHOENIX GLOBAL LOGISTICS CO., LTD (1) (1).docx») — PO / форма реквизитов к той же сделке (строка одна, новую НЕ создаю): Beneficiary ONEPHOENIX GLOBAL LOGISTICS CO., LTD (RM5011, National Jewelry Cultural & Creative Industry Base, Yantian District, Shenzhen); Beneficiary bank ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD (Block B, Juyin Building, No. 188, Shangcheng Avenue, Futian Street, Yiwu City, Zhejiang Province); SWIFT/BIC CZCBCN2XXXX; IBAN/Account 15602002010090032114; Amount 19 290; Currency USD. Совпадает с инвойсом DEBIT26090024.",
     "calc": null,
     "rowId": "mol-000131",
     "companySource": {
