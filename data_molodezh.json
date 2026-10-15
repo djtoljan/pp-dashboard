@@ -849,12 +849,16 @@
     "calc": null,
     "rowId": "mol-000141",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": "2026-10-15",
-      "ref": "Hub001/554 dd 26.10.01",
-      "file": "Invoice.pdf"
+      "ref": "Scream (голос): компания у всех Q8 (gp morgan)",
+      "messageId": "57365"
     },
-    "companyProvisional": true,
-    "companyVerified": false
+    "companyProvisional": false,
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; FINIVEST AI #57364/#57365; Scream; 15.10.2026; Q8 gp morgan"
+    }
   }
 ]
