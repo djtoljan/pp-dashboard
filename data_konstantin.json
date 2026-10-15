@@ -379,7 +379,7 @@
     "sum": 21100,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "21 100,00 / (1 − 0,35%) + 50,18 = 21 224,29 USDT",
     "extra": null,
