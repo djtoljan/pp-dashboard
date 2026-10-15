@@ -827,5 +827,34 @@
     "notes": "ПП на VDX №4869 от 15.10.2026 (18 653,69 ₽ — номер из документа ПП) |  | 📄 15.10.2026 (📨 Молодежь, файл «VDX.pdf») — **ПП №4869 от 15.10.2026 ИСПОЛНЕН** (АО ЮНИКРЕДИТ БАНК Г МОСКВА; электронно): плательщик **АО «Фри Лайнс Компани»** (ИНН 9727130961, счёт 40702810720010003274) → получатель **VDX SERVICES - FZCO** (ПСБ, счёт 40807810000000015414), **18 653,69 ₽**. {VO21100} «оплата вознаграждения согласно поручению №30 от 15.10.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026» — **ВОЗНАГРАЖДЕНИЕ (агентское) поручения №30**. Заявка не найдена → 🔵, ждём.",
     "calc": null,
     "rowId": "mol-000140"
+  },
+  {
+    "row": 40,
+    "date": "2026-10-15",
+    "sum": 122238,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": null,
+    "costFormula": "122 238,00 + 0,3% + 30 = 122 634,71 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 122634.71,
+    "notes": "✏️ 15.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 122 238,00 + 0,3% + 30 = 122 634,71 USDT.",
+    "calc": null,
+    "rowId": "mol-000141",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-15",
+      "ref": "Hub001/554 dd 26.10.01",
+      "file": "Invoice.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
