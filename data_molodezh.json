@@ -609,5 +609,34 @@
     "notes": "📄 14.10.2026 (📨 Молодежь, файл «Платежное_поручение_№315_от_14_10_2026_на_сумму_3057809_05.pdf») — ПП на VDX №315 от 14.10.2026 ИСПОЛНЕН (АО «ТБанк» г. Москва, БИК 044525974, отметка банка 14.10.2026 ИСПОЛНЕНО): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335, КПП 784001001, счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, счёт 40807810000000015414), 3 057 809,05 ₽. {VO11100} Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024, Инвойс № IS20260730114 от 08.10.2026. НДС не облагается. ⚠️ заявки нет — 🔵 отправка на VDX без заявки. | 🔗 2026-10-14 (Scream: «Scream 14.10: строки 29 и 30 — одна сделка (инвойс IS20260730114: рубли ООО СТРЕЛОЙ Е-КОММЕРЦ на VDX + ордер SILXERA/Z SOURCE 36 000 USD)») — строки 30 объединены с этой: sum = 36000 USD; rubles_received = null; sent_rubles_vdx = 3057809.05 (VDX). Полные notes прежних строк — в Molodezh.removed-rows_29-30_2026-10-14.json.",
     "calc": null,
     "rowId": "mol-000129"
+  },
+  {
+    "row": 30,
+    "date": "2026-10-15",
+    "sum": 19290,
+    "currency": "USD",
+    "company": "Z SOURCE",
+    "color": "FFFFFFFF",
+    "clientName": "Z SOURCE",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000131",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": null,
+      "file": "19290_USD_INVOICE_ONEPHOENIX_GLOBAL_LOGISTICS_CO_"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
