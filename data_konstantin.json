@@ -460,7 +460,7 @@
     "company": null,
     "color": "FFFF0000",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "(50 000,00 + 100) x 1,005 = 50 351 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -468,9 +468,9 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 15.10.2026 (📨 Константин Просто Группа, файл «WSRE261006TP.pdf») — INVOICE № WSRE261006TP dd 06.10.2026 (Shanghai Railcon Supply Chain Management Co., Ltd., Room 1313, Tianhong Business Building, No. 682 Shuidian Road, Hongkou District, Shanghai; банк INDUSTRIAL BANK CO.,LTD., SHANGHAI BR., SWIFT FJIBCNBA600, USD-счёт 216221400100133431) → BILL TO PT VARD TRADE NOKRA (Jalan Ratna 80, Denpasar, Bali, Indonesia 80239): Freight forwarding services — 50 000,00 USD; Contract No. FRW260918 dated 18.09.2026. Компания-плательщик не названа → 🔴 (Step 0). | 📄 15.10.2026 (📨 Константин Просто Группа, файл «50 000.00 USD (14.10.2026).xlsx») — Заявка (форма «Необходимые данные для заявки»): Сумма 50 000,00 USD; бенефициар Shanghai Railcon Supply Chain Management Co., Ltd. (Room 1313, Tianhong Business Building, No. 682 Shuidian Road, Hongkou District, Shanghai, China); банк INDUSTRIAL BANK CO., LTD., SHANGHAI BRANCH (No.168 Jiangning Road, Shanghai, China), SWIFT FJIBCNBA600, счёт 216221400100133431; назначение «Payment for freight forwarding services, invoice WSRE261006TP dated 06.10.2026, contract FRW260918 dated 18.09.2026». Сумма заявки = сумме инвойса (50 000,00 USD) — одна сделка. Компания-плательщик не названа → строка остаётся 🔴.",
-    "calc": null,
+    "sent_usdt": 50351,
+    "notes": "📄 15.10.2026 (📨 Константин Просто Группа, файл «WSRE261006TP.pdf») — INVOICE № WSRE261006TP dd 06.10.2026 (Shanghai Railcon Supply Chain Management Co., Ltd., Room 1313, Tianhong Business Building, No. 682 Shuidian Road, Hongkou District, Shanghai; банк INDUSTRIAL BANK CO.,LTD., SHANGHAI BR., SWIFT FJIBCNBA600, USD-счёт 216221400100133431) → BILL TO PT VARD TRADE NOKRA (Jalan Ratna 80, Denpasar, Bali, Indonesia 80239): Freight forwarding services — 50 000,00 USD; Contract No. FRW260918 dated 18.09.2026. Компания-плательщик не названа → 🔴 (Step 0). | 📄 15.10.2026 (📨 Константин Просто Группа, файл «50 000.00 USD (14.10.2026).xlsx») — Заявка (форма «Необходимые данные для заявки»): Сумма 50 000,00 USD; бенефициар Shanghai Railcon Supply Chain Management Co., Ltd. (Room 1313, Tianhong Business Building, No. 682 Shuidian Road, Hongkou District, Shanghai, China); банк INDUSTRIAL BANK CO., LTD., SHANGHAI BRANCH (No.168 Jiangning Road, Shanghai, China), SWIFT FJIBCNBA600, счёт 216221400100133431; назначение «Payment for freight forwarding services, invoice WSRE261006TP dated 06.10.2026, contract FRW260918 dated 18.09.2026». Сумма заявки = сумме инвойса (50 000,00 USD) — одна сделка. Компания-плательщик не названа → строка остаётся 🔴. | 💸 15.10.2026 (📨 Ордера и Расчеты, @CScream1) — **заказ на выплату USDT**: (50 000,00 + 100) x 1,005 = **50 351 USDT**. Кошелёк выплаты (TRON): TBCbKCDUVcWzoTowvPZFHBPePmpFKbjTgb. Часть общего перевода 73 979 USDT (50 351 + 23 628).",
+    "calc": "ТЕЗ",
     "rowId": "kon-000051"
   },
   {
