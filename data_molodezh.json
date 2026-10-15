@@ -764,5 +764,26 @@
     "notes": "📄 15.10.2026 (📨 Молодежь, файл «PAYMENT_ORDER 15102026.docx») — PAYMENT ORDER DATE 15/10/2026: AMOUNT **20 392,95 USD**; BENEFICIARY **FUJIA AUTOMAT LIMITED** (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong); BANK Citibank, N.A., Hong Kong Branch (49th Floor, Champion Tower, 3 Garden Road, Central HKG), SWIFT CITIHKHXXXX, счёт 390205798; BANK CODE 006, BRANCH CODE 391; PAYMENT PURPOSE «invoice No ST261015-01». Компания-плательщик не названа → 🔴 (Step 0). | 📄 15.10.2026 (📨 Молодежь, файл «invoice ST261015-01.pdf») — **Proforma Invoice № ST261015-01** dd 15/10/2026, Issued to **PT KIRANA GLOBAL HUB** (Jalan Subak Sari 13, Desa/Kelurahan Tibubeneng, Kec. Kuta Utara, Kab. Badung, Provinsi Bali): позиция «Airport services and refueling 15.10.2026», 1 × 20 392,95 USD = **20 392,95 USD**. Та же сделка, что строка (PAYMENT_ORDER 15/10/2026 к FUJIA AUTOMAT LIMITED) — новую НЕ создаю; получатель инвойса — PT KIRANA GLOBAL HUB.",
     "calc": null,
     "rowId": "mol-000137"
+  },
+  {
+    "row": 37,
+    "date": "2026-10-15",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": "703018.53 (VDX)",
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 15.10.2026 (📨 Молодежь, файл «rpp_651.pdf») — ПП №651 от 15.10.2026 ИСПОЛНЕН (ВТБ «Центральный», 16:38:18): ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199) → ВиДиИкс Сервисез - ФЗКО (ПСБ, счёт 40807810000000015414), 703 018,53 ₽ {VO11100} «Частичная оплата за товар по инвойсу №PRM-080-20261001 от 01.10.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 87,7238)». sent_rubles_vdx = 703 018,53 (VDX).",
+    "calc": null,
+    "rowId": "mol-000138"
   }
 ]
