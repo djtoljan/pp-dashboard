@@ -927,5 +927,26 @@
     "notes": "📄 14.10.2026 (📨 Цветы, файл «Avrora_Invoice_15102026_02_60906_67_EUR.pdf») — COMMERCIAL INVOICE AA-Q8-2026-1015-02 dd 15 October 2026: продавец Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; Director Aleksandrs Rakovskis) → Buyer Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). «Fresh cut flowers, assorted», 1 lot = EUR 60 906,67. Банк Bulgarian-American Credit Bank (SLAVYANSKA STR 2, Sofia), SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300. Отдельная (вторая) сделка к r41 — отличается на 0,01 EUR. Компания Q8 → ⬜ (себестоимость ждёт курс FX Q8).",
     "calc": null,
     "rowId": "flw-000138"
+  },
+  {
+    "row": 43,
+    "date": "2026-10-15",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": "6161186.37 (VDX - заявка 850)",
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 15.10.2026 (📨 Отправки рублей ПП., текст «С Блэкшарк почто на Видикс / сумма 6 161 186,37 - цветы / заявка 850 / …БлэкШарк\\\\Приоритет маркет\\\\вход 14.10.26 / ООО Приоритет маркет») — рублёвый перевод **с Блэкшарк (Почтабанк) на ВиДиИкс (VDX)**, сумма **6 161 186,37 ₽** (цветы), заявка **850**, клиент **ООО «Приоритет маркет»**. sent_rubles_vdx = 6 161 186,37 (VDX, заявка 850). 🔵 — ждём заявку/инвойс.",
+    "calc": null,
+    "rowId": "flw-000139"
   }
 ]
