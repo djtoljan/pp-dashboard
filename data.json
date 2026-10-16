@@ -1725,7 +1725,7 @@
       "sum": 27672.97,
       "currency": "USD",
       "company": "Q8",
-      "color": "FFFF0000",
+      "color": "FFFFFFFF",
       "clientName": "Логолок",
       "costFormula": "27 672,97 / 0,9965 + 50,175 = 27 820,35 USDT",
       "extra": null,
