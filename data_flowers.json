@@ -856,7 +856,7 @@
     "sum": 7000,
     "currency": "USD",
     "company": "Lok Kee",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "C.I. Surandina de Flores (Цветы)",
     "costFormula": "(7 000,00 USD + 65) / 0,9965 = 7 089,81 USDT",
     "extra": null,
@@ -867,7 +867,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 7051,
-    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «SURANDINA_Invoice_99583_2026-10-15_USD7000.pdf») — INVOICE No. 99583 dd OCTOBER 15/2026: C.I. SURANDINA DE FLORES SAS (NIT 900.137.094-6, Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia, SURAMERICA); Foreign Purchaser Q8 Group Limited (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); 237 boxes / 7 615 стеблей (гидрангеи HYDRANGEA, 30/35 см); Total Value USD 7 000,00. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «CI SURANDINA DE FLORES 7000.doc») — платёжная форма (реквизиты): Beneficiary CI SURANDINA DE FLORES; адрес CARRERA 26A NUMERO 5B-90, LA CEJA, Postcode 055010, COLOMBIA; Account 34936346610 CORRIENTE; SWIFT COLOCOBM; банк BANCOLOMBIA (Cra. 21 #19-25, La Ceja, Colombia); RUC 900137094. Реквизиты совпадают с инвойсом №99583 — уточняющий документ к r38, новой строки не создаю.",
+    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «SURANDINA_Invoice_99583_2026-10-15_USD7000.pdf») — INVOICE No. 99583 dd OCTOBER 15/2026: C.I. SURANDINA DE FLORES SAS (NIT 900.137.094-6, Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia, SURAMERICA); Foreign Purchaser Q8 Group Limited (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); 237 boxes / 7 615 стеблей (гидрангеи HYDRANGEA, 30/35 см); Total Value USD 7 000,00. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «CI SURANDINA DE FLORES 7000.doc») — платёжная форма (реквизиты): Beneficiary CI SURANDINA DE FLORES; адрес CARRERA 26A NUMERO 5B-90, LA CEJA, Postcode 055010, COLOMBIA; Account 34936346610 CORRIENTE; SWIFT COLOCOBM; банк BANCOLOMBIA (Cra. 21 #19-25, La Ceja, Colombia); RUC 900137094. Реквизиты совпадают с инвойсом №99583 — уточняющий документ к r38, новой строки не создаю. | 📄 16.10.2026 (📨 Платежные Поручения, файл «7,000.00 USD-CI SURANDINA DE FLORES SAS.pdf») — **Proof of Transfer** (SWIFT-слип LOK KEE): Ref 20 PB2610160551000001-1 (23B URGP); 32A **16/10/2026 / 7 030,00 USD**; 50 Ordering **LOK KEE TRADING LIMITED** (Sheung Wan, HK); 57A Account With Institution **COLOCOBM**; 59 Beneficiary /34936346610 **C.I. SURANDINA DE FLORES SAS** (Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia); 72 **Inv 99583 dd 15.10.2026**; UETR 09c0d8e8-dec5-47f8-a636-1ab24c634e9e; printed 16.10.2026 14:23:49 UTC+8. Сделка r38 — новую строку не создаю. LOK KEE зелёнка → 🟢.",
     "calc": null,
     "rowId": "flw-000134",
     "companySource": {
