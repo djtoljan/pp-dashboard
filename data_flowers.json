@@ -1096,7 +1096,7 @@
     "rubles_received": "4780487.25 / 119512.18",
     "statementRef": "ОсОО Блэкшарк Трейд, АО АКИБ ПОЧТОБАНК, счёт 40807810100157518600, выписка 16.10.2026",
     "sent_rubles_vdx": 4899999.43,
-    "exchange_to": null,
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
