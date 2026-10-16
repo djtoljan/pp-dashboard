@@ -839,7 +839,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 16.10.2026 (📨 Молодежь, файл «33400_USD_INVOICE_GLOBAL_UZLOG_LOJISTIK_TICARET_LIMITED_SIRKETI.pdf») — INVOICE No 20261033 dd 20.9.2026 (заказчик Z SOURCE LIMITED): seafreight — 40' 1× USD 5 800,00 + 20' 4× USD 3 400,00 = 13 600,00 + USD 7 000,00 + USD 7 000,00 = **USD 33 400,00** (VAT 0). Получатель GLOBAL UZLOG LOJISTIK TICARET LIMITED SIRKETI (Osmaniye Mah Şirin Sk. Atilla İş Merkezi No 34/3, Bakırköy, İstanbul, Türkiye); банк GARANTİ BANKASI YEŞİLKÖY ŞUBESİ (İstasyon Cad. No 28, Yeşilköy 34149 Bakırköy, İstanbul), SWIFT TGBATRISXXX, IBAN TR91 0006 2000 3280 0009 0712 11. Компания-плательщик Z SOURCE LIMITED (из инвойса) → ⬜. | 📄 16.10.2026 (📨 Молодежь, файл «PO 33400 USD GLOBAL UZLOG LOJISTIK TICARET LIMITED SIRKETI.docx») — платёжные реквизиты (PO): Beneficiary GLOBAL UZLOG LOJISTIK TICARET LIMITED SIRKETI; банк GARANTİ BANKASI YEŞİLKÖY ŞUBESİ; SWIFT TGBATRISXXX; IBAN TR91 0006 2000 3280 0009 0712 11; Amount 33400 USD. ⚠️ clientName = «ООО «Сенсис»» проставлен по аналогии с r30 (Z SOURCE в Молодёжи) — требует подтверждения владельца; в самом инвойсе/PO клиент не назван (только плательщик Z SOURCE).",
     "calc": null,
     "rowId": "mol-000147",
     "companySource": {
