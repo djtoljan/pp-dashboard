@@ -531,5 +531,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 20,
+    "date": "2026-10-16",
+    "sum": 150000,
+    "currency": "USD",
+    "company": "SURYA",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000060",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "90219949",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
