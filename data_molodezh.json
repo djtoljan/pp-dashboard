@@ -673,8 +673,8 @@
     "date": "2026-10-15",
     "sum": 20392.95,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "KIRANA GLOBAL HUB",
+    "color": "FFFFFFFF",
     "clientName": "Кристалл Джет",
     "costFormula": null,
     "extra": null,
@@ -687,7 +687,15 @@
     "sent_usdt": null,
     "notes": "ПП на VDX №15 от 15.10.2026 (948 631,61 ₽ — номер из документа ПП) | 🏦 15.10.2026 (📨 Молодежь, файл «ВИДИИКС_СЕРВИСЕЗ_ФЗКО_23210_261015_144707.pdf») — ПП №853396 от 15.10.2026 электронно, ИСПОЛНЕНО (БАНК ГПБ (АО) г. Москва, БИК 044525823): ООО «Кристалл Джет» (ИНН 7717665139, счёт 40702810900000021724) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ПСБ, счёт 40807810000000015414), 948 631,61 ₽ {VO23210} «Оплата за услуги по договору 210933/КД от 15.09.2021». sent_rubles_vdx = 948 631,61 (VDX). | 🔗 2026-10-16 (Scream: «Scream: строки 32-34 — одна сделка Кристалл Джет (ПП 853396/853397 на VDX + ордер FUJIA AUTOMAT 20 392,95 USD)») — строки 33, 34 объединены с этой: sum = 20392.95 USD; rubles_received = null; sent_rubles_vdx = 948631.61 (VDX) / 792289.57 (VDX). Полные notes прежних строк — в Molodezh.removed-rows_32-33-34_2026-10-16.json.",
     "calc": null,
-    "rowId": "mol-000135"
+    "rowId": "mol-000135",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-15",
+      "ref": "ST261015-01",
+      "file": "invoice ST261015-01.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 33,
