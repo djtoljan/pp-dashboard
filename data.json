@@ -2284,7 +2284,7 @@
       "sum": null,
       "currency": null,
       "company": "Q8",
-      "color": "FFFF0000",
+      "color": "FFFFFFFF",
       "clientName": "ООО ЕТЕ",
       "costFormula": "11 408,91 / 0,8851 + 50,175 = 12 940,14 USDT",
       "extra": null,
