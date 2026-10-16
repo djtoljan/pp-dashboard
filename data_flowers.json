@@ -765,7 +765,7 @@
     "date": "2026-10-14",
     "sum": 30000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Lok Kee",
     "color": "FFFFFFFF",
     "clientName": "EBF CARGO (Цветы)",
     "costFormula": "(30 000,00 USD + 65) / 0,9965 = 30 170,60 USDT",
@@ -779,14 +779,23 @@
     "sent_usdt": 30120,
     "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 000,00 + 0,3% + 30 = 30 120,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «EBF_Invoice_30000_USD_14-10-2026.pdf») — COMMERCIAL INVOICE № INV-14102026-01 dd 14.10.2026: Customer Q8 Group Limited (HK, Company Number 80242882); AIR LOGISTICS SERVICES 1 × 30 000,00 = TOTAL USD 30 000,00; beneficiary EBF CARGO CIA LTDA (Av. Simón Bolívar s/n y vía Nayón, Centro Corporativo Ekopark Torre 1, Quito, Ecuador), PRODUBANCO (AV. AMAZONAS 4545 y PEREIRA), SWIFT PRODECEQ, счёт 02005153421; payment details «Air logistics services». Компания Q8 (по инвойсу), цвет ⬜. Отдельная от исполненной r7 (INV-05102026-01, оплачена MT103 07.10.2026). | 📄 14.10.2026 (📨 Цветы, файл «EBF CARGO CIA LTDA 30000.docx») — SWIFT-инструкция на платёж (MT-поля): Amount USD 30 000,00; Beneficiary EBF CARGO CIA LTDA (Av. Simón Bolívar sn y vía Nayón, Centro Corporativo Ekopark torre 1, Quito, Ecuador); ACCOUNT 02005153421; SWIFT PRODECEQ; банк PRODUBANCO (AV. AMAZONAS 4545 y PEREIRA); Payment details «transportation services». Реквизиты совпадают с инвойсом INV-14102026-01 — уточняющий документ к этой же строке, новой не создаю.",
     "calc": null,
-    "rowId": "flw-000131"
+    "rowId": "flw-000131",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false,
+    "calcStale": null
   },
   {
     "row": 36,
     "date": "2026-10-14",
     "sum": 30000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Lok Kee",
     "color": "FFFFFFFF",
     "clientName": "D&C EXPORT E IMPORT (Цветы)",
     "costFormula": "(30 000,00 USD + 65) / 0,9965 = 30 170,60 USDT",
@@ -800,14 +809,23 @@
     "sent_usdt": 30120,
     "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 000,00 + 0,3% + 30 = 30 120,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «Invoice_DC_Q8_261016_30000_USD.pdf») — INVOICE No. 0000 261016 dd 14.10.2026: D&C EXPORT E IMPORT CIA. LTDA. (R.U.C. 1791357973001, Dir. Marcabeli 225 y Cuyuja, Quito, Ecuador); Cliente Q8 Group Limited (RUC 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); позиция 5012 REEMBOLSO DE GUIA INTERNACIONAL = USD 30 000,00. Компания Q8 (по инвойсу), цвет ⬜. | 📄 14.10.2026 (📨 Цветы, файл «DAVILA Y CURILLO CIA LTDA 30000.docx») — SWIFT-инструкция на платёж (MT-поля): Amount USD 30 000,00; Beneficiary DAVILA Y CURILLO CIA LTDA (Marcabeli 225 y Cuyuja); ACCOUNT 02041000516; SWIFT PRODECEQ; банк PRODUBANCO (Ave Simón Bolívar S/N y Vía Nayón, Centro Corporativo Ekopark, Torre 1). 🚨 Тот же адрес (Marcabeli 225 y Cuyuja) и банк PRODUBANCO/PRODECEQ, что у инвойса D&C EXPORT E IMPORT (r36) — вероятно, юр. название того же получателя (D&C = Davila y Curillo); привязал к r36. Если это отдельная сделка — уточнить у Scream.",
     "calc": null,
-    "rowId": "flw-000132"
+    "rowId": "flw-000132",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false,
+    "calcStale": null
   },
   {
     "row": 37,
     "date": "2026-10-14",
     "sum": 22000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Lok Kee",
     "color": "FFFFFFFF",
     "clientName": "Dolina Agro (Цветы)",
     "costFormula": "(22 000,00 USD + 65) / 0,9965 = 22 142,50 USDT",
@@ -821,14 +839,23 @@
     "sent_usdt": 22096,
     "notes": "📄 14.10.2026 (📨 Цветы, файл «Dolina Agro Ltd 22000.docx») — Application for transfer (MT-поля): Amount USD 22 000; Beneficiary Dolina Agro Ltd (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 Israel); ACCOUNT IL750107440000027660042; SWIFT LUMIILITXXX; банк BANK LEUMI LE ISRAEL (Business Nathanya branch 744). Компания в документе не указана → 🔴 (ждём заявку/инвойс). Отдельная сделка от r14 (Dolina Agro 35 000 EUR, 07.10.2026). | ✏️ 14.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 22 000,00 + 0,3% + 30 = 22 096,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «DOLINA_AGRO_Q8_22000_USD_14-10-2026.pdf») — инвойс Dolina Agro Ltd (розы, всего 55 500 стеблей): TOTAL FLOWERS FOB USD 22 000,00; COMISION 0.00; PACKING 0.00; INLAND 0.00; TOTAL AWB = TOTAL USD 22 000,00. Компания Q8 (по партии Q8 Group Limited), Step 3 → ⬜; Q8-расчёт 22 000,00 + 0,3% + 30 = 22 096,00 USDT. Уточняющий к строке, созданной из Application for transfer (r37).",
     "calc": null,
-    "rowId": "flw-000133"
+    "rowId": "flw-000133",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false,
+    "calcStale": null
   },
   {
     "row": 38,
     "date": "2026-10-14",
     "sum": 7000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Lok Kee",
     "color": "FFFFFFFF",
     "clientName": "C.I. Surandina de Flores (Цветы)",
     "costFormula": "(7 000,00 USD + 65) / 0,9965 = 7 089,81 USDT",
@@ -842,14 +869,23 @@
     "sent_usdt": 7051,
     "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «SURANDINA_Invoice_99583_2026-10-15_USD7000.pdf») — INVOICE No. 99583 dd OCTOBER 15/2026: C.I. SURANDINA DE FLORES SAS (NIT 900.137.094-6, Carrera 26A No. 5B-90, La Ceja, Antioquia, Colombia, SURAMERICA); Foreign Purchaser Q8 Group Limited (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); 237 boxes / 7 615 стеблей (гидрангеи HYDRANGEA, 30/35 см); Total Value USD 7 000,00. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 7 000,00 + 0,3% + 30 = 7 051,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «CI SURANDINA DE FLORES 7000.doc») — платёжная форма (реквизиты): Beneficiary CI SURANDINA DE FLORES; адрес CARRERA 26A NUMERO 5B-90, LA CEJA, Postcode 055010, COLOMBIA; Account 34936346610 CORRIENTE; SWIFT COLOCOBM; банк BANCOLOMBIA (Cra. 21 #19-25, La Ceja, Colombia); RUC 900137094. Реквизиты совпадают с инвойсом №99583 — уточняющий документ к r38, новой строки не создаю.",
     "calc": null,
-    "rowId": "flw-000134"
+    "rowId": "flw-000134",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false,
+    "calcStale": null
   },
   {
     "row": 39,
     "date": "2026-10-14",
     "sum": 4000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Lok Kee",
     "color": "FFFFFFFF",
     "clientName": "EXPOFLORES JH SAS (Цветы)",
     "costFormula": "(4 000,00 USD + 65) / 0,9965 = 4 079,28 USDT",
@@ -863,14 +899,23 @@
     "sent_usdt": 4042,
     "notes": "📄 14.10.2026 (📨 Цветы, файл «EXPOFLORES JH SAS 4000.doc») — платёжная форма (реквизиты): Beneficiary EXPOFLORES JH SAS; адрес VEREDA LA AMAPOLA EL RETIRO ANTIOQUIA, COLOMBIA; Account 02300005295; SWIFT COLOCOBM; банк BANCOLOMBIA SAS (CARRERA 48#26-85 MEDELLIN, Colombia); RUC не указан. Сумма 4000$. Компания не указана → 🔴 (ждём заявку/инвойс). | ✏️ 14.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 4 000,00 + 0,3% + 30 = 4 042,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «EXPOFLORES_JH_Invoice_0007_4000_USD_15-10-2026.pdf») — INVOICE 0007 dd 15/10/2026: EXPOFLORES JH SAS (NIT 901.107.943-1, Vereda La Amapola finca otra parte, El Retiro-Antioquia, Colombia); LEGAL NAME Q8 Group Limited (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); HYDRANGEA PREMIUM ASSORTED 50 ud / 1 429 стеблей, $4 000,00. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 4 000,00 + 0,3% + 30 = 4 042,00 USDT.",
     "calc": null,
-    "rowId": "flw-000135"
+    "rowId": "flw-000135",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false,
+    "calcStale": null
   },
   {
     "row": 40,
     "date": "2026-10-14",
     "sum": 9000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Lok Kee",
     "color": "FFFFFFFF",
     "clientName": "GEOFLORA SAS (Цветы)",
     "costFormula": "(9 000,00 USD + 65) / 0,9965 = 9 096,84 USDT",
@@ -884,7 +929,16 @@
     "sent_usdt": 9057,
     "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 9 000,00 + 0,3% + 30 = 9 057,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «GEOFLORA_Proforma_Invoice_1102_9000_USD_15-10-2026.pdf») — PROFORMA INVOICE No. 1102 dd October 15th 2026: GEOFLORA SAS (Km 4 Via Corzo-Bojaca, Bojaca, Colombia; NIT 900.552.241-1; General Manager Nicolas Hurtado); Customer Q8 Group Limited (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Cut Flowers 39 130,43 стеблей × $0,23 = $9 000,00. Банк BBVA COLOMBIA (CRA 9 No. 72-21 Piso 5, Bogota), SWIFT GEROCOBB, счёт 00130382000100017184. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 9 000,00 + 0,3% + 30 = 9 057,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «GEOFLORA SAS 9000.docx») — платёжная форма (реквизиты): Amount 9000 usd; Beneficiary GEOFLORA SAS; адрес Km 4 Via Corzo – Bojaca, Colombia; Account/IBAN 00130382000100017184; Beneficiary Bank BBVA COLOMBIA (CRA 9 No. 72-21 Piso 5, Bogota, Colombia); SWIFT GEROCOBB. Реквизиты совпадают с проформой №1102 — уточняющий документ к r40, новой строки не создаю.",
     "calc": null,
-    "rowId": "flw-000136"
+    "rowId": "flw-000136",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false,
+    "calcStale": null
   },
   {
     "row": 41,
