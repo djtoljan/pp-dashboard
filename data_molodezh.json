@@ -779,5 +779,26 @@
     "costSourceRef": {
       "ref": "owner_instruction; FINIVEST AI #57364/#57365; Scream; 15.10.2026; Q8 gp morgan"
     }
+  },
+  {
+    "row": 36,
+    "date": "2026-10-16",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ООО «Сенсис»",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000142"
   }
 ]
