@@ -1135,7 +1135,7 @@
       "sum": 110000,
       "currency": "CNY",
       "company": "Q8",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "110 000,00 / (6,67838 − 1%) + 50,18 = 16 687,61 USDT",
       "extra": null,
