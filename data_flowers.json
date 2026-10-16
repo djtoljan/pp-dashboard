@@ -916,7 +916,7 @@
     "sum": 9000,
     "currency": "USD",
     "company": "Lok Kee",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "GEOFLORA SAS (Цветы)",
     "costFormula": "(9 000,00 USD + 65) / 0,9965 = 9 096,84 USDT",
     "extra": null,
@@ -927,7 +927,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 9057,
-    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 9 000,00 + 0,3% + 30 = 9 057,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «GEOFLORA_Proforma_Invoice_1102_9000_USD_15-10-2026.pdf») — PROFORMA INVOICE No. 1102 dd October 15th 2026: GEOFLORA SAS (Km 4 Via Corzo-Bojaca, Bojaca, Colombia; NIT 900.552.241-1; General Manager Nicolas Hurtado); Customer Q8 Group Limited (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Cut Flowers 39 130,43 стеблей × $0,23 = $9 000,00. Банк BBVA COLOMBIA (CRA 9 No. 72-21 Piso 5, Bogota), SWIFT GEROCOBB, счёт 00130382000100017184. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 9 000,00 + 0,3% + 30 = 9 057,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «GEOFLORA SAS 9000.docx») — платёжная форма (реквизиты): Amount 9000 usd; Beneficiary GEOFLORA SAS; адрес Km 4 Via Corzo – Bojaca, Colombia; Account/IBAN 00130382000100017184; Beneficiary Bank BBVA COLOMBIA (CRA 9 No. 72-21 Piso 5, Bogota, Colombia); SWIFT GEROCOBB. Реквизиты совпадают с проформой №1102 — уточняющий документ к r40, новой строки не создаю.",
+    "notes": "✏️ 14.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 9 000,00 + 0,3% + 30 = 9 057,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «GEOFLORA_Proforma_Invoice_1102_9000_USD_15-10-2026.pdf») — PROFORMA INVOICE No. 1102 dd October 15th 2026: GEOFLORA SAS (Km 4 Via Corzo-Bojaca, Bojaca, Colombia; NIT 900.552.241-1; General Manager Nicolas Hurtado); Customer Q8 Group Limited (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); Cut Flowers 39 130,43 стеблей × $0,23 = $9 000,00. Банк BBVA COLOMBIA (CRA 9 No. 72-21 Piso 5, Bogota), SWIFT GEROCOBB, счёт 00130382000100017184. Компания Q8 (по инвойсу), Step 3 → ⬜; Q8-расчёт 9 000,00 + 0,3% + 30 = 9 057,00 USDT. | 📄 14.10.2026 (📨 Цветы, файл «GEOFLORA SAS 9000.docx») — платёжная форма (реквизиты): Amount 9000 usd; Beneficiary GEOFLORA SAS; адрес Km 4 Via Corzo – Bojaca, Colombia; Account/IBAN 00130382000100017184; Beneficiary Bank BBVA COLOMBIA (CRA 9 No. 72-21 Piso 5, Bogota, Colombia); SWIFT GEROCOBB. Реквизиты совпадают с проформой №1102 — уточняющий документ к r40, новой строки не создаю. | 📄 16.10.2026 (📨 Платежные Поручения, файл «9,000.00 USD-GEOFLORA SAS.pdf») — **Proof of Transfer** (SWIFT-слип LOK KEE): Ref 20 PB2610160701000001-1 (23B URGP); 32A **16/10/2026 / 9 030,00 USD**; 50 Ordering **LOK KEE TRADING LIMITED** (Sheung Wan, HK); 57A Account With Institution **GEROCOBB**; 59 Beneficiary /00130382000100017184 **GEOFLORA SAS** (Km 4 Via Corzo, Bojaca, Cundinamarca, Colombia); 72 **Inv 1102 dd 15.10.2026**; UETR c6f0dd35-3fb0-4735-9184-7d25b9621f68; printed 16.10.2026 15:30:38 UTC+8. Сделка r40 — новую строку не создаю. LOK KEE зелёнка → 🟢.",
     "calc": null,
     "rowId": "flw-000136",
     "companySource": {
