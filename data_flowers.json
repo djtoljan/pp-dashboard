@@ -796,7 +796,7 @@
     "sum": 30000,
     "currency": "USD",
     "company": "Lok Kee",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "D&C EXPORT E IMPORT (Цветы)",
     "costFormula": "(30 000,00 USD + 65) / 0,9965 = 30 170,60 USDT",
     "extra": null,
