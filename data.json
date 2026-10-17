@@ -2539,7 +2539,7 @@
       "sum": 47817.81,
       "currency": "USD",
       "company": "Q8",
-      "color": "FFFF0000",
+      "color": "FFFFFFFF",
       "clientName": "ООО ЕТЕ",
       "costFormula": "47 817,81 / (1 − 0,35%) + 50,18 = 48 035,94 USDT",
       "extra": null,
