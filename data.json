@@ -2558,13 +2558,13 @@
         "ref": "owner_instruction; Scream; батч Q8 14.10.2026; msg из notes строки"
       },
       "companySource": {
-        "source": "unverified-legacy",
-        "date": null,
-        "ref": "нет основания в notes/документах на 2026-10-17",
+        "source": "foreign_pp",
+        "date": "2026-10-13",
+        "ref": "notes: Sender Q8 GROUP LIMITED",
         "backfill": true
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": true
     },
     {
       "row": 91,
