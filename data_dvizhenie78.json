@@ -21,7 +21,15 @@
     "costSource": "operator",
     "costSourceRef": {
       "ref": "owner_instruction; Scream; батч Q8 14.10.2026; msg из notes строки"
-    }
+    },
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-08",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 2,
@@ -42,7 +50,15 @@
     "sent_usdt": 5215.31,
     "notes": "🔀 13.10.2026 (Scream, ЛС): из строки выделена сделка Ningbo Fendi (пор.83) отдельной строкой; на r2 — только сделка Qianfanjing (пор.82). rubles_received = 447 187,70 / 11 466,44; sent_rubles_vdx = 458 654,14 (VDX - заявка 834). | 📄 09.10.2026 — ПОРУЧЕНИЕ №82 от 09.10.2026 (Приложение к аг. договору 120525-B): Принципал ООО «Балтик лэнд» → Агент ОсОО «Блэкшарк Трейд»; контракт BL-QFJ2601; получатель QIANFANJING LOGISTICS (HK) CO., LIMITED (ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2XXX, счёт NRA18801142010500018360); тело 5 169,80 USD + агентское 2,5%. | 📄 09.10.2026 — Application for transfer 5 169,80: Beneficiary QIANFANJING LOGISTICS (HK) CO., LIMITED; назначение PAYMENT FOR FREIGHT INVOICE DEBIT26090128. | 📤 09.10.2026 — ПП №2610 от 09.10.2026 ИСПОЛНЕН (Балтик Лэнд → Блэкшарк, 447 187,70 ₽) — ТЕЛО поручения №82. | 📤 09.10.2026 — ПП №2611 от 09.10.2026 ИСПОЛНЕН (11 466,44 ₽) — агентское вознаграждение по пор.82. | 📄 09.10.2026 — DEBIT NOTE № DEBIT26090128 (Qianfanjing → Baltic Land): SHANGHAI → VLADIVOSTOK; OCEAN FREIGHT 5 169,80 USD. | 💳 13.10.2026 (📨 ПП компании Q8/Z-source, файл «5169.80.pdf») — BONBILL Payment Certificate: Transaction ID O2109895858572099584233, 2026-10-13 14:35:47; Q8 GROUP LIMITED → QIANFANJING LOGISTICS (HK) CO., LIMITED, USD 5 169,80, Remarks «INVOICE DEBIT26090128 DD 30092026 For Freight». | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «458654.14 (VDX - заявки 833/834, ПП №643)» → 458654.14.",
     "calc": null,
-    "rowId": "d78-000022"
+    "rowId": "d78-000022",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 3,
@@ -63,7 +79,15 @@
     "sent_usdt": 3339.9,
     "notes": "ПП на VDX №644 от 09.10.2026 (292 769,63 ₽ — номер из документа ПП) | 🏦 приход по выписке: Почтабанк Блэкшарк iBank (Кт ПП №229 + №230, Оникс) | 📄 09 октября 2026 (📨 Движение 78 (t1501), файл «PI No.FT-SM20261009- USD (1).xls») — **PROFORMA INVOICE № FT-SM20261009** от продавца **JIANGSU FENGTAI TOOLS CO., LTD.** (Danyang, Jiangsu, China; AGRICULTURAL BANK OF CHINA, JIANGSU BRANCH, SWIFT ABOCCNBJ100, счёт 10322014040010938) → покупателю **«Onix» LLC** (Санкт-Петербург; Mr. Emelyanov Vladimir Alekseevich, приложение к контракту JFI0910). Товар: **алмазные отрезные диски** — CJS010517 (1000 шт × 2,25 = 2250 USD) + CJS010806 (100 шт × 10,5 = 1050 USD) = **3 300,00 USD** (1100 шт, FOB Shanghai/Ningbo). Та же сделка, что Contract JFI0910 / Поручение 3 300 / Application 3 300. |  | 📤 09 октября 2026 (📨 Отправки рублей ПП.; «с Блэкшарк почто на видиикс», сумма 292 769,63 — за алмазные диски, заявка 835; доки O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\ОНИКС\\вход 09.10.26; ООО ОНИКС) — рубли ушли с Блэкшарк (ПОЧТОБАНК) на VDX — 292 769,63 ₽ (заявка 835, алмазные отрезные диски, PI FT-SM20261009) = тело 285 450,00 + агентское 7 319,63. sent_rubles_vdx = 292769.63, exchange_to = VDX. ⚠️ ПП на VDX — документ среди входящих не найден, номер неизвестен; колонка «ПП» отчёта заполнится при получении ПП. | | 📄 09 октября 2026 (📨 Движение 78, файл «Contract Onyx JFI0910.pdf») — **КОНТРАКТ № JFI0910 от 09.10.2026**: Продавец **JIANGSU FENGTAI TOOLS CO., LTD** (Danyang, Jiangsu, China) → Покупатель **ООО «Оникс»** (СПб, ген. дир. Емельянов В.А.); пункт назначения Санкт-Петербург. Ассортимент и цены — в Спецификациях к контракту. | 📄 09 октября 2026 (📨 Движение 78, файл «Спецификация 1 от 09.10.26.pdf») — **СПЕЦИФИКАЦИЯ №1** к контракту JFI0910 от 09.10.2026: DIAMOND SAW BLADE 230х10х2,5х22,23 VD EcoLine+ (ТН ВЭД 6804210000) 1000 шт × 2,25 = 2 250,00 USD + DIAMOND SAW BLADE 350х12х3,2х25,4 VD EcoLine+ 100 шт × 10,50 = 1 050,00 USD; **Итого 1100 шт = 3 300,00 USD**; FOB Shanghai/Ningbo; 100% предоплата до отгрузки; 60 дней. | 📄 09 октября 2026 (📨 Движение 78, файл «Поручение 3 300.00.pdf») — **ПОРУЧЕНИЕ №34 от 09.10.2026** (Приложение к Агентскому договору №020425-B от 02.04.2025): Принципал **ООО «Оникс»** (ИНН 7839125772) → Агент **ОсОО «Блэкшарк Трейд»** (ИНН 9909705614); Спецификация №1 от 09.10.2026, контракт JFI0910. Получатель **JIANGSU FENGTAI TOOLS CO., LTD** (Danyang; AGRICULTURE BANK OF CHINA, SWIFT **ABOCCNBJ100**, счёт **10322014040010938**). Валюта USD; тело перевода платёжным агентом **3 300,00 USD** = 285 450,00 ₽ + агентское вознаграждение **2,5%** = 84,62 USD = **7 319,63 ₽**; всего **3 384,62 USD**; в рублях по курсу **86,50 ₽/USD**. | 📄 09 октября 2026 (📨 Движение 78, файл «Application for transfer 3 300.00.docx») — **Application for transfer (заявка на перевод)**: Currency **USD**, Amount **3 300,00**; Beneficiary **JIANGSU FENGTAI TOOLS CO., LTD.** (Danyang, Jiangsu, China); банк **AGRICULTURAL BANK OF CHINA, JIANGSU BRANCH** (SWIFT **ABOCCNBJ100**, счёт **10322014040010938**); назначение «No.: FT-SM20261009 Date 2026.10.09» (инвойс-основание). Тело поручения №34. | 📤 09 октября 2026 (📨 Движение 78, файл «rpp_229.pdf») — ПП №229 от 09.10.2026 ИСПОЛНЕН (Филиал «Центральный» Банка ВТБ, ДБО): плательщик **ООО «ОНИКС»** (ИНН 7839125772, счёт 40702810526620000300) → **ОсОО «Блэкшарк Трейд»** (ИНН 9909705614, счёт 40807810100157518600, АО АКИБ «ПОЧТОБАНК» г. Пермь), **285 450,00 ₽**. Тело поручения №34 (3 300,00 USD). | 📤 09 октября 2026 (📨 Движение 78, файл «rpp_230.pdf») — ПП №230 от 09.10.2026 ИСПОЛНЕН: плательщик **ООО «ОНИКС»** (счёт 40702810526620000300) → **ОсОО «Блэкшарк Трейд»**, **7 319,63 ₽** — агентское вознаграждение 2,5%. rubles_received = 285 450,00 / 7 319,63. | 🧮 10.10.2026 (Scream, ЛС): Z SOURCE — расчёт как у Q8 (сумма + 0,3% + 30), сумма заявки 3 300,00 USD (пор. 34 Оникс). |  | 💳 12.10.2026 (📨 ПП компании Q8, файл «Processing 3300.00 USD.pdf») — **BONBILL Payment Certificate**: Transaction ID **O2109602468810850304860**, Payment Time 20261012 19:09:57, Payer **Z SOURCE LIMITED**, Payment Status **Processing**; Payee **JIANGSU FENGTAI TOOLS CO., LTD.** (AGRICULTURAL BANK OF CHINA, SWIFT ABOCCNBJ100, счёт 1032****938), USD **3 300,00** (Handling Fee 32 USD), Remarks «InvoiceFTSM20261009DD09102026ForDIAMONDSAWBLADE». Статус Processing = INITIATED → 🟡 (не зелёнка). | 💳 13.10.2026 (📨 ПП компании Q8/Z-source, файл «3300.00.pdf») — BONBILL Payment Certificate (lean-шаблон, без Payment Status → исполнено): Transaction ID O2109602468810850304860, Payment Time 2026-10-12 19:09:57, Payer Z SOURCE LIMITED → Payee JIANGSU FENGTAI TOOLS CO., LTD. (AGRICULTURAL BANK OF CHINA, счёт 10322014040010938), USD 3 300,00, Remarks «Invoice FT-SM20261009 DD 09.10.2026 For DIAMOND SAW BLADE». → 🟡→🟢.",
     "calc": null,
-    "rowId": "d78-000023"
+    "rowId": "d78-000023",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-09",
+      "ref": "notes: Payer Z SOURCE",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 4,
@@ -84,7 +108,15 @@
     "sent_usdt": 14749.02,
     "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 14 675,00 + 0,3% + 30 = 14 749,02 USDT. |  | 🔀 13.10.2026 (Scream, ЛС): выделена из r1 как ОТДЕЛЬНАЯ сделка Балтик Лэнд — поручение №83, контракт 100726, получатель NINGBO FENDI INTERNATIONAL LOGISTICS (China Zheshang Bank, SWIFT ZJCBCN2N, счёт 3320020011420101247795), Debit Note/инвойс SHNBFD26090048, фрахт VRANGEL BAY—SHANGHAI—VRANGEL BAY (40'HQ CSKU4615020); вторая часть Application for transfer 14 675,00 USD. Рубли (тело/агентское ПП №2612/№2613) перенесены со строки Qianfanjing. Зелёнка — BONBILL Q8 (txid O2109680190434181120467, 14 675 USD, INVOICE SHNBFD26090048 DD 09.09.2026 For Freight). | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «1474049.10 (VDX - заявки 833/834, ПП №643)» → 1474049.10.",
     "calc": null,
-    "rowId": "d78-000024"
+    "rowId": "d78-000024",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 5,

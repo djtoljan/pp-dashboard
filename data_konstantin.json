@@ -17,7 +17,15 @@
     "sent_usdt": 159298.897,
     "notes": "📄 01.10.2026 (📨 Константин Просто Группа, файл «Babyliss_140_753_94_EUR.xlsx») — **реквизиты платежа / заявка на оплату**: Beneficiary **Babyliss sarl - Division PRO** (Arcs de Seine, 18-20, Quai du Point du Jour, FR-92100 Boulogne-Billancourt, France; www.babyliss.com); банк **J.P. Morgan SE Amsterdam Branch** (WTC Tower B, Strawinskylaan 1135, Amsterdam, Netherlands), SWIFT **CHASNL2X**, счёт **NL77CHAS0626002453**; Amount **140 753,94 EUR**; Details: «Payment for Proforma-Invoice 9230029125 dd 29.07.26, payer N 235723 for home appliances», HS Code 8516320000. Компания-плательщик в документе НЕ названа → 🔴 (Step 0); по сумме 140 753,94 совпадений в 5 таблицах нет. | 📄 01.10.2026 (📨 Константин Просто Группа, файл «doc14786820260730133348 2.pdf» — скан, 11 стр.) — **документы по Babyliss**: (1) **Facture pro forma № 9230029125** от 29.07.2026 (Babyliss sarl - Division PRO, Arcs de Seine 18-20 Quai du Point du Jour, FR-92100 Boulogne-Billancourt; RCS Nanterre B 612 021 923): N° livraison **8042859050**, N° commande **7029859471**, Réf client / Order **1**, Sold To **235723**; bank **J.P. Morgan**, IBAN **NL77CHAS0626002453**, SWIFT **CHASNL2X**; условия **50% deposit / 50% in 60 days** (до 29.07.2026 — 133 006,20 EUR; до 27.09.2026 — 133 006,19 EUR); **Total Products / Montant = 266 012,39 EUR** (стр. 5–11). (2) **PACKING LIST n° 6/38179** (BaByliss / Cuisinart / WARING, Centre Logistique, Parc du Val de Calvigny, IWUY 59141 France): delivery note 8042859050 / Order 1; 32 паллеты, 1411 мест, нетто **7 401,708 кг**, брутто **8 073,708 кг**; forwarder **Altmaster Logistyka** (Sokolowska 50, 05-806 Pecice, Poland), exit point PL301040; дата эксп. 30/07/2026 (стр. 1–4). ⚠️ Сумма proforma **266 012,39 EUR** ≠ заявленной в xlsx **140 753,94 EUR** — уточнить, что именно платим (часть/депозит). | 📄 01.10.2026 (📨 Ордера и Расчеты, подпись «**Payment from INTEGRA❗️**») — **ордер на платёж**: Beneficiary **Babyliss sarl – Division PRO** (Arcs de Seine 18-20, Quai du Point du Jour, FR-92100 Boulogne-Billancourt), банк **J.P. Morgan**, SWIFT **CHASNL2X**, счёт **NL77CHAS0626002453**; Payment details **Invoice 9230029125 dd 29.07.26**; Amount **140 753,94 EUR**; **OUR**. ✅ Компания-плательщик = **INTEGRA** → цвет 🔴 → ⬜ (Step 3). | ✅ 01.10.2026 (Scream): **140 753,94 EUR — правильная сумма заявки** (полная proforma 9230029125 = 266 012,39 EUR — справочно, не заявка). Строка стоит верно. | 📈 01.10.2026 (📨 Ордера и Расчеты — скрин конвертера валют) — **курс EUR→USD: 1,00 EUR = 1,12836576 USD** (mid-market, 11:34 UTC): **€140 754,00 ≈ $158 821,99** (для r33). ⏳ Жду расчёт (как по r202/r203: USD / 0,997 → USDT → × 83,5588 / 0,995 → ₽), затем проставлю поле. | 📄 01.10.2026 (📨 Платежные Поручения, файл «INTEGRA_TRADE_LIMITED_MT73CFTE28004000000000005739981…pdf») — **TRANSACTION CONFIRMATION / PAYOUT** (01.10.2026, 11:38:22 UTC; account MT73CFTE28004000000000005739981): Company **INTEGRA TRADE LIMITED** → Payer/Recipient **Babyliss sarl - Division PRO** (IBAN NL77CHAS0626002453), Reference **Invoice 9230029125 dd 29.07.26**, Amount **−140 753,94 EUR**, тип SEPA, **Status: INITIATED** → цвет ⬜ → 🟡. Ждём EXECUTED → 🟢. | ✏️ 01.10.2026 (Scream: «а почему дубль последние две строки?») — строка-33 признана той же сделкой (дубль), слита сюда и удалена. Перенесено из неё: 💰 приход **+159 616,04 USDT** (Рабочий 4, из `TC4CXbtM8WKF…`, txid `4768d5cc5baa2e70f692f3b6bb93b061b7541ec98bd284514f77ea3b2fb9dc2f`, 01.10.2026 11:49:57 UTC) — фондирование этой заявки (Scream: «под €140 753,94»); строка-дубль была «восстановлена после отката data_konstantin.json конкурентным sync». | ✏️ 01.10.2026 (Scream: «там уже был приход USDT — почему не проставилось?»): приход **+159 616,04 USDT** перенесён в поле `received_usdt` — раньше он был только в тексте примечания: скрипт привязки записал приход в notes, но поле не тронул, а `wallet-record.js` в строки таблиц не пишет и `under_deal` не ставит. | 🧮 01.10.2026 (Scream, 📨 Ордера и Расчеты): себестоимость по ордеру INTEGRA → Babyliss (Invoice 9230029125, 140 753,94 EUR): 158 821 / (1-0,3%) = 159 298,897 USDT. | 🛡️ 01.10.2026: движение OUT 159298.897 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:32). | 📄 07.10.2026 (📨 Платежные Поручения, файл «INTEGRA_TRADE_LIMITED_MT73CFTE28004000000000005739981_fc165938_ca7e.pdf») — **TRANSACTION CONFIRMATION / PAYOUT** по той же сделке (account MT73CFTE28004000000000005739981, дата 01.10.2026 11:38:22 UTC; документ создан 07.10.2026 09:25 UTC): Company **INTEGRA TRADE LIMITED** → Payer/Recipient **Babyliss sarl - Division PRO** (IBAN NL77CHAS0626002453), Reference **Invoice 9230029125 dd 29.07.26**, Amount **−140 753,94 EUR**, тип SEPA, **Status: IN_PROGRESS** → остаётся 🟡 (жду EXECUTED → 🟢). | 🟢 08.10.2026 (📨 Платежные Поручения, файл «INTEGRA_TRADE_LIMITED_MT73CFTE28004000000000005739981_fc165938_ca7e.pdf») — **TRANSACTION CONFIRMATION PAYOUT / MT73** (Account MT73CFTE28004000000000005739981, создан 08.10.2026 12:02 UTC): Company **INTEGRA TRADE LIMITED** → **Babyliss sarl - Division PRO** (IBAN NL77CHAS0626002453), Invoice **9230029125 dd 29.07.26**, **−140 753,94 EUR**, Payment type **SEPA**, **Status: COMPLETED** (01.10.2026 11:38 UTC) → 🟡→🟢.",
     "calc": null,
-    "rowId": "kon-000032"
+    "rowId": "kon-000032",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-01",
+      "ref": "notes: Company **INTEGRA",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 2,
@@ -37,7 +45,15 @@
     "sent_usdt": 28121,
     "notes": "📄 05.10.2026 (📨 Ордера и Расчеты ! — «**Payment from ALTERA❗️**», вложение «INV 24 951,07 EUR.pdf») — **ОРДЕР/ЗАЯВКА**: Beneficiary **AlteVia OU** (17-51 Tammepõllu tee, 74001 Haabneeme, Estonia); Beneficiary Bank **Coop Pank AS** (Maakri 30, Tallinn 15014), SWIFT **EKRDEE22**, Account **EE794204278622781603**; Payment details **INV.260363 dd 05.10.26**; Amount **24 951,07 EUR**; **OUR**. Вложенный PDF — **INVOICE nr 260363** dd 05.10.2026: Seller **AlteVia OÜ** → Buyer **ALTERA LOGISTICS LIMITED** (Company number 17015210, International House, 55 Longsmith Street, Gloucester, GL1 2HT, UK); позиция Musical instruments 1 pcs × 24 951,07; **TOTAL 24 951,07 EUR**, VAT 0%; Due date **14.10.2026**. Компания (E) = **ALTERA** (из «Payment from ALTERA»); линия AlteVia/ALTERA — Константин (ср. r14 инвойс 260330, r25 инвойс 260352). Сумма ордера = сумме инвойса; check-all-tables по 24 951,07 / 260363 — совпадений нет. Цвет ⬜ (Step 3, компания известна). Расчёт себестоимости — ждём от Scream. | 💱 05.10.2026 (📨 Ордера и Расчеты ! — скрин конвертера валют) — **кросс-курс EUR→USD = 1,11913143** (mid-market, 14:09 UTC): **€24 951,00 ≈ $27 923,44** (для этой строки, 24 951,07 EUR). Курс в calc (в notes), не в costFormula. | 💵 05.10.2026 (Scream: «**Под 24 951,07**») — приход **28 163,14 USDT** (Bobr IN на Рабочий 4 от `TWhNDpeuaQaB4F9Bj6QqL9xZ7LLadcAtd5`, 14:26 UTC; подтверждён скрином из 📨 Константин Просто Группа). `received_usdt = 28163.14` — под эту заявку (ALTERA/AlteVia, INV.260363, 24 951,07 EUR). Леджер `IN_28163.14_05.10.2026` (txid 20d5a868…4db25, q9_sent). | 💸 05.10.2026 (📨 Ордера и Расчеты !) — **заказ на выплату USDT** по сделке (24 951,07 EUR): база **27 923 USD** (= 24 951,07 EUR × 1,11913143) → **27 923 / (1-0,35%) + 100 = 28 121 USDT**; адрес выплаты (TRON) `TMkzhMw4inoWfbZjxj5BhEXBpjzQ32aDat`. `sent_usdt` = 28121. | 🛡️ 05.10.2026: движение OUT 28121 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:33). | ✅ 12.10.2026 (📨 Платежные Поручения, файл «ALTERA_LOGISTICS_LIMITED_MT18CFTE28004000000000005856595_45d232e2.pdf») — **TRANSACTION CONFIRMATION / PAYOUT**, Account **MT18CFTE28004000000000005856595**, Company **ALTERA LOGISTICS LIMITED**: Payer/Recipient **AlteVia OU** (IBAN EE794204278622781603), Reference **INV.260363 dd 05.10.26**, Amount **-24 951,07 EUR**, Payment type SEPA, **Status: COMPLETED** (payout 05.10.2026 16:09 UTC; документ создан 12.10.2026 07:07 UTC) → 🟡→🟢.",
     "calc": "ТЕЗ",
-    "rowId": "kon-000033"
+    "rowId": "kon-000033",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-05",
+      "ref": "notes: Company **ALTERA",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 3,
@@ -57,7 +73,15 @@
     "sent_usdt": 77650.32,
     "notes": "📄 07.10.2026 (📨 Константин Просто Группа, файл «137-2026 (1).pdf»; пометка «Платит **_Terustav_**») — **INVOICE AND PACKING LIST № 137-2026 от 15.08.2026** (Тип 1/4): Company **PT GEDE ARTHA SAMUDRA** (Jalan Raya Kenderan, Desa/Kelurahan Kenderan, Kec. Tegallalang, Kab. Gianyar, Provinsi Bali; TIN 626417125907000; email pt.gas.id@gmail.com; Principal/Payment agent — Unit Level 9F(2), Main Office Tower, Financial Park Labuan, Jalan Merdeka, 87000 Federal Territory of Labuan, Malaysia); позиция 1 «electric goods», qty 1, unit price **77 164,000**, **Total all = 77 164,00 USD**; Terms of payment «within 180 days from date of invoice»; goods do not pass customs border of Indonesia. Банк получателя **PT. BANK RAKYAT INDONESIA (PERSERO), TBK** (BRI I Building, Jalan Jenderal Sudirman 44-46), SWIFT **BRINIDJA**, счёт USD **055602000043300**; корр. банки: SCBLUS33, IRVTUS3N, CITIUS33, BRINUS33, BOFAUS3N, OCBCSGSG, CZNBKRSE, BRINSGSG. Подписант: I Wayan Joni Ariawan, Director. Компания-плательщик — **Terustav** (пометка владельца «Платит Terustav») → Step 3 ⬜. Клиент **Константин (Просто группа)**. Расчёт не-Q8 — ждём от Scream. | 📄 07.10.2026 (📨 Константин Просто Группа, файл «77164 USD (07.10.2026).xlsx» — форма **заявки** на платёж) — тот же платёж, что инвойс 137-2026 (строка одна, новую НЕ создаём): Сумма **77164 USD**; банк бенефициара **PT. BANK RAKYAT INDONESIA (PERSERO), TBK** (BRI I Building, Jalan Jenderal Sudirman 44-46), счёт USD **055602000043300**, SWIFT **BRINIDJA**; бенефициар **PT GEDE ARTHA SAMUDRA**, страна **Indonesia** (Jalan Raya Kenderan, Desa/Kelurahan Kenderan, Kec. Tegallalang, Kab. Gianyar, Provinsi Bali); назначение платежа «**invoice N: 137-2026 dd 15/08/26 for electric goods**». Итог совпадает с инвойсом (77 164,00 USD). | 📄 07.10.2026 (📨 Константин Просто Группа, файл «137-2026 (1) (1)-2.pdf» — завершённая версия инвойса) — та же сделка (строка одна): в поле **Principal** указан **Terustav Trade Limited** (Unit Level 9F(2), Main Office Tower, Financial Park Labuan, Jalan Merdeka, 87000 Federal Territory of Labuan, Malaysia) → подтверждает плательщика (пометка владельца «Платит Terustav»). Остальное без изменений: PT GEDE ARTHA SAMUDRA, 77 164,00 USD, BRI/BRINIDJA, счёт 055602000043300. | 🛡️ 07.10.2026: движение IN 77881.31 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:34). | 📄 07.10.2026 (📨 Ордера и Расчеты !, подпись «**Payment from TERUSTAV❗️**» + файл «INV 77 164,00 USD.pdf») — **заявка/ордер на платёж (Тип 4)**: Beneficiary **PT GEDE ARTHA SAMUDRA** (Megumi Bali Advisor, Banjar Tengah Manuaba, Jalan Raya Kenderan, Desa/Kelurahan Kenderan, Kec. Tegallalang, Kab. Gianyar, Provinsi Bali, Indonesia; TIN 626417125907000); Beneficiary Bank **PT. BANK RAKYAT INDONESIA (PERSERO), TBK** (BRI I Building, Jalan Jenderal Sudirman 44-46), SWIFT **BRINIDJA**, счёт **055602000043300**; Payment details «**invoice 137-2026 dd 15.08.26**»; Amount **77 164,00 USD**; **OUR**. Приложенный инвойс «INV 77 164,00 USD.pdf» = **INVOICE AND PACKING LIST N: 137-2026 dd 15.08.2026**: Principal / Payment agent **Terustav Trade Limited** (Unit Level 9F(2), Main Office Tower, Financial Park Labuan, Jalan Merdeka, 87000 Federal Territory of Labuan, Malaysia) → PT GEDE ARTHA SAMUDRA; 1 «electric goods» × 77 164,000 = **77 164,00 USD**; correspondent banks (SCBLUS33 / IRVTUS3N / CITIUS33 / BRINUS33 / BOFAUS3N / OCBCSGSG / CZNBKRSE / BRINSGSG); условия «within 180 days from date of invoice»; товар не пересекает таможенную границу Индонезии; директор I Wayan Joni Ariawan. ✅ Та же сделка, что строка (137-2026, 77 164 USD, PT GEDE ARTHA SAMUDRA) — новая строка НЕ создаётся; компания **TERUSTAV** подтверждена (Step 3), строка уже ⬜. `received_usdt` = 77 881,31 (Bobr-приход 07.10.2026). | 🧮 07.10.2026 (📨 Ордера и Расчеты !, Scream: «**(77 164,00 USD + 100) * 1,005 = 77650**», кошелёк получателя `TGT62Z8UgnJmZbSjUF2ijB4ZJV2URu3hxw`): формула себестоимости проставлена — `costFormula` = (77 164,00 + 100) × 1,005 = **77 650,32 USDT**, `sent_usdt` = 77 650,32, `calc` = ТЕЗ. | 🟡 08.10.2026 (📨 Платежные Поручения, файл «7716400USD.pdf») — **CIMB Bank Foreign Transfer Acknowledgement — «Submitted for approval»** (Ref No. **MFT2610080037470**, Submitted On 08 Oct 2026 20:12:21 MYT): Sender **USD TERUSTAV TRADE LIMITED-860620060240** → Beneficiary **PT GEDE ARTHA SAMUDRA** (a/c 055602000043300, Non Malaysian Resident, Indonesia; Megumi Bali Advisor, Banjar Tengah, Manuaba, Jalan Raya Kenderan, Bali) — **77 164,00 USD**, Invoice 137-2026, Payment Mode Foreign Transfer. Статус = подвешено (submitted, не исполнено) → ⬜→🟡. | 📄 15.10.2026 (📨 Константин Просто Группа, файлы «140-2026.pdf», «141-2026.pdf», «77164 USD (07.10.2026).xlsx», текст «Можно платить. Это 77») — INVOICE AND PACKING LIST №140-2026 и №141-2026 от 09.10.2026 (PT GEDE ARTHA SAMUDRA; Principal TRUSTBRIDGE TRADING INTERNATIONAL- FZCO, UAE; BRI, SWIFT BRINIDJA, счёт 055602000043300): electric goods; сумма обеих = сумме этой сделки (77 164,00 USD). Повторно прислана форма заявки «77164 USD» (назначение «invoice N: 137-2026 dd 15/08/26 for electric goods»; бенефициар PT GEDE ARTHA SAMUDRA, BRI/BRINIDJA, счёт 055602000043300) — та же сделка, стр. 3. «Можно платить» (green-light владельца). ⚠️ Principal на 140/141 (TRUSTBRIDGE TRADING INTERNATIONAL- FZCO, UAE) ≠ Terustav (Labuan) на 137-2026 — компанию уточнить. | 🏦 15.10.2026 (📨 Платежные Поручения, файл «77164_usd.pdf» — «View Single Payment Report», читал текстовый слой) — банковский отчёт по платежу 77 164,00 USD: Company TRUSTBRIDGE TRADING INTERNATIONAL F ZCO (127095 DSO - IFZA, IFZA Properties Dubai Silicon Oasis, Dubai, UAE; компании 1034026522002, USD); Client PT GEDE ARTHA SAMUDRA; банк получателя PT BANK RAKYAT INDONESIA PERSERO TBK (10010 Jakarta), BIC BRINIDJAXXX; International Transfer USD, Charge To OUR, Entered By VIKTAR VERAMYEU; Report 15/10/2026 14:20:24. Аудит: 14:16:38 Open → 14:18:29 Submitted → 14:20:11 Approved → 14:20:12 Sent to Bank. Статус = **Sent To Bank** (не EXECUTED) → строка остаётся 🟡. ⚠️ Плательщик по банковскому отчёту = TRUSTBRIDGE TRADING INTERNATIONAL F ZCO (UAE), а company строки — Terustav (Labuan): сверить компанию. | 📄 16.10.2026 (📨 Платежные Поручения, файл «USD77164,00_sw.pdf») — **SWIFT MT103** (ref OTT1034/26/36522; :32A 261015 USD 77 164,00; :23B CRED; :71A OUR): Sender **UARBAEAAAXXX** → Receiver **IRVTUS3NXXXX**; Ordering :50K **TRUSTBRIDGE TRADING INTERNATIONAL FZCO** (AE170460001034026522002, DSO-IFZA, Dubai Silicon Oasis); :57A **BRINIDJAXXX**; Beneficiary :59 /055602000043300 **PT GEDE ARTHA SAMUDRA** (Jalan Raya Kenderan, Tegallalang, Indonesia); :70 «INV 140 141 2026 DD 09.102.26». Та же сделка, что r3 (PT GEDE ARTHA SAMUDRA, 77 164 USD, инвойсы 140/141-2026) — новую строку не создаю. MT103 = исполнение → 🟢. ⚠️ плательщик в MT103 — Trustbridge Trading Intl FZCO, а в строке company «Terustav» — уточнить.",
     "calc": "ТЕЗ",
-    "rowId": "kon-000034"
+    "rowId": "kon-000034",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-07",
+      "ref": "notes: компания **TERUSTAV",
+      "backfill": true
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 4,
@@ -89,7 +113,15 @@
         "rowId": "kon-000035"
       }
     ],
-    "rowId": "kon-000035"
+    "rowId": "kon-000035",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-07",
+      "ref": "notes: Company INTEGRA",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 5,
@@ -121,7 +153,15 @@
         "rowId": "kon-000036"
       }
     ],
-    "rowId": "kon-000036"
+    "rowId": "kon-000036",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": "2026-10-07",
+      "ref": "notes: компания Integra",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 6,
@@ -159,7 +199,15 @@
         "amount": 19735.72,
         "rowId": "kon-000037"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-08",
+      "ref": "notes: Company **VELLORA",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 7,
@@ -197,7 +245,15 @@
         "amount": 35367.76,
         "rowId": "kon-000038"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 8,
@@ -230,7 +286,15 @@
         "amount": 14427.99,
         "rowId": "kon-000039"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-09",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 9,
@@ -284,7 +348,15 @@
     "sent_usdt": 179920,
     "notes": "📄 12.10.2026 (📨 Константин Просто Группа, файл «Babyliss_160_317_00_EUR.xlsx») — **реквизиты платежа / заявка на оплату**: Beneficiary **BABYLISS SARL** (18-20 quai du Point du Jour, 92100 Boulogne-Billancourt, France; www.babyliss.com); банк **J.P. Morgan SE - Amsterdam Branch** (WTC Tower B, Strawinskylaan 1135, 1077 XX Amsterdam, The Netherlands), SWIFT **CHASNL2X**, счёт **NL77CHAS0626002453**; Amount **160 317,00 EUR**; Details of payment: «**Payment for Order confirmation 7030128902 dd 06.10.26, payer N 235723 for home appliances**»; HS Code 8516320000, 8516310000, 8510200000. Компания-плательщик в документе НЕ названа → 🔴 (Step 0). В назначении указан ордер **7030128902** (см. Константин r10 — PI того же номера, 180 900,20 USD) — связь уточнить у владельца. | 📄 12.10.2026 (📨 Ордера и Расчеты !, «**Payment from INTEGRA❗️**» + файл «INV 160 317,00 EUR.pdf») — **ордер/заявка на платёж (Тип 4)**: Beneficiary **Babyliss sarl - Division PRO** (Arcs de Seine, 18-20, Quai du Point du Jour, FR-92100 Boulogne-Billancourt), банк **J.P. Morgan SE - Amsterdam Branch**, SWIFT **CHASNL2X**, счёт **NL77CHAS0626002453**; Payment details «Payment for Order confirmation 7030128902 dd 06.10.26, payer N 235723»; Amount **160 317,00 EUR**; **OUR**. Компания-плательщик **INTEGRA** → ⬜ (Step 3). Приложен PI № (OC) 7030128902 (8 стр., BaByliss) — тот же ордер, что PI в r10. | 📄 12.10.2026 (📨 Платежные Поручения, файл «INTEGRA_TRADE_LIMITED_MT73CFTE28004000000000005739981...pdf») — **TRANSACTION CONFIRMATION — PAYOUT** (INTEGRA TRADE LIMITED; Account Number **MT73CFTE28004000000000005739981**): 12.10.2026 10:02:16 UTC; Recipient **Babyliss sarl - Division PRO** (IBAN NL77CHAS0626002453); Reference «Payment for Order confirmation 7030128902 dd 06.10.26, payer N 235723»; Amount **−160 317,0 EUR**; Payment type **SEPA**; **Status: INITIATED**. Платёж запущен → ⬜→🟡 (жду EXECUTED/SWIFT-подтверждение → 🟢). |  | 💸 12.10.2026 (📨 Ордера и Расчеты !) — заказ на выплату USDT: `TZ9ddZJkx5mJSbP8P3omdoz1YcncJquWUy`; (160 317,00 EUR) 179 380 / (1 − 0,3%) = **179 920 USDT**. sent_usdt = 179 920.",
     "calc": "ТЕЗ",
-    "rowId": "kon-000042"
+    "rowId": "kon-000042",
+    "companySource": {
+      "source": "order",
+      "date": "2026-10-12",
+      "ref": "notes: Компания-плательщик **INTEGRA",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 11,
@@ -317,7 +389,15 @@
         "amount": 55589.12,
         "rowId": "kon-000043"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-12",
+      "ref": "notes: Payer Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 12,
@@ -371,7 +451,15 @@
     "sent_usdt": 39535,
     "notes": "📄 13.10.2026 (📨 Константин Просто Группа, подпись «Платит Surya»; файлы «13102026-PT-Surya-Bahari-Global.pdf» — INVOICE + «Maggeta 39200.xlsx» — форма реквизитов) — **Заявка (Тип 4)**: INVOICE **#13102026** dd 13/10/2026 (Maggeta FZ-LLC, License 2204290.01, M Floor, Business Center 1, The Meydan Hotel, Nad Al Sheba, Dubai, UAE → Bill To **PT Surya Bahari Global**, Jakarta): «Payment for Marketing Service Agreement dated 02.09.2026, for the period September 2026 to October 2026» — Total **$39 200,00**. Реквизиты (форма Maggeta 39200): Beneficiary **Maggeta L.L.C-FZ**, IBAN **AE780860000009581091313**, BIC **WIOBAEADXXX** (WIO, Etihad Airways Centre, Abu Dhabi). Компания-плательщик **SURYA** → ⬜. Совпадений по 39 200 / Maggeta в 5 таблицах нет — заведена новая строка. | 🧾 13.10.2026 (Scream, FINIVEST AI): удержание **39 613,6 USDT** (движения Константин (Просто группа): IN 396 613,6 − OUT 357 000) — под заявку **39200** (эта строка). received_usdt = 39613.6. | 📄 13.10.2026 (📨 Ордера и Расчеты !, подпись «Payment from Surya❗️», файл «INV 39 200,00 USD.pdf») — **Заявка/ордер на платёж**: Company **SURYA**; Beneficiary **Maggeta FZ-LLC / MAGGETA L.L.C-FZ** (Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E); Bank **WIO** (Etihad Airways Centre 5th Floor, Abu Dhabi, UAE), IBAN **AE780860000009581091313**, SWIFT/BIC **WIOBAEADXXX**; Payment details «invoice 13102026 dd 13.10.26»; Amount **39 200,00 USD**; OUR. Та же заявка, что r14 (Константин (Просто группа), 39 200 USD, SURYA → Maggeta). | 🧾 13.10.2026 (Scream, 📨 Ордера и Расчеты !): расчёт по заявке 39200 (SURYA → Maggeta): **39 200,00 USD + 0,6% + swift 100$ = 39 535 USDT**. Адрес для отправки USDT: `TTjayuotg5s4iABpWPXYCzdNYGqR6kTqKV`. | MT103 Payment Confirmation (SWIFT Outgoing Telegraphic Transfer): | Sending BMRIIDJAXXXX → Receiving CITIUS33XXXX | Ordering: /1450019194485 PT SURYA BAHARI GLOBAL JL TEBET RAYA NO.11 G1 RT 020 RW 002 TEBET INDONESIA | Beneficiary: /AE780860000009581091313 MAGGETA FZ-LLC BUSINESS CENTER 1, M FLOOR, THE MEY DAN HOTEL, NAD AL SHEBA, DUBAI, UNI TED ARAB EMIRATES | Settlement: 39200 USD | /INV/PAYMENT FOR MARKETING SERVICE UNDER INVOICE 13102026 DD 13.1 0.26 | Charge OUR | bankRef OPF1745963449 | → EXECUTED → 🟢 (mt103-classifier-guard)",
     "calc": "ТЕЗ",
-    "rowId": "kon-000046"
+    "rowId": "kon-000046",
+    "companySource": {
+      "source": "order",
+      "date": "2026-10-13",
+      "ref": "notes: Company **SURYA",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 14,
@@ -408,7 +496,15 @@
     "costSource": "operator",
     "costSourceRef": {
       "ref": "owner_instruction; Scream; батч Q8 14.10.2026; msg из notes строки"
-    }
+    },
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 15,
@@ -429,7 +525,15 @@
     "sent_usdt": 100500,
     "notes": "📄 14.10.2026 (📨 Константин Просто Группа, файл «100 000 USD (14.10.26).xlsx») — Заявка (форма «Необходимые данные для заявки»): Сумма платежа 100 000 USD; бенефициар DeLonghi Kenwood MEIA FZE (Jafza View Lob.18, Office no.1209, Downtown Jebel Ali, Dubai, UAE; PO Box 263338; TRN 100352486300003); банк EMIRATES NBD (AI Qusais Branch, Dubai, UAE), SWIFT EBILAEAD, счёт AE690260000514449097303; назначение «for household appliances, invoice no 90219949». | 📄 14.10.2026 (📨 Константин Просто Группа, подпись «Платит Surya», файл «90219949 PI 115798482 Surya LTD.pdf») — PRO-FORMA INVOICE № 90219949 dd 29.09.2026 (De' Longhi Kenwood MEIA FZE, Dubai → PT Surya Bahari Global, Jakarta; Order No 115798482): позиции SS BRAUN INT (T) 1526×130,90 = 199 753,40 + 1475×176,00 = 259 600,00; TOTAL INVOICE 459 353,40 USD; PAYMENT IN ADVANCE. Оплата частичная — заявка 100 000 USD (сумма приоритетнее инвойса, инвойс справочно). Компания-плательщик SURYA → ⬜ (Step 3). | 📄 14.10.2026 (📨 Ордера и Расчеты !, подпись «Payment from SURYA»; файл «INV 100 000,00 USD (5).pdf») — ОРДЕР/ЗАЯВКА на платёж: Company SURYA; Beneficiary DE LONGHI KENWOOD MEIA FZE (Jafza View 18, LOB 1209, Downtown Jebel Ali, Dubai, UAE, PO Box 263338); Bank EMIRATES NBD (Al Qusais Branch, Dubai, UAE), SWIFT EBILAEAD, Account AE690260000514449097303; Payment details «INV 90219949 dd 29.09.26»; Amount 100 000,00 USD; OUR. Вложение — PRO-FORMA INVOICE № 90219949 dd 29.09.2026 (De' Longhi Kenwood MEIA FZE → PT Surya Bahari Global; Order No 115798482; TOTAL INVOICE 459 353,40 USD; PAYMENT IN ADVANCE). Та же сделка, что строка 17 — компания SURYA подтверждена, новую строку не создаю. | 💰 14.10.2026: Bobr IN 100 800 USDT (Рабочий 4 ← TX6kQeaQsy6bhGyHkuwKyYwodRDXtmYcP9) под заявку 100 000 (Scream); txid 4d96e7ab… | 🛡️ 14.10.2026: движение OUT 100500 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:16). | MT103 Payment Confirmation (SWIFT Outgoing Telegraphic Transfer): | Sending BMRIIDJAXXXX → Receiving IRVTUS3NXXXX | Ordering: PT SURYA BAHARI GLOBAL | Beneficiary: DE LONGHI KENWOOD MEIA FZE | Settlement: 100000 USD | INV 90219949 | bankRef OPF1747973586 | → EXECUTED → 🟢 (mt103-classifier-guard) | 📄 15.10.2026 (📨 Константин Просто Группа, файл «100 000 USD (15.10.26).xlsx») — повторная заявка (форма «Необходимые данные для заявки») по ТОЙ ЖЕ сделке: Сумма платежа 100 000 USD; бенефициар DeLonghi Kenwood MEIA FZE; банк EMIRATES NBD (AI Qusais Branch, Dubai, UAE), SWIFT EBILAEAD, счёт AE690260000514449097303; назначение «for household appliances, invoice no 90219949». Совпадает с заявкой от 14.10.26 и с исполненным MT103 (ref OPF1747973586) — строка одна, новую не создаю. | 💸 15.10.2026 (📨 Ордера и Расчеты !) — ордер на оплату: **100 000 + 0,5% = 100 500 USDT**; кошелёк получателя **TB3o8hSibTRFr52pJ3bxg97qDC8fXFqoAC**. Соответствует сделке строки (100 000 USD, SURYA / DeLonghi, costFormula «100 000 + 0,5% = 100 500 USDT», sent_usdt = 100 500). | 📄 16.10.2026 (📨 Константин Просто Группа, файл «90219949 PI 115798482 Surya LTD (1).pdf») — **PRO-FORMA INVOICE № 90219949 dd 29.09.2026** (эмитент **De' Longhi Kenwood MEIA FZE**, Jafza View Lob.18, Office 1209, Downtown Jebel Ali, Dubai, TRN 100352486300003): Buyer **PT Surya Bahari Global** (Jalan Tebet Raya No 11G, Jakarta Selatan); Order No. **115798482**; Agent Invoice No. 90219949; Tax Reg. 697497; Terms EX WORKS, PAYMENT IN ADVANCE; позиции SS BRAUN INT (T): 1526 шт × 130,90 = 199 753,40 USD + 1475 шт × 176,00 = 259 600,00 USD; **TOTAL INVOICE 459 353,40 USD**; доставка PT Surya Bahari Global; expiry 29.09.2026. Инвойс **справочно** к заявке на 100 000 USD — сумму строки берём из ордера, не из PI; новую строку не создаю. | 🛡️ 16.10.2026: движение OUT 100500 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:15).",
     "calc": "ТЕЗ",
-    "rowId": "kon-000049"
+    "rowId": "kon-000049",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-14",
+      "ref": "notes: компания SURYA",
+      "backfill": true
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 16,
@@ -450,7 +554,15 @@
     "sent_usdt": 40677.02,
     "notes": "📄 14.10.2026 (📨 Константин Просто Группа, файл «Invoice 260341+FV2026 10 006 Simba.pdf») — INVOICE № 260341 + FV2026/10/006 от 01.10.2026: продавец SIMBA sp. z o.o. (6-32 Warszawska str, 15-063 Białystok, Polska; KRS 0000998113; NIP 9662169458; VAT PL9662169458; EORI PL966216945800000); банк PKO Bank Polski SA, SWIFT BPKOPLPW, счёт PL81102013320000170213951068; Покупатель ALTERA LOGISTICS LIMITED (Company number 17015210, International House, 55 Longsmith Street, Gloucester, GL1 2HT, UK); позиция Sport equipment 1 pcs — 36 130,50 EUR; VAT 0,00; ИТОГО 36 130,50 EUR; Due date 20.10.2026. Компания = покупатель ALTERA → ⬜; расчёт себестоимости жду от Scream. | 📄 14.10.2026 (📨 Константин Просто Группа, файл «Simba_36_130_50_EUR.xlsx» — форма реквизитов) — реквизиты платежа к инвойсу 260341 + FV2026/10/006: Beneficiary SIMBA SP. Z O.O. (6-32, Warszawska str, 15063 Białystok, Poland), банк PKO Bank Polski SA (Poland), SWIFT BPKOPLPW, счёт PL81102013320000170213951068; Amount 36 130.50 EUR; Details of payment «Payment for invoice 260341 + FV2026/10/006 dd 01.10.2026 for sport equipment». Та же сделка, что строка 18 — новую строку не создаю. | 📄 14.10.2026 (📨 Ордера и Расчеты !, подпись «Payment from ALTERA ‼»; файл «INV 36 130,50 EUR.pdf») — ОРДЕР/ЗАЯВКА на платёж: Company ALTERA; Beneficiary SIMBA sp. z o.o. (6-32, Warszawska str, 15063 Białystok, Polska); Bank PKO Bank Polski SA, SWIFT BPKOPLPW, Account PL81102013320000170213951068; Payment details «invoice 260341 + FV2026/10/006 dd 01.10.2026»; Amount 36 130,50 EUR; OUR. Та же сделка, что строка 18 — компания ALTERA подтверждена, новую строку не создаю. | 📈 14.10.2026 (📨 Ордера и Расчеты !, скриншот конвертера) — кросс-курс EUR/USD = 1.11915685 (Mid-market rate at 10:50 UTC): 36 130,00 EUR = 40 435,13 USD — по инвойсу 260341 + FV2026/10/006 (SIMBA/ALTERA). Записан в notes; в столбец calc (D) не пишу — там только маркер. | 📄 14.10.2026 (📨 Платежные Поручения, файл «ALTERA_LOGISTICS_LIMITED_MT18CFTE28004000000000005856595_bc890563.pdf») — TRANSACTION CONFIRMATION / PAYOUT (счёт MT18CFTE28004000000000005856595): 14.10.2026 11:54 UTC; Company ALTERA LOGISTICS LIMITED → SIMBA sp. z o.o. (IBAN PL81102013320000170213951068); Amount −36 130,50 EUR; Payment type SEPA; reference «Invoice 260341 + FV2026/10/006 dd 01.10.2026». Status: **INITIATED** → строка ⬜→🟡 (жду EXECUTED → 🟢). | 💸 14.10.2026: приход 40 737,88 USDT (Bobr IN, Рабочий 4 ← TWNpTxj…fW4, клиент Константин, txid d2c8ea2e…b37b7) под заявку 36 130,50 EUR (SIMBA/ALTERA) — по указанию Scream; received_usdt = 40 737,88. | 📷 14.10.2026 (📨 Константин Просто Группа, скриншот кошелька) — квитанция: «Отправлено −40 737,88 USDT», 14.10.2026 14:54, статус Завершено, получатель TKrAyP…WjDri (Рабочий 4) — подтверждение прихода 40 737,88 USDT под заявку 36 130,50 EUR (received_usdt = 40 737,88). | себестоимость по сделке SIMBA/ALTERA (36 130,50 EUR → 40 435 USD) — Mike VDX 14.10.2026; кошелёк TZ9ddZJkx5mJSbP8P3omdoz1YcncJquWUy. | 🛡️ 14.10.2026: движение OUT 40677.02 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:17).",
     "calc": null,
-    "rowId": "kon-000050"
+    "rowId": "kon-000050",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-14",
+      "ref": "notes: Company ALTERA",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 17,

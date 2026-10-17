@@ -77,7 +77,15 @@
     "sent_usdt": 35310,
     "notes": "📄 01.10.2026 (📨 Цветы, файл «SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A. 35000.docx») — **форма реквизитов / заявка на платёж**: Amount **35 000 USD**; Beneficiary **SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A.** (Av Medardo Silva S4-186 y Aurora Estrada); счёт **3076717604**; банк **Banco Pichincha C.A** (Amazonas y Pereira 4545), SWIFT **PICHECEQ**; Reg. number **1791739191001**; директор (подписант) **Jaime Durango**. Intermediary bank / transaction costs / details — не указаны. Step 0 🔴 — компания-плательщик и заявка/ордер ещё не пришли (линия Цветы; ср. flowers r4/r24 CEVA FREIGHT, r28 ALIANZA LOGISTICS — Q8, 35 000 USD). Ждём заявку. | 📄 01.10.2026 (📨 Цветы, файл «SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A. 35000.pdf» — скан, читал вижном) — **PRO-INVOICE № 10809** (SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC, International Cargo Services, Quito-Ecuador; Saftec Tax ID **1791739191001**): Bill To / Consignee **Q8 GROUP LIMITED** (Room A22, 10F, No. 52, Hung To Road, Kwun Tong, Hong Kong, Company Number 80242882); AWB **369-1153-5554**; AWB Date **2026-09-30**; Date of Payment **2026-09-30**; **AIR FREIGHT & HANDLING**, destination/airline **LA - AMS**, BOXES/FDE **207FB**, **WEIGHT 10 356,00 × RATE $3,38 = AMOUNT $35 000,00** (QUITO/Ecuador). Подписи: SAFTEC Sales (LILIYA MINGALIEVA) / SAFTEC Billing. **Transfer instructions: Banco de la Producción S.A. PRODUBANCO** (Av. Simón Bolívar SN y Vía Nayón Eko Park Torre 1, Quito), счёт **02054022645**, SWIFT **PRODECEQ**. ⚠️ Реквизиты отличаются от docx-формы (Banco Pichincha C.A, счёт 3076717604, SWIFT PICHECEQ) — уточнить у владельца, какие верны. Компания = **Q8** → ⬜ (Step 3). | ✏️ 01.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 35 000,00 + 0,3% + 30 = 35 135,00 USDT. | 📄 01.10.2026 (📨 Ордера и Расчеты, подпись «**Payment from ❗️**» + файл «INV 35 000,00 USD (3).pdf») — **ордер на платёж**: Beneficiary **SERVICIOS AEREOS ECUATORIANOS SAE SAF TEC S.A.** (Av Medardo Silva S4-186 y Aurora Estrada); банк **Banco Pichincha C.A.** (Amazonas y Pereira 4545), SWIFT **PICHECEQ**, счёт **3076717604**; Remark **inv. 10809 dd 30.09.26**; Amount **35 000,00 USD**; **OUR**. Приложен тот же PRO-INVOICE 10809 / AWB 369-1153-5554 (LA-AMS, 10 356,00 × $3,38) — в нём **transfer instructions на PRODUBANCO** (Banco de la Producción, счёт 02054022645, SWIFT PRODECEQ). ⚠️ Расхождение сохраняется: **ордер → Pichincha (3076717604 / PICHECEQ)**, **инвойс → PRODUBANCO (02054022645 / PRODECEQ)**. Компания-плательщик в ордере не названа («Payment from ❗️») — строка остаётся **Q8**. | ✏️ 01.10.2026 (Scream: «строка 4 — компания Surya»): company = SURYA (было Q8), плательщик по ордеру — SURYA (Q8 на праздниках → платили с других компаний, ср. r92). | ✏️ 01.10.2026 (Scream: «в строках не Q8 стоит расчёт по Q8»): Q8-расчёт (0,3% + 30) снят — company=SURYA. Формула себестоимости SURYA ждёт подтверждения владельца. | ✏️ 01.10.2026 (Scream: «в строках не Q8 стоит расчёт по Q8»): Q8-тариф (0,3% + 30) заменён на SURYA-тариф (0,5%, без +30) — 35 000,00 + 0,5% = 35 175,00 USDT (тариф SURYA из строк Константина K16/K19/K23/K30). | 🧮 01.10.2026 (📨 Ордера и Расчеты: «35 000,00 USD + 0,6% + 100 = **35 310 usdt**») — `sent_usdt = **35 310**` (было 35175). | ✏️ 01.10.2026 (Scream, forward от M.N.): тариф SURYA = сумма + 0,6% + 100 — 35 000,00 + 0,6% + 100 = 35 310 USDT. | MT103 Payment Confirmation (SWIFT Outgoing Telegraphic Transfer): | Sending BMRIIDJAXXXX → Receiving SCBLUS33XXXX | Ordering: /1450019194485 PT SURYA BAHARI GLOBAL JL TEBET RAYA NO.11 G1 RT 020 RW 002 TEBET INDONESIA | Beneficiary: /02054022645 SERVICIOS AEREOS ECUATORIANOS SAE S AF TEC S.A. AV MEDARDO SILVA S4-186 Y AURORA ES | Settlement: 35000 USD | /INV//INV/10809 | Charge OUR | bankRef OPF1733960489 | → EXECUTED → 🟢 (mt103-classifier-guard)",
     "calc": null,
-    "rowId": "flw-000091"
+    "rowId": "flw-000091",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": "2026-10-01",
+      "ref": "notes: company=SURYA",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 5,
@@ -118,7 +126,15 @@
     "notes": "📄 05.10.2026 (📨 Цветы, файл «A BLOEMEN 75.941,92.docx» — форма реквизитов) — **реквизиты / заявка на платёж**: Amount **75 941,92**; Currency **Euro**; Beneficiary **A-BLOEMEN EN PLANTEN EXPORT BV** (Middel Broekweg 29, Unit 16, 2675KB Honselersdijk, Nederland); Account/IBAN **NL16 INGB 0009 3461 67**; Beneficiary Bank **ING** (AMSTERDAM, NEDERLAND); SWIFT **INGBNL2A**; Registration number **75454025**; VAT **NL860288808B01**; Director (signer) **Leanca Anatoli**. Компания-плательщик в документе не названа → 🔴 Step 0 (ждём заявку/компанию). check-all-tables по 75941.92 / A-BLOEMEN — совпадений нет (новая сделка).  | 📄 05.10.2026 (📨 Цветы, файл «P.pdf» — скан, читал вижном) — **INVOICE** (A-Bloemen en Planten Export B.V., Middel Broekweg 31A, 2675KC Honselersdijk, Nederland; IBAN NL16 INGB 0009 3461 67, ING BANK, SWIFT INGNL2A, BTW NL860288808B01, KVK 75454025) → **Customer Trans Logistik 1002 GmbH** (Urbanstrasse 84, 10967 Berlin, Duitsland; DE456959087): Invoice date **02-10-2026**, External Reference OrdNr **P**; позиция «**Prepayment For Cut Flowers**» — **75 941,92 EUR** (BTW 0,00 %). Проштампован/подписан. = инвойс-основание к форме реквизитов «A BLOEMEN 75.941,92.docx» (та же сделка, та же сумма 75 941,92 EUR) — новая строка не создаётся. Компания-плательщик не названа → строка остаётся 🔴 (Step 0). | 📄 05.10.2026 (📨 Ордера и Расчеты) — **Payment from TRANS LOGI❗️** (ордер на платёж): Beneficiary **A-BLOEMEN EN PLANTEN EXPORT BV** (Middel Broekweg 29, Unit 16, 2675KB Honselersdijk, Nederland); Beneficiary bank **ING** (AMSTERDAM, NEDERLAND), SWIFT **INGBNL2A**, Account **NL16 INGB 0009 3461 67**; Payment details **INVOICE dd 02.10.26**; Amount **75 941,92 EUR**; **OUR**. Компания-плательщик названа (TRANS LOGI) → Step 3, ⬜. Та же сделка, что инвойс A-Bloemen (Customer Trans Logistik 1002 GmbH, 02-10-2026, 75 941,92 EUR, Prepayment For Cut Flowers) — строка одна, новая не создаётся. | 📈 Кросс-курс EUR/USD = **1,12026** (XE.com, 05.10.2026 10:53 UTC; 1 USD = 0,89265 EUR) — справочно к EUR-сделке TRANS LOGI/A-BLOEMEN. Компания не Q8 → расчёт себестоимости только от Scream. | 🎙 05.10.2026 (Scream, voice, reply на расчёт): «всё правильно, это расчёт себестоимости; платим этот платёж через Translogistik; я USDT под него отправил» — Bobr OUT 85 376,62 USDT подтверждён как оплата ЭТОЙ сделки (строка 5). | 🛡️ 05.10.2026: движение OUT 85376.62 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:94). | 📄 05.10.2026 (📨 Цветы, файл «ONETEAMCARGO S.A. 30000,00.docx») — **SWIFT-инструкция** к тому же платежу (MT-поля): 59 Beneficiary Customer ONETEAMCARGO S.A.; адрес AV. 24 DE SEPTIEMBRE S/N Y PASAJE S/N; IBAN/счёт **12040835435**; банк **PRODUBANCO** (Ave Simón Bolívar S/N y Vía Nayón, Centro Corporativo Ekopark, Torre 1, Quito); 57 SWIFT **PRODECEQ**; 32A: **USD 30 000,00**; 71A **OUR**. Реквизиты совпадают с инвойсом 30092026 — новой строки не создаю. | 📄 05.10.2026 (📨 Платежные Поручения, файл «Transaction-Details_10-05-26.pdf») — **SEPA Credit transfer**: From account **Trans Logistik 1002 GmbH** (Postbank Business Giro aktiv, DE20 1007 0397 0084 1320 00) → **A-BLOEMEN EN PLANTEN EXPORT BV** (NL16 INGB 0009 3461 67, ING, INGBNL2AXXX); Amount **75 941,92 €**; Description «INVOICE dd 02.10.26»; PDF created 10/05/26. Подтверждает компанию-плательщика **TRANS LOGI** и сумму сделки. Цвет не меняю (банковского статуса не видно) — ⬜. | Статус «подвешенная ПП» (05.10.2026): Transaction-Details_10-05-26.pdf — SEPA Credit transfer (Trans Logistik 1002 GmbH, Postbank Business Giro aktiv DE20 1007 0397 0084 1320 00 → A-BLOEMEN EN PLANTEN EXPORT BV NL16 INGB 0009 3461 67, ING INGBNL2AXXX), 75 941,92 EUR, Description «INVOICE dd 02.10.26», PDF created 10/05/26. Платёж отправлен/подвешен в банке (INITIATED, не исполнен) — ⬜→🟡. ⬜ по этой сделке завершён (TRANS LOGI); 🟢 — только по EXECUTED/MT103. | 🏦 08.10.2026 (Scream переслал от DxS @DxS_v, файл «Transaction-Details_10-08-26.pdf») — **TRANSACTION DETAILS** (исполнение платежа): To **A-BLOEMEN EN PLANTEN EXPORT BV** (IBAN NL16 INGB 0009 3461 67, ING), **Amount −75 941,92 €**, Booked date / Value date **06.10.2026**, Description «INVOICE dd 02.10.26», PDF created 08.10.2026. Соответствует этой строке (A-Bloemen 75 941,92 EUR, заявка/инвойс) → платёж исполнен → 🟡→🟢.",
     "calc": null,
     "status": "INITIATED",
-    "rowId": "flw-000095"
+    "rowId": "flw-000095",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 7,
@@ -138,7 +154,15 @@
     "sent_usdt": 30280,
     "notes": "📄 05.10.2026 (📨 Цветы, файл «EBF CARGO CIA LTDA 30000.docx») — **SWIFT-инструкция на платёж (MT-поля)**: Amount **USD 30 000,00**; Beneficiary **EBF CARGO CIA LTDA** (Av. Simón Bolívar sn y vía Nayón, Centro Corporativo Ekopark torre 1, Quito, Ecuador); ACCOUNT **02005153421**; SWIFT **PRODECEQ**; банк **PRODUBANCO** (AV. AMAZONAS 4545 y PEREIRA); Payment details «**transportation services**». Компания **SURYA** (по ордеру «Payment from SURYA»); расчёт Цветы-SURYA 30 000,00 + 0,6% + 100 = **30 280 USDT** (ранее как Q8 — 30 120, заменено по ордеру). ⚠️ Совпадение: в тот же день пришёл инвойс **ONETEAMCARGO S.A.** на те же **$30 000** (Цветы r95) — тот же адрес (Centro Corporativo Ekopark torre 1, Quito) и тот же банк PRODUBANCO/PRODECEQ, но другой счёт (EBF 02005153421 vs ONETEAMCARGO 12040835435). Уточнить у Scream: это отдельная сделка EBF CARGO или тот же платёж. | 📄 05.10.2026 (📨 Цветы, файл «EBF_Invoice_Air_Logistics_30000_2026-10-05.pdf») — **COMMERCIAL INVOICE № INV-05102026-01 dd 05.10.2026**: Customer **Q8 Group Limited** (HK, Company Number 80242882); позиция **AIR LOGISTICS SERVICES** 1 × 30 000,00 = **TOTAL USD 30 000,00**; beneficiary EBF CARGO CIA LTDA, PRODUBANCO, SWIFT PRODECEQ, счёт 02005153421; payment details «Air logistics services». Бенефициар/счёт совпадают со SWIFT-инструкцией — это инвойс-основание к этой же строке, новой не создаю. | 📄 06.10.2026 (📨 Ордера и Расчеты ! — «**Payment from SURYA ❗️**», файл «INV 30 000,00 USD (6).pdf») — **ордер на платёж (Тип 4)**: Beneficiary **EBF CARGO CIA LTDA** (Nicolas Baquero S/N y 29 de Abril, Quito, Ecuador); Bank **PRODUBANCO** (Av. Amazonas N35-211 y Japon, Quito, Ecuador), SWIFT **PRODECEQ**, A/C **02005153421**; Payment details «**INV INV-05102026-01 dd 05.10.26**»; Amount **30 000,00 USD**; Charge **OUR**. Компания → **SURYA** (из «Payment from SURYA»); клиент — EBF CARGO (Цветы). **Step 3 → ⬜**. ✅ Это отдельная сделка от ONETEAMCARGO (r90): разные счёта (EBF 02005153421 vs ONETEAMCARGO 12040835435) — прежний вопрос «это тот же платёж или нет?» снят: **два разных ордера SURYA**. Строка не создана (привязал ордер к r96). | 🟢 07.10.2026 (📨 Платежные Поручения, файл «свифт 30 000 usd.pdf») — **MT 103 Outgoing Telegraphic Transfer / Payment Confirmation** (Generated 07.10.2026 12:15:27 GMT+7): Sending Bank **BMRIIDJAXXXX** (Bank Mandiri) → Receiving Bank **SCBLUS33XXXX** (Standard Chartered NY); Message User Ref **OPF1737964511**, Sender’s Ref **0999102572131402**, UETR **3b7816c2-db27-4d01-8a60-fb0d5f9e4035**, Settlement Date **07.10.2026**; Ordering Customer **PT SURYA BAHARI GLOBAL** (a/c 1450019194485); Account With Institution **PRODECEQXXX**; Beneficiary **EBF CARGO CIA LTDA** (a/c 02005153421, Quito, Ecuador); Amount **USD 30 000,00**, Charge Code OUR; Remittance «INV/PAYMENT FOR AIR LOGISTICS SERVICES UNDER INVOICE **INV-05102026-01** DATED 05.10.2026». = исполнение валютного перевода по инвойсу r96 (EBF CARGO, Air logistics) → строка ⬜→🟢.",
     "calc": null,
-    "rowId": "flw-000096"
+    "rowId": "flw-000096",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 8,
@@ -238,7 +262,15 @@
     "sent_usdt": 80995.67,
     "notes": "📄 07.10.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_to_Q8_71783_14_EUR_07-Oct-2026.pdf») — **COMMERCIAL INVOICE № AA-Q8-2026-1007 dd 07 October 2026**: продавец **Atlantic Avrora EOOD** (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Director Aleksandrs Rakovskis) → покупатель **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: **Fresh cut flowers, assorted** — 1 lot × **EUR 71 783,14**; **Total Amount EUR 71 783,14**. Банк: **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Компания **Q8** (Buyer) → Step 3 ⬜. ⏳ Q8-расчёт (EUR → USD) ждёт курс FX от Scream — costFormula не проставлена. | 🏦 08.10.2026 (📨 ПП компании Q8, файл «71783.14.pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2108065000097710080218**, Payment Time **2026-10-08 13:20:36**, Payer **Q8 GROUP LIMITED** → Payee **Atlantic Avrora EOOD** (Bulgarian-American Credit Bank), **EUR 71 783,14**, Transaction Remarks «InvoiceAAQ820261007DD07102026ForFlowers» = инвойс **AA-Q8-2026-1007 dd 07.10.2026**. Совпало → платёж исполнен → 🟢.",
     "calc": null,
-    "rowId": "flw-000101"
+    "rowId": "flw-000101",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-07",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 13,
@@ -262,7 +294,15 @@
     "costSource": "operator",
     "costSourceRef": {
       "ref": "owner_instruction; Scream; батч Q8 14.10.2026; msg из notes строки"
-    }
+    },
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 14,
@@ -282,7 +322,15 @@
     "sent_usdt": 39507.22,
     "notes": "📄 07.10.2026 (📨 Цветы, файл «Invoice_Dolina_Agro_Q8_EUR_35000_07-10-2026.pdf») — **INVOICE DOLINA AGRO LTD № DA-071026-01 dd 07.10.2026** (Тип 1/4): продавец/бенефициар **DOLINA AGRO LTD** (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900, ISRAEL; Reg. 515826436; bank **BANK LEUMI LE ISRAEL**, IBAN **IL750107440000027660042**, SWIFT **LUMIILITXXX**, Business Nathanya Branch 744) → покупатель **Q8 GROUP LIMITED** (Company Number 80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong). CURRENCY **EUR**; ROSES (EXPLORER / FREEDOM / PINK FLOYD / WHITE CHOCOLATE / KAHALA / MONDIAL / LOLA и др.), 7 boxes × 0,5, ~7 000 stems; под-инвойсы DA-071026-01…08; **Total 35 000,00 EUR**; INCOTERMS **EXW**; TRUCK INTERFLOWERS. Компания **Q8** → Step 3 → ⬜. Q8-расчёт (35 000 EUR + 0,3% + 30) ждёт курс. Совпадений по 35 000 EUR / Dolina Agro / DA-071026 в 5 таблицах нет (новая сделка). | 📄 07.10.2026 (📨 Цветы, файл «Dolina Agro Ltd 35000 ….docx») — **форма реквизитов / заявка на платёж**: THE AMOUNT AND THE CURRENCY TO TRANSFER **35 000,00** (EUR); BENEFICIARY'S NAME **Dolina Agro Ltd** (P.O. Box 3103, 10 Bareker str., Industrial Park Caesarea, 38900 ISRAEL); ACCOUNT **IL750107440000027660042**; SWIFT **LUMIILITXXX**; BENEFICIARY'S BANK **BANK LEUMI LE ISRAEL** (BUSINESS NATHANYA BRANCH 744); INTERMEDIARY/correspondent — не заполнены. ✅ Та же сделка, что строка (35 000 EUR, инвойс DA-071026-01) — новая строка НЕ создаётся. | 🏦 08.10.2026 (📨 ПП компании Q8, файл «35000.00 (4).pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2108066725575655424513**, Payment Time **2026-10-08 13:27:28**, Payer **Q8 GROUP LIMITED** → Payee **Dolina Agro Ltd** (BANK LEUMI LE-ISRAEL B.M., IL750107440000027660042), **EUR 35 000,00**, Transaction Remarks «InvoiceDA07102601DD07102926ForFlowers» = инвойс **DA-071026-01 dd 07.10.2026**. Совпало → платёж исполнен → 🟢.",
     "calc": null,
-    "rowId": "flw-000103"
+    "rowId": "flw-000103",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-07",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 15,
@@ -314,7 +362,15 @@
         "amount": 14171,
         "rowId": "flw-000104"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 16,
@@ -334,7 +390,15 @@
     "sent_usdt": 12066,
     "notes": "📄 07.10.2026 (📨 Цветы, файл «Inv №FL01071026.pdf» + текст-реквизиты) — **INVOICE № FL01/071026 dd 07.10.2026** (Тип 1/4): продавец/бенефициар **ModestoGroup OU** (Reg. code 16203107; K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia; email info@m-flowers.com; банк **THE CURRENCY CLOUD LIMITED**, 1 Sheldon Square, London, W2 6TT, United Kingdom, IBAN **GB32TCCL04143483461312**, BIC/SWIFT **TCCLGB3L**) → покупатель/Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong). Позиции: 1) **AA Kenyan rose mix** 15 000 × 0,59 = 8 850,00 USD; 2) **AA Air logistics services** 3 150,00 USD. **Total USD 12 000,00**. Компания **Q8** → Step 3 → ⬜. Q8-расчёт (12 000 + 0,3% + 30) — USD, ставится сразу (q8-table-guard). | 🏦 08.10.2026 (📨 ПП компании Q8, файл «12000.00.pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2108067397993889792309**, Payment Time **2026-10-08 13:30:08**, Payer **Q8 GROUP LIMITED** → Payee **Modestogroup OU** (THE CURRENCY CLOUD LIMITED, GB32TCCL04143483461312), **USD 12 000,00**, Transaction Remarks «InvoiceFL01071026DD07102026ForFlowers» = инвойс **FL01/071026 dd 07.10.2026**. Совпало → платёж исполнен → 🟢.",
     "calc": null,
-    "rowId": "flw-000105"
+    "rowId": "flw-000105",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-07",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 17,
@@ -375,7 +439,15 @@
     "sent_usdt": 61808.31,
     "notes": "📄 08.10.2026 (📨 Заявки Компания Q8, файл «Invoice_Atlantic_Avrora_to_Q8_54771_87_EUR_08-Oct-2026.pdf») — **COMMERCIAL INVOICE № AA-Q8-2026-1008 dd 08 October 2026**: продавец **Atlantic Avrora EOOD** (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Director Aleksandrs Rakovskis) → покупатель **Q8 Group Limited** (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: **Fresh cut flowers, assorted** — 1 lot × **EUR 54 771,87**; **Total Amount EUR 54 771,87**. Банк: **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. ⚠️ Пришла тем же PDF, что и инвойс AA-Q8-2026-1007 (стр. 101) — dedup сработал по 1007, но на странице вторая накладная 1008. Компания **Q8** (Buyer) → Step 3 ⬜. ⏳ Q8-расчёт (EUR → USD) ждёт курс FX от Scream — costFormula не проставлена. | 🏦 08.10.2026 (📨 ПП компании Q8, файл «54771.87.pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2108067951407136768852**, Payment Time **2026-10-08 13:2x**, Payer **Q8 GROUP LIMITED** → Payee **Atlantic Avrora EOOD** (Bulgarian-American Credit Bank, BG04BGUS91601413896300), **EUR 54 771,87**, Transaction Remarks «InvoiceAAQ820261008DD08102026ForFlowers» = инвойс **AA-Q8-2026-1008 dd 08.10.2026**. Совпало → платёж исполнен → 🟢.",
     "calc": null,
-    "rowId": "flw-000107"
+    "rowId": "flw-000107",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-08",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 19,
@@ -415,7 +487,15 @@
     "sent_usdt": 15075,
     "notes": "📄 08.10.2026 (📨 Цветы, файл «Milele Flowers 15000.docx») — **форма реквизитов платежа (заявка, Тип 4)**: AMOUNT **15 000**, CURRENCY **USD**; BENEFICIARY **Milele Flowers limited** (P.O. Box 295-10218 Kangari-Kenya); Account **1203691181**; Beneficiary Bank **KENYA COMMERCIAL BANK LIMITED** (Gateway Park House, Mombasa Road, P.O. Box 27618-00506, Nairobi), SWIFT **KCBLKENX**; Registration number **CPR/2015/193085**; VAT **P051544103S**; Director **John Kimani Macharia** (+254 712 370192, mileleflowers@gmail.com); Transaction Costs **By customer**; Details of Payment «For Flowers». Клиент **Milele Flowers (Цветы)** (по прецеденту r42/r57). Компания **Q8** → Step 3 ⬜. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 15 000,00 + 0,3% + 30 = 15 075,00 USDT. | 📄 08.10.2026 (📨 Цветы, файл «Milele_Flowers_15000.pdf») — **INVOICE № 1300/3256 dd 26 September 2026** (Milele Flowers limited, P.O. Box 295, Kangari-Kenya; REG NO CPR/2015/193085; PIN P051544103S): Export to **NS INCOFLORES**, Supply of cut flowers, AWB **065 4053 7361**, Net Weight 718. Позиции: Sprays mix 60cm × 25 бокс. × 250 ст. — **7 375,00 USD**; Roses mixed 60cm × 10 × 300 — **990,00 USD**; FOB **8 365,00 USD**; FREIGHT **6 635,00 USD**; **TOTAL VALUE 35 бокс. / 9 250 ст. = 15 000,00 USD**. Банк: **KENYA COMMERCIAL BANK LIMITED**, a/c 1203691181 USD. ✅ Инвойс-основание к строке (15 000,00 USD). | ✅ 12.10.2026 (личка Scream) — BONBILL Payment Certificate (Тип 7, исполнение заявки Q8): Transaction ID O2109562332869951488255; Payment Time 2026-10-12 16:30:28; Payer Q8 GROUP LIMITED → Payee Milele Flowers limited (KENYA COMMERCIAL BANK LIMITED, счёт 1203691181); Invoice13003256DD26092026ForFlowers; 15 000,00 USD → строка ⬜→🟢 | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «Milele_Flowers_1300-3257_2026-10-12.pdf») — **INVOICE № 1300/3257 dd 12 October 2026** (Milele flowers Limited, P.O. Box 295, Kangari-Kenya; REG NO CPR/2015/193085; PIN P051544103S; director John K. Macharia; a/c 1203691181 USD, KENYA COMMERCIAL BANK LIMITED, SWIFT KCBLKENX): Export to **NS INCOFLORES**; AWB **065 4053 7361**, Net Weight 718. Позиции: Sprays mix 60cm × 25 бокс. × 250 ст. (rate 1.18) — **7 375,00 USD**; Roses mixed 60cm × 10 × 300 (0.33) — **990,00 USD**; FOB **8 365,00 USD**; FREIGHT **6 635,00 USD**; **TOTAL 35 бокс. / 9 250 ст. = 15 000,00 USD**. ⚠️ Тот же AWB, те же позиции/вес/сумма, что у инвойса № 1300/3256 dd 26.09.2026 (r20, уже оплачен BONBILL 12.10) → повторно-обновлённый инвойс того же груза; новой строки не создаю.",
     "calc": null,
-    "rowId": "flw-000111"
+    "rowId": "flw-000111",
+    "companySource": {
+      "source": "order",
+      "date": "2026-10-08",
+      "ref": "notes: Payer Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 21,
@@ -435,7 +515,15 @@
     "sent_usdt": 40150,
     "notes": "📄 08.10.2026 (📨 Цветы, файл «ALIANZA 40 000 ®І .docx») — **форма реквизитов платежа (заявка, Тип 4)**: AMOUNT **40 000**, CURRENCY **USD**; BENEFICIARY **LOGIZTIK-GROUP ECUADOR S.A.** (AV. INTEROCEANICA OE6-73 Y GONZALEZ SUAREZ); Account **02005144694**; Beneficiary Bank **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (AMAZONAS 3775 Quito – Ecuador), SWIFT **PRODECEQ**. Клиент **ALIANZA LOGISTICS (Цветы)** (адрес совпадает с ALIANZA LOGISTIKA TDGE S.A., строки r27/r35). Компания **SURYA** (по последнему прецеденту r93) → Step 3 ⬜. | 📄 08.10.2026 (📨 Цветы, файл «Invoice_LOGIZTIK_ECUADOR_Q8_40000_USD_08-10-2026-2.pdf») — **INVOICE № 10013088 dd 08-10-2026** (LOGIZTIK-GROUP ECUADOR S.A., Ave. InterOceanica OE6-73 y Gonzalez Suárez - Tumbaco, Quito, Ecuador; тел. 02 237 2169) → **PAYER: Q8 GROUP LIMITED** (Registration No. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): позиция «**Air logistics services**» — **TOTAL (USD) 40 000,00**. Реквизиты: Account 02005144694; Beneficiary Bank **BANCO DE LA PRODUCCION S.A. PRODUBANCO** (Amazonas 3775, Quito - Ecuador), SWIFT **PRODECEQ**. ✅ Инвойс-основание (40 000,00 USD). ✏️ Компания уточнена по инвойсу: **Q8** (плательщик в инвойсе Q8 GROUP LIMITED), а не SURYA — поправил. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 40 000,00 + 0,3% + 30 = 40 150,00 USDT. | ✅ 12.10.2026 (личка Scream) — BONBILL Payment Certificate (Тип 7, исполнение заявки Q8): Transaction ID O2109563065929433088157; Payment Time 2026-10-12 16:32:24; Payer Q8 GROUP LIMITED → Payee LOGIZTIK-GROUP ECUADOR S.A. (счёт 02005144..., инвойс 10013088DD08102026ForAirLogisticS); 40 000,00 USD → строка ⬜→🟢",
     "calc": null,
-    "rowId": "flw-000112"
+    "rowId": "flw-000112",
+    "companySource": {
+      "source": "order",
+      "date": "2026-10-08",
+      "ref": "notes: Payer Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 22,
@@ -455,7 +543,15 @@
     "sent_usdt": 10060,
     "notes": "📄 08.10.2026 (📨 Цветы, файл «Novpec S.A. 10000.docx») — **форма реквизитов платежа (заявка, Тип 4)**: Amount **10 000**, Currency **USD**; Beneficiary **Novpec S.A** (Av. Republica del Salvador N35-82 y Portugal, Quito, Ecuador); Account **48406459**; Beneficiary Bank **Banco Guayaquil S.A** (Pichincha 105 y P. Icaza), SWIFT **GUAYECEGXXX**; Registration number **1792735319001**; Director **ALEX HERNANDEZ**; Intermediary **WELLS FARGO BANK** (SWIFT **PNBPUS3NNYC**, acc 2000192321514). Клиент **Novpec (Цветы)**, компания **Q8** → Step 3 ⬜. ⚠️ Та же форма реквизитов, что была по r44 (15.09, инвойс №10642) — если это повтор, строку удалить. | ✏️ 08.10.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT. | 📄 08.10.2026 (📨 Цветы, файл «NOVPEC_Invoice_08102026_08-Oct-2026_USD_10000.pdf») — **NOVPEC S.A. INVOICE № 08102026 dd 08-OCT-2026** (TO **Q8 Group Limited**, Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong; CARGO AGENCY FLOWER CARGO): NOVPEC S.A. (Av. Republica del Salvador N35-82 y Portugal, Quito, Ecuador), account **48406459**, **Banco Guayaquil S.A** (SWIFT **GUAYECEGXXX**, Pichincha 105 y P. Icaza); M.A.W.B/H.A.W.B **369-9930 2921**, TOTAL FULL BOXES 18,5; TRUCK INTERFLOWERS; INTERMEDIARY **WELLS FARGO BANK** (PNBPUS3NNYC, acc 2000192321514); Reg. **1792735319001**; Director **ALEX HERNANDEZ**; TOTAL **USD 10 000,00**. ✅ Инвойс-основание; **новый** номер (08102026 ≠ r44/10642) — подтверждает, что r113 = НОВАЯ сделка (не повтор r44). |  | 💳 12.10.2026 (📨 переслал Scream, файл «10000.00 (25).pdf») — **BONBILL Payment Certificate**: Transaction ID O2109563832845336576749, Payment Time 2026-10-12 16:36:26, Payer Q8 GROUP LIMITED; Payee **Novpec S.A.** (Banco Guayaquil S.A, счёт 48406459), USD **10 000,00**, Remarks «Invoice08102026 DD 08102026 For Flowers». BONBILL (initiated) → 🟡 (не зелёнка). |  | 💳 12.10.2026 (📨 переслал Scream, файл «10000.00 (25).pdf») — **BONBILL Payment Certificate**: Transaction ID O2109563832845336576749, Payment Time 2026-10-12 16:36:26, Payer Q8 GROUP LIMITED; Payee **Novpec S.A.** (Banco Guayaquil S.A, счёт 48406459), USD **10 000,00**, Remarks «Invoice08102026 DD 08102026 For Flowers». BONBILL (initiated) → 🟡 (не зелёнка). | 💳 13.10.2026 — повторный BONBILL Payment Certificate по той же сделке (txid O2109563832845336576749, lean-шаблон без Payment Status → исполнено) подтверждает: статус снят, 🟡→🟢. OUT 10 060 USDT записан (баланс Цветов 130 335,80).",
     "calc": null,
-    "rowId": "flw-000113"
+    "rowId": "flw-000113",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-08",
+      "ref": "notes: Payer Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 23,
@@ -487,7 +583,15 @@
         "amount": 42028.82,
         "rowId": "flw-000114"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "owner_instruction",
+      "date": "2026-10-08",
+      "ref": "notes: компания **ATB",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 24,
@@ -508,7 +612,15 @@
     "sent_usdt": 20090,
     "notes": "✏️ 09.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 20 000,00 + 0,3% + 30 = 20 090,00 USDT. | 📄 09.10.2026 (📨 Цветы; файл «Inv №FL01:091026.pdf») — INVOICE № FL01/091026 dd 09.10.2026: **ModestoGroup OU** (Reg. 16203107, Tallinn, Estonia; info@m-flowers.com) → bill to **Q8 Group Limited**; AA Kenyan rose mix + AA Air logistics services, Total **20 000,00 USD**. Реквизиты: THE CURRENCY CLOUD LIMITED (London, UK), SWIFT TCCLGB3L, IBAN GB32TCCL04143483461312. Заявка на оплату от Q8 → ⬜ (Step 3). | 📄 12.10.2026 (📨 ПП компании Q8, файл «20000.00 (10).pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2109564667016904704836**, Payment Time 2026-10-12 16:39:45; Payer **Q8 GROUP LIMITED** → Payee **Modestogroup OU** (THE CURRENCY CLOUD LIMITED, счёт GB32TCCL04143483461312); Currency Amount **USD 20 000,00**; Remarks «Invoice FLO1091026 DD 09102026 For Flowers And Logistics». Подтверждение исполнения → ⬜→🟢.",
     "calc": null,
-    "rowId": "flw-000116"
+    "rowId": "flw-000116",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-09",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 25,
@@ -529,7 +641,15 @@
     "sent_usdt": null,
     "notes": "ПП на VDX №641 от 09.10.2026 (5 864 644,49 ₽ — номер из документа ПП) | 🏦 приход по выписке: Почтабанк Блэкшарк iBank (Кт ПП №367, ПРИОРИТЕТ МАРКЕТ) | 🏦 09 октября 2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf») — предварительная выписка АО АКИБ «ПОЧТОБАНК» (ОсОО «Блэкшарк Трейд», счёт 40807810100157518600): приход **Кт ПП №367** — **ООО «ПРИОРИТЕТ МАРКЕТ»** (ИНН 6000004341, счёт 40702810203000105195, БИК 044030723), **5 721 604,38 ₽**, {VO11200} «Для зачисления по контракту, оплата за цветочную продукцию» → rubles_received = 5 721 604,38. Прочие операции выписки подтверждены (Дт №639 → d78 row 1; Дт №640 → main row 63; Кт №2611/2613 → d78 row 2; Кт №81 → main row 63). 🔵 — ждём отправку на VDX. | 📤 09 октября 2026 (📨 Отправки рублей ПП.; «с Блэкшарк почто на видиикс», сумма 5 864 644,49 — цветы, заявка 832; доки O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Приоритет маркет\\вход 09.10.26) — рубли ушли с Блэкшарк (ПОЧТОБАНК) на VDX — 5 864 644,49 ₽ (цветы, заявка 832). Маркер: ПП на VDX (5 864 644,49 ₽ — VDX, заявка 832). | 🏦 09 октября 2026 (📨 Платежи из Мира Привелегий (операционка) t23693, выписка ПОЧТОБАНК v3) — приход **Кт ПП №368** (143 040,11 ₽) = агентское вознаграждение 2,5% по заявке 832 (тело — ПП №367). rubles_received = 5721604.38 / 143040.11, sent_rubles_vdx = 5 864 644,49 (VDX, заявка 832).",
     "calc": null,
-    "rowId": "flw-000118"
+    "rowId": "flw-000118",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 26,
@@ -562,7 +682,15 @@
         "amount": 10160,
         "rowId": "flw-000119"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-12",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 27,
@@ -595,7 +723,15 @@
         "amount": 10160,
         "rowId": "flw-000120"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-12",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 28,
@@ -628,7 +764,15 @@
         "amount": 23930,
         "rowId": "flw-000121"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-12",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 29,
@@ -649,7 +793,15 @@
     "sent_usdt": 25691.75,
     "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 25 585,00 + 0,3% + 30 = 25 691,75 USDT. | 🛡️ 13.10.2026: движение IN 25838.5 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:29). | | 📄 13.10.2026 (📨 ПП компании Q8/Z-source, файл «25585.00.pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2109898412920012800611**, Payment Time 2026-10-13 14:43:11; Payer **Q8 GROUP LIMITED** → Payee **ANNIROSES CORPORATION** (JPMORGAN CHASE BANK, N.A., счёт 271378793); Currency Amount **USD 25 585,00**; Transaction Remarks «Invoice ANN2026101301 DD 13102026 For Flowers». → исполнение заявки Q8 (r29) → 🟢.",
     "calc": null,
-    "rowId": "flw-000122"
+    "rowId": "flw-000122",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-13",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 30,
@@ -695,7 +847,15 @@
     "costSource": "operator",
     "costSourceRef": {
       "ref": "owner_instruction; Scream; батч Q8 14.10.2026; msg из notes строки"
-    }
+    },
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-13",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 32,

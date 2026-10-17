@@ -17,7 +17,15 @@
     "sent_usdt": 12965,
     "notes": "📄 01.10.2026 (📨 Молодежь, файлы «payment order ОЛ.docx» + «1CM26092801.pdf») — **PAYMENT ORDER от 01.10.2026**: AMOUNT **12 800 USD**, bank transfer; Beneficiary **CARGOMOST DIŞ TİCARET LOJİSTİK L.Ş.** (№53, Cevizli mah., Ritim Istanbul AVM, Maltepe, ISTANBUL 34846; Tax ID 2030 792 777); банк **GARANTI BBVA BANK / Dragos branch**, SWIFT **TGBATRISXXX**, счёт **TR59 0006 2001 2790 0009 0809 03**; назначение «Payment Invoice No CM26092802, CM26092801». | 📄 **INVOICE CM26092802 dd 28.Sep.26** (CARGOMOST) → BILL TO **PT TOMO TRADING GROUP** (Jalan Batu Bidak No.88B, Kerobokan Kaja, Kuta Utara, Badung, Bali): Freight Forwarding Services, Truck 33APC558-33EGP89, FCA TR İkitelli-Tuzla → DAP, Rate 11 950 USD → **TOTAL 11 950,00 USD**. (Второй инвойс CM26092801 ≈ 850,00 USD; 11 950 + 850 = 12 800 ✓.) → ⬜ (Step 3; компания **TOMO** по инвойсу). ⚠️ клиента уточнить у владельца. | 📄 01.10.2026 (📨 Молодежь, файл «2CM26092802.pdf») — **INVOICE CARGOMOST dd 28.Sep.26** → BILL TO **PT TOMO TRADING GROUP**: Freight Forwarding Services, Truck 33APC558-33EGP89, FCA TR İkitelli-Tuzla → DAP, Rate **850 USD** → **TOTAL 850,00 USD**. Итого по двум инвойсам: 11 950,00 + 850,00 = **12 800,00 USD** = сумма payment order ✓. | 📄 01.10.2026 (📨 Ордера и Расчеты !, подпись «Payment from TOMO❗️», файл «INV 12 800,00 USD.pdf») — **ордер на платёж**: Beneficiary **CARGOMOST DIŞ TİCARET LOJİSTİK L.Ş.** (№53, Cevizli mah., Ritim Istanbul AVM, Maltepe, ISTANBUL 34846); банк **GARANTI BBVA BANK / Dragos branch**, SWIFT **TGBATRISXXX**, счёт **TR59 0006 2001 2790 0009 0809 03**; Payment details **Invoice No CM26092802, CM26092801 dd 28.09.26**; Amount **12 800,00 USD**; Charge **OUR**. Приложен PDF с двумя инвойсами CARGOMOST (11 950,00 + 850,00 = 12 800,00 USD; оба пронумерованы одним номером CM26092802 — шаблон). Компания **TOMO** — совпадает с уже ведомой строкой (r95), новую не создавал. | 📄 01.10.2026 (📨 Платежные Поручения, файл «12800_USD_78011.pdf») — **Transaction Status** (Transaction Id 202610011926616316, Creation Date 01.10.2026 19:26:31 GMT+7, Immediate): **TOMO TRADING GROUP** → **CARGOMOST DIS TICARET LOJISTIK L.S.**, Account TR590006200127900009080903 (53 Cevizli mah., Ritim Istanbul AVM, Maltepe, Istanbul 34846, TURKEY); Beneficiary Bank **TURKIYE GARANTI BANKASI A.S.**, BIC **TGBATRISXXX**; Amount **12 800,00 USD**; Cable 5,00 + Corr 25,00 + Provision 16,00 = 46,00; **Total Debit 12 846,00 USD**; Remark «INV Invoice No CM26092802, CM26092801 dd 28.09.26»; **Status: PendingApproval** → цвет ⬜ → 🟡. | 🏷️ 01.10.2026 (📨 Ордера и Расчеты: «3 на сурию отдал»; расчёт `(сумма+100)×1,005`: 12 800→**12 965**, 14 500→**14 673**, 15 000→**15 176**; итого **42 813** — кошелёк `TLq4JCfpaLtRRGeX2Mo6AMuzSq8jCwy17b`) — `company = **SURYA**` (Q8 на праздниках → платили с других компаний), `sent_usdt` = зачётом SURYA. | ✏️ 01.10.2026 (Scream: «это не surya это TOMO») — `company = **TOMO**` (не SURYA). | ✏️ 01.10.2026 (Scream: «CARGOMOST 12 800 — Клиент **Мосты**, и под эту заявку приходил USDT») — `clientName = **Мосты**` (было «TOMO»); `company = TOMO` (плательщик). | ✏️ 01.10.2026 (Scream: «Это приход от обменника — не нужно прикручивать его, от него летят USDT не только от Мостов») — `received_usdt` снят (было 25864); 25 864 — **общий приход от обменника**, не приход заявки, к r95 не привязываем. | ✏️ 01.10.2026 (Scream: «где расчёт себестоимости у строк 87 и 88»): TOMO-тариф (сумма + 100) × 1,005 проставлен — (12 800,00 + 100) × 1,005 = 12 965 USDT. | MT103 Payment Confirmation (SWIFT Outgoing Telegraphic Transfer): | Sending BMRIIDJAXXXX → Receiving BKTRUS33XXXX | Ordering: /1750004746243 PT TOMO TRADING GROUP JALAN BATU BIDAK NO 88B RT 000 RW 000 KUTA UTARA INDONESIA | Beneficiary: /TR590006200127900009080903 | Settlement: 12800 USD | /INV/INVOICE NO CM26092802, CM26092 | Charge OUR | bankRef OPF1734966211 | → EXECUTED → 🟢 (mt103-classifier-guard)",
     "calc": null,
-    "rowId": "mol-000094"
+    "rowId": "mol-000094",
+    "companySource": {
+      "source": "order",
+      "date": "2026-10-01",
+      "ref": "notes: company = TOMO",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 2,
@@ -37,7 +45,15 @@
     "sent_usdt": 76949,
     "notes": "📄 02.10.2026 (📨 Молодежь, файл «CC_Поручение № 2 АрхИнж (1).pdf» — скан без текстового слоя, читал вижном) — **ПОРУЧЕНИЕ № 2 от 02.10.2026** (Приложение № 1 к Агентскому договору № 260424-003 от 24.04.2026): Принципал **ООО «АРХИМЕД ИНЖИНИРИНГ»** → Агент **ООО «VDX SERVICES - FZCO»**, платёж в иностранной валюте по инвойсу **№ 0012 от 02.10.2026**: получатель **TEHGAZ URUNLERI NAKLIYAT IC DIS TICARET VE SANAYI LIMITED SIRKETI** (Cumhuriyet blv Bati A - B Blok No 77 /A /95, Izmit/Kocaeli, TURKEY); банк **Garanti Bankası**, SWIFT **TGBATRISXXX**, IBAN **TR87 0006 2001 1480 0009 0811 51**; сумма **68 200,00 EUR**; курс **94,5252**; сумма к перечислению в рублях **6 446 618,64 ₽**; комиссия Агента **64 466,19 ₽**. Подписи: Бухара Елена Александровна (Архимед Инжиниринг) / Никита (VDX). Компания-плательщик не названа → 🔴 (Step 0). | ПП на VDX №90 от 02.10.2026 ИСПОЛНЕН 02.10.2026 (ПАО Сбербанк России, БИК 045354601, ЭП Бухара Елена Александровна): ООО «АРХИМЕД ИНЖИНИРИНГ» (ИНН 5610247840, КПП 561001001, счёт 40702810246000015069) → ООО «VDX SERVICES - FZCO» (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), **64 466,19 ₽** {VO21100} «Оплата по агентскому договору № 260424-003 от 24.04.2026 для исполнения Поручения № 2 от 02.10.2026 (вознаграждение агента)». НДС не облагается. Получатель VDX → `sent_rubles_vdx`. | ПП на VDX №88 от 02.10.2026 ИСПОЛНЕН 02.10.2026 (ПАО Сбербанк России, БИК 045354601, ЭП Бухара Елена Александровна): ООО «АРХИМЕД ИНЖИНИРИНГ» (ИНН 5610247840, КПП 561001001, счёт 40702810246000015069) → ООО «VDX SERVICES - FZCO» (ИНН 9909710068, счёт 40807810000000015414), **6 446 618,64 ₽** {VO11100} «Оплата по агентскому договору № 260424-003 от 24.04.2026 для исполнения Поручения № 2 от 02.10.2026 (тело платежа согл. инвойсу № 0012 от 02.10.2026 за оборудование)». НДС не облагается. = ТЕЛО платежа (вознаграждение 64 466,19 ₽ — ПП №90). `sent_rubles_vdx` = 6 446 618,64 / 64 466,19 (VDX). | 📄 02.10.2026 (📨 Молодежь, файл «payment order 68_2.docx») — **PAYMENT ORDER**: AMOUNT **68 200 EUR**; BENEFICIARY **TEHGAZ URUNLERI NAKLIYAT IC DIS TICARET VE SANAYI LIMITED** (Cumhuriyet blv Bati A - B Blok No 77 /A /95, Izmit/Kocaeli, TURKEY; TAX 8330986750); BANK **Garanti Bankasi** (AYTAR CAD NO.2, LEVENT NISPETIYE MAH, BESIKTAS); IBAN **TR87 0006 2001 1480 0009 0811 51**; SWIFT **TGBATRISXXX**; PAYMENT PURPOSE «Payment for invoice № 12 from 02.10.2026». ✅ Совпадает с Поручением №2 (68 200 EUR, TEHGAZ) — новая строка не создавалась. | 📄 02.10.2026 (📨 Молодежь, файл «INVOICE 68_2  К EUR на агента.docx») — **Proforma Invoice No. 0012 от 02.10.2026** (продавец **TEHGAZ URUNLERI NAKLIYAT IC DIS TICARET VE SANAYI LIMITED SIRKETI**, Cumhuriyet blv Bati A - B Blok No 77 /A /95, Izmit/Kocaeli, TURKEY; TAX 8330986750) → покупатель **PT Surya Bahari Global** (Jalan Tebet Raya No 11G 1, Tebet Barat, Jakarta Selatan 12810): позиция **MRI Philips** 1 шт × 68 200 = **68 200 EUR**. Банк TEHGAZ (EUR): IBAN **TR87 0006 2001 1480 0009 0811 51**, Garanti Bankasi, SWIFT **TGBATRISXXX**. ✅ Инвойс-основание к Поручению №2 (68 200 EUR, получатель TEHGAZ) — новая строка не создавалась. | 📄 05.10.2026 (📨 Ордера и Расчеты ! — «**Payment from SURYA ❗️**», файл «INV 68 200,00 EUR.docx») — **заявка на платёж (Тип 4)**: Beneficiary **TEHGAZ URUNLERI NAKLIYAT IC VE DIS TICARET VE SANAYI LIMITED** (Cumhuriyet blv Bati A - B Blok No 77, A, 95, Izmit, Kocaeli, TURKEY); Beneficiary Bank **Garanti Bankasi** (AYTAR CAD NO.2, LEVENT NISPETIYE MAH, BESIKTAS; SWIFT **TGBATRISXXX**), IBAN **TR87 0006 2001 1480 0009 0811 51**; Payment details «invoice 0012 dd 02.10.26»; Amount **68 200,00 EUR**; OUR. = та же сделка, что Поручение № 2 / invoice 0012 (68 200 EUR, TEHGAZ) — новая строка не создаётся. Названа компания-плательщик **SURYA** → Step 3 → компания = SURYA, строка 🔴→⬜. | 💰 05.10.2026 (📨 Ордера и Расчеты !) — расчёт себестоимости (SURYA/Архимед): 68 200 × 1,12044118 = 76 414 + 0,7% = 76 949 USDT. | 🛡️ 05.10.2026: движение OUT 76949 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:95). | 📄 06.10.2026 (📨 Платежные Поручения, файл «68 200,00 EUR.pdf») — **MT 103 - Outgoing Telegraphic Transfer** (Payment Confirmation - Customer Credit Transfer, fin.103): Sending Bank **BMRIIDJAXXXX**, Receiving Bank **DEUTDEFFXXXX**; Message Sent **2026-10-06T14:14 GMT+07:00**; Sender's Reference **0999102571625307**, Message User Reference **OPF1737466808**, **UETR e9dbdd72-53de-4253-9739-d1359f821486**; Settlement Date **2026-10-06**; **Settlement/Instructed CCY & Amount EUR 68 200,00**; Bank Operation Code CRED; Ordering Customer **PT SURYA BAHARI GLOBAL** (JL Tebet Raya No.11 G1, RT020/RW002, Tebet, Indonesia); Account With Institution **TGBATRISXXX**; Beneficiary **TEHGAZ URUNLERI NAKLIYAT IC VE DIS TICARET VE SANAYI LIMITED** (TR870006200114800009081151, Cumhuriyet Blv Bati A-B Blok No 7); Remittance Information «**/INV/PAYMENT FOR PHILIPS MRI EQUIPMENT UNDER INVOICE 0012 DATED 02.10.2026**»; Charge Code **OUR**. ✅ Банковское подтверждение исполнения по сделке (Поручение № 2 / invoice 0012, 68 200 EUR, TEHGAZ) → ⬜→🟡→🟢. | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «6446618.64 (VDX) / 64466.19 (VDX)» → 6446618.64 / 64466.19.",
     "calc": null,
-    "rowId": "mol-000095"
+    "rowId": "mol-000095",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-02",
+      "ref": "notes: компания = SURYA",
+      "backfill": true
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 3,
@@ -77,7 +93,15 @@
     "sent_usdt": 22593,
     "notes": "ПП на VDX №424 от 02.10.2026 (1 888 344,06 ₽ — Эксперт, ЮниКредит, тело) | ПП на VDX №425 от 02.10.2026 (36 739,38 ₽ — вознаграждение) | 📄 02.10.2026 (📨 Молодежь, файлы «ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD 1.888.344,06.pdf» + «VDX 36.739,38.pdf») — **две ПП ООО «ЭКСПЕРТ» → VDX SERVICES - FZCO** (АО ЮНИКРЕДИТ БАНК г. Москва, БИК 044525545; Проведено 02.10.2026), аг.договор №09-02-2/26 от 09.02.2026, **Поручение №18 от 02.10.2026**: **ПП №424 — тело 1 888 344,06 ₽** {VO11100} «для перечисления (ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD) за товар по cont.321-EX170323 dd 17.03.2023 по PR.IN.HZH2026E60572 dd 14.08.26»; **ПП №425 — вознаграждение 36 739,38 ₽** {VO21100} «оплата вознаграждение агента согласно поручению № 18 от 02.10.2026». Получатель VDX → `sent_rubles_vdx` = 1888344.06 (VDX) / 36739.38 (VDX). ⚠️ строка заявки/Поручения №18 пока не приходила — 🔵. | 📄 02.10.2026 (📨 Молодежь, файл «Поручение №18.pdf») — **ПОРУЧЕНИЕ № 18 от 02.10.2026** (Приложение № 1 к Агентскому договору № 09-02-2/26 от 09.02.2026): Принципал **ООО «Эксперт»** → Агент **LLC «VDX SERVICES - FZCO»**, платёж по инвойсу **№ HZH2026E60572 DD 14.08.2026**, контракт **321-EX170323 от 17.03.23**: получатель **ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD** (NO.18 Xinglong Road, Furniture Garden, Wanquan Industry Base, Pingyang, Wenzhou, Zhejiang, China); банк **INDUSTRIAL AND COMMERCIAL BANK OF CHINA, ZHEJIANG PROVINCIAL BRANCH**, SWIFT **ICBKCNBJZJP**, счёт **1203283209045761119**; сумма **149 688,00 CNY** (FOR MASSAGE CHAIRS); курс **1 CNY = 12,6152 ₽**; сумма к перечислению **1 888 344,06 ₽** (149 688 × 12,6152 ✓ = ПП №424); комиссия Агента **36 739,38 ₽** (= ПП №425). Подписи: Ильина С.Г. (Эксперт) / Hikmat Ahmadov (VDX). ✅ Заявка к r97 (две ПП 424/425). Компания-плательщик не названа. | 📄 02.10.2026 (📨 Молодежь, файл «Платежное поручение 159185.docx») — **форма реквизитов/ПП на платёж**: AMOUNT **149 688,00 CNY**; BENEFICIARY **ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD** (NO.18 Xinglong Road, Furniture Garden, Wanquan Industry Base, Pingyang, Wenzhou, Zhejiang, China); ACCOUNT **1203283209045761119**; BENEF. BANK **INDUSTRIAL AND COMMERCIAL BANK OF CHINA, ZHEJIANG PROVINCIAL BRANCH**; SWIFT **ICBKCNBJZJP**; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. HZH2026E60572 DD 14.08.2026 FOR MASSAGE CHAIRS». ✅ Совпадает с Поручением №18 (r97) — новая строка не создавалась. | 📄 02.10.2026 (📨 Молодежь, файл «PI(A3580A-11_F200)_HZH2026E60572_2026.8.14_EXPERT_LLC.pdf») — **PROFORMA INVOICE № HZH2026E60572 от 2026.8.14**: Seller **ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD**, Buyer **PT TOMO TRADING GROUP** (Jalan Batu Bidak No.88B, Kerobokan Kaja, Kuta Utara, Badung, Bali 80361); позиции **F200/A3580A-11 MASSAGE CHAIR** — Grey LP105+LP042 18 шт × ¥3 240 = 58 320; Brown LP110+LP050 22 × 3 240 = 71 280; Beige LP114+LP083 26 × 3 240 = 84 240; **Total ¥213 840,00** (66 шт); FOB NINGBO; Payment Terms «BY T/T **64 152 RMB first deposit**, **149 688 RMB before shipment**» (64 152 + 149 688 = 213 840 ✓ — депозит = r1/Поручение №14, остаток = r97); банк ICBC Zhejiang Provincial Branch (SWIFT ICBKCNBJZJP, счёт 1203283209045761119). ✅ Инвойс-основание к Поручению №18 (r97) — новая строка не создавалась. | 📄 05.10.2026 (📨 Ордера и Расчеты ! — «**Payment from TOMO ❗️**», файл «INV 149 688,00 CNY (2).pdf») — **заявка на платёж (Тип 4)**: Beneficiary **ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD** (NO.18 XINGLONG ROAD, FURNITURE GARDEN, WANQUAN INDUSTRY BASE, PINGYANG, WENZHOU, ZHEJIANG, CHINA); Beneficiary Bank **INDUSTRIAL AND COMMERCIAL BANK OF CHINA, ZHEJIANG PROVINCIAL BRANCH** (NO.68-70 XINHEZHONG ROAD, PINGYANG, ZHEJIANG, CHINA; SWIFT **ICBKCNBJZJP**), Account **1203283209045761119**; Payment details «INVOICE NO. HZH2026E60572 DD 14.08.2026»; Amount **149 688,00 CNY**; OUR. Приложен **Proforma Invoice HZH2026E60572** (PT TOMO TRADING GROUP, Bali ← ZHEJIANG HAOZHONGHAO; 66 массажных кресла × ¥3 240 = ¥213 840). = та же сделка, что Поручение №18 (invoice HZH2026E60572, 149 688 CNY) — новая строка не создаётся. Названа компания-плательщик **TOMO** → Step 3 → компания = TOMO, строка 🔵→⬜. | 💸 05.10.2026 (📨 Ордера и Расчеты !) — **заказ на выплату USDT** по двум CNY-заявкам: (149 688,00 CNY + 750)/6,7051×1,007 = 22593 USDT (итог двух заявок 22 593 + 5 853 = **28 446 USDT**); адрес выплаты (TRON) `TYg9zEbSJLruh4yrHSNYLzK7wySaQkzq7G`. `sent_usdt` = 22593. | MT103 Payment Confirmation (SWIFT Outgoing Telegraphic Transfer): | Sending BMRIIDJAXXXX → Receiving CIPSCNSHXXXX | Ordering: /1750004746268 PT TOMO TRADING GROUP JALAN BATU BIDAK NO 88B RT 000 RW 000 KUTA UTARA INDONESIA | Beneficiary: /1203283209045761119 ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD 18 XINGLONG R,FURNITURE G,WANQUAN I | Settlement: 149688 CNY | /INV/INVOICE NO. HZH2026E60572 DD 1 | Charge OUR | bankRef OPF1740452112 | → EXECUTED → 🟢 (mt103-classifier-guard) | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «1888344.06 (VDX) / 36739.38 (VDX)» → 1888344.06 / 36739.38.",
     "calc": null,
-    "rowId": "mol-000097"
+    "rowId": "mol-000097",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-02",
+      "ref": "notes: компания = TOMO",
+      "backfill": true
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 5,
@@ -97,7 +121,15 @@
     "sent_usdt": 114633,
     "notes": "Инвойс № 10-3 dd 05.10.2026 (Invoice, PDF «Invoice 05.10.26 Agaro- Q8 101 300 euro.pdf», 📨 Молодежь, 05.10.2026): AGARO COIN AUCTION, S.L. (info@agarosl.com, +34 640 32 56 91) → BILL TO: **PT Surya Bahari Global** (Jalan Tebet Raya No 11G 1, Desa/Kelurahan Tebet Barat, Kec.Tebet, Kota Adm. Jakarta Selatan, DKI Jakarta 12810). Lot 1 — Lots of Foreign world and roman coins (коллекционные монеты), Total hammer EURO 101 300,00, VAT 0% (0,00), Shipping 0,00, Total EURO 101 300,00. Банк: Banco Bilbao Vizcaya Argentaria S.A. (C/Sauceda 28), IBAN (EURO) ES52 0182 5117 0702 0159 5495, SWIFT BBVAESMMXXX. | Payment Order (docx «Платежное поручение agaro 101 300 euro.docx», 📨 Молодежь, 05.10.2026): AMOUNT 101 300,00 EURO → BENEFICIARY AGARO COIN AUCTION, S.L. (17220, SPAIN SANT FELIU DE GUÍXOLS (GIRONA) CALLE AGARO, NUM 89), ACCOUNT ES52 0182 5117 0702 0159 5495, BENEF.BANK Banco Bilbao Vizcaya Argentaria s.a. (c/sauceda 28), SWIFT BBVAESMMXXX; PAYMENT DETAILS «PAYMENT BY INVOICE NO. 10-3 DD 05.10.2026». = заявка Тип 4 (инвойс + ордер) → ⬜ Step 3. Клиент ИП Зольников (Молодёжь) — серия Agaro: r13 (инв. 9, 248 203,00 USD), r28 (9-1, 228 223,38), r40 (9-2, 162 657,72), r41 (9-3, 101 360,00 EUR), r65 (9-4/1, 130 446,75), r72 (9-5, 87 300,00), r82 (9-6/1, 115 001,18). ⚠️ Расхождение: bill-to инвойса — **PT Surya Bahari Global** (Джакарта), тогда как серия Agaro-Q8 оформлялась на **Q8 GROUP LIMITED** (HK) — уточняется у Scream. Компания в строке оставлена **Q8** (по названию файла и серии). 💱 Q8 EUR — расчёт себестоимости (евро → USD + 0,3% + 30) ждёт курс EUR/USD от Scream, формула не проставлена. | 📄 06.10.2026 (📨 Ордера и Расчеты ! — «**Payment from SURYA ❗**», файл «INV 101 300, 00 EUR.pdf») — **заявка на платёж (Тип 4)**: Beneficiary **AGARO COIN AUCTION, S.L.** (17220, SPAIN SANT FELIU DE GUÍXOLS (GIRONA) CALLE AGARO, NUM 89); Beneficiary Bank **BANCO BILBAO VIZCAYA ARGENTARIA S.A.** (C/Sauceda 28), SWIFT **BBVAESMMXXX**, account **ES52 0182 5117 0702 0159 5495**; Payment details «**PAYMENT INVOICE NO. 10-3 DD 05.10.2026**»; Amount **101 300,00 EUR**; **OUR**. ✅ Та же сделка, что инвойс № 10-3 (101 300 EUR, AGARO) — новая строка НЕ создаётся. Названа компания-плательщик **SURYA** → устраняет ранее отмеченное расхождение (bill-to инвойса был PT Surya Bahari Global, а серия Agaro-Q8 оформлялась на Q8 GROUP LIMITED HK): **company = SURYA** (было Q8). Строка остаётся ⬜ (Step 3, компания известна). Расчёт не-Q8 (EUR) — ждёт курс/формулу от Scream, costFormula не проставлена. | 💰 06.10.2026 (📨 Ордера и Расчеты !) — расчёт себестоимости (SURYA / AGARO inv № 10-3, 101 300 EUR): `101 300,00 × 1,12375093 = 113 836 USD + 0,7% = 114 633 USDT`. costFormula + sent_usdt = **114 633**. | 🛡️ 06.10.2026: движение OUT 114633 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:98). | MT103 Payment Confirmation (SWIFT Outgoing Telegraphic Transfer): | Sending BMRIIDJAXXXX → Receiving DEUTDEFFXXXX | Ordering: /1450019194519 PT SURYA BAHARI GLOBAL JL TEBET RAYA NO.11 G1 RT 020 RW 002 TEBET INDONESIA | Beneficiary: /ES5201825117070201595495 AGARO COIN AUCTION, S.L. 17220, SPAIN SANT FELIU DE GUIXOLS (GIRONA) CALLE AGARO, NUM 89 | Settlement: 101300 EUR | /INV/PAYMENT FOR FOREIGN AND ROMAN | Charge OUR | bankRef OPF1737964800 | → EXECUTED → 🟢 (mt103-classifier-guard)",
     "calc": null,
-    "rowId": "mol-000098"
+    "rowId": "mol-000098",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-05",
+      "ref": "notes: company = SURYA",
+      "backfill": true
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 6,
@@ -117,7 +149,15 @@
     "sent_usdt": 163555.13,
     "notes": "✏️ 05.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 163 036,02 + 0,3% + 30 = 163 555,13 USDT. | Payment Order (docx «Платежное поручение agaro 163 036.02 usd.docx», 📨 Молодежь, 05.10.2026): AMOUNT **163 036,02 USD** → BENEFICIARY **AGARO COIN AUCTION, S.L.** (17220, SPAIN SANT FELIU DE GUÍXOLS (GIRONA) CALLE AGARO, NUM 89), ACCOUNT **ES1101825117092010000115**, BENEF.BANK Banco Bilbao Vizcaya Argentaria s.a. (c/sauceda 28), SWIFT BBVAESMMXXX; PAYMENT DETAILS «**PAYMENT BY INVOICE NO. 10-1 DD 05.10.2026**». = заявка (ордер на платёж) по инвойсу Agaro **№ 10-1** → ⬜ Step 3. Клиент ИП Зольников (Молодёжь), серия Agaro. Компания **Q8** (по серии/названию файла; сам инвойс 10-1 ещё не поступал). Q8-формула (USD): 163 036,02 + 0,3% + 30 → USDT. | 📄 05.10.2026 (📨 Молодежь, файл «Invoice 05.10.26 Agaro-Q8 72 036.02 usd.pdf» — скан, читал вижн) — **Инвойс № 10-1 dd 05.10.2026**: AGARO COIN AUCTION, S.L. → Customer **Q8 GROUP LIMITED (Hong Kong)**, Lot 1 «Lots of Foreign world and roman coins», Total hammer USD **72 036,02**, VAT 0%, Total USD **72 036,02**; BBVA, IBAN ES1101825117092010000115, SWIFT BBVAESMMXXX. 🚨 Арифметика: сумма ордера **163 036,02 = инвойс 10-1 (72 036,02) + инвойс 10-2 (91 000,00)** — ордер «PAYMENT BY INVOICE NO. 10-1» покрывает ДВА инвойса. По правилу «сумма строки из заявки/ордера, инвойсы справочно, строка одна» (см. invoice-vs-order-sum; прецедент r82) — это ОДНА сделка: сумма ордера 163 036,02, инвойсы 10-1 и 10-2 в notes, а r100 (91 000 — инвойс 10-2) является дублем части этой строки. ⏳ Жду подтверждения владельца на слияние r100 → r99 (вопрос задан в FINIVEST). Отдельную строку по инвойсу 10-1 не завожу. | 🏦 08.10.2026 (📨 ПП компании Q8, файл «163036.02.pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O210806332038800998463**, Payment Time **2026-10-08 13:13:56**, Payer **Q8 GROUP LIMITED** → Payee **AGARO COIN AUCTION, S.L.** (BANCO BILBAO VIZCAYA ARGENTARIA, счёт ES1101825117092010000115), **USD 163 036,02**, Transaction Remarks «INVOICE101AND102DD05102026ForAntiqCollectGoods» = инвойсы **101 и 102 dd 05.10.2026**. Реквизиты/сумма совпали → платёж исполнен → 🟢.",
     "calc": null,
-    "rowId": "mol-000099"
+    "rowId": "mol-000099",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-05",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 7,
@@ -137,7 +177,15 @@
     "sent_usdt": 60210,
     "notes": "ПП на VDX №587 от 06.10.2026 (5 304 348,00 ₽ — номер из документа ПП) | 📄 06.10.2026 (📨 Молодежь, файл «doc00162420260923120331.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №587 от 06.10.2026** (исполнен 06.10.2026 13:46:33, Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411; ЭП Егорова Ю.Г.): плательщик **ООО «АВЛОГ»** (ИНН 7805808900, КПП 780501001, счёт 40702810326710001396) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **5 304 348,00 ₽** {VO11100} «Предоплата по контракту №AL26-001 от 29.09.2026 за профиль алюминиевый», НДС не облагается. Получатель — VDX → `sent_rubles_vdx`. ПП на VDX **№587 от 06.10.2026** (5 304 348,00 ₽ VDX). ⚠️ заявки нет — 🔵 отправка на VDX без заявки. Клиент — АВЛОГ (Молодёжь). | 🔗 2026-10-10 (Scream: «Scream: строки 8 и 9 — одна сделка, АВЛОГ на Q8 60 000 USD») — строки 9 объединены с этой: sum = 60000 USD; rubles_received = null; sent_rubles_vdx = 5304348.00 (VDX). Полные notes прежних строк — в Molodezh.removed-rows_8-9_2026-10-10.json. | ✏️ 10.10.2026 (q8-table-guard): company=Q8 → Q8-расчёт проставлен автоматически, 60 000,00 + 0,3% + 30 = 60 210,00 USDT. | 🏦 08.10.2026 BONBILL Payment Certificate (Тип 7, платёж Q8): Transaction ID O2108062635655299072199, Payment Time 2026-10-08 13:11:12, Payer Q8 GROUP LIMITED → Payee Foshan Xubao Import And Export CO.,LTD (AGRICULTURAL BANK OF CHINA, a/c 44423301040014020), USD 60 000,00, Remarks Invoice EXPM-102026021 dd 29.09.2026 → исполнено 🟢. 🔗 10.10.2026 (Scream): строка 9 признана той же сделкой (АВЛОГ → Q8) и объединена с этой — сумма 60 000 USD перенесена сюда. | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «5304348.00 (VDX)» → 5304348.00.",
     "calc": null,
-    "rowId": "mol-000101"
+    "rowId": "mol-000101",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-06",
+      "ref": "notes: Payer Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 8,
@@ -157,7 +205,15 @@
     "sent_usdt": 9127.21,
     "notes": "📄 06.10.2026 (📨 Молодежь, файл «Inv.xls») — **PROFORMA INVOICE PI-20260810005** от **Dongguan Miaosen Electronic Technology Co., Ltd.** (No. 2 Dongyuan 1st Road, Tangxia Town, Dongguan City, Postcode 523710; TEL 86 0769-8207 5999): **To: Q8 GROUP LIMITED** (DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH, Acc 79807111801). Позиции: Spiral zipper (black / white / dark blue S058 / bright blue S918 / red S171 / green S876; Type 3,20cm / 5,85cm / 5,25cm), **TOTAL 18 070,00 USD**. Payment terms: 100% TT deposit in advance. Бенефициар: Dongguan Miaosen Electronic Technology Co., Ltd., a/c 101414 09627693, **JPMorgan Chase Bank N.A., Singapore Branch** (CAPITAL TOWER 168 ROBINSON ROAD, Singapore), SWIFT CHASSGSG, bank code 7153. → company = **Q8** (To: Q8 GROUP LIMITED), расчёт `18 070,00 + 0,3% + 30 = 18 154,21 USDT`. Клиент (принципал Молодёжи) в документе не назван — уточнить у Scream. | 📄 06.10.2026 (📨 Молодежь, файл «payment order_9070USD.docx») — **PAYMENT ORDER DATE 06/10/2026**: AMOUNT **9 070 USD**; BENEFICIARY **Dongguan Miaosen Electronic Technology Co., LTD.** (8 Shenton Way, #45-01 AXA Tower, Singapore 068811); банк **JPMorgan Chase Bank N.A., Singapore Branch**, a/c **10141409627693**, SWIFT **CHASSGSG**; PAYMENT PURPOSE «**Inv. 20260810005**». → по правилу invoice-vs-order-sum сумма строки = из **ордера** (9 070 USD), инвойс PI-20260810005 (18 070 USD) справочно, строка одна. Расчёт: `9 070,00 + 0,3% + 30 = 9 127,21 USDT`. ⚠️ ордер на 9 070 < инвойса 18 070 — вероятно частичная оплата; уточнить у Scream. | 📄 08.10.2026 (📨 ПП компании Q8, файл «9070.00.pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2107706147808083968321**, Payment Time **2026-10-07 13:34:39**, Payer **Q8 GROUP LIMITED** → Payee **Dongguan Miaosen Electronic Technology Co., Ltd.** (JPMorgan Chase Bank N.A., счёт **10141409627693**), **USD 9 070,00**, Transaction Remarks «InvoicePI0260810005ForTextileAccessories» = инвойс **PI-20260810005** (молнии). Реквизиты/сумма/инвойс совпали. Исполнение подтверждено → ⬜→🟢.",
     "calc": null,
-    "rowId": "mol-000103"
+    "rowId": "mol-000103",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-06",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 9,
@@ -177,7 +233,15 @@
     "sent_usdt": 19544.37,
     "notes": "ПП на VDX №216 от 05.10.2026 (1 761 781,04 ₽ — номер из документа ПП) | 📄 06.10.2026 (📨 Молодежь, файл «Платежное_поручение_№216_06.10.2026.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №216 от 05.10.2026** (электронно; штамп **ИСПОЛНЕНО 06.10.2026**, АО «АЛЬФА-БАНК» г. Москва, ДО «Тимирязевский (ЮЛ)», БИК 044525593): плательщик **ИП БРЫЗГУНОВ ДЕНИС ЕВГЕНЬЕВИЧ** (ИНН 732503651709, ул. Гончарова, д.5а, кв.60, Москва, 127254; счёт 40802810202260002318) → получатель **ВИДИИКС СЕРВИСЕЗ - ФЗКО** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **1 761 781,04 ₽** {VO11100} «Предоплата по проформе инвойса № АА-001-158891 от 25.09.2026 по Договору № ATL-381-USD от 12 ноября 2025. ИОНИЗИРОВАННАЯ ВОДА. НДС не облагается». Получатель — VDX → `sent_rubles_vdx`. ПП на VDX **№216 от 06.10.2026** (1 761 781,04 ₽). ⚠️ заявки нет — 🔵 отправка на VDX без заявки. Клиент — Брызгунов (Молодёжь) [предварительно, плательщик]. Guard пройден. | 🔗 2026-10-10 (Scream: «Scream 10.10: строки 9 и 11 — одна сделка (рубли Брызгунова → VDX, оплата инвойса Ultronic 19 456 USD); клиент Брызгунов») — строки 11 объединены с этой: sum = 19456 USD; rubles_received = null; sent_rubles_vdx = 1761781.04 (VDX). Полные notes прежних строк — в Molodezh.removed-rows_9-11_2026-10-10.json. | 🔗 10.10.2026 (Scream): строки 9 и 11 — одна сделка (рубли Брызгунова → VDX, оплата инвойса Ultronic 19 456 USD). Клиент поставлен по рублёвому ПП — «Брызгунов (Молодёжь)»; company = Denis; перенесены Q8-расчёт (19 544,37 USDT) и 🟢 (BONBILL, txid O2108064460420808704575). | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «1761781.04 (VDX)» → 1761781.04.",
     "calc": null,
-    "rowId": "mol-000104"
+    "rowId": "mol-000104",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-06",
+      "ref": "notes: company = Denis",
+      "backfill": true
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 10,
@@ -197,7 +261,15 @@
     "sent_usdt": 20090,
     "notes": "📄 06.10.2026 (📨 Молодежь, файл «payment order 20000.docx») — **PAYMENT ORDER DATE 06/10/2026**: AMOUNT **20 000,00 USD**, CURRENCY USD, PAYMENT METHOD bank transfer; BENEFICIARY **Wide World (Hong Kong) Limited** (ROOM S032, 2/F, The Capital, 61-65 Chatham Road South, Tsim Sha Tsui, KL, Hong Kong); банк **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD** (Chouyin Building, 188 Shangcheng Avenue, Futian Street, Yiwu City, Zhejiang, China), SWIFT **CZCBCN2XXX**, a/c **NRA15602002010590023910**; PAYMENT PURPOSE «**Invoice NO.: 20260902, Microphone**». ⚠️ Клиент/компания в сообщении НЕ названы. В 5 таблицах прямой строки нет (Wide World ранее — Молодёжь r44: company **Q8**, клиент «Мосты (Молодёжь)», PI Order 20260901). Уточнить у Scream (клиент/компания/расчёт). 🔴 (компания не определена). | 📄 06.10.2026 (📨 Молодежь, файл «Копия 20260901 фин.pdf») — **PROFORMA INVOICE Order NO. 20260902 от 01-Oct-26** от **WIDE WORLD (HONG KONG) LIMITED** (ROOM S032, 2/F, THE CAPITAL, 61-65 CHATHAM ROAD SOUTH, TSIM SHA TSUI, KL HK; TEL 86 755 32832911): Consignee **Q8 GROUP LIMITED**; Port of Loading NINGBO (CHINA) → HONG KONG; EXW SHENZHEN. Позиции: **Microphone** (материал 316L Stainless Steel, с Intelliko Sticker) INT-VMIC20-B01 = 40 × $483,35 = $19 334,00; Shipping Cost (вкл. пошлины обе стороны, door to door) = $466,00; HANDLING FEE $200,00; **SUB-TOTAL / TOTAL $20 000,00**. TERMS: 100% deposit in advance. → company = **Q8** (Consignee), расчёт `20 000,00 + 0,3% + 30 = 20 090,00 USDT`. Клиент (принципал Молодёжи) не назван — уточнить у Scream. | 🏦 08.10.2026 (📨 ПП компании Q8, файл «20000.00 (9).pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2108061889467645952364**, Payment Time **2026-10-08 13:08:15**, Payer **Q8 GROUP LIMITED** → Payee **Wide World (Hong Kong) Limited** (счёт **NRA15602002010590023910**, ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2XXX), **USD 20 000,00**, Transaction Remarks «Invoice20260902DD01102026ForElGoods» = инвойс **20260902** (микрофоны, Payment Order 06.10.2026). Реквизиты/сумма/инвойс совпали → company Q8, платёж исполнен → 🟢.",
     "calc": null,
-    "rowId": "mol-000105"
+    "rowId": "mol-000105",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-06",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 11,
@@ -217,7 +289,15 @@
     "sent_usdt": 3697.42,
     "notes": "📄 07.10.2026 (📨 Молодёжь, файл «PO_3656,45_USD_Shenzhen_Lingo_Supply_Chain_Management_Co_,LTD.docx») — **PAYMENT ORDER / PO**: Beneficiary **Shenzhen Lingo Supply Chain Management Co.,LTD** (1008-1018 Yueyun Building No.1001, Wenjin South Road, Nanhu Street, Luohu District, Shenzhen, China); банк **CHINA MERCHANTS BANK** (1-2/F, Foreign Trade Light Ind Bldg, No.1002 Aiguo Road, Shenzhen, China); SWIFT/BIC **CMBCCNBS050**; IBAN/Account **755969239132000**; Amount **3 656,45 USD**. ⚠️ Компания-плательщик и клиент (принципал Молодёжи) в документе НЕ названы — в 5 таблицах ни «Shenzhen Lingo», ни сделка не встречаются. Компания не определена → 🔴; уточнить у Scream (клиент/компания/расчёт). Клиент строки — «—» (по типу соседних PO Молодёжи r102/r103/r105). | 📄 07.10.2026 (📨 Молодёжь, файл «3656,45_USD_INVOICE_Shenzhen_Lingo_Supply_Chain_Management_Co_,LTD.pdf») — **INVOICE INV260900545 от 2026-09-28**: **Payer Q8 GROUP LIMITED** → Shenzhen Lingo Supply Chain Management Co.,LTD; описание «**AIR FREIGHT**»; **Total USD 3 656,45**; реквизиты получателя те же (China Merchants Bank, SWIFT CMBCCNBS050, a/c USD 755969239132000). → company = **Q8** (Payer) → 🔴→⬜ (Step 3), Q8-расчёт `3 656,45 + 0,3% + 30 = 3 697,42 USDT`. Клиент (принципал Молодёжи) в документах не назван — уточнить у Scream. | ✏️ 07.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 3 656,45 + 0,3% + 30 = 3 697,42 USDT. | 🏦 08.10.2026 (📨 ПП компании Q8, файл «3656.45.pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2108066126180253696494**, Payment Time **2026-10-08 13:25:05**, Payer **Q8 GROUP LIMITED** → Payee **SHENZHEN LINGO SUPPLY CHAIN MANAGEMENT CO., LTD.** (CMB, 755969239132000), **USD 3 656,45**, Transaction Remarks «InvoiceINV260900545DD28092026ForAirFreight» = инвойс **INV260900545 dd 28.09.2026** (авиафрахт). Совпало → платёж исполнен → 🟢.",
     "calc": null,
-    "rowId": "mol-000107"
+    "rowId": "mol-000107",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-07",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 12,
@@ -237,7 +317,15 @@
     "sent_usdt": 10060,
     "notes": "📄 07.10.2026 (📨 Молодёжь, файл «10000 USD INVOICE Sihuaer Technology Co., Ltd (1).pdf») — **PROFORMA INVOICE № SHR-C2C20261001002M dd Oct.1st, 2026**: Seller **Sihuaer Technology Co., Ltd** (Room 1801, Easey Commercial Building, 253-261 Hennessy Road, Wan Chai, Hong Kong) → **Buyer Q8 GROUP LIMITED**. Позиции (сетевое оборудование Huawei): S5735-S48P4XE-V2 + L-MLICS57S 940×4 = 3 760; PAC1000S56-EB 164×8 = 1 312; S5735I-S8T4SN-V2 352×14 = 4 928; **Total amount $10 000**. Банк: **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD** (No.161 Ba Yi South Street, Jinhua, Zhejiang, China), SWIFT **CZCBCN2X**, a/c **NRA15702002010590036613**, beneficiary SIHUAER TECHNOLOGY CO., LIMITED. → company = **Q8** (Buyer) → 🔴→⬜ (Step 3), Q8-расчёт `10 000,00 + 0,3% + 30 = 10 060,00 USDT`. Клиент (принципал Молодёжи) в документе не назван — уточнить у Scream. | 📄 07.10.2026 (📨 **Заявки Компания Q8**, файл «PO 10000 USD Sihuaer Technology Co., Ltd.docx») — **PAYMENT ORDER / PO**: Beneficiary **Sihuaer Technology Co., Ltd** (Room 1801, Easey Commercial Building, 253-261 Hennessy Road, Wan Chai, Hong Kong); банк **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD.** (No.161 Ba Yi South Street, Jinhua, Zhejiang, China); SWIFT **CZCBCN2X**; IBAN/Account **NRA15702002010590036613**; Amount **10 000 USD**. Тот же платёж, что проформа SHR-C2C20261001002M (строка одна, новую НЕ создаём); канал «Заявки Компания Q8» подтверждает company = **Q8**. Цвет без изменений ⬜. | 🏦 08.10.2026 (📨 ПП компании Q8, файл «10000.00 (24).pdf») — **BONBILL LIMITED 付款电子凭证 / Payment Certificate** (Тип 7, платёж Q8): Transaction ID **O2108065548083527680805**, Payment Time **2026-10-08 13:22:47**, Payer **Q8 GROUP LIMITED** → Payee **Sihuaer Technology Co., Ltd** (ZHEJIANG CHOUZHOU COMMERCIAL BANK, NRA15702002010590036613), **USD 10 000,00**, Transaction Remarks «InvoiceSHRC2C20261001002MDD01102026ForElParts» = инвойс **SHR-C2C20261001002M dd 01.10.2026** (электронные детали). Совпало → платёж исполнен → 🟢.",
     "calc": null,
-    "rowId": "mol-000108"
+    "rowId": "mol-000108",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-07",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 13,
@@ -277,7 +365,15 @@
     "sent_usdt": 124014.67,
     "notes": "📄 07.10.2026 (📨 Молодёжь, файл «CC_payment order 110 (1).pdf» — скан, читал вижном) — **ПОРУЧЕНИЕ № 3 от 07.10.2026** (Transfer request No. 3; Приложение №1 к Агентскому договору № 260424-003 от 24.04.2026): **от ООО «АРХИМЕД ИНЖИНИРИНГ» в адрес ООО «VDX SERVICES - FZCO»** на осуществление платежа в иностранной валюте **по инвойсу № 0013 от 07.10.2026** (в поле «назначение» — «Invoice № 0012 dd 02.10.2026»). Принципал **ООО «АРХИМЕД ИНЖИНИРИНГ»** (ген. директор Бухара Елена Александровна); сумма **110 000,00 EUR**; получатель (нерезидент) **TEHGAZ URUNLERI NAKLIYAT IC DIS TICARET VE SANAYI LIMITED SIRKETI** (Cumhuriyet blv Batı A - B Blok No 77/A/95, Izmit/Kocaeli, TURKEY); банк **Garanti Bankasi**, SWIFT **TGBATRISXXX**, IBAN **(EUR) TR87 0006 2001 1480 0009 0811 51** (Bank address: Aytar Cad. No.2, Levent Nispetiye Mah., Beşiktaş); **курс 96,40**; сумма в рублях **10 604 000,00 руб**; **комиссия Агента 106 040,00 руб**; срок 2-3 банк. дня. Агент подписал Hikmat Ahmadov (директор, печать VDX SERVICES - FZCO, Dubai). Компания-плательщик не названа → 🔴 (Step 0). ⚠️ Вторая ПП по тому же агентскому договору/получателю TEHGAZ, что и строка 2 (Поручение №2 от 02.10.2026, 68 200 EUR) — отдельная строка. | ПП на VDX №91 от 07.10.2026 ИСПОЛНЕН 07.10.2026 (ПАО Сбербанк России, Оренбургское отделение №8623, БИК 045354601; ЭП Бухара Елена Александровна): ООО «АРХИМЕД ИНЖИНИРИНГ» (ИНН 5610247840, КПП 561001001, счёт 40702810246000015069) → ООО «VDX SERVICES - FZCO» (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), **106 040,00 ₽** {VO21100} «Оплата по агентскому договору № 260424-003 от 24.04.2026 для исполнения Поручения № 3 от 07.10.2026 (вознаграждение агента)». НДС не облагается. Получатель VDX → `sent_rubles_vdx` = 106 040,00 (вознаграждение Агента). 🚨 Тело платежа по Поручению №3 (110 000 EUR; рублёвый эквивалент 10 604 000,00 ₽ по курсу 96,40) — ждём свой ПП (как ПП №88 к строке 95), тогда `sent_rubles_vdx` станет «10 604 000,00 (VDX) / 106 040,00 (VDX)». | 📄 07.10.2026 (📨 Молодёжь, файл «payment order 110.docx») — **PAYMENT ORDER (заявка на платёж, Тип 4)**: AMOUNT **110 000 EUR**; BENEFICIARY **TEHGAZ URUNLERI NAKLIYAT IC VE DIS TICARET VE SANAYI LIMITED** (Cumhuriyet blv Bati A - B Blok No 77/A/95, Izmit/Kocaeli, TURKEY; TAX 8330986750); BENEFICIARY BANK **Garanti Bankasi** (AYTAR CAD NO.2, LEVENT NISPETIYE MAH, BESIKTAS); IBAN **TR87 0006 2001 1480 0009 0811 51**; SWIFT **TGBATRISXXX**; PAYMENT PURPOSE «**Payment for invoice № 13 from 07.10.2026**». ✅ Та же сделка, что Поручение №3 (110 000 EUR, TEHGAZ, инвойс 0013 от 07.10.2026) — новая строка НЕ создаётся. | 📄 07.10.2026 (📨 Молодёжь, файл «CC_INVOICE 110 К EUR на агента (1).pdf» — скан, читал вижном) — **PROFORMA INVOICE № 0013 dd 07.10.2026** (продавец **TEHGAZ URUNLERI NAKLIYAT IC DIS TICARET VE SANAYI LIMITED SIRKETI**, Cumhuriyet blv Bati A-B Blok No 77/A/95, Izmit/Kocaeli, TURKEY; TAX 8330986750) → покупатель **Q8 GROUP LIMITED**: позиция 1 «MRI Philips» ×1 = **110 000 EUR**; TOTAL **110 000 EUR**; банк **Garanti Bankasi**, IBAN **TR87 0006 2001 1480 0009 0811 51**, SWIFT **TGBATRISXXX**. Инвойс-основание к Поручению №3 — новая строка НЕ создаётся; **компания Q8** → Step 3 → 🔴→⬜. | 💸 07.10.2026 (📨 Молодёжь, файл «Платёжное_поручение_№_92_от_07_10_2026.PDF») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 92 от 07.10.2026 ИСПОЛНЕН** (ПАО Сбербанк России, Оренбургское отделение №8623, БИК 045354601; ЭП Бухара Елена Александровна): **ООО «АРХИМЕД ИНЖИНИРИНГ»** (ИНН 5610247840, КПП 561001001, счёт 40702810246000015069) → **ООО «VDX SERVICES - FZCO»** (ИНН 9909710068, ПСБ, счёт 40807810000000015414), **10 604 000,00 ₽** {VO11100} «Оплата по агентскому договору № 260424-003 от 24.04.2026 для исполнения Поручения № 3 от 07.10.2026 (тело платежа согл. инвойсу № 0013 от 07.10.2026 за оборудование)». НДС не облагается. → **ТЕЛО платежа** (вознаграждение 106 040,00 ₽ — ПП №91). Получатель VDX → `sent_rubles_vdx` = **10 604 000,00 / 106 040,00 (VDX)**. Маркер: `ПП на VDX №92 от 07.10.2026 (10 604 000,00 ₽ — тело по Поручению №3, Архимед)`. Сумма в рублях сходится с Поручением №3 (110 000 EUR × 96,40 = 10 604 000,00 ₽). | 🗑️ 10.10.2026 (Scream): рубли РК-Трейда (приход по Поручению №13), ошибочно записанные на этой строке (Архимед), сняты — их место на строках РК-Трейд; реквизиты выписок ПОЧТОБАНК и ПП (Аль Сафи, VDX заявка 825) — в файле Molodezh.rk-trade-detached-r15_2026-10-10.json. | ✅ 12.10.2026 (личка Scream) — BONBILL Payment Certificate (Тип 7, исполнение заявки Q8): Transaction ID O2109559562473439232170; Payment Time 2026-10-12 16:19:28; Payer Q8 GROUP LIMITED → Payee TEHGAZ URUNLERI NAKLIYAT IC VE DIS TICARET VE SANAYI LIMITED (Garanti Bankasi, счёт TR870006200114800009081151); Invoice0013DD07102026ForMRIPhilips; 110 000,00 EUR → строка ⬜→🟢 | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «10604000 (VDX) / 106040.00 (VDX)» → 10604000 / 106040.00.",
     "calc": null,
-    "rowId": "mol-000110"
+    "rowId": "mol-000110",
+    "companySource": {
+      "source": "order",
+      "date": "2026-10-07",
+      "ref": "notes: Payer Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 15,
@@ -309,7 +405,15 @@
         "amount": 24390,
         "rowId": "mol-000111"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-07",
+      "ref": "notes: company = **KIRANA GLOBAL HUB",
+      "backfill": true
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 16,
@@ -329,7 +433,15 @@
     "sent_usdt": 6649.8,
     "notes": "ПП на VDX №95 от 07.10.2026 ИСПОЛНЕНО (АО «РАЙФФАЙЗЕНБАНК» г. Москва, БИК 044525700, ПРОВЕДЕНО 7 ОКТ. 2026; ЭП Глушков Александр Павлович; УПНО 10445257000000000710202600059720): плательщик **ООО «БЬЮТИ БРЕНДЗ»** (ИНН 7728194795, КПП 772801001, счёт 40702810400000218187) → получатель **ВИДИИКС СЕРВИСЕЗ - ФЗКО** (ИНН 9909710068, ПСБ г. Ярославль, БИК 044525555, счёт 40807810000000015414), **565 696,56 ₽** {VO11100} «beneficiary DUANNY INDUSTRY CO., LIMITED, For enrollment contract N 104 of 29.09.2026, оплата по Поручению №4 от 07.10.2026 по аг.договору №111 от 21.07.2026. Without VAT». = ТЕЛО платежа. | ПП на VDX №94 от 07.10.2026 ИСПОЛНЕНО (АО «РАЙФФАЙЗЕНБАНК» г. Москва, БИК 044525700, ПРОВЕДЕНО 7 ОКТ. 2026; ЭП Глушков Александр Павлович; УПНО 10445257000000000710202600059727): тот же плательщик → тот же получатель VDX, **28 456,25 ₽** {VO21100} «Для зачисления по контракту 111 от 21.07.2026, оплата по Поручению №4 от 07.10.2026г., вознаграждение, в том числе НДС 22% — 5131,45». = ВОЗНАГРАЖДЕНИЕ агента. `sent_rubles_vdx` = 565 696,56 / 28 456,25 (VDX). Клиент **Бьюти Брендз (Молодёжь)**, компания-плательщик не названа → 🔵 (заявки/поручения №4 отдельным документом не было — ждём). ⚠️ Совпадений по 28 456,25 / 565 696,56 / DUANNY / Бьюти в 5 таблицах нет (новая сделка). | 📄 07.10.2026 (📨 Молодёжь, файл «payment order DUANNY.docx») — **PAYMENT ORDER (заявка/ордер на платёж)**: DATE 07/10/2026; AMOUNT **6 600,00 USD**; CURRENCY USD; PAYMENT METHOD **SWIFT**; BENEFICIARY **DUANNY INDUSTRY CO., LIMITED** (Rm 501, Unit 5, No.31 Wuai Rd, Jiangdong Str., Yiwu, Zhejiang, China); BENEFICIARY BANK **ZHEJIANG CHOUZHOU COMMERCIAL BANK** (No. 188, Mall Avenue, Yiwu, Zhejiang, China); ACCOUNT NUMBER **NRA15602142010500014067**; SWIFT **CZCBCN2XXXX**; PAYMENT PURPOSE «**PROFORMA INVOICE PI26092401 dd 30.09.2026**». ✅ Та же сделка — Поручение №4 (аг.договор №111 от 21.07.2026), бенефициар DUANNY INDUSTRY (совпадает с назначением ПП №95). Новая строка НЕ создаётся; заявка по сделке получена. | 📄 07.10.2026 (📨 Молодёжь, файл «PI_Jar_for_MoneSkin_Wild_Waves_melting_balm_Beauty_Brands_LLC_2026.pdf») — **PROFORMA INVOICE** (продавец **DUANNY INDUSTRY CO., LIMITED**, Rm 501, Unit 5, No.31 Wuai Rd, Yiwu, Zhejiang, China) → покупатель **Q8 GROUP LIMITED**: позиция 1 «**Rotating Stick Cleansing Balm Jar**» DNJP-629, 50g, 70×80 мм, материал PP (Cap 1767 glossy/opacity 50%; Inner grinder 1777; Body 1767 U matte; 1-color silk screen printing), **10 000 шт × 0,660 = 6 600,00 USD**; Total/TTL **6 600,00 USD**; EXW; Remarks: Export Packing, предоплата 100% (balance 0%), lead time 30 дней, допустимо ±3-5%. Банк: **ZHEJIANG CHOUZHOU COMMERCIAL BANK** (No.188 Mall Avenue, Yiwu), SWIFT **CZCBCN2XXXX**, счёт **NRA15602142010500014067**, бенефициар DUANNY INDUSTRY; интермедиатор **CITIUS33XXX — CITIBANK NA New York** (388 Greenwich Street), VIA CITIUS33XXX. ✅ Инвойс-обоснование к платежу DUANNY (6 600 USD) — та же сделка, что строка 20 (Поручение №4, Бьюти Брендз). `sum` = 6 600,00 USD. | 📄 07.10.2026 (📨 Молодёжь, файл «Поручение №4 Duanny.pdf») — **ПОРУЧЕНИЕ № 4 от 07.10.2026** (Transfer request No. 4; Приложение № 1 к Агентскому договору № 111 от 21.07.2026): **от ООО «Бьюти Брендз» в адрес FZCO «VDX SERVICES»** на осуществление платежа в иностранной валюте по инвойсу **PI26092401 от 30.09.2026**. Принципал **ООО «Бьюти Брендз»**; сумма **6 600,00 USD**; получатель (нерезидент) **DUANNY INDUSTRY CO., LIMITED** (Rm 501, Unit 5, No.31 Wuai Rd, Jiangdong Str., Yiwu, Zhejiang, China); банк получателя **ZHEJIANG CHOUZHOU COMMERCIAL BANK** (No. 188, Mall Avenue, Yiwu, Zhejiang, China), счёт **NRA15602142010500014067**, SWIFT **CZCBCN2XXXX**; назначение «PROFORMA INVOICE PI26092401 dd 30.09.2026 for DNJP-629, 10 000 pcs»; **курс конвертации 85,7116**; сумма к перечислению в рублях **565 696,56 ₽**; **комиссия Агента 28 456,25 ₽**; срок 2-3 банковских дней. Подписи: ООО «Бьюти Брендз» / FZCO «VDX SERVICES». ✅ Суммы сходятся: ПП №95 тело 565 696,56 ₽ + ПП №94 вознаграждение 28 456,25 ₽; инвойс PI26092401 (= 6 600,00 USD, DUANNY → Q8 GROUP LIMITED). | ✏️ 14.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 6 600,00 + 0,3% + 30 = 6 649,80 USDT. | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «565696.56 (VDX) / 28456.25 (VDX)» → 565696.56 / 28456.25.",
     "calc": null,
-    "rowId": "mol-000112"
+    "rowId": "mol-000112",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 17,
@@ -349,7 +461,15 @@
     "sent_usdt": 53595,
     "notes": "📄 07.10.2026 (📨 Молодёжь, файлы «Payment Order Italy104.pdf» + «INVOICE 47 507.5 EUR .pdf») — **PAYMENT ORDER (заявка/ордер, Тип 4)**: DATE 07/10/2026; AMOUNT **47 507,5 EUR**; PAYMENT METHOD SWIFT; BENEFICIARY **Teknofanghi S.r.l** (Via Brescia 18, 20063 Cernusco S/N MI; C.F.-P.I. IT 08969100158; R.I. Milano 277169); BENEFICIARY BANK **INTESA SANPAOLO SPA, FILIALE CERNUSCO S/N** (Piazza Giacomo Matteotti 21, 20063 Cernusco sul Naviglio MI, ITALY), счёт **IT36L0306932880100000011261**, SWIFT **BCITITMM682**; PAYMENT PURPOSE «Proforma Invoice No.26/00362 от 30/06/2026 + Proforma Invoice No.26/00104 от 06/10/2026». Приложенный **PROFORMA INVOICE № 26/00104 dd 06/10/2026** (Teknofanghi s.r.l., Milano/Cernusco → Customer **PT SURYA BAHARI GLOBAL**, Jalan Tebet Raya No 11G 1, Tebet Barat, Jakarta, Indonesia; WIRE TRANSFER, ADVANCE; EXW CERNUSCO S/N MI, ITA; PI 26/00104) = **47 507,5 EUR**. Компания **SURYA** → Step 3 → ⬜. ⚠️ инвойсы 26/00104 + 26/00362 фигурируют также в Поручении №13 (строка 17, РК-Трейд) — уточнить связь. Совпадений по 47 507,5 / Teknofanghi / 26/00104 в 5 таблицах нет. | 🛡️ 07.10.2026 guard-before-create (--rubles 4 585 421,90 @ курс 96,52): exit 2 — рублёвая сумма соответствует инвойсу этой строки (47 507,5 EUR); отдельную формальную строку не создавать, платёж привязывать к этому инвойсу. | 📄 07.10.2026 (📨 Молодёжь, файл «Payment Order Italy104.pdf» — вариант на 47 507,5 EUR) — **PAYMENT ORDER 07/10/2026**: AMOUNT **47 507,5 EUR**; PAYMENT METHOD SWIFT; Beneficiary **Teknofanghi S.r.l** (Via Brescia 18, 20063 Cernusco S/N MI); BENEFICIARY BANK **INTESA SANPAOLO SPA, FILIALE CERNUSCO S/N**, счёт **IT36L0306932880100000011261**, SWIFT **BCITITMM682**; PAYMENT PURPOSE «**Proforma Invoice No.26/00104 dd 06/10/2026**». = заявка на оплату именно инвойса 26/00104 (47 507,5 EUR) — та же сделка, что строка. | 🗑️ 10.10.2026 (Scream): клиент — РК-Трейд (Молодёжь). Приход по Поручению №13 и уходы (VDX/Аль Сафи) сведены на строку Молодёжь r14; на этой строке рубли не дублируются. | 📄 12.10.2026 (📨 Ордера и Расчеты !, «**Payment from SURYA❗️**» + файл «INV 47 507,50 EUR.pdf») — **PROFORMA INVOICE № 26/00104 dd 06/10/2026** (Teknofanghi s.r.l., Via Brescia 18 — 20063 Cernusco S/N MI, Italia; C.F./P.I. IT 08969100158 → Customer **PT SURYA BAHARI GLOBAL**, Jalan Tebet Raya No 11G 1, Tebet Barat, Jakarta): оборудование (BELT FILTER PRESS MONOBELT NP06C, POLYDILUTION CAP07CE03, outlet manifold, control panels, wooden platforms — 10 поз.), Total net / **Amount payable EUR 47 507,50** (VAT 0%, ART.8/a DPR 633/72); EXW Cernusco S/N MI; WIRE TRANSFER, ADVANCE. Beneficiary bank **Banca Intesa Sanpaolo Spa** (P.za Matteotti 21, 20063 Cernusco S/N Mi), IBAN **IT36L0306932880100000011261**, SWIFT **BCITITMM682**; OUR. Компания-плательщик **SURYA**. Та же сделка, что строка (Teknofanghi, 47 507,5 EUR) — новую строку не создаю. | 🛡️ 12.10.2026: движение OUT 53595 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:17). | MT103 Payment Confirmation (SWIFT Outgoing Telegraphic Transfer): | Sending BMRIIDJAXXXX → Receiving SCBLDEFXXXXX | Ordering: /1450019194519 PT SURYA BAHARI GLOBAL JL TEBET RAYA NO.11 G1 RT 020 RW 002 TEBET INDONESIA | Beneficiary: /IT36L0306932880100000011261 TEKNOFANGHI S.R.L VIA BRESCIA, 18 - 20063 CERNUSCO S/ N MI | Settlement: 47507.5 EUR | /INV/PAYMENT FOR WASTEWATER TREATME | Charge OUR | bankRef OPF1744969632 | → EXECUTED → 🟢 (mt103-classifier-guard)",
     "calc": null,
-    "rowId": "mol-000113"
+    "rowId": "mol-000113",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-07",
+      "ref": "notes: Компания-плательщик **SURYA",
+      "backfill": true
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 18,
@@ -369,7 +489,15 @@
     "sent_usdt": 32773.22,
     "notes": "ПП на VDX №4753 от 07.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545, к/с 30101810300000000545; электронно; «Проведено: 07.10.2026»): плательщик **АО «Фри Лайнс Компани»** (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **2 833 615,44 ₽** {VO21200} «для перечисления (**CPW TASIMACILIK VE TICARET AS**) Payment CPA2026000000131 dd 22.09.2026; CONTRACT № 110422-1-EURO dd 11.04.2022 по аген. дог № 09-02-3/26 от 09.02.26. НДС не облаг.». Получатель VDX → `sent_rubles_vdx`. ⚠️ заявки/поручения по CPW в 5 таблицах нет — 🔵 отправка на VDX без заявки. | 📄 07.10.2026 (📨 Молодёжь, файл «Поручение №28.pdf») — **ПОРУЧЕНИЕ № 28 от 07.10.2026** (Transfer request No. 28; Приложение № 1 к Агентскому договору № 09-02-3/26 от 09.02.2026): от **АО «Фри Лайнс Компани»** в адрес LLC «VDX SERVICES - FZCO», платёж по инвойсу **CPA2026000000131 dd 22.09.2026**, контракт **110422-1-EURO от 11.04.22**. Сумма **29 050,00 EUR**; получатель **CPW TASIMACILIK VE TICARET AS** (Dereboyu Cad. Meydan Sok. No:1 Kat:20 75-76, Maslak 34398 Istanbul, TURKEY); банк **TURKIYE VAKIFLAR BANKASI T.A.O.**, счёт **TR910001500158048024155977**, SWIFT **ETVBATR2A**; курс **1 EUR = 97,5427 ₽** → в рублях **2 833 615,44 ₽** (= ПП №4753). | 📄 07.10.2026 (📨 Молодёжь, файл «FREE - КС! 0909.pdf») — **CPW e-Arşiv Fatura № CPA2026000000131 dd 22.09.2026** (ETTN BD3587F3-BFDB-4445-8CFC-8DE8BECA2820): продавец **CPW TAŞIMACILIK VE TİCARET A.Ş.** (Maslak, Sarıyer/İstanbul; VKN 2150253785) → покупатель **Q8 GROUP LIMITED** (Kwun Tong, HK): позиция 1 «**LCL - OCEAN FREIGHT**» 1 Adet = **29 050,00 EUR**; KDV 0%; KUR 45,2384; Sipariş No SAP-1030; TIR 28695. ✅ Инвойс-обоснование к Поручению №28 / ПП №4753. | 📄 07.10.2026 (📨 Молодёжь, файл «payment order 4.docx») — **PAYMENT ORDER DATE 07/10/26**: AMOUNT **29 050,00 EUR**; CURRENCY EUR; PAYMENT METHOD «100% afterpayment»; BENEFICIARY **CPW TAŞIMACILIK VE TİCARET A.Ş.** (Dereboyu/Meydan Sk. Beybigiz Plaza No:1, 34398 Maslak/Sarıyer/İstanbul); BENEFICIARY BANK **TURKIYE VAKIFLAR BANKASI T.A.O.** (Yeni Mah. Gazi Mustafa Kemal Bulvarı No:688D, Mezitli/MERSİN); IBAN **TR910001500158048024155977**; SWIFT **ETVBATR2A**; PAYMENT PURPOSE «Payment for transport service under invoice **CPA2026000000131 dd 22.09.2026**». ✅ Та же сделка, что строка (Поручение №28 / ПП №4753). | 🔗 2026-10-10 (Scream: «Scream 10.10: тело 2 833 615,44 (стр.19) + комиссия 52 258,50 (стр.22) — одна сделка Фри Лайнс (поручение №28)») — строки 22 объединены с этой: sum = 29050 EUR; rubles_received = null; sent_rubles_vdx = 2833615.44 / 52258.50 (VDX - поручение 28). Полные notes прежних строк — в Molodezh.removed-rows_19-22_2026-10-10.json. | 📄 12.10.2026 (📨 ПП компании Q8, файл «29050.pdf») — **PAYMENT RECEIPT** (Q8): Amount received **29 050,00 EUR**; Payment status **Processing**; Payment Date 2026-10-12 16:12:55; Transaction serial **O2109557915873574912953**; recipient **CPW TASIMACILIK VE TICARET A.S.** (TURKIYE VAKIFLAR BANKASI T.A.O., BIC **TVBATR2A**); payer Q8 GROUP LIMITED; Payment Note «For Transport Service Invoice **CPA2026000000131** DD 22.09.2026». Перечисление 29 050 EUR по CPW (та же сделка: заявка/Поручение №28, ПП на VDX №4753) — статус **Processing** (в обработке, не исполнено) → ⬜→🟡; жду исполнения → 🟢. | 📄 12.10.2026 (📨 ПП компании Q8, файл «29050.00.pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2109557915873574912953**, Payment Time 2026-10-12 16:12:55; Payer **Q8 GROUP LIMITED** → Payee **CPW TASIMACILIK VE TICARET A.S.** (Türkiye Vakıflar Bankası T.A.O., счёт TR910001500158048024155977); Currency Amount **EUR 29 050,00**; Remarks «For Transport Service Invoice CPA2026000000131 DD 22092026». Подтверждение исполнения → 🟡→🟢. | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «2833615.44 / 52258.50 (VDX - поручение 28)» → 2833615.44 / 52258.50.",
     "calc": null,
-    "rowId": "mol-000115"
+    "rowId": "mol-000115",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-07",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 19,
@@ -388,7 +516,15 @@
     "exchange_to": "VDX",
     "vdx_rate": 85.85,
     "received_usdt": "104 112,50 / 1 145,24",
-    "sent_usdt": 104608.1
+    "sent_usdt": 104608.1,
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-08",
+      "ref": "notes: Payer Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 20,
@@ -420,7 +556,15 @@
         "amount": 4890,
         "rowId": "mol-000117"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-08",
+      "ref": "notes: компания = TOMO",
+      "backfill": true
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 21,
@@ -440,7 +584,15 @@
     "sent_usdt": 4834.571,
     "notes": "ПП на VDX №4756 от 08.10.2026 (410 816,85 ₽ — номер из документа ПП) | ПП на VDX №4757 от 08.10.2026 (27 732,57 ₽ — номер из документа ПП) | 💸 08.10.2026 (📨 Молодежь, файл «VDX 27.732,57.pdf») — рубли ушли с АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274, АО ЮНИКРЕДИТ БАНК, БИК 044525545) на **VDX SERVICES - FZCO** (счёт 40807810000000015414, ПСБ), **ПП №4757 от 08.10.2026** — **27 732,57 ₽** {VO21100} «оплата вознаграждения согласно поручению №29 от 08.10.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026» (агентское). sent_rubles_vdx = 27 732,57 (VDX - поручение 29). Тело по поручению №29 и заявка/инвойс в таблицах не найдены — 🔵, ждём. | 💸 08.10.2026 (📨 Молодежь, файл «Mamut Logistics S.L. 410.816,85.pdf»; АО ЮНИКРЕДИТ БАНК, Проведено 08.10.2026) — **ПП №4756 от 08.10.2026**: плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274) → VDX SERVICES - FZCO, **410 816,85 ₽** {VO21400} «для перечисления (Mamut Logistics S.L.) Payment under invoice № INV-000904 dd 2026-10-06, поруч №29 от 08.10.26 по аген. дог № 09-02-3/26 от 09.02.26» (тело поручения 29). sent_rubles_vdx = 410 816,85 / 27 732,57 (VDX - поручение 29). | 📄 08.10.2026 (📨 Молодежь, файл «INV-000904.pdf») — **INVOICE INV-000904** (dd 2026-10-06, payment term 2026-10-13): Seller **Mamut Logistics S.L.** (Calle Maldonado 4 Bajo, Torrevieja, Alicante, ES 03181; Company code B10746329; VAT ESB10746329; Banco Santander a/c ES65 0049 2995 5125 1418 2116) → Buyer **ALTERA LOGISTICS LIMITED** (International House, 55 Longsmith Street, GL1 2HT Gloucester, GB; Company code 17015210). Маршрут **Netherlands – Jebel Ali Port (UAE)**; 1 × 4 210,00 = **4 210,00 EUR** (four thousand two hundred ten euros); инвойс создал Tomas Satkevic. ✅ Инвойс-основание к строке поручения №29 (сумма = 4 210,00 EUR; тело ПП №4756 = 410 816,85 ₽, курс 97,58); компания = **ALTERA** (Buyer ALTERA LOGISTICS LIMITED) — проставил. | 📄 08.10.2026 (📨 Молодежь, файл «payment_order_filled_VDX.docx») — **PAYMENT ORDER DATE 08/10/26**: AMOUNT **4 210,00 EUR**, CURRENCY EUR, PAYMENT METHOD **100% prepayment**; BENEFICIARY **Mamut Logistics S.L.** (Calle Maldonado 4 Bajo, Torrevieja, Alicante ES 03181; Company code B10746329; VAT ESB10746329); BENEFICIARY BANK **Banco Santander, S.A.** (Spain); IBAN **ES65 0049 2995 5125 1418 2116**; SWIFT **BSCHESMMXXX**; PAYMENT PURPOSE «invoice number INV-000904 dd 2026-10-06». ✅ Платёжный ордер к сделке (4 210,00 EUR). | 📄 09.10.2026 (📨 Ордера и Расчеты !, подпись «**Payment from ALTERA❗️**»; файл «INV 4 210,00 EUR.pdf») — тот же ордер: плательщик **ALTERA**, бенефициар **Mamut Logistics S.L.** (Calle Maldonado 4, Torrevieja, Alicante, ES; Banco Santander, SWIFT BSCHESMMXXX), назначение «invoice INV-000904», 4 210,00 EUR, OUR. Строка та же (mol-000119), новую не создаю. | 💱 09.10.2026 (📨 Ордера и Расчеты !, скрин конвертера, mid-market 11:07 UTC): кросс-курс EUR/USD = 1.12067573 (4 210,00 EUR = 4 718,04 USD). | 📄 09 октября 2026 (📨 Платежные Поручения, файл «ALTERA_LOGISTICS_LIMITED_MT18CFTE28004000000000005856595_fa255459.pdf») — **TRANSACTION CONFIRMATION / PAYOUT** (платёжная платформа, Account MT18CFTE28004000000000005856595): Company Name **ALTERA LOGISTICS LIMITED** → Payer/Recipient **Mamut Logistics S.L.** (IBAN ES6500492995512514182116), **4 210,00 EUR**, тип **SEPA**, референс «Invoice number INV-000904 dd 2026-10-06», **Status: INITIATED** → подвешенная ПП (запуск, не исполнение) → ⬜→🟡, ждём EXECUTED → 🟢. | расчёт Ордера и Расчеты 09.10.2026 (ALTERA → Mamut Logistics, 4 210 EUR) | 🛡️ 09.10.2026: движение OUT 4834.571 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:26). | TRANSACTION CONFIRMATION / PAYOUT (Account MT18CFTE28004000000000005856595): 09.10.2026 12:21 UTC, Company ALTERA LOGISTICS LIMITED → Mamut Logistics S.L. (IBAN ES6500492995512514182116), -4 210,00 EUR, SEPA, ref «Invoice number INV-000904 dd 2026-10-06», Status: COMPLETED (Created 14.10.2026 07:05 UTC) → 🟢 (bank-status-link) | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «410816.85 / 27732.57 (VDX - поручение 29)» → 410816.85 / 27732.57.",
     "calc": null,
-    "rowId": "mol-000119"
+    "rowId": "mol-000119",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-08",
+      "ref": "notes: Company ALTERA",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 22,
@@ -461,7 +613,15 @@
     "sent_usdt": null,
     "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **DAZ TRANS LOGISTIK Sp. z o.o.** (PKO BP, SWIFT BPKOPLPW) — DAZ 127 (3 057,25) + DAZ 133 (3 550,00) = 6 607,25 EUR (VAT 0%). Scream: «На оплату от Q8 на DAZ 6607,25 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-03-10-2026 DAZ 133.pdf») — **FAKTURA VAT 03/10/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa 133 (GTU_13), 1 шт, **3 550,00 EUR** (15 529,48 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Один из двух инвойсов к строке (DAZ 127 + DAZ 133 = 6 607,25 EUR) — новую строку не создаю. | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-22-09-2026 DAZ 127.pdf») — **FAKTURA VAT 22/09/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa / Zlecenie nr 127 (GTU_13), 1 шт, **3 057,25 EUR** (13 375,47 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Второй из двух инвойсов к строке (DAZ 127 + DAZ 133 = 6 607,25 EUR) — новую строку не создаю. |  | 🔷 12.10.2026 (📨 Молодежь, файл «pacs.008 EUR 6 607.25 DELUFR.pdf») — **pacs.008.001.08** (Alliance Cloud / SWIFT FINplus, MsgId **ASB1261012000014**, CreDtTm 2026-10-12T13:43:58Z), Direction Outgoing; From **AILSKZ2KXXX** → To **DELUFR22XXX**; IntrBkSttlmAmt **EUR 6 607,25**, SttlmDt 2026-10-12; **Status ACKed** (сетевой ACK SWIFT — НЕ исполнение; 🟢 только по подтверждению владельца). | | ✅ 13.10.2026 (Scream переслал от John! (VDX), файл «pacs.008 EUR 6 607.25 DELUFR.pdf») — **SWIFT pacs.008.001.08** (Alliance Cloud, From AILSKZ2KXXX → To DELUFR22XXX, Outgoing; Status ACKed; Report 12.10.2026): плательщик **Q8 GROUP LIMITED** → бенефициар **DAZ TRANS LOGISTIK SP. Z O.O.** (ZĄBKI, IBAN PL22102012600000040202275618); **EUR 6 607,25**; назначение «PREPAYMENT FOR TRANSPORT SERVICES UNDER INV. FAKTURA VAT 22/09/2026 DD 29-09-2026, FAKTURA VAT 03/10/2026 DD 06-10-2026». ✅ Платеж исполнен → 🟢.",
     "calc": null,
-    "rowId": "mol-000120"
+    "rowId": "mol-000120",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": "2026-10-09",
+      "ref": "notes: плательщик **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 23,
@@ -482,7 +642,15 @@
     "sent_usdt": null,
     "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **DAZ TRANS LOGISTIK Sp. z o.o.** — DAZ 134 (3 550,00) + DAZ 135 (3 048,00) = 6 598,00 EUR (VAT 0%). Scream: «На оплату от Q8 на DAZ 6598 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-04-10-2026 DAZ 134.pdf») — **FAKTURA VAT 04/10/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa 134 (GTU_13), 1 шт, **3 550,00 EUR** (15 529,48 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Один из двух инвойсов к строке (DAZ 134 + DAZ 135 = 6 598,00 EUR) — новую строку не создаю. | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-05-10-2026 DAZ 135.pdf») — **FAKTURA VAT 05/10/2026** (DAZ TRANS LOGISTIK Sp. z o.o., ul. Józefa Piłsudskiego 97, 05-091 Ząbki, NIP 1251741007 → **Q8 GROUP LIMITED**, Al-Farabi Avenue 77/1 / 56, 050059 Almaty, NIP 68975013): Usługa transportowa 135 (GTU_13), 1 шт, **3 048,00 EUR** (13 341,10 PLN), VAT np (stawka 0%, transport międzynarodowy); банк PKO Bank Polski, SWIFT **BPKOPLPW**, счёт EUR **22 1020 1260 0000 0402 0227 5618**. Второй из двух инвойсов к строке (DAZ 134 + DAZ 135 = 6 598,00 EUR) — новую строку не создаю. | | ✅ 13.10.2026 (Scream переслал от Altayeva Aizhan, файл «pacs.008 EUR 6 598.00 DELUFR2.pdf»; Scream: «Платеж исполнен») — **SWIFT pacs.008.001.08** (Alliance Cloud, message **ASB1261013000007**; From **AILSKZ2KXXX** → To **DELUFR22XXX**, Direction Outgoing; Status ACKed): бенефициар **DAZ TRANS LOGISTIK Sp. z o.o.** (ul. Józefa Piłsudskiego 97, 05-091, NIP 1251741007, IBAN PL22102012600000040202275618); **EUR 6 598,00**; назначение «PREPAYMENT FOR TRANSPORT SERVICES UNDER INV. FAKTURA VAT 05/10/2026 DD 06-10-2026, FAKTURA VAT 04/10/2026 DD 06-10-2026». ✅ Платеж исполнен (подтверждение владельца) → 🟢.",
     "calc": null,
-    "rowId": "mol-000121"
+    "rowId": "mol-000121",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 24,
@@ -503,7 +671,15 @@
     "sent_usdt": null,
     "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **Argemonia** (Erste Bank Polska, SWIFT WBKPPLPP) — ARG 117 (4 331,56) + ARG 126 (3 500,78) = 7 832,34 EUR (VAT 0%). Scream: «На оплату от Q8 на Argemonia 7832,34 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-26-09-2026 ARG 126.pdf») — **FAKTURA VAT 26/09/2026** (ARGEMONIA POLAND Sp. z o.o., Chełmżyńska 180a, 04-464 Warszawa, NIP 5272715253 → **Q8 GROUP LIMITED**, 18/F, 99 Queen's Road Central, Hong Kong, NIP 68975013): USŁUGA TRANSPORTOWA 126 (GTU_13), 1 шт, **3 500,78 EUR** (15 315,91 PLN), VAT 0% (transport międzynarodowy); банк Erste Bank Polska S.A. (Plac Europejski 3A, Warszawa), SWIFT **WBKPPLPP**, счёт **PL61 1090 2590 0000 0001 2397 0816** (EUR). Один из двух инвойсов к строке (ARG 117 + ARG 126 = 7 832,34 EUR) — новую строку не создаю. | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-27-09-2026 ARG 117.pdf») — **FAKTURA VAT 27/09/2026** (ARGEMONIA POLAND Sp. z o.o., Chełmżyńska 180a, 04-464 Warszawa, NIP 5272715253 → **Q8 GROUP LIMITED**, 18/F, 99 Queen's Road Central, Hong Kong, NIP 68975013): USŁUGA TRANSPORTOWA 117 (GTU_13), 1 шт, **4 331,56 EUR** (18 950,58 PLN), VAT 0% (transport międzynarodowy); банк Erste Bank Polska S.A. (Plac Europejski 3A, Warszawa), SWIFT **WBKPPLPP**, счёт **PL61 1090 2590 0000 0001 2397 0816** (EUR). Второй из двух инвойсов к строке (ARG 117 + ARG 126 = 7 832,34 EUR) — новую строку не создаю. | | ✅ 13.10.2026 (Scream переслал от Altayeva Aizhan, файл «pacs.008 EUR 7 832.34 DELUFR2.pdf»; Scream: «Платеж исполнен») — **SWIFT pacs.008.001.08** (Alliance Cloud, message **ASB1261013000008**; From **AILSKZ2KXXX** → To **DELUFR22XXX**, Direction Outgoing; Status ACKed): бенефициар **ARGEMONIA POLAND Sp. z o.o.** (Chełmżyńska 180a, 04-464 Warszawa, NIP 5272715253, IBAN PL61109025900000000123970816); **EUR 7 832,34**; назначение «PREPAYMENT FOR TRANSPORT SERVICES UNDER INV. FAKTURA VAT 26/09/2026 DD 30-09-2026, FAKTURA VAT 27/09/2026 DD 30-09-2026». ✅ Платеж исполнен (подтверждение владельца) → 🟢.",
     "calc": null,
-    "rowId": "mol-000122"
+    "rowId": "mol-000122",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 25,
@@ -524,7 +700,15 @@
     "sent_usdt": null,
     "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **Argemonia** (Erste Bank Polska, SWIFT WBKPPLPP) — ARG 118 = 4 321,56 EUR (VAT 0%). Scream: «На оплату от Q8 на Argemonia 4321,56 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «faktura-vat-28-09-2026 ARG 118.pdf») — **FAKTURA VAT 28/09/2026** (ARGEMONIA POLAND Sp. z o.o., Chełmżyńska 180a, 04-464 Warszawa, NIP 5272715253 → **Q8 GROUP LIMITED**, 18/F, 99 Queen's Road Central, Hong Kong, NIP 68975013): USŁUGA TRANSPORTOWA 118 (GTU_13), 1 шт, **4 321,56 EUR** (18 915,04 PLN), VAT 0% (transport międzynarodowy); банк Erste Bank Polska S.A. (Plac Europejski 3A, Warszawa), SWIFT **WBKPPLPP**, счёт **PL61 1090 2590 0000 0001 2397 0816** (EUR). Инвойс к строке (ARG 118 = 4 321,56 EUR) — новую строку не создаю. | | PACS.008 13.10.2026 (📨 Молодежь, файл «pacs.008 EUR 4 321.56 DELUFR2.pdf») — Alliance Cloud (Live), pacs.008.001.08, Direction Outgoing, Status ACKed: From **AL SAFI BANK LTD** (BIC **AILSKZ2KXXX**, дебет счёт KZ299990172EUR001948) → To **DELUFR22XXX**; Creditor **ARGEMONIA POLAND SP. Z O.O.** (Warszawa, Chełmżyńska 180A 04-464), IBAN **PL61109025900000000123970816**, банк **WBKPPLPPXXX** (Erste); Amount **4 321,56 EUR**; RmtInf «PREPAYMENT FOR TRANSPORT SERVICES UNDER INV. FAKTURA VAT 28/09/2026 DD 30-09-2026»; BizMsgIdr **ASB1261012000016**. Только notes (pacs.008 = сетевое подтверждение/трансмиссия, не исполнение) — цвет не меняю. | | ✅ 13.10.2026 (Scream переслал от Altayeva Aizhan, файл «pacs.008 EUR 4 321.56 DELUFR2.pdf»; Scream: «платеж исполнен») — **SWIFT pacs.008.001.08** (Alliance Cloud, From **AILSKZ2KXXX** → To **DELUFR22XXX**, Outgoing): бенефициар **ARGEMONIA POLAND SPOLKA Z O.O.** (CHELMZYNSKA 180A, 04-464 Warszawa, PL, IBAN PL61109025900000000123970816); **EUR 4 321,56**; назначение «PREPAYMENT FOR TRANSPORT SERVICES UNDER INV. FAKTURA VAT 28/09/2026 DD 30-09-2026». ✅ Платеж исполнен (подтверждение владельца) → 🟢.",
     "calc": null,
-    "rowId": "mol-000123"
+    "rowId": "mol-000123",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 26,
@@ -545,7 +729,15 @@
     "sent_usdt": null,
     "notes": "📄 09.10.2026 (📨 Молодежь): оплата Q8 → **BASZAK Sp. z o.o.** (Biała Podlaska, NIP 5372656337; PKO BP, SWIFT BPKOPLPWXXX) — BZS 130 (3 850,00) + BZS 119 (3 850,00) = 7 700,00 EUR (VAT 0%, реверс-чардж, заказы 130 и 119). Scream: «На оплату от Q8 на Baszak 7700 EUR». | 📄 12.10.2026 (📨 Молодежь, файл «290926-10 BZS 130.pdf») — **FAKTURA Nr 290926-10** (BASZAK Sp. z o.o., ul. Stefana Żeromskiego 45 lok. 2, 21-500 Biała Podlaska, Polska, NIP 5372656337 → **Q8 GROUP LIMITED**, 18/F, The Center, 99 Queen's Road Central, Hong Kong, NIP 68975013): Transport services 130, 1 шт, **3 850,00 EUR** (16 851,07 PLN), VAT np (реверс-чардж / odwrotne obciążenie); банк PKO BP, счёт **68 1020 1260 0000 0102 0195 1151**, SWIFT **BPKOPLPWXXX**. Один из двух инвойсов к строке (BZS 130 + BZS 119 = 7 700,00 EUR) — новую строку не создаю. | 📄 12.10.2026 (📨 Молодежь, файл «51026-10 BZS 119.pdf») — **FAKTURA Nr 51026-10** (BASZAK Sp. z o.o., ul. Stefana Żeromskiego 45 lok. 2, 21-500 Biała Podlaska, Polska, NIP 5372656337 → **Q8 GROUP LIMITED**, 18/F, The Center, 99 Queen's Road Central, Hong Kong, NIP 68975013): Transport services 119, 1 шт, **3 850,00 EUR** (16 841,83 PLN), VAT np (реверс-чардж / odwrotne obciążenie); банк PKO BP, счёт **68 1020 1260 0000 0102 0195 1151**, SWIFT **BPKOPLPWXXX**. Второй из двух инвойсов к строке (BZS 130 + BZS 119 = 7 700,00 EUR) — новую строку не создаю. |  | 🔷 12.10.2026 (📨 Молодежь, файл «pacs. 008 EUR 7 700.00 DELUFR2.pdf») — **pacs.008.001.08** (Alliance Cloud / SWIFT FINplus, MsgId **ASB1261012000015**, CreDtTm 2026-10-12T13:47:20Z), Direction Outgoing; From **AILSKZ2KXXX** → To **DELUFR22XXX**; IntrBkSttlmAmt **EUR 7 700,00**, SttlmDt 2026-10-12, ChrgBr DEBT; **Status ACKed** (сетевой ACK SWIFT — НЕ исполнение; 🟢 только по подтверждению владельца). | | ✅ 13.10.2026 (Scream переслал от John! (VDX), файл «pacs. 008 EUR 7 700.00 DELUFR2.pdf») — **SWIFT pacs.008.001.08** (Alliance Cloud, MsgId **ASB1261012000015**, UETR 3c895cb2-44d6-447f-8d85-3c6a9685db50; From AILSKZ2KXXX → To DELUFR22XXX, Outgoing; Status ACKed; IntrBkSttlmDt 12.10.2026): плательщик **Q8 GROUP LIMITED** (IBAN KZ299990172EUR001948, AL SAFI BANK) → бенефициар **BASZAK SP. Z O.O.** (BIAŁA PODLASKA, IBAN PL68102012600000010201951151, BPKOPLPWXXX); **EUR 7 700,00**; назначение «PREPAYMENT FOR TRANSPORT SERVICES UNDER INV.51026-10 DD 05-10-26, 290926-10 DD 29-09-26». ✅ Платеж исполнен → 🟢.",
     "calc": null,
-    "rowId": "mol-000124"
+    "rowId": "mol-000124",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": "2026-10-09",
+      "ref": "notes: плательщик **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 27,
@@ -566,7 +758,15 @@
     "sent_usdt": 33607.12,
     "notes": "📤 09 октября 2026 (📨 Молодежь, файл «rpp_274 (2).pdf») — ПП на VDX №274 от 09 октября 2026 ИСПОЛНЕН (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): плательщик **ООО «ВИВАС»** (ИНН 9703208866, КПП 781401001, счёт 40702810100810051750, Банк ВТБ) → **ВиДиИкс Сервисез - ФЗКО** (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, счёт 40807810000000015414), **2 932 362,90 ₽**, {VO11200} Постоплата за товар по инвойсу VIVAS20261009, договор 2V09/2025, HS code 9031803800, НДС не облагается. sent_rubles_vdx = 2932362.90 (VDX). ⚠️ заявки нет — 🔵 отправка на VDX. | ✏️ 10.10.2026 (row-fix): company=Q8 → Q8-расчёт проставлен автоматически, 33 476,69 + 0,3% + 30 = 33 607,12 USDT. | 📄 10.10.2026 (📨 Молодежь, «VIVAS TECHNOLOGY LIMITED.pdf» + «PO …docx»): проформа-инвойс VIVAS20261009 от 24.09.2026 — VIVAS TECHNOLOGY LIMITED (Hong Kong, OCBC OCBCCNSHXXX, IBAN 7590077286) → Q8 GROUP LIMITED, 33 476,69 USD; заявка/PO получены, компания Q8 → ⬜. | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «33476,69 USD VIVAS TECHNOLOGY LIMITED.pdf») — **PROFORMA INVOICE** (продавец **VIVAS TECHNOLOGY LIMITED**, S239, 2/F, Capitol Plaza, 61-65 Chatham Road South, Tsim Sha Tsui, Kowloon, Hong Kong → покупатель **Q8 GROUP LIMITED**): PI NO **VIVAS20261009**, PI DATE **20260924**; электронные компоненты (микросхемы Microchip/AD, индукторы, конденсаторы, резисторы, фотоприёмники и др.), итого **33 476,69 USD**. Та же сделка, что строка (ООО «ВИВАС», 33 476,69 USD, Q8) — новую строку не создаю. | 📄 12.10.2026 (📨 Заявки Компания Q8, файл «PO 33476,69 USD VIVAS TECHNOLOGY LIMITED.docx») — **PO / заявка на платёж**: Beneficiary **VIVAS TECHNOLOGY LIMITED** (S239, 2/F, Capitol Plaza, 61-65 Chatham Road South, Tsim Sha Tsui, Kowloon, Hong Kong); Beneficiary bank **OCBC BANK LIMITED** (OCBC Bank Tower, No.1155 Yuan Shen Road, Pudong New District, Shanghai), SWIFT **OCBCCNSHXXX**, счёт **7590077286**; Amount **33 476,69 USD**. Та же сделка (ООО «ВИВАС», 33 476,69 USD, Q8) — новую строку не создаю. | 📄 12.10.2026 (📨 ПП компании Q8, файл «33476.69.pdf») — **BONBILL LIMITED Payment Certificate**: Transaction ID **O2109565360947724288607**, Payment Time 2026-10-12 16:42:30; Payer **Q8 GROUP LIMITED** → Payee **VIVAS TECHNOLOGY LIMITED** (OCBC BANK LIMITED, счёт 7590077286); Currency Amount **USD 33 476,69**; Remarks «Invoice VIVAS20261009 DD 24092026 For ElParts». Подтверждение исполнения по ордеру Q8 → VIVAS (ПИ VIVAS20261009, сделка ООО «ВИВАС») → ⬜→🟢.",
     "calc": null,
-    "rowId": "mol-000125"
+    "rowId": "mol-000125",
+    "companySource": {
+      "source": "foreign_pp",
+      "date": "2026-10-09",
+      "ref": "notes: Payer **Q8 GROUP LIMITED",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 28,
@@ -587,7 +787,15 @@
     "sent_usdt": 23628,
     "notes": "ПП на VDX №13 от 13.10.2026 (1 996 494,36 ₽ — номер из документа ПП) | 💸 13.10.2026 (📨 Молодежь, файл «ВИДИИКС СЕРВИСЕЗ - ФЗКО_261013_143117.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №853393 от 13.10.2026, ИСПОЛНЕНО** (БАНК ГПБ (АО) г. Москва, БИК 044525823): плательщик **ООО «Кристалл Джет»** (ИНН 7717665139, КПП 771401001, счёт 40702810900000021724) → получатель **ВИДИИКС СЕРВИСЕЗ - ФЗКО** (ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **1 996 494,36 ₽** {VO23210} «Оплата за услуги по договору 210933/КД от 15.09.2021, НДС не облагается». Рубли направлены на VDX. Совпадений в 5 таблицах нет — новая 🔵 строка (клиент уточнить). sent_rubles_vdx = 1 996 494,36 (VDX). | 🔗 2026-10-14 (Scream: «Scream 14.10: строки 28 и 29 — одна сделка ООО «Кристалл Джет» (рубли на VDX + инвойс/ордер FUJIA ST261013-01)») — строки 29 объединены с этой: sum = 23410.85 USD; rubles_received = null; sent_rubles_vdx = 1996494.36. Полные notes прежних строк — в Molodezh.removed-rows_28-29_2026-10-14.json. | 💸 15.10.2026 (📨 Ордера и Расчеты, @CScream1) — **заказ на выплату USDT**: (23 410,85 + 100) x 1,005 = **23 628 USDT**. Кошелёк выплаты (TRON): TFd9AzKvzKk6RUVKjoVM6sEYgKZRCLvkHd. Часть общего перевода 73 979 USDT (50 351 + 23 628). | 🛡️ 15.10.2026: движение OUT 23628 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:28). | 📄 16.10.2026 (📨 Платежные Поручения, файл «23410.85_USD_79439.pdf») — **Transaction Status** (Source of Fund KIRANA GLOBAL HUB → FUJIA AUTOMAT LIMITED, 305-7 Laford Centre, 838 Lai Chi Kok Road, Kowloon HK; банк CITIBANK N.A. CITIHKHXXXX): Amount **USD 23 410,85**, Remarks «Payment for invoice ST261013-01 dd 2026-10-13», Purpose 2012-Impor barang; Total Debit **USD 23 470,11** (Cable 5,00 + Correspondent 25,00 + Provision 29,26; Charge OUR), Instruction Immediate; **TransactionStatus PendingApproval**; Document/Transaction Id 202610161334834960, Creation 16 Oct 2026 13:34:51 GMT+7. Ордер по уже заведённой сделке (r28) — новую строку НЕ создаю.",
     "calc": null,
-    "rowId": "mol-000127"
+    "rowId": "mol-000127",
+    "companySource": {
+      "source": "unverified-legacy",
+      "date": null,
+      "ref": "нет основания в notes/документах на 2026-10-17",
+      "backfill": true
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 29,
