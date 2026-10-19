@@ -2939,7 +2939,7 @@
       "sum": 20197,
       "currency": "EUR",
       "company": "MOVELINE",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "—",
       "costFormula": null,
       "extra": null,
@@ -2950,7 +2950,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "| 📄 19.10.2026 (📨 Платежные Поручения, файл «Avis-débit-4008384.pdf») — **AVIS DE DÉBIT** (Olky Payment Service Provider S.A., SWIFT OLKILUL1XXX): DONNEUR D'ORDRE **MOVELINE** (Bureau 326, 59 Rue de Ponthieu, 75008 Paris, France; SIREN 999 785 058, VAT FR47999785058; IBAN FR7619733000010100004887661; director Gurzynska Agata) → BENEFICIAIRE **MILVUS TRAVEL di Sergio Zampetti** (Localita Nibbiano 12, 62032 Camerino, Italy; IBAN IT50U0538768830000042958508); Montant 20 197,00 EUR; Libellé «Invoice 1548 DD. 09-10-2026»; Date exécution 19/10/2026; End To End ID 4008384-01000048876; TX ID V-0048037229-0004008384-01000048876. Платёж исполнен. Клиент не назван — уточняется.",
       "calc": null,
       "rowId": "main-000333",
       "companySource": {
