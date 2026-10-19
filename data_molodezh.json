@@ -1074,7 +1074,7 @@
     "currency": "USD",
     "company": "Q8",
     "color": "FFFFFFFF",
-    "clientName": "—",
+    "clientName": "Вилог",
     "costFormula": "3 840,00 + 0,3% + 30 = 3 881,52 USDT",
     "extra": null,
     "rubles_received": null,
@@ -1084,7 +1084,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 3881.52,
-    "notes": "✏️ 19.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 3 840,00 + 0,3% + 30 = 3 881,52 USDT.",
+    "notes": "✏️ 19.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 3 840,00 + 0,3% + 30 = 3 881,52 USDT. | | 📄 19.10.2026 (📨 Молодежь, файл «3840 USD INVOICE BEIYI INFORMATION CO.,LIMITED (1).pdf») — **PROFORMA INVOICE RCF261013-PM** dd Oct/13th/2026: продавец **BEIYI INFORMATION CO., LIMITED** (RM1002, 10/F, Easey Comm Bldg, 253-161 Hennessy Rd, Wanchai, HK; OCBC Wing Hang, SWIFT WIHBHKHH, счёт 883674831) → Buyer **Q8 GROUP LIMITED**; Samsung 1x 128GB DDR4-2933 RDIMM PC4-23466U-R 2S2Rx4 (original pulled) — 4 шт × 960,00 = **3 840,00 USD**. Компания Q8 → ⬜, Q8-расчёт 3 840,00 + 0,3% + 30 = 3 881,52 USDT. | 📄 19.10.2026 (📨 Молодежь, файл «PO 3840 USD BEIYI INFORMATION CO.,LIMITED — копия.docx») — PAYMENT ORDER: BENEFICIARY BEIYI INFORMATION CO., LIMITED; OCBC Wing Hang in Hong Kong (1/F, 161 Queen's Road Central), SWIFT WIHBHKHH, счёт 883674831; AMOUNT 3 840,00 USD. Та же сделка, строка одна.",
     "calc": null,
     "rowId": "mol-000151",
     "companySource": {
