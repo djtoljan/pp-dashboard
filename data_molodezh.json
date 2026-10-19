@@ -1072,10 +1072,10 @@
     "date": "2026-10-19",
     "sum": 3840,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "—",
-    "costFormula": null,
+    "costFormula": "3 840,00 + 0,3% + 30 = 3 881,52 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1083,9 +1083,17 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 3881.52,
+    "notes": "✏️ 19.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 3 840,00 + 0,3% + 30 = 3 881,52 USDT.",
     "calc": null,
-    "rowId": "mol-000151"
+    "rowId": "mol-000151",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "RCF261013-PM",
+      "file": "3840 USD INVOICE BEIYI INFORMATION CO."
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
