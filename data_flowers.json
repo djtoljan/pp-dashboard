@@ -1281,7 +1281,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 77138.14,
-    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 76 877,51 + 0,3% + 30 = 77 138,14 USDT.",
+    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 76 877,51 + 0,3% + 30 = 77 138,14 USDT. | 📄 19.10.2026 (📨 Цветы, файл «ModestoGroup_FL01_191026_76877_51_USD.pdf») — **INVOICE № FL01/191026 dd 19.10.2026**: продавец **ModestoGroup OU** (Reg. code 16203107, Tallinn, Estonia; IBAN GB32TCCL04143483461312, BIC TCCLGB3L, THE CURRENCY CLOUD LIMITED, 1 Sheldon Square, London W2 6TT, UK) → Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: Flower products, 1 box, **76 877,51 USD**. Компания Q8 → ⬜; Q8-расчёт: 76 877,51 + 0,3% + 30 = 77 138,14 USDT. Совпадений по 76 877,51 / FL01/191026 в 5 таблицах нет — новая строка.",
     "calc": null,
     "rowId": "flw-000145",
     "companySource": {
