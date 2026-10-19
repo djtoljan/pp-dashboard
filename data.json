@@ -3028,6 +3028,35 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 107,
+      "date": "2026-10-19",
+      "sum": 49746,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "white",
+      "clientName": "ВТС",
+      "costFormula": "49 746,00 + 0,3% + 30 = 49 925,24 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 49925.24,
+      "notes": "📄 19.10.2026 (📨 ВТС-Fininvest (t5824), файл «инвойс услуги Би трейд 77202.pdf») — **ИНВОЙС № 77202 от 19.10.2026** (ОсОО «БиТрейд Кей Джи» → ООО «ВТС», договор 27062025TК/1 от 24.06.2025): посреднические услуги, курс USD 83,6177 — **1 446,19 USD = 120 927,08 ₽**. **ПОРУЧЕНИЕ №77202 от 19.10.2026** (пришло следом): Принципал ООО «ВТС» → получатель **Q8 GROUP LIMITED** (DBS Bank Hong Kong, SWIFT DHBKHKHH, счёт 79807111801); платёж **49 746,00 USD** по инвойсу 77202 от 14.10.2026; курс 83,6177; сумма в рублях 4 159 646,10 ₽; комиссия агента 1,5% + 700 USD = 1 446,19 USD (120 927,08 ₽) — сходится с инвойсом услуги. Одна сделка: строка = сумма поручения. Компания Q8 → ⬜, Q8-расчёт 49 925,24 USDT. | ✏️ 19.10.2026 (row-fix): company=Q8 → Q8-расчёт проставлен автоматически, 49 746,00 + 0,3% + 30 = 49 925,24 USDT.",
+      "calc": "ТЕЗ",
+      "rowId": "main-000336",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "77202",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
