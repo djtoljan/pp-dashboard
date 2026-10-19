@@ -278,7 +278,7 @@
       "sum": 19500,
       "currency": "USD",
       "company": "UK",
-      "color": "FFFFFF00",
+      "color": "FF92D050",
       "clientName": "VDX",
       "costFormula": "19 500,00 + 0,45% = 19 587,75 → +100 = 19 687,75 USDT",
       "extra": null,
@@ -1675,7 +1675,7 @@
       "vdx_rate": null,
       "received_usdt": 14254.41,
       "sent_usdt": 14254.41,
-      "notes": "📄 09.10.2026 (📨 Платежи VDX, подпись «Payment from ❗️» — компания-плательщик НЕ названа; файл «INVOIS №J-WW261102-B -08.10.pdf») — **ордер на платёж**: Beneficiary **SANYA HAIYUE TRAVEL SERVICE CO. LTD.** (151 Xiayangtian 1st Road, Sanya, Hainan 572000, China); банк **BANK OF CHINA SANYA BRANCH** (SWIFT **BKCHCNBJ75A**), счёт **265000093812**; Payment details «**INV.J-WW261102-B dd.08.10.2026**»; сумма **14 091,00 USD**; OUR. Клиент **VDX** (серия «Payment from ❗️», 📨 Платежи VDX). | расчёт от Scream/Катрин 09.10.2026 (Travelcom) | | 📄 13.10.2026 (📨 ПП компании UK, файл «Sanya Haiyue Travel 14091 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX; ремиттер **TRAVELCOM LIMITED**, IBAN GB72TONI04282200006501 → Beneficiary **SANYA HAIYUE TRAVEL SERVICE CO. LTD.**, счёт 265000093812, BIC BKCHCNBJ75A; Amount **14 091,00 USD**; Details «INV.J-WW261102-B dd.08.10.2026»; Execution Date 10/13/2026): штамп Bank's confirmation **IN PROCESS** → подвешенная ПП → ⬜→🟡 (ждём EXECUTED → 🟢).",
+      "notes": "📄 09.10.2026 (📨 Платежи VDX, подпись «Payment from ❗️» — компания-плательщик НЕ названа; файл «INVOIS №J-WW261102-B -08.10.pdf») — **ордер на платёж**: Beneficiary **SANYA HAIYUE TRAVEL SERVICE CO. LTD.** (151 Xiayangtian 1st Road, Sanya, Hainan 572000, China); банк **BANK OF CHINA SANYA BRANCH** (SWIFT **BKCHCNBJ75A**), счёт **265000093812**; Payment details «**INV.J-WW261102-B dd.08.10.2026**»; сумма **14 091,00 USD**; OUR. Клиент **VDX** (серия «Payment from ❗️», 📨 Платежи VDX). | расчёт от Scream/Катрин 09.10.2026 (Travelcom) | | 📄 13.10.2026 (📨 ПП компании UK, файл «Sanya Haiyue Travel 14091 usd.pdf») — **PAYMENT ORDER DEBIT ADVICE** (GRX; ремиттер **TRAVELCOM LIMITED**, IBAN GB72TONI04282200006501 → Beneficiary **SANYA HAIYUE TRAVEL SERVICE CO. LTD.**, счёт 265000093812, BIC BKCHCNBJ75A; Amount **14 091,00 USD**; Details «INV.J-WW261102-B dd.08.10.2026»; Execution Date 10/13/2026): штамп Bank's confirmation **IN PROCESS** → подвешенная ПП → ⬜→🟡 (ждём EXECUTED → 🟢). | 📄 19.10.2026 (📨 ПП компании UK, UETR 9ab5ce4c-8d7d-4d57-835f-94743d98e8e4, файл «SANYA HAIYUE TRAVEL.pdf») — повтор **PAYMENT ORDER DEBIT ADVICE** (GRX; ремиттер **TRAVELCOM LIMITED**, IBAN GB72TONI04282200006501 → Beneficiary **SANYA HAIYUE TRAVEL SERVICE CO. LTD.**, счёт 265000093812, BIC BKCHCNBJ75A; Amount **14 091,00 USD**; Details «INV.J-WW261102-B dd.08.10.2026»; Execution Date 10/13/2026): штамп Bank's confirmation **EXECUTED** → 🟡→🟢.",
       "calc": null,
       "rowId": "main-000262",
       "payment_facts": [
