@@ -2970,6 +2970,27 @@
       },
       "companyProvisional": false,
       "companyVerified": true
+    },
+    {
+      "row": 105,
+      "date": "2026-10-19",
+      "sum": 35657.85,
+      "currency": "RUB",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000334"
     }
   ]
 }
