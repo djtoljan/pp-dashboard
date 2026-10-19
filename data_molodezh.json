@@ -861,7 +861,7 @@
     "sum": 4500,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "ООО «Сенсис»",
     "costFormula": "4 500,00 + 0,35% + 50 = 4 565,75 USDT",
     "extra": null,
