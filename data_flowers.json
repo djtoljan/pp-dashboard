@@ -1321,5 +1321,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 49,
+    "date": "2026-10-19",
+    "sum": 30614.68,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "ONETEAMCARGO (Цветы)",
+    "costFormula": "30 614,68 + 0,3% + 30 = 30 736,52 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 30736.52,
+    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 614,68 + 0,3% + 30 = 30 736,52 USDT.",
+    "calc": null,
+    "rowId": "flw-000147",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "30092026",
+      "file": "ONETEAMCARGO_S.A._30614_68.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
