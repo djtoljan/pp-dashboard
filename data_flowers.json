@@ -1301,7 +1301,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "PACIFIC AIR CARGO (Цветы)",
-    "costFormula": "23 000,00 + 0,3% + 30 = 23 099,00 USDT",
+    "costFormula": "23 000,00 + 0,35% + 50 = 23 130,50 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1309,8 +1309,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 23099,
-    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 23 000,00 + 0,3% + 30 = 23 099,00 USDT. |  | 📄 19.10.2026 (📨 Цветы, файл «PACIFIC_AIR_CARGO_Q8_23000_USD.pdf») — COMMERCIAL MASTER INVOICE № PAC-20261019-01 от 19.10.2026: продавец PACIFIC AIR CARGO SA (RUC 1791728726001, Av. Nicolás Baquero S/N y 29 de Abril, Tababela, Ecuador) → покупатель Q8 GROUP LIMITED (Company No. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Transportation services, 1 × 23 000,00 USD. Банк PRODUBANCO, SWIFT PRODECEQ, счёт 2005229691. Второй файл (.docx — форма реквизитов) — та же сделка, дубль по содержимому, новая строка не создавалась. Компания Q8 → ⬜.",
+    "sent_usdt": 23130.5,
+    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 23 000,00 + 0,3% + 30 = 23 099,00 USDT. |  | 📄 19.10.2026 (📨 Цветы, файл «PACIFIC_AIR_CARGO_Q8_23000_USD.pdf») — COMMERCIAL MASTER INVOICE № PAC-20261019-01 от 19.10.2026: продавец PACIFIC AIR CARGO SA (RUC 1791728726001, Av. Nicolás Baquero S/N y 29 de Abril, Tababela, Ecuador) → покупатель Q8 GROUP LIMITED (Company No. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Transportation services, 1 × 23 000,00 USD. Банк PRODUBANCO, SWIFT PRODECEQ, счёт 2005229691. Второй файл (.docx — форма реквизитов) — та же сделка, дубль по содержимому, новая строка не создавалась. Компания Q8 → ⬜. | 🛡️ 19.10.2026: движение OUT 23130.5 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:48).",
     "calc": null,
     "rowId": "flw-000146",
     "companySource": {
@@ -1320,7 +1320,12 @@
       "file": "PACIFIC_AIR_CARGO_Q8_23000_USD.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction: Scream forwarded K (@TBI_KZT) 19.10.2026 msg 57833 - 23000 + 0,35% + 50",
+      "date": "2026-10-19"
+    }
   },
   {
     "row": 49,
@@ -1330,7 +1335,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "ONETEAMCARGO (Цветы)",
-    "costFormula": "30 614,68 + 0,3% + 30 = 30 736,52 USDT",
+    "costFormula": "30 614,68 + 0,35% + 50 = 30 771,83 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1338,7 +1343,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 30736.52,
+    "sent_usdt": 30771.83,
     "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 614,68 + 0,3% + 30 = 30 736,52 USDT. |  | 📄 19.10.2026 (📨 Цветы, файлы «ONETEAMCARGO S.A. 30614,68.pdf» и .docx) — COMERCIAL INVOICE (PROFORMA) № 30092026 от 30.09.2026: продавец ONETEAMCARGO S.A. (RUC 1793058000001, Pasaje S/N y 24 de Septiembre, Quito, Ecuador) → Bill to Q8 Group Limited (Company No. 80242882, Kwun Tong, Hong Kong). Сумма по инвойсу 30 000,00 USD (AWB 29 670 + CHA 80 + DAE 65 + AWC 35 + PICK UP 150); в платёжных реквизитах (заявке, 71A OUR) — USD 30 614,68 → сумма строки из заявки. Банк PRODUBANCO, SWIFT PRODECEQ, счёт 12040835435. Компания Q8 → ⬜; Q8-расчёт проставлен автоматически.",
     "calc": null,
     "rowId": "flw-000147",
@@ -1349,6 +1354,11 @@
       "file": "ONETEAMCARGO_S.A._30614_68.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction: Scream forwarded K (@TBI_KZT) 19.10.2026 msg 57835 - 30614,68 + 0,35% + 50",
+      "date": "2026-10-19"
+    }
   }
 ]
