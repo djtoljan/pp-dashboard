@@ -1135,26 +1135,6 @@
     {
       "row": 43,
       "date": "2026-10-08",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": null,
-      "clientName": null,
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null,
-      "rowId": "main-000241"
-    },
-    {
-      "row": 44,
-      "date": "2026-10-08",
       "sum": 60065.2,
       "currency": "USD",
       "company": "Q8",
@@ -1182,21 +1162,7 @@
       "companyVerified": true
     },
     {
-      "row": 45,
-      "date": "2026-10-08",
-      "sum": 60112.53,
-      "currency": "EUR",
-      "company": null,
-      "color": "FFFF0000",
-      "clientName": "VDX",
-      "costFormula": null,
-      "extra": null,
-      "notes": "📄 08.10.2026 (📨 Платежи VDX, файл «3066147739-INVOICE.PDF.pdf») — **COMMERCIAL INVOICE** (Тип 1): продавец/экспортёр **Guduza GST International Technologies (Pty) Ltd** (Shop 49, Tannery Industrial Park, 309 Derdepoort Ave, Silverton, Pretoria, South Africa; Reg. 2019/431806/07, ExportersCode CU25183449, e-mail kkruger@gst-guduza.co.za), дата **01.10.2026**; Consignee/Importer/Notify **Q8 GROUP LIMITED** (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong); PO № **Q0353**; EXW, авиа (JOHANNESBURG → TSUEN WAN); валюта **EURO**; позиции (WBC4170/WBC3000 CCS3000EX Omnicoupler, PAU3000, ECU3000, MON3000 и др.); **ИТОГО / Payment terms «Before shipping» € 60 112,53**; банк **Standard Bank**, счёт 042532752, Branch 012645, SWIFT SBZAZAJJ. Компания-плательщик не названа → 🔴 (Step 0). ⚠️ consignee Q8 — уточнить компанию/клиента.",
-      "calc": null,
-      "rowId": "main-000247"
-    },
-    {
-      "row": 46,
+      "row": 44,
       "date": "2026-10-08",
       "sum": 22110,
       "currency": "USD",
@@ -1220,7 +1186,7 @@
       "companyVerified": false
     },
     {
-      "row": 47,
+      "row": 45,
       "date": "2026-10-08",
       "sum": 24600,
       "currency": "EUR",
@@ -1242,7 +1208,7 @@
       "companyVerified": false
     },
     {
-      "row": 48,
+      "row": 46,
       "date": "2026-10-08",
       "sum": 7600,
       "currency": "USD",
@@ -1266,7 +1232,7 @@
       "companyVerified": false
     },
     {
-      "row": 49,
+      "row": 47,
       "date": "2026-10-08",
       "sum": 482142.86,
       "currency": "USD",
@@ -1306,7 +1272,7 @@
       "companyVerified": true
     },
     {
-      "row": 50,
+      "row": 48,
       "date": "2026-10-08",
       "sum": 78897.4,
       "currency": "USD",
@@ -1342,7 +1308,7 @@
       "companyVerified": true
     },
     {
-      "row": 51,
+      "row": 49,
       "date": "2026-10-08",
       "sum": 79695,
       "currency": "USD",
@@ -1378,7 +1344,7 @@
       "companyVerified": true
     },
     {
-      "row": 52,
+      "row": 50,
       "date": "2026-10-08",
       "sum": 65300.4,
       "currency": "EUR",
@@ -1418,7 +1384,7 @@
       "companyVerified": true
     },
     {
-      "row": 53,
+      "row": 51,
       "date": "2026-10-08",
       "sum": 100000,
       "currency": "USD",
@@ -1454,7 +1420,7 @@
       "companyVerified": true
     },
     {
-      "row": 54,
+      "row": 52,
       "date": "2026-10-08",
       "sum": 23542.57,
       "currency": "USD",
@@ -1490,7 +1456,7 @@
       "companyVerified": false
     },
     {
-      "row": 55,
+      "row": 53,
       "date": "2026-10-08",
       "sum": 110000,
       "currency": "CNY",
@@ -1522,7 +1488,7 @@
       "companyVerified": false
     },
     {
-      "row": 56,
+      "row": 54,
       "date": "2026-10-08",
       "sum": null,
       "currency": null,
@@ -1542,7 +1508,7 @@
       "rowId": "main-000258"
     },
     {
-      "row": 57,
+      "row": 55,
       "date": "2026-10-08",
       "sum": 48762.95,
       "currency": "EUR",
@@ -1570,7 +1536,7 @@
       "companyVerified": true
     },
     {
-      "row": 58,
+      "row": 56,
       "date": "2026-10-09",
       "sum": 30000,
       "currency": "EUR",
@@ -1611,7 +1577,7 @@
       "companyVerified": false
     },
     {
-      "row": 59,
+      "row": 57,
       "date": "2026-10-09",
       "sum": 27000,
       "currency": "EUR",
@@ -1652,7 +1618,7 @@
       "companyVerified": false
     },
     {
-      "row": 60,
+      "row": 58,
       "date": "2026-10-09",
       "sum": 50856,
       "currency": "USD",
@@ -1693,7 +1659,7 @@
       "companyVerified": false
     },
     {
-      "row": 61,
+      "row": 59,
       "date": "2026-10-09",
       "sum": 14091,
       "currency": "USD",
@@ -1734,7 +1700,7 @@
       "companyVerified": false
     },
     {
-      "row": 62,
+      "row": 60,
       "date": "2026-10-09",
       "sum": 29600,
       "currency": "EUR",
@@ -1763,7 +1729,7 @@
       "companyVerified": true
     },
     {
-      "row": 63,
+      "row": 61,
       "date": "2026-10-09",
       "sum": 31180,
       "currency": "EUR",
@@ -1804,7 +1770,7 @@
       "companyVerified": false
     },
     {
-      "row": 64,
+      "row": 62,
       "date": "2026-10-09",
       "sum": null,
       "currency": null,
@@ -1833,7 +1799,7 @@
       "companyVerified": false
     },
     {
-      "row": 65,
+      "row": 63,
       "date": "2026-10-09",
       "sum": 723,
       "currency": "USD",
@@ -1862,7 +1828,7 @@
       "companyVerified": true
     },
     {
-      "row": 66,
+      "row": 64,
       "date": "2026-10-12",
       "sum": 10775.84,
       "currency": "EUR",
@@ -1891,7 +1857,7 @@
       "companyVerified": true
     },
     {
-      "row": 67,
+      "row": 65,
       "date": "2026-10-12",
       "sum": 36070.42,
       "currency": "USD",
@@ -1920,7 +1886,7 @@
       "companyVerified": true
     },
     {
-      "row": 68,
+      "row": 66,
       "date": "2026-10-12",
       "sum": 18938.33,
       "currency": "EUR",
@@ -1949,7 +1915,7 @@
       "companyVerified": true
     },
     {
-      "row": 69,
+      "row": 67,
       "date": "2026-10-12",
       "sum": 13321.61,
       "currency": "USD",
@@ -1978,7 +1944,7 @@
       "companyVerified": true
     },
     {
-      "row": 70,
+      "row": 68,
       "date": "2026-10-12",
       "sum": 32400,
       "currency": "USD",
@@ -2007,7 +1973,7 @@
       "companyVerified": true
     },
     {
-      "row": 71,
+      "row": 69,
       "date": "2026-10-12",
       "sum": 30600,
       "currency": "USD",
@@ -2036,7 +2002,7 @@
       "companyVerified": true
     },
     {
-      "row": 72,
+      "row": 70,
       "date": "2026-10-12",
       "sum": 4655,
       "currency": "EUR",
@@ -2065,7 +2031,7 @@
       "companyVerified": true
     },
     {
-      "row": 73,
+      "row": 71,
       "date": "2026-10-12",
       "sum": 1975.62,
       "currency": "USD",
@@ -2094,7 +2060,7 @@
       "companyVerified": true
     },
     {
-      "row": 74,
+      "row": 72,
       "date": "2026-10-12",
       "sum": 8779.11,
       "currency": "USD",
@@ -2123,7 +2089,7 @@
       "companyVerified": true
     },
     {
-      "row": 75,
+      "row": 73,
       "date": "2026-10-12",
       "sum": 46527.71,
       "currency": "USD",
@@ -2156,7 +2122,7 @@
       "companyVerified": false
     },
     {
-      "row": 76,
+      "row": 74,
       "date": "2026-10-12",
       "sum": null,
       "currency": null,
@@ -2177,7 +2143,7 @@
       "rowId": "main-000279"
     },
     {
-      "row": 77,
+      "row": 75,
       "date": "2026-10-12",
       "sum": 870720,
       "currency": "CNY",
@@ -2198,7 +2164,7 @@
       "rowId": "main-000280"
     },
     {
-      "row": 78,
+      "row": 76,
       "date": "2026-10-12",
       "sum": 151000,
       "currency": "USD",
@@ -2227,7 +2193,7 @@
       "companyVerified": false
     },
     {
-      "row": 79,
+      "row": 77,
       "date": "2026-10-12",
       "sum": null,
       "currency": null,
@@ -2248,7 +2214,7 @@
       "rowId": "main-000284"
     },
     {
-      "row": 80,
+      "row": 78,
       "date": "2026-10-13",
       "sum": 27672.97,
       "currency": "USD",
@@ -2281,7 +2247,7 @@
       "companyVerified": false
     },
     {
-      "row": 81,
+      "row": 79,
       "date": "2026-10-13",
       "sum": 47324,
       "currency": "CNY",
@@ -2302,7 +2268,7 @@
       "rowId": "main-000290"
     },
     {
-      "row": 82,
+      "row": 80,
       "date": "2026-10-13",
       "sum": 62193.6,
       "currency": "EUR",
@@ -2331,7 +2297,7 @@
       "companyVerified": true
     },
     {
-      "row": 83,
+      "row": 81,
       "date": "2026-10-13",
       "sum": 2279.05,
       "currency": "USD",
@@ -2372,7 +2338,7 @@
       "companyVerified": false
     },
     {
-      "row": 84,
+      "row": 82,
       "date": "2026-10-13",
       "sum": null,
       "currency": null,
@@ -2393,7 +2359,7 @@
       "rowId": "main-000295"
     },
     {
-      "row": 85,
+      "row": 83,
       "date": "2026-10-13",
       "sum": 635500,
       "currency": "CNY",
@@ -2422,7 +2388,7 @@
       "companyVerified": false
     },
     {
-      "row": 86,
+      "row": 84,
       "date": "2026-10-13",
       "sum": 4548,
       "currency": "USD",
@@ -2451,7 +2417,7 @@
       "companyVerified": false
     },
     {
-      "row": 87,
+      "row": 85,
       "date": "2026-10-13",
       "sum": 56321.88,
       "currency": "USD",
@@ -2480,7 +2446,7 @@
       "companyVerified": false
     },
     {
-      "row": 88,
+      "row": 86,
       "date": "2026-10-13",
       "sum": 14200,
       "currency": "USD",
@@ -2513,7 +2479,7 @@
       "companyVerified": false
     },
     {
-      "row": 89,
+      "row": 87,
       "date": "2026-10-13",
       "sum": null,
       "currency": null,
@@ -2534,7 +2500,7 @@
       "rowId": "main-000300"
     },
     {
-      "row": 90,
+      "row": 88,
       "date": "2026-10-13",
       "sum": 47817.81,
       "currency": "USD",
@@ -2567,7 +2533,7 @@
       "companyVerified": true
     },
     {
-      "row": 91,
+      "row": 89,
       "date": "2026-10-13",
       "sum": 29000,
       "currency": "USD",
@@ -2596,7 +2562,7 @@
       "companyVerified": false
     },
     {
-      "row": 92,
+      "row": 90,
       "date": "2026-10-13",
       "sum": 100209.7,
       "currency": "USD",
@@ -2625,7 +2591,7 @@
       "companyVerified": false
     },
     {
-      "row": 93,
+      "row": 91,
       "date": "2026-10-14",
       "sum": 67757.6,
       "currency": "EUR",
@@ -2654,7 +2620,7 @@
       "companyVerified": false
     },
     {
-      "row": 94,
+      "row": 92,
       "date": "2026-10-14",
       "sum": null,
       "currency": null,
@@ -2675,7 +2641,7 @@
       "rowId": "main-000305"
     },
     {
-      "row": 95,
+      "row": 93,
       "date": "2026-10-14",
       "sum": 16687.72,
       "currency": "USD",
@@ -2708,7 +2674,7 @@
       "companyVerified": false
     },
     {
-      "row": 96,
+      "row": 94,
       "date": "2026-10-14",
       "sum": 20452.5,
       "currency": "USD",
@@ -2742,7 +2708,7 @@
       }
     },
     {
-      "row": 97,
+      "row": 95,
       "date": "2026-10-14",
       "sum": null,
       "currency": null,
@@ -2763,7 +2729,7 @@
       "rowId": "main-000309"
     },
     {
-      "row": 98,
+      "row": 96,
       "date": "2026-10-14",
       "sum": 58265.44,
       "currency": "USD",
@@ -2796,7 +2762,7 @@
       "companyVerified": false
     },
     {
-      "row": 99,
+      "row": 97,
       "date": "2026-10-15",
       "sum": 100000,
       "currency": "EUR",
@@ -2817,7 +2783,7 @@
       "rowId": "main-000326"
     },
     {
-      "row": 100,
+      "row": 98,
       "date": "2026-10-15",
       "sum": 46603.45,
       "currency": "RUB",
@@ -2838,7 +2804,7 @@
       "rowId": "main-000327"
     },
     {
-      "row": 101,
+      "row": 99,
       "date": "2026-10-15",
       "sum": 26994.31,
       "currency": "EUR",
@@ -2871,7 +2837,7 @@
       "companyVerified": false
     },
     {
-      "row": 102,
+      "row": 100,
       "date": "2026-10-15",
       "sum": null,
       "currency": null,
@@ -2892,7 +2858,7 @@
       "rowId": "main-000329"
     },
     {
-      "row": 103,
+      "row": 101,
       "date": "2026-10-15",
       "sum": null,
       "currency": null,
@@ -2925,7 +2891,7 @@
       "companyVerified": false
     },
     {
-      "row": 104,
+      "row": 102,
       "date": "2026-10-16",
       "sum": 20649.75,
       "currency": "EUR",
