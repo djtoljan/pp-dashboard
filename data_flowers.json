@@ -1365,5 +1365,35 @@
       "ref": "owner_instruction: Scream forwarded K (@TBI_KZT) 19.10.2026 msg 57835 - 30614,68 + 0,35% + 50",
       "date": "2026-10-19"
     }
+  },
+  {
+    "row": 50,
+    "date": "2026-10-20",
+    "sum": 23000,
+    "currency": "USD",
+    "company": "Z SOURCE",
+    "color": "FFFFFFFF",
+    "clientName": "PACIFIC AIR CARGO (Цветы)",
+    "costFormula": "23 000,00 + 0,3% + 30 = 23 099,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 23099,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000148",
+    "companySource": {
+      "source": "foreign_pp",
+      "file": "23000.00.pdf",
+      "txid": null,
+      "ref": "O2112457880929173504921",
+      "date": "2026-10-20"
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   }
 ]
