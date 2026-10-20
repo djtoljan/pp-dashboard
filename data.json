@@ -3144,6 +3144,35 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 111,
+      "date": "2026-10-20",
+      "sum": 2440,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": "2 440,00 + 0,3% + 30 = 2 477,32 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 2477.32,
+      "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 2 440,00 + 0,3% + 30 = 2 477,32 USDT.",
+      "calc": "ТЕЗ",
+      "rowId": "main-000343",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "Q8-0025",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
