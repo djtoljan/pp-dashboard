@@ -1105,8 +1105,8 @@
     "date": "2026-10-14",
     "sum": 60906.68,
     "currency": "EUR",
-    "company": "AXELYS TRANSPORT",
-    "color": "FFFFFF00",
+    "company": "APEX GLOBAL",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "(60 906,68 EUR × 1,002 + 60) × 1,1207 = 68 461,875 USDT",
     "extra": null,
@@ -1117,26 +1117,26 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 68461.88,
-    "notes": "📄 14.10.2026 (📨 Цветы, файл «Avrora_Invoice_15102026_01_60906_68_EUR.pdf») — COMMERCIAL INVOICE AA-Q8-2026-1015-01 dd 15 October 2026: продавец Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; Director Aleksandrs Rakovskis) → Buyer Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). «Fresh cut flowers, assorted», 1 lot = EUR 60 906,68. Банк Bulgarian-American Credit Bank (SLAVYANSKA STR 2, Sofia), SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300. Компания Q8 → ⬜ (себестоимость ждёт курс FX Q8). | 🚨 16.10.2026 (📨 Ордера и Расчеты !, скриншот банковской таблицы, 16/10/2026) — переводы клиенту Atlantic Avrora EOOD по инвойсу AA-Q8-2026-1015-01 dd 15.10.2026 ОТКЛОНЕНЫ банком: «REJET VIRT / (RR04) MOTIF REGLEMENTAIRE» — 9 906,67 € (ref 4006174) и 24 906,67 € (ref 4006172); IBAN получателя в отклонённых переводах LT323981120000005326. Платёж НЕ исполнен (регуляторный отказ) — требует повторной отправки/уточнения. ⚠️ Суммы отклонённых переводов (9 906,67 / 24 906,67 €) и IBAN (LT32… vs BG04BGUS91601413896300 по инвойсу) с параметрами строки (60 906,68 €) не совпадают — уточнить у владельца, к какой строке/части отнести. |  | 🏦 19.10.2026 (📨 Платежные Поручения) — B Partner «Relevé d'opération», плательщик APEX GLOBAL (IBAN BE72977107773616, BIC PAYVBEB2XXX) → Atlantic Avrora EOOD (IBAN LT323981120000005326): два исходящих перевода по инвойсу AA-Q8-2026-1015-01, статус «En cours» (в обработке): № 4615131 — 24 000,00 € и № 4614835 — 28 906,68 €, дата операции/валютирования 19.10.2026. Частичная оплата инвойса 60 906,68 €: 24 000,00 + 28 906,68 = 52 906,68 €, остаток 8 000,00 €. Строка ⬜→🟡 (переводы отправлены, ждём исполнения → 🟢). Ранее отклонённые 16.10.2026 переводы 9 906,67 / 24 906,67 € (REJET VIRT RR04) заменены этими. | 🏢 20.10.2026 (📨 Платежные Поручения, скриншот Pappers) — реквизиты плательщика APEX GLOBAL: SIREN 107 764 631, VAT FR83107764631, директор Inkalaba Lusikina Kevin, 6 Rue d'Armaillé, 75017 Paris (источник — pappers.fr/entreprise/apex-global-107764631). Плательщик по переводам B Partner №4615131/4614835; компания строки не меняется без указания владельца.\r\n | 🏦 20.10.2026 (📨 Платежные Поручения, фото «Suivi de virement», подпись «8000 цветы») — SCT-перевод Q8 → ATLANTIC AVRORA EOOD (IBAN LT323981120000005326), 8 000,00 EUR, libellé Invoice AA-Q8-2026-1015-01, создан 20/10/2026 11:38:22, исполнен 20/10/2026. Частичная оплата инвойса AA-Q8-2026-1015-01 (всего 60 906,68 EUR) — строка одна, цвет не меняю (ждём исполнения остатка).",
+    "notes": "📄 14.10.2026 (📨 Цветы, файл «Avrora_Invoice_15102026_01_60906_68_EUR.pdf») — COMMERCIAL INVOICE AA-Q8-2026-1015-01 dd 15 October 2026: продавец Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; Director Aleksandrs Rakovskis) → Buyer Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). «Fresh cut flowers, assorted», 1 lot = EUR 60 906,68. Банк Bulgarian-American Credit Bank (SLAVYANSKA STR 2, Sofia), SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300. Компания Q8 → ⬜ (себестоимость ждёт курс FX Q8). | 🚨 16.10.2026 (📨 Ордера и Расчеты !, скриншот банковской таблицы, 16/10/2026) — переводы клиенту Atlantic Avrora EOOD по инвойсу AA-Q8-2026-1015-01 dd 15.10.2026 ОТКЛОНЕНЫ банком: «REJET VIRT / (RR04) MOTIF REGLEMENTAIRE» — 9 906,67 € (ref 4006174) и 24 906,67 € (ref 4006172); IBAN получателя в отклонённых переводах LT323981120000005326. Платёж НЕ исполнен (регуляторный отказ) — требует повторной отправки/уточнения. ⚠️ Суммы отклонённых переводов (9 906,67 / 24 906,67 €) и IBAN (LT32… vs BG04BGUS91601413896300 по инвойсу) с параметрами строки (60 906,68 €) не совпадают — уточнить у владельца, к какой строке/части отнести. |  | 🏦 19.10.2026 (📨 Платежные Поручения) — B Partner «Relevé d'opération», плательщик APEX GLOBAL (IBAN BE72977107773616, BIC PAYVBEB2XXX) → Atlantic Avrora EOOD (IBAN LT323981120000005326): два исходящих перевода по инвойсу AA-Q8-2026-1015-01, статус «En cours» (в обработке): № 4615131 — 24 000,00 € и № 4614835 — 28 906,68 €, дата операции/валютирования 19.10.2026. Частичная оплата инвойса 60 906,68 €: 24 000,00 + 28 906,68 = 52 906,68 €, остаток 8 000,00 €. Строка ⬜→🟡 (переводы отправлены, ждём исполнения → 🟢). Ранее отклонённые 16.10.2026 переводы 9 906,67 / 24 906,67 € (REJET VIRT RR04) заменены этими. | 🏢 20.10.2026 (📨 Платежные Поручения, скриншот Pappers) — реквизиты плательщика APEX GLOBAL: SIREN 107 764 631, VAT FR83107764631, директор Inkalaba Lusikina Kevin, 6 Rue d'Armaillé, 75017 Paris (источник — pappers.fr/entreprise/apex-global-107764631). Плательщик по переводам B Partner №4615131/4614835; компания строки не меняется без указания владельца.\r\n | 🏦 20.10.2026 (📨 Платежные Поручения, фото «Suivi de virement», подпись «8000 цветы») — SCT-перевод Q8 → ATLANTIC AVRORA EOOD (IBAN LT323981120000005326), 8 000,00 EUR, libellé Invoice AA-Q8-2026-1015-01, создан 20/10/2026 11:38:22, исполнен 20/10/2026. Частичная оплата инвойса AA-Q8-2026-1015-01 (всего 60 906,68 EUR) — строка одна, цвет не меняю (ждём исполнения остатка). | ✅ 20.10.2026 (Scream, ЛС): компания AXELYS TRANSPORT → APEX GLOBAL (источник — указание владельца); строка зеленится по подтверждению владельца (платёж исполнен). Расчёт оставлен прежним (68 461,88 USDT), формула для APEX GLOBAL отдельно не пересчитывалась.",
     "calc": null,
     "rowId": "flw-000137",
     "companySource": {
       "source": "owner_instruction",
       "date": null,
-      "ref": "Scream",
+      "ref": "Scream 20.10.2026",
       "messageId": null
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "calcStale": null
+    "calcStale": true
   },
   {
     "row": 42,
     "date": "2026-10-14",
     "sum": 60906.67,
     "currency": "EUR",
-    "company": "AXELYS TRANSPORT",
-    "color": "FFFFFF00",
+    "company": "APEX GLOBAL",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "(60 906,67 EUR × 1,002 + 60) × 1,1207 = 68 461,863 USDT",
     "extra": null,
@@ -1147,18 +1147,18 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 68461.86,
-    "notes": "📄 14.10.2026 (📨 Цветы, файл «Avrora_Invoice_15102026_02_60906_67_EUR.pdf») — COMMERCIAL INVOICE AA-Q8-2026-1015-02 dd 15 October 2026: продавец Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; Director Aleksandrs Rakovskis) → Buyer Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). «Fresh cut flowers, assorted», 1 lot = EUR 60 906,67. Банк Bulgarian-American Credit Bank (SLAVYANSKA STR 2, Sofia), SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300. Отдельная (вторая) сделка к r41 — отличается на 0,01 EUR. Компания Q8 → ⬜ (себестоимость ждёт курс FX Q8). | 📨 16.10.2026 (📨 Платежные Поручения) — скриншот **Finom «Paiement envoyé»**: **60 906,67 € → Atlantic Avrora EOOD** (перевод отправлен 16.10.2026). Совпадает по сумме ровно с этой строкой (r42, инвойс AA-Q8-2026-1015-02). Цвет ⬜→🟡 (платёж отправлен; ждём подтверждение исполнения → 🟢). ⚠️ r41 отличается на 0,01 € — если платёж относится к нему, перенесу.",
+    "notes": "📄 14.10.2026 (📨 Цветы, файл «Avrora_Invoice_15102026_02_60906_67_EUR.pdf») — COMMERCIAL INVOICE AA-Q8-2026-1015-02 dd 15 October 2026: продавец Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; Director Aleksandrs Rakovskis) → Buyer Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). «Fresh cut flowers, assorted», 1 lot = EUR 60 906,67. Банк Bulgarian-American Credit Bank (SLAVYANSKA STR 2, Sofia), SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300. Отдельная (вторая) сделка к r41 — отличается на 0,01 EUR. Компания Q8 → ⬜ (себестоимость ждёт курс FX Q8). | 📨 16.10.2026 (📨 Платежные Поручения) — скриншот **Finom «Paiement envoyé»**: **60 906,67 € → Atlantic Avrora EOOD** (перевод отправлен 16.10.2026). Совпадает по сумме ровно с этой строкой (r42, инвойс AA-Q8-2026-1015-02). Цвет ⬜→🟡 (платёж отправлен; ждём подтверждение исполнения → 🟢). ⚠️ r41 отличается на 0,01 € — если платёж относится к нему, перенесу. | ✅ 20.10.2026 (Scream, ЛС): компания AXELYS TRANSPORT → APEX GLOBAL (указание владельца); строка зеленится по подтверждению владельца. Расчёт оставлен прежним (68 461,86 USDT).",
     "calc": null,
     "rowId": "flw-000138",
     "companySource": {
       "source": "owner_instruction",
       "date": null,
-      "ref": "Scream",
+      "ref": "Scream 20.10.2026",
       "messageId": null
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "calcStale": null
+    "calcStale": true
   },
   {
     "row": 43,
@@ -1219,8 +1219,8 @@
     "date": "2026-10-15",
     "sum": 20556.65,
     "currency": "EUR",
-    "company": "Q8",
-    "color": "FFFFFF00",
+    "company": "APEX GLOBAL",
+    "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "(20 556,65 × 1,002 + 60) × 1,1217 = 23 171,81 USDT",
     "extra": null,
@@ -1231,17 +1231,18 @@
     "vdx_rate": null,
     "received_usdt": 23171.813,
     "sent_usdt": 23171.813,
-    "notes": "📄 15.10.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_20556_65_EUR_16-Oct-2026.pdf») — COMMERCIAL INVOICE AA-Q8-2026-1016 dd 16 October 2026: продавец Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; Director Aleksandrs Rakovskis) → Buyer Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). «Fresh cut flowers, assorted», 1 lot = EUR 20 556,65. Банк Bulgarian-American Credit Bank (SLAVYANSKA STR 2, Sofia), SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300. Третья сделка серии (после r41/r42, инвойсы AA-Q8-2026-1015-01/-02). Компания Q8 → ⬜; себестоимость по курсу FX Q8 (EUR→USD 1,1207). | 🕓 16.10.2026 (Scream: «кросс-курс ещё не известен»): формула и sent_usdt сняты — расчёт ждёт кросс-курс FX Q8 от владельца. Значение 1,1207 из r41/r42 на эту сделку не распространяется. | 19.10.2026 (📨 Ордера и Расчеты): расчёт по сделке Atlantic Avrora — (20556.65*1.002+60)*1.1217 = 23171.813; адрес кошелька TGmGRq6odbBQthkx1uSEEqo5pQ9oKVpKZd. | 🛡️ 19.10.2026: движение OUT 23171.813 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:45). | ⚠️ 19.10.2026 (📨 Ордера и Расчеты): AML-проверка адреса получателя TGmGRq6odbBQthkx1uSEEqo5pQ9oKVpKZd — High risk, AML score 100 (EU Restricted CASP 48,87%, Low-risk exchange 13,07%, unknown wallet/OTC 6,28%). Контрагент просит кошелёк для возврата и «прислать почище». Возврат — только по решению Scream; строку не создаю, цвет не меняю. | | 📨 19.10.2026 (📨 Ордера и Расчеты, «Payment from EU ‼»; файл «INV 20 556,65 EUR.pdf» — дубль инвойса AA-Q8-2026-1016) — ордер на платёж: Beneficiary Atlantic Avrora EOOD (Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000); Bulgarian-American Credit Bank, SWIFT BGUSBGSF, счёт BG04BGUS91601413896300; payment details «inv AA-Q8-2026-1016 dd 16.10.26»; Amount 20 556,65 EUR; OUR. Та же сделка — новая строка не нужна, сумма/цвет без изменений. | 📝 19.10.2026 (Scream: «для порядку, уже в оплате») — ордер прислан для порядка, платёж уже в работе; строку/цвет не меняю. | | 📝 19.10.2026 (Scream: «Этот пп ждем») — по сделке ждём платёжное поручение/подтверждение исполнения; цвет не меняю. | 🛡️ 19.10.2026: движение IN 23171.813 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:45). | 20.10.2026: ВОЗВРАТ ПЛАТЕЖА — 23 171,813 USDT вернулись на Z Source 2 (TJXfWVB7DTZ7wVb5N5vM2NLBaEXAaWgLCF) от TGmGRq6odbBQthkx1uSEEqo5pQ9oKVpKZd, txid d2b33197a5152cfb6bf8e78503e09d6a5538c0853d90b682a1ff007ef361b159; приход записан в леджер (IN_23171.813_19.10.2026, q9_sent=true). Scream 20.10.2026. |  | 🏦 19.10.2026 (📨 Платежные Поручения, скриншот my.olky.eu) — ордер на перевод Atlantic Avrora EOOD, IBAN BG04BGUS91601413896300: 20 556,65 EUR, label «inv AA-Q8-2026-1016 dd 16-10-…», создан 19/10/2026 21:41:05, дата исполнения 19/10/2026, категория Virement, IBAN отправителя — по инвойсу. Строка ⬜→🟡 (платёж отправлен, ждём исполнения → 🟢). | 🔄 20.10.2026 (📨 Ордера и Расчеты, ссылка tronscan tx d2b33197a5152cfb6bf8e78503e09d6a5538c0853d90b682a1ff007ef361b159) — «Возврат грязного теза»: по возврату 23 171,813 USDT контрагент просит отправить «чистенький» тез на новый адрес TLgafZdNCVt5ZYKutnruThe7HFpbFyLjTe. Движение ещё не выполнялось — только зафиксирован адрес и запрос; цвет строки не меняю.\r\n | ✅ 20.10.2026 07:57:21 UTC (Bobr, Рабочий 5) — 23 171,813 USDT отправлены на TLgafZdNCVt5ZYKutnruThe7HFpbFyLjTe (txid 7e2b1d4234675eb30a34e41452a30a678a31158b7079c69acb419d0892298d9c). Q9 отправлен, запись в леджере OUT_23171.813_20.10.2026. Цвет строки не меняю (ждём банковскую зелёнку по EUR-платежу).\r\n",
+    "notes": "📄 15.10.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_20556_65_EUR_16-Oct-2026.pdf») — COMMERCIAL INVOICE AA-Q8-2026-1016 dd 16 October 2026: продавец Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000; Director Aleksandrs Rakovskis) → Buyer Q8 Group Limited (80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). «Fresh cut flowers, assorted», 1 lot = EUR 20 556,65. Банк Bulgarian-American Credit Bank (SLAVYANSKA STR 2, Sofia), SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300. Третья сделка серии (после r41/r42, инвойсы AA-Q8-2026-1015-01/-02). Компания Q8 → ⬜; себестоимость по курсу FX Q8 (EUR→USD 1,1207). | 🕓 16.10.2026 (Scream: «кросс-курс ещё не известен»): формула и sent_usdt сняты — расчёт ждёт кросс-курс FX Q8 от владельца. Значение 1,1207 из r41/r42 на эту сделку не распространяется. | 19.10.2026 (📨 Ордера и Расчеты): расчёт по сделке Atlantic Avrora — (20556.65*1.002+60)*1.1217 = 23171.813; адрес кошелька TGmGRq6odbBQthkx1uSEEqo5pQ9oKVpKZd. | 🛡️ 19.10.2026: движение OUT 23171.813 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:45). | ⚠️ 19.10.2026 (📨 Ордера и Расчеты): AML-проверка адреса получателя TGmGRq6odbBQthkx1uSEEqo5pQ9oKVpKZd — High risk, AML score 100 (EU Restricted CASP 48,87%, Low-risk exchange 13,07%, unknown wallet/OTC 6,28%). Контрагент просит кошелёк для возврата и «прислать почище». Возврат — только по решению Scream; строку не создаю, цвет не меняю. | | 📨 19.10.2026 (📨 Ордера и Расчеты, «Payment from EU ‼»; файл «INV 20 556,65 EUR.pdf» — дубль инвойса AA-Q8-2026-1016) — ордер на платёж: Beneficiary Atlantic Avrora EOOD (Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000); Bulgarian-American Credit Bank, SWIFT BGUSBGSF, счёт BG04BGUS91601413896300; payment details «inv AA-Q8-2026-1016 dd 16.10.26»; Amount 20 556,65 EUR; OUR. Та же сделка — новая строка не нужна, сумма/цвет без изменений. | 📝 19.10.2026 (Scream: «для порядку, уже в оплате») — ордер прислан для порядка, платёж уже в работе; строку/цвет не меняю. | | 📝 19.10.2026 (Scream: «Этот пп ждем») — по сделке ждём платёжное поручение/подтверждение исполнения; цвет не меняю. | 🛡️ 19.10.2026: движение IN 23171.813 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:45). | 20.10.2026: ВОЗВРАТ ПЛАТЕЖА — 23 171,813 USDT вернулись на Z Source 2 (TJXfWVB7DTZ7wVb5N5vM2NLBaEXAaWgLCF) от TGmGRq6odbBQthkx1uSEEqo5pQ9oKVpKZd, txid d2b33197a5152cfb6bf8e78503e09d6a5538c0853d90b682a1ff007ef361b159; приход записан в леджер (IN_23171.813_19.10.2026, q9_sent=true). Scream 20.10.2026. |  | 🏦 19.10.2026 (📨 Платежные Поручения, скриншот my.olky.eu) — ордер на перевод Atlantic Avrora EOOD, IBAN BG04BGUS91601413896300: 20 556,65 EUR, label «inv AA-Q8-2026-1016 dd 16-10-…», создан 19/10/2026 21:41:05, дата исполнения 19/10/2026, категория Virement, IBAN отправителя — по инвойсу. Строка ⬜→🟡 (платёж отправлен, ждём исполнения → 🟢). | 🔄 20.10.2026 (📨 Ордера и Расчеты, ссылка tronscan tx d2b33197a5152cfb6bf8e78503e09d6a5538c0853d90b682a1ff007ef361b159) — «Возврат грязного теза»: по возврату 23 171,813 USDT контрагент просит отправить «чистенький» тез на новый адрес TLgafZdNCVt5ZYKutnruThe7HFpbFyLjTe. Движение ещё не выполнялось — только зафиксирован адрес и запрос; цвет строки не меняю.\r\n | ✅ 20.10.2026 07:57:21 UTC (Bobr, Рабочий 5) — 23 171,813 USDT отправлены на TLgafZdNCVt5ZYKutnruThe7HFpbFyLjTe (txid 7e2b1d4234675eb30a34e41452a30a678a31158b7079c69acb419d0892298d9c). Q9 отправлен, запись в леджере OUT_23171.813_20.10.2026. Цвет строки не меняю (ждём банковскую зелёнку по EUR-платежу).\r\n | ✅ 20.10.2026 (Scream, ЛС): компания Q8 → APEX GLOBAL (указание владельца); строка зеленится по подтверждению владельца. Расчёт оставлен прежним (23 171,813 USDT).",
     "calc": null,
     "rowId": "flw-000143",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "AA-Q8-2026-1016",
-      "file": "Invoice_Atlantic_Avrora_Q8_20556_65_EUR_16-Oct-2026.pdf"
+      "ref": "Scream 20.10.2026",
+      "messageId": null
     },
-    "companyProvisional": true,
-    "companyVerified": false
+    "companyProvisional": false,
+    "companyVerified": false,
+    "calcStale": true
   },
   {
     "row": 46,
@@ -1315,7 +1316,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 23130.5,
-    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 23 000,00 + 0,3% + 30 = 23 099,00 USDT. |  | 📄 19.10.2026 (📨 Цветы, файл «PACIFIC_AIR_CARGO_Q8_23000_USD.pdf») — COMMERCIAL MASTER INVOICE № PAC-20261019-01 от 19.10.2026: продавец PACIFIC AIR CARGO SA (RUC 1791728726001, Av. Nicolás Baquero S/N y 29 de Abril, Tababela, Ecuador) → покупатель Q8 GROUP LIMITED (Company No. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Transportation services, 1 × 23 000,00 USD. Банк PRODUBANCO, SWIFT PRODECEQ, счёт 2005229691. Второй файл (.docx — форма реквизитов) — та же сделка, дубль по содержимому, новая строка не создавалась. Компания Q8 → ⬜. | 🛡️ 19.10.2026: движение OUT 23130.5 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:48). |  | ✅ 20.10.2026 (📨 ПП банка JP Morgan, файл «USD 23,000.00 (SUCCESS).pdf», Q8-0020) — **TRANSACTION RECEIPT**: Sender Q8 GROUP LIMITED → PACIFIC AIR CARGO SA (PRODUBANCO, PRODECEQXXX, счёт 2005229691); USD 23 000,00; Transaction Status **SUCCESS**; Date 20 OCT 2026; Remarks PAYMENT FOR INVOICE PAC-20261019-01; UETR 0953caf7-a147-4e95-af28-6801aaa4c2d8. Исполнено → 🟢. | 🟢 20.10.2026 (📨 ПП компании Q8/Z-source, «23000.00.pdf») — BONBILL Payment Certificate (鯨易付): Transaction ID O2112457880929173504921, Payment Time 2026-10-20 16:16:21, Payer Z SOURCE LIMITED → Payee PACIFIC AIR CARGO SA (счёт 2005229691, BANCO DE LA PRODUCCION S.A. PRODUBANCO), USD 23 000,00, Invoice PAC2026101901DD19102026 ForTransportationServices; печать BONBILL — исполнено.",
+    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 23 000,00 + 0,3% + 30 = 23 099,00 USDT. |  | 📄 19.10.2026 (📨 Цветы, файл «PACIFIC_AIR_CARGO_Q8_23000_USD.pdf») — COMMERCIAL MASTER INVOICE № PAC-20261019-01 от 19.10.2026: продавец PACIFIC AIR CARGO SA (RUC 1791728726001, Av. Nicolás Baquero S/N y 29 de Abril, Tababela, Ecuador) → покупатель Q8 GROUP LIMITED (Company No. 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Transportation services, 1 × 23 000,00 USD. Банк PRODUBANCO, SWIFT PRODECEQ, счёт 2005229691. Второй файл (.docx — форма реквизитов) — та же сделка, дубль по содержимому, новая строка не создавалась. Компания Q8 → ⬜. | 🛡️ 19.10.2026: движение OUT 23130.5 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:48). |  | ✅ 20.10.2026 (📨 ПП банка JP Morgan, файл «USD 23,000.00 (SUCCESS).pdf», Q8-0020) — **TRANSACTION RECEIPT**: Sender Q8 GROUP LIMITED → PACIFIC AIR CARGO SA (PRODUBANCO, PRODECEQXXX, счёт 2005229691); USD 23 000,00; Transaction Status **SUCCESS**; Date 20 OCT 2026; Remarks PAYMENT FOR INVOICE PAC-20261019-01; UETR 0953caf7-a147-4e95-af28-6801aaa4c2d8. Исполнено → 🟢. | 🟢 20.10.2026 (📨 ПП компании Q8/Z-source, «23000.00.pdf») — BONBILL Payment Certificate (鯨易付): Transaction ID O2112457880929173504921, Payment Time 2026-10-20 16:16:21, Payer Z SOURCE LIMITED → Payee PACIFIC AIR CARGO SA (счёт 2005229691, BANCO DE LA PRODUCCION S.A. PRODUBANCO), USD 23 000,00, Invoice PAC2026101901DD19102026 ForTransportationServices; печать BONBILL — исполнено. | 🔁 20.10.2026 (Scream, ЛС): по этой сделке было ТРИ платёжных документа — сначала ПП JP Morgan (Q8 GROUP LIMITED, SUCCESS), затем квитанция компании Q8, затем BONBILL от Z SOURCE LIMITED. Платёж исполнен ДВАЖДЫ (случайно оплатили из Q8 и из Z SOURCE); действующим считается Z SOURCE — она вынесена отдельной строкой r50 с расчётом 23 000,00 + 0,3% + 30 = 23 099,00 USDT. Эта строка остаётся как исполнение Q8 (23 130,50 USDT = +0,35% + 50).",
     "calc": null,
     "rowId": "flw-000146",
     "companySource": {
@@ -1349,7 +1350,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 30771.83,
-    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 614,68 + 0,3% + 30 = 30 736,52 USDT. |  | 📄 19.10.2026 (📨 Цветы, файлы «ONETEAMCARGO S.A. 30614,68.pdf» и .docx) — COMERCIAL INVOICE (PROFORMA) № 30092026 от 30.09.2026: продавец ONETEAMCARGO S.A. (RUC 1793058000001, Pasaje S/N y 24 de Septiembre, Quito, Ecuador) → Bill to Q8 Group Limited (Company No. 80242882, Kwun Tong, Hong Kong). Сумма по инвойсу 30 000,00 USD (AWB 29 670 + CHA 80 + DAE 65 + AWC 35 + PICK UP 150); в платёжных реквизитах (заявке, 71A OUR) — USD 30 614,68 → сумма строки из заявки. Банк PRODUBANCO, SWIFT PRODECEQ, счёт 12040835435. Компания Q8 → ⬜; Q8-расчёт проставлен автоматически. | 🛡️ 19.10.2026: движение OUT 30771.83 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:49). |  | ✅ 20.10.2026 (📨 ПП банка JP Morgan, файл «USD 30,614.68 (SUCCESS).pdf», Q8-0021) — **TRANSACTION RECEIPT**: Sender Q8 GROUP LIMITED → ONETEAMCARGO S.A. (PRODUBANCO, PRODECEQXXX, счёт 12040835435); USD 30 614,68; Transaction Status **SUCCESS**; Date 20 OCT 2026; Remarks PAYMENT FOR INVOICE DATED 30.09.2026; UETR 284ac156-4ff4-47f2-9eb7-f032430ba32f. Исполнено → 🟢. | 🟢 20.10.2026 (📨 ПП компании Q8/Z-source, «30614.68.pdf») — BONBILL Payment Certificate (鯨易付): Transaction ID O2112458428445229056596, Payment Time 2026-10-20 16:18:31, Payer Z SOURCE LIMITED → Payee ONETEAMCARGO S.A. (счёт 12040835435, BANCO DE LA PRODUCCION S.A. PRODUBANCO), USD 30 614,68, Invoice 30092026DD30092026 ForFreight; печать BONBILL — исполнено.",
+    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 30 614,68 + 0,3% + 30 = 30 736,52 USDT. |  | 📄 19.10.2026 (📨 Цветы, файлы «ONETEAMCARGO S.A. 30614,68.pdf» и .docx) — COMERCIAL INVOICE (PROFORMA) № 30092026 от 30.09.2026: продавец ONETEAMCARGO S.A. (RUC 1793058000001, Pasaje S/N y 24 de Septiembre, Quito, Ecuador) → Bill to Q8 Group Limited (Company No. 80242882, Kwun Tong, Hong Kong). Сумма по инвойсу 30 000,00 USD (AWB 29 670 + CHA 80 + DAE 65 + AWC 35 + PICK UP 150); в платёжных реквизитах (заявке, 71A OUR) — USD 30 614,68 → сумма строки из заявки. Банк PRODUBANCO, SWIFT PRODECEQ, счёт 12040835435. Компания Q8 → ⬜; Q8-расчёт проставлен автоматически. | 🛡️ 19.10.2026: движение OUT 30771.83 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:49). |  | ✅ 20.10.2026 (📨 ПП банка JP Morgan, файл «USD 30,614.68 (SUCCESS).pdf», Q8-0021) — **TRANSACTION RECEIPT**: Sender Q8 GROUP LIMITED → ONETEAMCARGO S.A. (PRODUBANCO, PRODECEQXXX, счёт 12040835435); USD 30 614,68; Transaction Status **SUCCESS**; Date 20 OCT 2026; Remarks PAYMENT FOR INVOICE DATED 30.09.2026; UETR 284ac156-4ff4-47f2-9eb7-f032430ba32f. Исполнено → 🟢. | 🟢 20.10.2026 (📨 ПП компании Q8/Z-source, «30614.68.pdf») — BONBILL Payment Certificate (鯨易付): Transaction ID O2112458428445229056596, Payment Time 2026-10-20 16:18:31, Payer Z SOURCE LIMITED → Payee ONETEAMCARGO S.A. (счёт 12040835435, BANCO DE LA PRODUCCION S.A. PRODUBANCO), USD 30 614,68, Invoice 30092026DD30092026 ForFreight; печать BONBILL — исполнено. | 🔁 20.10.2026 (Scream, ЛС): по этой сделке было ТРИ платёжных документа — сначала ПП JP Morgan (Q8 GROUP LIMITED, SUCCESS), затем квитанция компании Q8, затем BONBILL от Z SOURCE LIMITED. Платёж исполнен ДВАЖДЫ (случайно оплатили из Q8 и из Z SOURCE); действующим считается Z SOURCE — отдельная строка r51 с расчётом 30 614,68 + 0,3% + 30 = 30 736,52 USDT. Эта строка остаётся как исполнение Q8 (30 771,83 USDT = +0,35% + 50).",
     "calc": null,
     "rowId": "flw-000147",
     "companySource": {
@@ -1383,7 +1384,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 23099,
-    "notes": null,
+    "notes": "📄 20.10.2026 (📨 ПП компании Z SOURCE, «23000.00.pdf») — BONBILL Payment Certificate (鯨易付): Transaction ID O2112457880929173504921, Payment Time 2026-10-20 16:16:21, Payer Z SOURCE LIMITED → Payee PACIFIC AIR CARGO SA (PRODUBANCO, счёт 2005229691), USD 23 000,00, Invoice PAC2026101901DD19102026 ForTransportationServices; печать BONBILL = исполнено (Z SOURCE: без поля статуса → 🟢). Дублирующая оплата той же сделки, что Q8 r48 (Scream 20.10: оплатили случайно из Q8 и из Z SOURCE, сейчас идёт Z SOURCE) — отдельная строка на Z SOURCE по указанию владельца.",
     "calc": null,
     "rowId": "flw-000148",
     "companySource": {
@@ -1413,7 +1414,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 30736.52,
-    "notes": null,
+    "notes": "📄 20.10.2026 (📨 ПП компании Z SOURCE, «30614.68.pdf») — BONBILL Payment Certificate (鯨易付): Transaction ID O2112458428445229056596, Payment Time 2026-10-20 16:18:31, Payer Z SOURCE LIMITED → Payee ONETEAMCARGO S.A. (PRODUBANCO, счёт 12040835435), USD 30 614,68, Invoice 30092026DD30092026 ForFreight; печать BONBILL = исполнено (Z SOURCE: без поля статуса → 🟢). Дублирующая оплата той же сделки, что Q8 r49 — отдельная строка на Z SOURCE по указанию владельца.",
     "calc": null,
     "rowId": "flw-000149",
     "companySource": {
