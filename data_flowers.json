@@ -1299,7 +1299,7 @@
     "sum": 23000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "PACIFIC AIR CARGO (Цветы)",
     "costFormula": "23 000,00 + 0,35% + 50 = 23 130,50 USDT",
     "extra": null,
