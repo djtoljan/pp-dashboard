@@ -1220,5 +1220,39 @@
     "notes": "ПП на VDX №115 от 20.10.2026 (5 064 532,18 ₽ — номер из документа ПП) | ПП №115 от 20.10.2026 ИСПОЛНЕН 20.10.2026 (МОРСКОЙ БАНК (АО), БИК 044525095, ЭП Поплавская Ольга Валерьевна): ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), 5 064 532,18 ₽ {VO60081} «Перевод в пользу Eurasia Logistics Co., Ltd Субагентский договор № СА-2026-3108-01 от 31.08.26 поручение 4 от 20.10.2026, оплата за лог. услуги», НДС не облагается. ⚠️ заявки нет — 🔵 отправка на VDX без заявки.",
     "calc": null,
     "rowId": "mol-000157"
+  },
+  {
+    "row": 44,
+    "date": "2026-10-20",
+    "sum": 3755,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "—",
+    "costFormula": "3 755,00 ÷ 0,996 = 3 770,08; 50,00 ÷ 0,996 = 50,20; итого 3 820,28 USDT (комиссия 0,4%)",
+    "extra": "-",
+    "rubles_received": "-",
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 3820.28,
+    "notes": " | ✏️ 20.10.2026 (Scream, форвард N Y): комиссия 0,4% — 3 755,00 ÷ 0,996 + 50,00 ÷ 0,996 = 3 820,28 USDT (было Q8-авто 3 796,26) | 📄 20.10.2026 (📨 Молодежь, файлы «3755_USD_INVOICE_SHEN_ZHEN_SHI_NI_ZHOU_KE_JI_YOU_XIAN_GONG_SI_1.pdf» + «PO_3755_USD_SHEN_ZHEN_SHI_NI_ZHOU_KE_JI_YOU_XIAN_GONG_SI_1_1.docx») — INVOICE CL20261009001 dd 09.10.2026 (SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI, Standard Chartered HK, SWIFT SCBLHKHH, счёт 47413626978) → Q8 GROUP LIMITED; 9 позиций (HDD WD Ultrastar, PANGEA, OceanStor, NetApp, EMC, Dell Unity, Huawei, HPE 562SFP+, Supermicro PSU); TOTAL 3 755,00 USD. PO 3755 USD — те же реквизиты, та же сделка => одна строка. | ✏️ 20.10.2026 (Scream, форвард N Y): комиссия 0,4% — 3 755,00 ÷ 0,996 + 50,00 ÷ 0,996 = 3 820,28 USDT. | ⚠️ Клиент Молодёжи не назван — clientName пустой, ждёт уточнения.",
+    "calc": null,
+    "rowId": "mol-000159",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-09",
+      "ref": "CL20261009001",
+      "file": "3755_USD_INVOICE_SHEN_ZHEN_SHI_NI_ZHOU_KE_JI_YOU_XIAN_GONG_SI_1.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; FINIVEST AI; msg 57935; 2026-10-20; Scream (forward N Y): 0,4%",
+      "date": "2026-10-20"
+    }
   }
 ]
