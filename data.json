@@ -2146,27 +2146,6 @@
     {
       "row": 75,
       "date": "2026-10-12",
-      "sum": 870720,
-      "currency": "CNY",
-      "company": null,
-      "color": "FFFF0000",
-      "clientName": "BLACKSHARK TRADE LLC",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": " | 📄 12.10.2026 (📨 НБС-Fininvest (t725), файл «PI- ZYXCH260910FTC1039.pdf») — **PROFORMA INVOICE ZYXCH260910FTC1039** (SC No. АРЗ0-002192 / 09.09.2026, dated SEPT 10.2026): продавец **Zhejiang Zanyu New Material Co., Ltd.** (FLOOR 2, BUILDING 1, YUEQUAN INTELLIGENT EQUIPMENT INDUSTRIAL PARK, NO.589, FENGHE ROAD, PUJIANG COUNTY, ZHEJIANG, CHINA); Buyer **BLACKSHARK TRADE LLC** (INN 9909705614, Microdistrict 10, 34 Bishkek); товар **Stearic acid 1860** (25KG BAG ON PALLETS), 96 MT × ¥9 070,00 = **¥870 720,00 CNY**; Price term FOB NINGBO, Payment 100% T/T in advance; Destination ST PETERBURG, RUSSIA; банк PJSC VTB BANK Shanghai Branch (SWIFT VTBRCNSH, счёт 40807156200610029443, бенефициар Zhejiang Zanyu). Компания-плательщик не названа → Step 0 → 🔴. |  | 📄 12.10.2026 (📨 НБС-Fininvest (t725), файл «PO- ZYXCH260910FTC1039.pdf») — **SALES CONTRACT ZYXCH260910FTC1039** (SC No. АРЗ0-002192 / 09.09.2026): та же сделка; продавец Zhejiang Zanyu New Material Co., Ltd., Buyer BLACKSHARK TRADE LLC; Stearic acid 1860, 96 MT × ¥9 070,00 = **¥870 720,00 CNY**; FOB NINGBO, 100% T/T IN ADVANCE, Destination ST PETERBURG; бенефициар Zhejiang Zanyu (PJSC VTB BANK Shanghai, SWIFT VTBRCNSH). Новую строку не создаю.",
-      "calc": null,
-      "rowId": "main-000280"
-    },
-    {
-      "row": 76,
-      "date": "2026-10-12",
       "sum": 151000,
       "currency": "USD",
       "company": "SURYA",
@@ -2194,7 +2173,7 @@
       "companyVerified": false
     },
     {
-      "row": 77,
+      "row": 76,
       "date": "2026-10-12",
       "sum": null,
       "currency": null,
@@ -2215,7 +2194,7 @@
       "rowId": "main-000284"
     },
     {
-      "row": 78,
+      "row": 77,
       "date": "2026-10-13",
       "sum": 27672.97,
       "currency": "USD",
@@ -2248,7 +2227,7 @@
       "companyVerified": false
     },
     {
-      "row": 79,
+      "row": 78,
       "date": "2026-10-13",
       "sum": 47324,
       "currency": "CNY",
@@ -2269,7 +2248,7 @@
       "rowId": "main-000290"
     },
     {
-      "row": 80,
+      "row": 79,
       "date": "2026-10-13",
       "sum": 62193.6,
       "currency": "EUR",
@@ -2298,7 +2277,7 @@
       "companyVerified": true
     },
     {
-      "row": 81,
+      "row": 80,
       "date": "2026-10-13",
       "sum": 2279.05,
       "currency": "USD",
@@ -2339,7 +2318,7 @@
       "companyVerified": false
     },
     {
-      "row": 82,
+      "row": 81,
       "date": "2026-10-13",
       "sum": 1356600,
       "currency": "CNY",
@@ -2360,7 +2339,7 @@
       "rowId": "main-000295"
     },
     {
-      "row": 83,
+      "row": 82,
       "date": "2026-10-13",
       "sum": 635500,
       "currency": "CNY",
@@ -2389,7 +2368,7 @@
       "companyVerified": false
     },
     {
-      "row": 84,
+      "row": 83,
       "date": "2026-10-13",
       "sum": 4548,
       "currency": "USD",
@@ -2418,7 +2397,7 @@
       "companyVerified": false
     },
     {
-      "row": 85,
+      "row": 84,
       "date": "2026-10-13",
       "sum": 56321.88,
       "currency": "USD",
@@ -2447,7 +2426,7 @@
       "companyVerified": false
     },
     {
-      "row": 86,
+      "row": 85,
       "date": "2026-10-13",
       "sum": 14200,
       "currency": "USD",
@@ -2480,7 +2459,7 @@
       "companyVerified": false
     },
     {
-      "row": 87,
+      "row": 86,
       "date": "2026-10-13",
       "sum": null,
       "currency": null,
@@ -2501,7 +2480,7 @@
       "rowId": "main-000300"
     },
     {
-      "row": 88,
+      "row": 87,
       "date": "2026-10-13",
       "sum": 47817.81,
       "currency": "USD",
@@ -2534,7 +2513,7 @@
       "companyVerified": true
     },
     {
-      "row": 89,
+      "row": 88,
       "date": "2026-10-13",
       "sum": 29000,
       "currency": "USD",
@@ -2563,7 +2542,7 @@
       "companyVerified": false
     },
     {
-      "row": 90,
+      "row": 89,
       "date": "2026-10-13",
       "sum": 100209.7,
       "currency": "USD",
@@ -2592,36 +2571,7 @@
       "companyVerified": false
     },
     {
-      "row": 91,
-      "date": "2026-10-14",
-      "sum": 67757.6,
-      "currency": "EUR",
-      "company": "Q8",
-      "color": "FFFFFFFF",
-      "clientName": "VDX",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "Payment from Q8. Бенефициар: GENBIOTEK BIOSISTEM LABORATUAR MALZ. DANS. OTO. SAN. VE TIC. LTD. STI., Pinartepe Mah. Turgut Ozal Cad. Sutculer Sk. Goksu Villalari 5B A/2, Buyukcekmece-Istanbul, 34500. Банк: EMLAK KATILIM BANKASI (EMLAK BANK), Barbaros Mah. Begonya Sk. No:9A, Atasehir/Istanbul. SWIFT EMLATRISXXX, счёт TR67 0021 1000 0007 2855 9001 02. Payment details: inv. ZX-GB-9568312 DD 14/10/2026, OUR. Заказ: Kit Customer V-300, 1000 шт, 100% предоплата, delivery 30.12.2026, consignee PT JARI JARI GROUP.",
-      "calc": null,
-      "rowId": "main-000304",
-      "companySource": {
-        "source": "unverified-legacy",
-        "date": null,
-        "ref": "нет основания в notes/документах на 2026-10-17",
-        "backfill": true
-      },
-      "companyProvisional": false,
-      "companyVerified": false
-    },
-    {
-      "row": 92,
+      "row": 90,
       "date": "2026-10-14",
       "sum": null,
       "currency": null,
@@ -2642,7 +2592,7 @@
       "rowId": "main-000305"
     },
     {
-      "row": 93,
+      "row": 91,
       "date": "2026-10-14",
       "sum": 16687.72,
       "currency": "USD",
@@ -2675,7 +2625,7 @@
       "companyVerified": false
     },
     {
-      "row": 94,
+      "row": 92,
       "date": "2026-10-14",
       "sum": 20452.5,
       "currency": "USD",
@@ -2709,7 +2659,7 @@
       }
     },
     {
-      "row": 95,
+      "row": 93,
       "date": "2026-10-14",
       "sum": null,
       "currency": null,
@@ -2730,7 +2680,7 @@
       "rowId": "main-000309"
     },
     {
-      "row": 96,
+      "row": 94,
       "date": "2026-10-14",
       "sum": 58265.44,
       "currency": "USD",
@@ -2763,36 +2713,7 @@
       "companyVerified": false
     },
     {
-      "row": 97,
-      "date": "2026-10-19",
-      "sum": 100000,
-      "currency": "EUR",
-      "company": "ООО «ВТС»",
-      "color": "FFFFFFFF",
-      "clientName": "ВТС",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": "9371870.00 / 140578.05",
-      "statementRef": null,
-      "sent_rubles_vdx": "9512448.05",
-      "exchange_to": "VDX",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 15.10.2026 (📨 ВТС-Fininvest (t5624), файл «Форма для реквизитов 68130.....docx») — Форма для реквизитов / заявка на платёж №68130 от 13.10.2026 (на основании договора 11/19-09/19092024 от 19.09.2024): AMOUNT 100 000,00, CURRENCY EUR; BENEFICIARY MET SPA (Via Piemonte 373, 23018 Talamona SO, Italia); ACCOUNT (IBAN) IT89T0200852230000104341025; BENEFICIARY'S BANK UNICREDIT BANK SPA (Via Rivolta 7, 23017 Morbegno, ITALY; SWIFT UNCRITMM); PAYMENT DETAILS For P/I 271/2026P dd 12/10/2026. Компания-плательщик не названа → строка 🔴 (Step 0). | 📄 15.10.2026 (📨 ВТС-Fininvest (t5624), файл «271-Proforma.pdf») — Pro Forma Invoice №271/2026P dd 12-10-2026 (продавец/бенефициар MET SPA; Customer LLC BIKE PRODUCTS, Москва; вело-шлемы, заказы 3455/1627/3447/3448 и др.): Total Pro Forma = 366 196,00 EUR, оплата PREPAYMENT 12/10/2026. СПРАВОЧНО: сумма строки = 100 000,00 EUR (заявка/форма 68130), инвойс 271/2026P — на 366 196,00 EUR, это ОДНА сделка (первый платёж-предоплата по инвойсу). Нюанс от Оксаны: следующие платежи запускаются через ЭТОТ ЖЕ инвойс 271/2026P — строка не создаётся на каждую доплату, доплаты идут в notes этой же строки; по инвойсу сделку не закрывать. | | 📄 19.10.2026 (📨 ВТС-Fininvest (t5624), файл «инвойс услуги Би трейд 68130.pdf») — **ИНВОЙС № 68130 от 19.10.2026** (ОсОО «БиТрейд Кей Джи», ИНН/КПП 9909705572/772887001, ВТБ (ПАО) р/с 40807810525640000008, БИК 044525411, к/с 30101810145250000411; ген. дир. Курьянов А.А.) → Покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001, Новоданиловская наб., д. 4А, помещ. 11/2/6; счёт 40702810700250001265, ВТБ (ПАО), БИК 044525411): «Посреднические услуги по проведению расчётов с иностранным поставщиком, курс EUR 93,7187» — **1 500,00 EUR = 140 578,05 ₽**, ИТОГО 140 578,05 ₽. Договор 27062025TК/1 от 24.06.2025. Комиссия агента по этой же заявке №68130 — та же сделка (MET SPA, 100 000,00 EUR), новую строку не создаю; сумма строки = сумма заявки. | | | 📄 19.10.2026 (📨 ВТС-Fininvest (t5624), файл «Поручение 68130.pdf») — **ПОРУЧЕНИЕ № 68130 от 19.10.2026** (Transfer request No 68130) к договору № 27062025TК/1 от 24.06.2025: Принципал **ООО «ВТС»** → Агент **ОсОО «БиТрейд Кей Джи»**; платёж **100 000,00 EUR** по инвойсу **P/I 271/2026P dd 12/10/2026**; получатель **MET SPA** (Via Piemonte 373, 23018 Talamona SO, Italia), UNICREDIT BANK SPA, SWIFT UNCRITMM, IBAN IT89T0200852230000104341025; Sales Contract № 03/12-25 dd 03.12.2025; курс 93,7187; сумма в рублях **9 371 870,00 ₽**; комиссия агента 1,5%; срок 5-10 банковских дней. Компания **ООО «ВТС»** → ⬜. | 📄 19.10.2026 (📨 ВТС-Fininvest, файл «271-Proforma на ВТС.pdf») — повтор Pro Forma Invoice 271/2026P dd 12-10-2026: Customer LLC «WTC» (ООО «ВТС»), Total Pro Forma **366 196,00 EUR**, PREPAYMENT — та же сделка, справочно. |  | 🏦 19.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «VTB_битрейд_19.10.2026_44362.pdf») — выписка ВТБ (ОсОО «БиТрейд Кей Джи», счёт 40807810525640000008, RUB, 19.10.2026): приходы от ООО «ВТС» (ИНН 7735171132): ПП №4699 — 9 371 870,00 ₽ (тело, заявка 68130), ПП №4700 — 140 578,05 ₽ (агентское 1,5%). |  | 🏦 19.10.2026 (📨 Отправки рублей ПП., текст «С БиТрейд на вдх / Сумма 9 512 448,05 велоинвентарь / Заявка 170 / …ООО ВТС») — рублёвый перевод БиТрейд → VDX 9 512 448,05 ₽ (велоинвентарь, заявка 170) = сумма тела 9 371 870,00 + комиссия агента 140 578,05 по заявке 68130. sent_rubles_vdx заполнен. |  | ПП на VDX №150 от 19.10.2026 (9 512 448,05 ₽ — номер из документа ПП) | 🏦 19.10.2026 (📨 Отправки рублей ПП., файл «non-resident_order_150_19.10.2026.pdf») — ПП №150 от 19.10.2026 ИСПОЛНЕН 17:58:45 (Филиал «Центральный» Банка ВТБ (ПАО)): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → ВиДиИкс Сервисез - ФЗКО (ПСБ, счёт 40807810000000015414), **9 512 448,05 ₽** {VO60081} «Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв. 170 от 19.10.2026 за велоинвентарь». sent_rubles_vdx подтверждён.",
-      "calc": null,
-      "rowId": "main-000326",
-      "companySource": {
-        "source": "order",
-        "date": null,
-        "ref": "68130",
-        "messageId": null
-      },
-      "companyProvisional": false,
-      "companyVerified": false
-    },
-    {
-      "row": 98,
+      "row": 95,
       "date": "2026-10-15",
       "sum": 46603.45,
       "currency": "RUB",
@@ -2813,7 +2734,7 @@
       "rowId": "main-000327"
     },
     {
-      "row": 99,
+      "row": 96,
       "date": "2026-10-15",
       "sum": 26994.31,
       "currency": "EUR",
@@ -2846,7 +2767,7 @@
       "companyVerified": false
     },
     {
-      "row": 100,
+      "row": 97,
       "date": "2026-10-15",
       "sum": null,
       "currency": null,
@@ -2867,7 +2788,7 @@
       "rowId": "main-000329"
     },
     {
-      "row": 101,
+      "row": 98,
       "date": "2026-10-15",
       "sum": null,
       "currency": null,
@@ -2900,7 +2821,7 @@
       "companyVerified": false
     },
     {
-      "row": 102,
+      "row": 99,
       "date": "2026-10-16",
       "sum": 20649.75,
       "currency": "EUR",
@@ -2921,7 +2842,36 @@
       "rowId": "main-000331"
     },
     {
-      "row": 103,
+      "row": 100,
+      "date": "2026-10-19",
+      "sum": 100000,
+      "currency": "EUR",
+      "company": "ООО «ВТС»",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "9371870.00 / 140578.05",
+      "statementRef": null,
+      "sent_rubles_vdx": "9512448.05",
+      "exchange_to": "VDX",
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "📄 15.10.2026 (📨 ВТС-Fininvest (t5624), файл «Форма для реквизитов 68130.....docx») — Форма для реквизитов / заявка на платёж №68130 от 13.10.2026 (на основании договора 11/19-09/19092024 от 19.09.2024): AMOUNT 100 000,00, CURRENCY EUR; BENEFICIARY MET SPA (Via Piemonte 373, 23018 Talamona SO, Italia); ACCOUNT (IBAN) IT89T0200852230000104341025; BENEFICIARY'S BANK UNICREDIT BANK SPA (Via Rivolta 7, 23017 Morbegno, ITALY; SWIFT UNCRITMM); PAYMENT DETAILS For P/I 271/2026P dd 12/10/2026. Компания-плательщик не названа → строка 🔴 (Step 0). | 📄 15.10.2026 (📨 ВТС-Fininvest (t5624), файл «271-Proforma.pdf») — Pro Forma Invoice №271/2026P dd 12-10-2026 (продавец/бенефициар MET SPA; Customer LLC BIKE PRODUCTS, Москва; вело-шлемы, заказы 3455/1627/3447/3448 и др.): Total Pro Forma = 366 196,00 EUR, оплата PREPAYMENT 12/10/2026. СПРАВОЧНО: сумма строки = 100 000,00 EUR (заявка/форма 68130), инвойс 271/2026P — на 366 196,00 EUR, это ОДНА сделка (первый платёж-предоплата по инвойсу). Нюанс от Оксаны: следующие платежи запускаются через ЭТОТ ЖЕ инвойс 271/2026P — строка не создаётся на каждую доплату, доплаты идут в notes этой же строки; по инвойсу сделку не закрывать. | | 📄 19.10.2026 (📨 ВТС-Fininvest (t5624), файл «инвойс услуги Би трейд 68130.pdf») — **ИНВОЙС № 68130 от 19.10.2026** (ОсОО «БиТрейд Кей Джи», ИНН/КПП 9909705572/772887001, ВТБ (ПАО) р/с 40807810525640000008, БИК 044525411, к/с 30101810145250000411; ген. дир. Курьянов А.А.) → Покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001, Новоданиловская наб., д. 4А, помещ. 11/2/6; счёт 40702810700250001265, ВТБ (ПАО), БИК 044525411): «Посреднические услуги по проведению расчётов с иностранным поставщиком, курс EUR 93,7187» — **1 500,00 EUR = 140 578,05 ₽**, ИТОГО 140 578,05 ₽. Договор 27062025TК/1 от 24.06.2025. Комиссия агента по этой же заявке №68130 — та же сделка (MET SPA, 100 000,00 EUR), новую строку не создаю; сумма строки = сумма заявки. | | | 📄 19.10.2026 (📨 ВТС-Fininvest (t5624), файл «Поручение 68130.pdf») — **ПОРУЧЕНИЕ № 68130 от 19.10.2026** (Transfer request No 68130) к договору № 27062025TК/1 от 24.06.2025: Принципал **ООО «ВТС»** → Агент **ОсОО «БиТрейд Кей Джи»**; платёж **100 000,00 EUR** по инвойсу **P/I 271/2026P dd 12/10/2026**; получатель **MET SPA** (Via Piemonte 373, 23018 Talamona SO, Italia), UNICREDIT BANK SPA, SWIFT UNCRITMM, IBAN IT89T0200852230000104341025; Sales Contract № 03/12-25 dd 03.12.2025; курс 93,7187; сумма в рублях **9 371 870,00 ₽**; комиссия агента 1,5%; срок 5-10 банковских дней. Компания **ООО «ВТС»** → ⬜. | 📄 19.10.2026 (📨 ВТС-Fininvest, файл «271-Proforma на ВТС.pdf») — повтор Pro Forma Invoice 271/2026P dd 12-10-2026: Customer LLC «WTC» (ООО «ВТС»), Total Pro Forma **366 196,00 EUR**, PREPAYMENT — та же сделка, справочно. |  | 🏦 19.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «VTB_битрейд_19.10.2026_44362.pdf») — выписка ВТБ (ОсОО «БиТрейд Кей Джи», счёт 40807810525640000008, RUB, 19.10.2026): приходы от ООО «ВТС» (ИНН 7735171132): ПП №4699 — 9 371 870,00 ₽ (тело, заявка 68130), ПП №4700 — 140 578,05 ₽ (агентское 1,5%). |  | 🏦 19.10.2026 (📨 Отправки рублей ПП., текст «С БиТрейд на вдх / Сумма 9 512 448,05 велоинвентарь / Заявка 170 / …ООО ВТС») — рублёвый перевод БиТрейд → VDX 9 512 448,05 ₽ (велоинвентарь, заявка 170) = сумма тела 9 371 870,00 + комиссия агента 140 578,05 по заявке 68130. sent_rubles_vdx заполнен. |  | ПП на VDX №150 от 19.10.2026 (9 512 448,05 ₽ — номер из документа ПП) | 🏦 19.10.2026 (📨 Отправки рублей ПП., файл «non-resident_order_150_19.10.2026.pdf») — ПП №150 от 19.10.2026 ИСПОЛНЕН 17:58:45 (Филиал «Центральный» Банка ВТБ (ПАО)): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → ВиДиИкс Сервисез - ФЗКО (ПСБ, счёт 40807810000000015414), **9 512 448,05 ₽** {VO60081} «Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв. 170 от 19.10.2026 за велоинвентарь». sent_rubles_vdx подтверждён.",
+      "calc": null,
+      "rowId": "main-000326",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "68130",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
+    },
+    {
+      "row": 101,
       "date": "2026-10-19",
       "sum": 35129.22,
       "currency": "EUR",
@@ -2950,7 +2900,7 @@
       "companyVerified": false
     },
     {
-      "row": 104,
+      "row": 102,
       "date": "2026-10-19",
       "sum": 20197,
       "currency": "EUR",
@@ -2980,7 +2930,7 @@
       "companyVerified": true
     },
     {
-      "row": 105,
+      "row": 103,
       "date": "2026-10-19",
       "sum": 21762.6,
       "currency": "USD",
@@ -3009,7 +2959,7 @@
       "companyVerified": false
     },
     {
-      "row": 106,
+      "row": 104,
       "date": "2026-10-19",
       "sum": 10300,
       "currency": "USD",
@@ -3038,7 +2988,7 @@
       "companyVerified": false
     },
     {
-      "row": 107,
+      "row": 105,
       "date": "2026-10-19",
       "sum": 49746,
       "currency": "USD",
