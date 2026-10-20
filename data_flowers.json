@@ -1395,5 +1395,35 @@
     },
     "companyProvisional": false,
     "companyVerified": true
+  },
+  {
+    "row": 51,
+    "date": "2026-10-20",
+    "sum": 30614.68,
+    "currency": "USD",
+    "company": "Z SOURCE",
+    "color": "FFFFFFFF",
+    "clientName": "ONETEAMCARGO (Цветы)",
+    "costFormula": "30 614,68 + 0,3% + 30 = 30 736,52 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 30736.52,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000149",
+    "companySource": {
+      "source": "foreign_pp",
+      "file": "30614.68.pdf",
+      "txid": null,
+      "ref": "O2112458428445229056596",
+      "date": "2026-10-20"
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   }
 ]
