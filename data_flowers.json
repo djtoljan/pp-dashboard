@@ -1272,7 +1272,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Modestogroup OU (Цветы)",
-    "costFormula": "76 877,51 + 0,3% + 30 = 77 138,14 USDT",
+    "costFormula": "76 877,51 ÷ 0,996 = 77 186,26; 50,00 ÷ 0,996 = 50,20; итого 77 236,46 USDT (комиссия 0,4%)",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1280,8 +1280,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 77138.14,
-    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 76 877,51 + 0,3% + 30 = 77 138,14 USDT. | 📄 19.10.2026 (📨 Цветы, файл «ModestoGroup_FL01_191026_76877_51_USD.pdf») — **INVOICE № FL01/191026 dd 19.10.2026**: продавец **ModestoGroup OU** (Reg. code 16203107, Tallinn, Estonia; IBAN GB32TCCL04143483461312, BIC TCCLGB3L, THE CURRENCY CLOUD LIMITED, 1 Sheldon Square, London W2 6TT, UK) → Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: Flower products, 1 box, **76 877,51 USD**. Компания Q8 → ⬜; Q8-расчёт: 76 877,51 + 0,3% + 30 = 77 138,14 USDT. Совпадений по 76 877,51 / FL01/191026 в 5 таблицах нет — новая строка.",
+    "sent_usdt": 77236.46,
+    "notes": "✏️ 19.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 76 877,51 + 0,3% + 30 = 77 138,14 USDT. | 📄 19.10.2026 (📨 Цветы, файл «ModestoGroup_FL01_191026_76877_51_USD.pdf») — **INVOICE № FL01/191026 dd 19.10.2026**: продавец **ModestoGroup OU** (Reg. code 16203107, Tallinn, Estonia; IBAN GB32TCCL04143483461312, BIC TCCLGB3L, THE CURRENCY CLOUD LIMITED, 1 Sheldon Square, London W2 6TT, UK) → Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиция: Flower products, 1 box, **76 877,51 USD**. Компания Q8 → ⬜; Q8-расчёт: 76 877,51 + 0,3% + 30 = 77 138,14 USDT. Совпадений по 76 877,51 / FL01/191026 в 5 таблицах нет — новая строка. | ✏️ 20.10.2026 (Scream): комиссия 0,4% вместо прежней 0,3%+30 → 76 877,51 ÷ 0,996 + 50,00 ÷ 0,996 = 77 236,46 USDT (было 77 138,14; разница 38,75)",
     "calc": null,
     "rowId": "flw-000145",
     "companySource": {
@@ -1291,7 +1291,12 @@
       "file": "ModestoGroup_FL01_191026_76877_51_USD.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; FINIVEST AI; msg 57931; 2026-10-20; Scream: комиссия 0,4%",
+      "date": "2026-10-20"
+    }
   },
   {
     "row": 48,
