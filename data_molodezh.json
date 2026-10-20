@@ -1198,7 +1198,19 @@
       "file": "Invoice--20260917 ex.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_facts": [
+      {
+        "entryId": "OUT_270103.41_20.10.2026_17898",
+        "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+        "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+        "bobrAlertId": null,
+        "date": "20.10.2026",
+        "direction": "OUT",
+        "amount": 11395.58,
+        "rowId": "mol-000156"
+      }
+    ]
   },
   {
     "row": 43,
@@ -1282,7 +1294,19 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_facts": [
+      {
+        "entryId": "OUT_270103.41_20.10.2026_17898",
+        "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+        "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+        "bobrAlertId": null,
+        "date": "20.10.2026",
+        "direction": "OUT",
+        "amount": 130262.35,
+        "rowId": "mol-000160"
+      }
+    ]
   },
   {
     "row": 46,

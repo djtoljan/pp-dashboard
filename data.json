@@ -2847,7 +2847,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 23341.14,
+          "rowId": "main-000331"
+        }
+      ]
     },
     {
       "row": 100,
@@ -3051,7 +3063,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 23070.2,
+          "rowId": "main-000337"
+        }
+      ]
     },
     {
       "row": 107,
@@ -3159,7 +3183,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 1586.34,
+          "rowId": "main-000342"
+        }
+      ]
     },
     {
       "row": 111,
@@ -3188,7 +3224,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 2500,
+          "rowId": "main-000343"
+        }
+      ]
     },
     {
       "row": 112,
@@ -3217,7 +3265,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 5567.27,
+          "rowId": "main-000344"
+        }
+      ]
     },
     {
       "row": 113,
@@ -3246,7 +3306,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 4087.35,
+          "rowId": "main-000345"
+        }
+      ]
     },
     {
       "row": 114,
@@ -3275,7 +3347,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 15607.43,
+          "rowId": "main-000346"
+        }
+      ]
     },
     {
       "row": 115,
@@ -3304,7 +3388,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 23544.18,
+          "rowId": "main-000347"
+        }
+      ]
     },
     {
       "row": 116,
@@ -3333,7 +3429,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 18549.2,
+          "rowId": "main-000348"
+        }
+      ]
     },
     {
       "row": 117,
@@ -3362,7 +3470,19 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_270103.41_20.10.2026_17898",
+          "ref": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "txid": "71a5b12194a2c3cb420603a36409bde6f91364f5b8c13c9dc17b039ed23e7e46",
+          "bobrAlertId": null,
+          "date": "20.10.2026",
+          "direction": "OUT",
+          "amount": 10592.37,
+          "rowId": "main-000349"
+        }
+      ]
     }
   ]
 }
