@@ -1366,5 +1366,34 @@
     },
     "companyProvisional": false,
     "companyVerified": true
+  },
+  {
+    "row": 48,
+    "date": "2026-10-21",
+    "sum": 13600,
+    "currency": "USD",
+    "company": "Z SOURCE",
+    "color": "FFFFFFFF",
+    "clientName": "—",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000166",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-21",
+      "ref": "ARU-2026-0708-RSD",
+      "file": "13600 USD INVOICE PT Arunika Perdagangan Internasional (2).pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
