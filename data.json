@@ -3043,7 +3043,7 @@
       "sum": 20409.53,
       "currency": "EUR",
       "company": "Q8",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "20 409,53 EUR / 0,8866 + 50,20 = 23 070,20 USDT (батч Q8, курс EUR 0,8866)",
       "extra": "-",
@@ -3378,7 +3378,7 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": 2377.02,
+      "sent_usdt": 2399.6,
       "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 23 400,00 + 0,3% + 30 = 23 500,20 USDT. | Scream 20.10.2026: батч Q8 270 103,41 USDT | 💵 20.10.2026 (Scream): батч Q8 — Q8-0029 (Priority 6). 23 400,00 / 0,996 + 50,20 = 23 544,18 USDT. |  | 📄 21.10.2026 (📨 ПП банка JP Morgan, Q8-0029): TRANSACTION RECEIPT TFR-XN5QG7H9 — Q8 GROUP LIMITED → NEXNET TECHNOLOGY CO. LIMITED (HSBC, счёт 853264778838), USD 2 340,00, инвойс G2026101200A, статус SUCCESS, 21 OCT 2026, UETR a80ae606-e908-4b78-8942-8a6b25a41003. ✅ Scream 21.10.2026: правильная сумма сделки — 2 340,00 (в строке было 23 400 по ошибке) → сумма исправлена, 🟢. | ✏️ 21.10.2026 (row-fix): company=Q8 → Q8-расчёт проставлен автоматически, 2 340,00 + 0,3% + 30 = 2 377,02 USDT.",
       "calc": "ТЕЗ",
       "rowId": "main-000347",
@@ -3484,36 +3484,6 @@
           "rowId": "main-000349"
         }
       ]
-    },
-    {
-      "row": 118,
-      "date": "2026-10-21",
-      "sum": 2340,
-      "currency": "USD",
-      "company": "Q8",
-      "color": "FF92D050",
-      "clientName": "ВТС",
-      "costFormula": "2 340,00 + 0,3% + 30 = 2 377,02 USDT",
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": 2377.02,
-      "notes": "📄 21.10.2026 (📨 ПП банка JP Morgan): TRANSACTION RECEIPT TFR-XN5QG7H9 — Q8 GROUP LIMITED → NEXNET TECHNOLOGY CO. LIMITED (HSBC, счёт 853264778838), USD 2 340,00, платёж по инвойсу G2026101200A, статус SUCCESS, 21 OCT 2026, UETR a80ae606-e908-4b78-8942-8a6b25a41003. NexNet — приложение №1 к поручению 77202; батч Q8-0029 (по подписи сообщения 21.10.2026 07:00 к этому же TRANSACTION RECEIPT) → 🟢. ⚠️ КОНФЛИКТ номеров: Q8-0029 уже проставлен на main r115 (23 400,00 USD) — ждём подтверждения Scream.",
-      "calc": "ТЕЗ",
-      "rowId": "main-000352",
-      "companySource": {
-        "source": "foreign_pp",
-        "file": "C:\\Users\\Mi Gaming\\.openclaw\\workspace\\pp-agent\\media\\inbound\\openclaw-staged-d73734bf-cc87-484a-815d-c7ed8cb347bf\\input-TFR-XN5QG7H9_USD_2340.00---368f0be9-853b-42ff-9224-7d5989914698.pdf",
-        "txid": null,
-        "ref": "G2026101200A",
-        "date": null
-      },
-      "companyProvisional": false,
-      "companyVerified": true
     }
   ]
 }
