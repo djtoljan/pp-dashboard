@@ -3058,6 +3058,35 @@
       "notes": "🏦 приход по выписке: VTB_битрейд_20.10.2026.pdf (кредиты FININVEST, 20.10.2026) | 🏦 20.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «VTB_битрейд_20.10.2026.pdf») — приходы от АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» (ИНН 9909705580, счёт 40807810324600000016) на счёт Блэкшарк: ПП №87 3 579 450,68 ₽ и ПП №88 2 225 694,72 ₽ {VO60081} «Оплата по Агентскому Договору, НДС не облагается» → rubles_received. | 💸 20.10.2026 (📨 Отправки рублей ПП., текст «С Блэкшарк почто на аль сафи / сумма — 5 790 144,68 — перевод собственных средств / доки на вход … FININVEST-БШ-Цветы\\\\вход 19.10.26-1 / ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ») — рублёвый перевод Блэкшарк (ПОЧТОБАНК) → Аль Сафи 5 790 144,68 ₽, перевод собственных средств; sent_rubles_vdx = 5 790 144,68, exchange_to = Al Safi.",
       "calc": null,
       "rowId": "main-000341"
+    },
+    {
+      "row": 105,
+      "date": "2026-10-21",
+      "sum": 17319.37,
+      "currency": "EUR",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "—",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000353",
+      "companySource": {
+        "source": "invoice",
+        "date": "2026-10-21",
+        "ref": "059-212026-FIT",
+        "file": "59-Karting-Q8-FIT-211026 (1).pdf"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
