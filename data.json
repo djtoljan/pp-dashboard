@@ -3069,7 +3069,7 @@
       "clientName": "—",
       "costFormula": null,
       "extra": null,
-      "rubles_received": null,
+      "rubles_received": "1611423.63 / 20948.51",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
@@ -3087,6 +3087,27 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 106,
+      "date": "2026-10-21",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО ЕТЕ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": "выписка ВТБ (БиТрейд) 21.10.2026, док 4775",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: выписка ВТБ (БиТрейд) 21.10.2026, док 4775",
+      "calc": null,
+      "rowId": "main-000354"
     }
   ]
 }
