@@ -1343,7 +1343,7 @@
     "sum": 50234.62,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "TRESSOLI",
     "costFormula": null,
     "extra": null,
@@ -1354,7 +1354,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 19.10.2026 (📨 Молодёжь, файл «foreign_transfer_details_RU_translation.pdf») — СВЕДЕНИЯ О МЕЖДУНАРОДНОМ ПЕРЕВОДЕ PKO Bank Polski SA (реф. SR26IP15147912DS): владелец счёта TRESSOLI SP. Z O.O.; получатель Q8 GROUP LIMITED (SWIFT AILSKZ2KXXX; счёт KZ299990172EUR001948); назначение «счёт-фактура Q8-261016-1»; сумма 50 234,62 EUR; дата перевода 19.10.2026; статус «Поручение принято к исполнению» (INITIATED); комиссии OUR 230,00 PLN ≈ 52,67 EUR. Клиент TRESSOLI отсутствует в clients-db — новый.",
     "calc": null,
     "rowId": "mol-000165",
     "companySource": {
