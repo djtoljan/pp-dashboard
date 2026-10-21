@@ -1395,5 +1395,26 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 49,
+    "date": "2026-10-21",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Евразия (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": "ПП №119 от 21.10.2026 ИСПОЛНЕН (МОРСКОЙ БАНК АО)",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: ПП №119 от 21.10.2026 ИСПОЛНЕН (МОРСКОЙ БАНК АО)",
+    "calc": null,
+    "rowId": "mol-000167"
   }
 ]
