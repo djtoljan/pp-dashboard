@@ -1426,5 +1426,26 @@
     },
     "companyProvisional": false,
     "companyVerified": true
+  },
+  {
+    "row": 52,
+    "date": "2026-10-21",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": "выписка АО АКИБ ПОЧТАБАНК г. Пермь 21.10.2026, док 437 и 438",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: выписка АО АКИБ ПОЧТАБАНК г. Пермь 21.10.2026, док 437 и 438",
+    "calc": null,
+    "rowId": "flw-000150"
   }
 ]
