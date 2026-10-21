@@ -1354,7 +1354,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 19.10.2026 (📨 Молодёжь, файл «foreign_transfer_details_RU_translation.pdf») — СВЕДЕНИЯ О МЕЖДУНАРОДНОМ ПЕРЕВОДЕ PKO Bank Polski SA (реф. SR26IP15147912DS): владелец счёта TRESSOLI SP. Z O.O.; получатель Q8 GROUP LIMITED (SWIFT AILSKZ2KXXX; счёт KZ299990172EUR001948); назначение «счёт-фактура Q8-261016-1»; сумма 50 234,62 EUR; дата перевода 19.10.2026; статус «Поручение принято к исполнению» (INITIATED); комиссии OUR 230,00 PLN ≈ 52,67 EUR. Клиент TRESSOLI отсутствует в clients-db — новый.",
+    "notes": "📄 19.10.2026 (📨 Молодёжь, файл «foreign_transfer_details_RU_translation.pdf») — СВЕДЕНИЯ О МЕЖДУНАРОДНОМ ПЕРЕВОДЕ PKO Bank Polski SA (реф. SR26IP15147912DS): владелец счёта TRESSOLI SP. Z O.O.; получатель Q8 GROUP LIMITED (SWIFT AILSKZ2KXXX; счёт KZ299990172EUR001948); назначение «счёт-фактура Q8-261016-1»; сумма 50 234,62 EUR; дата перевода 19.10.2026; статус «Поручение принято к исполнению» (INITIATED); комиссии OUR 230,00 PLN ≈ 52,67 EUR. Клиент TRESSOLI отсутствует в clients-db — новый. | | 📄 21.10.2026 (📨 Молодежь, файл «Q8-261016-1 (131 139 137 138 140 141 144 136 145).pdf») — **INVOICE Q8-261016-1**: SUPLIER Q8 GROUP LIMITED (reg. 68975013, 18/F The Center, 99 Queen's Road Central, Hong Kong; Al Safi Bank, SWIFT AILSKZ2K, ACCOUNT EURO KZ299990172EUR001948) → CUSTOMER **TRESSOLI SP Z O.O.** (Księcia Jerzego II Piasta 2C/1, 49-300 Brzeg; VAT 70134128; PKO BP, SWIFT BPKOPLPW, PL73 1020 1042 0000 8802 0513 6967): Forwarding services, orders 131 139 137 138 140 141 144 136 145, TOTAL **50 234,62 EUR**. Та же сделка, что r47 — строку не создаю; жду курс EUR за 19.10 для Q8-расчёта.",
     "calc": null,
     "rowId": "mol-000165",
     "companySource": {
