@@ -1214,6 +1214,36 @@
   },
   {
     "row": 43,
+    "date": "2026-10-19",
+    "sum": 50234.62,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFF00",
+    "clientName": "TRESSOLI",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 19.10.2026 (📨 Молодёжь, файл «foreign_transfer_details_RU_translation.pdf») — СВЕДЕНИЯ О МЕЖДУНАРОДНОМ ПЕРЕВОДЕ PKO Bank Polski SA (реф. SR26IP15147912DS): владелец счёта TRESSOLI SP. Z O.O.; получатель Q8 GROUP LIMITED (SWIFT AILSKZ2KXXX; счёт KZ299990172EUR001948); назначение «счёт-фактура Q8-261016-1»; сумма 50 234,62 EUR; дата перевода 19.10.2026; статус «Поручение принято к исполнению» (INITIATED); комиссии OUR 230,00 PLN ≈ 52,67 EUR. Клиент TRESSOLI отсутствует в clients-db — новый. | | 📄 21.10.2026 (📨 Молодежь, файл «Q8-261016-1 (131 139 137 138 140 141 144 136 145).pdf») — **INVOICE Q8-261016-1**: SUPLIER Q8 GROUP LIMITED (reg. 68975013, 18/F The Center, 99 Queen's Road Central, Hong Kong; Al Safi Bank, SWIFT AILSKZ2K, ACCOUNT EURO KZ299990172EUR001948) → CUSTOMER **TRESSOLI SP Z O.O.** (Księcia Jerzego II Piasta 2C/1, 49-300 Brzeg; VAT 70134128; PKO BP, SWIFT BPKOPLPW, PL73 1020 1042 0000 8802 0513 6967): Forwarding services, orders 131 139 137 138 140 141 144 136 145, TOTAL **50 234,62 EUR**. Та же сделка, что r47 — строку не создаю; жду курс EUR за 19.10 для Q8-расчёта.",
+    "calc": null,
+    "rowId": "mol-000165",
+    "companySource": {
+      "source": "foreign_pp",
+      "file": "foreign_transfer_details_RU_translation.pdf",
+      "txid": null,
+      "ref": "SR26IP15147912DS",
+      "date": null
+    },
+    "companyProvisional": false,
+    "companyVerified": true
+  },
+  {
+    "row": 44,
     "date": "2026-10-20",
     "sum": null,
     "currency": null,
@@ -1234,7 +1264,7 @@
     "rowId": "mol-000157"
   },
   {
-    "row": 44,
+    "row": 45,
     "date": "2026-10-20",
     "sum": 3755,
     "currency": "USD",
@@ -1268,7 +1298,7 @@
     }
   },
   {
-    "row": 45,
+    "row": 46,
     "date": "2026-10-20",
     "sum": 129691.3,
     "currency": "USD",
@@ -1309,7 +1339,7 @@
     ]
   },
   {
-    "row": 46,
+    "row": 47,
     "date": "2026-10-20",
     "sum": 60000,
     "currency": "USD",
@@ -1338,37 +1368,28 @@
     "companyVerified": false
   },
   {
-    "row": 47,
-    "date": "2026-10-19",
-    "sum": 50234.62,
-    "currency": "EUR",
-    "company": "Q8",
-    "color": "FFFFFF00",
-    "clientName": "TRESSOLI",
+    "row": 48,
+    "date": "2026-10-21",
+    "sum": 8727.3,
+    "currency": "USD",
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Ресурсы",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "statementRef": "ПП от 21.10.2026 (Сбербанк) ООО «РЕСУРСЫ» → VDX, prof.inv SR-202610S08RU022, поручение 1",
+    "sent_rubles_vdx": "723405.90",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 19.10.2026 (📨 Молодёжь, файл «foreign_transfer_details_RU_translation.pdf») — СВЕДЕНИЯ О МЕЖДУНАРОДНОМ ПЕРЕВОДЕ PKO Bank Polski SA (реф. SR26IP15147912DS): владелец счёта TRESSOLI SP. Z O.O.; получатель Q8 GROUP LIMITED (SWIFT AILSKZ2KXXX; счёт KZ299990172EUR001948); назначение «счёт-фактура Q8-261016-1»; сумма 50 234,62 EUR; дата перевода 19.10.2026; статус «Поручение принято к исполнению» (INITIATED); комиссии OUR 230,00 PLN ≈ 52,67 EUR. Клиент TRESSOLI отсутствует в clients-db — новый. | | 📄 21.10.2026 (📨 Молодежь, файл «Q8-261016-1 (131 139 137 138 140 141 144 136 145).pdf») — **INVOICE Q8-261016-1**: SUPLIER Q8 GROUP LIMITED (reg. 68975013, 18/F The Center, 99 Queen's Road Central, Hong Kong; Al Safi Bank, SWIFT AILSKZ2K, ACCOUNT EURO KZ299990172EUR001948) → CUSTOMER **TRESSOLI SP Z O.O.** (Księcia Jerzego II Piasta 2C/1, 49-300 Brzeg; VAT 70134128; PKO BP, SWIFT BPKOPLPW, PL73 1020 1042 0000 8802 0513 6967): Forwarding services, orders 131 139 137 138 140 141 144 136 145, TOTAL **50 234,62 EUR**. Та же сделка, что r47 — строку не создаю; жду курс EUR за 19.10 для Q8-расчёта.",
+    "notes": "ПП на VDX №602 от 21.10.2026 (723 405,90 ₽ — номер из документа ПП) | 🏦 приход по выписке: ПП от 21.10.2026 (Сбербанк) ООО «РЕСУРСЫ» → VDX, prof.inv SR-202610S08RU022, поручение 1 | 📄 21.10.2026 (📨 t12326 · Ресурсы, файл «payments (1).PDF») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ от 21.10.2026, ИСПОЛНЕН** (ПАО Сбербанк, БИК 044525225; подпись Пегов А.А.): ООО «РЕСУРСЫ» (ИНН 7715920986, КПП 771401001, счёт 40702810138000023040) → **VDX SERVICES-FZCO** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), назначение {VO11100} «Для зачисления по prof.inv № SR-202610S08RU022 от 19.10.2026 за оплату товара, по Поручению №1 от 21.10.2026 к агентскому договору № 1509-2026 от 15.09.2026, НДС не облагается». Сумма сделки — 8 727,30 USD, оплата на VDX (sent_rubles_vdx). Заявки в таблицах не было — строка создана по ПП (🔵). | | 📄 21.10.2026 (📨 t12326 · Ресурсы, файл «PI -202610S08RU022-New HK EXW Shenzhen .pdf») — PROFORMA INVOICE № SR-202610S08RU022 dd 19/10/2026: продавец SHENZHEN SUNRICHER TECHNOLOGY CO. LTD, Наньшань, Шэньчжэнь, контакт Louise Li; покупатель Z SOURCE LIMITED, Гонконг, 18/F The Center, 99 Queens Road Central. Товар DALI: SR-2309PRO-5C 50 шт., SR-2701S-DT7 30 шт., SRP-2309N-36CCT350-1050 300 шт., SRP-2309N-25CCT250-700 50 шт., SRP-2309N-15CCT100-700 50 шт., SR-DA2833P-DA2 100 шт. Итого 8 727,30 USD. Условия T/T EXW Shenzhen, банковские расходы за счёт плательщика, отгрузка от 1 недели до 1 месяца после оплаты. Реквизиты HSBC Hong Kong, SWIFT HSBCHKHHHKH, счёт 741535397838, beneficiary Sunricher Technology Limited. PI-основание к ПП №1 от 21.10.2026 — ООО РЕСУРСЫ → VDX. | | 📄 21.10.2026 (📨 t12326 · Ресурсы, файл «payment order 21.10.docx») — PAYMENT ORDER dd 21/10/2026: amount 8 727,30 USD, beneficiary Sunricher Technology Limited (Flat RM 1402B, The Belgian Bank Building, 721 Nathan Road, Mongkok, Hong Kong), bank HSBC Hong Kong (Head Office, 1 Queens Road Central), account 741535397838, SWIFT HSBCHKHHHKH. Тот же платёж, что по ПП №1 от 21.10.2026 (ООО РЕСУРСЫ → VDX) — заявка подтверждена. | 🔗 2026-10-21 (Scream: «Scream 21.10.2026: клиент Ресурсы — таблица Молодёжь») — строка перенесена из таблицы Main (была row 109, rowId main-000357) в Molodezh (rowId mol-000173).",
     "calc": null,
-    "rowId": "mol-000165",
-    "companySource": {
-      "source": "foreign_pp",
-      "file": "foreign_transfer_details_RU_translation.pdf",
-      "txid": null,
-      "ref": "SR26IP15147912DS",
-      "date": null
-    },
-    "companyProvisional": false,
-    "companyVerified": true
+    "rowId": "mol-000173"
   },
   {
-    "row": 48,
+    "row": 49,
     "date": "2026-10-21",
     "sum": 13600,
     "currency": "USD",
@@ -1397,7 +1418,7 @@
     "companyVerified": false
   },
   {
-    "row": 49,
+    "row": 50,
     "date": "2026-10-21",
     "sum": null,
     "currency": null,
@@ -1418,7 +1439,7 @@
     "rowId": "mol-000167"
   },
   {
-    "row": 50,
+    "row": 51,
     "date": "2026-10-21",
     "sum": 87290,
     "currency": "USD",
@@ -1447,7 +1468,7 @@
     "companyVerified": false
   },
   {
-    "row": 51,
+    "row": 52,
     "date": "2026-10-21",
     "sum": 6101.86,
     "currency": "USD",
@@ -1468,7 +1489,7 @@
     "rowId": "mol-000171"
   },
   {
-    "row": 52,
+    "row": 53,
     "date": "2026-10-21",
     "sum": 3083656,
     "currency": "JPY",
