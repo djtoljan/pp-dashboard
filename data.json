@@ -2826,7 +2826,7 @@
       "sum": 20649.75,
       "currency": "EUR",
       "company": "Q8",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "20 649,75 EUR / 0,8866 + 50,20 = 23 341,14 USDT (батч Q8, курс EUR 0,8866)",
       "extra": null,
