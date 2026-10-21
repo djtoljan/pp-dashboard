@@ -2761,8 +2761,8 @@
       "date": "2026-10-19",
       "sum": 100000,
       "currency": "EUR",
-      "company": "ООО «ВТС»",
-      "color": "FFFFFFFF",
+      "company": "Z SOURCE",
+      "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "100 000,00 / 0,887997923915 (FX Q8 21.10.2026: 1 USD = 0,887997923915 EUR) + 0,3% + 30 = 112 980,71 USDT",
       "extra": null,
@@ -2777,13 +2777,15 @@
       "calc": "ТЕЗ",
       "rowId": "main-000326",
       "companySource": {
-        "source": "order",
-        "date": null,
-        "ref": "68130",
-        "messageId": null
+        "source": "foreign_pp",
+        "file": "100000.00 (2).pdf",
+        "txid": "O2112807662105264128892",
+        "ref": null,
+        "date": "2026-10-21"
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": true,
+      "calcStale": true
     },
     {
       "row": 96,
