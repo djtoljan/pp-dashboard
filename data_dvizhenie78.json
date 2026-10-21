@@ -258,7 +258,7 @@
     "company": null,
     "color": "FFFF0000",
     "clientName": "Балтик Лэнд (Движение 78)",
-    "costFormula": null,
+    "costFormula": "33 480,00 / 0,9965 + 50,18 = 33 647,77 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -266,7 +266,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 33647.77,
     "notes": "📄 20.10.2026 (📨 Движение 78 (t1613), файл «Application for transfer 33 480_00.docx») — APPLICATION FOR TRANSFER: USD 33 480,00; Beneficiary NINGBO FENDI INTERNATIONAL LOGISTICS CO.,LTD (28-1, Zijinghui Office Building, Yinzhou District, Ningbo, Zhejiang); CHINA ZHESHANG BANK, ZHUHAI BRANCH (32/F Yuhai World Financial Center, No.1009 Jiuzhou Avenue, Xiangzhou, Zhuhai 519000), SWIFT ZJCBCN2N, счёт 3320020011420101247795; Purpose: PAYMENT INVOICE SHNBFD26090072 DATE 2026-09-21. Компания-плательщик не названа, оплаты/поручения пока нет → 🔴.",
     "calc": null,
     "rowId": "d78-000031"
