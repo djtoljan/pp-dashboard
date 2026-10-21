@@ -1336,5 +1336,35 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 47,
+    "date": "2026-10-19",
+    "sum": 50234.62,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "TRESSOLI",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000165",
+    "companySource": {
+      "source": "foreign_pp",
+      "file": "foreign_transfer_details_RU_translation.pdf",
+      "txid": null,
+      "ref": "SR26IP15147912DS",
+      "date": null
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   }
 ]
