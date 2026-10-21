@@ -3173,7 +3173,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 1586.34,
-      "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 1 530,00 + 0,3% + 30 = 1 564,59 USDT. | Scream 20.10.2026: батч Q8 270 103,41 USDT, 12 платежей — расчёт себестоимости из таблицы батча | Scream 20.10.2026: батч Q8 270 103,41 USDT | 💵 20.10.2026 (Scream): расчёт себестоимости из батча Q8 — таблица приоритетов Q8-0024 (Priority 1), 12 платежей, GRAND TOTAL USDT 270 103,41 (USD 222 297,30 × 0,9960 + TT; EUR 41 059,28 × 0,8866 + TT). Строка 1 530,00 USD → 1 530,00 / 0,996 + 50,20 = 1 586,34 USDT.",
+      "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 1 530,00 + 0,3% + 30 = 1 564,59 USDT. | Scream 20.10.2026: батч Q8 270 103,41 USDT, 12 платежей — расчёт себестоимости из таблицы батча | Scream 20.10.2026: батч Q8 270 103,41 USDT | 💵 20.10.2026 (Scream): расчёт себестоимости из батча Q8 — таблица приоритетов Q8-0024 (Priority 1), 12 платежей, GRAND TOTAL USDT 270 103,41 (USD 222 297,30 × 0,9960 + TT; EUR 41 059,28 × 0,8866 + TT). Строка 1 530,00 USD → 1 530,00 / 0,996 + 50,20 = 1 586,34 USDT. |  | 📄 21.10.2026 (📨 ПП банка JP Morgan): TRANSACTION RECEIPT TFR-44NXE3N3 — Q8 GROUP LIMITED → ULINK NETWORK HARDWARE COMPANY LIMITED (The Bank of East Asia, счёт 01525668139571), USD 1 530,00, платёж по инвойсу ULK26L1013, статус SUCCESS, 21 OCT 2026, UETR 77f4fbd9-e11b-4c19-9dd6-379e7bd83bbf. Батч Q8-0024 → 🟢.",
       "calc": "ТЕЗ",
       "rowId": "main-000342",
       "companySource": {
@@ -3214,7 +3214,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 2500,
-      "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 2 440,00 + 0,3% + 30 = 2 477,32 USDT. | Scream 20.10.2026: батч Q8 270 103,41 USDT, 12 платежей — расчёт себестоимости из таблицы батча | Scream 20.10.2026: батч Q8 270 103,41 USDT | 💵 20.10.2026 (Scream): батч Q8 (Q8-0025, Priority 2). 2 440,00 USD → 2 440,00 / 0,996 + 50,20 = 2 500,00 USDT. GRAND TOTAL батча 270 103,41 USDT. | 💵 20.10.2026 (Scream): батч Q8 — Q8-0025 (Priority 2). 2 440,00 / 0,996 + 50,20 = 2 500,00 USDT.",
+      "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 2 440,00 + 0,3% + 30 = 2 477,32 USDT. | Scream 20.10.2026: батч Q8 270 103,41 USDT, 12 платежей — расчёт себестоимости из таблицы батча | Scream 20.10.2026: батч Q8 270 103,41 USDT | 💵 20.10.2026 (Scream): батч Q8 (Q8-0025, Priority 2). 2 440,00 USD → 2 440,00 / 0,996 + 50,20 = 2 500,00 USDT. GRAND TOTAL батча 270 103,41 USDT. | 💵 20.10.2026 (Scream): батч Q8 — Q8-0025 (Priority 2). 2 440,00 / 0,996 + 50,20 = 2 500,00 USDT. |  | 📄 21.10.2026 (📨 ПП банка JP Morgan): TRANSACTION RECEIPT TFR-GFBHFZJM — Q8 GROUP LIMITED → HK FANBO TRADE LIMITED (ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт NRA15801142010500001971), USD 2 440,00, платёж по инвойсу SETION-32, статус SUCCESS, 21 OCT 2026, UETR 8db66c0e-27fa-4648-ac15-edd3ef904bdf. Батч Q8-0025 → 🟢.",
       "calc": "ТЕЗ",
       "rowId": "main-000343",
       "companySource": {
@@ -3296,7 +3296,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 4087.35,
-      "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 4 021,00 + 0,3% + 30 = 4 063,06 USDT. | Scream 20.10.2026: батч Q8 270 103,41 USDT, 12 платежей — расчёт себестоимости из таблицы батча | Scream 20.10.2026: батч Q8 270 103,41 USDT | 💵 20.10.2026 (Scream): батч Q8 — Q8-0027 (Priority 4). 4 021,00 / 0,996 + 50,20 = 4 087,35 USDT.",
+      "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 4 021,00 + 0,3% + 30 = 4 063,06 USDT. | Scream 20.10.2026: батч Q8 270 103,41 USDT, 12 платежей — расчёт себестоимости из таблицы батча | Scream 20.10.2026: батч Q8 270 103,41 USDT | 💵 20.10.2026 (Scream): батч Q8 — Q8-0027 (Priority 4). 4 021,00 / 0,996 + 50,20 = 4 087,35 USDT. |  | 📄 21.10.2026 (📨 ПП банка JP Morgan): TRANSACTION RECEIPT TFR-CYWQ48K2 — Q8 GROUP LIMITED → SHENZHEN DULCIMER TECHNOLOGY CO. LTD. (JPMORGAN CHASE BANK N.A. HONG KONG, счёт 63003927444), USD 4 021,00, платёж по инвойсу PI/DUL/2026100801, статус SUCCESS, 21 OCT 2026, UETR cf876a05-e67a-4772-a1e2-5c05a3a07fc7. Батч Q8-0027 → 🟢.",
       "calc": "ТЕЗ",
       "rowId": "main-000345",
       "companySource": {
@@ -3337,7 +3337,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 15607.43,
-      "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 15 495,00 + 0,3% + 30 = 15 571,48 USDT. | Scream 20.10.2026: батч Q8 270 103,41 USDT | 💵 20.10.2026 (Scream): батч Q8 — Q8-0028 (Priority 5). 15 495,00 / 0,996 + 50,20 = 15 607,43 USDT.",
+      "notes": "✏️ 20.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 15 495,00 + 0,3% + 30 = 15 571,48 USDT. | Scream 20.10.2026: батч Q8 270 103,41 USDT | 💵 20.10.2026 (Scream): батч Q8 — Q8-0028 (Priority 5). 15 495,00 / 0,996 + 50,20 = 15 607,43 USDT. |  | 📄 21.10.2026 (📨 ПП банка JP Morgan): TRANSACTION RECEIPT TFR-CG782R7X — Q8 GROUP LIMITED → BEIJING XINMINGYUAN TECHNOLOGY CO. LTD (ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт 156281420105000028698745), USD 15 495,00, платёж по инвойсу PI-XMY-SET261009-01, статус SUCCESS, 21 OCT 2026, UETR 126698df-fc09-4dc5-b71f-05a9aa64769a. Батч Q8-0028 → 🟢.",
       "calc": "ТЕЗ",
       "rowId": "main-000346",
       "companySource": {
@@ -3483,6 +3483,36 @@
           "rowId": "main-000349"
         }
       ]
+    },
+    {
+      "row": 118,
+      "date": "2026-10-21",
+      "sum": 2340,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": "2 340,00 / 0,996 + 50,20 = 2 399,60 USDT (комиссия 0,4%)",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 2377.02,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000352",
+      "companySource": {
+        "source": "foreign_pp",
+        "file": "C:\\Users\\Mi Gaming\\.openclaw\\workspace\\pp-agent\\media\\inbound\\openclaw-staged-d73734bf-cc87-484a-815d-c7ed8cb347bf\\input-TFR-XN5QG7H9_USD_2340.00---368f0be9-853b-42ff-9224-7d5989914698.pdf",
+        "txid": null,
+        "ref": "G2026101200A",
+        "date": null
+      },
+      "companyProvisional": false,
+      "companyVerified": true
     }
   ]
 }
