@@ -2320,27 +2320,6 @@
     {
       "row": 81,
       "date": "2026-10-13",
-      "sum": 1356600,
-      "currency": "CNY",
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ВАСТ СТЕП КОРПОРЕЙШН ЛИМИТЕД",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": "785425.53 / 4712.57 / 891600.93",
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "🏦 13.10.2026 (📨 НБС- Fininvest (t1118), файл «Платежное_поручение_N_511_от_13_10_2026_1.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 511 от 13.10.2026 (АО БАНК НБС г. Иваново, БИК 044525949; доставлено iBank 13.10.2026 13:43, ЭП Гончаров Вадим): плательщик **ВАСТ СТЕП КОРПОРЕЙШН ЛИМИТЕД** (ИНН 9909701641, счёт 40807810511000082814) → получатель **ОсОО «Блэкшарк Трейд»** (ИНН 9909705614, Филиал «Центральный» Банка ВТБ (ПАО), счёт 40807810825640000009), **790 138,10 ₽** {VO60081} «Оплата за токарный станок по Агентскому договору № 2-06-30/2025 от 30 июня 2025г., согласно Поручению № 17 от 13.10.2026». rubles_received = 790138.10. Заявки/строки нет — 🔵 (клиент уточнить). ⚠️ сумма совпадает с «доплатить 790 138,10» расчёта «Фининвест» (t1118). | 📄 13.10.2026 (📨 НБС- Fininvest (t1118), файл «Поручение № 17 от 13.10.2026_sign.pdf» — скан, читал вижном) — **ПОРУЧЕНИЕ № 17 от 13.10.2026** (Transfer request No. 17; Приложение №1 к Агентскому договору № 2-06-30/2025 от 30 июня 2025г.): Принципал **ВАСТ СТЕП КОРПОРЕЙШН ЛИМИТЕД / Vast Step Corporation Limited** → Агент **ОсОО «Блэкшарк Трейд»**; платёж по контракту **No. 5AC от 23.05.2026**; сумма/валюта **62 653,60 CNY**; получатель **SHANDONG LIAYU PRECISION MACHINERY CO., LTD** (No. 68 Fuqian Road, Guanqiao Town, Tengzhou City, Zaozhuang City, Shandong Province); банк **VTB BANK (PJSC) SHANGHAI BRANCH** (Bank Code 76729000018, SWIFT VTBRCNSH), счёт **40807156500610052071**; назначение «Оплата согласно контракту No. 5AC dd 23.04.2026, PROFORMA INVOICE NO. YH260415 DATE: 2026-4-23 за ТОКАРНЫЙ СТАНОК 225-CNC – D1-3″ FANUC 0i-TF PLUS»; курс **12,5360 ₽**; сумма к перечислению **785 425,53 ₽** (тело) + комиссия агента **4 712,57 ₽** (агентское); срок 5-10 банк. дней. ✅ Сходится с ПП №511. rubles_received = 785425.53 / 4712.57. | ⚠️ 14.10.2026 (📨 НБС- Fininvest (t1118), скрин интернет-банка ВТБ) — банк ВТБ запрос подтверждающих документов по входящему платежу №511 от 13.10.2026 (790 138,10 ₽, ВАСТ СТЕП КОРПОРЕЙШН ЛИМИТЕД → ОсОО «Блэкшарк Трейд»): предоставить документы по назначению платежа (Агентский договор № 2-06-30/2025, Поручение № 17 от 13.10.2026, токарный станок) до 17:50 МСК 14.10.2026, иначе платёж не будет принят банком и средства вернутся плательщику. Требует действий владельца. | 📄 15.10.2026 (📨 НБС- Fininvest (t1118), файл «CNY 1 356 600,00 inv Новый Свет+.pdf», 2 стр.) — PROFORMA INVOICE № YH260415 dd 2026-4-23 (продавец SHANDONG JIAYU PRECISION MACHINERY CO.,LTD, No. 68 Fuqian Road, Guanqiao Town, Tengzhou City, Zaozhuang City, Shandong; банк VTB BANK (PJSC) SHANGHAI BRANCH, SWIFT VTBRCNSH, счёт 4080 7156 5006 1005 2071 CNY): LATHE 225-CNC — D1-3″ FANUC 0i-TF PLUS (токарный станок), TOTAL VALUE ¥1 695 750,00 CNY; условия 20% T/T при подписании PI + 80% T/T до отгрузки. Та же сделка, что Поручение №17 / контракт No. 5AC — новую строку не создаю. | 📄 15.10.2026 (📨 НБС- Fininvest (t1118), файл «CNY 1 356 600.00 Новый Свет.docx» — форма реквизитов / заявка на платёж): Payment date (planned) 23.04.2026; Amount 1 356 600 CNY; Recipient SHANDONG JIAYU PRECISION MACHINERY CO.,LTD; банк VTB BANK(PJSC) SHANGHAI BRANCH, SWIFT VTBRCNSH, счёт 4080 7156 5006 1005 2071; назначение «Contract # 5AC 23 April 2026 / PROFORMA INVOICE NO. YH260415 DATE: 2026-4-23, 80% T/T UPON SIGN UP CONTRACT», товар LATHE 225-CNC; advance/postpayment 80%; transfer fee OUR. 1 356 600 CNY = 80% от 1 695 750. ⚠️ Расхождение: инвойс 1 695 750 CNY / заявка (80%) 1 356 600 CNY / Поручение №17 — 62 653,60 CNY (785 425,53 ₽). ⚠️ Сходится с расчётом «Фининвест» (t1118, скрин): 1 356 600 CNY × 12,5358 = 17 006 066,28 ₽ + 4% 680 242,65 = 17 686 308,93 ₽; доплата 891 600,93 ₽. | 📄 15.10.2026 (📨 НБС- Fininvest (t1118), файл «Поручение № 17 от 15.10.2026_.pdf» — скан, читал вижном) — ПОРУЧЕНИЕ № 17 от 15.10.2026 (Приложение №1 к Агентскому договору № 2-06-30/2025 от 30.06.2025; Transfer request No. 17): Принципал ВАСТ СТЕП КОРПОРЕЙШН ЛИМИТЕД / Vast Step Corporation Limited → Агент ОсОО «Блэкшарк Трейд»; платёж по контракту No. 5AC от 23.05.2026; сумма 70 606,00 CNY; получатель SHANDONG JIAYU PRECISION MACHINERY CO., LTD (No. 68 Fuqian Road, Guanqiao Town, Tengzhou City, Zaozhuang City, Shandong); банк VTB BANK(PJSC) SHANGHAI BRANCH, Bank Code 767290000018, SWIFT VTBRCNSH, счёт 40807156500610052071; назначение «Оплата согласно контракту No. 5AC dd 23.04.2026, PROFORMA INVOICE NO. YH260415 DATE: 2026-4-23 за ТОКАРНЫЙ СТАНОК 225-CNC — D1-3″ FANUC 0i-TF PLUS»; курс 12,5028; сумма к перечислению 882 772,70 ₽ + комиссия Агента 8 828,23 ₽; срок 5-10 банк. дней; «на подпись». ⚠️ Та же сделка, что Поручение №17 от 13.10.2026 (там было 62 653,60 CNY = 785 425,53 ₽ + 4 712,57 ₽) — переиздано 15.10.2026 с новой суммой. Строка одна. | 🏦 15.10.2026 (📨 НБС- Fininvest (t1118), файл «Платежное поручение N 518 от 15.10.2026.pdf») — ПП №518 от 15.10.2026 (срочно, ПРИНЯТО АО БАНК НБС г. Иваново, доставлено iBank 15.10.2026 13:08 GMT+03, ID 5335968, ЭП Гончаров Вадим): плательщик «ВАСТ СТЕП КОРПОРЕЙШН ЛИМИТЕД» (ИНН 9909701641, счёт 40807810511000082814, БИК 044525949) → получатель ОсОО «Блэкшарк Трейд» (ИНН 9909705614, Филиал «Центральный» Банка ВТБ (ПАО), счёт 40807810825640000009), 891 600,93 ₽ {VO60081} «Оплата за токарный станок по Агентскому договору № 2-06-30/2025 от 30 июня 2025г., согласно Поручению № 17 от 15.10.2026 г.» = тело 882 772,70 ₽ + агентское 8 828,23 ₽ (Поручение №17 от 15.10.2026). ⚠️ Это доплата по сделке Shandong Jiayu (совпадает с расчётом «Фининвест» — 891 600,93); rubles_received строки (пока 785 425,53 / 4 712,57 от ПП №511) — уточнить/обновить. | 📎 15.10.2026 (📨 НБС- Fininvest (t1118), повторно «Поручение № 17 от 15.10.2026_.pdf» — скан, читал вижном) — та же форма Поручения №17 от 15.10.2026, но теперь ПОДПИСАННАЯ обеими сторонами: Principal Гончаров Вадим (печать Vast Step Corporation Limited) и Agent Курьянов Тимур Александрович (печать ОсОО «Блэкшарк Трейд»). Суммы/реквизиты те же: 70 606,00 CNY; курс 12,5028; к перечислению 882 772,70 ₽ + комиссия Агента 8 828,23 ₽. Строка одна. | 💱 15.10.2026 (📨 Отправки рублей ПП., файл «international_payments.pdf», текст «отправила»; читал целиком) — **ЗАЯВЛЕНИЕ на перевод № 16 от 15.10.2026**: списать с р/с 40807156725640000009 (CNY-счёт Блэкшарк, ВТБ «Центральный»); валюта **CNY**; сумма **1 356 600,00 CNY**; отправитель BLACKSHARK TRADE LLC (Microdistrict 10, 34, Bishkek, KG, INN 9909705614); банк-посредник VTB BANK (PJSC) SHANGHAI BRANCH (VTBRCNSHXXX; клир-код //CN767290000018); банк получателя/получатель SHANDONG JIAYU PRECISION MACHINERY CO.,LTD (No. 68 Fuqian Road, Guanqiao Town, Tengzhou City, Zaozhuang, Shandong, CN), счёт **40807156500610052071**; назначение «CONTRACT 5AC 23 APRIL 2026 / PROFORMA INVOICE NO YH260415 DATE 2026-4-23, 80 PERCENT T/T UPON SIGN UP CONTRACT»; расходы OUR; подпись Курьянов Т.А.; ДБО 15.10.2026 15:17:20. Та же сделка, что Поручение №17 (Shandong Jiayu, контракт 5AC, YH260415) — строка одна. | 🏦 15.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «VTB_блэкшарк_15.10.2026_196712.pdf» — выписка ВТБ, счёт 40807810825640000009 Блэкшарк Трейд) — кредит №518 от «ВАСТ СТЕП КОРПОРЕЙШН ЛИМИТЕД» = рублёвая часть по ПП №518 (891 600,93 ₽, Shandong Jiayu). Прочие операции: свои переводы Блэкшарк №21/№22, кредит №656 (с Почтабанка) → Main 94. | 📄 16.10.2026 (📨 Отправки рублей ПП., файл «TO SWIFT transfer_outgoing_notification_N_16_15.10.2026.pdf», «исп») — **MT103 OUTGOING** (ORIGINATOR VTBRRUMMXXX VTB BANK (PJSC) MOSCOW → DESTINATION VTBRCNSHXXX VTB BANK (PJSC) SHANGHAI BRANCH; DATE SENT 16-OCT-26 00:32; UETR e0850347-6fb7-4a8b-89f2-9b4c64b92085): :20 VTB10152601TS2W; :32A 261016 CNY 1 356 600,; :50F Ordering /40807156725640000009 BLACKSHARK TRADE LLC (Bishkek, INN 9909705614); :59 Beneficiary /40807156500610052071 SHANDONG JIAYU PRECISION MACHINERY CO.,LTD; :70 CONTRACT 5AC 23 APRIL 2026 / PROFORMA INVOICE NO YH260415 DATE 2026-4-23, 80 PERCENT T/T UPON SIGN UP CONTRACT; :71A OUR. Исполнение заявления на перевод №16 (та же сделка Shandong Jiayu / контракт 5AC / YH260415). Строка r84 остаётся 🔵 (client/company/costFormula пусты).",
-      "calc": null,
-      "rowId": "main-000295"
-    },
-    {
-      "row": 82,
-      "date": "2026-10-13",
       "sum": 635500,
       "currency": "CNY",
       "company": "Q8",
@@ -2368,7 +2347,7 @@
       "companyVerified": false
     },
     {
-      "row": 83,
+      "row": 82,
       "date": "2026-10-13",
       "sum": 4548,
       "currency": "USD",
@@ -2397,7 +2376,7 @@
       "companyVerified": false
     },
     {
-      "row": 84,
+      "row": 83,
       "date": "2026-10-13",
       "sum": 56321.88,
       "currency": "USD",
@@ -2426,7 +2405,7 @@
       "companyVerified": false
     },
     {
-      "row": 85,
+      "row": 84,
       "date": "2026-10-13",
       "sum": 14200,
       "currency": "USD",
@@ -2459,7 +2438,7 @@
       "companyVerified": false
     },
     {
-      "row": 86,
+      "row": 85,
       "date": "2026-10-13",
       "sum": 47817.81,
       "currency": "USD",
@@ -2492,7 +2471,7 @@
       "companyVerified": true
     },
     {
-      "row": 87,
+      "row": 86,
       "date": "2026-10-13",
       "sum": 29000,
       "currency": "USD",
@@ -2521,7 +2500,7 @@
       "companyVerified": false
     },
     {
-      "row": 88,
+      "row": 87,
       "date": "2026-10-13",
       "sum": 100209.7,
       "currency": "USD",
@@ -2550,7 +2529,7 @@
       "companyVerified": false
     },
     {
-      "row": 89,
+      "row": 88,
       "date": "2026-10-14",
       "sum": null,
       "currency": null,
@@ -2571,7 +2550,7 @@
       "rowId": "main-000305"
     },
     {
-      "row": 90,
+      "row": 89,
       "date": "2026-10-14",
       "sum": 16687.72,
       "currency": "USD",
@@ -2604,7 +2583,7 @@
       "companyVerified": false
     },
     {
-      "row": 91,
+      "row": 90,
       "date": "2026-10-14",
       "sum": 20452.5,
       "currency": "USD",
@@ -2638,28 +2617,7 @@
       }
     },
     {
-      "row": 92,
-      "date": "2026-10-14",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "Блэкшарк Трейд",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": "16428260",
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "🏦 Выписка Почтобанк (АО АКИБ «ПОЧТОБАНК», г. Пермь; ОсОО «Блэкшарк Трейд», счёт 40807810100157518600, RUB) за 14.10.2026: Кт №226 {VO60076} «ПЕРЕВОД СОБСТВЕННЫХ СРЕДСТВ» — BLACKSHARK TRADE LLC (Октябрьский р-н, Бишкек, КГ; р/с KZ889990172RUB000778 в AL SAFI BANK LTD) → Почта; rubles_received = 16 428 260,00. Ожидается перестановка на ВТБ Блэкшарк. Заявки нет — 🔵. Кт №85 от АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» → строка 94. Дт за день: комиссии банка (НДС с комиссии + тарифы РКО), только notes.",
-      "calc": null,
-      "rowId": "main-000309"
-    },
-    {
-      "row": 93,
+      "row": 91,
       "date": "2026-10-14",
       "sum": 58265.44,
       "currency": "USD",
@@ -2692,7 +2650,7 @@
       "companyVerified": false
     },
     {
-      "row": 94,
+      "row": 92,
       "date": "2026-10-15",
       "sum": 26994.31,
       "currency": "EUR",
@@ -2725,7 +2683,7 @@
       "companyVerified": false
     },
     {
-      "row": 95,
+      "row": 93,
       "date": "2026-10-15",
       "sum": 11408.57,
       "currency": "EUR",
@@ -2758,7 +2716,7 @@
       "companyVerified": false
     },
     {
-      "row": 96,
+      "row": 94,
       "date": "2026-10-16",
       "sum": 20649.75,
       "currency": "EUR",
@@ -2799,7 +2757,7 @@
       ]
     },
     {
-      "row": 97,
+      "row": 95,
       "date": "2026-10-19",
       "sum": 100000,
       "currency": "EUR",
@@ -2828,7 +2786,7 @@
       "companyVerified": false
     },
     {
-      "row": 98,
+      "row": 96,
       "date": "2026-10-19",
       "sum": 35129.22,
       "currency": "EUR",
@@ -2857,7 +2815,7 @@
       "companyVerified": false
     },
     {
-      "row": 99,
+      "row": 97,
       "date": "2026-10-19",
       "sum": 20197,
       "currency": "EUR",
@@ -2887,7 +2845,7 @@
       "companyVerified": true
     },
     {
-      "row": 100,
+      "row": 98,
       "date": "2026-10-19",
       "sum": 21762.6,
       "currency": "USD",
@@ -2916,7 +2874,7 @@
       "companyVerified": false
     },
     {
-      "row": 101,
+      "row": 99,
       "date": "2026-10-19",
       "sum": 10300,
       "currency": "USD",
@@ -2946,7 +2904,7 @@
       "companyVerified": true
     },
     {
-      "row": 102,
+      "row": 100,
       "date": "2026-10-19",
       "sum": 49746,
       "currency": "USD",
@@ -2980,7 +2938,7 @@
       }
     },
     {
-      "row": 103,
+      "row": 101,
       "date": "2026-10-20",
       "sum": 20409.53,
       "currency": "EUR",
@@ -3021,7 +2979,7 @@
       ]
     },
     {
-      "row": 104,
+      "row": 102,
       "date": "2026-10-20",
       "sum": 11159.34,
       "currency": "EUR",
@@ -3050,7 +3008,7 @@
       "companyVerified": false
     },
     {
-      "row": 105,
+      "row": 103,
       "date": "2026-10-20",
       "sum": 32562.5,
       "currency": "EUR",
@@ -3079,7 +3037,7 @@
       "companyVerified": false
     },
     {
-      "row": 106,
+      "row": 104,
       "date": "2026-10-20",
       "sum": null,
       "currency": null,
