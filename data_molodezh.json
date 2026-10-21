@@ -1445,5 +1445,26 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 51,
+    "date": "2026-10-21",
+    "sum": 6101.86,
+    "currency": "USD",
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Бестакватикс (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": "ПП №55 от 21.10.2026 ООО БЕСТАКВАТИКС → ОсОО Блэкшарк Трейд",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: ПП №55 от 21.10.2026 ООО БЕСТАКВАТИКС → ОсОО Блэкшарк Трейд",
+    "calc": null,
+    "rowId": "mol-000171"
   }
 ]
