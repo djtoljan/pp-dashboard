@@ -940,7 +940,7 @@
     "sum": 1000,
     "currency": "USD",
     "company": "TOMO",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
     "costFormula": "(1 000,00 + 100) × 1,005 = 1 106 USDT",
     "extra": null,
