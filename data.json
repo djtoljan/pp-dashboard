@@ -3201,7 +3201,7 @@
       "date": "2026-10-22",
       "sum": 16701.24,
       "currency": "EUR",
-      "company": "Неско",
+      "company": "Grandwell Trading Limited",
       "color": "FFFFFFFF",
       "clientName": "Неско (ЭТБ)",
       "costFormula": "16 701,24 EUR × 1,12002341 (FX 22.10.2026: 1 EUR = 1,12002341 USD) = 18 705,78 USD / (1 − 0,35%) = 18 771,48 USDT",
@@ -3217,10 +3217,10 @@
       "calc": null,
       "rowId": "main-000360",
       "companySource": {
-        "source": "order",
-        "date": null,
-        "ref": "Поручение №25 от 22.10.2026",
-        "messageId": null
+        "source": "owner_instruction",
+        "date": "2026-10-22",
+        "ref": null,
+        "messageId": "14906"
       },
       "companyProvisional": false,
       "companyVerified": false
