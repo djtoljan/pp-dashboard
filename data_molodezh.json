@@ -1644,8 +1644,8 @@
     "date": "2026-10-22",
     "sum": 299150,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "TREEPEAK TRADING LIMITED",
+    "color": "FFFFFFFF",
     "clientName": "ООО «СТРЕЛОЙ Е-КОММЕРЦ» (Молодёжь)",
     "costFormula": null,
     "extra": "📄 22.10.2026 (📨 Молодежь t12388, файл «Платёжные поручения от 22.10.2026 (1).pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 335 от 22.10.2026, ИСПОЛНЕНО (АО «ТБанк» г. Москва, БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335, счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль), 24 666 233,76 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024, Инвойс № A-PI-202610-201841 от 20.10.2026». Сумма 299 150,00 USD — по сообщению; компания не известна, ждём инвойс/заявку.",
@@ -1656,17 +1656,25 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 22.10.2026 (📨 Молодежь t12388 · файл «Платёжные поручения от 22.10.2026 (1).pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 335 от 22.10.2026 · ИСПОЛНЕНО (АО «ТБанк» г. Москва · БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335 · счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ» г. Ярославль) · 24 666 233.76 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024 · Инвойс № A-PI-202610-201841 от 20.10.2026». Сумма 299 150.00 USD — по сообщению; компания не известна — ждём инвойс/заявку.",
+    "notes": "📄 22.10.2026 (📨 Молодежь t12388 · файл «Платёжные поручения от 22.10.2026 (1).pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 335 от 22.10.2026 · ИСПОЛНЕНО (АО «ТБанк» г. Москва · БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335 · счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ» г. Ярославль) · 24 666 233.76 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024 · Инвойс № A-PI-202610-201841 от 20.10.2026». Сумма 299 150.00 USD — по сообщению; компания не известна — ждём инвойс/заявку. | 📄 22.10.2026 (📨 Молодежь t12388 · файл «payment order.docx») — PAYMENT ORDER: AMOUNT 299 150,00 USD, CURRENCY USD; BENEFICIARY TREEPEAK TRADING LIMITED (ROOM 204C, 2/F, Shiu Fat Industrial Building, 139-141 Wai Yip Street, Kwun Tong, KL, Hong Kong); BENEFICIARY BANK DBS Bank (Hong Kong) Limited (18/F, The Center, 99 Queen's Road Central, Central, Hong Kong); ACCOUNT NUMBER 79807107286; SWIFT DHBKHKHH; PAYMENT PURPOSE «Payment for connectors invoice A-PI-202610-201841 dd 20.10.2026». Компания строки — TREEPEAK TRADING LIMITED. | 📄 22.10.2026 (📨 Молодежь t12388 · файл «TREEPEAK_.pdf») — INVOICE № A-PI-202610-201841 от 20.10.2026: продавец Treepeak Trading Limited (Room 204C, 2/F, Shiu Fat Industrial Building, 139-141 Wai Yip Street, Kwun Tong, KL, Hong Kong; katherine.zhu@treepeak.net) → Bill to / Ship to Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL). Позиция Connectors DC26+ (COO China), Order No. ЕК00-002719; итого 299 150,00 USD; условия 100% предоплата до отгрузки, EXW, срок 4 недели. Банк DBS Bank (Hong Kong) Limited, счёт 79807107286, SWIFT DHBKHKHH. Сумма совпадает со строкой.",
     "calc": null,
-    "rowId": "mol-000181"
+    "rowId": "mol-000181",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "payment order A-PI-202610-201841 dd 20.10.2026",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 60,
     "date": "2026-10-22",
     "sum": 93235.59,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Shenzhen Nuopuxun Technology Co. Ltd",
+    "color": "FFFFFFFF",
     "clientName": "ООО «СТРЕЛОЙ Е-КОММЕРЦ» (Молодёжь)",
     "costFormula": null,
     "extra": "📄 22.10.2026 (📨 Молодежь t12389, файл «Платёжные поручения от 22.10.2026.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 336 от 22.10.2026, ИСПОЛНЕНО (АО «ТБанк» г. Москва, БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335, счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль), 7 687 684,63 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024, Инвойс № NPX260409 от 16.10.2026». Сумма 93 235,59 USD — по сообщению; компания не известна, ждём инвойс/заявку.",
@@ -1677,8 +1685,16 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 22.10.2026 (📨 Молодежь t12389 · файл «Платёжные поручения от 22.10.2026.pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 336 от 22.10.2026 · ИСПОЛНЕНО (АО «ТБанк» г. Москва · БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335 · счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ» г. Ярославль) · 7 687 684.63 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024 · Инвойс № NPX260409 от 16.10.2026». Сумма 93 235.59 USD — по сообщению; компания не известна — ждём инвойс/заявку.",
+    "notes": "📄 22.10.2026 (📨 Молодежь t12389 · файл «Платёжные поручения от 22.10.2026.pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 336 от 22.10.2026 · ИСПОЛНЕНО (АО «ТБанк» г. Москва · БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335 · счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ» г. Ярославль) · 7 687 684.63 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024 · Инвойс № NPX260409 от 16.10.2026». Сумма 93 235.59 USD — по сообщению; компания не известна — ждём инвойс/заявку. | 📄 22.10.2026 (📨 Молодежь t12389 · файл «NPX260409_final.pdf») — INVOICE № NPX260409 от 16.10.2026: продавец Shenzhen Nuopuxun Technology Co.,Ltd (#3809 Hui Shang Centre, Jiahui New Town, 3027 Shennan Zhong Road, Futian District, Shenzhen; Linda, zhz@yldzzy.com) → Buyer Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL). Позиция Connectors, 1500 шт.; итого 93 235,59 USD; EXW, PREPAYMENT. Банк Standart Chartered Bank (Hong Kong) Limited (Branch Code 003), счёт 36896137267, SWIFT SCBLHKHHXXX. Сумма совпадает со строкой. | 📄 22.10.2026 (📨 Молодежь t12389 · файл «payment order.docx») — PAYMENT ORDER: AMOUNT 93 235,59 USD, CURRENCY USD; BENEFICIARY Shenzhen Nuopuxun Technology Co.,Ltd (#3809 Hui Shang Centre, Jiahui New Town, 3027 Shennan Zhong Road, Futian Street, Futian District, Shenzhen); BENEFICIARY BANK Chartered Bank (Hong Kong) Limited (Floor 32, Standart Chartered Bank, Building 4-4A Des Voeux Road, Central, Hong Kong); ACCOUNT NUMBER 36896137267; SWIFT SCBLHKHHXXX; PAYMENT PURPOSE «Payment for connectors invoice NPX260409 dd 16.10.2026».",
     "calc": null,
-    "rowId": "mol-000182"
+    "rowId": "mol-000182",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "INVOICE NPX260409 dd 16.10.2026",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
