@@ -651,5 +651,26 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 20,
+    "date": "2026-10-22",
+    "sum": 25358.2,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "📄 22.10.2026 (📨 Константин Просто Группа, файл «AlteVia_25_358_20_EUR.xlsx») — заявка на платёж: Amount 25 358,20 EUR; Beneficiary AlteVia OÜ (17-51 Tammepõllu tee, 74001 Haabneeme, Estonia); Beneficiary Bank Coop Pank AS (Maakri 30, Tallinn 15014, Estonia), SWIFT EKRDEE22; счёт EE794204278622781603; назначение «Payment for Invoice 260397 dd 21.10.26 for musical instruments». Компания-плательщик не названа — ждём ордер/уточнение.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000062"
   }
 ]
