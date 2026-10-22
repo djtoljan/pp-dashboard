@@ -3224,6 +3224,35 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 111,
+      "date": "2026-10-22",
+      "sum": 39495,
+      "currency": "USD",
+      "company": "ВТС",
+      "color": "FFFFFFFF",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": "📄 22.10.2026 (📨 ВТС t6103, файл «инвойс услуги Би трейд 77586.pdf») — Инвойс № 77586 от 22.10.2026 (ОсОО «БиТрейд Кей Джи» → ООО «ВТС», договор 27062025TК/1 от 24.06.2025): посреднические услуги по расчётам с иностранным поставщиком, курс USD 81.9739 — 692,43 USD = 56 760,78 ₽. Сумма строки 39 495,00 USD — из заявки №77586.",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000361",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "77586",
+        "file": "инвойс услуги Би трейд 77586.pdf"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
