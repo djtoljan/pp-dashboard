@@ -1612,7 +1612,7 @@
   {
     "row": 58,
     "date": "2026-10-22",
-    "sum": 175856.65,
+    "sum": 175846.65,
     "currency": "USD",
     "company": "JYU INTL INDUSTRY LIMITED",
     "color": "FFFFFFFF",
@@ -1626,7 +1626,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 22.10.2026 (📨 Молодежь t12392 · файлы «JYU INTL Contract 250326-01.pdf» / «VBK Jyu Intl.pdf» / «VBK Блэкшарк.pdf» / «Contract BTM1125-01 dd 0611.pdf»). Контракт № 25/03/26-01 от 25.03.2026 JYU INTL INDUSTRY LIMITED (Гонконг) → ООО «МИКРОМИР» (покупатель). Агентский договор № BTM1125-01 от 06.11.2025 ОсОО «Блэкшарк Трейд» ↔ ООО «МИКРОМИР». ВБК АО «Реалист Банк» от 21.10.2026 по УН 26030034/1067/0000/2/1 и УН 25110001/1067/0000/4/1 — нерезидент JYU INTL INDUSTRY LIMITED (код страны 344). Сумма платежа 175 856.65 USD.",
+    "notes": "📄 22.10.2026 (📨 Молодежь t12392 · файлы «JYU INTL Contract 250326-01.pdf» / «VBK Jyu Intl.pdf» / «VBK Блэкшарк.pdf» / «Contract BTM1125-01 dd 0611.pdf»). Контракт № 25/03/26-01 от 25.03.2026 JYU INTL INDUSTRY LIMITED (Гонконг) → ООО «МИКРОМИР» (покупатель). Агентский договор № BTM1125-01 от 06.11.2025 ОсОО «Блэкшарк Трейд» ↔ ООО «МИКРОМИР». ВБК АО «Реалист Банк» от 21.10.2026 по УН 26030034/1067/0000/2/1 и УН 25110001/1067/0000/4/1 — нерезидент JYU INTL INDUSTRY LIMITED (код страны 344). Сумма платежа 175 856.65 USD. | 📄 22.10.2026 (📨 Молодежь t12392 · файл «PI MICRHD20261020 dd 20 10.pdf») — PROFORMA INVOICE № MICRHD20261020 от 20.10.2026: SUPPLIER JYU INTL INDUSTRY LIMITED (Rm.1801, Easey Comm. Bldg., 253-261 Hennessy Road, Wanchai, HK) → BUYER MICROWORLD LLC (Ul Kuskovskaya, d.20A, of. Xa, p.r#17, Moscow, 111141; Gladiyshev Mikhail A); контракт № 25/03/26-01 от 25.03.2026; условия EXW; 11 позиций (Molex, Kemet, Macom, Swissbit, Eaton, Traco, Murata, ADI); TOTAL USD 175 846,65. Банк: China Construction Bank (Asia) Corporation Limited, SWIFT CCBQHKAXXXX, счёт 846210581490. ⚠️ В сообщении было 175 856,65 USD — по инвойсу итог 175 846,65 USD, сумма строки сверена по документу (расхождение 10 USD). | 📄 22.10.2026 (📨 Молодежь t12392 · файл «Spec 06.pdf») — СПЕЦИФИКАЦИЯ № 06 от 19.10.2026 к контракту № 25/03/26-01 от 25.03.2026: Продавец JYU INTL INDUSTRY LIMITED, Покупатель/Грузополучатель ООО «МИКРОМИР» (MICROWORLD LLC); 11 позиций (Molex, Kemet, Macom, Swissbit, Eaton, Traco, Murata, ADI); итог USD 175 846,65; условия оплаты — 100% предоплата в USD до 29.10.2026; поставка EXW-Китай (Инкотермс 2010); ожидаемая отгрузка 18.03.2027; подписи Tang Xian Li / Гладышев М.А. ✅ Спецификация подтверждает итог инвойса 175 846,65 USD — сумма строки верна.",
     "calc": null,
     "rowId": "mol-000180",
     "companySource": {
