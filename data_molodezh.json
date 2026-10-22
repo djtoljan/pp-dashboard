@@ -1516,5 +1516,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 54,
+    "date": "2026-10-22",
+    "sum": 36281.5,
+    "currency": "USD",
+    "company": "SENSIS",
+    "color": "FFFFFFFF",
+    "clientName": "Архимед (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000174",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "Поручение №5 от 22.10.2026",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
