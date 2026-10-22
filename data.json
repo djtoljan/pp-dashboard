@@ -2243,7 +2243,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 13.10.2026 (📨 ВТС-Fininvest (t4058), файл «Платёжные реквизиты_№74772....docx») — **Платёжные реквизиты (заявка на платёж №74772)**: AMOUNT **47 324**, CURRENCY **CNY**; BENEFICIARY **Foshan Deshengchu Kitchenware Co., Ltd.** (Building 2, Pacific Dingwang Commercial Center, No. 2 Baichen Road, Chihua Community, Chencun Town, Shunde District, Foshan City, Guangdong, China); банк **Industrial Bank Co., Ltd. Foshan Shunde Beijiao Sub-branch** (Shop 1043, 1F, Building 1, Midea Wealth Plaza, No. 1 Chengde Road, Junlan Community, Beijiao Town, Shunde District, Foshan City, Guangdong); ACCOUNT **393050100100365751**; SWIFT **FJIBCNBA**. Совпадений по 47 324 / Foshan / №74772 в 5 таблицах нет — новая строка. Компания-плательщик не названа → 🔴 (Step 0). | 📄 20.10.2026 (📨 ВТС-Fininvest (t4058), файл «Инвойс Китай-Китай 13%.pdf») — 产品销售协议 (sales agreement, Китай-Китай): 甲方 (покупатель) 北京卓源汇智科技有限公司 (税号 91110105MAKAD5MN5L, 北京市海淀区三里河路15号中建大厦A座, 工商银行北京百万庄支行, счёт 0200001409200414104); 乙方 (продавец) 佛山市德胜厨具有限公司 (税号 91440606MACEHJA5E, 兴业银行佛山顺德支行, счёт 393000100100552116); товар 揭盖洗碗机 10台 ( dishwasher 680×750×1450 мм, 380V, 9KW, 60s, 2 корзины); 总价（含税13%）= 47 324 CNY. Сумма совпадает со строкой r78 (47 324 CNY) — та же сделка. | 📄 20.10.2026 (📨 ВТС-Fininvest (t4058), файл «Платёжные реквизиты_№74772.docx») — форма реквизитов: AMOUNT 47 324 CNY; BENEFICIARY Foshan Deshengchu Kitchenware Co., Ltd. (Building 2, Pacific Dingwang Commercial Center, No.2 Baichen Road, Chihua Community, Chencun Town, Shunde District, Foshan City, Guangdong); счёт 393050100100365751, Industrial Bank Co., Ltd. Foshan Shunde Beijiao Sub-branch (Shop 1043, 1F, Midea Wealth Plaza, No.1 Chengde Road, Beijiao Town, Shunde, Foshan), SWIFT FJIBCNBA; PAYMENT BY INVOICE 20251022-28 DATE 09.09.2026. Та же сделка, что r78 — новых строк нет. | 🏦 20.10.2026 (📨 ВТС-Fininvest (t4058), файл «payment_order_4185_19.10.2026.pdf») — ПП №4185 от 19.10.2026: ООО «ВТС» (ИНН 7735171132, КПП 772601001, счёт 40702810500000247650, АО «Райффайзенбанк» г. Москва, БИК 044525700) → ЧК «АЛЬ САФИ БАНК ЛТД» (ИНН 9909682822, ООО «ПРОМСЕЛЬХОЗБАНК» г. Москва, БИК 044525771, счёт 30111810900000021268), 636 165,58 ₽ {VO11100} «to account KZ889990172RUB000778, SWIFT AILSKZ2KXXX, beneficiary Blackshark Trade Limited Liability Company, contract N ВТС/19/10/2026-01 of 19.10.2026, inv 74772 d 19.10.26 for dishwashers», без НДС → rubles_received. Компания-плательщик не подтверждена справочником компаний → цвет 🔴.",
+      "notes": "📄 13.10.2026 (📨 ВТС-Fininvest (t4058), файл «Платёжные реквизиты_№74772....docx») — **Платёжные реквизиты (заявка на платёж №74772)**: AMOUNT **47 324**, CURRENCY **CNY**; BENEFICIARY **Foshan Deshengchu Kitchenware Co., Ltd.** (Building 2, Pacific Dingwang Commercial Center, No. 2 Baichen Road, Chihua Community, Chencun Town, Shunde District, Foshan City, Guangdong, China); банк **Industrial Bank Co., Ltd. Foshan Shunde Beijiao Sub-branch** (Shop 1043, 1F, Building 1, Midea Wealth Plaza, No. 1 Chengde Road, Junlan Community, Beijiao Town, Shunde District, Foshan City, Guangdong); ACCOUNT **393050100100365751**; SWIFT **FJIBCNBA**. Совпадений по 47 324 / Foshan / №74772 в 5 таблицах нет — новая строка. Компания-плательщик не названа → 🔴 (Step 0). | 📄 20.10.2026 (📨 ВТС-Fininvest (t4058), файл «Инвойс Китай-Китай 13%.pdf») — 产品销售协议 (sales agreement, Китай-Китай): 甲方 (покупатель) 北京卓源汇智科技有限公司 (税号 91110105MAKAD5MN5L, 北京市海淀区三里河路15号中建大厦A座, 工商银行北京百万庄支行, счёт 0200001409200414104); 乙方 (продавец) 佛山市德胜厨具有限公司 (税号 91440606MACEHJA5E, 兴业银行佛山顺德支行, счёт 393000100100552116); товар 揭盖洗碗机 10台 ( dishwasher 680×750×1450 мм, 380V, 9KW, 60s, 2 корзины); 总价（含税13%）= 47 324 CNY. Сумма совпадает со строкой r78 (47 324 CNY) — та же сделка. | 📄 20.10.2026 (📨 ВТС-Fininvest (t4058), файл «Платёжные реквизиты_№74772.docx») — форма реквизитов: AMOUNT 47 324 CNY; BENEFICIARY Foshan Deshengchu Kitchenware Co., Ltd. (Building 2, Pacific Dingwang Commercial Center, No.2 Baichen Road, Chihua Community, Chencun Town, Shunde District, Foshan City, Guangdong); счёт 393050100100365751, Industrial Bank Co., Ltd. Foshan Shunde Beijiao Sub-branch (Shop 1043, 1F, Midea Wealth Plaza, No.1 Chengde Road, Beijiao Town, Shunde, Foshan), SWIFT FJIBCNBA; PAYMENT BY INVOICE 20251022-28 DATE 09.09.2026. Та же сделка, что r78 — новых строк нет. | 🏦 20.10.2026 (📨 ВТС-Fininvest (t4058), файл «payment_order_4185_19.10.2026.pdf») — ПП №4185 от 19.10.2026: ООО «ВТС» (ИНН 7735171132, КПП 772601001, счёт 40702810500000247650, АО «Райффайзенбанк» г. Москва, БИК 044525700) → ЧК «АЛЬ САФИ БАНК ЛТД» (ИНН 9909682822, ООО «ПРОМСЕЛЬХОЗБАНК» г. Москва, БИК 044525771, счёт 30111810900000021268), 636 165,58 ₽ {VO11100} «to account KZ889990172RUB000778, SWIFT AILSKZ2KXXX, beneficiary Blackshark Trade Limited Liability Company, contract N ВТС/19/10/2026-01 of 19.10.2026, inv 74772 d 19.10.26 for dishwashers», без НДС → rubles_received. Компания-плательщик не подтверждена справочником компаний → цвет 🔴. | 📄 22.10.2026 (📨 ВТС t4058 · файл «mmexport1792667558439 (1).pdf» — скан · читал вижном) — PROFORMA INVOICE от 22.10.2026: Supplier Foshan Desheng Kitchenware Co., Ltd. (No.7 Xinfa Road, Ronggui Street, Shunde District, Foshan City, Guangdong, China; контакт Alex; тел. +86 18126091731); Buyer в инвойсе НЕ заполнен; Payment before delivery; позиция — dishwasher 680×750×1450 мм, 380V, 9 кВт, 60 с, double-pump, 2 корзины, 10 SET; Total Amount 47 324,00 CNY. Та же сделка, что заявка 74772 — строка одна, дубль не создаю.",
       "calc": null,
       "rowId": "main-000290"
     },
@@ -3230,7 +3230,7 @@
       "date": "2026-10-22",
       "sum": 39495,
       "currency": "USD",
-      "company": "ВТС",
+      "company": "Q8",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
       "costFormula": null,
@@ -3242,16 +3242,16 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 22.10.2026 (📨 ВТС t6103 · файлы «Поручение 77586.pdf» / «инвойс услуги Би трейд 77586.pdf»). ПОРУЧЕНИЕ № 77586 от 22.10.2026 (Приложение № 2 к договору № 27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи». Платёж 39 495.00 USD по инвойсу 77586 от 20.10.2026. Получатель Q8 GROUP LIMITED (DBS Bank Hong Kong · SWIFT DHBKHKHH · счёт 79807111801). Курс 81.9739. Сумма в рублях 3 237 559.18 ₽. Комиссия агента 1.5% + 200 USD. Инвойс услуги БиТрейд 77586 от 22.10.2026 — 692.43 USD = 56 760.78 ₽.",
       "calc": null,
       "rowId": "main-000361",
       "companySource": {
-        "source": "invoice",
+        "source": "order",
         "date": null,
-        "ref": "77586",
-        "file": "инвойс услуги Би трейд 77586.pdf"
+        "ref": "Поручение 77586 от 22.10.2026",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     }
   ]
