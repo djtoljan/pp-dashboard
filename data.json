@@ -3206,7 +3206,7 @@
       "clientName": "Неско (ЭТБ)",
       "costFormula": null,
       "extra": null,
-      "rubles_received": null,
+      "rubles_received": "1535406.78 / 24566.50",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
@@ -3311,6 +3311,27 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 114,
+      "date": "2026-10-22",
+      "sum": 0,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО «Авандис»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "4042070.28 / 56588.98",
+      "statementRef": "ЭТБ 22.10.2026, ПП 386 и 387, поручение 6",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: ЭТБ 22.10.2026, ПП 386 и 387, поручение 6",
+      "calc": null,
+      "rowId": "main-000364"
     }
   ]
 }
