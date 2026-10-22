@@ -3367,7 +3367,7 @@
       "date": "2026-10-22",
       "sum": 42886.88,
       "currency": "USD",
-      "company": null,
+      "company": "DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI",
       "color": "FFFF0000",
       "clientName": "ООО «ВТС»",
       "costFormula": null,
@@ -3376,12 +3376,20 @@
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
-      "vdx_rate": null,
+      "vdx_rate": 81.9739,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 22.10.2026 (📨 ВТС t6129 · файлы «инвойс услуги Би трейд 77642.pdf» и «Поручение 77642.pdf»). ПОРУЧЕНИЕ № 77642 от 22.10.2026 (Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи». Платёж 42 886,88 USD по инвойсам 268006 dd 21.10.2026 и DNE2026000000045 от 19.10.2026 (Sales Contract № ВТС/24/13-12 dd 13.12.2024). Получатель DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan Organize Sanayi Bolgesi 9. Cadde No: 01 Melikgazi / Kayseri, Turkey); банк GARANTİ BANKASI, отделение KAYSERİ OSB, SWIFT TGBATRIS, счёт TR20 0006 2001 1470 0009 0817 80. Курс конвертации 81,9739; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Инвойс услуг БиТрейд № 77642 от 22.10.2026 — посреднические услуги по курсу 81,9739.",
       "calc": null,
-      "rowId": "main-000366"
+      "rowId": "main-000366",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "Поручение 77642 от 22.10.2026",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
