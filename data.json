@@ -3166,6 +3166,35 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 109,
+      "date": "2026-10-22",
+      "sum": 69245,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "VDX",
+      "costFormula": "69 245,00 + 0,3% + 30 = 69 482,73 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 69482.73,
+      "notes": "✏️ 22.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 69 245,00 + 0,3% + 30 = 69 482,73 USDT.",
+      "calc": "ТЕЗ",
+      "rowId": "main-000359",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "Invoice 162",
+        "file": "Invoice 162.pdf"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
