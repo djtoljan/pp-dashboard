@@ -308,5 +308,26 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 12,
+    "date": "2026-10-22",
+    "sum": 0,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "1030000.00 / 26410.02",
+    "statementRef": "Почтабанк 22.10.2026, док 2769 и 277001, пор. 89",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: Почтабанк 22.10.2026, док 2769 и 277001, пор. 89",
+    "calc": null,
+    "rowId": "d78-000033"
   }
 ]
