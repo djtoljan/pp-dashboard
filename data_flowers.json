@@ -1476,5 +1476,26 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 54,
+    "date": "2026-10-22",
+    "sum": 0,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Приоритет Маркет (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "6838260.28 / 170956.51",
+    "statementRef": "Почтабанк 22.10.2026, поручение 49",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: Почтабанк 22.10.2026, поручение 49",
+    "calc": null,
+    "rowId": "flw-000152"
   }
 ]
