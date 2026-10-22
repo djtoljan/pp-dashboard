@@ -1739,8 +1739,8 @@
     "date": "2026-10-22",
     "sum": 31076,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "BEIJING YATAI HUAHENG TECHNOLOGY CO. LTD",
+    "color": "FFFFFFFF",
     "clientName": "Вилог (Молодёжь)",
     "costFormula": null,
     "extra": "📄 22.10.2026 (📨 Молодежь t12441, файл «rpp_659.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 659 от 22.10.2026, ИСПОЛНЕНО в 16:50:58 (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411; подпись Мельникова С.С.): ООО «ВИЛОГ» (ИНН 7842215200, счёт 40702810717350002199) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ»), 2 583 639,99 ₽ {VO11100} «Частичная оплата за товар по инвойсу NoPRM-080-20261001 от 01.10.2026, договор NoNZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 83,1394)». Сумма 31 076,00 USD — по сообщению; компания не известна, ждём инвойс.",
@@ -1751,9 +1751,17 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 22.10.2026 (📨 Молодежь t12441 · файл «rpp_659.pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 659 от 22.10.2026 · ИСПОЛНЕНО в 16:50:58 (Филиал «Центральный» Банка ВТБ (ПАО) · БИК 044525411 · подпись Мельникова С.С.): ООО «ВИЛОГ» (ИНН 7842215200 · счёт 40702810717350002199) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ») · 2 583 639.99 ₽ {VO11100} «Частичная оплата за товар по инвойсу NoPRM-080-20261001 от 01.10.2026 · договор NoNZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) · по курсу 83.1394». Сумма 31 076.00 USD — по сообщению; компания не известна — ждём инвойс.",
+    "notes": "📄 22.10.2026 (📨 Молодежь t12441 · файл «rpp_659.pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 659 от 22.10.2026 · ИСПОЛНЕНО в 16:50:58 (Филиал «Центральный» Банка ВТБ (ПАО) · БИК 044525411 · подпись Мельникова С.С.): ООО «ВИЛОГ» (ИНН 7842215200 · счёт 40702810717350002199) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ») · 2 583 639.99 ₽ {VO11100} «Частичная оплата за товар по инвойсу NoPRM-080-20261001 от 01.10.2026 · договор NoNZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) · по курсу 83.1394». Сумма 31 076.00 USD — по сообщению; компания не известна — ждём инвойс. | 📄 22.10.2026 (📨 Молодежь t12441 · файл «PO 31076 USD BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD.docx») — реквизиты платежа: Beneficiary / Account holder BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD (Star House, No.3 Sausbury Road, Tsim Sha Tsui, Hong Kong); Beneficiary bank ZHEJIANG CHOUZHOU COMMERCIAL BANK (Yiwuleyuan East, Jiangbin Rd, Yiwu, Zhejiang, China); SWIFT/BIC CZCBCN2X; IBAN/Account number NRA15603142010500007408; Amount 31 076,00 USD. Компания строки — BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD. | 📄 22.10.2026 (📨 Молодежь t12441 · файл «31076_USD_INVOICE_BEIJING_YATAI_HUAHENG_TECHNOLOGY_CO_,LTD_1_1.pdf») — INVOICE № PI 20261019: BEIJING YATAI HUAHENG TECHNOLOGY CO., LTD (Star House, No.3 Sausbury Road, Tsim Sha Tsui, Hong Kong) → Buyer PQ18 Limited. Позиция: C9124AXI-E access point, 68 шт., NEW, цена 457 USD; Total price 31,076 USD. Банк ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CICBCN2X (в документе CZCBCN2X), счёт NRA15603142010500007408. Сумма совпадает со строкой.",
     "calc": null,
-    "rowId": "mol-000184"
+    "rowId": "mol-000184",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "PO 31076 USD BEIJING YATAI HUAHENG TECHNOLOGY CO.",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 63,
@@ -1772,7 +1780,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 22.10.2026 (📨 Молодежь t12452 · файл «Платежное поручение 160098.docx») — реквизиты платежа по проформе AG26101901 dd 19.10.2026: AMOUNT 34 517,25 USD; BENEFICIARY AG TECH LIMITED (FLAT/RM C, 23/F, Lucky Plaza, 315-321 Lockhart Rd, Wanchai, HK); BENEF. BANK Ping An Bank Co., Ltd (7/F, Shenzhen Development Bank Building, No. 5047, Shennan East Road, Shenzhen, P.R.C.); ACCOUNT OSA11008685131401; SWIFT SZDBCNBS; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. AG26101901 DD 19.10.2026 FOR TUBES AND TAPE». Сумма совпадает со строкой, реквизиты подтверждены. | 📄 22.10.2026 (📨 Молодежь t12452 · файл «PI.pdf») — PROFORMA INVOICE № AG26101901 от 19.10.2026: AG TECH LIMITED (Flat C, 23/F, Lucky Plaza, 315-321 Lockhart Road, Wan Chai, Hong Kong; тел. 00852-65557188) → Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL). Товар — heat shrinkable tubing / mastic tape, PO 0902: AWAS-R 125/30-2200 400 pcs, AWAS-R 160/42-1500 100 pcs, PM-1502 500 rolls, PM-1571-5 200 m, ADW-300 15/5 2000 m, PM 1513 500 rolls, PM-1571-4 200 m, AMWA 75/22-1000 600 m, AMWA 265/75-1000 100 pcs. Условия 100% T/T in advance, EX WORK. TOTAL USD 34 517,25. Банк Ping An Bank Co., Ltd (SWIFT SZDBCNBS), счёт OSA11008685131401. Сумма совпадает со строкой.",
     "calc": null,
     "rowId": "mol-000185",
     "companySource": {
@@ -1783,5 +1791,26 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 64,
+    "date": "2026-10-22",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Эксперт (Молодёжь)",
+    "costFormula": null,
+    "extra": "📄 22.10.2026 (📨 Молодежь t12452, файл «VDX (1).pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 468 от 22.10.2026, электронно, ПРОВЕДЕНО 22.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545): ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398) → VDX SERVICES - FZCO (счёт 40807810000000015414, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ), 51 146,47 ₽ {VO21100} «оплата вознаграждение агента согласно поручению No22 от 22.10.2026 на основании Агентского договора No09-02-2/26 от 09.02.2026». Вознаграждение по сделке AG TECH (строка 63).",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": 51146.47,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 22.10.2026 (📨 Молодежь t12452 · файл «VDX (1).pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 468 от 22.10.2026, электронно, ПРОВЕДЕНО 22.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545): ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398) → VDX SERVICES - FZCO (счёт 40807810000000015414, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ), 51 146,47 ₽ {VO21100} «оплата вознаграждение агента согласно поручению No22 от 22.10.2026 на основании Агентского договора No09-02-2/26 от 09.02.2026». Вознаграждение по сделке AG TECH (строка 63).",
+    "calc": null,
+    "rowId": "mol-000186"
   }
 ]
