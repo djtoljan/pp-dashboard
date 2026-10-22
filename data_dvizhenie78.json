@@ -325,5 +325,34 @@
       "ref": "Scream; ЛС; 22.10.2026; PQ18 = пул Q8 (+0,3%+30)",
       "date": "2026-10-22"
     }
+  },
+  {
+    "row": 12,
+    "date": "2026-10-22",
+    "sum": 12500,
+    "currency": "USD",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": "12 500,00 + 0,3% + 30 = 12 567,50 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 12567.5,
+    "notes": null,
+    "calc": null,
+    "rowId": "d78-000035",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "TAL2609142A",
+      "file": "TAL2609142A USD12500.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
