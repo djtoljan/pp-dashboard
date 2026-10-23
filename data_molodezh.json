@@ -1033,7 +1033,7 @@
     "company": "Z SOURCE",
     "color": "FF92D050",
     "clientName": "Вилог",
-    "costFormula": null,
+    "costFormula": "33 400,00 + 0,3% + 30 = 33 530,20 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1041,7 +1041,7 @@
     "exchange_to": "VDX",
     "vdx_rate": 82.925,
     "received_usdt": "34157.46",
-    "sent_usdt": null,
+    "sent_usdt": 33530.2,
     "notes": "ПП на VDX №652 от 16.10.2026 ИСПОЛНЕН 13:41:45 (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411): ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, счёт 40807810000000015414), 2 835 342,70 ₽. {VO21100} Оплата по инвойсу №SZHSE20261033A от 20.09.2026 г. за фрахт по договору №SWILWL010126 от 01.01.2026 г. (по курсу 84,8905). НДС не облагается. ⚠️ заявки нет — 🔵 отправка на VDX без заявки. | 🔗 2026-10-16 (Scream: «Scream 16.10: инвойс GLOBAL UZLOG 33 400 USD — это Вилог (тело к ПП №652); строки 37 (отправка на VDX) и 38 (инвойс) — одна сделка») — строки 38 объединены с этой: sum = 33400 null; rubles_received = null; sent_rubles_vdx = 2835342.70 (VDX). Полные notes прежних строк — в Molodezh.removed-rows_37-38_2026-10-16.json. | 📄 16.10.2026 (📨 Молодежь, файл «33400_USD_INVOICE_GLOBAL_UZLOG_LOJISTIK_TICARET_LIMITED_SIRKETI.pdf») — INVOICE No 20261033 dd 20.9.2026 (заказчик Z SOURCE LIMITED): seafreight — 40' 1× USD 5 800,00 + 20' 4× USD 3 400,00 = 13 600,00 + USD 7 000,00 + USD 7 000,00 = **USD 33 400,00** (VAT 0). Получатель GLOBAL UZLOG LOJISTIK TICARET LIMITED SIRKETI (Osmaniye Mah Şirin Sk., Bakırköy, İstanbul, Türkiye); банк GARANTİ BANKASI YEŞİLKÖY ŞUBESİ, SWIFT TGBATRISXXX, IBAN TR91 0006 2000 3280 0009 0712 11. | 📄 16.10.2026 (📨 Молодежь, файл «PO 33400 USD GLOBAL UZLOG LOJISTIK TICARET LIMITED SIRKETI.docx») — платёжные реквизиты к оплате: Beneficiary GLOBAL UZLOG..., GARANTİ BANKASI, SWIFT TGBATRISXXX, IBAN TR91 0006 2000 3280 0009 0712 11, Amount 33400 USD. | 🧭 16.10.2026 (Scream: «Хотя нет это Вилог») — клиент = **Вилог**; строки 37 (ПП №652, отправка на VDX) и 38 (инвойс GLOBAL UZLOG) — ОДНА сделка (объединены): рублёвая отправка 2 835 342,70 ₽ = 33 400,00 USD × 84,8905. sum = 33 400 USD, currency = USD, exchange_to = VDX. ⚠️ Компания по инвойсу — Z SOURCE (в поле не записать: row-fix.js при --doc падает «parseDoc is not defined» — баг инструмента; company оставлен пустым). | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «2835342.70 (VDX)» → 2835342.70. |  | ✅ 20.10.2026 (📨 ПП компании Q8/Z-source, файл «33400.00.pdf») — BONBILL LIMITED Payment Certificate (Тип 7): Transaction ID O2112070673231904768355; Payment Time 2026-10-19 14:37:43; Payer Z SOURCE LIMITED; Payee GLOBAL UZLOG LOJISTIK TICARET LIMITED SIRKETI, TURKIYE GARANTI BANKASI A.S., IBAN TR910006200032800009071211; USD 33 400,00; Invoice 20261033DD20092026ForSeaFreight. Платёж исполнен → 🟢.",
     "calc": null,
     "rowId": "mol-000144",
@@ -1219,43 +1219,13 @@
   },
   {
     "row": 43,
-    "date": "2026-10-19",
-    "sum": 50234.62,
-    "currency": "EUR",
-    "company": "Q8",
-    "color": "FFFFFF00",
-    "clientName": "TRESSOLI",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 19.10.2026 (📨 Молодёжь, файл «foreign_transfer_details_RU_translation.pdf») — СВЕДЕНИЯ О МЕЖДУНАРОДНОМ ПЕРЕВОДЕ PKO Bank Polski SA (реф. SR26IP15147912DS): владелец счёта TRESSOLI SP. Z O.O.; получатель Q8 GROUP LIMITED (SWIFT AILSKZ2KXXX; счёт KZ299990172EUR001948); назначение «счёт-фактура Q8-261016-1»; сумма 50 234,62 EUR; дата перевода 19.10.2026; статус «Поручение принято к исполнению» (INITIATED); комиссии OUR 230,00 PLN ≈ 52,67 EUR. Клиент TRESSOLI отсутствует в clients-db — новый. | | 📄 21.10.2026 (📨 Молодежь, файл «Q8-261016-1 (131 139 137 138 140 141 144 136 145).pdf») — **INVOICE Q8-261016-1**: SUPLIER Q8 GROUP LIMITED (reg. 68975013, 18/F The Center, 99 Queen's Road Central, Hong Kong; Al Safi Bank, SWIFT AILSKZ2K, ACCOUNT EURO KZ299990172EUR001948) → CUSTOMER **TRESSOLI SP Z O.O.** (Księcia Jerzego II Piasta 2C/1, 49-300 Brzeg; VAT 70134128; PKO BP, SWIFT BPKOPLPW, PL73 1020 1042 0000 8802 0513 6967): Forwarding services, orders 131 139 137 138 140 141 144 136 145, TOTAL **50 234,62 EUR**. Та же сделка, что r47 — строку не создаю; жду курс EUR за 19.10 для Q8-расчёта.",
-    "calc": null,
-    "rowId": "mol-000165",
-    "companySource": {
-      "source": "foreign_pp",
-      "file": "foreign_transfer_details_RU_translation.pdf",
-      "txid": null,
-      "ref": "SR26IP15147912DS",
-      "date": null
-    },
-    "companyProvisional": false,
-    "companyVerified": true
-  },
-  {
-    "row": 44,
     "date": "2026-10-20",
     "sum": 60000,
     "currency": "USD",
     "company": "Z SOURCE",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Евразия (Молодёжь)",
-    "costFormula": "-",
+    "costFormula": "60 000,00 + 0,3% + 30 = 60 210,00 USDT",
     "extra": "-",
     "rubles_received": "-",
     "statementRef": null,
@@ -1263,7 +1233,7 @@
     "exchange_to": "VDX",
     "vdx_rate": 82.68,
     "received_usdt": "61193.37",
-    "sent_usdt": null,
+    "sent_usdt": 60210,
     "notes": "ПП на VDX №115 от 20.10.2026 (5 064 532,18 ₽ — номер из документа ПП) | ПП №115 от 20.10.2026 ИСПОЛНЕН 20.10.2026 (МОРСКОЙ БАНК (АО), БИК 044525095, ЭП Поплавская Ольга Валерьевна): ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), 5 064 532,18 ₽ {VO60081} «Перевод в пользу Eurasia Logistics Co., Ltd Субагентский договор № СА-2026-3108-01 от 31.08.26 поручение 4 от 20.10.2026, оплата за лог. услуги», НДС не облагается. ⚠️ заявки нет — 🔵 отправка на VDX без заявки. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: строки 47 и 44 — одна сделка») — строки 47 объединены с этой: sum = 60000 USD; rubles_received = -; sent_rubles_vdx = 5064532.18. Полные notes прежних строк — в Molodezh.removed-rows_44-47_2026-10-23.json.",
     "calc": null,
     "rowId": "mol-000157",
@@ -1277,7 +1247,7 @@
     "companyVerified": false
   },
   {
-    "row": 45,
+    "row": 44,
     "date": "2026-10-20",
     "sum": 3755,
     "currency": "USD",
@@ -1311,7 +1281,7 @@
     }
   },
   {
-    "row": 46,
+    "row": 45,
     "date": "2026-10-20",
     "sum": 129691.3,
     "currency": "USD",
@@ -1352,14 +1322,14 @@
     ]
   },
   {
-    "row": 47,
+    "row": 46,
     "date": "2026-10-21",
     "sum": 8727.3,
     "currency": "USD",
     "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "Ресурсы",
-    "costFormula": null,
+    "costFormula": "8 727,30 + 0,3% + 30 = 8 783,48 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": "ПП от 21.10.2026 (Сбербанк) ООО «РЕСУРСЫ» → VDX, prof.inv SR-202610S08RU022, поручение 1",
@@ -1367,7 +1337,7 @@
     "exchange_to": "VDX",
     "vdx_rate": 82.38,
     "received_usdt": "8772.55 / 478.47",
-    "sent_usdt": null,
+    "sent_usdt": 8783.48,
     "notes": "ПП на VDX №602 от 21.10.2026 (723 405,90 ₽ — номер из документа ПП) | 🏦 приход по выписке: ПП от 21.10.2026 (Сбербанк) ООО «РЕСУРСЫ» → VDX, prof.inv SR-202610S08RU022, поручение 1 | 📄 21.10.2026 (📨 t12326 · Ресурсы, файл «payments (1).PDF») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ от 21.10.2026, ИСПОЛНЕН** (ПАО Сбербанк, БИК 044525225; подпись Пегов А.А.): ООО «РЕСУРСЫ» (ИНН 7715920986, КПП 771401001, счёт 40702810138000023040) → **VDX SERVICES-FZCO** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), назначение {VO11100} «Для зачисления по prof.inv № SR-202610S08RU022 от 19.10.2026 за оплату товара, по Поручению №1 от 21.10.2026 к агентскому договору № 1509-2026 от 15.09.2026, НДС не облагается». Сумма сделки — 8 727,30 USD, оплата на VDX (sent_rubles_vdx). Заявки в таблицах не было — строка создана по ПП (🔵). | | 📄 21.10.2026 (📨 t12326 · Ресурсы, файл «PI -202610S08RU022-New HK EXW Shenzhen .pdf») — PROFORMA INVOICE № SR-202610S08RU022 dd 19/10/2026: продавец SHENZHEN SUNRICHER TECHNOLOGY CO. LTD, Наньшань, Шэньчжэнь, контакт Louise Li; покупатель Z SOURCE LIMITED, Гонконг, 18/F The Center, 99 Queens Road Central. Товар DALI: SR-2309PRO-5C 50 шт., SR-2701S-DT7 30 шт., SRP-2309N-36CCT350-1050 300 шт., SRP-2309N-25CCT250-700 50 шт., SRP-2309N-15CCT100-700 50 шт., SR-DA2833P-DA2 100 шт. Итого 8 727,30 USD. Условия T/T EXW Shenzhen, банковские расходы за счёт плательщика, отгрузка от 1 недели до 1 месяца после оплаты. Реквизиты HSBC Hong Kong, SWIFT HSBCHKHHHKH, счёт 741535397838, beneficiary Sunricher Technology Limited. PI-основание к ПП №1 от 21.10.2026 — ООО РЕСУРСЫ → VDX. | | 📄 21.10.2026 (📨 t12326 · Ресурсы, файл «payment order 21.10.docx») — PAYMENT ORDER dd 21/10/2026: amount 8 727,30 USD, beneficiary Sunricher Technology Limited (Flat RM 1402B, The Belgian Bank Building, 721 Nathan Road, Mongkok, Hong Kong), bank HSBC Hong Kong (Head Office, 1 Queens Road Central), account 741535397838, SWIFT HSBCHKHHHKH. Тот же платёж, что по ПП №1 от 21.10.2026 (ООО РЕСУРСЫ → VDX) — заявка подтверждена. | 🔗 2026-10-21 (Scream: «Scream 21.10.2026: клиент Ресурсы — таблица Молодёжь») — строка перенесена из таблицы Main (была row 109, rowId main-000357) в Molodezh (rowId mol-000173). |  | 📄 22.10.2026 BONBILL Payment Certificate (Тип 7): Transaction ID O2113137484530581504886, Payment Time 2026-10-22 13:16:51, Payer Z SOURCE LIMITED → Payee Sunricher Technology Limited, счёт 741535397838, HSBC Hong Kong, USD 8 727,30, Invoice SR202610S08RU022 DD 19.10.2026 For El Parts — по той же сделке, что ПП №1 от 21.10.2026 (prof.inv SR-202610S08RU022). Исполнение на стороне VDX/BONBILL; цвет 🔵 не менял — статус-гард требует Тип 3/Тип 7 Q8 именно для строки, ждёт подтверждения владельца. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: Ресурсы — тело и вознаграждение одной сделки через /») — строки 55 объединены с этой: sum = 8727.3 USD; rubles_received = null; sent_rubles_vdx = 723405.90 / 39455.64. Полные notes прежних строк — в Molodezh.removed-rows_55-48_2026-10-23.json.",
     "calc": null,
     "rowId": "mol-000173",
@@ -1381,7 +1351,7 @@
     "companyVerified": false
   },
   {
-    "row": 48,
+    "row": 47,
     "date": "2026-10-21",
     "sum": 13600,
     "currency": "USD",
@@ -1410,7 +1380,7 @@
     "companyVerified": false
   },
   {
-    "row": 49,
+    "row": 48,
     "date": "2026-10-21",
     "sum": 87290,
     "currency": "USD",
@@ -1444,7 +1414,7 @@
     }
   },
   {
-    "row": 50,
+    "row": 49,
     "date": "2026-10-21",
     "sum": 6101.86,
     "currency": "USD",
@@ -1478,7 +1448,7 @@
     }
   },
   {
-    "row": 51,
+    "row": 50,
     "date": "2026-10-21",
     "sum": 3083656,
     "currency": "JPY",
@@ -1507,7 +1477,7 @@
     "companyVerified": false
   },
   {
-    "row": 52,
+    "row": 51,
     "date": "2026-10-21",
     "sum": 4047.5,
     "currency": "USD",
@@ -1536,7 +1506,7 @@
     "companyVerified": false
   },
   {
-    "row": 53,
+    "row": 52,
     "date": "2026-10-22",
     "sum": 36281.5,
     "currency": "USD",
@@ -1565,7 +1535,7 @@
     "companyVerified": false
   },
   {
-    "row": 54,
+    "row": 53,
     "date": "2026-10-22",
     "sum": 175846.65,
     "currency": "USD",
@@ -1595,7 +1565,7 @@
     "companyVerified": true
   },
   {
-    "row": 55,
+    "row": 54,
     "date": "2026-10-22",
     "sum": 299150,
     "currency": "USD",
@@ -1624,7 +1594,7 @@
     "companyVerified": false
   },
   {
-    "row": 56,
+    "row": 55,
     "date": "2026-10-22",
     "sum": 93235.59,
     "currency": "USD",
@@ -1653,7 +1623,7 @@
     "companyVerified": false
   },
   {
-    "row": 57,
+    "row": 56,
     "date": "2026-10-22",
     "sum": 36448,
     "currency": "USD",
@@ -1682,7 +1652,7 @@
     "companyVerified": false
   },
   {
-    "row": 58,
+    "row": 57,
     "date": "2026-10-22",
     "sum": 31076,
     "currency": "USD",
@@ -1711,7 +1681,7 @@
     "companyVerified": false
   },
   {
-    "row": 59,
+    "row": 58,
     "date": "2026-10-22",
     "sum": 34517.25,
     "currency": "USD",
@@ -1740,7 +1710,7 @@
     "companyVerified": false
   },
   {
-    "row": 60,
+    "row": 59,
     "date": "2026-10-23",
     "sum": 8800,
     "currency": "USD",
@@ -1769,14 +1739,14 @@
     "companyVerified": false
   },
   {
-    "row": 61,
+    "row": 60,
     "date": "2026-10-23",
     "sum": 100000,
     "currency": "USD",
     "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "Евразия (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "100 000,00 + 0,3% + 30 = 100 330,00 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": "ПП №128 от 23.10.2026 Евразия Логистикс → VDX, в пользу ZIMA CO, LTD, поручение 6",
@@ -1784,7 +1754,7 @@
     "exchange_to": null,
     "vdx_rate": 80.71,
     "received_usdt": 101518.85,
-    "sent_usdt": null,
+    "sent_usdt": 100330,
     "notes": "🏦 приход по выписке: ПП №128 от 23.10.2026 Евразия Логистикс → VDX, в пользу ZIMA CO, LTD, поручение 6 | 💸 23.10.2026 (📨 Молодежь t12541 · «100 000,00 USD Евразия Логистикс» · файл «исполнено  8201788-05.pdf»; МОРСКОЙ БАНК (АО), БИК 044525095, заверено ЭП Поплавская О.В.) — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №128 от 23.10.2026: плательщик ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246, Морской банк) → VDX SERVICES - FZCO (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль), 8 201 788,05 ₽ {VO60081} «Перевод в пользу ZIMA CO,LTD, субагентский договор № СА-2026-3108-01 от 31.08.26, поручение 6 от 23.10.2026, оплата за лог. услуги». sent_rubles_vdx = 8 201 788,05 (курс 82,0179 ₽/USD к сумме строки 100 000 USD). Компания-плательщик (Q8 / Z SOURCE) пока не определена — строка 🔵, ждём ордер/Vdx-таблицу. | 📄 23.10.2026 (📨 Молодежь t12541, файл «INV_Z.pdf») — INVOICE №1 от 01.09.2026: Seller ZHEJIANG HUATAI ALUMINUM WHEEL MANUFACTURING CO., LTD (Yongchang Industrial Zone, Lanxi, Zhejiang, China; ИНН 8708705009), Buyer Z SOURCE LIMITED (счёт 79807112001, DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH). Товар — алюминиевые диски для легковых автомобилей с колпаком, 1392 ед., итого сумма строки (100 000,00 USD). Бенефициарный банк продавца — INDUSTRIAL AND COMMERCIAL BANK OF CHINA, Zhejiang Province Branch, счёт 1208050009114036585, SWIFT ICBKCNBJZJP. Компания Z SOURCE (buyer в инвойсе) → фиксирована; цвет остаётся 🔵 (ждём INITIATED/ордер). | 📄 23.10.2026 (📨 Молодежь t12541, файл «payment order.docx») — PAYMENT ORDER от 23.10.2026: AMOUNT 100 000,00 USD; BENEFICIARY ZHEJIANG HUATAI ALUMINUM WHEEL MANUFACTURING CO., LTD (Yongchang Industrial Zone, Lanxi, Zhejiang, China); BENEFICIARY BANK INDUSTRIAL AND COMMERCIAL BANK OF CHINA (150 Zhonghe Road Central, Hangzhou, Zhejiang 310009), счёт 1208050009114036585, SWIFT ICBKCNBJZJP; PAYMENT PURPOSE «Payment for invoice no. 1 dated 01.09.2026». Совпадает со строкой (100 000 USD, Z SOURCE, инвойс №1 от 01.09.2026) — новой строки не создавал. Расчёт себестоимости ждём от владельца / VDX-таблицу.",
     "calc": null,
     "rowId": "mol-000192",
@@ -1798,7 +1768,7 @@
     "companyVerified": false
   },
   {
-    "row": 62,
+    "row": 61,
     "date": "2026-10-23",
     "sum": 38220,
     "currency": "CNY",
