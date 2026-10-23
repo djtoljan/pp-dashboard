@@ -1453,10 +1453,10 @@
     "date": "2026-10-21",
     "sum": 134097.53,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 alsafi",
     "color": "FFFFFFFF",
     "clientName": "Gulf Flowers FZCO (Цветы)",
-    "costFormula": "134 097,53 + 0,3% + 30 = 134 529,82 USDT",
+    "costFormula": "134 097,53 + 0,3% = 134 499,82 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1464,18 +1464,23 @@
     "exchange_to": "Al Safi",
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 134529.82,
-    "notes": "📄 21.10.2026 (📨 Цветы, файлы «Gulf Flowers FZCO 134 097.53 $ .docx» + «… .pdf» — реквизитный лист) — **ПЛАТЁЖНЫЕ РЕКВИЗИТЫ**: сумма **134 097,53 USD**, Beneficiary **Gulf Flowers FZCO** (Unit 4WB 336, Building 4WB (West Side), Dubai Airport Free Zone, Dubai, UAE), счёт **AE200340003528243426702**, **EMIRATES ISLAMIC BANK** (AL YOUSUF TOWER, 6564, Dubai, UAE), SWIFT **MEBLAEAD**, registration 1713, VAT 1000472048600003, директор **Tsepov Alexander**; банк-корреспондент **The Bank of New York Mellon**, SWIFT **IRVTUS3NXXX**, счёт 8901515981. Назначение: «Payment for cut flowers under contract GF-EXG/2025/10/20 dd 20.10.2025». Компания-плательщик не указана — строка 🔴 (Step 0), ждёт заявку/компанию. | | 🔖 21.10.2026 (Scream, ответ на отчёт): **ПОДВЕШЕННАЯ ПП** — платёж по этой заявке отправлен и висит в ожидании исполнения (не закрывать зелёнкой до подтверждения банка).",
+    "sent_usdt": 134499.82,
+    "notes": "📄 21.10.2026 (📨 Цветы, файлы «Gulf Flowers FZCO 134 097.53 $ .docx» + «… .pdf» — реквизитный лист) — **ПЛАТЁЖНЫЕ РЕКВИЗИТЫ**: сумма **134 097,53 USD**, Beneficiary **Gulf Flowers FZCO** (Unit 4WB 336, Building 4WB (West Side), Dubai Airport Free Zone, Dubai, UAE), счёт **AE200340003528243426702**, **EMIRATES ISLAMIC BANK** (AL YOUSUF TOWER, 6564, Dubai, UAE), SWIFT **MEBLAEAD**, registration 1713, VAT 1000472048600003, директор **Tsepov Alexander**; банк-корреспондент **The Bank of New York Mellon**, SWIFT **IRVTUS3NXXX**, счёт 8901515981. Назначение: «Payment for cut flowers under contract GF-EXG/2025/10/20 dd 20.10.2025». Компания-плательщик не указана — строка 🔴 (Step 0), ждёт заявку/компанию. | | 🔖 21.10.2026 (Scream, ответ на отчёт): **ПОДВЕШЕННАЯ ПП** — платёж по этой заявке отправлен и висит в ожидании исполнения (не закрывать зелёнкой до подтверждения банка). | 🔖 23.10.2026 (Scream, ЛС): компания Q8 alsafi — своя формула себестоимости (+0,3%, без +30); прежняя формула Xfee (+30) заменена на операторскую.",
     "calc": null,
     "rowId": "flw-000151",
     "companySource": {
       "source": "owner_instruction",
       "date": null,
-      "ref": "Scream msg 14984; date=2026-10-23",
+      "ref": "Scream msg 14985; date=2026-10-23",
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "Scream ЛС 23.10.2026 msg 14985: Q8 alsafi — своя формула (без +30), прецедент Цветы r115",
+      "date": "2026-10-23"
+    }
   },
   {
     "row": 54,

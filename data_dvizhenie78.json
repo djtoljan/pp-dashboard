@@ -175,7 +175,7 @@
     "date": "2026-10-13",
     "sum": 9750,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FF92D050",
     "clientName": "Балтик Лэнд (Движение 78)",
     "costFormula": "9 750,00 / 0,9965 + 50,175 = 9 834,42 USDT",
@@ -196,9 +196,9 @@
     },
     "companySource": {
       "source": "owner_instruction",
-      "date": "2026-10-15",
-      "ref": "Scream (голос): компания у всех Q8 (gp morgan)",
-      "messageId": "57365"
+      "date": null,
+      "ref": "Scream msg 14986; date=2026-10-23",
+      "messageId": null
     },
     "companyProvisional": false,
     "companyVerified": false
@@ -234,7 +234,7 @@
     "date": "2026-10-20",
     "sum": 33480,
     "currency": "USD",
-    "company": "PQ18",
+    "company": "Q8 JP",
     "color": "FF92D050",
     "clientName": "Балтик Лэнд (Движение 78)",
     "costFormula": "33 480,00 / 0,9965 + 50,18 = 33 647,77 USDT",
@@ -251,9 +251,9 @@
     "rowId": "d78-000030",
     "companySource": {
       "source": "owner_instruction",
-      "date": "2026-10-22",
-      "ref": null,
-      "messageId": "7206154434/22.10.2026"
+      "date": null,
+      "ref": "Scream msg 14986; date=2026-10-23",
+      "messageId": null
     },
     "companyProvisional": false,
     "companyVerified": false
@@ -263,7 +263,7 @@
     "date": "2026-10-21",
     "sum": 130334.42,
     "currency": "CNY",
-    "company": "РМК",
+    "company": "Q8 JP",
     "color": "FFFFFFFF",
     "clientName": "РМК (Движение 78)",
     "costFormula": "130 334,42 / 6,6194 + 50,18 = 19 739,94 USDT (Q8-0042, VDX/Q8-таблица 22.10.2026)",
@@ -279,9 +279,9 @@
     "calc": null,
     "rowId": "d78-000032",
     "companySource": {
-      "source": "order",
-      "date": "2026-10-21",
-      "ref": "Поручение 20 от 21.10.2026",
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 14986; date=2026-10-23",
       "messageId": null
     },
     "companyProvisional": false,

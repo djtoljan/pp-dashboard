@@ -1373,7 +1373,7 @@
     "sum": 8727.3,
     "currency": "USD",
     "company": null,
-    "color": "FF4FC3F7",
+    "color": "FFFF0000",
     "clientName": "Ресурсы",
     "costFormula": null,
     "extra": null,
@@ -1519,35 +1519,6 @@
   },
   {
     "row": 54,
-    "date": "2026-10-22",
-    "sum": 36281.5,
-    "currency": "USD",
-    "company": "SENSIS",
-    "color": "FFFFFFFF",
-    "clientName": "ООО «Сенсис»",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": 2959866.54,
-    "exchange_to": "VDX",
-    "vdx_rate": 82.38,
-    "received_usdt": 35893.5,
-    "sent_usdt": null,
-    "notes": "📄 22.10.2026 (📨 Молодежь t1370, файл «5 поручение_36 281.50 usd-signed.pdf») — **ПОРУЧЕНИЕ АГЕНТУ VDX SERVICES - FZCO № 5 от 22.10.2026** (к Агентскому договору № 9414/BSPB от 20.08.2026): Принципал **ООО «Сенсис» / SENSIS CO. LTD** (Генеральный директор Гаджиев Б.К.) → Агент VDX SERVICES - FZCO; сумма **36 281,50 USD**; получатель **T.I.T ENG CO., LTD** (7 Floor, Shin-do B/D, 10, Garak-dong, Songpa-gu, Seoul, Korea); банк **Woori Bank KARAKNAMBU BR** (169, Dongnam-ro, Songpa-gu, Seoul, Republic of Korea), SWIFT **HVBKKRSEXXX**, счёт **1081-200-458121**. Назначение: оплата по контракту № SS-PN/2024/BSPB от 08.11.2024 по **Invoice TPI26-101601 R1 от 16.10.2026** для исполнения Поручения № 5 от 22.10.2026. Согласованный курс **81,5806**; сумма к перечислению **2 959 866,54 ₽**; вознаграждение агента **39 995,05 ₽**. Срок отправки — не позднее 3 рабочих дней после зачисления полной суммы. Клиент группы — **Архимед (Молодёжь)**, компания-плательщик **SENSIS**. Поручение (Тип 5) → Step 0; компания известна → ⬜. Расчёт себестоимости ждёт решения Scream (не-Q8). | ПП на VDX №685 от 22.10.2026 (2 959 866,54 ₽ — тело) | 📄 22.10.2026 (📨 Молодежь t12369, файл «685_22102026.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 685 от 22.10.2026** ИСПОЛНЕНО 22.10.2026 (Ф-Л ПАО «БАНК «САНКТ-ПЕТЕРБУРГ» В Г. МОСКВЕ, БИК 044525142, код операции 2786459441735, ЭП Гаджиев Б.К.): плательщик **ООО «Сенсис»** (ИНН 7728599015, КПП 772701001, счёт 40702810377000006220) → **VDX SERVICES-FZCO** (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **2 959 866,54 ₽**. {VO11100} «Оплата за товар по Поруч.№5 от 22.10.2026 к Агентскому Договору №9414/BSPB от 20.08.2026 г., Contract №SS-PN/2024/BSPB от 08.11.2024, Invoice TPI26-101601 R1 от 16.10.2026. НДС не облагается» = ТЕЛО поручения №5 (вознаграждение — отдельной строкой 57, ПП №686). | 📄 22.10.2026 (📨 Молодежь t12369 · файл «PI - Z SOURCE(HK)_2026.10.16_.pdf») — INVOICE № 26-101602 dd 16.10.2026: продавец T.I.T ENG CO., LTD (7 Floor Shin-do B/D, 10 Garak-dong, Songpa-gu, Seoul, Korea; Woori Bank Karaknambu, SWIFT HVBKKRSEXXX, счёт 1081-200-458121) → покупатель Messrs. Z SOURCE LIMITED. Позиции — карточные принтеры N10/N15/N25, ламинатор NL200-DH, ribbon и cleaning kits, 11 позиций; итого 36 281,50 USD; условия 100% T/T in advance, EXW/FCA/FAS, отгрузка через 90 календарных дней после оплаты. Сумма совпадает со строкой. | 📄 22.10.2026 (📨 Молодежь t12369 · файл «payment order 36 281.5 USD.docx») — PAYMENT ORDER от 22.10.2026: AMOUNT 36 281.50 USD, PAYMENT METHOD «Payment for invoice 26-101602 dd 10/16/2026»; BENEFICIARY T.I.T ENG CO., LTD (7 Floor Shin-do B/D, 10 Garak-dong, Songpa-gu, Seoul, Korea); BENEFICIARY BANK Woori Bank KARAKNAMBU BR (169 Dongnam-ro, Songpa-gu, Seoul); ACCOUNT NUMBER 1081-200-458121; SWIFT HVBKKRSEXXX; PAYMENT PURPOSE GOODS. Реквизиты совпадают с инвойсом 26-101602 — строка уже заведена.",
-    "calc": null,
-    "rowId": "mol-000174",
-    "companySource": {
-      "source": "order",
-      "date": null,
-      "ref": "Поручение №5 от 22.10.2026",
-      "messageId": null
-    },
-    "companyProvisional": false,
-    "companyVerified": false
-  },
-  {
-    "row": 55,
     "date": "2026-10-21",
     "sum": 4047.5,
     "currency": "USD",
@@ -1558,12 +1529,12 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": 338852.25,
+    "sent_rubles_vdx": "338852.25 / 23520.83",
     "exchange_to": "VDX",
     "vdx_rate": 82.42,
-    "received_usdt": 4107.18,
+    "received_usdt": "4107.18 / 285.09",
     "sent_usdt": null,
-    "notes": "ПП на VDX №465 от 21.10.2026 (338 852,25 ₽ — тело) | 📄 22.10.2026 (📨 Молодежь t12361, файл «Shenzhen Yalina Cosmetic Co., Ltd.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 465 от 21.10.2026** ИСПОЛНЕНО 21.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545, электронно): плательщик **ООО «ЭКСПЕРТ»** (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ, БИК 044525555, счёт 40807810000000015414), **338 852,25 ₽**. {VO11100} «для перечисления (Shenzhen Yalina Cosmetic Co., Ltd) за товар по Ag.-Offer 27072026 от 27.07.2026 по PR.IN. INV202607 DD 24.07.2026, аг.дог. №09-02-2/26 от 09.02.26. Без НДС» = ТЕЛО. Курс ПП 83,7189. Заявки/ордера в 5 таблицах нет → 🔵 отправка на VDX без заявки, ждём. | 📄 22.10.2026 (📨 Молодежь t12361, файл «VDX.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 466 от 21.10.2026** ИСПОЛНЕНО 21.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, электронно): ООО «ЭКСПЕРТ» → VDX SERVICES - FZCO (ПСБ Ярославль, счёт 40807810000000015414), **23 520,83 ₽**. {VO21100} «оплата вознаграждения агента согласно поручению № 21 от 21.10.2026 на основании Агентского договора №09-02-2/26 от 09.02.2026. Без НДС» — ВОЗНАГРАЖДЕНИЕ по той же сделке (поручение №21), отдельной строкой 56 (одна ПП — одна строка). | 📄 22.10.2026 (📨 Молодежь t12361 · файл «Платежное поручение 160158.docx») — реквизиты платежа по инвойсу INV202607 dd 24.07.2026: AMOUNT 4 047,50 USD; BENEFICIARY YALINA (HK) CO LTD (RM 01, 1/F, Kwong Tai Bldg, 750 Cheung Sha Wan Rd, Lai Chi Kok, KLN, Hong Kong); BENEF. BANK OCBC Wing Hang Bank Limited (161 Queen's Road Central, Hong Kong); ACCOUNT 035 808 268499 831; SWIFT WIHBHKHH; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. INV202607 DD 24.07.2026 FOR COSMETIC SPONGE». Компания строки — YALINA (HK) CO LTD. | 📄 22.10.2026 (📨 Молодежь t12361 · файл «Proforma_Invoice(7).pdf» — скан · читал вижном) — PROFORMA INVOICE № INV202607 от 24.07.2026: Shenzhen Yalina Cosmetic Co., Ltd (Room 205, Building 5, Yuanchuang Power Industrial Park, No. 24 Tangjiao Road, Changping Town, Dongguan City, Guangdong; contact Angel, sales1@yalicosmetic.com) → Q8 GROUP LIMITED (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Kowloon, HK). Позиции — косметические спонжи/упаковка: 2975C teardrop 2000 шт., mini 2975C 10000 шт., пластиковые коробки 5pack 2000 шт., пластиковые коробки 2000 шт., картон 350gsm 5000 шт., стикеры 4000 шт., handling fee. Условия: 50% депозит + 50% баланс, TT/PayPal/Alibaba/Bank Transfer; производство 30–35 дней, отгрузка 3–5 дней после полной оплаты. Банк OCBC Wing Hang Bank Limited, счёт 035 808 268499 831, beneficiary YALINA (HK) CO LTD, SWIFT WIHBHKHH. Сумма строки 4 047,50 USD = 50% депозит от общего итога инвойса.",
+    "notes": "ПП на VDX №465 от 21.10.2026 (338 852,25 ₽ — тело) | 📄 22.10.2026 (📨 Молодежь t12361, файл «Shenzhen Yalina Cosmetic Co., Ltd.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 465 от 21.10.2026** ИСПОЛНЕНО 21.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545, электронно): плательщик **ООО «ЭКСПЕРТ»** (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398) → получатель **VDX SERVICES - FZCO** (ИНН 9909710068, КПП 772887001, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ, БИК 044525555, счёт 40807810000000015414), **338 852,25 ₽**. {VO11100} «для перечисления (Shenzhen Yalina Cosmetic Co., Ltd) за товар по Ag.-Offer 27072026 от 27.07.2026 по PR.IN. INV202607 DD 24.07.2026, аг.дог. №09-02-2/26 от 09.02.26. Без НДС» = ТЕЛО. Курс ПП 83,7189. Заявки/ордера в 5 таблицах нет → 🔵 отправка на VDX без заявки, ждём. | 📄 22.10.2026 (📨 Молодежь t12361, файл «VDX.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 466 от 21.10.2026** ИСПОЛНЕНО 21.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, электронно): ООО «ЭКСПЕРТ» → VDX SERVICES - FZCO (ПСБ Ярославль, счёт 40807810000000015414), **23 520,83 ₽**. {VO21100} «оплата вознаграждения агента согласно поручению № 21 от 21.10.2026 на основании Агентского договора №09-02-2/26 от 09.02.2026. Без НДС» — ВОЗНАГРАЖДЕНИЕ по той же сделке (поручение №21), отдельной строкой 56 (одна ПП — одна строка). | 📄 22.10.2026 (📨 Молодежь t12361 · файл «Платежное поручение 160158.docx») — реквизиты платежа по инвойсу INV202607 dd 24.07.2026: AMOUNT 4 047,50 USD; BENEFICIARY YALINA (HK) CO LTD (RM 01, 1/F, Kwong Tai Bldg, 750 Cheung Sha Wan Rd, Lai Chi Kok, KLN, Hong Kong); BENEF. BANK OCBC Wing Hang Bank Limited (161 Queen's Road Central, Hong Kong); ACCOUNT 035 808 268499 831; SWIFT WIHBHKHH; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. INV202607 DD 24.07.2026 FOR COSMETIC SPONGE». Компания строки — YALINA (HK) CO LTD. | 📄 22.10.2026 (📨 Молодежь t12361 · файл «Proforma_Invoice(7).pdf» — скан · читал вижном) — PROFORMA INVOICE № INV202607 от 24.07.2026: Shenzhen Yalina Cosmetic Co., Ltd (Room 205, Building 5, Yuanchuang Power Industrial Park, No. 24 Tangjiao Road, Changping Town, Dongguan City, Guangdong; contact Angel, sales1@yalicosmetic.com) → Q8 GROUP LIMITED (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Kowloon, HK). Позиции — косметические спонжи/упаковка: 2975C teardrop 2000 шт., mini 2975C 10000 шт., пластиковые коробки 5pack 2000 шт., пластиковые коробки 2000 шт., картон 350gsm 5000 шт., стикеры 4000 шт., handling fee. Условия: 50% депозит + 50% баланс, TT/PayPal/Alibaba/Bank Transfer; производство 30–35 дней, отгрузка 3–5 дней после полной оплаты. Банк OCBC Wing Hang Bank Limited, счёт 035 808 268499 831, beneficiary YALINA (HK) CO LTD, SWIFT WIHBHKHH. Сумма строки 4 047,50 USD = 50% депозит от общего итога инвойса. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: 55 и 56 — одна сделка, комиссия учтена через /, а не отдельной строкой») — строки 56 объединены с этой: sum = 4047.5 USD; rubles_received = null; sent_rubles_vdx = 338852.25 / 23520.83. Полные notes прежних строк — в Molodezh.removed-rows_55-56_2026-10-23.json.",
     "calc": null,
     "rowId": "mol-000175",
     "companySource": {
@@ -1576,49 +1547,57 @@
     "companyVerified": false
   },
   {
-    "row": 56,
+    "row": 55,
     "date": "2026-10-21",
     "sum": null,
     "currency": null,
     "company": null,
     "color": "FF4FC3F7",
-    "clientName": "Эксперт (Молодёжь)",
+    "clientName": "Ресурсы",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": 23520.83,
+    "sent_rubles_vdx": "39455.64 (VDX)",
     "exchange_to": "VDX",
-    "vdx_rate": 82.42,
-    "received_usdt": 285.09,
+    "vdx_rate": 82.38,
+    "received_usdt": 478.47,
     "sent_usdt": null,
-    "notes": "ПП на VDX №466 от 21.10.2026 (23 520,83 ₽ — вознаграждение) | 📄 22.10.2026 (📨 Молодежь t12361, файл «VDX.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 466 от 21.10.2026** ИСПОЛНЕНО 21.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545, электронно): плательщик **ООО «ЭКСПЕРТ»** (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398) → **VDX SERVICES - FZCO** (ПСБ Ярославль, счёт 40807810000000015414), **23 520,83 ₽**. {VO21100} «оплата вознаграждения агента согласно поручению № 21 от 21.10.2026 на основании Агентского договора №09-02-2/26 от 09.02.2026. Без НДС». Это ВОЗНАГРАЖДЕНИЕ по сделке Shenzhen Yalina (тело — строка 55, ПП №465). Заявки/ордера нет → 🔵 отправка на VDX без заявки.",
+    "notes": null,
     "calc": null,
-    "rowId": "mol-000176"
+    "rowId": "mol-000187"
   },
   {
-    "row": 57,
+    "row": 56,
     "date": "2026-10-22",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
+    "sum": 36281.5,
+    "currency": "USD",
+    "company": "SENSIS",
+    "color": "FFFFFFFF",
     "clientName": "ООО «Сенсис»",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": 39995.05,
+    "sent_rubles_vdx": "2959866.54 / 39995.05",
     "exchange_to": "VDX",
     "vdx_rate": 82.38,
-    "received_usdt": 485.01,
+    "received_usdt": "35893.5 / 485.01",
     "sent_usdt": null,
-    "notes": "ПП на VDX №686 от 22.10.2026 (39 995,05 ₽ — вознаграждение) | 📄 22.10.2026 (📨 Молодежь t12369, файл «686_22102026.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 686 от 22.10.2026** ИСПОЛНЕНО 22.10.2026 (Ф-Л ПАО «БАНК «САНКТ-ПЕТЕРБУРГ» В Г. МОСКВЕ, БИК 044525142, код операции 2786459499982, ЭП Гаджиев Б.К.): плательщик **ООО «Сенсис»** (ИНН 7728599015, КПП 772701001, счёт 40702810377000006220) → **VDX SERVICES-FZCO** (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **39 995,05 ₽**. {VO21100} «Опл аген вознагр по Поруч №5 от 22.10.2026 на сумму 39 995.05 руб., к Агентскому Договору №9414/BSPB от 20.08.26 г. НДС не облагается» — ВОЗНАГРАЖДЕНИЕ по сделке Поручения №5 (тело — 36 281,50 USD / 2 959 866,54 ₽, строка 54), отдельной строкой.",
+    "notes": "📄 22.10.2026 (📨 Молодежь t1370, файл «5 поручение_36 281.50 usd-signed.pdf») — **ПОРУЧЕНИЕ АГЕНТУ VDX SERVICES - FZCO № 5 от 22.10.2026** (к Агентскому договору № 9414/BSPB от 20.08.2026): Принципал **ООО «Сенсис» / SENSIS CO. LTD** (Генеральный директор Гаджиев Б.К.) → Агент VDX SERVICES - FZCO; сумма **36 281,50 USD**; получатель **T.I.T ENG CO., LTD** (7 Floor, Shin-do B/D, 10, Garak-dong, Songpa-gu, Seoul, Korea); банк **Woori Bank KARAKNAMBU BR** (169, Dongnam-ro, Songpa-gu, Seoul, Republic of Korea), SWIFT **HVBKKRSEXXX**, счёт **1081-200-458121**. Назначение: оплата по контракту № SS-PN/2024/BSPB от 08.11.2024 по **Invoice TPI26-101601 R1 от 16.10.2026** для исполнения Поручения № 5 от 22.10.2026. Согласованный курс **81,5806**; сумма к перечислению **2 959 866,54 ₽**; вознаграждение агента **39 995,05 ₽**. Срок отправки — не позднее 3 рабочих дней после зачисления полной суммы. Клиент группы — **Архимед (Молодёжь)**, компания-плательщик **SENSIS**. Поручение (Тип 5) → Step 0; компания известна → ⬜. Расчёт себестоимости ждёт решения Scream (не-Q8). | ПП на VDX №685 от 22.10.2026 (2 959 866,54 ₽ — тело) | 📄 22.10.2026 (📨 Молодежь t12369, файл «685_22102026.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 685 от 22.10.2026** ИСПОЛНЕНО 22.10.2026 (Ф-Л ПАО «БАНК «САНКТ-ПЕТЕРБУРГ» В Г. МОСКВЕ, БИК 044525142, код операции 2786459441735, ЭП Гаджиев Б.К.): плательщик **ООО «Сенсис»** (ИНН 7728599015, КПП 772701001, счёт 40702810377000006220) → **VDX SERVICES-FZCO** (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **2 959 866,54 ₽**. {VO11100} «Оплата за товар по Поруч.№5 от 22.10.2026 к Агентскому Договору №9414/BSPB от 20.08.2026 г., Contract №SS-PN/2024/BSPB от 08.11.2024, Invoice TPI26-101601 R1 от 16.10.2026. НДС не облагается» = ТЕЛО поручения №5 (вознаграждение — отдельной строкой 57, ПП №686). | 📄 22.10.2026 (📨 Молодежь t12369 · файл «PI - Z SOURCE(HK)_2026.10.16_.pdf») — INVOICE № 26-101602 dd 16.10.2026: продавец T.I.T ENG CO., LTD (7 Floor Shin-do B/D, 10 Garak-dong, Songpa-gu, Seoul, Korea; Woori Bank Karaknambu, SWIFT HVBKKRSEXXX, счёт 1081-200-458121) → покупатель Messrs. Z SOURCE LIMITED. Позиции — карточные принтеры N10/N15/N25, ламинатор NL200-DH, ribbon и cleaning kits, 11 позиций; итого 36 281,50 USD; условия 100% T/T in advance, EXW/FCA/FAS, отгрузка через 90 календарных дней после оплаты. Сумма совпадает со строкой. | 📄 22.10.2026 (📨 Молодежь t12369 · файл «payment order 36 281.5 USD.docx») — PAYMENT ORDER от 22.10.2026: AMOUNT 36 281.50 USD, PAYMENT METHOD «Payment for invoice 26-101602 dd 10/16/2026»; BENEFICIARY T.I.T ENG CO., LTD (7 Floor Shin-do B/D, 10 Garak-dong, Songpa-gu, Seoul, Korea); BENEFICIARY BANK Woori Bank KARAKNAMBU BR (169 Dongnam-ro, Songpa-gu, Seoul); ACCOUNT NUMBER 1081-200-458121; SWIFT HVBKKRSEXXX; PAYMENT PURPOSE GOODS. Реквизиты совпадают с инвойсом 26-101602 — строка уже заведена. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: Сенсис — тело и вознаграждение одной сделки через /») — строки 57 объединены с этой: sum = 36281.5 USD; rubles_received = null; sent_rubles_vdx = 2959866.54 / 39995.05. Полные notes прежних строк — в Molodezh.removed-rows_56-57_2026-10-23.json.",
     "calc": null,
-    "rowId": "mol-000177"
+    "rowId": "mol-000174",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "Поручение №5 от 22.10.2026",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
-    "row": 58,
+    "row": 57,
     "date": "2026-10-22",
     "sum": 175846.65,
     "currency": "USD",
@@ -1648,7 +1627,7 @@
     "companyVerified": true
   },
   {
-    "row": 59,
+    "row": 58,
     "date": "2026-10-22",
     "sum": 299150,
     "currency": "USD",
@@ -1677,7 +1656,7 @@
     "companyVerified": false
   },
   {
-    "row": 60,
+    "row": 59,
     "date": "2026-10-22",
     "sum": 93235.59,
     "currency": "USD",
@@ -1706,7 +1685,7 @@
     "companyVerified": false
   },
   {
-    "row": 61,
+    "row": 60,
     "date": "2026-10-22",
     "sum": 36448,
     "currency": "USD",
@@ -1735,7 +1714,7 @@
     "companyVerified": false
   },
   {
-    "row": 62,
+    "row": 61,
     "date": "2026-10-22",
     "sum": 31076,
     "currency": "USD",
@@ -1764,7 +1743,7 @@
     "companyVerified": false
   },
   {
-    "row": 63,
+    "row": 62,
     "date": "2026-10-22",
     "sum": 34517.25,
     "currency": "USD",
@@ -1793,7 +1772,7 @@
     "companyVerified": false
   },
   {
-    "row": 64,
+    "row": 63,
     "date": "2026-10-22",
     "sum": null,
     "currency": null,
@@ -1812,26 +1791,5 @@
     "notes": "ПП на VDX №468 от 22.10.2026 (51 146,47 ₽ — номер из документа ПП) | 📄 22.10.2026 (📨 Молодежь t12452 · файл «VDX (1).pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 468 от 22.10.2026, электронно, ПРОВЕДЕНО 22.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545): ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398) → VDX SERVICES - FZCO (счёт 40807810000000015414, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ), 51 146,47 ₽ {VO21100} «оплата вознаграждение агента согласно поручению No22 от 22.10.2026 на основании Агентского договора No09-02-2/26 от 09.02.2026». Вознаграждение по сделке AG TECH (строка 63).",
     "calc": null,
     "rowId": "mol-000186"
-  },
-  {
-    "row": 65,
-    "date": "2026-10-21",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
-    "clientName": "Ресурсы",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": "39455.64 (VDX)",
-    "exchange_to": "VDX",
-    "vdx_rate": 82.38,
-    "received_usdt": 478.47,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null,
-    "rowId": "mol-000187"
   }
 ]
