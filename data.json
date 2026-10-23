@@ -3464,6 +3464,27 @@
       "notes": "🏦 приход по выписке: Инвойс услуг БиТрейд 75506 от 23.10.2026 (ВТС, t6167) | 📄 23.10.2026 (📨 ВТС t6167, файл «Поручение 75506.pdf») — ПОРУЧЕНИЕ № 75506 от 23.10.2026 (Приложение №2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; сумма 6 435,07 USD; получатель Qingdao Jiakemu Machinery Manufacture CO., LTD (WEST OF NO. 2 TIANSHAN ROAD, TONGJI SUB DISTRICT, JIMO-CITY QINGDAO CHINA 266200), China Merchants Bank, счёт 5329 0429 2532 866, SWIFT CMBCCNBS400 (Qingdao Branch, Jimo Subbranch, NO.1377 Lanao Road); назначение «PAYMENT BY INVOICE NO: PI-261016-A02 DATE: 2026.10.16»; курс 81,5000; сумма к перечислению 524 458,21 ₽; комиссия Агента 1,5% + 100 USD (то есть 196,53 USD / 16 016,87 ₽ — инвойс 75506); срок 5–10 банковских дней. rubles_received = 524 458,21 / 16 016,87 (тело / агентское). | 📄 23.10.2026 (📨 ВТС t6167, файл «PI-261016-A02 PTS C400W-3200.pdf») — PROFORMA INVOICE № PI-261016-A02 от 16/10/2026: продавец Qingdao Jiakemu Machinery Manufacture CO., LTD (WEST OF NO. 2 TIANSHAN ROAD, TONGJI SUB-DISTRICT, JIMO-CITY QINGDAO, Китай); покупатель ООО «ВТС» (ИНН 7735171132/КПП 772601001, контакт Aleksandr Bondarev). Товар — станок C400W-3200 (HS 84659200): 380V-50HZ-4.0KW-3PHASE, sliding table 3200 mm, spindle moulder φ32, spiral cutter head, Wescott, mortiser, scoring blade, ER20 set, tenoning, main blade, упаковка в деревянный ящик, 1 шт.; итого сумма строки (USD 6 435,07); Payment 100% TT before loading, EX-WORK, срок изготовления 15 дней после оплаты. Банк — China Merchants Bank (Qingdao Branch, Jimo Subbranch), SWIFT CMBCCNBS400; USD-счёт 5329 0429 2532 866. Сумма совпадает со строкой. | 📄 23.10.2026 (📨 ВТС t6167, файл «форма с реквизитами 75506.docx») — реквизиты платежа подтверждены формой: AMOUNT 6 435,07 USD, BENEFICIARY Qingdao Jiakemu Machinery Manufacture CO., LTD (WEST OF NO. 2 TIANSHAN ROAD, TONGJI SUB-DISTRICT, JIMO-CITY QINGDAO CHINA 266200), ACCOUNT 5329 0429 2532 866, China Merchants Bank (Qingdao Branch, Jimo Subbranch, NO.1377 Lanao Road), SWIFT CMBCCNBS400, корсчёт не указан, PAYMENT DETAILS «PAYMENT BY INVOICE NO: PI-261016-A02 DATE: 2026.10.16». Совпадает с поручением 75506 и PI.",
       "calc": null,
       "rowId": "main-000370"
+    },
+    {
+      "row": 119,
+      "date": "2026-10-23",
+      "sum": 38095.03,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000371"
     }
   ]
 }
