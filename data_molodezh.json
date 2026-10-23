@@ -1250,23 +1250,31 @@
   {
     "row": 44,
     "date": "2026-10-20",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
+    "sum": 60000,
+    "currency": "USD",
+    "company": "Z SOURCE",
+    "color": "FFFF0000",
     "clientName": "Евразия (Молодёжь)",
     "costFormula": "-",
     "extra": "-",
     "rubles_received": "-",
     "statementRef": null,
-    "sent_rubles_vdx": 5064532.18,
+    "sent_rubles_vdx": "5064532.18",
     "exchange_to": "VDX",
     "vdx_rate": 82.68,
-    "received_usdt": 61193.37,
+    "received_usdt": "61193.37",
     "sent_usdt": null,
-    "notes": "ПП на VDX №115 от 20.10.2026 (5 064 532,18 ₽ — номер из документа ПП) | ПП №115 от 20.10.2026 ИСПОЛНЕН 20.10.2026 (МОРСКОЙ БАНК (АО), БИК 044525095, ЭП Поплавская Ольга Валерьевна): ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), 5 064 532,18 ₽ {VO60081} «Перевод в пользу Eurasia Logistics Co., Ltd Субагентский договор № СА-2026-3108-01 от 31.08.26 поручение 4 от 20.10.2026, оплата за лог. услуги», НДС не облагается. ⚠️ заявки нет — 🔵 отправка на VDX без заявки.",
+    "notes": "ПП на VDX №115 от 20.10.2026 (5 064 532,18 ₽ — номер из документа ПП) | ПП №115 от 20.10.2026 ИСПОЛНЕН 20.10.2026 (МОРСКОЙ БАНК (АО), БИК 044525095, ЭП Поплавская Ольга Валерьевна): ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), 5 064 532,18 ₽ {VO60081} «Перевод в пользу Eurasia Logistics Co., Ltd Субагентский договор № СА-2026-3108-01 от 31.08.26 поручение 4 от 20.10.2026, оплата за лог. услуги», НДС не облагается. ⚠️ заявки нет — 🔵 отправка на VDX без заявки. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: строки 47 и 44 — одна сделка») — строки 47 объединены с этой: sum = 60000 USD; rubles_received = -; sent_rubles_vdx = 5064532.18. Полные notes прежних строк — в Molodezh.removed-rows_44-47_2026-10-23.json.",
     "calc": null,
-    "rowId": "mol-000157"
+    "rowId": "mol-000157",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 15033; date=2026-10-23",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 45,
@@ -1345,35 +1353,6 @@
   },
   {
     "row": 47,
-    "date": "2026-10-20",
-    "sum": 60000,
-    "currency": "USD",
-    "company": "Z SOURCE",
-    "color": "FF92D050",
-    "clientName": "—",
-    "costFormula": "60 000,00 + 0,3% + 30 = 60 210,00 USDT (Z SOURCE Q8)",
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 60210,
-    "notes": "📄 20.10.2026 (📨 Молодежь, файл «payment order.docx») — PAYMENT ORDER от 20/10/2026: AMOUNT 60 000.00 USD; BENEFICIARY Eurasia Logistics Co., Ltd (77/15 Moo 5, Khlong Sam, Khlong Luang, Pathumthani, Thailand); KASIKORN BANK (400/22 Phahon Yothin Bldg, Phahon Yothin Rd, Sam Sen Nai, Phaya Thai); счёт 593-92-0831-5; SWIFT KASITHBK; PAYMENT PURPOSE «Payment for invoice no. 11-10 dated 20.10.2026». Та же сделка, что INVOICE 11-10 — строка одна (r46). | 📄 20.10.2026 (📨 Молодежь, файл «11-10 Invoice (Asia)_USD_customer_Z_SOURCE.pdf») — INVOICE № 11-10 от 20/10/2026 («Eurasia Import and Export» Co., LTD, Tax ID 0105559072558, 77/15 Moo 5, Khlong Sam, Khlong Luang, Pathumthani 12120, Thailand; KASIKORN BANK, счёт 593-92-0831-5, SWIFT KASITHBK) → Company Z SOURCE LIMITED (RM 509 5/F The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL; DBS Bank (Hong Kong), SWIFT DHBKHKHH, счёт 79807112001): Logistics services 1 × 60 000,00 USD, Total 60 000,00 USD, Terms 100% Payment. Компания Z SOURCE по инвойсу; клиент Молодёжи не назван — ждёт уточнения. | | 🔔 BONBILL Payment Certificate 21.10.2026 (📨 ПП компании Q8/Z-source, файл «60000.00 (4).pdf») — Transaction ID O2112793178049478656968, Payment Time 2026-10-21 14:28:42; Payer Z SOURCE LIMITED → Eurasia Logistics Co., Ltd (KASIKORNBANK, счёт 5939208315), USD 60 000,00, Transaction Remarks Invoice 1110 DD 20.10.2026 For Logistics Services, Payment Status Success. ⬜→🟢 (Тип 7 BONBILL Q8), расчёт 60 000,00 + 0,3% + 30 = 60 210,00 USDT.",
-    "calc": null,
-    "rowId": "mol-000161",
-    "companySource": {
-      "source": "invoice",
-      "date": "2026-10-20",
-      "ref": "11-10",
-      "file": "11-10 Invoice (Asia)_USD_customer_Z_SOURCE.pdf"
-    },
-    "companyProvisional": true,
-    "companyVerified": false
-  },
-  {
-    "row": 48,
     "date": "2026-10-21",
     "sum": 8727.3,
     "currency": "USD",
@@ -1394,7 +1373,7 @@
     "rowId": "mol-000173"
   },
   {
-    "row": 49,
+    "row": 48,
     "date": "2026-10-21",
     "sum": 13600,
     "currency": "USD",
@@ -1423,11 +1402,11 @@
     "companyVerified": false
   },
   {
-    "row": 50,
+    "row": 49,
     "date": "2026-10-21",
     "sum": 87290,
     "currency": "USD",
-    "company": null,
+    "company": "Q8 JP",
     "color": "FFFF0000",
     "clientName": "Евразия (Молодёжь)",
     "costFormula": null,
@@ -1441,10 +1420,18 @@
     "sent_usdt": null,
     "notes": "🏦 приход по выписке: ПП №119 от 21.10.2026 ИСПОЛНЕН (МОРСКОЙ БАНК АО) | ПП на VDX №119 от 21.10.2026 (7 314 872,92 ₽ — номер из документа ПП) | 📄 21.10.2026 (📨 Молодежь, файл «исполнено  7314872-92.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №119 от 21.10.2026**, ИСПОЛНЕНО (МОРСКОЙ БАНК (АО), БИК 044525095, ЭП Поплавская Ольга Валерьевна, 21.10.2026): ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), **7 314 872,92 ₽** {VO60081} «Перевод в пользу Hunchun Zhengtong International Freight Forwarding Co., Ltd, субагентский договор № СА-2026-3108-01 от 31.08.26, поручение 5 от 21.10.2026, оплата за лог. услуги, без НДС». Одна ПП — одна строка: ПП №115 (5 064 532,18 ₽) уже в r43, это отдельный платёж. sent_rubles_vdx заполнен. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: строки 50 и 51 — одна сделка») — строки 51 объединены с этой: sum = 87290 USD; rubles_received = null; sent_rubles_vdx = 7314872.92. Полные notes прежних строк — в Molodezh.removed-rows_50-51_2026-10-23.json.",
     "calc": null,
-    "rowId": "mol-000167"
+    "rowId": "mol-000167",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 15032; Q8-0041; date=2026-10-23",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
-    "row": 51,
+    "row": 50,
     "date": "2026-10-21",
     "sum": 6101.86,
     "currency": "USD",
@@ -1473,7 +1460,7 @@
     "companyVerified": false
   },
   {
-    "row": 52,
+    "row": 51,
     "date": "2026-10-21",
     "sum": 3083656,
     "currency": "JPY",
@@ -1502,7 +1489,7 @@
     "companyVerified": false
   },
   {
-    "row": 53,
+    "row": 52,
     "date": "2026-10-21",
     "sum": 4047.5,
     "currency": "USD",
@@ -1531,7 +1518,7 @@
     "companyVerified": false
   },
   {
-    "row": 54,
+    "row": 53,
     "date": "2026-10-22",
     "sum": 36281.5,
     "currency": "USD",
@@ -1560,7 +1547,7 @@
     "companyVerified": false
   },
   {
-    "row": 55,
+    "row": 54,
     "date": "2026-10-22",
     "sum": 175846.65,
     "currency": "USD",
@@ -1590,7 +1577,7 @@
     "companyVerified": true
   },
   {
-    "row": 56,
+    "row": 55,
     "date": "2026-10-22",
     "sum": 299150,
     "currency": "USD",
@@ -1619,7 +1606,7 @@
     "companyVerified": false
   },
   {
-    "row": 57,
+    "row": 56,
     "date": "2026-10-22",
     "sum": 93235.59,
     "currency": "USD",
@@ -1648,7 +1635,7 @@
     "companyVerified": false
   },
   {
-    "row": 58,
+    "row": 57,
     "date": "2026-10-22",
     "sum": 36448,
     "currency": "USD",
@@ -1677,7 +1664,7 @@
     "companyVerified": false
   },
   {
-    "row": 59,
+    "row": 58,
     "date": "2026-10-22",
     "sum": 31076,
     "currency": "USD",
@@ -1706,7 +1693,7 @@
     "companyVerified": false
   },
   {
-    "row": 60,
+    "row": 59,
     "date": "2026-10-22",
     "sum": 34517.25,
     "currency": "USD",
