@@ -694,10 +694,10 @@
     "date": "2026-10-23",
     "sum": 71459,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "71 459,00 + 0,3% + 30 = 71 703,38 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -705,9 +705,17 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null,
-    "rowId": "kon-000063"
+    "sent_usdt": 71703.38,
+    "notes": "📄 23.10.2026 (📨 Константин Просто Группа, файл «Заявка на выплату (MIRAL)71 459,00 usd.xlsx») — Заявка (форма «Необходимые данные для заявки»): сумма платежа 71 459,00 USD; бенефициар MIRAL AUTO CAMP CORP (1105-27, Gyoha-ro, Paju-si, Gyeonggi-do, Korea); банк KOOKMIN BANK, #26 Gukjegeumyung-ro 8-gil, Yeongdeungpo-gu, Seoul, Korea; счёт 270168-11-003534; SWIFT CZNBKRSEXXX; назначение «Advance payment for goods. Customer Number: THP»; Invoice MAC-26THPKG10-C dd SEP,17.2026. Компания-плательщик в заявке не названа → 🔴 (Step 0), ждём ордер/ПП. | ✏️ 23.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 71 459,00 + 0,3% + 30 = 71 703,38 USDT.",
+    "calc": "ТЕЗ",
+    "rowId": "kon-000063",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream 23.10.2026 «Платит Q8»",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
