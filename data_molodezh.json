@@ -1774,7 +1774,7 @@
     "sum": 100000,
     "currency": "USD",
     "company": "Z SOURCE",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Евразия (Молодёжь)",
     "costFormula": null,
     "extra": null,
