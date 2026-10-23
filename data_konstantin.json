@@ -735,7 +735,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 50180,
-    "notes": null,
+    "notes": "📄 23.10.2026 (📨 Константин Просто Группа, файл «EL261019TP-2.pdf») — INVOICE № EL261019TP-2 от 19.10.2026: продавец Shanghai EuroLink Supply Chain Management Co., Ltd. (3rd Floor mezzanine, No. 833 Yinhang Road, Yangpu District, Shanghai, China) → BILL TO Z SOURCE LIMITED (Hong Kong); услуга freight forwarding / организация международной перевозки груза, 1 × 50 000,00 = 50 000,00 USD; Contract No. FRW260926 dated 26.09.2026; срок оплаты 3 дня до 22.10.2026; банк Industrial Bank Co., Ltd. Shanghai Br., USD-счёт 216221400100134359 (CNY 216220100100466999), SWIFT FJIBCNBA600. Компания Z SOURCE (bill-to), клиент Константин (Просто группа) → ⬜. | 📄 23.10.2026 (📨 Константин Просто Группа, файл «Contract FRW260926 - EuroLink_Z SOURCE LIMITED.docx») — CONTRACT No. FRW260926 от 26.09.2026 (Shanghai): Forwarder Shanghai EuroLink Supply Chain Management Co., Ltd. (Legal Representative Yang Ran) ↔ Customer Z SOURCE LIMITED (Director). Предмет — организация и исполнение международной перевозки по заявкам клиента. Подтверждает, что инвойс EL261019TP-2 идёт по этому контракту.",
     "calc": null,
     "rowId": "kon-000064",
     "companySource": {
@@ -743,6 +743,35 @@
       "date": null,
       "ref": "INVOICE № EL261019TP-2 от 19.10.2026",
       "file": "EL261019TP-2.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
+  },
+  {
+    "row": 23,
+    "date": "2026-10-23",
+    "sum": 50000,
+    "currency": "USD",
+    "company": "VARD",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": "(50 000,00 + 100) × 1,005 = 50 350,50 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 50350.5,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000065",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Заявка на выплату 50 000",
+      "file": "50 000.00 USD (14.10.2026).xlsx"
     },
     "companyProvisional": true,
     "companyVerified": false
