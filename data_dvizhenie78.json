@@ -375,5 +375,26 @@
     "notes": "🏦 приход по выписке: Почтабанк 23.10.2026, ПП №1495, счёт 40807810100157518600",
     "calc": null,
     "rowId": "d78-000036"
+  },
+  {
+    "row": 14,
+    "date": "2026-10-23",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ТЕТРА СТРОЙ (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "18867265.34",
+    "statementRef": "Почтабанк 23.10.2026, ПП №1499, счёт 40807810100157518600",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: Почтабанк 23.10.2026, ПП №1499, счёт 40807810100157518600",
+    "calc": null,
+    "rowId": "d78-000037"
   }
 ]
