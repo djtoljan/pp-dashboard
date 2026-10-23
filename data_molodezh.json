@@ -1738,5 +1738,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 60,
+    "date": "2026-10-23",
+    "sum": 8800,
+    "currency": "USD",
+    "company": "Z SOURCE",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": "8 800,00 + 0,3% + 30 = 8 856,40 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 8856.4,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000190",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "PI № Star261021 от 21.10.2026",
+      "file": "8800 USD INVOICE Galaxy-Net Company Limited (2) (1).pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
