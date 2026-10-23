@@ -2825,36 +2825,6 @@
     {
       "row": 97,
       "date": "2026-10-19",
-      "sum": 20197,
-      "currency": "EUR",
-      "company": "MOVELINE",
-      "color": "FF92D050",
-      "clientName": "—",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "| 📄 19.10.2026 (📨 Платежные Поручения, файл «Avis-débit-4008384.pdf») — **AVIS DE DÉBIT** (Olky Payment Service Provider S.A., SWIFT OLKILUL1XXX): DONNEUR D'ORDRE **MOVELINE** (Bureau 326, 59 Rue de Ponthieu, 75008 Paris, France; SIREN 999 785 058, VAT FR47999785058; IBAN FR7619733000010100004887661; director Gurzynska Agata) → BENEFICIAIRE **MILVUS TRAVEL di Sergio Zampetti** (Localita Nibbiano 12, 62032 Camerino, Italy; IBAN IT50U0538768830000042958508); Montant 20 197,00 EUR; Libellé «Invoice 1548 DD. 09-10-2026»; Date exécution 19/10/2026; End To End ID 4008384-01000048876; TX ID V-0048037229-0004008384-01000048876. Платёж исполнен. Клиент не назван — уточняется.",
-      "calc": null,
-      "rowId": "main-000333",
-      "companySource": {
-        "source": "foreign_pp",
-        "file": "Avis-débit-4008384.pdf",
-        "txid": null,
-        "ref": "4008384",
-        "date": null
-      },
-      "companyProvisional": false,
-      "companyVerified": true
-    },
-    {
-      "row": 98,
-      "date": "2026-10-19",
       "sum": 21762.6,
       "currency": "USD",
       "company": "Q8 JP",
@@ -2882,7 +2852,7 @@
       "companyVerified": false
     },
     {
-      "row": 99,
+      "row": 98,
       "date": "2026-10-19",
       "sum": 10300,
       "currency": "USD",
@@ -2911,7 +2881,7 @@
       "companyVerified": false
     },
     {
-      "row": 100,
+      "row": 99,
       "date": "2026-10-19",
       "sum": 49746,
       "currency": "USD",
@@ -2945,7 +2915,7 @@
       }
     },
     {
-      "row": 101,
+      "row": 100,
       "date": "2026-10-20",
       "sum": 20409.53,
       "currency": "EUR",
@@ -2986,7 +2956,7 @@
       ]
     },
     {
-      "row": 102,
+      "row": 101,
       "date": "2026-10-20",
       "sum": 11159.34,
       "currency": "EUR",
@@ -3015,7 +2985,7 @@
       "companyVerified": false
     },
     {
-      "row": 103,
+      "row": 102,
       "date": "2026-10-20",
       "sum": 32562.5,
       "currency": "EUR",
@@ -3044,7 +3014,7 @@
       "companyVerified": false
     },
     {
-      "row": 104,
+      "row": 103,
       "date": "2026-10-20",
       "sum": null,
       "currency": null,
@@ -3065,7 +3035,7 @@
       "rowId": "main-000341"
     },
     {
-      "row": 105,
+      "row": 104,
       "date": "2026-10-21",
       "sum": 17319.37,
       "currency": "EUR",
@@ -3099,7 +3069,7 @@
       }
     },
     {
-      "row": 106,
+      "row": 105,
       "date": "2026-10-21",
       "sum": 38545.82,
       "currency": "EUR",
@@ -3133,7 +3103,7 @@
       }
     },
     {
-      "row": 107,
+      "row": 106,
       "date": "2026-10-21",
       "sum": null,
       "currency": null,
@@ -3154,7 +3124,7 @@
       "rowId": "main-000355"
     },
     {
-      "row": 108,
+      "row": 107,
       "date": "2026-10-21",
       "sum": 21334.01,
       "currency": "EUR",
@@ -3188,7 +3158,7 @@
       }
     },
     {
-      "row": 109,
+      "row": 108,
       "date": "2026-10-22",
       "sum": 69245,
       "currency": "USD",
@@ -3217,7 +3187,7 @@
       "companyVerified": false
     },
     {
-      "row": 110,
+      "row": 109,
       "date": "2026-10-22",
       "sum": 16701.24,
       "currency": "EUR",
@@ -3246,7 +3216,7 @@
       "companyVerified": false
     },
     {
-      "row": 111,
+      "row": 110,
       "date": "2026-10-22",
       "sum": 39495,
       "currency": "USD",
@@ -3275,7 +3245,7 @@
       "companyVerified": false
     },
     {
-      "row": 112,
+      "row": 111,
       "date": "2026-10-22",
       "sum": 34630,
       "currency": "USD",
@@ -3304,7 +3274,7 @@
       "companyVerified": false
     },
     {
-      "row": 113,
+      "row": 112,
       "date": "2026-10-22",
       "sum": 4865,
       "currency": "USD",
@@ -3333,7 +3303,7 @@
       "companyVerified": false
     },
     {
-      "row": 114,
+      "row": 113,
       "date": "2026-10-22",
       "sum": 49293.54,
       "currency": "USD",
@@ -3367,7 +3337,7 @@
       }
     },
     {
-      "row": 115,
+      "row": 114,
       "date": "2026-10-22",
       "sum": 22800,
       "currency": "USD",
@@ -3396,7 +3366,7 @@
       "companyVerified": false
     },
     {
-      "row": 116,
+      "row": 115,
       "date": "2026-10-22",
       "sum": 42886.88,
       "currency": "USD",
@@ -3425,7 +3395,7 @@
       "companyVerified": false
     },
     {
-      "row": 117,
+      "row": 116,
       "date": "2026-10-23",
       "sum": null,
       "currency": null,
@@ -3446,7 +3416,7 @@
       "rowId": "main-000368"
     },
     {
-      "row": 118,
+      "row": 117,
       "date": "2026-10-23",
       "sum": 18100,
       "currency": "EUR",
@@ -3475,7 +3445,7 @@
       "companyVerified": false
     },
     {
-      "row": 119,
+      "row": 118,
       "date": "2026-10-23",
       "sum": 6435.07,
       "currency": "USD",
