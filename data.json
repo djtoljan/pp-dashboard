@@ -3494,6 +3494,27 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 120,
+      "date": "2026-10-23",
+      "sum": 6435.07,
+      "currency": "USD",
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": "Инвойс услуг БиТрейд 75506 от 23.10.2026 (ВТС, t6167)",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: Инвойс услуг БиТрейд 75506 от 23.10.2026 (ВТС, t6167)",
+      "calc": null,
+      "rowId": "main-000370"
     }
   ]
 }
