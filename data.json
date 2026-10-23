@@ -3400,7 +3400,7 @@
       "sum": 18100,
       "currency": "EUR",
       "company": "ATB",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "Спринт Импорт (Платежи по паспортам)",
       "costFormula": "(18 100 × 1,0025 + 80) × 1,11944 = 20 402,07 USDT (XE 23.10.2026: 1 EUR = 1,11944 USD)",
       "extra": null,
