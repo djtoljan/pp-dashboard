@@ -358,10 +358,10 @@
   {
     "row": 13,
     "date": "2026-10-23",
-    "sum": null,
-    "currency": null,
+    "sum": 112588.62,
+    "currency": "EUR",
     "company": null,
-    "color": "FF4FC3F7",
+    "color": "FFFF0000",
     "clientName": "ТЕТРА СТРОЙ (Движение 78)",
     "costFormula": null,
     "extra": null,
