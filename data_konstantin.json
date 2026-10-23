@@ -327,7 +327,15 @@
         "amount": 43194.4,
         "rowId": "kon-000040"
       }
-    ]
+    ],
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 15029; date=2026-10-23",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 10,
@@ -498,10 +506,10 @@
       "ref": "owner_instruction; Scream; батч Q8 14.10.2026; msg из notes строки"
     },
     "companySource": {
-      "source": "unverified-legacy",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "нет основания в notes/документах на 2026-10-17",
-      "backfill": true
+      "ref": "Scream msg 15029; date=2026-10-23",
+      "messageId": null
     },
     "companyProvisional": false,
     "companyVerified": false

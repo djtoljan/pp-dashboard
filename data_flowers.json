@@ -1186,7 +1186,7 @@
     "date": "2026-10-15",
     "sum": 23353,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FF92D050",
     "clientName": "Andes Flowers (Цветы)",
     "costFormula": "23 353,00 / 0,9965 + 50,175 = 23 485,20 USDT",
@@ -1207,9 +1207,9 @@
     },
     "companySource": {
       "source": "owner_instruction",
-      "date": "2026-10-15",
-      "ref": "Scream (голос): компания у всех Q8 (gp morgan)",
-      "messageId": "57365"
+      "date": null,
+      "ref": "Scream msg 15027; date=2026-10-23",
+      "messageId": null
     },
     "companyProvisional": false,
     "companyVerified": false
@@ -1270,7 +1270,7 @@
     "date": "2026-10-19",
     "sum": 76877.51,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FF92D050",
     "clientName": "Modestogroup OU (Цветы)",
     "costFormula": "76 877,51 ÷ 0,996 = 77 186,26; 50,00 ÷ 0,996 = 50,20; итого 77 236,46 USDT (комиссия 0,4%)",
@@ -1286,12 +1286,12 @@
     "calc": null,
     "rowId": "flw-000145",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "FL01/191026",
-      "file": "ModestoGroup_FL01_191026_76877_51_USD.pdf"
+      "ref": "Scream msg 15027; date=2026-10-23",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false,
     "costSource": "operator",
     "costSourceRef": {
@@ -1304,7 +1304,7 @@
     "date": "2026-10-19",
     "sum": 23000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FF92D050",
     "clientName": "PACIFIC AIR CARGO (Цветы)",
     "costFormula": "23 000,00 + 0,35% + 50 = 23 130,50 USDT",
@@ -1320,12 +1320,12 @@
     "calc": null,
     "rowId": "flw-000146",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "PAC-20261019-01",
-      "file": "PACIFIC_AIR_CARGO_Q8_23000_USD.pdf"
+      "ref": "Scream msg 15027; date=2026-10-23",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false,
     "costSource": "operator",
     "costSourceRef": {
@@ -1338,7 +1338,7 @@
     "date": "2026-10-19",
     "sum": 30614.68,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FF92D050",
     "clientName": "ONETEAMCARGO (Цветы)",
     "costFormula": "30 614,68 + 0,35% + 50 = 30 771,83 USDT",
@@ -1354,12 +1354,12 @@
     "calc": null,
     "rowId": "flw-000147",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "30092026",
-      "file": "ONETEAMCARGO_S.A._30614_68.pdf"
+      "ref": "Scream msg 15027; date=2026-10-23",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false,
     "costSource": "operator",
     "costSourceRef": {

@@ -1092,7 +1092,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 22580.03,
-      "notes": "📄 07.10.2026 (📨 Платежи VDX, подпись «**Payment from    ❗️**» — компания-плательщик в сообщении НЕ названа; файл «INV-2026-001278.pdf») — **Заявка/ордер на платёж (Тип 4)**: Beneficiary **SINOP TURIZM YATIRIMLARI SAN.VE TIC.A.S.** (07230, Caglayan Mah. Eski Lara Cad., 291 Gunes apt K2 D5, ANTALYA, TURKEY; VAT 7710330748); Bank **TURKIYE GARANTI BANKASI A.S.** (Caglayan Mah., Barınaklar Blv. No: 32, 07230 Muratpasa, Antalya, Turkiye), SWIFT **TGBATRISXXX**, A/C EUR **TR95 0006 2000 0140 0009 0846 40**; Payment details «**INV. INV-2026/001278, DD. 07.10.2026**»; Amount **20 000,00 EUR**; **OUR**. Приложенный **INVOICE # INV-2026/001278 dd 2026-10-07 UNPAID** (SINOP TURIZM …, VAT 7710330748) → «**ACCOMMODATION @ MAXX ROYAL KEMER**, Arrival 10.10.2026 / Departure 20.10.2026, 2 × Suites Land View», 2 × 10 000 = **20 000,00 EUR**; Due 17.10.2026; Sale Agent LIDIA TUNCKOLLU; IBAN USD TR25…46 39, GBP TR14…46 43. Компания-плательщик не названа — по прецеденту строк 78/92/94 **UK** → Step 3 → ⬜. Клиент VDX. Совпадений по 20 000 / 001278 нет. | 💸 08.10.2026 (📨 ПП компании UK, файл «Sinop Tur 20k eur.pdf» — рендер, штамп читал вижном) — **PAYMENT ORDER DEBIT ADVICE (GRX Global Remit Exchange)**: ремиттер **TRAVELCOM LIMITED** (IBAN GB13TONI04282200006496) → бенефициар **SINOP TURIZM YATIRIMLARI SAN.VE TIC.A.S.** (TR950006200001400009084640, TÜRKİYE GARANTİ BANKASI, TGBATRISXXX), **20 000,00 EUR**; Details «INV-2026/001278, DD.07.10.2026»; Execution Date **10/08/2026**; штамп **IN PROCESS** → подвешенная ПП (отправлено, НЕ исполнено) → ⬜→🟡. | ✅ 08.10.2026 (📨 ПП компании UK, файл «Sinop Tur 20k eur.pdf»; UETR **9e0219b8-bef6-443b-90b2-a484985c0793**) — повтор GRX PAYMENT ORDER DEBIT ADVICE со штампом **EXECUTED** (рендер): TRAVELCOM LIMITED (GB13TONI04282200006496) → SINOP TURIZM YATIRIMLARI SAN.VE TIC.A.S. (TR950006200001400009084640, TGBATRISXXX), 20 000,00 EUR, INV-2026/001278 (DD.07.10.2026) → 🟡→🟢. | ✏️ 19.10.2026 (Scream, ЛС, расчёт Katrin): TRAVELCOM — 20 000 / (0,8937 − 0,45%) = 22 480,03 → +100 = 22 580,03 USDT. | ✏️ 19.10.2026 (Scream, ЛС): расчёт по правилу TRAVELCOM: 20 000 / (0,8937 × 0,9955) + 100 = 22 580,03 USDT.",
+      "notes": "📄 07.10.2026 (📨 Платежи VDX, подпись «**Payment from    ❗️**» — компания-плательщик в сообщении НЕ названа; файл «INV-2026-001278.pdf») — **Заявка/ордер на платёж (Тип 4)**: Beneficiary **SINOP TURIZM YATIRIMLARI SAN.VE TIC.A.S.** (07230, Caglayan Mah. Eski Lara Cad., 291 Gunes apt K2 D5, ANTALYA, TURKEY; VAT 7710330748); Bank **TURKIYE GARANTI BANKASI A.S.** (Caglayan Mah., Barınaklar Blv. No: 32, 07230 Muratpasa, Antalya, Turkiye), SWIFT **TGBATRISXXX**, A/C EUR **TR95 0006 2000 0140 0009 0846 40**; Payment details «**INV. INV-2026/001278, DD. 07.10.2026**»; Amount **20 000,00 EUR**; **OUR**. Приложенный **INVOICE # INV-2026/001278 dd 2026-10-07 UNPAID** (SINOP TURIZM …, VAT 7710330748) → «**ACCOMMODATION @ MAXX ROYAL KEMER**, Arrival 10.10.2026 / Departure 20.10.2026, 2 × Suites Land View», 2 × 10 000 = **20 000,00 EUR**; Due 17.10.2026; Sale Agent LIDIA TUNCKOLLU; IBAN USD TR25…46 39, GBP TR14…46 43. Компания-плательщик не названа — по прецеденту строк 78/92/94 **UK** → Step 3 → ⬜. Клиент VDX. Совпадений по 20 000 / 001278 нет. | 💸 08.10.2026 (📨 ПП компании UK, файл «Sinop Tur 20k eur.pdf» — рендер, штамп читал вижном) — **PAYMENT ORDER DEBIT ADVICE (GRX Global Remit Exchange)**: ремиттер **TRAVELCOM LIMITED** (IBAN GB13TONI04282200006496) → бенефициар **SINOP TURIZM YATIRIMLARI SAN.VE TIC.A.S.** (TR950006200001400009084640, TÜRKİYE GARANTİ BANKASI, TGBATRISXXX), **20 000,00 EUR**; Details «INV-2026/001278, DD.07.10.2026»; Execution Date **10/08/2026**; штамп **IN PROCESS** → подвешенная ПП (отправлено, НЕ исполнено) → ⬜→🟡. | ✅ 08.10.2026 (📨 ПП компании UK, файл «Sinop Tur 20k eur.pdf»; UETR **9e0219b8-bef6-443b-90b2-a484985c0793**) — повтор GRX PAYMENT ORDER DEBIT ADVICE со штампом **EXECUTED** (рендер): TRAVELCOM LIMITED (GB13TONI04282200006496) → SINOP TURIZM YATIRIMLARI SAN.VE TIC.A.S. (TR950006200001400009084640, TGBATRISXXX), 20 000,00 EUR, INV-2026/001278 (DD.07.10.2026) → 🟡→🟢. | ✏️ 19.10.2026 (Scream, ЛС, расчёт Katrin): TRAVELCOM — 20 000 / (0,8937 − 0,45%) = 22 480,03 → +100 = 22 580,03 USDT. | ✏️ 19.10.2026 (Scream, ЛС): расчёт по правилу TRAVELCOM: 20 000 / (0,8937 × 0,9955) + 100 = 22 580,03 USDT. | 🔖 23.10.2026 (Scream): себестоимость по расчёту Q8 JP (÷0,9965 + 50,18), стандартная формула +0,3%+30 снята. | 🔙 23.10.2026 (Scream): ошибочно записанный расчёт Q8-0022 откачен — строка UK, к батчу JP Morgan не относится.",
       "calc": "ТЕЗ",
       "rowId": "main-000239",
       "companySource": {
@@ -1102,7 +1102,12 @@
         "backfill": true
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "откат 23.10.2026: r41 не относится к Q8 JP (UK, 20 000 EUR); значение из бэкапа data.json.bak-rowfix_2026-10-23T05-12-35-134Z",
+        "date": "2026-10-23"
+      }
     },
     {
       "row": 42,
@@ -2198,7 +2203,7 @@
       "date": "2026-10-13",
       "sum": 27672.97,
       "currency": "USD",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "Логолок",
       "costFormula": "27 672,97 / 0,9965 + 50,175 = 27 820,35 USDT",
@@ -2219,9 +2224,9 @@
       },
       "companySource": {
         "source": "owner_instruction",
-        "date": "2026-10-15",
-        "ref": "Scream (голос): компания у всех Q8 (gp morgan)",
-        "messageId": "57365"
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
+        "messageId": null
       },
       "companyProvisional": false,
       "companyVerified": false
@@ -2554,7 +2559,7 @@
       "date": "2026-10-14",
       "sum": 16687.72,
       "currency": "USD",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "16 687,72 / 0,9965 + 50,175 = 16 796,51 USDT",
@@ -2575,9 +2580,9 @@
       },
       "companySource": {
         "source": "owner_instruction",
-        "date": "2026-10-15",
-        "ref": "Scream (голос): компания у всех Q8 (gp morgan)",
-        "messageId": "57365"
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
+        "messageId": null
       },
       "companyProvisional": false,
       "companyVerified": false
@@ -2621,7 +2626,7 @@
       "date": "2026-10-14",
       "sum": 58265.44,
       "currency": "USD",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ООО ЕТЕ",
       "costFormula": "58 265,44 / 0,9965 + 50,175 = 58 520,26 USDT",
@@ -2642,9 +2647,9 @@
       },
       "companySource": {
         "source": "owner_instruction",
-        "date": "2026-10-15",
-        "ref": "Scream (голос): компания у всех Q8 (gp morgan)",
-        "messageId": "57365"
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
+        "messageId": null
       },
       "companyProvisional": false,
       "companyVerified": false
@@ -2654,7 +2659,7 @@
       "date": "2026-10-15",
       "sum": 26994.31,
       "currency": "EUR",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "26 994,31 / 0,8851 + 50,175 = 30 548,77 USDT",
@@ -2675,9 +2680,9 @@
       },
       "companySource": {
         "source": "owner_instruction",
-        "date": "2026-10-15",
-        "ref": "Scream (голос): компания у всех Q8 (gp morgan)",
-        "messageId": "57365"
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
+        "messageId": null
       },
       "companyProvisional": false,
       "companyVerified": false
@@ -2687,10 +2692,10 @@
       "date": "2026-10-15",
       "sum": 11408.57,
       "currency": "EUR",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ООО ЕТЕ",
-      "costFormula": null,
+      "costFormula": "11 408,91 / 0,8851 + 50,175 = 12 940,14 USDT (Q8-0012, таблица Q8 JP 15.10.2026)",
       "extra": null,
       "rubles_received": "1071525.98 / 16073.03",
       "statementRef": null,
@@ -2698,19 +2703,20 @@
       "exchange_to": "VDX",
       "vdx_rate": 83.8,
       "received_usdt": "12965.53",
-      "sent_usdt": null,
-      "notes": "ПП на VDX №149 от 15.10.2026 (1 087 599,01 ₽ — номер из документа ПП) | 🏦 15.10.2026 (📨 Отправки рублей ПП., текст «С БиТрейд на вдх / Сумма 1 087 599.01 транспортные услуги / Заявка 169 / …ВТС ЕТЕ\\\\вход 15.10.26 / ООО ЕТЕ») — рублёвый перевод **с БиТрейд на VDX**, **1 087 599,01 ₽** (транспортные услуги), заявка **169**, клиент **ООО «ЕТЕ»**. rubles_received = приходы ПП №4717/№4718; sent_rubles_vdx = 1 087 599,01 (VDX, заявка 169). Инвойсы Itrix 73316 / БиТрейд №20, Поручение 20. | 📄 15.10.2026 (📨 Отправки рублей ПП., файл «non-resident_order_149_15.10.2026.pdf», «исп») — **ПП №149 от 15.10.2026 ИСПОЛНЕН** (ВТБ «Центральный», 17:05:21): плательщик **ОсОО «БиТрейд Кей Джи»** (ИНН 9909705572, счёт 40807810525640000008) → получатель **ВиДиИкс Сервисез - ФЗКО** (ИНН 9909710068, ПСБ, счёт 40807810000000015414), 1 087 599,01 ₽ {VO60081} «Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.169 от 15.10.2026 за транспортные услуги». Подтверждает sent_rubles_vdx строки. | Q8-сводный 15.10 (Q8-0012, Itrix 73316): rate 0,8851 + TT 50,175 (Scream 15.10.2026). | 📄 16.10.2026 (📨 ПП компании Q8/Z-source, Q8-0013, файл «TFR-68FMWA25 EUR 11408.57 (1).PDF») — TRANSACTION RECEIPT: Q8 GROUP LIMITED → ITRIX CO. LTD. (SIAM COMMERCIAL BANK PCL, счёт 4680000946978, SICOTHBKXXX), EUR 11 408,57, Transaction Status SUCCESS, Remarks «PAYMENT FOR INVOICE 73316», UETR 1093adba-7f6f-497a-92fe-746decdf721b. Подтверждает исполнение — 🟢. | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «1087599.01 (VDX - заявка 169)» → 1087599.01.",
+      "sent_usdt": 12940.14,
+      "notes": "ПП на VDX №149 от 15.10.2026 (1 087 599,01 ₽ — номер из документа ПП) | 🏦 15.10.2026 (📨 Отправки рублей ПП., текст «С БиТрейд на вдх / Сумма 1 087 599.01 транспортные услуги / Заявка 169 / …ВТС ЕТЕ\\\\вход 15.10.26 / ООО ЕТЕ») — рублёвый перевод **с БиТрейд на VDX**, **1 087 599,01 ₽** (транспортные услуги), заявка **169**, клиент **ООО «ЕТЕ»**. rubles_received = приходы ПП №4717/№4718; sent_rubles_vdx = 1 087 599,01 (VDX, заявка 169). Инвойсы Itrix 73316 / БиТрейд №20, Поручение 20. | 📄 15.10.2026 (📨 Отправки рублей ПП., файл «non-resident_order_149_15.10.2026.pdf», «исп») — **ПП №149 от 15.10.2026 ИСПОЛНЕН** (ВТБ «Центральный», 17:05:21): плательщик **ОсОО «БиТрейд Кей Джи»** (ИНН 9909705572, счёт 40807810525640000008) → получатель **ВиДиИкс Сервисез - ФЗКО** (ИНН 9909710068, ПСБ, счёт 40807810000000015414), 1 087 599,01 ₽ {VO60081} «Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.169 от 15.10.2026 за транспортные услуги». Подтверждает sent_rubles_vdx строки. | Q8-сводный 15.10 (Q8-0012, Itrix 73316): rate 0,8851 + TT 50,175 (Scream 15.10.2026). | 📄 16.10.2026 (📨 ПП компании Q8/Z-source, Q8-0013, файл «TFR-68FMWA25 EUR 11408.57 (1).PDF») — TRANSACTION RECEIPT: Q8 GROUP LIMITED → ITRIX CO. LTD. (SIAM COMMERCIAL BANK PCL, счёт 4680000946978, SICOTHBKXXX), EUR 11 408,57, Transaction Status SUCCESS, Remarks «PAYMENT FOR INVOICE 73316», UETR 1093adba-7f6f-497a-92fe-746decdf721b. Подтверждает исполнение — 🟢. | 🏷️ 2026-10-17 (Scream): текстовые пометки вынесены из числовых колонок в notes — Отправили на VDX: было «1087599.01 (VDX - заявка 169)» → 1087599.01. | 🔖 23.10.2026 (Scream): себестоимость по таблице Q8 JP (Q8-0012, rate 0,8851 + TT 50,175).",
       "calc": "ТЕЗ",
       "rowId": "main-000330",
       "costSource": "operator",
       "costSourceRef": {
-        "ref": "owner_instruction; FINIVEST AI #57364/#57365; Scream; 15.10.2026; Q8 gp morgan"
+        "ref": "Q8 JP таблица 15.10.2026 (Q8-0008..0015), rate 0,8851, TT 50,175",
+        "date": "2026-10-23"
       },
       "companySource": {
         "source": "owner_instruction",
-        "date": "2026-10-15",
-        "ref": "Scream (голос): компания у всех Q8 (gp morgan)",
-        "messageId": "57365"
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
+        "messageId": null
       },
       "companyProvisional": false,
       "companyVerified": false
@@ -2720,7 +2726,7 @@
       "date": "2026-10-16",
       "sum": 20649.75,
       "currency": "EUR",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "20 649,75 EUR / 0,8866 + 50,20 = 23 341,14 USDT (батч Q8, курс EUR 0,8866)",
@@ -2736,9 +2742,9 @@
       "calc": "ТЕЗ",
       "rowId": "main-000331",
       "companySource": {
-        "source": "order",
-        "date": "2026-10-20",
-        "ref": "Q8-0032",
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
         "messageId": null
       },
       "companyProvisional": false,
@@ -2851,7 +2857,7 @@
       "date": "2026-10-19",
       "sum": 21762.6,
       "currency": "USD",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "21 762,60 / 0,9965 + 50,18 = 21 889,22 USDT",
@@ -2867,9 +2873,9 @@
       "calc": "ТЕЗ",
       "rowId": "main-000334",
       "companySource": {
-        "source": "order",
+        "source": "owner_instruction",
         "date": null,
-        "ref": "77130",
+        "ref": "Scream msg 15027; date=2026-10-23",
         "messageId": null
       },
       "companyProvisional": false,
@@ -2880,7 +2886,7 @@
       "date": "2026-10-19",
       "sum": 10300,
       "currency": "USD",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ООО ЕТЕ",
       "costFormula": "10 300,00 / 0,996 + 50,20 = 10 391,57 USDT (батч Q8, комиссия 0,4%)",
@@ -2896,14 +2902,13 @@
       "calc": "ТЕЗ",
       "rowId": "main-000335",
       "companySource": {
-        "source": "foreign_pp",
-        "file": "C:\\Users\\Mi Gaming\\.openclaw\\workspace\\pp-agent\\media\\inbound\\openclaw-staged-91901ec5-459c-4a79-9053-37f26a35fa29\\input-TFR-Q38TM3JQ_USD_10300.00---0c173d55-572f-4b6c-bfc3-42040f0b1942.pdf",
-        "txid": null,
-        "ref": "VCA2026000000329",
-        "date": null
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
+        "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": true
+      "companyVerified": false
     },
     {
       "row": 100,
@@ -2944,7 +2949,7 @@
       "date": "2026-10-20",
       "sum": 20409.53,
       "currency": "EUR",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "20 409,53 EUR / 0,8866 + 50,20 = 23 070,20 USDT (батч Q8, курс EUR 0,8866)",
@@ -2960,9 +2965,9 @@
       "calc": "ТЕЗ",
       "rowId": "main-000337",
       "companySource": {
-        "source": "order",
-        "date": "2026-10-20",
-        "ref": "Q8-0031",
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
         "messageId": null
       },
       "companyProvisional": false,
@@ -2985,7 +2990,7 @@
       "date": "2026-10-20",
       "sum": 11159.34,
       "currency": "EUR",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ООО ЕТЕ",
       "costFormula": "11 159,34 / 0,8831 + 50,18 = 12 686,73 USDT",
@@ -3002,8 +3007,8 @@
       "rowId": "main-000338",
       "companySource": {
         "source": "owner_instruction",
-        "date": "2026-10-20",
-        "ref": "Скрин/сообщение Scream 20.10.2026: инвойс 75858 на 11 159",
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
         "messageId": null
       },
       "companyProvisional": false,
@@ -3014,7 +3019,7 @@
       "date": "2026-10-20",
       "sum": 32562.5,
       "currency": "EUR",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "32 562,50 / 0,8831 + 50,18 = 36 923,13 USDT",
@@ -3030,12 +3035,12 @@
       "calc": "ТЕЗ",
       "rowId": "main-000339",
       "companySource": {
-        "source": "invoice",
-        "date": "2026-07-31",
-        "ref": "024",
-        "file": "INV_024 (5).xlsx"
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
@@ -3064,7 +3069,7 @@
       "date": "2026-10-21",
       "sum": 17319.37,
       "currency": "EUR",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
       "costFormula": "17 319,37 / 0,8834 + 50,18 = 19 655,53 USDT (Q8-0045, VDX/Q8-таблица 22.10.2026)",
@@ -3080,12 +3085,12 @@
       "calc": "ТЕЗ",
       "rowId": "main-000353",
       "companySource": {
-        "source": "invoice",
-        "date": "2026-10-21",
-        "ref": "059-212026-FIT",
-        "file": "59-Karting-Q8-FIT-211026 (1).pdf"
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false,
       "costSource": "operator",
       "costSourceRef": {
@@ -3098,7 +3103,7 @@
       "date": "2026-10-21",
       "sum": 38545.82,
       "currency": "EUR",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FF4FC3F7",
       "clientName": "ООО ЕТЕ",
       "costFormula": "38 545,82 / 0,8834 + 50,18 = 43 683,66 USDT (Q8-0043, VDX/Q8-таблица 22.10.2026)",
@@ -3114,12 +3119,12 @@
       "calc": "ТЕЗ",
       "rowId": "main-000354",
       "companySource": {
-        "source": "invoice",
-        "date": "2026-10-21",
-        "ref": "74116",
-        "file": "Data Flow invoice 38545"
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Scream msg 15027; date=2026-10-23",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false,
       "costSource": "operator",
       "costSourceRef": {
@@ -3153,7 +3158,7 @@
       "date": "2026-10-21",
       "sum": 21334.01,
       "currency": "EUR",
-      "company": "ВТС",
+      "company": "Q8 JP",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
       "costFormula": "21 334,01 / 0,8834 + 50,18 = 24 200,07 USDT (Q8-0044, VDX/Q8-таблица 22.10.2026)",
@@ -3169,12 +3174,12 @@
       "calc": "ТЕЗ",
       "rowId": "main-000356",
       "companySource": {
-        "source": "invoice",
-        "date": "2026-10-20",
-        "ref": "76964",
-        "file": "Itrix invoice 76964 1.xlsx"
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Scream msg 15027; Q8-0044; date=2026-10-23",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false,
       "costSource": "operator",
       "costSourceRef": {
@@ -3332,7 +3337,7 @@
       "date": "2026-10-22",
       "sum": 49293.54,
       "currency": "USD",
-      "company": "Q8",
+      "company": "Q8 JP",
       "color": "FFFFFFFF",
       "clientName": "ООО «Авандис»",
       "costFormula": "49 293,54 / 0,9965 + 50,18 = 49 516,85 USDT (Q8-0046, батч «-Q8-» 22.10.2026; курс USD→USDT 0,9965)",
@@ -3350,7 +3355,7 @@
       "companySource": {
         "source": "owner_instruction",
         "date": null,
-        "ref": "скриншот «-Q8-» от Scream 22.10.2026 (заявка Q8-0046",
+        "ref": "Scream msg 15027; date=2026-10-23",
         "messageId": null
       },
       "companyProvisional": false,
