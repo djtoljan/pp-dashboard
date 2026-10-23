@@ -1745,7 +1745,7 @@
     "sum": 8800,
     "currency": "USD",
     "company": "Z SOURCE",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Вилог",
     "costFormula": "8 800,00 + 0,3% + 30 = 8 856,40 USDT",
     "extra": null,
