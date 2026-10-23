@@ -1509,7 +1509,7 @@
     "sum": 24150,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Novpec (Цветы)",
     "costFormula": "24 150,00 + 0,3% + 30 = 24 252,45 USDT",
     "extra": null,
