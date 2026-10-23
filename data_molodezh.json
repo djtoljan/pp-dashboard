@@ -1767,5 +1767,26 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 61,
+    "date": "2026-10-23",
+    "sum": 100000,
+    "currency": "USD",
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Евразия (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": "ПП №128 от 23.10.2026 Евразия Логистикс → VDX, в пользу ZIMA CO, LTD, поручение 6",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: ПП №128 от 23.10.2026 Евразия Логистикс → VDX, в пользу ZIMA CO, LTD, поручение 6",
+    "calc": null,
+    "rowId": "mol-000192"
   }
 ]
