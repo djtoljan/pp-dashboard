@@ -1400,7 +1400,7 @@
     "currency": "USD",
     "company": "Z SOURCE",
     "color": "FF92D050",
-    "clientName": "—",
+    "clientName": "Вилог",
     "costFormula": "13 600,00 + 0,3% + 30 = 13 670,80 USDT (Z SOURCE Q8)",
     "extra": null,
     "rubles_received": null,
@@ -1425,55 +1425,26 @@
   {
     "row": 50,
     "date": "2026-10-21",
-    "sum": null,
-    "currency": null,
+    "sum": 87290,
+    "currency": "USD",
     "company": null,
-    "color": "FF4FC3F7",
+    "color": "FFFF0000",
     "clientName": "Евразия (Молодёжь)",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
     "statementRef": "ПП №119 от 21.10.2026 ИСПОЛНЕН (МОРСКОЙ БАНК АО)",
-    "sent_rubles_vdx": "7314872.92 (VDX - ПП 119)",
+    "sent_rubles_vdx": "7314872.92",
     "exchange_to": "VDX",
     "vdx_rate": 82.42,
-    "received_usdt": 88662.44,
+    "received_usdt": "88662.44",
     "sent_usdt": null,
-    "notes": "🏦 приход по выписке: ПП №119 от 21.10.2026 ИСПОЛНЕН (МОРСКОЙ БАНК АО) | ПП на VDX №119 от 21.10.2026 (7 314 872,92 ₽ — номер из документа ПП) | 📄 21.10.2026 (📨 Молодежь, файл «исполнено  7314872-92.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №119 от 21.10.2026**, ИСПОЛНЕНО (МОРСКОЙ БАНК (АО), БИК 044525095, ЭП Поплавская Ольга Валерьевна, 21.10.2026): ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), **7 314 872,92 ₽** {VO60081} «Перевод в пользу Hunchun Zhengtong International Freight Forwarding Co., Ltd, субагентский договор № СА-2026-3108-01 от 31.08.26, поручение 5 от 21.10.2026, оплата за лог. услуги, без НДС». Одна ПП — одна строка: ПП №115 (5 064 532,18 ₽) уже в r43, это отдельный платёж. sent_rubles_vdx заполнен.",
+    "notes": "🏦 приход по выписке: ПП №119 от 21.10.2026 ИСПОЛНЕН (МОРСКОЙ БАНК АО) | ПП на VDX №119 от 21.10.2026 (7 314 872,92 ₽ — номер из документа ПП) | 📄 21.10.2026 (📨 Молодежь, файл «исполнено  7314872-92.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №119 от 21.10.2026**, ИСПОЛНЕНО (МОРСКОЙ БАНК (АО), БИК 044525095, ЭП Поплавская Ольга Валерьевна, 21.10.2026): ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), **7 314 872,92 ₽** {VO60081} «Перевод в пользу Hunchun Zhengtong International Freight Forwarding Co., Ltd, субагентский договор № СА-2026-3108-01 от 31.08.26, поручение 5 от 21.10.2026, оплата за лог. услуги, без НДС». Одна ПП — одна строка: ПП №115 (5 064 532,18 ₽) уже в r43, это отдельный платёж. sent_rubles_vdx заполнен. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: строки 50 и 51 — одна сделка») — строки 51 объединены с этой: sum = 87290 USD; rubles_received = null; sent_rubles_vdx = 7314872.92. Полные notes прежних строк — в Molodezh.removed-rows_50-51_2026-10-23.json.",
     "calc": null,
     "rowId": "mol-000167"
   },
   {
     "row": 51,
-    "date": "2026-10-21",
-    "sum": 87290,
-    "currency": "USD",
-    "company": "Q8 JP",
-    "color": "FF92D050",
-    "clientName": "—",
-    "costFormula": "87 290,00 / 0,9965 + 50,18 = 87 646,76 USDT (Order Q8-0041)",
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 87646.76,
-    "notes": "📄 21.10.2026 (📨 Молодежь, файлы «2_5372837554234106896_Z_SOURCE.pdf» + «payment order.docx») — **Заявка (Тип 4)**: INVOICE **2610021** dd 16.10.2026 (ADASI GROUP SDN BHD, N-05-03 Pusat Perdagangan Bandar Bukit Jalil, Persiaran Jalil 3, Kuala Lumpur 57000, Malaysia; MAYBANK BERHAD, SWIFT MBBEMYKL, счёт USD 764418000521) → BILL TO **Z SOURCE LIMITED** (RM 509 5/F The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL; DBS Bank Hong Kong, SWIFT DHBKHKHH, счёт 79807112001), проект Q8 GROUP LIMITED: DUMP KOMATSU HM300-3, serial 3609, 2014/4, FOB NIIGATA, 1 × 87 290,00 = **87 290,00 USD**, Terms Due on receipt. PAYMENT ORDER 21/10/2026 подтверждает: 87 290,00 USD на ADASI GROUP SDN BHD, назначение «Payment for invoice no. 2610021 dated 10.16.2026». Клиент Молодёжи не назван — ждёт уточнения. ⬜ Step 3, Q8-расчёт 87 290,00 + 0,3% + 30 = 87 581,87 USDT. | | 📄 21.10.2026 (📨 Молодежь, файл «2_5372837554234106896_Q8.pdf») — та же INVOICE **2610021** dd 16.10.2026, но **BILL TO Q8 GROUP LIMITED** (18/F The Center, 99 Queen's Road Central, Central, Hong Kong), реквизиты Z SOURCE/DBS в этом варианте не указаны; сумма и предмет те же — DUMP KOMATSU HM300-3, 87 290,00 USD. Компания по инвойсу Z SOURCE → **Q8** (источник invoice), расчёт не изменился: 87 581,87 USDT. |  | 💳 22.10.2026 — TRANSACTION RECEIPT (JP Morgan / Q8 GROUP LIMITED) по Order Q8-0041: перевод 87 290,00 USD на ADASI GROUP SDN BHD (MAYBANK BERHAD, MBBEMYKL, счёт 764418000521), назначение «PAYMENT FOR INVOICE NO. 2610021», Transaction Status SUCCESS, дата 22 OCT 2026, UETR 69f2b0dd-8936-458d-905f-1651ead2f61f. Исполнено → 🟢.",
-    "calc": null,
-    "rowId": "mol-000168",
-    "companySource": {
-      "source": "owner_instruction",
-      "date": null,
-      "ref": "Scream msg 15007; date=2026-10-23",
-      "messageId": null
-    },
-    "companyProvisional": false,
-    "companyVerified": false
-  },
-  {
-    "row": 52,
     "date": "2026-10-21",
     "sum": 6101.86,
     "currency": "USD",
@@ -1502,7 +1473,7 @@
     "companyVerified": false
   },
   {
-    "row": 53,
+    "row": 52,
     "date": "2026-10-21",
     "sum": 3083656,
     "currency": "JPY",
@@ -1531,7 +1502,7 @@
     "companyVerified": false
   },
   {
-    "row": 54,
+    "row": 53,
     "date": "2026-10-21",
     "sum": 4047.5,
     "currency": "USD",
@@ -1560,7 +1531,7 @@
     "companyVerified": false
   },
   {
-    "row": 55,
+    "row": 54,
     "date": "2026-10-22",
     "sum": 36281.5,
     "currency": "USD",
@@ -1589,7 +1560,7 @@
     "companyVerified": false
   },
   {
-    "row": 56,
+    "row": 55,
     "date": "2026-10-22",
     "sum": 175846.65,
     "currency": "USD",
@@ -1619,7 +1590,7 @@
     "companyVerified": true
   },
   {
-    "row": 57,
+    "row": 56,
     "date": "2026-10-22",
     "sum": 299150,
     "currency": "USD",
@@ -1648,7 +1619,7 @@
     "companyVerified": false
   },
   {
-    "row": 58,
+    "row": 57,
     "date": "2026-10-22",
     "sum": 93235.59,
     "currency": "USD",
@@ -1677,7 +1648,7 @@
     "companyVerified": false
   },
   {
-    "row": 59,
+    "row": 58,
     "date": "2026-10-22",
     "sum": 36448,
     "currency": "USD",
@@ -1706,7 +1677,7 @@
     "companyVerified": false
   },
   {
-    "row": 60,
+    "row": 59,
     "date": "2026-10-22",
     "sum": 31076,
     "currency": "USD",
@@ -1735,7 +1706,7 @@
     "companyVerified": false
   },
   {
-    "row": 61,
+    "row": 60,
     "date": "2026-10-22",
     "sum": 34517.25,
     "currency": "USD",
