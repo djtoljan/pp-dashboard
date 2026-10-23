@@ -1356,8 +1356,8 @@
     "date": "2026-10-21",
     "sum": 8727.3,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Z SOURCE",
+    "color": "FFFFFFFF",
     "clientName": "Ресурсы",
     "costFormula": null,
     "extra": null,
@@ -1370,7 +1370,15 @@
     "sent_usdt": null,
     "notes": "ПП на VDX №602 от 21.10.2026 (723 405,90 ₽ — номер из документа ПП) | 🏦 приход по выписке: ПП от 21.10.2026 (Сбербанк) ООО «РЕСУРСЫ» → VDX, prof.inv SR-202610S08RU022, поручение 1 | 📄 21.10.2026 (📨 t12326 · Ресурсы, файл «payments (1).PDF») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ от 21.10.2026, ИСПОЛНЕН** (ПАО Сбербанк, БИК 044525225; подпись Пегов А.А.): ООО «РЕСУРСЫ» (ИНН 7715920986, КПП 771401001, счёт 40702810138000023040) → **VDX SERVICES-FZCO** (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), назначение {VO11100} «Для зачисления по prof.inv № SR-202610S08RU022 от 19.10.2026 за оплату товара, по Поручению №1 от 21.10.2026 к агентскому договору № 1509-2026 от 15.09.2026, НДС не облагается». Сумма сделки — 8 727,30 USD, оплата на VDX (sent_rubles_vdx). Заявки в таблицах не было — строка создана по ПП (🔵). | | 📄 21.10.2026 (📨 t12326 · Ресурсы, файл «PI -202610S08RU022-New HK EXW Shenzhen .pdf») — PROFORMA INVOICE № SR-202610S08RU022 dd 19/10/2026: продавец SHENZHEN SUNRICHER TECHNOLOGY CO. LTD, Наньшань, Шэньчжэнь, контакт Louise Li; покупатель Z SOURCE LIMITED, Гонконг, 18/F The Center, 99 Queens Road Central. Товар DALI: SR-2309PRO-5C 50 шт., SR-2701S-DT7 30 шт., SRP-2309N-36CCT350-1050 300 шт., SRP-2309N-25CCT250-700 50 шт., SRP-2309N-15CCT100-700 50 шт., SR-DA2833P-DA2 100 шт. Итого 8 727,30 USD. Условия T/T EXW Shenzhen, банковские расходы за счёт плательщика, отгрузка от 1 недели до 1 месяца после оплаты. Реквизиты HSBC Hong Kong, SWIFT HSBCHKHHHKH, счёт 741535397838, beneficiary Sunricher Technology Limited. PI-основание к ПП №1 от 21.10.2026 — ООО РЕСУРСЫ → VDX. | | 📄 21.10.2026 (📨 t12326 · Ресурсы, файл «payment order 21.10.docx») — PAYMENT ORDER dd 21/10/2026: amount 8 727,30 USD, beneficiary Sunricher Technology Limited (Flat RM 1402B, The Belgian Bank Building, 721 Nathan Road, Mongkok, Hong Kong), bank HSBC Hong Kong (Head Office, 1 Queens Road Central), account 741535397838, SWIFT HSBCHKHHHKH. Тот же платёж, что по ПП №1 от 21.10.2026 (ООО РЕСУРСЫ → VDX) — заявка подтверждена. | 🔗 2026-10-21 (Scream: «Scream 21.10.2026: клиент Ресурсы — таблица Молодёжь») — строка перенесена из таблицы Main (была row 109, rowId main-000357) в Molodezh (rowId mol-000173). |  | 📄 22.10.2026 BONBILL Payment Certificate (Тип 7): Transaction ID O2113137484530581504886, Payment Time 2026-10-22 13:16:51, Payer Z SOURCE LIMITED → Payee Sunricher Technology Limited, счёт 741535397838, HSBC Hong Kong, USD 8 727,30, Invoice SR202610S08RU022 DD 19.10.2026 For El Parts — по той же сделке, что ПП №1 от 21.10.2026 (prof.inv SR-202610S08RU022). Исполнение на стороне VDX/BONBILL; цвет 🔵 не менял — статус-гард требует Тип 3/Тип 7 Q8 именно для строки, ждёт подтверждения владельца. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: Ресурсы — тело и вознаграждение одной сделки через /») — строки 55 объединены с этой: sum = 8727.3 USD; rubles_received = null; sent_rubles_vdx = 723405.90 / 39455.64. Полные notes прежних строк — в Molodezh.removed-rows_55-48_2026-10-23.json.",
     "calc": null,
-    "rowId": "mol-000173"
+    "rowId": "mol-000173",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 15034; date=2026-10-23",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 48,
@@ -1409,7 +1417,7 @@
     "company": "Q8 JP",
     "color": "FFFFFFFF",
     "clientName": "Евразия (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "87 290,00 / 0,9965 + 50,18 = 87 646,76 USDT (Order Q8-0041)",
     "extra": null,
     "rubles_received": null,
     "statementRef": "ПП №119 от 21.10.2026 ИСПОЛНЕН (МОРСКОЙ БАНК АО)",
@@ -1417,8 +1425,8 @@
     "exchange_to": "VDX",
     "vdx_rate": 82.42,
     "received_usdt": "88662.44",
-    "sent_usdt": null,
-    "notes": "🏦 приход по выписке: ПП №119 от 21.10.2026 ИСПОЛНЕН (МОРСКОЙ БАНК АО) | ПП на VDX №119 от 21.10.2026 (7 314 872,92 ₽ — номер из документа ПП) | 📄 21.10.2026 (📨 Молодежь, файл «исполнено  7314872-92.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №119 от 21.10.2026**, ИСПОЛНЕНО (МОРСКОЙ БАНК (АО), БИК 044525095, ЭП Поплавская Ольга Валерьевна, 21.10.2026): ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), **7 314 872,92 ₽** {VO60081} «Перевод в пользу Hunchun Zhengtong International Freight Forwarding Co., Ltd, субагентский договор № СА-2026-3108-01 от 31.08.26, поручение 5 от 21.10.2026, оплата за лог. услуги, без НДС». Одна ПП — одна строка: ПП №115 (5 064 532,18 ₽) уже в r43, это отдельный платёж. sent_rubles_vdx заполнен. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: строки 50 и 51 — одна сделка») — строки 51 объединены с этой: sum = 87290 USD; rubles_received = null; sent_rubles_vdx = 7314872.92. Полные notes прежних строк — в Molodezh.removed-rows_50-51_2026-10-23.json.",
+    "sent_usdt": 87646.76,
+    "notes": "🏦 приход по выписке: ПП №119 от 21.10.2026 ИСПОЛНЕН (МОРСКОЙ БАНК АО) | ПП на VDX №119 от 21.10.2026 (7 314 872,92 ₽ — номер из документа ПП) | 📄 21.10.2026 (📨 Молодежь, файл «исполнено  7314872-92.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №119 от 21.10.2026**, ИСПОЛНЕНО (МОРСКОЙ БАНК (АО), БИК 044525095, ЭП Поплавская Ольга Валерьевна, 21.10.2026): ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414), **7 314 872,92 ₽** {VO60081} «Перевод в пользу Hunchun Zhengtong International Freight Forwarding Co., Ltd, субагентский договор № СА-2026-3108-01 от 31.08.26, поручение 5 от 21.10.2026, оплата за лог. услуги, без НДС». Одна ПП — одна строка: ПП №115 (5 064 532,18 ₽) уже в r43, это отдельный платёж. sent_rubles_vdx заполнен. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: строки 50 и 51 — одна сделка») — строки 51 объединены с этой: sum = 87290 USD; rubles_received = null; sent_rubles_vdx = 7314872.92. Полные notes прежних строк — в Molodezh.removed-rows_50-51_2026-10-23.json. | 🔧 23.10.2026: после мержа строк расчёт восстановлен по таблице Q8 JP (Q8-0041).",
     "calc": null,
     "rowId": "mol-000167",
     "companySource": {
@@ -1428,7 +1436,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "Q8 JP таблица 21.10.2026 (Q8-0041), rate 0,9965, TT 50,18",
+      "date": "2026-10-23"
+    }
   },
   {
     "row": 50,
