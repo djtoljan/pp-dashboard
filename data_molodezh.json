@@ -1443,7 +1443,7 @@
     "date": "2026-10-21",
     "sum": 87290,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FF92D050",
     "clientName": "—",
     "costFormula": "87 290,00 / 0,9965 + 50,18 = 87 646,76 USDT (Order Q8-0041)",
@@ -1459,12 +1459,12 @@
     "calc": null,
     "rowId": "mol-000168",
     "companySource": {
-      "source": "invoice",
-      "date": "2026-10-16",
-      "ref": "2610021",
-      "file": "2_5372837554234106896_Q8.pdf"
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 15007; date=2026-10-23",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   },
   {
@@ -1472,7 +1472,7 @@
     "date": "2026-10-21",
     "sum": 6101.86,
     "currency": "USD",
-    "company": null,
+    "company": "Q8 JP",
     "color": "FFFF0000",
     "clientName": "Бестакватикс (Молодёжь)",
     "costFormula": null,
@@ -1486,14 +1486,22 @@
     "sent_usdt": null,
     "notes": "ПП на VDX №663 от 21.10.2026 (520 128,40 ₽ — номер из документа ПП) | 🏦 приход по выписке: ПП №55 от 21.10.2026 ООО БЕСТАКВАТИКС → ОсОО Блэкшарк Трейд | 📄 21.10.2026 (📨 ВТС-Fininvest t12286, файлы «Платежное_поручение_№55_от_21102026.pdf» + «Платежное_поручение_№56_от_21102026.pdf») — **Российское ПП (Тип 6)**: ООО «БЕСТАКВАТИКС» (ИНН 7709875125, КПП 772101001, счёт 40702810102500113307, ООО «Банк Точка», БИК 044525104) → ОсОО «Блэкшарк Трейд» (ИНН 9909705614, АО АКИБ «ПОЧТАБАНК» г. Пермь, БИК 045773705, счёт 40807810100157518600). ПП №55 от 21.10.2026 (ОПЛАЧЕНО 21.10.2026) — оплата за услуги и товар по инвойсам №S10/10/2026 от 17.10.2026 и №10/10/2026 от 13.10.2026, агентский договор №201025/1 от 20.10.25, поручение №14 от 21.10.26 {VO21400}; ПП №56 от 21.10.2026 — вознаграждение агента по тому же договору и поручению {VO21100}. Сделка 6 101,86 USD; тело и агентское — в поле rubles_received. 🔵 | | 📄 21.10.2026 (📨 ВТС-Fininvest t12286, файл «Поручение №14  (2).pdf») — **ПОРУЧЕНИЕ № 14 от 21.10.2026** (Transfer request No. 14; Приложение №1 к Агентскому договору № 201025/1 от 20.10.2025): Принципал **ООО «Бестакватикс»** → Агент **ОсОО «Блэкшарк Трейд»**; платёж **6 101,86 USD** по инвойсам 10/10/2026 от 13/10/2026 (товар) и S10/10/2026 от 17/10/2026 (услуги); получатель **AQUA BIOTECH INNOVATIONS CO., LTD.** (98/81 Moo 5, Soi 2/7 Mooban Laddarom Pinklao, Kanchanapisek Road, Bangkuvieng, Bangkruay, Nonthaburi 11130, Thailand), KASIKORNBANK PUBLIC COMPANY LIMITED, счёт 0541103007, SWIFT KASITHBK; назначение «Payment for goods and services provided»; курс 82,8879; сумма в рублях и комиссия агента — в поле rubles_received; срок 2-3 банковских дня. Подписи: ген. дир. Крылов С.С. / директор Курьянов Т.А. | | 📄 21.10.2026 (📨 ВТС-Fininvest t12286, файл «Invoices for payment (13 Oct 2026)10172026 — копия.pdf» — скан, читал вижном) — **INVOICE FOR SERVICES No. S10/10/2026 dd 17 October 2026** (AQUA BIOTECH INNOVATIONS CO., LTD., 98/81 Moo 5 Soi 2/7 Mooban Laddarom Pinklao, Kanchanapisek Road, Bangkuvieng, Bangkruay, Nonthaburi 11130, Thailand) → Customer **«OOO Bestaquatics»** (Fergansky Passage 7/4 — PODV Premises 1 R 1-6,13, B Moscow, 109507; Destination Moscow): Surcharges for selection of goods, storage, maintenance 3 500,00 + Quarantine services 1 893,11 = Grand Total **5 393,11 USD**; Kasikorn Bank Plc. (Surawong branch 054), SWIFT KASITHBK, счёт 054-1-10300-7; General Director Pisit Mathiprechakul; «payment by invoice, contract not concluded». Вторая часть пакета — инвойс 10/10/2026 (товар). Оплата по поручению 14 — 6 101,86 USD по обоим инвойсам. | | 📄 21.10.2026 (📨 ВТС-Fininvest t12286, файл «Invoices for payment (13 Oct 2026)10172026.pdf» — скан, читал вижном) — **SUMMARY INVOICE No. 10/10/2026 dd 13 October 2026** (AQUA BIOTECH INNOVATIONS CO., LTD. → «OOO Bestaquatics», Москва; shipment 13.10.2026, arrival 14.10.2026, flight SU271, AWB 555-4450 7735): заказы ORDERS 100/591/710/678/101, 15 boxes, Grand Total **708,75 USD**; CPT Moscow (INTERCOMS-2010), груз не застрахован, оплата через третьих лиц допустима, договор не заключался. Сходится с поручением 14: услуги S10/10/2026 5 393,11 + товар 10/10/2026 708,75 = 6 101,86 USD. | | 📄 21.10.2026 (📨 ВТС-Fininvest t12286, файл «Untitled21.pdf» — скан, читал вижном) — **Дополнительное соглашение №1 от 20.10.2026 к Агентскому договору № 201025/1 от 20.10.2025** (двуязычное, RU/EN): ООО «БестАкватикс» (Принципал, ген. дир. Крылов Сергей Сергеевич) и ООО «Блэкшарк Трейд» (Агент, ген. дир. Курьянов Тимур Александрович); п.1 — автоматическое продление договора на каждый следующий год, если ни одна сторона не уведомит за 30 календарных дней; п.2 — прочие условия без изменений. Подписи и печати обеих сторон есть. К сделке по поручению 14 — справочно. | | 💸 21.10.2026 (📨 Отправки рублей ПП., текст «С Блэкшарк почто на Видикс / Сумма 520 128,40 оплата услуг и товар по инвойсам / Заявка 854 / …БлэкШарк\\\\БестАкватикс\\\\вход 21.10.26 / ООО БЕСТАКВАТИКС») — рублёвый перевод Блэкшарк (Почтабанк) → VDX 520 128,40 ₽ (заявка 854) = тело 505 770,36 + агентское 14 358,04 по поручению 14. sent_rubles_vdx заполнен. | | 📄 21.10.2026 (📨 Отправки рублей ПП., файл «пп 663.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 663 от 21.10.2026, ИСПОЛНЕНО** (АО АКИБ «ПОЧТОБАНК» г. Пермь, БИК 045773705; ЭП Палий К.К., ID документа 13539513, доставлено по iBank 21.10.2026 18:21 GMT+05): ОсОО «Блэкшарк Трейд» (ИНН 9909705614, счёт 40807810100157518600) → **ВиДиИкс Сервисез - ФЗКО** (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), назначение {VO60081} «Оплата по агент.дог. № 4 от 31.03.2025, согл. заяв. 854 от 21.10.2026 за аквариумных рыбок, НДС не облагается». Подтверждает ранее заполненный sent_rubles_vdx. | | 📄 21.10.2026 (📨 t12286 · Бестакватикс, файл «Invoice 13_Oct_2026_customs.pdf») — таможенный комплект по поставке: **AQUA BIOTECH INNOVATIONS CO., LTD.** (98/81 Moo 5, Soi 2/7 Mooban Laddarom Pinklao, Kanchanapisek Road, Bangkuvieng, Bangkruay, Nonthaburi 11130, Thailand; aquabiotechinnovations@gmail.com) → **Q8 GROUP LIMITED** (Customer EUR015), **Invoice no. 10/10/2026**, Shipment Date 13.10.2026, Arrival Date 14.10.2026, USD: Summary Invoice по заказам 100 / 591 / 710 / 678 / 101 (15 коробок), Invoice for Fish (7 534 голов, включая Xingu River Ray), Packing List; оплата по инвойсу (контракт не заключался), перевод через третьих лиц допускается; банк Kasikorn Bank Plc., Surawong branch (054), SWIFT KASITHBK, счёт 054-1-10300-7. Основание к заявке 854 и оплате на VDX. | | 📄 21.10.2026 (📨 t12286 · Бестакватикс, файл «Invoice for Best Aquatics (13 Oct 2026)- Services.pdf») — **СЕРВИСНЫЙ ИНВОЙС** Aqua Biotech Innovations Co., Ltd (Kasikorn Bank, Surawong branch 054, SWIFT KASITHBK, счёт 054-1-10300-7), USD: 00-30 Surcharges for selection of goods, storage, maintenance — 3 500,00; 00-20 Quarantine services — 1 893,11; **Grand Total 5 393,11 USD**. Оплата счёта = подтверждение оказания услуги, октябрь 2026; перевод через третьих лиц допускается, контракт не заключался. Вместе с товарным Summary Invoice (708,75 USD) даёт 6 101,86 USD — сумму заявки 854. | | 📄 21.10.2026 (📨 t12286 · Бестакватикс, файл «payment order 6101,86USD.docx») — PAYMENT ORDER dd 21/10/2026: amount 6 101,86 USD, beneficiary AQUA BIOTECH INNOVATIONS CO., LTD. (98/81 Moo 5, Soi 2/7 Mooban Laddarom Pinklao, Kanchanapisek Road, Bangkuvieng, Bangkruay, Nonthaburi 11130, Thailand), bank KASIKORNBANK PUBLIC COMPANY LIMITED (TH/764, Bangkok, Phahon Yothin Building, Phahon Yothin Road, Sam Sen Nai, Phaya Thai), account 0541103007, SWIFT KASITHBK; назначение: Payment for invoice No 10/10/2026 dd 13/10/2026 и S10/10/2026 dd 17/10/2026. Заявка 854 подтверждена.",
     "calc": null,
-    "rowId": "mol-000171"
+    "rowId": "mol-000171",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 15007; date=2026-10-23",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 53,
     "date": "2026-10-21",
     "sum": 3083656,
     "currency": "JPY",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FF92D050",
     "clientName": "Евразия (Молодёжь)",
     "costFormula": "3 083 656,00 / 156,2711 + 50,18 = 19 782,91 USDT",
@@ -1509,12 +1517,12 @@
     "calc": null,
     "rowId": "mol-000172",
     "companySource": {
-      "source": "invoice",
-      "date": "2026-10-21",
-      "ref": "MSHY261021-4111",
-      "file": "INv_MIYOSHI_Q8_3083656_21-10-26.pdf"
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 15007; date=2026-10-23",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   },
   {
@@ -1522,7 +1530,7 @@
     "date": "2026-10-21",
     "sum": 4047.5,
     "currency": "USD",
-    "company": "Q8",
+    "company": "PQ18",
     "color": "FFFFFFFF",
     "clientName": "Эксперт (Молодёжь)",
     "costFormula": "4 047,50 + 0,3% + 30 = 4 089,64 USDT",
@@ -1538,12 +1546,12 @@
     "calc": null,
     "rowId": "mol-000175",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "PROFORMA INV202607 dd 24.07.2026; file=Proforma_Invoice(7).pdf",
-      "file": null
+      "ref": "Scream msg 15007; date=2026-10-23",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   },
   {
@@ -1551,10 +1559,10 @@
     "date": "2026-10-22",
     "sum": 36281.5,
     "currency": "USD",
-    "company": "SENSIS",
+    "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "ООО «Сенсис»",
-    "costFormula": null,
+    "costFormula": "36 281,50 + 0,3% + 30 = 36 420,34 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1562,14 +1570,14 @@
     "exchange_to": "VDX",
     "vdx_rate": 82.38,
     "received_usdt": "35893.5 / 485.01",
-    "sent_usdt": null,
+    "sent_usdt": 36420.34,
     "notes": "📄 22.10.2026 (📨 Молодежь t1370, файл «5 поручение_36 281.50 usd-signed.pdf») — **ПОРУЧЕНИЕ АГЕНТУ VDX SERVICES - FZCO № 5 от 22.10.2026** (к Агентскому договору № 9414/BSPB от 20.08.2026): Принципал **ООО «Сенсис» / SENSIS CO. LTD** (Генеральный директор Гаджиев Б.К.) → Агент VDX SERVICES - FZCO; сумма **36 281,50 USD**; получатель **T.I.T ENG CO., LTD** (7 Floor, Shin-do B/D, 10, Garak-dong, Songpa-gu, Seoul, Korea); банк **Woori Bank KARAKNAMBU BR** (169, Dongnam-ro, Songpa-gu, Seoul, Republic of Korea), SWIFT **HVBKKRSEXXX**, счёт **1081-200-458121**. Назначение: оплата по контракту № SS-PN/2024/BSPB от 08.11.2024 по **Invoice TPI26-101601 R1 от 16.10.2026** для исполнения Поручения № 5 от 22.10.2026. Согласованный курс **81,5806**; сумма к перечислению **2 959 866,54 ₽**; вознаграждение агента **39 995,05 ₽**. Срок отправки — не позднее 3 рабочих дней после зачисления полной суммы. Клиент группы — **Архимед (Молодёжь)**, компания-плательщик **SENSIS**. Поручение (Тип 5) → Step 0; компания известна → ⬜. Расчёт себестоимости ждёт решения Scream (не-Q8). | ПП на VDX №685 от 22.10.2026 (2 959 866,54 ₽ — тело) | 📄 22.10.2026 (📨 Молодежь t12369, файл «685_22102026.pdf») — **ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 685 от 22.10.2026** ИСПОЛНЕНО 22.10.2026 (Ф-Л ПАО «БАНК «САНКТ-ПЕТЕРБУРГ» В Г. МОСКВЕ, БИК 044525142, код операции 2786459441735, ЭП Гаджиев Б.К.): плательщик **ООО «Сенсис»** (ИНН 7728599015, КПП 772701001, счёт 40702810377000006220) → **VDX SERVICES-FZCO** (ИНН 9909710068, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), **2 959 866,54 ₽**. {VO11100} «Оплата за товар по Поруч.№5 от 22.10.2026 к Агентскому Договору №9414/BSPB от 20.08.2026 г., Contract №SS-PN/2024/BSPB от 08.11.2024, Invoice TPI26-101601 R1 от 16.10.2026. НДС не облагается» = ТЕЛО поручения №5 (вознаграждение — отдельной строкой 57, ПП №686). | 📄 22.10.2026 (📨 Молодежь t12369 · файл «PI - Z SOURCE(HK)_2026.10.16_.pdf») — INVOICE № 26-101602 dd 16.10.2026: продавец T.I.T ENG CO., LTD (7 Floor Shin-do B/D, 10 Garak-dong, Songpa-gu, Seoul, Korea; Woori Bank Karaknambu, SWIFT HVBKKRSEXXX, счёт 1081-200-458121) → покупатель Messrs. Z SOURCE LIMITED. Позиции — карточные принтеры N10/N15/N25, ламинатор NL200-DH, ribbon и cleaning kits, 11 позиций; итого 36 281,50 USD; условия 100% T/T in advance, EXW/FCA/FAS, отгрузка через 90 календарных дней после оплаты. Сумма совпадает со строкой. | 📄 22.10.2026 (📨 Молодежь t12369 · файл «payment order 36 281.5 USD.docx») — PAYMENT ORDER от 22.10.2026: AMOUNT 36 281.50 USD, PAYMENT METHOD «Payment for invoice 26-101602 dd 10/16/2026»; BENEFICIARY T.I.T ENG CO., LTD (7 Floor Shin-do B/D, 10 Garak-dong, Songpa-gu, Seoul, Korea); BENEFICIARY BANK Woori Bank KARAKNAMBU BR (169 Dongnam-ro, Songpa-gu, Seoul); ACCOUNT NUMBER 1081-200-458121; SWIFT HVBKKRSEXXX; PAYMENT PURPOSE GOODS. Реквизиты совпадают с инвойсом 26-101602 — строка уже заведена. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: Сенсис — тело и вознаграждение одной сделки через /») — строки 57 объединены с этой: sum = 36281.5 USD; rubles_received = null; sent_rubles_vdx = 2959866.54 / 39995.05. Полные notes прежних строк — в Molodezh.removed-rows_56-57_2026-10-23.json.",
     "calc": null,
     "rowId": "mol-000174",
     "companySource": {
-      "source": "order",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "Поручение №5 от 22.10.2026",
+      "ref": "Scream msg 15007; date=2026-10-23",
       "messageId": null
     },
     "companyProvisional": false,
@@ -1580,7 +1588,7 @@
     "date": "2026-10-22",
     "sum": 175846.65,
     "currency": "USD",
-    "company": "JYU INTL INDUSTRY LIMITED",
+    "company": "",
     "color": "FFFFFFFF",
     "clientName": "МИКРОМИР (Молодёжь)",
     "costFormula": null,
@@ -1613,7 +1621,7 @@
     "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "ООО «СТРЕЛОЙ Е-КОММЕРЦ» (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "299 150,00 + 0,3% + 30 = 300 077,45 USDT",
     "extra": "📄 22.10.2026 (📨 Молодежь t12388, файл «Платёжные поручения от 22.10.2026 (1).pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 335 от 22.10.2026, ИСПОЛНЕНО (АО «ТБанк» г. Москва, БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335, счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль), 24 666 233,76 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024, Инвойс № A-PI-202610-201841 от 20.10.2026». Сумма 299 150,00 USD — по сообщению; компания не известна, ждём инвойс/заявку.",
     "rubles_received": null,
     "statementRef": null,
@@ -1621,8 +1629,8 @@
     "exchange_to": "VDX",
     "vdx_rate": 81.6,
     "received_usdt": 301979.99,
-    "sent_usdt": null,
-    "notes": "ПП на VDX №335 от 22.10.2026 (24 666 233,76 ₽ — номер из документа ПП) | 📄 22.10.2026 (📨 Молодежь t12388 · файл «Платёжные поручения от 22.10.2026 (1).pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 335 от 22.10.2026 · ИСПОЛНЕНО (АО «ТБанк» г. Москва · БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335 · счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ» г. Ярославль) · 24 666 233.76 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024 · Инвойс № A-PI-202610-201841 от 20.10.2026». Сумма 299 150.00 USD — по сообщению; компания не известна — ждём инвойс/заявку. | 📄 22.10.2026 (📨 Молодежь t12388 · файл «payment order.docx») — PAYMENT ORDER: AMOUNT 299 150,00 USD, CURRENCY USD; BENEFICIARY TREEPEAK TRADING LIMITED (ROOM 204C, 2/F, Shiu Fat Industrial Building, 139-141 Wai Yip Street, Kwun Tong, KL, Hong Kong); BENEFICIARY BANK DBS Bank (Hong Kong) Limited (18/F, The Center, 99 Queen's Road Central, Central, Hong Kong); ACCOUNT NUMBER 79807107286; SWIFT DHBKHKHH; PAYMENT PURPOSE «Payment for connectors invoice A-PI-202610-201841 dd 20.10.2026». Компания строки — TREEPEAK TRADING LIMITED. | 📄 22.10.2026 (📨 Молодежь t12388 · файл «TREEPEAK_.pdf») — INVOICE № A-PI-202610-201841 от 20.10.2026: продавец Treepeak Trading Limited (Room 204C, 2/F, Shiu Fat Industrial Building, 139-141 Wai Yip Street, Kwun Tong, KL, Hong Kong; katherine.zhu@treepeak.net) → Bill to / Ship to Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL). Позиция Connectors DC26+ (COO China), Order No. ЕК00-002719; итого 299 150,00 USD; условия 100% предоплата до отгрузки, EXW, срок 4 недели. Банк DBS Bank (Hong Kong) Limited, счёт 79807107286, SWIFT DHBKHKHH. Сумма совпадает со строкой.",
+    "sent_usdt": 300077.45,
+    "notes": "ПП на VDX №335 от 22.10.2026 (24 666 233,76 ₽ — номер из документа ПП) | 📄 22.10.2026 (📨 Молодежь t12388 · файл «Платёжные поручения от 22.10.2026 (1).pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 335 от 22.10.2026 · ИСПОЛНЕНО (АО «ТБанк» г. Москва · БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335 · счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ» г. Ярославль) · 24 666 233.76 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024 · Инвойс № A-PI-202610-201841 от 20.10.2026». Сумма 299 150.00 USD — по сообщению; компания не известна — ждём инвойс/заявку. | 📄 22.10.2026 (📨 Молодежь t12388 · файл «payment order.docx») — PAYMENT ORDER: AMOUNT 299 150,00 USD, CURRENCY USD; BENEFICIARY TREEPEAK TRADING LIMITED (ROOM 204C, 2/F, Shiu Fat Industrial Building, 139-141 Wai Yip Street, Kwun Tong, KL, Hong Kong); BENEFICIARY BANK DBS Bank (Hong Kong) Limited (18/F, The Center, 99 Queen's Road Central, Central, Hong Kong); ACCOUNT NUMBER 79807107286; SWIFT DHBKHKHH; PAYMENT PURPOSE «Payment for connectors invoice A-PI-202610-201841 dd 20.10.2026». Компания строки — TREEPEAK TRADING LIMITED. | 📄 22.10.2026 (📨 Молодежь t12388 · файл «TREEPEAK_.pdf») — INVOICE № A-PI-202610-201841 от 20.10.2026: продавец Treepeak Trading Limited (Room 204C, 2/F, Shiu Fat Industrial Building, 139-141 Wai Yip Street, Kwun Tong, KL, Hong Kong; katherine.zhu@treepeak.net) → Bill to / Ship to Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL). Позиция Connectors DC26+ (COO China), Order No. ЕК00-002719; итого 299 150,00 USD; условия 100% предоплата до отгрузки, EXW, срок 4 недели. Банк DBS Bank (Hong Kong) Limited, счёт 79807107286, SWIFT DHBKHKHH. Сумма совпадает со строкой. | 🔖 23.10.2026 (Scream, ЛС): компания Z SOURCE — расчёт по правилу Z SOURCE (сумма + 0,3% + 30).",
     "calc": null,
     "rowId": "mol-000181",
     "companySource": {
@@ -1642,7 +1650,7 @@
     "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "ООО «СТРЕЛОЙ Е-КОММЕРЦ» (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "93 235,59 + 0,3% + 30 = 93 545,30 USDT",
     "extra": "📄 22.10.2026 (📨 Молодежь t12389, файл «Платёжные поручения от 22.10.2026.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 336 от 22.10.2026, ИСПОЛНЕНО (АО «ТБанк» г. Москва, БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335, счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль), 7 687 684,63 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024, Инвойс № NPX260409 от 16.10.2026». Сумма 93 235,59 USD — по сообщению; компания не известна, ждём инвойс/заявку.",
     "rubles_received": null,
     "statementRef": null,
@@ -1650,8 +1658,8 @@
     "exchange_to": "VDX",
     "vdx_rate": 81.6,
     "received_usdt": 94117.61,
-    "sent_usdt": null,
-    "notes": "ПП на VDX №336 от 22.10.2026 (7 687 684,63 ₽ — номер из документа ПП) | 📄 22.10.2026 (📨 Молодежь t12389 · файл «Платёжные поручения от 22.10.2026.pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 336 от 22.10.2026 · ИСПОЛНЕНО (АО «ТБанк» г. Москва · БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335 · счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ» г. Ярославль) · 7 687 684.63 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024 · Инвойс № NPX260409 от 16.10.2026». Сумма 93 235.59 USD — по сообщению; компания не известна — ждём инвойс/заявку. | 📄 22.10.2026 (📨 Молодежь t12389 · файл «NPX260409_final.pdf») — INVOICE № NPX260409 от 16.10.2026: продавец Shenzhen Nuopuxun Technology Co.,Ltd (#3809 Hui Shang Centre, Jiahui New Town, 3027 Shennan Zhong Road, Futian District, Shenzhen; Linda, zhz@yldzzy.com) → Buyer Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL). Позиция Connectors, 1500 шт.; итого 93 235,59 USD; EXW, PREPAYMENT. Банк Standart Chartered Bank (Hong Kong) Limited (Branch Code 003), счёт 36896137267, SWIFT SCBLHKHHXXX. Сумма совпадает со строкой. | 📄 22.10.2026 (📨 Молодежь t12389 · файл «payment order.docx») — PAYMENT ORDER: AMOUNT 93 235,59 USD, CURRENCY USD; BENEFICIARY Shenzhen Nuopuxun Technology Co.,Ltd (#3809 Hui Shang Centre, Jiahui New Town, 3027 Shennan Zhong Road, Futian Street, Futian District, Shenzhen); BENEFICIARY BANK Chartered Bank (Hong Kong) Limited (Floor 32, Standart Chartered Bank, Building 4-4A Des Voeux Road, Central, Hong Kong); ACCOUNT NUMBER 36896137267; SWIFT SCBLHKHHXXX; PAYMENT PURPOSE «Payment for connectors invoice NPX260409 dd 16.10.2026».",
+    "sent_usdt": 93545.3,
+    "notes": "ПП на VDX №336 от 22.10.2026 (7 687 684,63 ₽ — номер из документа ПП) | 📄 22.10.2026 (📨 Молодежь t12389 · файл «Платёжные поручения от 22.10.2026.pdf»). ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 336 от 22.10.2026 · ИСПОЛНЕНО (АО «ТБанк» г. Москва · БИК 044525974): ООО «СТРЕЛОЙ Е-КОММЕРЦ» (ИНН 7840068335 · счёт 40702810510001021286) → VDX SERVICES - FZCO (ИНН 9909710068 · счёт 40807810000000015414 · ПАО «Банк ПСБ» г. Ярославль) · 7 687 684.63 ₽ {VO11100} «Оплата за товар по Доп. соглашению №115 к контракту №170524USD от 17.05.2024 · Инвойс № NPX260409 от 16.10.2026». Сумма 93 235.59 USD — по сообщению; компания не известна — ждём инвойс/заявку. | 📄 22.10.2026 (📨 Молодежь t12389 · файл «NPX260409_final.pdf») — INVOICE № NPX260409 от 16.10.2026: продавец Shenzhen Nuopuxun Technology Co.,Ltd (#3809 Hui Shang Centre, Jiahui New Town, 3027 Shennan Zhong Road, Futian District, Shenzhen; Linda, zhz@yldzzy.com) → Buyer Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL). Позиция Connectors, 1500 шт.; итого 93 235,59 USD; EXW, PREPAYMENT. Банк Standart Chartered Bank (Hong Kong) Limited (Branch Code 003), счёт 36896137267, SWIFT SCBLHKHHXXX. Сумма совпадает со строкой. | 📄 22.10.2026 (📨 Молодежь t12389 · файл «payment order.docx») — PAYMENT ORDER: AMOUNT 93 235,59 USD, CURRENCY USD; BENEFICIARY Shenzhen Nuopuxun Technology Co.,Ltd (#3809 Hui Shang Centre, Jiahui New Town, 3027 Shennan Zhong Road, Futian Street, Futian District, Shenzhen); BENEFICIARY BANK Chartered Bank (Hong Kong) Limited (Floor 32, Standart Chartered Bank, Building 4-4A Des Voeux Road, Central, Hong Kong); ACCOUNT NUMBER 36896137267; SWIFT SCBLHKHHXXX; PAYMENT PURPOSE «Payment for connectors invoice NPX260409 dd 16.10.2026». | 🔖 23.10.2026 (Scream, ЛС): компания Z SOURCE — расчёт по правилу Z SOURCE (сумма + 0,3% + 30).",
     "calc": null,
     "rowId": "mol-000182",
     "companySource": {
@@ -1668,7 +1676,7 @@
     "date": "2026-10-22",
     "sum": 36448,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "Вилог (Молодёжь)",
     "costFormula": "36 448,00 + 0,3% + 30 = 36 587,34 USDT",
@@ -1684,12 +1692,12 @@
     "calc": null,
     "rowId": "mol-000183",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "PO 36448 USD BEIYI (BUYER Q8 GROUP LIMITED)",
-      "file": null
+      "ref": "Scream msg 15007; date=2026-10-23",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   },
   {
@@ -1729,7 +1737,7 @@
     "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "Эксперт (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "34 517,25 + 0,3% + 30 = 34 650,80 USDT",
     "extra": "📄 22.10.2026 (📨 Молодежь t12452, файл «AG TECH LIMITED.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 467 от 22.10.2026, электронно, ПРОВЕДЕНО 22.10.2026 (АО ЮНИКРЕДИТ БАНК Г МОСКВА, БИК 044525545): ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398) → VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, ПАО «БАНК ПСБ» Г ЯРОСЛАВЛЬ, счёт 40807810000000015414), 2 857 807,39 ₽ {VO11100} «для перечисления (AG TECH LIMITED) за товар по Contract No 482-EX20102026 dd 20.10.2026 по PR.IN. AG26101901 DD 20.10.2026, аг.дог. No 09-02-2/26 от 09.02.26». Сумма 34 517,25 USD — по сообщению.",
     "rubles_received": null,
     "statementRef": null,
@@ -1737,8 +1745,8 @@
     "exchange_to": "VDX",
     "vdx_rate": 81.6,
     "received_usdt": "34987.13 / 626.17",
-    "sent_usdt": null,
-    "notes": "ПП на VDX №467 от 22.10.2026 (2 857 807,39 ₽ — номер из документа ПП) | 📄 22.10.2026 (📨 Молодежь t12452 · файл «Платежное поручение 160098.docx») — реквизиты платежа по проформе AG26101901 dd 19.10.2026: AMOUNT 34 517,25 USD; BENEFICIARY AG TECH LIMITED (FLAT/RM C, 23/F, Lucky Plaza, 315-321 Lockhart Rd, Wanchai, HK); BENEF. BANK Ping An Bank Co., Ltd (7/F, Shenzhen Development Bank Building, No. 5047, Shennan East Road, Shenzhen, P.R.C.); ACCOUNT OSA11008685131401; SWIFT SZDBCNBS; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. AG26101901 DD 19.10.2026 FOR TUBES AND TAPE». Сумма совпадает со строкой, реквизиты подтверждены. | 📄 22.10.2026 (📨 Молодежь t12452 · файл «PI.pdf») — PROFORMA INVOICE № AG26101901 от 19.10.2026: AG TECH LIMITED (Flat C, 23/F, Lucky Plaza, 315-321 Lockhart Road, Wan Chai, Hong Kong; тел. 00852-65557188) → Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL). Товар — heat shrinkable tubing / mastic tape, PO 0902: AWAS-R 125/30-2200 400 pcs, AWAS-R 160/42-1500 100 pcs, PM-1502 500 rolls, PM-1571-5 200 m, ADW-300 15/5 2000 m, PM 1513 500 rolls, PM-1571-4 200 m, AMWA 75/22-1000 600 m, AMWA 265/75-1000 100 pcs. Условия 100% T/T in advance, EX WORK. TOTAL USD 34 517,25. Банк Ping An Bank Co., Ltd (SWIFT SZDBCNBS), счёт OSA11008685131401. Сумма совпадает со строкой. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: Эксперт (AG TECH) — тело и вознаграждение одной сделки через /») — строки 62 объединены с этой: sum = 34517.25 USD; rubles_received = null; sent_rubles_vdx = 2857807.39 / 51146.47. Полные notes прежних строк — в Molodezh.removed-rows_61-62_2026-10-23.json.",
+    "sent_usdt": 34650.8,
+    "notes": "ПП на VDX №467 от 22.10.2026 (2 857 807,39 ₽ — номер из документа ПП) | 📄 22.10.2026 (📨 Молодежь t12452 · файл «Платежное поручение 160098.docx») — реквизиты платежа по проформе AG26101901 dd 19.10.2026: AMOUNT 34 517,25 USD; BENEFICIARY AG TECH LIMITED (FLAT/RM C, 23/F, Lucky Plaza, 315-321 Lockhart Rd, Wanchai, HK); BENEF. BANK Ping An Bank Co., Ltd (7/F, Shenzhen Development Bank Building, No. 5047, Shennan East Road, Shenzhen, P.R.C.); ACCOUNT OSA11008685131401; SWIFT SZDBCNBS; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. AG26101901 DD 19.10.2026 FOR TUBES AND TAPE». Сумма совпадает со строкой, реквизиты подтверждены. | 📄 22.10.2026 (📨 Молодежь t12452 · файл «PI.pdf») — PROFORMA INVOICE № AG26101901 от 19.10.2026: AG TECH LIMITED (Flat C, 23/F, Lucky Plaza, 315-321 Lockhart Road, Wan Chai, Hong Kong; тел. 00852-65557188) → Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL). Товар — heat shrinkable tubing / mastic tape, PO 0902: AWAS-R 125/30-2200 400 pcs, AWAS-R 160/42-1500 100 pcs, PM-1502 500 rolls, PM-1571-5 200 m, ADW-300 15/5 2000 m, PM 1513 500 rolls, PM-1571-4 200 m, AMWA 75/22-1000 600 m, AMWA 265/75-1000 100 pcs. Условия 100% T/T in advance, EX WORK. TOTAL USD 34 517,25. Банк Ping An Bank Co., Ltd (SWIFT SZDBCNBS), счёт OSA11008685131401. Сумма совпадает со строкой. | 🔗 2026-10-23 (Scream: «Scream 23.10.2026: Эксперт (AG TECH) — тело и вознаграждение одной сделки через /») — строки 62 объединены с этой: sum = 34517.25 USD; rubles_received = null; sent_rubles_vdx = 2857807.39 / 51146.47. Полные notes прежних строк — в Molodezh.removed-rows_61-62_2026-10-23.json. | 🔖 23.10.2026 (Scream, ЛС): компания Z SOURCE — расчёт по правилу Z SOURCE (сумма + 0,3% + 30).",
     "calc": null,
     "rowId": "mol-000185",
     "companySource": {
