@@ -1531,5 +1531,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 56,
+    "date": "2026-10-26",
+    "sum": 13183.77,
+    "currency": "EUR",
+    "company": "Maoshen Global Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000154",
+    "companySource": {
+      "source": "invoice",
+      "date": "26.10.2026",
+      "ref": null,
+      "file": "Invoice_Avrora_Maoshen_13183_77_EUR_26-Oct-2026.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
