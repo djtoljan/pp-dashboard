@@ -454,5 +454,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 17,
+    "date": "2026-10-26",
+    "sum": 9920,
+    "currency": "USD",
+    "company": "LEGENDE LOGISTICS CO.,LTD.",
+    "color": "FFFFFFFF",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": "📄 26.10.2026 (📨 Движение 78 t1754, файл «Счета.pdf» — DEBIT NOTE LEGENDE LOGISTICS CO.,LTD для BALTIC LAND LLC) — INVOICE № SZNRAF2608027A от 17.08.2026: RAIL DIVISION, DATIAN → MOSCOW, MBL RBGU4362968/40'HQ, ETD 15.08.2026 — 9920 USD. Банк: CHINA CONSTRUCTION BANK CORPORATION SHENZHEN BRANCH, SWIFT PCBCCNBJSZX, счёт 44214803400220103934 (USD). Тип 1 → ⬜.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "d78-000042",
+    "companySource": {
+      "source": "invoice",
+      "date": "17.08.2026",
+      "ref": "SZNRAF2608027A",
+      "file": "Счета.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
