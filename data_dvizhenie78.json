@@ -396,5 +396,34 @@
     "notes": null,
     "calc": null,
     "rowId": "d78-000039"
+  },
+  {
+    "row": 15,
+    "date": "2026-10-26",
+    "sum": 18200,
+    "currency": "USD",
+    "company": "LEGENDE LOGISTICS CO.,LTD.",
+    "color": "FFFFFFFF",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": "📄 26.10.2026 (📨 Движение 78 t1754, файл «Счета.pdf» — DEBIT NOTE LEGENDE LOGISTICS CO.,LTD для BALTIC LAND LLC) — INVOICE № NGBLEG2608058B от 15.09.2026: OCEAN FREIGHT, NINGBO → ST PETERSBURG, VSL/VOY SANKT-PETERBURG K2611W, MBL CAIU7894095/40'HQ + FITU5565452/40'HQ, 2 960 cartons / 13 912 kg / 136 CBM, ETD 04.09.2026 — 18200 USD. Банк: CHINA CONSTRUCTION BANK CORPORATION SHENZHEN BRANCH, SWIFT PCBCCNBJSZX, счёт 44214803400220103934 (USD). Тип 1 → ⬜.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "d78-000040",
+    "companySource": {
+      "source": "invoice",
+      "date": "15.09.2026",
+      "ref": "NGBLEG2608058B",
+      "file": "Счета.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
