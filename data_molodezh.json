@@ -1909,10 +1909,10 @@
     "date": "2026-10-26",
     "sum": 32709,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "Мосты (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "32 709,00 + 0,3% + 30 = 32 837,13 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1920,9 +1920,17 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 32837.13,
+    "notes": "✏️ 26.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 32 709,00 + 0,3% + 30 = 32 837,13 USDT.",
     "calc": null,
-    "rowId": "mol-000198"
+    "rowId": "mol-000198",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-26",
+      "ref": "Hub001/560",
+      "file": "32_709_00_USD.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
