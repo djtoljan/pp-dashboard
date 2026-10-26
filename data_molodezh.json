@@ -1863,7 +1863,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 18292.62,
-    "notes": "✏️ 26.10.2026 (add-row): company=PQ18 → Q8-расчёт проставлен автоматически, 18 208,00 + 0,3% + 30 = 18 292,62 USDT.",
+    "notes": "✏️ 26.10.2026 (add-row): company=PQ18 → Q8-расчёт проставлен автоматически, 18 208,00 + 0,3% + 30 = 18 292,62 USDT. | 📄 26.10.2026 (📨 Молодёжь t12662, файл «Инвойс_18208.pdf») — COMMERCIAL INVOICE YSET26029 от 14.10.2026: Ningbo Sonsail Appliance Tech Co., Ltd. → PQ18 Limited (DBS Bank Hong Kong, SWIFT DHBKHKHH); 252 шт (ZR 75D GRAFIT + FWD ED800), итого 18 208,00 USD; оплата 30% с PO, остаток до отгрузки, срок 45 дней. | 📄 26.10.2026 (📨 Молодёжь t12662, файл «payment order 18208.docx») — PAYMENT ORDER от 26.10.2026: 18 208,00 USD, bank transfer; Beneficiary NINGBO SONSAIL APPLIANCE TECH CO.,LTD. (Building 19, No. 300 Desheng Road, Zhanqi Town, Yinzhou District, Ningbo, Zhejiang); BANK OF CHINA NINGBO HENGXI SUB-BRANCH, SWIFT BKCHCNBJ92A; назначение Invoice YSET26029 dd 14.10.26, food waste disposers.",
     "calc": null,
     "rowId": "mol-000196",
     "companySource": {
