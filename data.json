@@ -3543,6 +3543,27 @@
       "notes": null,
       "calc": null,
       "rowId": "main-000376"
+    },
+    {
+      "row": 122,
+      "date": "2026-10-23",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "extra": "💸 23.10.2026 (📨 Отправки рублей ПП.) — с Блэкшарк (Почтобанк) на Al Safi: 5 208 847,11 ₽, «перевод собственных средств». Доки на вход: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\FININVEST -БШ-Цветы\\вход 23.10.26\\2. Плательщик — АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ». sent_rubles_vdx = 5 208 847,11 (Al Safi).",
+      "rubles_received": "5208847.11",
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000377"
     }
   ]
 }
