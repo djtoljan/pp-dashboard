@@ -746,5 +746,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 23,
+    "date": "2026-10-26",
+    "sum": 217800,
+    "currency": "EUR",
+    "company": "Melitta Europa GmbH & Co. KG",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "Проформа-инвойс Melitta Europa GmbH & Co. KG № 3975706 от 12.10.2026: F630-211 KAFFEEVOLLAUTOMAT LATTE SELECT SILBER, 660 шт × 330,00 = 217 800,00 EUR; получатель ANGLESEY FOOD COM. (Ташкент), заказ «Mono Truck Latte», FCA Minden, GTIN 400650822797.6 / материал 6781937; условия оплаты 60 дней с даты инвойса",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000067",
+    "companySource": {
+      "source": "invoice",
+      "date": "12.10.2026",
+      "ref": "3975706",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
