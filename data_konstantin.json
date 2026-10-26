@@ -724,7 +724,7 @@
     "sum": 50000,
     "currency": "USD",
     "company": "Z SOURCE",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "50 000,00 + 0,3% + 30 = 50 180,00 USDT",
     "extra": null,
