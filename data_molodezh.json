@@ -1912,7 +1912,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Мосты (Молодёжь)",
-    "costFormula": "32 709,00 ÷ 0,9965 + 50,18 = 32 874,06 USDT (расчёт Scream 26.10.2026, Q8-0056)",
+    "costFormula": "32 709,00 ÷ 0,9965 + 50,18 = 32 874,05 USDT (оператор JP Morgan, Q8-0056)",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1920,7 +1920,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 32874.06,
+    "sent_usdt": 32874.05,
     "notes": "✏️ 26.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 32 709,00 + 0,3% + 30 = 32 837,13 USDT. | 📄 26.10.2026 (📨 Молодёжь t12663, файлы «payment order (1).docx» + «32 709,00 USD.pdf») — PAYMENT ORDER 26/10/2026: 32 709,00 USD; BENEFICIARY Hubei Neoflam Lighter Manufacturing Co.,Ltd (Jinshan Village, Huji Town, Zhongxiang City, Hubei, China); BANK China Construction Bank Hubei Branch (No.709 Jianshe Avenue, Wuhan), IBAN 42050166723600000086, SWIFT PCBCCNBJHPX; PAYMENT PURPOSE FOR LIGHTERS. INVOICE № Hub001/560: LIGHTERS USD 32 709,00, Account Name Q8 GROUP LIMITED → компания Q8 (по инвойсу); клиент Мосты (Молодёжь) → ⬜; Q8-расчёт 32 709,00 + 0,3% + 30 = 32 837,13 USDT.",
     "calc": null,
     "rowId": "mol-000198",
@@ -1931,6 +1931,11 @@
       "file": "32_709_00_USD.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "Scream_FINIVEST_AI_26.10.2026_18-58_Q8-0052..0056_JP-Morgan"
+    },
+    "payment_system": "JP Morgan"
   }
 ]

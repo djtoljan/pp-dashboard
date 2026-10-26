@@ -3252,7 +3252,7 @@
       "company": "Q8",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": "34 630,00 ÷ 0,9965 + 50,18 = 34 801,81 USDT (расчёт Scream 26.10.2026, Q8-0054)",
+      "costFormula": "34 630,00 ÷ 0,9965 + 50,18 = 34 802,06 USDT (оператор JP Morgan, Q8-0054)",
       "extra": "📄 22.10.2026 (📨 ВТС t6103, файл «Поручение 77586-1.pdf» — внутри ПОРУЧЕНИЕ № 77856) — ПОРУЧЕНИЕ № 77856 от 22.10.2026 (Приложение № 2 к договору № 27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи». Платёж 34 630,00 USD по инвойсу PMD20261020A4 от 20.10.2026. Получатель PumidaElectronicsCo.,Limited (Unit 201-69, 1st-3rd Floor, No.15-17, Minzhu Road, Wuchang District; ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD, SWIFT CZCBCN2X, счёт NRA15702002010590005618). Курс 81.9739. Сумма в рублях 2 838 756.16 ₽. Комиссия агента 1.5% + 200 USD.",
       "rubles_received": null,
       "statementRef": null,
@@ -3260,7 +3260,7 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": 34801.81,
+      "sent_usdt": 34802.06,
       "notes": "📄 22.10.2026 (📨 ВТС t6103 · файл «Поручение 77586-1.pdf» — внутри ПОРУЧЕНИЕ № 77856). ПОРУЧЕНИЕ № 77856 от 22.10.2026 (Приложение № 2 к договору № 27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи». Платёж 34 630.00 USD по инвойсу PMD20261020A4 от 20.10.2026. Получатель PumidaElectronicsCo. Limited (Unit 201-69 · 1st-3rd Floor · No.15-17 Minzhu Road · Wuchang District; ZHEJIANG CHOUZHOU COMMERCIAL BANK CO. LTD · SWIFT CZCBCN2X · счёт NRA15702002010590005618). Курс 81.9739. Сумма в рублях 2 838 756.16 ₽. Комиссия агента 1.5% + 200 USD. | 📄 22.10.2026 (📨 ВТС t6103 · файл «PMD20261020A4 - 2.pdf») — PROFORMA INVOICE № PMD20261020A4 dd 20.10.2026 (PumidaElectronicsCo., Limited → Bill To / Ship To Q8 GROUP LIMITED, The Center, 99 Queen's Road Central, Hong Kong): позиция BR-G720-48-32G-R, 2 шт., TOTAL 34 630,00 USD; оплата T/T, отгрузка экспрессом после получения платежа, гарантия 1 год, банковские расходы на покупателе; Zhejiang Chouzhou Commercial Bank, SWIFT CZCBCN2X, счёт NRA15702002010590005618. Сумма совпадает с поручением 77856.",
       "calc": null,
       "rowId": "main-000362",
@@ -3271,7 +3271,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "Scream_FINIVEST_AI_26.10.2026_18-58_Q8-0052..0056_JP-Morgan"
+      },
+      "payment_system": "JP Morgan"
     },
     {
       "row": 112,
@@ -3300,7 +3305,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "Scream_FINIVEST_AI_26.10.2026_18-58_Q8-0052..0056_JP-Morgan"
+      },
+      "payment_system": "JP Morgan"
     },
     {
       "row": 113,
@@ -3392,7 +3402,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "Scream_FINIVEST_AI_26.10.2026_18-58_Q8-0052..0056_JP-Morgan"
+      },
+      "payment_system": "JP Morgan"
     },
     {
       "row": 116,
@@ -3431,7 +3446,7 @@
       "company": "Q8",
       "color": "FFFFFFFF",
       "clientName": "ВТС",
-      "costFormula": "6 435,07 ÷ 0,9965 + 50,18 = 6 507,85 USDT (расчёт Scream 26.10.2026, Q8-0055)",
+      "costFormula": "6 435,07 ÷ 0,9965 + 50,18 = 6 507,84 USDT (оператор JP Morgan, Q8-0055)",
       "extra": null,
       "rubles_received": "524458.21 / 16016.87",
       "statementRef": "Инвойс услуг БиТрейд 75506 от 23.10.2026 (ВТС, t6167)",
@@ -3439,7 +3454,7 @@
       "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": 6507.85,
+      "sent_usdt": 6507.84,
       "notes": "ПП на VDX №163 от 23.10.2026 (540 475,08 ₽ — номер из документа ПП) | 🏦 приход по выписке: Инвойс услуг БиТрейд 75506 от 23.10.2026 (ВТС, t6167) | 📄 23.10.2026 (📨 ВТС t6167, файл «Поручение 75506.pdf») — ПОРУЧЕНИЕ № 75506 от 23.10.2026 (Приложение №2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; сумма 6 435,07 USD; получатель Qingdao Jiakemu Machinery Manufacture CO., LTD (WEST OF NO. 2 TIANSHAN ROAD, TONGJI SUB DISTRICT, JIMO-CITY QINGDAO CHINA 266200), China Merchants Bank, счёт 5329 0429 2532 866, SWIFT CMBCCNBS400 (Qingdao Branch, Jimo Subbranch, NO.1377 Lanao Road); назначение «PAYMENT BY INVOICE NO: PI-261016-A02 DATE: 2026.10.16»; курс 81,5000; сумма к перечислению 524 458,21 ₽; комиссия Агента 1,5% + 100 USD (то есть 196,53 USD / 16 016,87 ₽ — инвойс 75506); срок 5–10 банковских дней. rubles_received = 524 458,21 / 16 016,87 (тело / агентское). | 📄 23.10.2026 (📨 ВТС t6167, файл «PI-261016-A02 PTS C400W-3200.pdf») — PROFORMA INVOICE № PI-261016-A02 от 16/10/2026: продавец Qingdao Jiakemu Machinery Manufacture CO., LTD (WEST OF NO. 2 TIANSHAN ROAD, TONGJI SUB-DISTRICT, JIMO-CITY QINGDAO, Китай); покупатель ООО «ВТС» (ИНН 7735171132/КПП 772601001, контакт Aleksandr Bondarev). Товар — станок C400W-3200 (HS 84659200): 380V-50HZ-4.0KW-3PHASE, sliding table 3200 mm, spindle moulder φ32, spiral cutter head, Wescott, mortiser, scoring blade, ER20 set, tenoning, main blade, упаковка в деревянный ящик, 1 шт.; итого сумма строки (USD 6 435,07); Payment 100% TT before loading, EX-WORK, срок изготовления 15 дней после оплаты. Банк — China Merchants Bank (Qingdao Branch, Jimo Subbranch), SWIFT CMBCCNBS400; USD-счёт 5329 0429 2532 866. Сумма совпадает со строкой. | 📄 23.10.2026 (📨 ВТС t6167, файл «форма с реквизитами 75506.docx») — реквизиты платежа подтверждены формой: AMOUNT 6 435,07 USD, BENEFICIARY Qingdao Jiakemu Machinery Manufacture CO., LTD (WEST OF NO. 2 TIANSHAN ROAD, TONGJI SUB-DISTRICT, JIMO-CITY QINGDAO CHINA 266200), ACCOUNT 5329 0429 2532 866, China Merchants Bank (Qingdao Branch, Jimo Subbranch, NO.1377 Lanao Road), SWIFT CMBCCNBS400, корсчёт не указан, PAYMENT DETAILS «PAYMENT BY INVOICE NO: PI-261016-A02 DATE: 2026.10.16». Совпадает с поручением 75506 и PI. | 🏦 23.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «VTB_битрейд _23.10.2026.pdf») — выписка ВТБ по счёту БиТрейд 40807810525640000008 за 23.10.2026: ВО №4833 приход 524 458,21 ₽ от ООО «ВТС» (счёт 40702810738000140608) «оплата товара по инвойсу PI-261016-A02 от 16.10.2026»; ВО №4834 приход 16 016,87 ₽ от ООО «ВТС» «оплата за посреднические услуги, инвойс 75506 от 23.10.2026». Оба прихода = rubles_received строки. | 💸 23.10.2026 (📨 Отправки рублей ПП., ЛС Scream, папка «вход 23.10.26») — с БиТрейд (ВТБ, счёт 40807810525640000008) на VDX 540 475,08 ₽ «комплектующие», заявка 183, ООО «ВТС». Сумма = оба прихода ВТС по выписке (524 458,21 ₽ по PI-261016-A02 + 16 016,87 ₽ за посреднические услуги, инвойс 75506). sent_rubles_vdx = 540 475,08 (VDX - заявка 183). | 🏦 23.10.2026 (📨 Отправки рублей ПП., файл «non-resident_order_163_23.10.2026.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №163 от 23.10.2026, ИСПОЛНЕН 23.10.2026 в 18:20:50**: ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008, Филиал «Центральный» Банка ВТБ, БИК 044525411) → «ВиДиИкс Сервисез - ФЗКО» (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), **540 475,08 ₽** {VO60081} «Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.183 от 23.10.2026г. за комплектующие, НДС не облагается» — подтверждает sent_rubles_vdx = 540 475,08 (VDX - заявка 183).",
       "calc": null,
       "rowId": "main-000370",
@@ -3450,7 +3465,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "Scream_FINIVEST_AI_26.10.2026_18-58_Q8-0052..0056_JP-Morgan"
+      },
+      "payment_system": "JP Morgan"
     },
     {
       "row": 118,
