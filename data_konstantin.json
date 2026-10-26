@@ -764,7 +764,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 26.10.2026 (📨 Константин Просто Группа, файл «Melitta_250_349_00_EUR_3975706-3975707.xlsx») — заявка на платёж: Beneficiary Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany); банк Deutsche Bank AG (SWIFT DEUTDE3B490), счёт DE03490700280291371300; Amount 250 349,00 EUR; Details of payment: Final payment for proforma invoice 3975706 dd 12.10.2026 and partial payment for proforma invoice 3975707 dd 12.10.2026, customer N 26157, for home appliances. По этой строке (3975706) — полная оплата 217 800,00 EUR.",
     "calc": null,
     "rowId": "kon-000067",
     "companySource": {
@@ -793,7 +793,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 26.10.2026 (📨 Константин Просто Группа, файл «Melitta_250_349_00_EUR_3975706-3975707.xlsx») — заявка на платёж 250 349,00 EUR (Beneficiary Melitta Europa GmbH & Co. KG; Deutsche Bank AG, SWIFT DEUTDE3B490; счёт DE03490700280291371300): Final payment for proforma invoice 3975706 и partial payment for proforma invoice 3975707 dd 12.10.2026. По этой строке (3975707) — частичная оплата 32 549,00 EUR, остаток 185 251,00 EUR ждёт следующего платежа.",
     "calc": null,
     "rowId": "kon-000068",
     "companySource": {
