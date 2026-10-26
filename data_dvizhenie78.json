@@ -332,7 +332,7 @@
     "sum": 109575.3,
     "currency": "EUR",
     "company": "Z SOURCE",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ТЕТРА СТРОЙ (Движение 78)",
     "costFormula": "109 575,30 / 0,88874394918 (FX Q8 26.10.2026: 1 USD = 0,88874394918 EUR) + 0,3% + 30 = 123 692,19 USDT",
     "extra": null,
