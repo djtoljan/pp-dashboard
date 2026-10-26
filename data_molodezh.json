@@ -1881,7 +1881,7 @@
     "sum": 12192,
     "currency": "USD",
     "company": "PQ18",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": "12 192,00 + 0,3% + 30 = 12 258,58 USDT",
     "extra": null,
