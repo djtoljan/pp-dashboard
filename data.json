@@ -3493,6 +3493,35 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 120,
+      "date": "2026-10-26",
+      "sum": 34920,
+      "currency": "USD",
+      "company": "ULUSA EXPORT IMPORT DIS TICARET LTD. STI",
+      "color": "FFFFFFFF",
+      "clientName": "ООО «А-РГО»",
+      "costFormula": null,
+      "extra": "📄 26.10.2026 (📨 ООО А-РГО / Fininvest / ЭТБ, файл «argo CIP moscow.pdf» — скан) — INVOICE № 2026-01822 от 19.01.2026 (ULUSA EXPORT IMPORT DIS TICARET LTD. STI → LLC \"A-RGO\", Калуга): товар 33 948,00 + доставка 972,00 = 34 920,00 USD; 100% PREPAY, CIP Moscow; HALK BANK, IBAN TR74 0001 2009 8590 0053 0004 21, SWIFT TRHBTR2A",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000375",
+      "companySource": {
+        "source": "invoice",
+        "date": "2026-01-19",
+        "ref": "2026-01822",
+        "file": "argo CIP moscow.pdf"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
