@@ -3564,6 +3564,35 @@
       "notes": null,
       "calc": null,
       "rowId": "main-000377"
+    },
+    {
+      "row": 123,
+      "date": "2026-10-26",
+      "sum": 33264,
+      "currency": "EUR",
+      "company": "MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "📄 26.10.2026 (📨 ВТС t6207, файлы «Поручение 77712.pdf» + «инвойс услуги Би трейд 77712.pdf») — ПОРУЧЕНИЕ № 77712 от 26.10.2026 (Приложение №2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; получатель MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI (Esentepe Mah. Buyukdere Cad. Loft Residence 201/40 Sisli/ISTANBUL), TURKIYE GARANTI BANKASI A.S., IBAN TR38 0006 2000 7210 0009 0492 48, SWIFT TGBATRISXXX; назначение: Sales Contract № 06-07/2026 dd 06.07.2026, инвойс PFI 202603 dd 22/10/2026; курс 90,5000; комиссия Агента 1,5% + 100 USD; срок исполнения 5–10 банковских дней. ИНВОЙС услуг БиТрейд № 77712 от 26.10.2026 (ВТС): 498,96 EUR по курсу 90,5 + 100 USD по курсу 81,3. Тип 5 → ⬜.",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000378",
+      "companySource": {
+        "source": "order",
+        "date": "2026-10-26",
+        "ref": "77712",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
