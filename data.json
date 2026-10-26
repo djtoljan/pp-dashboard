@@ -3522,6 +3522,27 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 121,
+      "date": "2026-10-23",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "extra": "💸 23.10.2026 (📨 Отправки рублей ПП.) — с Блэкшарк (Почтобанк) на ВТБ: 5 148 119,68 ₽, «перевод собственных средств». Доки на вход: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\FININVEST -БШ-Цветы\\вход 23.10.26\\1. Плательщик — АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ». rubles_received = 5 148 119,68; маршрут дальше (Al Safi/VDX) — ждём.",
+      "rubles_received": "5148119.68",
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000376"
     }
   ]
 }
