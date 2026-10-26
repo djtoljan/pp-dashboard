@@ -425,5 +425,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 16,
+    "date": "2026-10-26",
+    "sum": 1463,
+    "currency": "USD",
+    "company": "LEGENDE LOGISTICS CO.,LTD.",
+    "color": "FFFFFFFF",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": "📄 26.10.2026 (📨 Движение 78 t1754, файл «Счета.pdf» — DEBIT NOTE LEGENDE LOGISTICS CO.,LTD для BALTIC LAND LLC) — INVOICE № SHALEG2609060A от 09.10.2026: OCEAN FREIGHT, SHANGHAI → VRANGEL BAY, VSL/VOY ZHONG CHUAN HAI 2607N, MBL BMOU2858829/20'GP, 381 cartons / 6 383 kg / 23,76 CBM, ETD 06.10.2026 — 1463 USD. Банк: CHINA CONSTRUCTION BANK CORPORATION SHENZHEN BRANCH, SWIFT PCBCCNBJSZX, счёт 44214803400220103934 (USD). Тип 1 → ⬜.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "d78-000041",
+    "companySource": {
+      "source": "invoice",
+      "date": "09.10.2026",
+      "ref": "SHALEG2609060A",
+      "file": "Счета.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
