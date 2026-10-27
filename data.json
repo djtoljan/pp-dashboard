@@ -3621,6 +3621,36 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 124,
+      "date": "2026-10-27",
+      "sum": 48642.82,
+      "currency": "EUR",
+      "company": "Lok Kee",
+      "color": "FFFFFFFF",
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000381",
+      "companySource": {
+        "source": "foreign_pp",
+        "file": "e8457e38-dc8e-41fe-a3ed-48c1061df3ec.jpg",
+        "txid": null,
+        "ref": "JPM-20261027-BR0925",
+        "date": "2026-10-27"
+      },
+      "companyProvisional": false,
+      "companyVerified": true
     }
   ]
 }
