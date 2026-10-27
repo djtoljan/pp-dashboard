@@ -782,7 +782,7 @@
     "sum": 97130,
     "currency": "EUR",
     "company": "ATB",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(97 130,00 × 1,0025 + 80) × 1,11395 = 108 557,57 USDT (XE EUR/USD 1,11395, 27.10.2026)",
     "extra": null,
