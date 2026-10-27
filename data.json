@@ -3694,6 +3694,27 @@
       "notes": "📄 27.10.2026 (📨 ИП Сыромятников, фото «PROFORMA INVOICE» Haewon Global) — P/I № HWG2026-1001-01PI от 02.10.2026, контракт HWG2026-1001-01C от 01.10.2026: SELLER HAEWON GLOBAL Co., Ltd (14117 #13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do, Республика Корея); BUYER IP SYROMYATNIKOVA OLGA GENNADIEVNA (44024, г. Омск, ул. Лермонтова, д. 62, кв. 20). Товар: PET CHIPS grade YS-Y01 (IV 0.83), HS 3907610000, 230 MT; итого RMB 1 778 659,00 (CNY). Условия: частичные платежи допускаются, 100% до 30.10.2026; FOB Dalian, выгрузка Владивосток. Банк продавца: Industrial Bank of Korea, счёт 931-038712-56-00019, отделение PYEONGCHON IT, SWIFT IBKOKRSEXXX. Компания-плательщик в документе не названа (на фото сверху реквизиты ВТБ, печать российского ООО) — строка 🔴, ждёт компанию/заявку. | 📄 27.10.2026 (📨 ИП Сыромятников, файл «Z SOURCE LIMITED.pdf») — ACCOUNT CONFIRMATION от 14.09.2026, выдан BONBILL LIMITED: Account Name Z SOURCE LIMITED, Account Number 79807112001, валюты USD/CNH/GBP/EUR/JPY/SGD/CAD/AUD/HKD, банк DBS Bank (Hong Kong) Limited (18/F, The Center, 99 Queen's Road Central, Central, Hong Kong), BIC DHBKHKHH. Это подтверждение счёта компании-плательщика (не инвойс/не поручение); к проформе Haewon отношения по документу не заявлено — компания строки не менялась. | 📄 27.10.2026 (📨 ИП Сыромятников, файл «Z-source 登记变更.pdf») — BUSINESS REGISTRATION CERTIFICATE (Business Registration Ordinance, Form 2, Hong Kong): Name of Business Z SOURCE LIMITED; адрес RM 509 5/F THE CLOUD, 111 TUNG CHAU STREET, TAI KOK TSUI, KL; характер деятельности: импорт/экспорт товаров и технологий, разработка электроники, телеком-услуги, бизнес-консалтинг; статус BODY CORPORATE; дата начала 01.04.2026, действует до 31.03.2027; Certificate No 77942770-000-04-26-4. Документ подтверждает существование и реквизиты Z SOURCE LIMITED (к проформе Haewon прямого отношения не заявляет) — компания строки не менялась.",
       "calc": null,
       "rowId": "main-000385"
+    },
+    {
+      "row": 127,
+      "date": "2026-10-27",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "2751939.23",
+      "statementRef": "ПП №94 от 27.10.2026, АО АКИБ ПОЧТОБАНК, счёт 40807810100157518600",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: ПП №94 от 27.10.2026, АО АКИБ ПОЧТОБАНК, счёт 40807810100157518600",
+      "calc": null,
+      "rowId": "main-000386"
     }
   ]
 }
