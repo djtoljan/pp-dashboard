@@ -775,5 +775,34 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 24,
+    "date": "2026-10-27",
+    "sum": 97130,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 27.10.2026 (📨 FINIVEST AI, переслал Ks (@KS911KS), файл «inv BZT 130 033.40 eur ATB Service GmbH.pdf») — PRO FORMA INVOICE № D-BZT-47 от 26.10.2026 (BZT Master Cargo Kft, 1141 Budapest, Mogyoródi út 85, tax 33020048-2-42) → CUSTOMER ATB Service GmbH (Berlin, Nonnendammallee 22, EU VAT DE463202384): Miele WEI895 WCS 125 Gala Edition 20 шт × 2 482,67 EUR = 49 653,40 EUR + Miele WTR870WPM PWash&TDos 50 шт × 1 607,60 EUR = 80 380,00 EUR; итого 130 033,40 EUR, VAT 0, due date 05.11.2026. Платёж: SYMOCO PAYMENTS LTD, IBAN LT843981120000002353, UAB Stanhope Financial (SWIFT USTILT2VXXX), reference «BZT Master Cargo Kft». Ставка MNB 366,95 HUF, gross 47 715 756 HUF. Компания ATB подтверждена инвойсом → ⬜; клиент не назван. | 🔗 2026-10-27 (Scream: «Scream/заявка 27.10.2026: Application 97 130 EUR по инвойсу D-BZT-47 — сделка Константина (группа «Константин Просто Группа»), не Main») — строка перенесена из таблицы Main (была row 125, rowId main-000383) в Konstantin (rowId kon-000069). | 📄 27.10.2026 (📨 Константин Просто Группа, файл «97130 EUR (26.10.2026).xlsx») — APPLICATION FOR TRANSFER (заявка на перевод): сумма 97 130 EUR; beneficiary BZT Master Cargo Kft (HUNGARY, 1141 Budapest, Mogyoródi út 85); bank UAB Stanhope Financial (Lithuania, SWIFT USTILT2VXXX), IBAN LT843981120000002353; назначение «Payment for glue to invoice No. D-BZT-47 dd 26.10.2026». Сумма строки взята ИЗ ЗАЯВКИ (97 130 EUR); инвойс D-BZT-47 на 130 033,40 EUR (Miele WEI895 20 шт + WTR870WPM 50 шт) — справочно, оплата частичная (остаток 32 903,40 EUR). ⚠️ Расхождение: в инвойсе товар — стиральные машины Miele, в назначении заявки — «glue»; к уточнению у владельца.",
+    "calc": null,
+    "rowId": "kon-000069",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-26",
+      "ref": "D-BZT-47",
+      "file": "inv BZT 130 033.40 eur ATB Service GmbH.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
