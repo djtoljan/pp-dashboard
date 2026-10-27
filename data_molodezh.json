@@ -1975,8 +1975,8 @@
   {
     "row": 68,
     "date": "2026-10-27",
-    "sum": null,
-    "currency": null,
+    "sum": 63500,
+    "currency": "CNY",
     "company": null,
     "color": "FF4FC3F7",
     "clientName": "Эксперт (Молодёжь)",
@@ -1984,12 +1984,12 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "783316.95 / 32038.91",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "🏦 27.10.2026 (📨 Молодежь · t12774, файлы «ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD.pdf» и «VDX.pdf») — две ПП ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398, АО ЮниКредит Банк) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО Банк ПСБ Ярославль, счёт 40807810000000015414), обе проведены 27.10.2026: ПП № 483 — 783 316,95 ₽, {VO11100} «для перечисления (ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD) за товар по cont.321-EX170323 dd 17.03.2023 по PR.IN.HZH2026E60708 DD 05.10.2026, аг.дог. №09-02-2/26 от 09.02.26, без НДС» = тело; ПП № 484 — 32 038,91 ₽, {VO21100} «оплата вознаграждение агента согласно поручению № 24 от 27.10.2026 на основании Агентского договора №09-02-2/26 от 09.02.2026, без НДС» = агентское. sent_rubles_vdx = «тело / агентское», маршрут VDX. Сделка 63 500,00 CNY — по сообщению владельца (заявки и компании пока нет) → 🔵, vdx_rate не ставил.",
     "calc": null,
     "rowId": "mol-000200"
   }
