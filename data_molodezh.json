@@ -1977,7 +1977,7 @@
     "date": "2026-10-27",
     "sum": 63500,
     "currency": "CNY",
-    "company": null,
+    "company": "TOMO",
     "color": "FF4FC3F7",
     "clientName": "Эксперт (Молодёжь)",
     "costFormula": null,
@@ -1989,8 +1989,16 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "🏦 27.10.2026 (📨 Молодежь · t12774, файлы «ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD.pdf» и «VDX.pdf») — две ПП ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398, АО ЮниКредит Банк) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО Банк ПСБ Ярославль, счёт 40807810000000015414), обе проведены 27.10.2026: ПП № 483 — 783 316,95 ₽, {VO11100} «для перечисления (ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD) за товар по cont.321-EX170323 dd 17.03.2023 по PR.IN.HZH2026E60708 DD 05.10.2026, аг.дог. №09-02-2/26 от 09.02.26, без НДС» = тело; ПП № 484 — 32 038,91 ₽, {VO21100} «оплата вознаграждение агента согласно поручению № 24 от 27.10.2026 на основании Агентского договора №09-02-2/26 от 09.02.2026, без НДС» = агентское. sent_rubles_vdx = «тело / агентское», маршрут VDX. Сделка 63 500,00 CNY — по сообщению владельца (заявки и компании пока нет) → 🔵, vdx_rate не ставил.",
+    "notes": "🏦 27.10.2026 (📨 Молодежь · t12774, файлы «ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD.pdf» и «VDX.pdf») — две ПП ООО «ЭКСПЕРТ» (ИНН 9725006990, КПП 770801001, счёт 40702810620010005398, АО ЮниКредит Банк) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО Банк ПСБ Ярославль, счёт 40807810000000015414), обе проведены 27.10.2026: ПП № 483 — 783 316,95 ₽, {VO11100} «для перечисления (ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD) за товар по cont.321-EX170323 dd 17.03.2023 по PR.IN.HZH2026E60708 DD 05.10.2026, аг.дог. №09-02-2/26 от 09.02.26, без НДС» = тело; ПП № 484 — 32 038,91 ₽, {VO21100} «оплата вознаграждение агента согласно поручению № 24 от 27.10.2026 на основании Агентского договора №09-02-2/26 от 09.02.2026, без НДС» = агентское. sent_rubles_vdx = «тело / агентское», маршрут VDX. Сделка 63 500,00 CNY — по сообщению владельца (заявки и компании пока нет) → 🔵, vdx_rate не ставил. | 📄 27.10.2026 (📨 Молодежь · t12774, файл «Копия_PI(A553+A396)_HZH2026E60708_2026.10.5_EXPERT_LLC.pdf») — PROFORMA INVOICE № HZH2026E60708 от 05.10.2026 (продавец ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO.,LTD, No.18 Xinglong Road, Furniture Garden, Wanquan Industry Base, Pingyang, Wenzhou, Zhejiang; банк Industrial and Commercial Bank of China, Zhejiang Provincial Branch, SWIFT ICBKCNBJZJP, счёт 1203283209045761119) → The Buyer: PT TOMO TRADING GROUP (Jalan Batu Bidak No.88B, Kerobokan Kaja, Kuta Utara, Badung, Bali 80361): массажные кресла F600/A553S-2 (brown/beige) и F100/A396SY-2 (brown/beige), FOB Ningbo, европейская вилка 220V; отгрузка ориентировочно 20.11.2026. Условия оплаты по PI: три платежа — первый депозит (эта же PI, проведён ранее — см. строку 20), второй депозит 63 500 CNY (эта строка), остаток перед отгрузкой. Компания строки = TOMO (Buyer по PI) → проставлена с источником invoice. | 💳 27.10.2026 (📨 Молодежь · t12774, файл «Платежное поручение 160467.docx») — платёжное поручение № 160467: AMOUNT 63 500,00 CNY, получатель ZHEJIANG HAOZHONGHAO HEALTH PRODUCT CO., LTD (No.18 Xinglong Road, Furniture Garden, Wanquan Industry Base, Pingyang, Wenzhou, Zhejiang, China), Industrial and Commercial Bank of China, Zhejiang Provincial Branch (No.68-70 Xinhezhong Road, Pingyang), SWIFT ICBKCNBJZJP, счёт 1203283209045761119; назначение «PAYMENT BY PROFORMA INVOICE NO. HZH2026E60708 DD 05.10.2026 FOR MASSAGE CHAIRS». Сумма и валюта совпадают со строкой — та же сделка; статус исполнения в документе не указан, цвет по нему не менялся (🔵).",
     "calc": null,
-    "rowId": "mol-000200"
+    "rowId": "mol-000200",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-05",
+      "ref": "HZH2026E60708",
+      "file": "Копия_PI(A553+A396)_HZH2026E60708_2026.10.5_EXPERT_LLC.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
