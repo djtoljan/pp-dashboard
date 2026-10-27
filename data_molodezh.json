@@ -1942,5 +1942,26 @@
       "ref": "Scream_FINIVEST_AI_26.10.2026_18-58_Q8-0052..0056_JP-Morgan"
     },
     "payment_system": "JP Morgan"
+  },
+  {
+    "row": 67,
+    "date": "2026-10-27",
+    "sum": 18767,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ООО «Сенсис»",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000199"
   }
 ]
