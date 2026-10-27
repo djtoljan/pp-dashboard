@@ -2004,8 +2004,8 @@
   {
     "row": 69,
     "date": "2026-10-27",
-    "sum": null,
-    "currency": null,
+    "sum": 2143.48,
+    "currency": "USD",
     "company": null,
     "color": "FF4FC3F7",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
@@ -2013,12 +2013,12 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "174275.64 / 19746.51",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "🏦 27.10.2026 (📨 Молодежь · t12785, файлы «PAYLOAD MALDIVES PVT LTD.pdf» и «VDX.pdf») — два ПП АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274, АО ЮниКредит Банк) → VDX SERVICES - FZCO (ИНН 9909710068, ПСБ г. Ярославль, счёт 40807810000000015414), оба проведены 27.10.2026: ПП № 5006 — тело, {VO21400} «для перечисления (PAYLOAD MALDIVES PVT LTD) Payment under invoice number PLMV-26-1589 от 28/09/2026, поруч. № 30 от 27.10.26 по агентскому договору № 09-02-3/26 от 09.02.26, НДС не облагается»; ПП № 5007 — агентское, {VO21100} «оплата вознаграждения согласно поручению № 30 от 27.10.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026, НДС не облагается». sent_rubles_vdx = тело / агентское, маршрут VDX. Сделка 2 143,48 USD по инвойсу PLMV-26-1589 (PAYLOAD MALDIVES PVT LTD); компании пока нет → 🔵, vdx_rate ждём из VDX-таблицы.",
     "calc": null,
     "rowId": "mol-000201"
   }
