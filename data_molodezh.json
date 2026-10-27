@@ -1776,7 +1776,7 @@
     "sum": 38220,
     "currency": "CNY",
     "company": "TOMO",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Эксперт (Молодёжь)",
     "costFormula": "(38 220,00 + 750) / 6,6686 * 1,007 = 5 885 USDT",
     "extra": null,
