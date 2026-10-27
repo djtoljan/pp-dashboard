@@ -3652,6 +3652,27 @@
       "companyProvisional": false,
       "companyVerified": true,
       "payment_system": "JP Morgan"
+    },
+    {
+      "row": 125,
+      "date": "2026-10-27",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "2788239.56",
+      "statementRef": "ПП №93 от 27.10.2026, АО АКИБ ПОЧТОБАНК, счёт 40807810100157518600",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: ПП №93 от 27.10.2026, АО АКИБ ПОЧТОБАНК, счёт 40807810100157518600",
+      "calc": null,
+      "rowId": "main-000384"
     }
   ]
 }
