@@ -3786,6 +3786,27 @@
       "notes": null,
       "calc": null,
       "rowId": "main-000389"
+    },
+    {
+      "row": 131,
+      "date": "2026-10-27",
+      "sum": 10350,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО ЕТЕ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000390"
     }
   ]
 }
