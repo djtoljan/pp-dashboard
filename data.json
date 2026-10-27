@@ -3538,35 +3538,6 @@
     {
       "row": 121,
       "date": "2026-10-26",
-      "sum": 100000,
-      "currency": "USD",
-      "company": "Z SOURCE",
-      "color": "FFFFFFFF",
-      "clientName": "VDX",
-      "costFormula": "100 000,00 + 0,3% + 30 = 100 330,00 USDT",
-      "extra": "📄 26.10.2026 (📨 FINIVEST AI, канал «Заявки Z Source», файлы «INV_Z.pdf» + «payment order.docx») — Заявка (Тип 4): INVOICE № 1 dd 01.09.2026, продавец ZHEJIANG HUATAI ALUMINUM WHEEL MANUFACTURING CO., LTD (ICBC Zhejiang, счёт 1208050009114036585, SWIFT ICBKCNBJZJP), покупатель Z SOURCE LIMITED (DBS Bank HK, 79807112001), алюминиевые диски 1392 шт — 100 000,00 USD. PAYMENT ORDER 23/10/2026: 100 000,00 USD, назначение Payment for invoice no. 1 dated 01.09.2026.",
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": 100330,
-      "notes": null,
-      "calc": null,
-      "rowId": "main-000373",
-      "companySource": {
-        "source": "invoice",
-        "date": null,
-        "ref": "INVOICE No 1 dd 01.09.2026",
-        "file": "INV_Z.pdf"
-      },
-      "companyProvisional": true,
-      "companyVerified": false
-    },
-    {
-      "row": 122,
-      "date": "2026-10-26",
       "sum": 34920,
       "currency": "USD",
       "company": "ULUSA EXPORT IMPORT DIS TICARET LTD. STI",
@@ -3594,7 +3565,7 @@
       "companyVerified": false
     },
     {
-      "row": 123,
+      "row": 122,
       "date": "2026-10-26",
       "sum": 33264,
       "currency": "EUR",
@@ -3623,7 +3594,7 @@
       "companyVerified": false
     },
     {
-      "row": 124,
+      "row": 123,
       "date": "2026-10-27",
       "sum": null,
       "currency": null,
@@ -3644,7 +3615,7 @@
       "rowId": "main-000384"
     },
     {
-      "row": 125,
+      "row": 124,
       "date": "2026-10-27",
       "sum": 1778659,
       "currency": "CNY",
@@ -3665,7 +3636,7 @@
       "rowId": "main-000385"
     },
     {
-      "row": 126,
+      "row": 125,
       "date": "2026-10-27",
       "sum": null,
       "currency": null,
@@ -3686,7 +3657,7 @@
       "rowId": "main-000386"
     },
     {
-      "row": 127,
+      "row": 126,
       "date": "2026-10-27",
       "sum": 87037.99,
       "currency": "USD",
@@ -3715,7 +3686,7 @@
       "companyVerified": false
     },
     {
-      "row": 128,
+      "row": 127,
       "date": "2026-10-27",
       "sum": 15854.8,
       "currency": "USD",
@@ -3736,7 +3707,7 @@
       "rowId": "main-000388"
     },
     {
-      "row": 129,
+      "row": 128,
       "date": "2026-10-27",
       "sum": 21350,
       "currency": "USD",
@@ -3765,7 +3736,7 @@
       "companyVerified": false
     },
     {
-      "row": 130,
+      "row": 129,
       "date": "2026-10-27",
       "sum": 19199.78,
       "currency": "USD",
@@ -3794,7 +3765,7 @@
       "companyVerified": false
     },
     {
-      "row": 131,
+      "row": 130,
       "date": "2026-10-27",
       "sum": null,
       "currency": null,
@@ -3815,7 +3786,7 @@
       "rowId": "main-000392"
     },
     {
-      "row": 132,
+      "row": 131,
       "date": "2026-10-27",
       "sum": null,
       "currency": null,
