@@ -1948,10 +1948,10 @@
     "date": "2026-10-27",
     "sum": 18767,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "PQ18 LIMITED",
+    "color": "FFFFFFFF",
     "clientName": "ООО «Сенсис»",
-    "costFormula": null,
+    "costFormula": "18 767,00 + 0,3% + 30 = 18 853,30 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1959,9 +1959,17 @@
     "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "💸 27.10.2026 (📨 Молодежь · t12755, файлы «713_27102026.pdf» и «714_27102026.pdf») — два ПП ООО «Сенсис» (ИНН 7728599015, счёт 40702810377000006220, Ф-Л ПАО «Банк Санкт-Петербург», БИК 044525142) → VDX SERVICES-FZCO (ПСБ, счёт 40807810000000015414), оба ИСПОЛНЕНЫ 27.10.2026: ПП №713 — {VO11100} «Оплата за товар по Поруч.№6 от 27.10.2026 к Агентскому договору №9414/BSPB от 20.08.2026, Contract №SGTT-SS/2023/CNY/BSP от 14.08.23, Invoice C2026102602 от 26.10.2026» (тело); ПП №714 — {VO21100} «Оплата агентского вознаграждения по Поручению №6 от 27.10.2026 к Агентскому договору №9414/BSPB» (агентское). sent_rubles_vdx = 1 535 885,18 (тело + агентское), маршрут VDX. Сделка 18 767,00 USD по инвойсу C2026102602.",
+    "sent_usdt": 18853.3,
+    "notes": "💸 27.10.2026 (📨 Молодежь · t12755, файлы «713_27102026.pdf» и «714_27102026.pdf») — два ПП ООО «Сенсис» (ИНН 7728599015, счёт 40702810377000006220, Ф-Л ПАО «Банк Санкт-Петербург», БИК 044525142) → VDX SERVICES-FZCO (ПСБ, счёт 40807810000000015414), оба ИСПОЛНЕНЫ 27.10.2026: ПП №713 — {VO11100} «Оплата за товар по Поруч.№6 от 27.10.2026 к Агентскому договору №9414/BSPB от 20.08.2026, Contract №SGTT-SS/2023/CNY/BSP от 14.08.23, Invoice C2026102602 от 26.10.2026» (тело); ПП №714 — {VO21100} «Оплата агентского вознаграждения по Поручению №6 от 27.10.2026 к Агентскому договору №9414/BSPB» (агентское). sent_rubles_vdx = 1 535 885,18 (тело + агентское), маршрут VDX. Сделка 18 767,00 USD по инвойсу C2026102602. | \n\n📄 27.10.2026 (📨 Молодежь · t12755): инвойс-проформа «PQ18_PI_2026102603» — ShenZhen GreenTouch Technology Co.,Ltd (3/F, Building A2, Shenzhen Low-Carbon Science and Technology Industrial Park, Guiyue Road, Zhangge Market, Guanlan Town, Longhua District, Shenzhen 518110, China) → Invoice To: PQ18 LIMITED (RM 1710, 17/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Hong Kong). Invoice No. 2026102603 от 26.10.2026, оплата TT 100%, условия EXW/FCA/FAS, страна происхождения CHINA, 108 шт. PCAP-мониторов: GT-TM-1012C 10.1\" ×4 (USD 114.50 = USD 458.00); GT-TM-1702C 17\" ×50 (USD 153.00 = USD 7650.00); GT-TM-1902C 19\" ×25 (USD 196.00 = USD 4900.00); GT-TM-2152C 21.5\" ×16 (USD 185.00 = USD 2960.00); GT-TM-2382C 23.8\" ×12 (USD 200.00 = USD 2400.00); GT-TM-3206C2C 32\" ×1 (USD 399.00 = USD 399.00). Итого USD 18767.00. Банк получателя по инвойсу: CHINA MERCHANTS BANK H.O. SHENZHEN, счёт 7559 6458 0532 802, SWIFT CMBCCNBS. 💳 Payment order (DOCX, 27.10.2026): 18767.00 USD, получатель ShenZhen GreenTouch Technology Co.,Ltd, банк CHINA MERCHANTS BANK H.O. SHENZHEN, счёт 7559 6458 0532 802, SWIFT CMBCCNBS, назначение «Payment for invoice 2026102603 dd 10/26/2026», PAYMENT PURPOSE GOODS — тот же инвойс 2026102603; статус исполнения в документе не указан, по этому документу цвет не менялся. | ✏️ 27.10.2026 (set-color): company=PQ18 LIMITED → Q8-расчёт проставлен автоматически, 18 767,00 + 0,3% + 30 = 18 853,30 USDT.",
     "calc": null,
-    "rowId": "mol-000199"
+    "rowId": "mol-000199",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-26",
+      "ref": "2026102603",
+      "file": "PQ18_PI_2026102603"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
