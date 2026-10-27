@@ -3639,7 +3639,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 27.10.2026 (📨 Платежные Поручения, файл «e8457e38-dc8e-41fe-a3ed-48c1061df3ec.jpg») — TRANSACTION RECEIPT JPMorgan Chase Bank, N.A. (SWIFT CHASUS33XXX, 270 Park Avenue, New York): payer LOK KEE TRADING LIMITED → beneficiary BROSS S.r.l., UNICREDIT S.P.A. (IT67X0200805364000104232752, BIC UNCRITMMXXX); Transaction Amount 48 642,82 EUR; Transaction Status Completed; Date 20261027; Remarks «PROFORMA INVOICE BR 09 25». Статус Completed → 🟢 (компания Lok Kee — исключение FSM ⬜→🟢 по банковскому документу). Клиент по сделке не назван — строка создана без клиента, ждёт уточнения.",
       "calc": null,
       "rowId": "main-000381",
       "companySource": {
@@ -3650,7 +3650,8 @@
         "date": "2026-10-27"
       },
       "companyProvisional": false,
-      "companyVerified": true
+      "companyVerified": true,
+      "payment_system": "JP Morgan"
     }
   ]
 }
