@@ -1556,12 +1556,16 @@
     "rowId": "mol-000180",
     "companySource": {
       "source": "order",
-      "date": null,
-      "ref": "Q8-0057 27.10.2026",
-      "messageId": null
+      "date": "2026-10-27",
+      "ref": "Q8-0057"
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_system": "JP Morgan",
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "Q8-0057"
+    }
   },
   {
     "row": 54,
