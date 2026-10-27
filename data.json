@@ -3652,6 +3652,36 @@
       "companyProvisional": false,
       "companyVerified": true,
       "payment_system": "JP Morgan"
+    },
+    {
+      "row": 125,
+      "date": "2026-10-27",
+      "sum": 27543,
+      "currency": "USD",
+      "company": "PQ18",
+      "color": "FFFFFFFF",
+      "clientName": null,
+      "costFormula": "27 543,00 + 0,3% + 30 = 27 655,63 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 27655.63,
+      "notes": "✏️ 27.10.2026 (add-row): company=PQ18 → Q8-расчёт проставлен автоматически, 27 543,00 + 0,3% + 30 = 27 655,63 USDT.",
+      "calc": "ТЕЗ",
+      "rowId": "main-000382",
+      "companySource": {
+        "source": "foreign_pp",
+        "file": "4285_27543.00.pdf",
+        "txid": null,
+        "ref": "O2114958179459792896477",
+        "date": "2026-10-27"
+      },
+      "companyProvisional": false,
+      "companyVerified": true
     }
   ]
 }
