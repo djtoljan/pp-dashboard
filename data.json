@@ -3863,6 +3863,35 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 134,
+      "date": "2026-10-28",
+      "sum": 180075,
+      "currency": "USD",
+      "company": "CENTUNO",
+      "color": "FFFFFFFF",
+      "clientName": "ООО «А-РГО»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000397",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "INVOICE C-10-28-2026-019 dd 28.10.2026 (Centuno Co.",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
