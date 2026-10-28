@@ -3701,7 +3701,7 @@
       "sum": 15854.8,
       "currency": "USD",
       "company": null,
-      "color": "FFFF0000",
+      "color": "FFFFFFFF",
       "clientName": "ВТС",
       "costFormula": "15 854,80 ÷ 0,9965 + 50,00 ÷ 0,9965 = 15 960,67 USDT (ORDER Q80061)",
       "extra": null,
