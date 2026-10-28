@@ -1758,7 +1758,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 26120.19,
-    "notes": "✏️ 28.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 26 012,15 + 0,3% + 30 = 26 120,19 USDT.",
+    "notes": "✏️ 28.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 26 012,15 + 0,3% + 30 = 26 120,19 USDT. | 📄 28.10.2026 (📨 Цветы, файл «ModestoGroup_FL01_281026_26012_15_USD.pdf») — INVOICE No. FL01/281026 от 28.10.2026: продавец ModestoGroup OU (Reg. code 16203107; IBAN GB32TCCL04143483461312, BIC TCCLGB3L, THE CURRENCY CLOUD LIMITED, 1 Sheldon Square, London W2 6TT) → Bill to Q8 Group Limited (80242882, Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong); Flower products — 26 012,15 USD. Тип 4 → ⬜. Q8-расчёт сразу: 26 012,15 + 0,3% + 30 = 26 120,19 USDT.",
     "calc": null,
     "rowId": "flw-000166",
     "companySource": {
@@ -1766,6 +1766,35 @@
       "date": "2026-10-28",
       "ref": "FL01/281026",
       "file": "ModestoGroup_FL01_281026_26012_15_USD.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
+  },
+  {
+    "row": 65,
+    "date": "2026-10-28",
+    "sum": 32863.4,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000167",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-28",
+      "ref": "AA-Q8-2026-1028-02",
+      "file": "Invoice_Avrora_Q8_32863_40_EUR_28-Oct-2026.pdf"
     },
     "companyProvisional": true,
     "companyVerified": false
