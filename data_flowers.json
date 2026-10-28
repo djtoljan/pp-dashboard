@@ -1588,7 +1588,7 @@
     "sum": null,
     "currency": null,
     "company": null,
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Приоритет Маркет (Цветы)",
     "costFormula": "1 820 144,56 ₽ / 80,57 × 0,999 (РКО) = 22 568,26 USDT",
     "extra": null,
