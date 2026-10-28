@@ -3822,7 +3822,7 @@
       "sum": 28430.56,
       "currency": "EUR",
       "company": "ATB",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "Дре Русланд",
       "costFormula": "(28 430,56 × 1,0025 + 80) × 1,11251 = 31 797,36 USDT (XE EUR/USD 1,11251, 28.10.2026)",
       "extra": null,
