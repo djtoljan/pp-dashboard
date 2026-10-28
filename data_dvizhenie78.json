@@ -396,5 +396,26 @@
     "notes": "Приход по выписке Почтабанк 23.10.2026 ПП 1499 счёт 40807810100157518600 ООО ТЕТРА СТРОЙ - ОсОО Блэкшарк Трейд 18867265.34 руб (инвойс 21102026 аг.дог. 191026-СПБ) = rubles_received. Поручение 2 от 22.10.2026 (Тетра Строй - Агент Блэкшарк) ADEMSAN MAKINA HALK BANK счёт 53100458 SWIFT TRHBTR2AXXX справочно 208782.86 EUR. ПП 1500 от 23.10.2026 агентское вознаграждение 518849.56 руб. 23.10.2026 распоряжение Scream обмен руб-ТЕЗ валютной сделки нет строка синяя. 27.10.2026 восстановлена после ошибочной склейки.",
     "calc": null,
     "rowId": "d78-000044"
+  },
+  {
+    "row": 15,
+    "date": "2026-10-28",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "352981.60 / 9051.17",
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "d78-000045"
   }
 ]
