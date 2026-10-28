@@ -3936,8 +3936,8 @@
       "date": "2026-10-19",
       "sum": 31235,
       "currency": "EUR",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "ATB",
+      "color": "FF92D050",
       "clientName": "—",
       "costFormula": null,
       "extra": null,
@@ -3950,7 +3950,15 @@
       "sent_usdt": null,
       "notes": "📄 28.10.2026 (📨 Платежные Поручения, файл «Transaction-Details_10-28-26.pdf») — SEPA Credit Transfer: From Postbank Business Giro aktiv plus (DE86 1007 0399 0077 8100 00) → To LCI-MTC Group SA (LU05 8160 0003 2289 7800); Booked/Value date 19.10.2026; Amount 31 235,00 €; Description «INV.JYJCCB DD.15.10.2026»; PDF создан 28.10.2026. Строки под этот платёж в 5 таблицах не было (искал по сумме, инвойсу JYJCCB и LCI-MTC) — заведена новая строка, клиент/таблица не определены.",
       "calc": null,
-      "rowId": "main-000399"
+      "rowId": "main-000399",
+      "companySource": {
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Scream 28.10.2026 17:12: «это зеленки от ATB",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
