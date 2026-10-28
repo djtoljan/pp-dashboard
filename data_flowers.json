@@ -1699,7 +1699,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 28.10.2026 (📨 Цветы, файл «Invoice_Avrora_Q8_104547_98_EUR_28-Oct-2026.pdf») — COMMERCIAL INVOICE AA-Q8-2026-1028 от 28.10.2026: продавец Atlantic Avrora EOOD (Reg. 208330386, VAT BG208330386, Burgas, Bulgaria) → покупатель Q8 Group Limited (80242882, Hong Kong); Fresh cut flowers, assorted — 104 547,98 EUR; банк Bulgarian-American Credit Bank, SWIFT BGUSBGSF, IBAN BG04BGUS91601413896300. Тип 4 → ⬜. Q8-расчёт: сумма в EUR — курс FX не приложен, формула ждёт курс (q8-table-guard проставит по FX).",
     "calc": null,
     "rowId": "flw-000163",
     "companySource": {
