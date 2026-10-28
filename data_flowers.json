@@ -1681,5 +1681,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 62,
+    "date": "2026-10-28",
+    "sum": 104547.98,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000163",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "AA-Q8-2026-1028",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
