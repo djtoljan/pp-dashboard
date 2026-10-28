@@ -1639,9 +1639,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 31638.77,
     "sent_usdt": 31460.11,
-    "notes": "📄 28.10.2026 (📨 Цветы · ALIANZA 31300.docx + ALIANZA_Q8_31300_USD_27-10-2026.pdf) — заявка Q8: INVOICE AL-20261027-01 от 27.10.2026 — Air logistics services 31 300.00 USD; плательщик Q8 GROUP LIMITED (Reg. 80242882 Hong Kong); получатель LOGIZTIK-GROUP ECUADOR S.A. — счёт 02005144694 — BANCO DE LA PRODUCCION S.A. PRODUBANCO — SWIFT PRODECEQ. Тип 4 → ⬜. Q8-расчёт: 31 300.00 + 0.3% + 30 = 31 423.90 USDT. | 💸 28.10.2026: фактический перевод по заявке — 31 460,11 USDT (Q8: сумма ÷ 0,9965 + 50,18), формула +0,3%+30 давала 31 423,90 | 🛡️ 28.10.2026: движение OUT 31460.11 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:60). | 🔖 Q8-Q80059 — номер ордера Q8 по этой строке (расчёт коллеги подтверждён Scream 28.10.2026)",
+    "notes": "📄 28.10.2026 (📨 Цветы · ALIANZA 31300.docx + ALIANZA_Q8_31300_USD_27-10-2026.pdf) — заявка Q8: INVOICE AL-20261027-01 от 27.10.2026 — Air logistics services 31 300.00 USD; плательщик Q8 GROUP LIMITED (Reg. 80242882 Hong Kong); получатель LOGIZTIK-GROUP ECUADOR S.A. — счёт 02005144694 — BANCO DE LA PRODUCCION S.A. PRODUBANCO — SWIFT PRODECEQ. Тип 4 → ⬜. Q8-расчёт: 31 300.00 + 0.3% + 30 = 31 423.90 USDT. | 💸 28.10.2026: фактический перевод по заявке — 31 460,11 USDT (Q8: сумма ÷ 0,9965 + 50,18), формула +0,3%+30 давала 31 423,90 | 🛡️ 28.10.2026: движение OUT 31460.11 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:60). | 🔖 Q8-Q80059 — номер ордера Q8 по этой строке (расчёт коллеги подтверждён Scream 28.10.2026) | 🛡️ 28.10.2026: движение IN 31638.77 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:60).",
     "calc": null,
     "rowId": "flw-000160",
     "companySource": {
