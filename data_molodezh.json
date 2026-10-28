@@ -2021,5 +2021,26 @@
     "notes": "ПП на VDX №5006 от 27.10.2026 (174 275,64 ₽ — номер из документа ПП) | ПП на VDX №5007 от 27.10.2026 (19 746,51 ₽ — номер из документа ПП) | 🏦 27.10.2026 (📨 Молодежь · t12785, файлы «PAYLOAD MALDIVES PVT LTD.pdf» и «VDX.pdf») — два ПП АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274, АО ЮниКредит Банк) → VDX SERVICES - FZCO (ИНН 9909710068, ПСБ г. Ярославль, счёт 40807810000000015414), оба проведены 27.10.2026: ПП № 5006 — тело, {VO21400} «для перечисления (PAYLOAD MALDIVES PVT LTD) Payment under invoice number PLMV-26-1589 от 28/09/2026, поруч. № 30 от 27.10.26 по агентскому договору № 09-02-3/26 от 09.02.26, НДС не облагается»; ПП № 5007 — агентское, {VO21100} «оплата вознаграждения согласно поручению № 30 от 27.10.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026, НДС не облагается». sent_rubles_vdx = тело / агентское, маршрут VDX. Сделка 2 143,48 USD по инвойсу PLMV-26-1589 (PAYLOAD MALDIVES PVT LTD); компании пока нет → 🔵, vdx_rate ждём из VDX-таблицы. | 📄 28.10.2026 (📨 Молодежь · t12785, файлы «Invoice PLMV-26-1589.pdf» и «payment order 3.docx») — документы целевого платежа по этой же сделке: Tax Invoice PLMV-26-1589 от 28.09.2026, эмитент PAYLOAD MALDIVES PVT LTD (Bank of Ceylon, счёт 6320 3422 14 USD, SWIFT BCEYMVMV), bill to PQ18 Limited, позиция Freight Charges (MLE/SVO) 1 × 2 143,48 USD, GST 8% 0,00, итого 2 143,48 USD; Payment Order № 3 от 27.10.2026 на 2 143,48 USD, 100% after payment, бенефициар PAYLOAD MALDIVES PVT LTD, назначение «Payment for transport service under invoice number PLMV-26-1589 от 28/09/2026». Сумма строки 2 143,48 USD не меняется, инвойс/ордер справочно, новой строки нет. (skill invoice-vs-order-sum)",
     "calc": null,
     "rowId": "mol-000201"
+  },
+  {
+    "row": 70,
+    "date": "2026-10-28",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000202"
   }
 ]
