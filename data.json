@@ -3892,6 +3892,35 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 135,
+      "date": "2026-10-28",
+      "sum": 20380.54,
+      "currency": "EUR",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "📄 28.10.2026 (📨 ВТС · t6365, заявка 77116, файл «PROFORMA_INV_2610062_ASG1000_Spare_parts_Q8Group_1_1.pdf») — PROFORMA INV. No. 2610062 от 14-10-2026: From REM Vision Technologies, S.L. (C/ Yunque, 1, 28918 Leganés, Madrid, Spain; NIF B-86643020) To Q8 Group Limited (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong; TAX 80242882). Позиции: R400-ASG1000 Collet for spindle (AB Dev), ASG1000 Triple Asymmetric Surface Generator, FTS Oscillating tool, DWB-DC.A Drawbar for spindle, ARDL-SP Spring pack, COL-DC Framework and warehouses 2026 (autoloader) Warranty. Общая сумма проформы вдвое больше платежа — по заявке оплачивается 20 380,54 EUR (частичная оплата). Экспортёр ESREX12316, испанское происхождение, IVA не облагается (Art. 21 Ley 37/1992). | 📄 28.10.2026 (📨 ВТС · t6365, файл «Платёжные реквизиты_№77116.docx») — ПЛАТЁЖНЫЕ РЕКВИЗИТЫ по заявке №77116 от 23 октября 2026 г. (договор № П/16-10/16102026 от 16.10.2024): AMOUNT 20 380,54 EUR; BENEFICIARY REM Vision Technologies, S.L. (Yunque St, 1, 28918 Leganés, Madrid, Spain); IBAN ES14 0075 1132 1706 0015 7681; банк Banco Santander, S.A. (Parque Bujaruelo, 33, 28924 Alcorcón, Madrid, Spain), SWIFT BSCHESMMXXX; PAYMENT DETAILS «PAYMENT BY PROFORMA INV. No. 2610062 Date: 14-10-2026». Сумма строки = сумма заявки 20 380,54 EUR; компания Q8.",
+      "calc": null,
+      "rowId": "main-000398",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "PROFORMA INV. 2610062 dd 14-10-2026 (REM Vision Technologies -> Q8 Group)",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
