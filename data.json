@@ -3834,6 +3834,35 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 133,
+      "date": "2026-10-28",
+      "sum": 15746.84,
+      "currency": "USD",
+      "company": "Itrix Co., Ltd.",
+      "color": "FFFFFFFF",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000396",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "INVOICE 70474 dd 2026-05-12 (Itrix)",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
