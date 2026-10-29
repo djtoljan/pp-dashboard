@@ -3971,12 +3971,12 @@
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": 2770402.91,
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📤 29.10.2026 (📨 Отправки рублей ПП.): с «БиТрейд Кей Джи» (ВТБ) на ВиДиИкс (VDX) — **2 770 402,91 ₽**, за ингибиторы коррозии, **заявка 193**, клиент **ООО «ВТС»**. Доки на вход: O:\\\\_обмен\\\\СВЕРКИ\\\\СВЕРКИ ОКСАНЫ\\\\ВЭД\\\\БиТрейдКейДжи\\\\ВТС\\\\Новая папка. sent_rubles_vdx = 2 770 402,91, exchange_to VDX. ⚠️ Номер ПП и валютная сумма сделки не названы — маркер «ПП на VDX №…» не ставил, жду ордер/поручение и ПП.",
       "calc": null,
       "rowId": "main-000407"
     }
