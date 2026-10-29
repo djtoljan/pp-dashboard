@@ -1787,7 +1787,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 146535.62,
-    "notes": "✏️ 29.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 146 067,42 + 0,3% + 30 = 146 535,62 USDT.",
+    "notes": "✏️ 29.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 146 067,42 + 0,3% + 30 = 146 535,62 USDT. | 📄 29.10.2026 (📨 Цветы, файл «Заявка 146 067,42.docx») — **Заявка (реквизиты платежа)**: Amount **146 067,42**, Currency **USD**; Beneficiary **Gulf Flowers FZCO** (Unit 4WB 336, Building 4WB (West Side), Dubai Airport Free Zone, Dubai, UAE); Account **AE200340003528243426702**; Bank **EMIRATES ISLAMIC BANK** (AL YOUSUF TOWER, 6564, Dubai, UAE); SWIFT **MEBLAEAD**; intermediary **The Bank of New York Mellon**, SWIFT **IRVTUS3NXXX**, acc **8901515981**; Registration 1713; VAT 1000472048600003; Director Tsepov Alexander; Details «Payment for cut flowers under contract GF-EXG/2025/10/20 dd 20.10.2025». | 📄 29.10.2026 (📨 Цветы, файл «INVOICE 146 067.42 $ to Islamic.pdf» — скан, читал вижном) — **INVOICE № 0910-Q8G от 09.10.2026**: Seller **Gulf Flowers FZCO** (Dubai Airport Free Zone; EMIRATES ISLAMIC BANK, SWIFT MEBLAEAD, IBAN AE200340003528243426702) → Buyer **Q8 GROUP LIMITED** (RM A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong; Reg. 80242882); Contract No. GF-Q8G/2026/05/21 dd 21/05/2026; FCA Amsterdam/Aalsmeer, Incoterms 2010, Open Account; delivery Amsterdam; 172 217 стеблей срезанных цветов, gross 9 714,00 кг; **TOTAL 146 067,42 USD**; подписал Director Tsepov Alexander, печать Gulf Flowers FZCO (License No 3471, Dubai). Компания-покупатель = Q8 → Q8-расчёт 146 067,42 + 0,3% + 30 = 146 535,62 USDT.",
     "calc": null,
     "rowId": "flw-000168",
     "companySource": {
@@ -1795,6 +1795,35 @@
       "date": null,
       "ref": "0910-Q8G",
       "file": "INVOICE 146 067.42 to Islamic.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
+  },
+  {
+    "row": 66,
+    "date": "2026-10-29",
+    "sum": 32863.4,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000169",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "AA-Q8-2026-1029-03",
+      "file": "Invoice_Avrora_Q8_32863_40_EUR_29-Oct-2026.pdf"
     },
     "companyProvisional": true,
     "companyVerified": false
