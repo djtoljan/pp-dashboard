@@ -1775,10 +1775,10 @@
     "date": "2026-10-29",
     "sum": 146067.42,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "Gulf Flowers FZCO (Цветы)",
-    "costFormula": null,
+    "costFormula": "146 067,42 + 0,3% + 30 = 146 535,62 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1786,9 +1786,17 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 146535.62,
+    "notes": "✏️ 29.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 146 067,42 + 0,3% + 30 = 146 535,62 USDT.",
     "calc": null,
-    "rowId": "flw-000168"
+    "rowId": "flw-000168",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "0910-Q8G",
+      "file": "INVOICE 146 067.42 to Islamic.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
