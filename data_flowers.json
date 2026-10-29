@@ -1822,7 +1822,7 @@
     "date": "2026-10-29",
     "sum": 32863.4,
     "currency": "EUR",
-    "company": "Q8",
+    "company": "ATB",
     "color": "FFFFFFFF",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": null,
@@ -1834,16 +1834,16 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 29.10.2026 (📨 Цветы, файл «Invoice_Avrora_Q8_32863_40_EUR_29-Oct-2026.pdf») — **COMMERCIAL INVOICE № AA-Q8-2026-1029-03 от 29 October 2026**: продавец **Atlantic Avrora EOOD** (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Director Aleksandrs Rakovskis) → покупатель **Q8 Group Limited** (Company No. 80242882, Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong). Currency EUR, Terms as per agreement; позиция 1: Fresh cut flowers, assorted — 1 lot, **EUR 32 863,40**; **Total Amount EUR 32 863,40**. Банк: **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Компания-покупатель = Q8.",
+    "notes": "📄 29.10.2026 (📨 Цветы, файл «Invoice_Avrora_Q8_32863_40_EUR_29-Oct-2026.pdf») — **COMMERCIAL INVOICE № AA-Q8-2026-1029-03 от 29 October 2026**: продавец **Atlantic Avrora EOOD** (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Director Aleksandrs Rakovskis) → покупатель **Q8 Group Limited** (Company No. 80242882, Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong). Currency EUR, Terms as per agreement; позиция 1: Fresh cut flowers, assorted — 1 lot, **EUR 32 863,40**; **Total Amount EUR 32 863,40**. Банк: **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, IBAN **BG04BGUS91601413896300**. Компания-покупатель = Q8. | 📄 29.10.2026 (📨 Ордера и Расчеты !, «Payment from ATB ‼», файл «INV 32 863,40 EUR.pdf») — ордер на платёж: Beneficiary **Atlantic Avrora EOOD** (Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria PK8000); Bank **Bulgarian-American Credit Bank**, SWIFT **BGUSBGSF**, счёт **BG04BGUS91601413896300**; Amount **32 863,40 EUR**; Charge **OUR**; Payment details в ордере — «inv AA-Q8-2026-1028 dd 28.10.26». ⚠️ Приложенный файл — инвойс **AA-Q8-2026-1029-03 от 29.10.2026** на 32 863,40 EUR; ссылка в ордере на 1028 (это r62, другая сумма) — вероятно опечатка. Компания-плательщик = **ATB** (из «Payment from»).",
     "calc": null,
     "rowId": "flw-000169",
     "companySource": {
-      "source": "invoice",
+      "source": "order",
       "date": null,
-      "ref": "AA-Q8-2026-1029-03",
-      "file": "Invoice_Avrora_Q8_32863_40_EUR_29-Oct-2026.pdf"
+      "ref": "AA-Q8-2026-1028",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   }
 ]
