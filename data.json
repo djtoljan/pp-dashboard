@@ -3606,27 +3606,6 @@
     {
       "row": 123,
       "date": "2026-10-27",
-      "sum": 1778659,
-      "currency": "CNY",
-      "company": null,
-      "color": "FFFF0000",
-      "clientName": "ИП Сыромятников",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 27.10.2026 (📨 ИП Сыромятников, фото «PROFORMA INVOICE» Haewon Global) — P/I № HWG2026-1001-01PI от 02.10.2026, контракт HWG2026-1001-01C от 01.10.2026: SELLER HAEWON GLOBAL Co., Ltd (14117 #13-215, LS-ro 92, Dongan-gu, Anyang-si, Gyeonggi-do, Республика Корея); BUYER IP SYROMYATNIKOVA OLGA GENNADIEVNA (44024, г. Омск, ул. Лермонтова, д. 62, кв. 20). Товар: PET CHIPS grade YS-Y01 (IV 0.83), HS 3907610000, 230 MT; итого RMB 1 778 659,00 (CNY). Условия: частичные платежи допускаются, 100% до 30.10.2026; FOB Dalian, выгрузка Владивосток. Банк продавца: Industrial Bank of Korea, счёт 931-038712-56-00019, отделение PYEONGCHON IT, SWIFT IBKOKRSEXXX. Компания-плательщик в документе не названа (на фото сверху реквизиты ВТБ, печать российского ООО) — строка 🔴, ждёт компанию/заявку. | 📄 27.10.2026 (📨 ИП Сыромятников, файл «Z SOURCE LIMITED.pdf») — ACCOUNT CONFIRMATION от 14.09.2026, выдан BONBILL LIMITED: Account Name Z SOURCE LIMITED, Account Number 79807112001, валюты USD/CNH/GBP/EUR/JPY/SGD/CAD/AUD/HKD, банк DBS Bank (Hong Kong) Limited (18/F, The Center, 99 Queen's Road Central, Central, Hong Kong), BIC DHBKHKHH. Это подтверждение счёта компании-плательщика (не инвойс/не поручение); к проформе Haewon отношения по документу не заявлено — компания строки не менялась. | 📄 27.10.2026 (📨 ИП Сыромятников, файл «Z-source 登记变更.pdf») — BUSINESS REGISTRATION CERTIFICATE (Business Registration Ordinance, Form 2, Hong Kong): Name of Business Z SOURCE LIMITED; адрес RM 509 5/F THE CLOUD, 111 TUNG CHAU STREET, TAI KOK TSUI, KL; характер деятельности: импорт/экспорт товаров и технологий, разработка электроники, телеком-услуги, бизнес-консалтинг; статус BODY CORPORATE; дата начала 01.04.2026, действует до 31.03.2027; Certificate No 77942770-000-04-26-4. Документ подтверждает существование и реквизиты Z SOURCE LIMITED (к проформе Haewon прямого отношения не заявляет) — компания строки не менялась.",
-      "calc": null,
-      "rowId": "main-000385"
-    },
-    {
-      "row": 124,
-      "date": "2026-10-27",
       "sum": 87037.99,
       "currency": "USD",
       "company": "Q8",
@@ -3655,7 +3634,7 @@
       "companyVerified": true
     },
     {
-      "row": 125,
+      "row": 124,
       "date": "2026-10-27",
       "sum": 15854.8,
       "currency": "USD",
@@ -3685,7 +3664,7 @@
       "companyVerified": true
     },
     {
-      "row": 126,
+      "row": 125,
       "date": "2026-10-27",
       "sum": 21350,
       "currency": "USD",
@@ -3714,7 +3693,7 @@
       "companyVerified": false
     },
     {
-      "row": 127,
+      "row": 126,
       "date": "2026-10-27",
       "sum": 19199.78,
       "currency": "USD",
@@ -3743,7 +3722,7 @@
       "companyVerified": false
     },
     {
-      "row": 128,
+      "row": 127,
       "date": "2026-10-27",
       "sum": 2390000,
       "currency": "RUB",
@@ -3764,7 +3743,7 @@
       "rowId": "main-000394"
     },
     {
-      "row": 129,
+      "row": 128,
       "date": "2026-10-28",
       "sum": 28430.56,
       "currency": "EUR",
@@ -3793,7 +3772,7 @@
       "companyVerified": false
     },
     {
-      "row": 130,
+      "row": 129,
       "date": "2026-10-28",
       "sum": 15746.84,
       "currency": "USD",
@@ -3822,7 +3801,7 @@
       "companyVerified": false
     },
     {
-      "row": 131,
+      "row": 130,
       "date": "2026-10-28",
       "sum": 20380.54,
       "currency": "EUR",
