@@ -2116,7 +2116,7 @@
     "sum": 25200,
     "currency": "CNY",
     "company": null,
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": "25 200,00 CNA ÷ 6,595 = 3 821 USDT",
     "extra": null,

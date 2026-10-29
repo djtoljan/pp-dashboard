@@ -3929,27 +3929,6 @@
       },
       "companyProvisional": false,
       "companyVerified": true
-    },
-    {
-      "row": 135,
-      "date": "2026-10-29",
-      "sum": 25200,
-      "currency": "CNY",
-      "company": null,
-      "color": "FFFFFFFF",
-      "clientName": "Не определён (W& Платежи)",
-      "costFormula": "25 200,00 CNA ÷ 6,595 = 3 821 USDT",
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": 3821,
-      "notes": "📄 29.10.2026 (📨 W& Платежи (Т+С)/169, t29590): заказ **25 200,00 CNA** (CNY) — три перевода получателю 永迪 (**迪, yan***@126.com) от 潘治国 (tpv***@163.com) в Alipay: ¥9 000 (17:36) + ¥8 500 (18:06) + ¥7 700 (19:25) = ¥25 200 — заказ закрыт полностью. | 💱 29.10.2026 (📨 W& Платежи (Т+С)/169, t29590, адресовано @CScream1): **25 200,00 CNA / 6,595 = 3 821** — выплата **3 821 USDT** на кошелёк **TEz7cE2frCQTo6wTafMgPNJrCGVLqDSfoP** (TRON). ⚠️ Клиент не назван, строки под 25 200 CNA не было — заведено в Main, клиента уточнить и перенести. | 📨 29.10.2026 (W& Платежи (Т+С)/169): 25 200,00 CNA / 6,595 = 3 821; кошелёк TEz7cE2frCQTo6wTafMgPNJrCGVLqDSfoP.",
-      "calc": null,
-      "rowId": "main-000405"
     }
   ]
 }
