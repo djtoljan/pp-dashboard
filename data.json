@@ -2234,27 +2234,6 @@
     {
       "row": 78,
       "date": "2026-10-13",
-      "sum": 47324,
-      "currency": "CNY",
-      "company": null,
-      "color": "FFFF0000",
-      "clientName": "ВТС",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": 636165.58,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 13.10.2026 (📨 ВТС-Fininvest (t4058), файл «Платёжные реквизиты_№74772....docx») — **Платёжные реквизиты (заявка на платёж №74772)**: AMOUNT **47 324**, CURRENCY **CNY**; BENEFICIARY **Foshan Deshengchu Kitchenware Co., Ltd.** (Building 2, Pacific Dingwang Commercial Center, No. 2 Baichen Road, Chihua Community, Chencun Town, Shunde District, Foshan City, Guangdong, China); банк **Industrial Bank Co., Ltd. Foshan Shunde Beijiao Sub-branch** (Shop 1043, 1F, Building 1, Midea Wealth Plaza, No. 1 Chengde Road, Junlan Community, Beijiao Town, Shunde District, Foshan City, Guangdong); ACCOUNT **393050100100365751**; SWIFT **FJIBCNBA**. Совпадений по 47 324 / Foshan / №74772 в 5 таблицах нет — новая строка. Компания-плательщик не названа → 🔴 (Step 0). | 📄 20.10.2026 (📨 ВТС-Fininvest (t4058), файл «Инвойс Китай-Китай 13%.pdf») — 产品销售协议 (sales agreement, Китай-Китай): 甲方 (покупатель) 北京卓源汇智科技有限公司 (税号 91110105MAKAD5MN5L, 北京市海淀区三里河路15号中建大厦A座, 工商银行北京百万庄支行, счёт 0200001409200414104); 乙方 (продавец) 佛山市德胜厨具有限公司 (税号 91440606MACEHJA5E, 兴业银行佛山顺德支行, счёт 393000100100552116); товар 揭盖洗碗机 10台 ( dishwasher 680×750×1450 мм, 380V, 9KW, 60s, 2 корзины); 总价（含税13%）= 47 324 CNY. Сумма совпадает со строкой r78 (47 324 CNY) — та же сделка. | 📄 20.10.2026 (📨 ВТС-Fininvest (t4058), файл «Платёжные реквизиты_№74772.docx») — форма реквизитов: AMOUNT 47 324 CNY; BENEFICIARY Foshan Deshengchu Kitchenware Co., Ltd. (Building 2, Pacific Dingwang Commercial Center, No.2 Baichen Road, Chihua Community, Chencun Town, Shunde District, Foshan City, Guangdong); счёт 393050100100365751, Industrial Bank Co., Ltd. Foshan Shunde Beijiao Sub-branch (Shop 1043, 1F, Midea Wealth Plaza, No.1 Chengde Road, Beijiao Town, Shunde, Foshan), SWIFT FJIBCNBA; PAYMENT BY INVOICE 20251022-28 DATE 09.09.2026. Та же сделка, что r78 — новых строк нет. | 🏦 20.10.2026 (📨 ВТС-Fininvest (t4058), файл «payment_order_4185_19.10.2026.pdf») — ПП №4185 от 19.10.2026: ООО «ВТС» (ИНН 7735171132, КПП 772601001, счёт 40702810500000247650, АО «Райффайзенбанк» г. Москва, БИК 044525700) → ЧК «АЛЬ САФИ БАНК ЛТД» (ИНН 9909682822, ООО «ПРОМСЕЛЬХОЗБАНК» г. Москва, БИК 044525771, счёт 30111810900000021268), 636 165,58 ₽ {VO11100} «to account KZ889990172RUB000778, SWIFT AILSKZ2KXXX, beneficiary Blackshark Trade Limited Liability Company, contract N ВТС/19/10/2026-01 of 19.10.2026, inv 74772 d 19.10.26 for dishwashers», без НДС → rubles_received. Компания-плательщик не подтверждена справочником компаний → цвет 🔴. | 📄 22.10.2026 (📨 ВТС t4058 · файл «mmexport1792667558439 (1).pdf» — скан · читал вижном) — PROFORMA INVOICE от 22.10.2026: Supplier Foshan Desheng Kitchenware Co., Ltd. (No.7 Xinfa Road, Ronggui Street, Shunde District, Foshan City, Guangdong, China; контакт Alex; тел. +86 18126091731); Buyer в инвойсе НЕ заполнен; Payment before delivery; позиция — dishwasher 680×750×1450 мм, 380V, 9 кВт, 60 с, double-pump, 2 корзины, 10 SET; Total Amount 47 324,00 CNY. Та же сделка, что заявка 74772 — строка одна, дубль не создаю.",
-      "calc": null,
-      "rowId": "main-000290"
-    },
-    {
-      "row": 79,
-      "date": "2026-10-13",
       "sum": 62193.6,
       "currency": "EUR",
       "company": "Grandwell Trading Limited",
@@ -2282,7 +2261,7 @@
       "companyVerified": true
     },
     {
-      "row": 80,
+      "row": 79,
       "date": "2026-10-13",
       "sum": 2279.05,
       "currency": "USD",
@@ -2323,7 +2302,7 @@
       "companyVerified": false
     },
     {
-      "row": 81,
+      "row": 80,
       "date": "2026-10-13",
       "sum": 635500,
       "currency": "CNY",
@@ -2352,7 +2331,7 @@
       "companyVerified": false
     },
     {
-      "row": 82,
+      "row": 81,
       "date": "2026-10-13",
       "sum": 4548,
       "currency": "USD",
@@ -2381,7 +2360,7 @@
       "companyVerified": false
     },
     {
-      "row": 83,
+      "row": 82,
       "date": "2026-10-13",
       "sum": 56321.88,
       "currency": "USD",
@@ -2410,7 +2389,7 @@
       "companyVerified": false
     },
     {
-      "row": 84,
+      "row": 83,
       "date": "2026-10-13",
       "sum": 14200,
       "currency": "USD",
@@ -2443,7 +2422,7 @@
       "companyVerified": false
     },
     {
-      "row": 85,
+      "row": 84,
       "date": "2026-10-13",
       "sum": 47817.81,
       "currency": "USD",
@@ -2476,7 +2455,7 @@
       "companyVerified": true
     },
     {
-      "row": 86,
+      "row": 85,
       "date": "2026-10-13",
       "sum": 29000,
       "currency": "USD",
@@ -2505,7 +2484,7 @@
       "companyVerified": false
     },
     {
-      "row": 87,
+      "row": 86,
       "date": "2026-10-13",
       "sum": 100209.7,
       "currency": "USD",
@@ -2534,7 +2513,7 @@
       "companyVerified": false
     },
     {
-      "row": 88,
+      "row": 87,
       "date": "2026-10-14",
       "sum": null,
       "currency": null,
@@ -2555,7 +2534,7 @@
       "rowId": "main-000305"
     },
     {
-      "row": 89,
+      "row": 88,
       "date": "2026-10-14",
       "sum": 16687.72,
       "currency": "USD",
@@ -2588,7 +2567,7 @@
       "companyVerified": false
     },
     {
-      "row": 90,
+      "row": 89,
       "date": "2026-10-14",
       "sum": 20452.5,
       "currency": "USD",
@@ -2622,7 +2601,7 @@
       }
     },
     {
-      "row": 91,
+      "row": 90,
       "date": "2026-10-14",
       "sum": 58265.44,
       "currency": "USD",
@@ -2655,7 +2634,7 @@
       "companyVerified": false
     },
     {
-      "row": 92,
+      "row": 91,
       "date": "2026-10-15",
       "sum": 26994.31,
       "currency": "EUR",
@@ -2688,7 +2667,7 @@
       "companyVerified": false
     },
     {
-      "row": 93,
+      "row": 92,
       "date": "2026-10-15",
       "sum": 11408.57,
       "currency": "EUR",
@@ -2722,7 +2701,7 @@
       "companyVerified": false
     },
     {
-      "row": 94,
+      "row": 93,
       "date": "2026-10-16",
       "sum": 20649.75,
       "currency": "EUR",
@@ -2763,7 +2742,7 @@
       ]
     },
     {
-      "row": 95,
+      "row": 94,
       "date": "2026-10-19",
       "sum": 100000,
       "currency": "EUR",
@@ -2794,7 +2773,7 @@
       "calcStale": true
     },
     {
-      "row": 96,
+      "row": 95,
       "date": "2026-10-19",
       "sum": 35129.22,
       "currency": "EUR",
@@ -2823,7 +2802,7 @@
       "companyVerified": false
     },
     {
-      "row": 97,
+      "row": 96,
       "date": "2026-10-19",
       "sum": 21762.6,
       "currency": "USD",
@@ -2852,7 +2831,7 @@
       "companyVerified": false
     },
     {
-      "row": 98,
+      "row": 97,
       "date": "2026-10-19",
       "sum": 10300,
       "currency": "USD",
@@ -2881,7 +2860,7 @@
       "companyVerified": false
     },
     {
-      "row": 99,
+      "row": 98,
       "date": "2026-10-19",
       "sum": 49746,
       "currency": "USD",
@@ -2913,6 +2892,35 @@
         "ref": "батч Q8-0024…Q8-0030, Scream 20.10.2026",
         "date": "2026-10-21"
       }
+    },
+    {
+      "row": 99,
+      "date": "2026-10-19",
+      "sum": 31235,
+      "currency": "EUR",
+      "company": "ATB",
+      "color": "FF92D050",
+      "clientName": "—",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "📄 28.10.2026 (📨 Платежные Поручения, файл «Transaction-Details_10-28-26.pdf») — SEPA Credit Transfer: From Postbank Business Giro aktiv plus (DE86 1007 0399 0077 8100 00) → To LCI-MTC Group SA (LU05 8160 0003 2289 7800); Booked/Value date 19.10.2026; Amount 31 235,00 €; Description «INV.JYJCCB DD.15.10.2026»; PDF создан 28.10.2026. Строки под этот платёж в 5 таблицах не было (искал по сумме, инвойсу JYJCCB и LCI-MTC) — заведена новая строка, клиент/таблица не определены.",
+      "calc": null,
+      "rowId": "main-000399",
+      "companySource": {
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Scream 28.10.2026 17:12: «это зеленки от ATB",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     },
     {
       "row": 100,
@@ -3940,35 +3948,6 @@
         "file": null
       },
       "companyProvisional": true,
-      "companyVerified": false
-    },
-    {
-      "row": 136,
-      "date": "2026-10-19",
-      "sum": 31235,
-      "currency": "EUR",
-      "company": "ATB",
-      "color": "FF92D050",
-      "clientName": "—",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 28.10.2026 (📨 Платежные Поручения, файл «Transaction-Details_10-28-26.pdf») — SEPA Credit Transfer: From Postbank Business Giro aktiv plus (DE86 1007 0399 0077 8100 00) → To LCI-MTC Group SA (LU05 8160 0003 2289 7800); Booked/Value date 19.10.2026; Amount 31 235,00 €; Description «INV.JYJCCB DD.15.10.2026»; PDF создан 28.10.2026. Строки под этот платёж в 5 таблицах не было (искал по сумме, инвойсу JYJCCB и LCI-MTC) — заведена новая строка, клиент/таблица не определены.",
-      "calc": null,
-      "rowId": "main-000399",
-      "companySource": {
-        "source": "owner_instruction",
-        "date": null,
-        "ref": "Scream 28.10.2026 17:12: «это зеленки от ATB",
-        "messageId": null
-      },
-      "companyProvisional": false,
       "companyVerified": false
     }
   ]
