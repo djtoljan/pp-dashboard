@@ -2006,10 +2006,10 @@
     "date": "2026-10-27",
     "sum": 2143.48,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "2 143,48 + 0,3% + 30 = 2 179,91 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2017,10 +2017,19 @@
     "exchange_to": "VDX",
     "vdx_rate": "80.625",
     "received_usdt": "2159.4 / 244.67",
-    "sent_usdt": null,
-    "notes": "ПП на VDX №5006 от 27.10.2026 (174 275,64 ₽ — номер из документа ПП) | ПП на VDX №5007 от 27.10.2026 (19 746,51 ₽ — номер из документа ПП) | 🏦 27.10.2026 (📨 Молодежь · t12785, файлы «PAYLOAD MALDIVES PVT LTD.pdf» и «VDX.pdf») — два ПП АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274, АО ЮниКредит Банк) → VDX SERVICES - FZCO (ИНН 9909710068, ПСБ г. Ярославль, счёт 40807810000000015414), оба проведены 27.10.2026: ПП № 5006 — тело, {VO21400} «для перечисления (PAYLOAD MALDIVES PVT LTD) Payment under invoice number PLMV-26-1589 от 28/09/2026, поруч. № 30 от 27.10.26 по агентскому договору № 09-02-3/26 от 09.02.26, НДС не облагается»; ПП № 5007 — агентское, {VO21100} «оплата вознаграждения согласно поручению № 30 от 27.10.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026, НДС не облагается». sent_rubles_vdx = тело / агентское, маршрут VDX. Сделка 2 143,48 USD по инвойсу PLMV-26-1589 (PAYLOAD MALDIVES PVT LTD); компании пока нет → 🔵, vdx_rate ждём из VDX-таблицы. | 📄 28.10.2026 (📨 Молодежь · t12785, файлы «Invoice PLMV-26-1589.pdf» и «payment order 3.docx») — документы целевого платежа по этой же сделке: Tax Invoice PLMV-26-1589 от 28.09.2026, эмитент PAYLOAD MALDIVES PVT LTD (Bank of Ceylon, счёт 6320 3422 14 USD, SWIFT BCEYMVMV), bill to PQ18 Limited, позиция Freight Charges (MLE/SVO) 1 × 2 143,48 USD, GST 8% 0,00, итого 2 143,48 USD; Payment Order № 3 от 27.10.2026 на 2 143,48 USD, 100% after payment, бенефициар PAYLOAD MALDIVES PVT LTD, назначение «Payment for transport service under invoice number PLMV-26-1589 от 28/09/2026». Сумма строки 2 143,48 USD не меняется, инвойс/ордер справочно, новой строки нет. (skill invoice-vs-order-sum)",
+    "sent_usdt": 2179.91,
+    "notes": "ПП на VDX №5006 от 27.10.2026 (174 275,64 ₽ — номер из документа ПП) | ПП на VDX №5007 от 27.10.2026 (19 746,51 ₽ — номер из документа ПП) | 🏦 27.10.2026 (📨 Молодежь · t12785, файлы «PAYLOAD MALDIVES PVT LTD.pdf» и «VDX.pdf») — два ПП АО «Фри Лайнс Компани» (ИНН 9727130961, счёт 40702810720010003274, АО ЮниКредит Банк) → VDX SERVICES - FZCO (ИНН 9909710068, ПСБ г. Ярославль, счёт 40807810000000015414), оба проведены 27.10.2026: ПП № 5006 — тело, {VO21400} «для перечисления (PAYLOAD MALDIVES PVT LTD) Payment under invoice number PLMV-26-1589 от 28/09/2026, поруч. № 30 от 27.10.26 по агентскому договору № 09-02-3/26 от 09.02.26, НДС не облагается»; ПП № 5007 — агентское, {VO21100} «оплата вознаграждения согласно поручению № 30 от 27.10.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026, НДС не облагается». sent_rubles_vdx = тело / агентское, маршрут VDX. Сделка 2 143,48 USD по инвойсу PLMV-26-1589 (PAYLOAD MALDIVES PVT LTD); компании пока нет → 🔵, vdx_rate ждём из VDX-таблицы. | 📄 28.10.2026 (📨 Молодежь · t12785, файлы «Invoice PLMV-26-1589.pdf» и «payment order 3.docx») — документы целевого платежа по этой же сделке: Tax Invoice PLMV-26-1589 от 28.09.2026, эмитент PAYLOAD MALDIVES PVT LTD (Bank of Ceylon, счёт 6320 3422 14 USD, SWIFT BCEYMVMV), bill to PQ18 Limited, позиция Freight Charges (MLE/SVO) 1 × 2 143,48 USD, GST 8% 0,00, итого 2 143,48 USD; Payment Order № 3 от 27.10.2026 на 2 143,48 USD, 100% after payment, бенефициар PAYLOAD MALDIVES PVT LTD, назначение «Payment for transport service under invoice number PLMV-26-1589 от 28/09/2026». Сумма строки 2 143,48 USD не меняется, инвойс/ордер справочно, новой строки нет. (skill invoice-vs-order-sum) | ✏️ 29.10.2026 (set-color): company=PQ18 → Q8-расчёт проставлен автоматически, 2 143,48 + 0,3% + 30 = 2 179,91 USDT.",
     "calc": null,
-    "rowId": "mol-000201"
+    "rowId": "mol-000201",
+    "companySource": {
+      "source": "foreign_pp",
+      "file": null,
+      "txid": null,
+      "ref": "BONBILL Payment Certificate O2115682466814623744255",
+      "date": null
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 70,
