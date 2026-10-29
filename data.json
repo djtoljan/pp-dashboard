@@ -3488,7 +3488,7 @@
       "company": "Q8",
       "color": "FF92D050",
       "clientName": "ВТС",
-      "costFormula": null,
+      "costFormula": "38 095,03 × 1,1216514 = 42 729,34 + 50,00 ÷ 0,9965 = 50,18 → 42 779,52 USDT (Q80051)",
       "extra": null,
       "rubles_received": "3471843.89 / 60227.65",
       "statementRef": null,
@@ -3497,8 +3497,8 @@
       "vdx_rate": 80.66,
       "received_usdt": 43745.84,
       "sent_usdt": 42779.52,
-      "notes": "ПП на VDX №164 от 23.10.2026 (3 532 071,54 ₽ — номер из документа ПП) | 📄 23.10.2026 (📨 ВТС t6175, файл «Поручение 73966.pdf») — **ПОРУЧЕНИЕ № 73966 от 23.10.2026** (Transfer request No 73966; Приложение №2 к договору на посреднические услуги № 27062025TК/1 от 24.06.2025): принципал ООО «ВТС» (ИНН 7735171132) → агент ОсОО «БиТрейд Кей Джи», платёж 38 095,03 EUR по инвойсу 73966 от 21.10.2026. Получатель Itrix Co., Ltd. (725 S Metro Building, 20th Floor, Sukhumvit Road, Bangkok 10110, Thailand), банк Siam Commercial Bank PCL (SWIFT SICOTHBK), счёт 468-000094-6-978 (EUR). Контракт ВЭД Sales Contract № 25-01/10 dd 01.10.2025. Курс 91,1364 → 3 471 843,89 RUB; комиссия агента 1,5% + 100 USD. 💰 Инвойс услуг № 73966 от 23.10.2026 (БиТрейд → ВТС): 571,43 EUR (курс 91,1364 = 52 077,65 ₽) + 100,00 USD (курс 81,5000 = 8 150,00 ₽), итого 60 227,65 ₽ — справочно, сумма строки из поручения. | 📄 23.10.2026 (📨 ВТС t6175, файл «73966 инвойс итрикс.xlsx») — **INVOICE № 73966 от 21.10.2026** (Itrix Co., Ltd., 725 S Metro Building, 20th Floor, Sukhumvit Road, Bangkok 10110, Thailand; EUR): 29 позиций профиля/фурнитуры (04J-0600MM, 48J-1200MM серии MR1/MR2/MR3/SAX, 25J-PLAQUETTES, 01A-AXE-INOX, картриджи и пр.), SUBTOTAL = TAX 0 = TOTAL **38 095,03 EUR** — совпадает с суммой поручения 73966. Реквизиты в инвойсе: **Siam Commercial Bank PCL** (BUILDING 2, RUTCHADAPISEK ROAD, CHATUCHAK, BANGKOK 10900, SWIFT SICOTHBK), счета USD 468-000093-8-840 / EUR 468-000094-6-978 / CNY 468-000095-4-156 (EUR-счёт совпадает с поручением); ВТОРОЙ набор — **Bangkok Bank PCL** (333 SILOM ROAD, BANGKOK 10500, SWIFT BKKBTHBK), счета THB 855-0-88156-2 / USD 840-855-0029-403748-501 / EUR 978-855-0029-403755-501 / CNY 156-855-0029-403763-501. BILL TO в файле не заполнен. Банк исполнения не выбираю — нужен ответ Scream'а (в поручении указан Siam Commercial Bank). | 🏦 23.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «БиТрейд Кей Джи.pdf», выписка ВТБ отчёт 17:28) — приходы от ООО «ВТС» (ИНН 7735171132, счёт 40702810738000140608): ВО №4835 **3 471 843,89 ₽** «оплата товара по договору 25-01/10 от 01.10.2025, по инвойсу 73966 от 21.10.2026» = рубли по поручению 73966 (тело); ВО №4836 **60 227,65 ₽** «оплата за посреднические услуги, договор 27062025TК/1 от 24.06.25, инвойс 73966 от 23.10.2026» = агентское вознаграждение (1,5% + 100 USD). rubles_received = 3471843.89 / 60227.65. | ✅ 23.10.2026 (Scream, ЛС «норм отправляй») — банк исполнения по поручению 73966: **Siam Commercial Bank PCL** (SWIFT SICOTHBK, EUR-счёт 468-000094-6-978, совпадает с поручением); набор Bangkok Bank в инвойсе не используется. | 💸 23.10.2026 (📨 Отправки рублей ПП., ЛС Scream) — с БиТрейд (ВТБ, счёт 40807810525640000008) на VDX **3 532 071,54 ₽** «оборудование», заявка 184, ООО «ВТС». Сумма = оба прихода ВТС по выписке (3 471 843,89 ₽ по инвойсу 73966 + 60 227,65 ₽ за посреднические услуги). sent_rubles_vdx = 3 532 071,54 (VDX - заявка 184). | 🏦 23.10.2026 (📨 Отправки рублей ПП., файл «non-resident_order_164_23.10.2026.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №164 от 23.10.2026, ИСПОЛНЕН 23.10.2026 в 18:31:35**: ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008, Филиал «Центральный» Банка ВТБ, БИК 044525411) → «ВиДиИкс Сервисез - ФЗКО» (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555), **3 532 071,54 ₽** {VO60081} «Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.184 от 23.10.2026г. за оборудование, НДС не облагается» — подтверждает sent_rubles_vdx = 3 532 071,54 (VDX - заявка 184). | 🛡️ 28.10.2026: движение OUT 42779.52 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:118). | 📄 28.10.2026 (📨 ПП банка JP Morgan, «Q80051», файл «TFR-A9MJ4YEP EUR 38095.03.PDF») — TRANSACTION RECEIPT: PAYER Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong) → BENEFICIARY ITRIX CO. LTD. (725 S Metro Building, 20th Floor, Sukhumvit Road, Bangkok 10110, Thailand); банк SIAM COMMERCIAL BANK PCL (Bangkok), BIC SICOTHBKXXX; Transaction Amount EUR 38 095,03; **Transaction Status SUCCESS**; Date 28 OCT 2026; Remarks «PAYMENT FOR INVOICE 73966»; UETR 821374a0-7f71-4986-9b1c-1e76daaee14d. Квитанция подтверждает плательщика Q8 и исполнение платежа → 🔴→⬜→🟢 (Q8, SUCCESS без txid допустим).",
-      "calc": null,
+      "notes": "ПП на VDX №164 от 23.10.2026 (3 532 071,54 ₽ — номер из документа ПП) | 📄 23.10.2026 (📨 ВТС t6175, файл «Поручение 73966.pdf») — **ПОРУЧЕНИЕ № 73966 от 23.10.2026** (Transfer request No 73966; Приложение №2 к договору на посреднические услуги № 27062025TК/1 от 24.06.2025): принципал ООО «ВТС» (ИНН 7735171132) → агент ОсОО «БиТрейд Кей Джи», платёж 38 095,03 EUR по инвойсу 73966 от 21.10.2026. Получатель Itrix Co., Ltd. (725 S Metro Building, 20th Floor, Sukhumvit Road, Bangkok 10110, Thailand), банк Siam Commercial Bank PCL (SWIFT SICOTHBK), счёт 468-000094-6-978 (EUR). Контракт ВЭД Sales Contract № 25-01/10 dd 01.10.2025. Курс 91,1364 → 3 471 843,89 RUB; комиссия агента 1,5% + 100 USD. 💰 Инвойс услуг № 73966 от 23.10.2026 (БиТрейд → ВТС): 571,43 EUR (курс 91,1364 = 52 077,65 ₽) + 100,00 USD (курс 81,5000 = 8 150,00 ₽), итого 60 227,65 ₽ — справочно, сумма строки из поручения. | 📄 23.10.2026 (📨 ВТС t6175, файл «73966 инвойс итрикс.xlsx») — **INVOICE № 73966 от 21.10.2026** (Itrix Co., Ltd., 725 S Metro Building, 20th Floor, Sukhumvit Road, Bangkok 10110, Thailand; EUR): 29 позиций профиля/фурнитуры (04J-0600MM, 48J-1200MM серии MR1/MR2/MR3/SAX, 25J-PLAQUETTES, 01A-AXE-INOX, картриджи и пр.), SUBTOTAL = TAX 0 = TOTAL **38 095,03 EUR** — совпадает с суммой поручения 73966. Реквизиты в инвойсе: **Siam Commercial Bank PCL** (BUILDING 2, RUTCHADAPISEK ROAD, CHATUCHAK, BANGKOK 10900, SWIFT SICOTHBK), счета USD 468-000093-8-840 / EUR 468-000094-6-978 / CNY 468-000095-4-156 (EUR-счёт совпадает с поручением); ВТОРОЙ набор — **Bangkok Bank PCL** (333 SILOM ROAD, BANGKOK 10500, SWIFT BKKBTHBK), счета THB 855-0-88156-2 / USD 840-855-0029-403748-501 / EUR 978-855-0029-403755-501 / CNY 156-855-0029-403763-501. BILL TO в файле не заполнен. Банк исполнения не выбираю — нужен ответ Scream'а (в поручении указан Siam Commercial Bank). | 🏦 23.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «БиТрейд Кей Джи.pdf», выписка ВТБ отчёт 17:28) — приходы от ООО «ВТС» (ИНН 7735171132, счёт 40702810738000140608): ВО №4835 **3 471 843,89 ₽** «оплата товара по договору 25-01/10 от 01.10.2025, по инвойсу 73966 от 21.10.2026» = рубли по поручению 73966 (тело); ВО №4836 **60 227,65 ₽** «оплата за посреднические услуги, договор 27062025TК/1 от 24.06.25, инвойс 73966 от 23.10.2026» = агентское вознаграждение (1,5% + 100 USD). rubles_received = 3471843.89 / 60227.65. | ✅ 23.10.2026 (Scream, ЛС «норм отправляй») — банк исполнения по поручению 73966: **Siam Commercial Bank PCL** (SWIFT SICOTHBK, EUR-счёт 468-000094-6-978, совпадает с поручением); набор Bangkok Bank в инвойсе не используется. | 💸 23.10.2026 (📨 Отправки рублей ПП., ЛС Scream) — с БиТрейд (ВТБ, счёт 40807810525640000008) на VDX **3 532 071,54 ₽** «оборудование», заявка 184, ООО «ВТС». Сумма = оба прихода ВТС по выписке (3 471 843,89 ₽ по инвойсу 73966 + 60 227,65 ₽ за посреднические услуги). sent_rubles_vdx = 3 532 071,54 (VDX - заявка 184). | 🏦 23.10.2026 (📨 Отправки рублей ПП., файл «non-resident_order_164_23.10.2026.pdf») — **ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №164 от 23.10.2026, ИСПОЛНЕН 23.10.2026 в 18:31:35**: ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008, Филиал «Центральный» Банка ВТБ, БИК 044525411) → «ВиДиИкс Сервисез - ФЗКО» (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555), **3 532 071,54 ₽** {VO60081} «Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.184 от 23.10.2026г. за оборудование, НДС не облагается» — подтверждает sent_rubles_vdx = 3 532 071,54 (VDX - заявка 184). | 🛡️ 28.10.2026: движение OUT 42779.52 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:118). | 📄 28.10.2026 (📨 ПП банка JP Morgan, «Q80051», файл «TFR-A9MJ4YEP EUR 38095.03.PDF») — TRANSACTION RECEIPT: PAYER Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong) → BENEFICIARY ITRIX CO. LTD. (725 S Metro Building, 20th Floor, Sukhumvit Road, Bangkok 10110, Thailand); банк SIAM COMMERCIAL BANK PCL (Bangkok), BIC SICOTHBKXXX; Transaction Amount EUR 38 095,03; **Transaction Status SUCCESS**; Date 28 OCT 2026; Remarks «PAYMENT FOR INVOICE 73966»; UETR 821374a0-7f71-4986-9b1c-1e76daaee14d. Квитанция подтверждает плательщика Q8 и исполнение платежа → 🔴→⬜→🟢 (Q8, SUCCESS без txid допустим). | Scream 29.10.2026 msg 15653: расчёт Q8/JP Morgan по ордеру (XE 1 EUR = 1,1216514 USD)",
+      "calc": "ТЕЗ",
       "rowId": "main-000371",
       "companySource": {
         "source": "foreign_pp",
@@ -3555,41 +3555,12 @@
     {
       "row": 121,
       "date": "2026-10-26",
-      "sum": 34920,
-      "currency": "USD",
-      "company": "ULUSA EXPORT IMPORT DIS TICARET LTD. STI",
-      "color": "FFFFFFFF",
-      "clientName": "ООО «А-РГО»",
-      "costFormula": null,
-      "extra": "📄 26.10.2026 (📨 ООО А-РГО / Fininvest / ЭТБ, файл «argo CIP moscow.pdf» — скан) — INVOICE № 2026-01822 от 19.01.2026 (ULUSA EXPORT IMPORT DIS TICARET LTD. STI → LLC \"A-RGO\", Калуга): товар 33 948,00 + доставка 972,00 = 34 920,00 USD; 100% PREPAY, CIP Moscow; HALK BANK, IBAN TR74 0001 2009 8590 0053 0004 21, SWIFT TRHBTR2A",
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null,
-      "rowId": "main-000375",
-      "companySource": {
-        "source": "invoice",
-        "date": "2026-01-19",
-        "ref": "2026-01822",
-        "file": "argo CIP moscow.pdf"
-      },
-      "companyProvisional": true,
-      "companyVerified": false
-    },
-    {
-      "row": 122,
-      "date": "2026-10-26",
       "sum": 33264,
       "currency": "EUR",
       "company": "Q8",
       "color": "FF92D050",
       "clientName": "ВТС",
-      "costFormula": null,
+      "costFormula": "33 264,00 × 1,1216514 = 37 310,61 + 50,00 ÷ 0,9965 = 50,18 → 37 360,79 USDT (Q80058)",
       "extra": "📄 26.10.2026 (📨 ВТС t6207, файлы «Поручение 77712.pdf» + «инвойс услуги Би трейд 77712.pdf») — ПОРУЧЕНИЕ № 77712 от 26.10.2026 (Приложение №2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; получатель MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI (Esentepe Mah. Buyukdere Cad. Loft Residence 201/40 Sisli/ISTANBUL), TURKIYE GARANTI BANKASI A.S., IBAN TR38 0006 2000 7210 0009 0492 48, SWIFT TGBATRISXXX; назначение: Sales Contract № 06-07/2026 dd 06.07.2026, инвойс PFI 202603 dd 22/10/2026; курс 90,5000; комиссия Агента 1,5% + 100 USD; срок исполнения 5–10 банковских дней. ИНВОЙС услуг БиТрейд № 77712 от 26.10.2026 (ВТС): 498,96 EUR по курсу 90,5 + 100 USD по курсу 81,3. Тип 5 → ⬜.",
       "rubles_received": "3010392.00 / 53285.88",
       "statementRef": null,
@@ -3598,8 +3569,8 @@
       "vdx_rate": 80.55,
       "received_usdt": 37996.45,
       "sent_usdt": 37360.79,
-      "notes": "ПП на VDX №165 от 26.10.2026 (3 063 677,88 ₽ — номер из документа ПП) |  | 📄 26.10.2026 (📨 ВТС t6207, файл «WTC_PROFORMA INVOICE 22_10_2026 MESTRO EURO.pdf») — PROFORMA INVOICE № PFI 202603 от 22.10.2026 (MESTRO TREATMENT KIMYA SANAYI VE TICARET LTD. STI, İstanbul, EXW): MESTRO 601 S, 88 бочек по 210 кг = 18 480 кг по 3,60 EUR/кг; условия оплаты: 50% сразу, остаток 50% до каждой отгрузки. Эта строка = первый платёж 50% (33 264,00 EUR). | 🏦 26.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693 · файл «VTB_битрейд_26.10.2026_.pdf») — ВЫПИСКА ВТБ (Филиал «Центральный», БИК 044525411) по счёту 40807810525640000008 ОсОО «БиТрейд Кей Джи» за 26.10.2026: приход от ООО «ВТС» (ИНН 7735171132, счёт 40702810738000140608) — ПП №4838 3 010 392,00 ₽ (тело) + ПП №4839 53 285,88 ₽ (агентское вознаграждение). Тело = сумма строки в EUR × 90,5 (первый платёж 50% по проформе MESTRO PFI 202603). rubles_received = тело / агентское. |  | 💸 26.10.2026 (📨 FINIVEST AI · «Отправки рублей ПП») — рублёвый платёж на VDX по заявке **185** (папка «вход 26.10.26», ООО «ВТС», за бочки): sent_rubles_vdx = 3 063 677,88 ₽ (= тело 3 010 392,00 + агентское 53 285,88), exchange_to = VDX. | 💸 27.10.2026 (📨 Отправки рублей ПП., файл «non-resident_order_165_26.10.2026.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 165 от 26.10.2026 (отметка банка «Исполнен 26.10.2026 в 18:54:23», Филиал «Центральный» Банка ВТБ, БИК 044525411): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, КПП 772887001, счёт 40807810525640000008) → «ВиДиИкс Сервисез - ФЗКО» (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), 3 063 677,88 ₽ {VO60081} «Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.185 от 26.10.2026г. за бочки, НДС не облагается». Документ подтверждает sent_rubles_vdx = 3 063 677,88 (тело 3 010 392,00 + агентское 53 285,88), маршрут VDX. Цвет не меняется (рубли ушли на VDX — Step 2). | 🛡️ 28.10.2026: движение OUT 37360.79 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:122). | 📄 28.10.2026 (📨 ВТС · t6207, «Q80058», файл «TFR-HA7TBEHH EUR 33264.00.PDF») — TRANSACTION RECEIPT: PAYER Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong) → BENEFICIARY MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI (Esentepe Mah., Buyukdere Cad., Loft Residence No. 201/40, Sisli, Istanbul, Türkiye); банк TÜRKİYE GARANTI BANKASI A.S. (KAGITHANE BRANCH 721), IBAN TR380006200072100009049248, SWIFT TGBATRISXXX; Transaction Amount EUR 33 264,00; **Transaction Status SUCCESS**; Date 28 OCT 2026; Remarks «PAYMENT FOR INVOICE PFI 202603»; UETR 82136730-7f71-4986-94bf-4100e0d77da0. Подтверждает исполнение платежа по заявке 77712 (Q8 → Mestro) — основание для 🟢.",
-      "calc": null,
+      "notes": "ПП на VDX №165 от 26.10.2026 (3 063 677,88 ₽ — номер из документа ПП) |  | 📄 26.10.2026 (📨 ВТС t6207, файл «WTC_PROFORMA INVOICE 22_10_2026 MESTRO EURO.pdf») — PROFORMA INVOICE № PFI 202603 от 22.10.2026 (MESTRO TREATMENT KIMYA SANAYI VE TICARET LTD. STI, İstanbul, EXW): MESTRO 601 S, 88 бочек по 210 кг = 18 480 кг по 3,60 EUR/кг; условия оплаты: 50% сразу, остаток 50% до каждой отгрузки. Эта строка = первый платёж 50% (33 264,00 EUR). | 🏦 26.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693 · файл «VTB_битрейд_26.10.2026_.pdf») — ВЫПИСКА ВТБ (Филиал «Центральный», БИК 044525411) по счёту 40807810525640000008 ОсОО «БиТрейд Кей Джи» за 26.10.2026: приход от ООО «ВТС» (ИНН 7735171132, счёт 40702810738000140608) — ПП №4838 3 010 392,00 ₽ (тело) + ПП №4839 53 285,88 ₽ (агентское вознаграждение). Тело = сумма строки в EUR × 90,5 (первый платёж 50% по проформе MESTRO PFI 202603). rubles_received = тело / агентское. |  | 💸 26.10.2026 (📨 FINIVEST AI · «Отправки рублей ПП») — рублёвый платёж на VDX по заявке **185** (папка «вход 26.10.26», ООО «ВТС», за бочки): sent_rubles_vdx = 3 063 677,88 ₽ (= тело 3 010 392,00 + агентское 53 285,88), exchange_to = VDX. | 💸 27.10.2026 (📨 Отправки рублей ПП., файл «non-resident_order_165_26.10.2026.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 165 от 26.10.2026 (отметка банка «Исполнен 26.10.2026 в 18:54:23», Филиал «Центральный» Банка ВТБ, БИК 044525411): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, КПП 772887001, счёт 40807810525640000008) → «ВиДиИкс Сервисез - ФЗКО» (ИНН 9909710068, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), 3 063 677,88 ₽ {VO60081} «Оплата по Агентскому договору 4-01 от 13.05.2025 согласно заяв.185 от 26.10.2026г. за бочки, НДС не облагается». Документ подтверждает sent_rubles_vdx = 3 063 677,88 (тело 3 010 392,00 + агентское 53 285,88), маршрут VDX. Цвет не меняется (рубли ушли на VDX — Step 2). | 🛡️ 28.10.2026: движение OUT 37360.79 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:122). | 📄 28.10.2026 (📨 ВТС · t6207, «Q80058», файл «TFR-HA7TBEHH EUR 33264.00.PDF») — TRANSACTION RECEIPT: PAYER Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong) → BENEFICIARY MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI (Esentepe Mah., Buyukdere Cad., Loft Residence No. 201/40, Sisli, Istanbul, Türkiye); банк TÜRKİYE GARANTI BANKASI A.S. (KAGITHANE BRANCH 721), IBAN TR380006200072100009049248, SWIFT TGBATRISXXX; Transaction Amount EUR 33 264,00; **Transaction Status SUCCESS**; Date 28 OCT 2026; Remarks «PAYMENT FOR INVOICE PFI 202603»; UETR 82136730-7f71-4986-94bf-4100e0d77da0. Подтверждает исполнение платежа по заявке 77712 (Q8 → Mestro) — основание для 🟢. | Scream 29.10.2026 msg 15653: расчёт Q8/JP Morgan по ордеру (XE 1 EUR = 1,1216514 USD)",
+      "calc": "ТЕЗ",
       "rowId": "main-000378",
       "companySource": {
         "source": "foreign_pp",
@@ -3612,7 +3583,7 @@
       "companyVerified": true
     },
     {
-      "row": 123,
+      "row": 122,
       "date": "2026-10-27",
       "sum": null,
       "currency": null,
@@ -3633,7 +3604,7 @@
       "rowId": "main-000384"
     },
     {
-      "row": 124,
+      "row": 123,
       "date": "2026-10-27",
       "sum": 1778659,
       "currency": "CNY",
@@ -3654,28 +3625,7 @@
       "rowId": "main-000385"
     },
     {
-      "row": 125,
-      "date": "2026-10-27",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ФИНИНВЕСТ",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": "2751939.23",
-      "statementRef": "ПП №94 от 27.10.2026, АО АКИБ ПОЧТОБАНК, счёт 40807810100157518600",
-      "sent_rubles_vdx": 2751939.23,
-      "exchange_to": "Al Safi",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "🏦 приход по выписке: ПП №94 от 27.10.2026, АО АКИБ ПОЧТОБАНК, счёт 40807810100157518600 | 🏦 27.10.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf», сформировано 27.10.2026 15:15 GMT+05) — выписка АО АКИБ «ПОЧТОБАНК» г. Пермь по счёту 40807810100157518600 (ОсОО «Блэкшарк Трейд», RUB): КРЕДИТ ПП №94 от 27.10.2026 — 2 751 939,23 ₽ от АО «ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ» (ИНН 9909705580, счёт 40807810324600000016, ВТБ, БИК 044525411), назначение {VO60081} «Оплата по Агентскому Договору, НДС не облагается». Заявки/инвойса нет — 🔵, ждём заявку на VDX. rubles_received = 2 751 939,23. В этой же выписке кредит ПП №93 уже стоит в main row 125; дебеты ПП №676 (Al Safi) и ПП №675 (VDX, заявка 863) разнесены ранее. | 💸 27.10.2026 (📨 Отправки рублей ПП., сообщение Scream: «с Блэкшарк почто на Аль Сафи — перевод собственных средств», папка «БлэкШарк\\FININVEST -БШ-Цветы\\вход 27.10.26», ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНОНИМ ШИРКЕТИ) — рубли ушли из ОсОО «Блэкшарк Трейд» (Почтабанк) на Аль Сафи вместе с приходом по ПП №93. sent_rubles_vdx = 2 751 939,23 (маршрут Al Safi).",
-      "calc": null,
-      "rowId": "main-000386"
-    },
-    {
-      "row": 126,
+      "row": 124,
       "date": "2026-10-27",
       "sum": 87037.99,
       "currency": "USD",
@@ -3705,7 +3655,7 @@
       "companyVerified": true
     },
     {
-      "row": 127,
+      "row": 125,
       "date": "2026-10-27",
       "sum": 15854.8,
       "currency": "USD",
@@ -3735,7 +3685,7 @@
       "companyVerified": true
     },
     {
-      "row": 128,
+      "row": 126,
       "date": "2026-10-27",
       "sum": 21350,
       "currency": "USD",
@@ -3764,7 +3714,7 @@
       "companyVerified": false
     },
     {
-      "row": 129,
+      "row": 127,
       "date": "2026-10-27",
       "sum": 19199.78,
       "currency": "USD",
@@ -3793,7 +3743,7 @@
       "companyVerified": false
     },
     {
-      "row": 130,
+      "row": 128,
       "date": "2026-10-27",
       "sum": 2390000,
       "currency": "RUB",
@@ -3814,7 +3764,7 @@
       "rowId": "main-000394"
     },
     {
-      "row": 131,
+      "row": 129,
       "date": "2026-10-28",
       "sum": 28430.56,
       "currency": "EUR",
@@ -3843,7 +3793,7 @@
       "companyVerified": false
     },
     {
-      "row": 132,
+      "row": 130,
       "date": "2026-10-28",
       "sum": 15746.84,
       "currency": "USD",
@@ -3872,36 +3822,7 @@
       "companyVerified": false
     },
     {
-      "row": 133,
-      "date": "2026-10-28",
-      "sum": 180075,
-      "currency": "USD",
-      "company": "CENTUNO",
-      "color": "FFFFFFFF",
-      "clientName": "ООО «А-РГО»",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 28.10.2026 (📨 ООО А-РГО/ Fininvest/ЭТБ, файл «CENTUNO_ULUSA_180075.00_stamped.pdf») — INVOICE № C-10-28-2026-019 от 28.10.2026, due 29.10.2026: CENTUNO COMPANY LIMITED (No.399, Interchange 21 Building, 33rd Floor, Sukhumvit Road, Khlong Toei Nuea, Vadhana, Bangkok 10110) → To: ULUSA EXPORT IMPORT DIŞ TICARET LTD. ŞTI (Hırka-i Şerif Mahallesi, Keçeci Çeşmesi Sok., Fatih, İstanbul 34091, Türkiye); позиции HAR36, TB-0535FCS, TB-09200E, MAJ-901, MAJ-902; итого/к оплате 180 075,00 USD; банк Siam Commercial Bank (3rd Fl., 8 Soi Sukhumwit 35, Bangkok 10110), SWIFT SICOTHBK, USD-счёт 468-000186-1-840. Сумма строки = сумма инвойса; компания CENTUNO по инвойсу (поставщик/получатель платежа), плательщик в документе не назван — ⬜ от инвойса, клиент ООО «А-РГО». | 📄 28.10.2026 (📨 ООО А-РГО/ Fininvest/ЭТБ, файл «Centuno_SCB_25.09.25.docx») — КАРТОЧКА КОМПАНИИ CENTUNO CO., LTD.: Centuno Company Limited, дата регистрации 02.06.2024, адрес No.399, Interchange 21 Building, 33rd Floor, Sukhumvit Road, Khlong Toei Nuea, Vadhana, Bangkok 10110; tax/registration number 0105567124871; директор Andreas Micheilis (гражданин Германии); сайты boostytrade.com (general trading), centuno360.com (IT/marketing); email info@boostytrade.com, questions@centuno360.com. Банковские реквизиты: Siam Commercial Bank (3rd Fl., 8 Soi Sukhumwit 35, Charoenniwet, Khlong Tan Nuea, Watthana, Bangkok 10110), SWIFT SICOTHBK; счета в USD, EUR, THB, CNY; для CNY корреспондентский банк — Bank of China Hong Kong (SWIFT BKCHHKHH). Подтверждает получателя и банк инвойса C-10-28-2026-019 (USD-счёт из инвойса = карточка).",
-      "calc": null,
-      "rowId": "main-000397",
-      "companySource": {
-        "source": "invoice",
-        "date": null,
-        "ref": "INVOICE C-10-28-2026-019 dd 28.10.2026 (Centuno Co.",
-        "file": null
-      },
-      "companyProvisional": true,
-      "companyVerified": false
-    },
-    {
-      "row": 134,
+      "row": 131,
       "date": "2026-10-28",
       "sum": 20380.54,
       "currency": "EUR",
