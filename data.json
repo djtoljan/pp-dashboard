@@ -3905,8 +3905,8 @@
       "date": "2026-10-29",
       "sum": 30248.71,
       "currency": "EUR",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "Z SOURCE",
+      "color": "FFFFFFFF",
       "clientName": "ВТС",
       "costFormula": null,
       "extra": null,
@@ -3917,9 +3917,18 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 29.10.2026 (📨 ВТС · t6402, файлы «Itrix invoice евро 72124.xlsx» + «инвойс услуги Би трейд 72124.pdf») — **INVOICE № 72124 от 2026-06-15, EUR**: продавец **Itrix Co., Ltd.** (725 S Metro Building, 20th Floor, Sukhumvit Road, Khlong Tan Nuea, Watthana, Bangkok 10110; Siam Commercial Bank PCL, SWIFT SICOTHBK; EUR A/C 468-000094-6-978) → покупатель **LLC «WTC»** (117105, Москва, Новоданиловская наб., 4А, пом. 11/2/6), Sales Contract № 25-01/10 от 01.10.2025. Позиции: Fineamin 06 13 000 кг × 3,2 = 42 447,20; Fineamin 06 840 кг × 3,2 = 2 743,75; Fineamin 85 5 000 кг × 3,2 = 15 305,48; **TOTAL 60 496,43 EUR**, TAX 0. Пре-пей разбит: 30 247,72 + 30 248,71 (= 60 496,43). Заявка **72124** = **30 248,71 EUR** (второй пре-пей). | 🧾 29.10.2026 (📨 ВТС · t6402): **Инвойс ООО «БиТрейд Кей Джи» № 72124 от 29.10.2026** (договор 27062025TК/1 от 24.06.2025) покупателю ООО «ВТС»: посреднические услуги — 453,73 EUR по курсу 90,1660 = **40 911,07 ₽** + 100,00 USD по курсу 80,8664 = **8 086,64 ₽**; **ИТОГО 48 997,72 ₽** (ВТБ, р/с 40807810525640000008). ⚠️ компания не названа → 🔴. | 📄 29.10.2026 (📨 ВТС · t6402, файл «Поручение 72124.pdf») — **ПОРУЧЕНИЕ № 72124 от 29.10.2026** (Transfer request No 72124; Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал **ООО «ВТС»** → Агент **ОсОО «БиТрейд Кей Джи»**, платёж по инвойсу **72124 от 15.06.2025**. Сумма **30 248,71 EUR**; получатель **Itrix Co., Ltd.** (725 S Metro Building, 20th Floor, Sukhumvit Road, Bangkok 10110; Siam Commercial Bank PCL, SWIFT **SICOTHBK**, EUR счёт **468-000094-6-978**); назначение «Sales Contract № 25-01/10 dd 01.10.2025, инвойс 72124 dd 15.06.2025»; курс **90,1660**; к перечислению **2 727 405,19 ₽**; комиссия Агента **1,5% + 100 USD** (инвойс услуг 72124 = 48 997,72 ₽). Срок 5–10 банк. дней. Подписи: Бондарев А.П. + Курьянов А.А. ⚠️ компания-плательщик не названа → 🔴.",
       "calc": null,
-      "rowId": "main-000404"
+      "rowId": "main-000404",
+      "companySource": {
+        "source": "foreign_pp",
+        "file": "Z SOURCE LIMITED.pdf",
+        "txid": null,
+        "ref": "ACCOUNT CONFIRMATION 14-09-2026",
+        "date": null
+      },
+      "companyProvisional": false,
+      "companyVerified": true
     }
   ]
 }
