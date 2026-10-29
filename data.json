@@ -3828,6 +3828,27 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 131,
+      "date": "2026-10-29",
+      "sum": 7008414.03,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "7008414.03",
+      "statementRef": "ПП №95 от 29.10.2026, АО АКИБ ПОЧТОБАНК, счёт 40807810100157518600",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: ПП №95 от 29.10.2026, АО АКИБ ПОЧТОБАНК, счёт 40807810100157518600",
+      "calc": null,
+      "rowId": "main-000400"
     }
   ]
 }
