@@ -1828,7 +1828,7 @@
     "sum": 32863.4,
     "currency": "EUR",
     "company": "ATB",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "(32 863,40 × 1,0025 + 80) × 1,11345 = 36 772,31 USDT (XE EUR/USD 1,11345)",
     "extra": null,
