@@ -1769,5 +1769,26 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 65,
+    "date": "2026-10-29",
+    "sum": 146067.42,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Gulf Flowers FZCO (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000168"
   }
 ]
