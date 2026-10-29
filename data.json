@@ -3935,10 +3935,10 @@
       "date": "2026-10-29",
       "sum": 10191.53,
       "currency": "USD",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "Q8",
+      "color": "FFFFFFFF",
       "clientName": "ООО ЕТЕ",
-      "costFormula": null,
+      "costFormula": "10 191,53 + 0,3% + 30 = 10 252,10 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -3946,10 +3946,18 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null,
-      "rowId": "main-000406"
+      "sent_usdt": 10252.1,
+      "notes": "✏️ 29.10.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 10 191,53 + 0,3% + 30 = 10 252,10 USDT.",
+      "calc": "ТЕЗ",
+      "rowId": "main-000406",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "76636",
+        "file": "Data Flow invoice 10191"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
