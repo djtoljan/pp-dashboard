@@ -1433,7 +1433,7 @@
     "sum": null,
     "currency": null,
     "company": null,
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Приоритет Маркет (Цветы)",
     "costFormula": "152683.09 USDT",
     "extra": null,
