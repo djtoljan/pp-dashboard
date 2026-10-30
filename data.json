@@ -3807,7 +3807,7 @@
       "sum": 20380.54,
       "currency": "EUR",
       "company": "Q8",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": "20 380,54 EUR × 1,1252 = 22 933,10; TT fee 50,00 ÷ 0,9965 = 50,18; итого 22 983,28 USDT (JP Morgan, заявка Q8-0068)",
       "extra": null,
