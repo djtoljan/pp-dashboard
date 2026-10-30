@@ -924,12 +924,12 @@
       "calc": "ТЕЗ",
       "rowId": "main-000233",
       "companySource": {
-        "source": "invoice",
-        "date": "2026-10-07",
-        "ref": "notes: Компания-плательщик **NAGLE",
-        "backfill": true
+        "source": "order",
+        "date": "2026-10-12",
+        "ref": "Payment from NAGLE",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
@@ -1767,12 +1767,12 @@
         }
       ],
       "companySource": {
-        "source": "invoice",
+        "source": "order",
         "date": "2026-10-09",
-        "ref": "notes: Компания-плательщик **Travelcom",
-        "backfill": true
+        "ref": "Payment from Travelcom",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
@@ -2169,12 +2169,12 @@
       "calc": "ТЕЗ",
       "rowId": "main-000281",
       "companySource": {
-        "source": "invoice",
+        "source": "order",
         "date": "2026-10-12",
-        "ref": "notes: Компания-плательщик **SURYA",
-        "backfill": true
+        "ref": "Payment from SURYA",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
@@ -2484,7 +2484,7 @@
       "date": "2026-10-14",
       "sum": 20452.5,
       "currency": "USD",
-      "company": "CENTUNO",
+      "company": "TOMO",
       "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "20 452,00 × 1,0035 + 100 = 20 623,58 USDT",
@@ -2500,18 +2500,19 @@
       "calc": "ТЕЗ",
       "rowId": "main-000307",
       "companySource": {
-        "source": "invoice",
-        "date": "2026-10-14",
-        "ref": "PI260915026",
-        "file": "PI260915026 xt (3).pdf"
+        "source": "order",
+        "date": "2026-10-16",
+        "ref": "Payment from TOMO",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false,
       "costSource": "operator",
       "costSourceRef": {
         "ref": "operator; Ордера и Расчеты; сделка № 20261016/407/5PALM/128/Kraft/USDT/RUB; 16.10.2026",
         "date": "2026-10-16"
-      }
+      },
+      "calcStale": true
     },
     {
       "row": 87,
