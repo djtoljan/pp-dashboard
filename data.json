@@ -3987,12 +3987,12 @@
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": 801350.14,
+      "exchange_to": "VDX",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "💸 30.10.2026 (📨 Отправки рублей ПП.): с «БиТрейд Кей Джи» (ВТБ) на VDX — **801 350,14 ₽**, назначение «автозапчасти», **заявка 195**, клиент **ООО «ВТС»**. Доки на вход: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 30.10.26_1. sent_rubles_vdx = 801 350,14, exchange_to = VDX; ждём ПП/ордер с номером и курс VDX. Сумма сделки в валюте не названа.",
       "calc": null,
       "rowId": "main-000415"
     }
