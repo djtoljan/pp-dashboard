@@ -3944,6 +3944,36 @@
       "notes": "💸 30.10.2026 (📨 Отправки рублей ПП.): с «БиТрейд Кей Джи» (ВТБ) на VDX — **9 306 872,89 ₽**, назначение «велошлемы», **заявка 194**, клиент **ООО «ВТС»**. Доки на вход: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 30.10.26. sent_rubles_vdx = 9 306 872,89, exchange_to = VDX; ждём ПП/ордер с номером и курс VDX. Сумма сделки в валюте не названа.",
       "calc": null,
       "rowId": "main-000413"
+    },
+    {
+      "row": 136,
+      "date": "2026-10-30",
+      "sum": 157946.62,
+      "currency": "EUR",
+      "company": "Fininvest",
+      "color": "FFFFFFFF",
+      "clientName": "Маяк",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000414",
+      "companySource": {
+        "source": "foreign_pp",
+        "file": null,
+        "txid": null,
+        "ref": "25-12-12/ДС-3_27.10.2026",
+        "date": null
+      },
+      "companyProvisional": false,
+      "companyVerified": true
     }
   ]
 }
