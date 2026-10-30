@@ -2304,35 +2304,6 @@
     {
       "row": 80,
       "date": "2026-10-13",
-      "sum": 635500,
-      "currency": "CNY",
-      "company": "Q8",
-      "color": "FFFFFFFF",
-      "clientName": "VDX",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": 95532,
-      "sent_usdt": null,
-      "notes": "📄 13.10.2026 (📨 Платежи VDX, файл «A-PI0013102026.pdf») — **Invoice A-PI0013102026 dd 13-Oct-26** (продавец **BOMPROFI LIMITED**, FLAT RM D3 3F REALITY TOWER CHAI WAN NO.4 SUN ON STREET, HK) → Payer / Ship To **Q8 GROUP LIMITED** (18/F, The Center, 99 Queen’s Road Central, Central, Hong Kong); Shipment terms **EXW – Shenzhen / EXW – Hong Kong**; Payment terms **100% TT in advance**; позиция **XL-5050RGBC-WS2812B** (произв. **XINGLIGHT**, DC 24+, HS 94054090), 98 344 шт, price ¥6,462; **TOTAL ¥635 500,00**; банк **JP Morgan Chase HONG KONG BRANCH** (The Quayside, 18/F Tower 1, 77 Hoi Bun Road, Kwun Tong, HK), SWIFT **CHASHKHHXXX**, счёт **63115227989**. Совпадений по 635 500 / A-PI0013102026 / BOMPROFI в 5 таблицах нет — новая строка. Компания **Q8**; клиент **VDX** (канал «Платежи VDX») → ⬜; Q8-расчёт ждёт курс (CNY). | | 🟢 13.10.2026 (Bobr IN **95 532,0 USDT** на кошелёк «Рабочий 4» TKrAyPuM… от TRF9PZfh…, txid cb1c5d7b…cbd0f): **под заявку 635 500** (Scream) → Q9 отправлен (клиент **VDX**), леджер IN_95532_13.10.2026. received_usdt = 95532.",
-      "calc": null,
-      "rowId": "main-000296",
-      "companySource": {
-        "source": "unverified-legacy",
-        "date": null,
-        "ref": "нет основания в notes/документах на 2026-10-17",
-        "backfill": true
-      },
-      "companyProvisional": false,
-      "companyVerified": false
-    },
-    {
-      "row": 81,
-      "date": "2026-10-13",
       "sum": 4548,
       "currency": "USD",
       "company": "Z SOURCE",
@@ -2360,7 +2331,7 @@
       "companyVerified": false
     },
     {
-      "row": 82,
+      "row": 81,
       "date": "2026-10-13",
       "sum": 56321.88,
       "currency": "USD",
@@ -2389,7 +2360,7 @@
       "companyVerified": false
     },
     {
-      "row": 83,
+      "row": 82,
       "date": "2026-10-13",
       "sum": 14200,
       "currency": "USD",
@@ -2422,7 +2393,7 @@
       "companyVerified": false
     },
     {
-      "row": 84,
+      "row": 83,
       "date": "2026-10-13",
       "sum": 47817.81,
       "currency": "USD",
@@ -2455,65 +2426,7 @@
       "companyVerified": true
     },
     {
-      "row": 85,
-      "date": "2026-10-13",
-      "sum": 29000,
-      "currency": "USD",
-      "company": "Q8",
-      "color": "FFFFFFFF",
-      "clientName": "VDX",
-      "costFormula": "29 000,00 + 0,3% + 30 = 29 117,00 USDT",
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": 29246,
-      "sent_usdt": 29117,
-      "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 29 000,00 + 0,3% + 30 = 29 117,00 USDT. | 📄 13.10.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️», файл «INVOICE 29000 USD.pdf» — скан, читал вижном) — **Заявка/ордер на платёж**: Company **Q8**; Beneficiary **Chongqing Maideng Motorcycle Co., Ltd.** (重庆迈登摩托车有限公司; Factory Building 101, Building 2-1, Liando U Valley – Chongqing Qingfeng International Enterprise Park, No. 30 Fengji Road, Fenghuang Town, Shapingba District, Chongqing, China); Bank **Bank of China** (No. 1 Shengli Street, Beibei District, Chongqing 400700), SWIFT **BKCHCNBJ59A**, счёт **108888537424**; Payment details «MD20261012»; Amount **29 000,00 USD**; OUR. Проформа (Chongqing Maideng → Buyer **ALL DAY GLOBAL LIMITED**, Kwun Tong, HK; No. ADMD984037): T19-YZ300X-B 10× US$3 293,41 + T19-YZ300X 10× US$3 716,02 = **US$70 094,31**; + spare parts US$8 867,66; ORDER TOTAL BALANCE **US$49 066,02**. Совпадений в 5 таблицах нет — новая строка. Компания **Q8**; клиент **VDX** → ⬜; расчёт Q8 = 29 000,00 + 0,3% + 30 = 29 117,00 USDT. | | 🟢 13.10.2026 (Bobr IN **29 246,0 USDT** на кошелёк «Рабочий 4» TKrAyPuM… от TJPWsMVE…, txid df10b2c7…85da): **под заявку 29000** (Scream) → Q9 отправлен (клиент **VDX**), леджер IN_29246_13.10.2026. received_usdt = 29246.",
-      "calc": "ТЕЗ",
-      "rowId": "main-000302",
-      "companySource": {
-        "source": "unverified-legacy",
-        "date": null,
-        "ref": "нет основания в notes/документах на 2026-10-17",
-        "backfill": true
-      },
-      "companyProvisional": false,
-      "companyVerified": false
-    },
-    {
-      "row": 86,
-      "date": "2026-10-13",
-      "sum": 100209.7,
-      "currency": "USD",
-      "company": "Q8",
-      "color": "FFFFFFFF",
-      "clientName": "VDX",
-      "costFormula": "100 209,70 + 0,3% + 30 = 100 540,33 USDT",
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": 100610,
-      "sent_usdt": 100540.33,
-      "notes": "✏️ 13.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 100 209,70 + 0,3% + 30 = 100 540,33 USDT. | 📄 13.10.2026 (📨 Платежи VDX, подпись «Payment from Q8❗️», файл «WELL 118-120 Inf for balance payment.pdf») — **Заявка/ордер на платёж**: Company **Q8**; Beneficiary **SHANGHAI WELL INDUSTRIES CO., LTD.** (Suite 1201, Bldg. 2, Baoshan Wanda Plaza, Shanghai 200435, China); Bank **ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD.** (13F, Chouyin Mansion, No. 158 Wangchao Rd, Shangcheng District, Hangzhou 310016, China), SWIFT **CZCBCN2X**, счёт **NRA18801142010500003149** (буквы «NRA» указывать обязательно); intermediary **CHASUS33**; Payment details: **Inv 26OP0522NG1, 26OP0522NG2, 26OP0522NG3, 26OP0824NN8**; Amount **100 209,70 USD**; **OUR**. Инвойс Well 118-120 (balance payment): Total ¥1 261 405,00, депозит 30% ¥590 000,00, остаток ¥671 405,00 = 100 209,70 USD. Совпадений в 5 таблицах нет — новая строка. Компания **Q8**; клиент **VDX** → ⬜; расчёт Q8 = 100 209,70 + 0,3% + 30 = **100 540,33 USDT**. | 🛡️ 13.10.2026: движение IN 100610 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:92). | 🟢 13.10.2026 (Bobr IN **100 610,0 USDT** на кошелёк «Рабочий 4» TKrAyPuM… от TRF9PZfhvuadLLBBTgaEK6wtiyN8V65Y6G, txid 8151451de4fe49406d10b3355cdd7c2cc0ce1cf7ed830e3ec8c3eb5de88421f5): **под заявку 100209.70** (Scream) → Q9 отправлен (клиент **VDX**), леджер IN_100610_13.10.2026. received_usdt = 100610.",
-      "calc": "ТЕЗ",
-      "rowId": "main-000303",
-      "companySource": {
-        "source": "unverified-legacy",
-        "date": null,
-        "ref": "нет основания в notes/документах на 2026-10-17",
-        "backfill": true
-      },
-      "companyProvisional": false,
-      "companyVerified": false
-    },
-    {
-      "row": 87,
+      "row": 84,
       "date": "2026-10-14",
       "sum": null,
       "currency": null,
@@ -2534,7 +2447,7 @@
       "rowId": "main-000305"
     },
     {
-      "row": 88,
+      "row": 85,
       "date": "2026-10-14",
       "sum": 16687.72,
       "currency": "USD",
@@ -2567,7 +2480,7 @@
       "companyVerified": false
     },
     {
-      "row": 89,
+      "row": 86,
       "date": "2026-10-14",
       "sum": 20452.5,
       "currency": "USD",
@@ -2601,7 +2514,7 @@
       }
     },
     {
-      "row": 90,
+      "row": 87,
       "date": "2026-10-14",
       "sum": 58265.44,
       "currency": "USD",
@@ -2634,7 +2547,7 @@
       "companyVerified": false
     },
     {
-      "row": 91,
+      "row": 88,
       "date": "2026-10-15",
       "sum": 26994.31,
       "currency": "EUR",
@@ -2667,7 +2580,7 @@
       "companyVerified": false
     },
     {
-      "row": 92,
+      "row": 89,
       "date": "2026-10-15",
       "sum": 11408.57,
       "currency": "EUR",
@@ -2701,7 +2614,7 @@
       "companyVerified": false
     },
     {
-      "row": 93,
+      "row": 90,
       "date": "2026-10-16",
       "sum": 20649.75,
       "currency": "EUR",
@@ -2742,7 +2655,7 @@
       ]
     },
     {
-      "row": 94,
+      "row": 91,
       "date": "2026-10-19",
       "sum": 100000,
       "currency": "EUR",
@@ -2773,7 +2686,7 @@
       "calcStale": true
     },
     {
-      "row": 95,
+      "row": 92,
       "date": "2026-10-19",
       "sum": 35129.22,
       "currency": "EUR",
@@ -2802,7 +2715,7 @@
       "companyVerified": false
     },
     {
-      "row": 96,
+      "row": 93,
       "date": "2026-10-19",
       "sum": 21762.6,
       "currency": "USD",
@@ -2831,7 +2744,7 @@
       "companyVerified": false
     },
     {
-      "row": 97,
+      "row": 94,
       "date": "2026-10-19",
       "sum": 10300,
       "currency": "USD",
@@ -2860,7 +2773,7 @@
       "companyVerified": false
     },
     {
-      "row": 98,
+      "row": 95,
       "date": "2026-10-19",
       "sum": 49746,
       "currency": "USD",
@@ -2894,7 +2807,7 @@
       }
     },
     {
-      "row": 99,
+      "row": 96,
       "date": "2026-10-19",
       "sum": 31235,
       "currency": "EUR",
@@ -2923,7 +2836,7 @@
       "companyVerified": false
     },
     {
-      "row": 100,
+      "row": 97,
       "date": "2026-10-20",
       "sum": 20409.53,
       "currency": "EUR",
@@ -2964,7 +2877,7 @@
       ]
     },
     {
-      "row": 101,
+      "row": 98,
       "date": "2026-10-20",
       "sum": 11159.34,
       "currency": "EUR",
@@ -2993,7 +2906,7 @@
       "companyVerified": false
     },
     {
-      "row": 102,
+      "row": 99,
       "date": "2026-10-20",
       "sum": 32562.5,
       "currency": "EUR",
@@ -3022,7 +2935,7 @@
       "companyVerified": false
     },
     {
-      "row": 103,
+      "row": 100,
       "date": "2026-10-20",
       "sum": null,
       "currency": null,
@@ -3043,7 +2956,7 @@
       "rowId": "main-000341"
     },
     {
-      "row": 104,
+      "row": 101,
       "date": "2026-10-21",
       "sum": 17319.37,
       "currency": "EUR",
@@ -3077,7 +2990,7 @@
       }
     },
     {
-      "row": 105,
+      "row": 102,
       "date": "2026-10-21",
       "sum": 38545.82,
       "currency": "EUR",
@@ -3111,7 +3024,7 @@
       }
     },
     {
-      "row": 106,
+      "row": 103,
       "date": "2026-10-21",
       "sum": null,
       "currency": null,
@@ -3132,7 +3045,7 @@
       "rowId": "main-000355"
     },
     {
-      "row": 107,
+      "row": 104,
       "date": "2026-10-21",
       "sum": 21334.01,
       "currency": "EUR",
@@ -3166,7 +3079,7 @@
       }
     },
     {
-      "row": 108,
+      "row": 105,
       "date": "2026-10-22",
       "sum": 69245,
       "currency": "USD",
@@ -3195,7 +3108,7 @@
       "companyVerified": false
     },
     {
-      "row": 109,
+      "row": 106,
       "date": "2026-10-22",
       "sum": 16701.24,
       "currency": "EUR",
@@ -3224,7 +3137,7 @@
       "companyVerified": false
     },
     {
-      "row": 110,
+      "row": 107,
       "date": "2026-10-22",
       "sum": 39495,
       "currency": "USD",
@@ -3253,7 +3166,7 @@
       "companyVerified": false
     },
     {
-      "row": 111,
+      "row": 108,
       "date": "2026-10-22",
       "sum": 34630,
       "currency": "USD",
@@ -3287,7 +3200,7 @@
       "payment_system": "JP Morgan"
     },
     {
-      "row": 112,
+      "row": 109,
       "date": "2026-10-22",
       "sum": 4865,
       "currency": "USD",
@@ -3321,7 +3234,7 @@
       "payment_system": "JP Morgan"
     },
     {
-      "row": 113,
+      "row": 110,
       "date": "2026-10-22",
       "sum": 49293.54,
       "currency": "USD",
@@ -3355,7 +3268,7 @@
       }
     },
     {
-      "row": 114,
+      "row": 111,
       "date": "2026-10-22",
       "sum": 22800,
       "currency": "USD",
@@ -3384,7 +3297,7 @@
       "companyVerified": false
     },
     {
-      "row": 115,
+      "row": 112,
       "date": "2026-10-22",
       "sum": 42886.88,
       "currency": "USD",
@@ -3418,7 +3331,7 @@
       "payment_system": "JP Morgan"
     },
     {
-      "row": 116,
+      "row": 113,
       "date": "2026-10-23",
       "sum": 18100,
       "currency": "EUR",
@@ -3447,7 +3360,7 @@
       "companyVerified": false
     },
     {
-      "row": 117,
+      "row": 114,
       "date": "2026-10-23",
       "sum": 6435.07,
       "currency": "USD",
@@ -3481,7 +3394,7 @@
       "payment_system": "JP Morgan"
     },
     {
-      "row": 118,
+      "row": 115,
       "date": "2026-10-23",
       "sum": 38095.03,
       "currency": "EUR",
@@ -3511,7 +3424,7 @@
       "companyVerified": true
     },
     {
-      "row": 119,
+      "row": 116,
       "date": "2026-10-23",
       "sum": null,
       "currency": null,
@@ -3532,7 +3445,7 @@
       "rowId": "main-000376"
     },
     {
-      "row": 120,
+      "row": 117,
       "date": "2026-10-23",
       "sum": null,
       "currency": null,
@@ -3553,7 +3466,7 @@
       "rowId": "main-000377"
     },
     {
-      "row": 121,
+      "row": 118,
       "date": "2026-10-26",
       "sum": 33264,
       "currency": "EUR",
@@ -3583,7 +3496,7 @@
       "companyVerified": true
     },
     {
-      "row": 122,
+      "row": 119,
       "date": "2026-10-27",
       "sum": null,
       "currency": null,
@@ -3604,7 +3517,7 @@
       "rowId": "main-000384"
     },
     {
-      "row": 123,
+      "row": 120,
       "date": "2026-10-27",
       "sum": 87037.99,
       "currency": "USD",
@@ -3634,7 +3547,7 @@
       "companyVerified": true
     },
     {
-      "row": 124,
+      "row": 121,
       "date": "2026-10-27",
       "sum": 15854.8,
       "currency": "USD",
@@ -3664,7 +3577,7 @@
       "companyVerified": true
     },
     {
-      "row": 125,
+      "row": 122,
       "date": "2026-10-27",
       "sum": 21350,
       "currency": "USD",
@@ -3693,7 +3606,7 @@
       "companyVerified": false
     },
     {
-      "row": 126,
+      "row": 123,
       "date": "2026-10-27",
       "sum": 19199.78,
       "currency": "USD",
@@ -3722,7 +3635,7 @@
       "companyVerified": false
     },
     {
-      "row": 127,
+      "row": 124,
       "date": "2026-10-27",
       "sum": 2390000,
       "currency": "RUB",
@@ -3743,7 +3656,7 @@
       "rowId": "main-000394"
     },
     {
-      "row": 128,
+      "row": 125,
       "date": "2026-10-28",
       "sum": 28430.56,
       "currency": "EUR",
@@ -3772,7 +3685,7 @@
       "companyVerified": false
     },
     {
-      "row": 129,
+      "row": 126,
       "date": "2026-10-28",
       "sum": 22582.28,
       "currency": "USD",
@@ -3802,7 +3715,7 @@
       "payment_system": "JP Morgan"
     },
     {
-      "row": 130,
+      "row": 127,
       "date": "2026-10-28",
       "sum": 20380.54,
       "currency": "EUR",
@@ -3832,7 +3745,7 @@
       "payment_system": "JP Morgan"
     },
     {
-      "row": 131,
+      "row": 128,
       "date": "2026-10-29",
       "sum": 7008414.03,
       "currency": null,
@@ -3853,7 +3766,7 @@
       "rowId": "main-000400"
     },
     {
-      "row": 132,
+      "row": 129,
       "date": "2026-10-29",
       "sum": null,
       "currency": null,
@@ -3874,7 +3787,7 @@
       "rowId": "main-000401"
     },
     {
-      "row": 133,
+      "row": 130,
       "date": "2026-10-29",
       "sum": 15000,
       "currency": "EUR",
@@ -3903,7 +3816,7 @@
       "companyVerified": false
     },
     {
-      "row": 134,
+      "row": 131,
       "date": "2026-10-29",
       "sum": 30248.71,
       "currency": "EUR",
@@ -3933,7 +3846,7 @@
       "companyVerified": true
     },
     {
-      "row": 135,
+      "row": 132,
       "date": "2026-10-29",
       "sum": 10191.53,
       "currency": "USD",
@@ -3962,7 +3875,7 @@
       "companyVerified": false
     },
     {
-      "row": 136,
+      "row": 133,
       "date": "2026-10-30",
       "sum": null,
       "currency": null,
@@ -3983,7 +3896,7 @@
       "rowId": "main-000409"
     },
     {
-      "row": 137,
+      "row": 134,
       "date": "2026-10-30",
       "sum": 8655.14,
       "currency": "EUR",
@@ -4010,6 +3923,27 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 135,
+      "date": "2026-10-30",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000413"
     }
   ]
 }
