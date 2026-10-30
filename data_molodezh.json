@@ -2188,5 +2188,26 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 76,
+    "date": "2026-10-30",
+    "sum": 54054,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Акварайм (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000208"
   }
 ]
