@@ -3765,7 +3765,7 @@
       "company": "ATB",
       "color": "FFFFFFFF",
       "clientName": "ИП Мазуренко",
-      "costFormula": "(15 000,00 × 1,0025 + 80) × 1,11932 = 16 921 USDT (расчёт Scream 30.10.2026)",
+      "costFormula": "(15 000,00 × 1,0025 + 80) × 1,11932 = 16 921 USDT",
       "extra": null,
       "rubles_received": "1351500.00 / 21624.00",
       "statementRef": null,
@@ -3778,13 +3778,18 @@
       "calc": null,
       "rowId": "main-000403",
       "companySource": {
-        "source": "owner_instruction",
+        "source": "order",
         "date": null,
-        "ref": null,
-        "messageId": "59724"
+        "ref": "Payment from ATB",
+        "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "owner_instruction: FINIVEST AI, Scream, 30.10.2026 15:06 MSK — формула '(15 000,00 EUR * 1.0025 + 80) * 1.11932 = 16921' + адрес TVu4TSpAXKdPHLzaMdKfGmwsvkmC4rFZk3",
+        "date": "2026-10-30"
+      }
     },
     {
       "row": 130,
