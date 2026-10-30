@@ -1868,7 +1868,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 59420.61,
-    "notes": "✏️ 30.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 59 212,97 + 0,3% + 30 = 59 420,61 USDT.",
+    "notes": "✏️ 30.10.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 59 212,97 + 0,3% + 30 = 59 420,61 USDT. | 📄 30.10.2026 (📨 Цветы, файл «ModestoGroup_FL01_301026_59212_97_USD.pdf» — текстовый слой) — **INVOICE № FL01/301026 от 30.10.2026** (ModestoGroup OU, Reg. code 16203107, info@m-flowers.com; IBAN **GB32TCCL04143483461312**, BIC **TCCLGB3L**, THE CURRENCY CLOUD LIMITED, 1 Sheldon Square, London W2 6TT) → Bill to **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). Позиции: **Kenyan rose mix — 75 000 шт × 0,59 = 44 250,00 USD**; **Air logistics services — 14 962,97 USD**; **Total USD 59 212,97**. Строка заведена под инвойс, компания Q8 из инвойса → ⬜; ждём платёжный документ/исполнение.",
     "calc": null,
     "rowId": "flw-000170",
     "companySource": {
