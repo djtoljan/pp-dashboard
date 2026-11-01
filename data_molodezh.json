@@ -2213,10 +2213,10 @@
   {
     "row": 77,
     "date": "2026-10-30",
-    "sum": null,
-    "currency": null,
+    "sum": 267500,
+    "currency": "USD",
     "company": null,
-    "color": "FF4FC3F7",
+    "color": "FFFF0000",
     "clientName": "ООО «СТРЕЛОЙ Е-КОММЕРЦ» (Молодёжь)",
     "costFormula": null,
     "extra": null,
