@@ -967,7 +967,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, «Платит ATB», файл «6550_201 inv BZT 87 758.80 eur ATB Service GmbH.pdf») — **PRO FORMA INVOICE № D-BZT-51** от 02.11.2026 (срок оплаты 12.11.2026): продавец **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85, tax 33020048-2-42) → customer **ATB Service GmbH** (Germany, DE-13599 Berlin, Nonnendammallee 22, VAT DE463202384); товар «Equipment components in an assortment», итого **87 758,80 EUR**, VAT 0. Бенефициар **SYMOCO PAYMENTS LTD**, IBAN LT843981120000002353, SWIFT USTILT2VXXX, банк UAB Stanhope Financial (Vilnius). Компания-плательщик — **ATB**. Заявка в xlsx ссылалась на D-BZT-39 (glue), фактический инвойс — D-BZT-51.",
     "calc": null,
     "rowId": "kon-000080",
     "companySource": {
