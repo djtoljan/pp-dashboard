@@ -920,5 +920,34 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 29,
+    "date": "2026-11-02",
+    "sum": 57687,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": "57 687,00 + 0,3% + 30 = 57 890,06 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 57890.06,
+    "notes": "✏️ 02.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 57 687,00 + 0,3% + 30 = 57 890,06 USDT.",
+    "calc": "ТЕЗ",
+    "rowId": "kon-000079",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": null,
+      "messageId": "59808"
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
