@@ -3958,7 +3958,7 @@
       "sum": 18362.14,
       "currency": "EUR",
       "company": "ATB",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "Дре Русланд",
       "costFormula": "(18 362,14 × 1,0025 + 80) × 1,12106 (XE 02.11.2026 15:07: 1 EUR = 1,12106 USD) = 20 726,21 USDT",
       "extra": null,
