@@ -1013,8 +1013,8 @@
     "date": "2026-11-02",
     "sum": 58606.34,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "ATB",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": "📄 02.11.2026 (📨 Константин Просто Группа, файл «PROFORMA MIA GROUP 391-26.pdf») — **FATTURA PROFORMA № 391/00/2026 от 02.11.2026** (Cod. Cli. 1.769, IVA 81A, EURO): получатель/место назначения **MIA GROUP OF COMPANIES (PVT) LTD**, 384 Street #16, Industrial Area I-9, ISLAMABAD (Pakistan); товар — фены/стайлеры PARLUX (3200 PLUS, ALYON, DIGITALYON, ETHOS, ELYSIUM и др.), скидка 5% −3 084,54, **TOTALE PROFORMA 58 606,34 EUR**; оплата — инкассо/банковский перевод авансом (509 Bonifico Bancario Anticipato); реквизиты: MONTE PASCHI DI SIENA, IBAN IT52D0103033911000063110778, SWIFT PASCITMMXXX; HS 85163100; shipment EX-WORKS. Компания-плательщик не указана — ждём.",
@@ -1027,6 +1027,14 @@
     "sent_usdt": null,
     "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «Parlux_58_606_34_EUR_391-00-2026.xlsx») — заявка на платёж: **58 606,34 EUR** авансом по проформе **391/00/2026 от 02.11.2026**, customer 1769 (MIA GROUP OF COMPANIES (PVT) LTD), hair dryers. Бенефициар **Parlux S.p.A.** (Via Carlo Goldoni 10/12, 20090 Trezzano s/N (MI), Italy), банк **Monte Paschi di Siena** (Siena, Italy), IBAN IT52D0103033911000063110778, SWIFT PASCITMMXXX. Сумма соответствует проформе 391/00/2026. Компания-плательщик не указана.",
     "calc": null,
-    "rowId": "kon-000082"
+    "rowId": "kon-000082",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "391/00/2026",
+      "file": "INV 58 606"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
