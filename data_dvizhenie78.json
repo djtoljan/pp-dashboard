@@ -476,5 +476,26 @@
       "ref": "Scream, ЛС msg 15943, 02.11.2026 07:13: Q8-0072 расчёт",
       "date": "2026-11-02"
     }
+  },
+  {
+    "row": 17,
+    "date": "2026-11-02",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Оникс (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "d78-000050"
   }
 ]
