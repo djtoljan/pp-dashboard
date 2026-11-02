@@ -949,5 +949,26 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 30,
+    "date": "2026-11-02",
+    "sum": 87758.8,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "📄 02.11.2026 (📨 Константин Просто Группа, файл «87 758.80 EUR (02.11.2026).xlsx») — заявка на платёж: сумма **87 758,80 EUR**; бенефициар **BZT Master Cargo Kft** (HUNGARY, 1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó); банк бенефициара **UAB Stanhope Financial** (Lithuania, UPES G. 23, Vilnius, LT-08128), IBAN LT843981120000002353, SWIFT USTILT2VXXX; назначение «Payment for glue to invoice No. D-BZT-39 dd 07.10.2026». Компания-плательщик в заявке не указана — ждём подтверждение (по BZT обычно ATB).",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000080"
   }
 ]
