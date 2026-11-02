@@ -869,7 +869,7 @@
     "sum": 100000,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "Q8-0067: 100 000,00 ÷ 0,9965 = 100 351,23; 50,00 ÷ 0,9965 = 50,18; итого 100 401,41 USDT",
     "extra": null,
