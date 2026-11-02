@@ -982,7 +982,7 @@
   {
     "row": 31,
     "date": "2026-11-02",
-    "sum": 64295,
+    "sum": 42000,
     "currency": "EUR",
     "company": null,
     "color": "FFFF0000",
@@ -996,8 +996,29 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «GAMA_42_000_00_EUR_26PI00359.xlsx») — заявка на платёж: **42 000,00 EUR** авансом по проформе **26PI00359 от 22.10.2026**, заказ 26OV03255, товар — hair care appliances. Бенефициар **GA.MA S.R.L.** (Via Sant'Alberto 1714, 40018 San Pietro in Casale (BO), Italy), банк **BPER Banca S.p.A.** (branch 5 Bologna, Via Corticella 2018, 40128 Bologna), IBAN IT42V0538702405000000983787, SWIFT BPMOIT22XXX. HS 85163100, 85163200. Сумма строки приведена к сумме заявки (42 000,00 EUR); полная проформа 26PI00359 — в PDF выше. Компания-плательщик не указана.",
     "calc": null,
     "rowId": "kon-000081"
+  },
+  {
+    "row": 32,
+    "date": "2026-11-02",
+    "sum": 58606.34,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "📄 02.11.2026 (📨 Константин Просто Группа, файл «PROFORMA MIA GROUP 391-26.pdf») — **FATTURA PROFORMA № 391/00/2026 от 02.11.2026** (Cod. Cli. 1.769, IVA 81A, EURO): получатель/место назначения **MIA GROUP OF COMPANIES (PVT) LTD**, 384 Street #16, Industrial Area I-9, ISLAMABAD (Pakistan); товар — фены/стайлеры PARLUX (3200 PLUS, ALYON, DIGITALYON, ETHOS, ELYSIUM и др.), скидка 5% −3 084,54, **TOTALE PROFORMA 58 606,34 EUR**; оплата — инкассо/банковский перевод авансом (509 Bonifico Bancario Anticipato); реквизиты: MONTE PASCHI DI SIENA, IBAN IT52D0103033911000063110778, SWIFT PASCITMMXXX; HS 85163100; shipment EX-WORKS. Компания-плательщик не указана — ждём.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000082"
   }
 ]
