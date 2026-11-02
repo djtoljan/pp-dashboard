@@ -958,7 +958,7 @@
     "company": "ATB",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "(87 758,80 × 1,0025 + 80) × 1,12081 = 98 697 USDT",
     "extra": "📄 02.11.2026 (📨 Константин Просто Группа, файл «87 758.80 EUR (02.11.2026).xlsx») — заявка на платёж: сумма **87 758,80 EUR**; бенефициар **BZT Master Cargo Kft** (HUNGARY, 1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó); банк бенефициара **UAB Stanhope Financial** (Lithuania, UPES G. 23, Vilnius, LT-08128), IBAN LT843981120000002353, SWIFT USTILT2VXXX; назначение «Payment for glue to invoice No. D-BZT-39 dd 07.10.2026». Компания-плательщик в заявке не указана — ждём подтверждение (по BZT обычно ATB).",
     "rubles_received": null,
     "statementRef": null,
@@ -966,7 +966,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 98697,
     "notes": "📄 02.11.2026 (📨 Константин Просто Группа, «Платит ATB», файл «6550_201 inv BZT 87 758.80 eur ATB Service GmbH.pdf») — **PRO FORMA INVOICE № D-BZT-51** от 02.11.2026 (срок оплаты 12.11.2026): продавец **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85, tax 33020048-2-42) → customer **ATB Service GmbH** (Germany, DE-13599 Berlin, Nonnendammallee 22, VAT DE463202384); товар «Equipment components in an assortment», итого **87 758,80 EUR**, VAT 0. Бенефициар **SYMOCO PAYMENTS LTD**, IBAN LT843981120000002353, SWIFT USTILT2VXXX, банк UAB Stanhope Financial (Vilnius). Компания-плательщик — **ATB**. Заявка в xlsx ссылалась на D-BZT-39 (glue), фактический инвойс — D-BZT-51. | 📄 02.11.2026 16:11 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 87 758,80 EUR.pdf») — ордер на платёж: **87 758,80 EUR**, OUR; beneficiary **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó, HUNGARY), банк **UAB Stanhope Financial** (Vilnius, Lithuania), счёт LT843981120000002353, SWIFT USTILT2VXXX; в сообщении назначение — «invoice No. D-BZT-39 dd 07.10.2026», в приложенном PDF — PRO FORMA INVOICE **D-BZT-51** от 02.11.2026 (customer ATB Service GmbH), бенефициар SYMOCO PAYMENTS LTD. Компания ATB подтверждена, сумма и цвет строки без изменений. | ✔️ 02.11.2026 (📨 Константин Просто Группа, «Как в заявке этой», файл «87 758.80 EUR (02.11.2026) (1).xlsx») — сверено с заявкой: сумма **87 758,80 EUR**, валюта EUR, бенефициар **BZT Master Cargo Kft** (HUNGARY, 1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó), банк **UAB Stanhope Financial** (UPES G. 23, Vilnius, LT-08128, Lithuania), IBAN **LT843981120000002353**, SWIFT **USTILT2VXXX**, назначение «Payment for glue to invoice No. D-BZT-39 dd 07.10.2026» — как в заявке. Реквизиты строки соответствуют заявке; PDF D-BZT-51 — справочно.",
     "calc": null,
     "rowId": "kon-000080",
@@ -977,7 +977,12 @@
       "file": "6550_201 inv BZT 87 758.80 eur ATB Service GmbH.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "telegram -1003734813084 #60010, 02.11.2026",
+      "date": "2026-11-02"
+    }
   },
   {
     "row": 31,
@@ -987,7 +992,7 @@
     "company": "ATB",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "(42 000,00 × 1,0025 + 80) × 1,12081 = 47 281 USDT",
     "extra": "📄 02.11.2026 (📨 Константин Просто Группа, файл «26PI00359.pdf») — **SMART PROFORMA INVOICE от 29.10.2026** № 26PI00359: продавец **GA.MA S.R.L.** (BPER Banca SPA, Bologna; IBAN IT42V0538702405000000983787, SWIFT BPMOIT22XXX), условия FCA S.Pietro in Casale (BO), external document E-MAIL 22/10/26, заказ 26OV03255: фены и стайлеры GAMMA/GA.MA (PERFETTO 2, ELEGANCE, IQ LITE MAX, UNIQ FLOW, X-WAVES, PLUMA 2, CP1NOVA, SILK SALON, IHT SALON, паллета), итого **64 295,00 EUR**; оплата 50% аванс T/T, 50% — 60 дней от даты инвойса; ожидаемая отгрузка: по получении аванса. Компания-плательщик не указана — ждём.",
     "rubles_received": null,
     "statementRef": null,
@@ -995,7 +1000,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 47281,
     "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «GAMA_42_000_00_EUR_26PI00359.xlsx») — заявка на платёж: **42 000,00 EUR** авансом по проформе **26PI00359 от 22.10.2026**, заказ 26OV03255, товар — hair care appliances. Бенефициар **GA.MA S.R.L.** (Via Sant'Alberto 1714, 40018 San Pietro in Casale (BO), Italy), банк **BPER Banca S.p.A.** (branch 5 Bologna, Via Corticella 2018, 40128 Bologna), IBAN IT42V0538702405000000983787, SWIFT BPMOIT22XXX. HS 85163100, 85163200. Сумма строки приведена к сумме заявки (42 000,00 EUR); полная проформа 26PI00359 — в PDF выше. Компания-плательщик не указана. | 📄 02.11.2026 16:14 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 42 000,00 EUR.pdf») — ордер на платёж: **42 000,00 EUR**, OUR; beneficiary **GA.MA S.R.L.** (Via Sant'Alberto 1714, 40018 San Pietro in Casale (BO), Italy), банк **BPER Banca S.p.A., branch 5 Bologna**, счёт IT42V0538702405000000983787, SWIFT BPMOIT22XXX; назначение — «invoice 26PI00359 dd 22.10.2026». Компания-плательщик — **ATB**.",
     "calc": null,
     "rowId": "kon-000081",
@@ -1006,7 +1011,12 @@
       "file": "INV 42 000"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "telegram -1003734813084 #60010, 02.11.2026",
+      "date": "2026-11-02"
+    }
   },
   {
     "row": 32,
@@ -1016,7 +1026,7 @@
     "company": "ATB",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "(58 606,34 × 1,0025 + 80) × 1,12081 = 65 940 USDT",
     "extra": "📄 02.11.2026 (📨 Константин Просто Группа, файл «PROFORMA MIA GROUP 391-26.pdf») — **FATTURA PROFORMA № 391/00/2026 от 02.11.2026** (Cod. Cli. 1.769, IVA 81A, EURO): получатель/место назначения **MIA GROUP OF COMPANIES (PVT) LTD**, 384 Street #16, Industrial Area I-9, ISLAMABAD (Pakistan); товар — фены/стайлеры PARLUX (3200 PLUS, ALYON, DIGITALYON, ETHOS, ELYSIUM и др.), скидка 5% −3 084,54, **TOTALE PROFORMA 58 606,34 EUR**; оплата — инкассо/банковский перевод авансом (509 Bonifico Bancario Anticipato); реквизиты: MONTE PASCHI DI SIENA, IBAN IT52D0103033911000063110778, SWIFT PASCITMMXXX; HS 85163100; shipment EX-WORKS. Компания-плательщик не указана — ждём.",
     "rubles_received": null,
     "statementRef": null,
@@ -1024,7 +1034,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 65940,
     "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «Parlux_58_606_34_EUR_391-00-2026.xlsx») — заявка на платёж: **58 606,34 EUR** авансом по проформе **391/00/2026 от 02.11.2026**, customer 1769 (MIA GROUP OF COMPANIES (PVT) LTD), hair dryers. Бенефициар **Parlux S.p.A.** (Via Carlo Goldoni 10/12, 20090 Trezzano s/N (MI), Italy), банк **Monte Paschi di Siena** (Siena, Italy), IBAN IT52D0103033911000063110778, SWIFT PASCITMMXXX. Сумма соответствует проформе 391/00/2026. Компания-плательщик не указана. | 📄 02.11.2026 16:17 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 58 606,34 EUR.pdf») — ордер на платёж: **58 606,34 EUR**, OUR; beneficiary **Parlux S.p.A.** (Via Carlo Goldoni 10/12, 20090 Trezzano s/N (MI), Italy), банк **Banca Monte dei Paschi di Siena S.p.A.**, счёт IT52D0103033911000063110778, SWIFT PASCITMMXXX; назначение — «invoice 391/00/2026 dd 02.11.2026». Компания-плательщик — **ATB**. | ✏️ 02.11.2026 (📨 Ордера и Расчеты, сообщение «частичная оплата») — оплата по инвойсу 391/00/2026 от 02.11.2026 помечена как **частичная**; сумма строки 58 606,34 EUR остаётся, ждём остаток/следующие платежи.",
     "calc": null,
     "rowId": "kon-000082",
@@ -1035,7 +1045,12 @@
       "file": "INV 58 606"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "telegram -1003734813084 #60010, 02.11.2026",
+      "date": "2026-11-02"
+    }
   },
   {
     "row": 33,
@@ -1045,7 +1060,7 @@
     "company": "ATB",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "(314 101,00 × 1,0025 + 80) × 1,12081 = 353 017 USDT",
     "extra": "📄 02.11.2026 (📨 Константин Просто Группа, файл «NIVONA_314_101_00_EUR_2026-01402.xlsx») — заявка на платёж: **314 101,00 EUR** по проформе-инвойсу **2026-01402 от 27.10.2026**, customer N D6681558, товар — home appliances. Бенефициар **Nivona Apparate GmbH**, банк **Deutsche Bank AG**, SWIFT DEUTDEDB760, IBAN **DE41760700240471977900**, HS 85167100. Компания-плательщик не указана — ждём.",
     "rubles_received": null,
     "statementRef": null,
@@ -1053,7 +1068,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 353017,
     "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «proforma invoice 2026-01402.pdf») — **PROFORMA INVOICE № 2026-01402 от 27.10.2026**: **Nivona Apparate GmbH** (Südwestpark 49, 90449 Nürnberg, VAT DE814347283, WEEE DE92010626), customer number D6681558, агент Regina Böhm, номер 613944; покупатель **LLC Technorium** (Chubinashvii str 63, 0102 Tbilisi, GEORGIA); товар — автоматические кофемашины NICR 796/825/790/759/550/690/560/695 и NIVO 8107/8112, TARIC 85167100, Ex Works Nuremberg, order confirmation 2026-426137. Сумма к оплате по заявке — **314 101,00 EUR**. Компания-плательщик не указана — ждём. | 📄 02.11.2026 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 314 101,00 EUR.pdf») — платёжный ордер: получатель Nivona Apparate GmbH (Südwestpark 49, 90449 Nürnberg, Germany); банк Deutsche Bank AG, SWIFT DEUTDEDB760, счёт DE41760700240471977900; payment details invoice 2026-01402 dd 27.10.2026; сумма ордера 314 101,00 EUR; OUR. Компания-плательщик ATB → ⬜. ⚠️ Итог проформы 330 516,00 EUR — оплата частичная (314 101,00)",
     "calc": null,
     "rowId": "kon-000083",
@@ -1064,6 +1079,11 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "telegram -1003734813084 #60010, 02.11.2026",
+      "date": "2026-11-02"
+    }
   }
 ]
