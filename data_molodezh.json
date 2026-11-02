@@ -2084,35 +2084,6 @@
   {
     "row": 72,
     "date": "2026-10-29",
-    "sum": null,
-    "currency": null,
-    "company": "Z SOURCE",
-    "color": "FFFFFFFF",
-    "clientName": "ООО «ВИВАС»",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": 6921650.04,
-    "exchange_to": "VDX",
-    "vdx_rate": 80.95,
-    "received_usdt": 85419.75,
-    "sent_usdt": null,
-    "notes": "📤 29.10.2026 (📨 Молодежь · t12867, файл «rpp_292.pdf») — ПП на VDX №292 от 29.10.2026 ИСПОЛНЕН 13:45:48 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): плательщик **ООО «ВИВАС»** (ИНН 9703208866, КПП 781401001, счёт 40702810100810051750, Банк ВТБ) → **ВиДиИкс Сервисез - ФЗКО** (ИНН 9909710068, КПП 712887001, ПАО «Банк ПСБ» г. Ярославль, счёт 40807810000000015414), **6 921 650,04 ₽**, {VO11100} Предоплата за товар по инвойсу VIVAS20261029 от 29.10.2026, договор 2V09/2025 от 08.09.2025, HS code 8504502000, по курсу 12,4185, НДС не облагается. sent_rubles_vdx = 6 921 650,04 (VDX). ⚠️ заявки нет — 🔵 отправка на VDX; инвойс VIVAS20261029 (сумма в поле sum). | 📄 29.10.2026 (📨 Молодежь · t12867, файл «83814,44 USD VIVAS TECHNOLOGY LIMITED (1) (2).pdf») — **PROFORMA INVOICE № VIVAS20261029 от 2026-10-29**: Seller **VIVAS TECHNOLOGY LIMITED** (Room s239, 2/F, Capital Plaza, 61-65 Chatham Road South, Tsim Sha Tsui, Hong Kong; OCBC BANK LIMITED, SWIFT OCBCCNSHXXX, счёт 7590077286) → Buyer **Z SOURCE LIMITED** (RM S09, S/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui). Позиции: ITC-PLC-70 и ITC-PLC-43 (оптико-волоконные намоточные станки), силовые ИС ADP197ACPZN, стабилизатор LT8614IUDC, микроконтроллер STM32F103TBU6, конденсаторы, разъёмы, LB-0005 трансформатор для LED и др. (38 позиций). **Total Amount 83 814,44 USD**. Компания-покупатель = Z SOURCE LIMITED. | 📄 29.10.2026 (📨 Молодежь · t12867, файл «PO 83814,44 USD VIVAS TECHNOLOGY LIMITED.docx») — **Payment Order (реквизиты платежа)**: Beneficiary **VIVAS TECHNOLOGY LIMITED** (S239, 2/F, Capitol Plaza, 61-65 Chatham Road South, Tsim Sha Tsui, Kowloon, Hong Kong); Bank **OCBC BANK LIMITED** (OCBC Bank Tower No.1155 Yuan Shen Road, Pudong New District, Shanghai); SWIFT **OCBCCNSHXXX**; Account **7590077286**; Amount **83 814,44**, Currency **USD**. Сумма совпадает с инвойсом VIVAS20261029 — сделка одна.",
-    "calc": null,
-    "rowId": "mol-000204",
-    "companySource": {
-      "source": "invoice",
-      "date": null,
-      "ref": "VIVAS20261029",
-      "file": "83814"
-    },
-    "companyProvisional": true,
-    "companyVerified": false
-  },
-  {
-    "row": 73,
-    "date": "2026-10-29",
     "sum": 25200,
     "currency": "CNY",
     "company": null,
@@ -2132,7 +2103,7 @@
     "rowId": "mol-000205"
   },
   {
-    "row": 74,
+    "row": 73,
     "date": "2026-10-29",
     "sum": 42101,
     "currency": "USD",
@@ -2161,7 +2132,7 @@
     "companyVerified": false
   },
   {
-    "row": 75,
+    "row": 74,
     "date": "2026-10-29",
     "sum": 68756,
     "currency": "USD",
@@ -2190,7 +2161,7 @@
     "companyVerified": false
   },
   {
-    "row": 76,
+    "row": 75,
     "date": "2026-10-30",
     "sum": 54054,
     "currency": "USD",
@@ -2211,7 +2182,7 @@
     "rowId": "mol-000208"
   },
   {
-    "row": 77,
+    "row": 76,
     "date": "2026-10-30",
     "sum": 267500,
     "currency": "USD",
@@ -2239,5 +2210,34 @@
     },
     "companyProvisional": false,
     "companyVerified": true
+  },
+  {
+    "row": 77,
+    "date": "2026-11-01",
+    "sum": 83814.44,
+    "currency": "USD",
+    "company": "Z SOURCE",
+    "color": "FF92D050",
+    "clientName": "ООО «ВИВАС»",
+    "costFormula": "83 814,44 + 0,3% + 30 = 84 095,88 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": 6921650.04,
+    "exchange_to": "VDX",
+    "vdx_rate": 80.95,
+    "received_usdt": 85419.75,
+    "sent_usdt": 84095.88,
+    "notes": "✏️ 02.11.2026 (fix): clientName VDX → ООО «ВИВАС» (Молодёжь) — платёж по заявке из Молодёжь/t12867, зелёнка 83 814,44 USD дважды уезжала в W&VDX/t7. | 📄 01.11.2026 (📨 Заявки Z-Source, файлы «83814,44 USD VIVAS TECHNOLOGY LIMITED (1) (2).pdf» — проформа, «PO 83814,44 USD VIVAS TECHNOLOGY LIMITED.docx» — платёжное поручение) — **Заявка**: Company **Z SOURCE LIMITED**; получатель **VIVAS TECHNOLOGY LIMITED** (Room S239, 2/F, Capitol Plaza, 61-65 Chatham Road South, Tsim Sha Tsui, Kowloon, Hong Kong), банк **OCBC BANK LIMITED** (OCBC Bank Tower, No.1155 Yuan Shen Road, Pudong New District, Shanghai), SWIFT **OCBCCNSHXXX**, счёт **7590077286**; проформа **PI VIVAS20261029 от 29.10.2026**, Total **83 814,44 USD** (38 позиций: 2 оптико-волоконных намоточных станка ITC-PLC-70/43, электронные компоненты, LED-трансформатор LB-0005 — 65 109,44 USD); условия 100% предоплата до отгрузки, EXW 4 недели. Совпадений в 5 таблицах нет — новая строка. Компания **Z SOURCE**; клиент **VDX** → ⬜; расчёт Z SOURCE = 83 814,44 + 0,3% + 30 = 84 095,88 USDT. | 🟢 02.11.2026 BONBILL Payment Certificate (Transaction ID O2117139611779203072742, Payment Time 2026-11-02 14:19:52): Payer Z SOURCE LIMITED → VIVAS TECHNOLOGY LIMITED, OCBC BANK LIMITED, счёт 7590077286, USD 83 814,44, remarks InvoiceVIVAS20261029DD291026 For ElTech Parts — исполнено. | 🔗 2026-11-02 (Scream: «Scream: main r136 и Молодёжь r72 — одна сделка VIVAS20261029, объединить в Молодёжь») — строка перенесена из таблицы Main (была row 136, rowId main-000418) в Molodezh (rowId mol-000211).",
+    "calc": null,
+    "rowId": "mol-000211",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "VIVAS20261029",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
