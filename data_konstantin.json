@@ -978,5 +978,26 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 31,
+    "date": "2026-11-02",
+    "sum": 64295,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "📄 02.11.2026 (📨 Константин Просто Группа, файл «26PI00359.pdf») — **SMART PROFORMA INVOICE от 29.10.2026** № 26PI00359: продавец **GA.MA S.R.L.** (BPER Banca SPA, Bologna; IBAN IT42V0538702405000000983787, SWIFT BPMOIT22XXX), условия FCA S.Pietro in Casale (BO), external document E-MAIL 22/10/26, заказ 26OV03255: фены и стайлеры GAMMA/GA.MA (PERFETTO 2, ELEGANCE, IQ LITE MAX, UNIQ FLOW, X-WAVES, PLUMA 2, CP1NOVA, SILK SALON, IHT SALON, паллета), итого **64 295,00 EUR**; оплата 50% аванс T/T, 50% — 60 дней от даты инвойса; ожидаемая отгрузка: по получении аванса. Компания-плательщик не указана — ждём.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000081"
   }
 ]
