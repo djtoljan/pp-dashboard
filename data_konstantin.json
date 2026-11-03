@@ -1114,5 +1114,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 35,
+    "date": "2026-11-03",
+    "sum": 19981.25,
+    "currency": "EUR",
+    "company": "Münzgalerie München MGM Handelsgesellschaft mbH & Co. Joker KG",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "📄 03.11.2026 (📨 Константин Просто Группа, файл «signal-2026-10-29-124523.pdf») — AUCTION 5 INVOICE №39917 от 18.10.2026 (Мюнхен): Münzgalerie München MGM Handelsgesellschaft mbH & Co. Joker KG (Stiglmaierplatz 2, 80333 Munich; VAT DE130006976) — 6 лотов, hammer 17 375,00 EUR + Aufgeld 15% 2 606,25 EUR = 19 981,25 EUR; самовывоз (shipping 0), оплата банковским переводом Stadtsparkasse München; инвойс-адрес David Berezin (Jerusalem), доставка Diana Starodubceva (Dubai, JVC)",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000085",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Invoice 39917 от 18.10.2026",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
