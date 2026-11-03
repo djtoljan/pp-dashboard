@@ -1172,5 +1172,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 37,
+    "date": "2026-11-03",
+    "sum": 29375.25,
+    "currency": "EUR",
+    "company": "Numisma - Sociedade de Artigos Numismaticos, SA",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "📄 03.11.2026 (📨 Константин Просто Группа, файлы «29_375,25_EUR_2.xlsx» + «signal-2026-10-29-124720.pdf») — Fatura Proforma №A/04804 от 24.09.2026 (Numisma, Португалия; клиент David Berezin, Raq. 4884): 6 лотов золотых монет, продажная 25 000,00 EUR + комиссия 17,5% 4 375,00 EUR = 29 375,00 EUR; в проформе итог с IVA 23% (1 006,25) = 30 381,25 EUR. Реквизиты: BANCO COMERCIAL PORTUGUES, SWIFT BCOMPTPL, счёт PT50 0033 0000 0001 0968 038 40; к оплате указано 29 375,25 EUR",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000087",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "A/04804 от 24.09.2026",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
