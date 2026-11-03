@@ -1143,5 +1143,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 36,
+    "date": "2026-11-03",
+    "sum": 34172.8,
+    "currency": "EUR",
+    "company": "Fritz Rudolf Künker GmbH & Co. KG",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "📄 03.11.2026 (📨 Константин Просто Группа, файл «34_172,8_EUR.xlsx») — платёжные реквизиты: получатель Fritz Rudolf Künker GmbH & Co. KG, банк Sparkasse Osnabrück, SWIFT NOLADE22XXX, счёт DE50 2655 0105 0000 2473 20; сумма 34 172,80 EUR. Инвойс/аукционный счёт не приложен",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000086",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "34_172",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
