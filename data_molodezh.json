@@ -2395,5 +2395,34 @@
     "notes": "🏦 03.11.2026 (📨 Молодежь · t13202): ПП №10146 от 03.11.2026 — ООО РОСА-1 (ИНН 7705484755, ПАО АКБ АВАНГАРД) -> ООО Блэкшарк Трейд (ВТБ), 3 187 803,73 ₽ {VO11100} по агентскому договору 261103-001 от 03.11.26 для расчетов по контракту DZGLWXB20260413 от 06.05.26; ПП №10145 от 03.11.2026 — 47 817,06 ₽ {VO21100} агентское вознаграждение. Сделка 259 572,00 CNY, курс 12,2810. ⚠️ заявки нет — 🔵 приход рублей.",
     "calc": null,
     "rowId": "mol-000221"
+  },
+  {
+    "row": 84,
+    "date": "2026-11-03",
+    "sum": 215098.53,
+    "currency": "USD",
+    "company": "Xinhang Micro Technology (HK) Limited",
+    "color": "FFFFFFFF",
+    "clientName": "ООО «СТРЕЛОЙ Е-КОММЕРЦ»",
+    "costFormula": null,
+    "extra": "📄 03.11.2026 (📨 Молодежь · t13206, файл «PI USD _Xinh 215 098,53_.pdf») — INVOICE XHW110326 от 03.11.2026: Xinhang Micro Technology (HK) Limited (Flat/RM A 12/F ZJ 300, 300 Lockhart Road, Wan Chai, HK) -> Buyer Z SOURCE LIMITED; Connectors 100 000 pcs x 2,1509 = 215 098,53 USD; EXW, 100% payment. Маршрут: ДС №9 от 20.10.2026 к договору 130225USD от 13.02.2025 — получателем платежей выступает ОсОО Блэкшарк Трейд",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000222",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "XHW110326 от 03.11.2026",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
