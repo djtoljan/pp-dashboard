@@ -4085,6 +4085,35 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 141,
+      "date": "2026-11-03",
+      "sum": 152296.41,
+      "currency": "EUR",
+      "company": "PT INNOVATIVE DATA FLOW",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "📄 03.11.2026 (📨 ВТС · t6592, файл «Data Flow EUR.xlsx», заявка 77804) — INVOICE #77804 от 30.10.2026: PT INNOVATIVE DATA FLOW (BENOA SQUARE, BALI 80361) → LLC WTC, насосы/оборудование по Sales Contract №19-09/01 от 19.09.2025, 152 296,41 EUR",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000431",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "INVOICE 77804 от 30.10.2026",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
