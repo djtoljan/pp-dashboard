@@ -2490,5 +2490,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 87,
+    "date": "2026-11-03",
+    "sum": 4352,
+    "currency": "USD",
+    "company": "SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": "INVOICE CL20261030001 от 30.10.2026 (SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI -> Q8 Group Limited): 10 позиций серверного железа (HDD 1TB/600GB/10TB, PSU 750W/1100W, память DDR4 16GB, SAS 1.8TB, кабели, SSD 960GB, BBU), итого 4 352,00 USD; Standard Chartered Bank (Hong Kong), SWIFT SCBLHKHH, счёт 47413626978",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000225",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "CL20261030001 от 30.10.2026",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
