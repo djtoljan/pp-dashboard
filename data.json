@@ -4302,6 +4302,27 @@
       "extra": "Приход на Альмено по заявке 44 (БлэкШарк, Альмено) для FININVEST (FININVEST ULUSLARARASI TİCARET ANONİM ŞİRKETİ) — за Цветы; курс не получен",
       "rubles_received": "6850725.63",
       "statementRef": null,
+      "sent_rubles_vdx": 6850725.63,
+      "exchange_to": "Almeno",
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000438"
+    },
+    {
+      "row": 149,
+      "date": "2026-11-02",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО «ВТС»",
+      "costFormula": "NONE",
+      "extra": "Приход на Альмено (БиТрейд Кей Джи → Альмено) — ингибитор коррозии, ВТС; заявка 19; оффер ООО ВТС, курс не получен",
+      "rubles_received": "3087291.95",
+      "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
@@ -4309,7 +4330,7 @@
       "sent_usdt": null,
       "notes": null,
       "calc": null,
-      "rowId": "main-000438"
+      "rowId": "main-000439"
     }
   ]
 }
