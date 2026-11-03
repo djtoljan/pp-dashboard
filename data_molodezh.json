@@ -2424,5 +2424,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 85,
+    "date": "2026-11-03",
+    "sum": 34018,
+    "currency": "USD",
+    "company": "Centuno Co. Ltd.",
+    "color": "FFFFFFFF",
+    "clientName": "Экспорт МА",
+    "costFormula": null,
+    "extra": "📄 03.11.2026 (📨 Молодежь · t13225, скрин UBP) — внешний перевод: Centuno Co. Ltd., USD 34 018,00, исполнение 04.11.2026, счёт 4680001861840, Transfer ID CT4512867, комиссия Shared charges, назначение For payments for services, оплата по инвойсу C-11-10-2026-014 dd 11.10.2026",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000223",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "C-11-10-2026-014 от 11.10.2026",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
