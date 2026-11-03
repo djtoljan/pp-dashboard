@@ -4231,6 +4231,35 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 146,
+      "date": "2026-11-03",
+      "sum": 6355,
+      "currency": "USD",
+      "company": "Guangzhou Baiyun Yanmei Cosmetics Factory",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "📄 03.11.2026 (📨 ВТС · t6650, файл «Invoice for tan water spray-261013 (2) (3).pdf», заявка 77328) — INVOICE PI No. RU40720261013 от 13.10.2026: Guangzhou Baiyun Yanmei Cosmetics Factory -> Q8 GROUP LIMITED (получатель в счете также Itrix, DANNY HUIZINK), tan water spray 30ml, 5000 pcs x 1,271 USD = 6 355,00 USD, условия EXW, полная оплата",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000436",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "RU40720261013 от 13.10.2026",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
