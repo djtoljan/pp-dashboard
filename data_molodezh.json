@@ -2360,5 +2360,34 @@
     "notes": "ПП на VDX №2869 от 02.11.2026 (1 181 475,54 ₽ — номер из документа ПП) | 📄 02.11.2026 (📨 Молодежь · t13091 · ЭНЭЛТ (Вилог), файл «payment-2869.pdf») — ПП №2869 ИСПОЛНЕНО (АО «РЕАЛИСТ БАНК», ЭП Кремер А.Х.): ООО «Группа ЭНЭЛТ» (ИНН 7720740668, КПП 165801001, счёт 40702810400000410945) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, ПСБ, счёт 40807810000000015414) — 1 181 475,54 ₽. {VO11100} Предоплата за товар по инвойсу №26007 от 28.10.2026 по ДС № ENL-20261030-01 от 30.10.2026 к контракту MEEN09/2026 от 16.09.2026 (по курсу 83,1381). НДС не облагается. Заявки нет — 🔵 отправка на VDX.",
     "calc": null,
     "rowId": "mol-000216"
+  },
+  {
+    "row": 83,
+    "date": "2026-11-03",
+    "sum": 53999.09,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "—",
+    "costFormula": "53 999,09 + 0,3% + 30 = 54 191,09 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 54191.09,
+    "notes": "✏️ 03.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 53 999,09 + 0,3% + 30 = 54 191,09 USDT.",
+    "calc": null,
+    "rowId": "mol-000219",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "ORDER No Q80076 dd 03.11.2026 invoice SM261030-01",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
