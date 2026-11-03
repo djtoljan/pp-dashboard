@@ -4143,6 +4143,35 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 143,
+      "date": "2026-11-03",
+      "sum": 46242,
+      "currency": "USD",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": "46 242,00 + 0,3% + 30 = 46 410,73 USDT",
+      "extra": "📄 03.11.2026 (📨 ВТС · t6623, файл «HBS2610106 (2).pdf», заявка 78178) — PROFORMA INVOICE HBS2610106 от 31.10.2026: YUEQING HOUSE ELECTRIC CO.,LTD (Zhejiang, China) -> Q8 GROUP LIMITED, US 242,00",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 46410.73,
+      "notes": "✏️ 03.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 46 242,00 + 0,3% + 30 = 46 410,73 USDT.",
+      "calc": "ТЕЗ",
+      "rowId": "main-000433",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "HBS2610106 от 31.10.2026",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
