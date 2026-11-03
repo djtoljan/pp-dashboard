@@ -1885,10 +1885,10 @@
     "date": "2026-11-02",
     "sum": 7643.44,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8",
+    "color": "FFFFFFFF",
     "clientName": "Kingdom Flowers (Цветы)",
-    "costFormula": null,
+    "costFormula": "7 643,44 + 0,3% + 30 = 7 696,37 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1896,9 +1896,17 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 02.11.2026 (📨 Цветы, файлы «KINGDOM FLOWERS SAS 7643,44.pdf/.docx») — реквизиты + INVOICE № 330/ADVICE 11 от 16.10.2026: KINGDOM FLOWERS SAS (Bogotá, Colombia), OCCIDENTAL BANK BARBADOS LTD, acc 505471, SWIFT OCCIBBBB; посредник CITIBANK N.A., SWIFT CITIUS33, acc 021000089; сумма 7 643,44 USD; назначение «Payment for plants Invoice number 330/ADV from 16/10/2026». Клиент в документе не указан.",
+    "sent_usdt": 7696.37,
+    "notes": "📄 02.11.2026 (📨 Цветы, файлы «KINGDOM FLOWERS SAS 7643,44.pdf/.docx») — реквизиты + INVOICE № 330/ADVICE 11 от 16.10.2026: KINGDOM FLOWERS SAS (Bogotá, Colombia), OCCIDENTAL BANK BARBADOS LTD, acc 505471, SWIFT OCCIBBBB; посредник CITIBANK N.A., SWIFT CITIUS33, acc 021000089; сумма 7 643,44 USD; назначение «Payment for plants Invoice number 330/ADV from 16/10/2026». Клиент в документе не указан. | ✏️ 03.11.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 7 643,44 + 0,3% + 30 = 7 696,37 USDT.",
     "calc": null,
-    "rowId": "flw-000171"
+    "rowId": "flw-000171",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": null,
+      "file": "input-inv_330_ADVICE_11_-_Kingdom_Flowers_-_7643_44_USD---2d495cbe-e71f-4a50-b389-764b61719a6c.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
