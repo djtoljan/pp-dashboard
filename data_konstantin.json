@@ -1058,7 +1058,7 @@
     "sum": 314101,
     "currency": "EUR",
     "company": "ATB",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(314 101,00 × 1,0025 + 80) × 1,12081 = 353 017 USDT",
     "extra": "📄 02.11.2026 (📨 Константин Просто Группа, файл «NIVONA_314_101_00_EUR_2026-01402.xlsx») — заявка на платёж: **314 101,00 EUR** по проформе-инвойсу **2026-01402 от 27.10.2026**, customer N D6681558, товар — home appliances. Бенефициар **Nivona Apparate GmbH**, банк **Deutsche Bank AG**, SWIFT DEUTDEDB760, IBAN **DE41760700240471977900**, HS 85167100. Компания-плательщик не указана — ждём.",
