@@ -4005,6 +4005,27 @@
       "notes": "📄 02.11.2026 (📨 ВТС · t6532, файл «поручение 78044.pdf») — **ПОРУЧЕНИЕ № 78044 от 02.11.2026** (Transfer request No 78044), Приложение № 2 к договору № 27062025TК/1 от 24.06.2025: принципал **ООО «ВТС»** → агент **ОсОО «БиТрейд Кей Джи»**, платёж **20 340,93 USD** по инвойсу 78044 от 29.10.2026; получатель **Itrix Co., Ltd.** (725 S Metro Building, 20th Floor, Sukhumvit Road, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand), **Siam Commercial Bank PCL**, SWIFT SICOTHBK, счёт 468-000093-8-840 (USD); Sales Contract № 20-09/01 dd 20.09.2025; курс 81,1000; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Компания-плательщик не указана — ждём.",
       "calc": null,
       "rowId": "main-000422"
+    },
+    {
+      "row": 138,
+      "date": "2026-11-03",
+      "sum": 15947.02,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «А-РГО»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000423"
     }
   ]
 }
