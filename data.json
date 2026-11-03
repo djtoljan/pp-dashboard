@@ -4127,8 +4127,8 @@
       "extra": "📄 03.11.2026 (📨 ВТС · t6607, файлы «Поручение 78204.pdf» + «инвойс услуги Би трейд 78204.pdf», заявка 78204) — ПОРУЧЕНИЕ №78204 от 03.11.2026 (ООО ВТС -> БиТрейд Кей Джи): 42 601,41 USD, получатель DENER INOVASYON (GARANTI BANKASI, SWIFT TGBATRIS, счёт TR20 0006 2001 1470 0009 0817 80), Sales Contract ВТС/24/13-12 от 13.12.2024, invoice 268427 от 30.10.2026, курс 81,5800 -> 3 475 423,03 ₽; комиссия агента 1,5% + 100 USD = 739,02 USD (60 289,35 ₽ по инвойсу услуг №78204)",
       "rubles_received": "3475423.03 / 60289.35",
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": 3535712.38,
+      "exchange_to": "Almeno",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
@@ -4271,7 +4271,7 @@
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "📄 03.11.2026 (📨 ВТС · t6658, файл «PI-TF-OA261013-signed (3) (2) (1).pdf», заявка 77326) — PROFORMA INVOICE PI-TF-OA261013 (DECHAAB HONG KONG BUSINESS CO., LIMITED -> Q8 GROUP LIMITED/WTC): tanning foam 5000 pc x 4,38 USD = 21 900,00 USD, оплата 50% депозит = 10 950,00 USD; Taishin International Bank Hong Kong, SWIFT TSIBHKHH, счёт 29000120096653",
-      "rubles_received": null,
+      "rubles_received": "893301.00 / 21557.52",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
@@ -4366,7 +4366,7 @@
       "date": "2026-11-03",
       "sum": 13860,
       "currency": "USD",
-      "company": "Goodly Cosmetics",
+      "company": "Goodly Cosmetics (Yiwu) Co., Ltd.",
       "color": "FFFFFFFF",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4382,12 +4382,12 @@
       "calc": null,
       "rowId": "main-000441",
       "companySource": {
-        "source": "invoice",
+        "source": "order",
         "date": null,
-        "ref": "GM20260722-01 от 22.07.2026",
-        "file": null
+        "ref": "Поручение 78036 от 03.11.2026",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     }
   ]
