@@ -2337,5 +2337,34 @@
     "notes": "ПП на VDX №2869 от 02.11.2026 (1 181 475,54 ₽ — номер из документа ПП) | 📄 02.11.2026 (📨 Молодежь · t13091 · ЭНЭЛТ (Вилог), файл «payment-2869.pdf») — ПП №2869 ИСПОЛНЕНО (АО «РЕАЛИСТ БАНК», ЭП Кремер А.Х.): ООО «Группа ЭНЭЛТ» (ИНН 7720740668, КПП 165801001, счёт 40702810400000410945) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, ПСБ, счёт 40807810000000015414) — 1 181 475,54 ₽. {VO11100} Предоплата за товар по инвойсу №26007 от 28.10.2026 по ДС № ENL-20261030-01 от 30.10.2026 к контракту MEEN09/2026 от 16.09.2026 (по курсу 83,1381). НДС не облагается. Заявки нет — 🔵 отправка на VDX.",
     "calc": null,
     "rowId": "mol-000216"
+  },
+  {
+    "row": 82,
+    "date": "2026-11-03",
+    "sum": 67544.15,
+    "currency": "EUR",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Al Safi",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 03.11.2026 (📨 Молодежь · t11568, файлы «SM261027-01.pdf», «Purchase Contract SMQ26102501.pdf», «PAYMENT_ORDER 28102026.docx») — сделка Q8 → SMARTSISTEMS PTE. LTD.: Purchase Contract No. SMQ261025/01 (25.10.2024), Seller SMARTSISTEMS PTE. LTD. (Singapore, UEN 201828649R), Buyer Q8 Group Limited (HK, BR 68975013); Invoice SM261027-01 от 27.10: 1) Vase Coloured H46 — 1 шт, 17 540,15 EUR; 2) Figure «Saxonia» white H68 — 1 шт, 23 748,00 EUR; 3) Vase with Snowballblossoms H53 — 1 шт, 26 256,00 EUR; TOTAL 67 544,15 EUR, prepayment 100%. Payment order 28/10/2026: 67 544,15 EUR, beneficiary SMARTSISTEMS PTE. LTD., Citibank N.A. Hong Kong Branch, a/c 006-391-390205005, SWIFT CITIHKHX. Клиент Al Safi.",
+    "calc": null,
+    "rowId": "mol-000220",
+    "companySource": {
+      "source": "order",
+      "date": "2026-10-28",
+      "ref": "PAYMENT_ORDER 28102026",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
