@@ -4096,7 +4096,7 @@
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "📄 03.11.2026 (📨 ВТС · t6592, файл «Data Flow EUR.xlsx», заявка 77804) — INVOICE #77804 от 30.10.2026: PT INNOVATIVE DATA FLOW (BENOA SQUARE, BALI 80361) → LLC WTC, насосы/оборудование по Sales Contract №19-09/01 от 19.09.2025, 152 296,41 EUR",
-      "rubles_received": null,
+      "rubles_received": "13904662.23 / 180760.61",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
@@ -4154,7 +4154,7 @@
       "clientName": "ВТС",
       "costFormula": "46 242,00 + 0,3% + 30 = 46 410,73 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6623, файл «HBS2610106 (2).pdf», заявка 78178) — PROFORMA INVOICE HBS2610106 от 31.10.2026: YUEQING HOUSE ELECTRIC CO.,LTD (Zhejiang, China) -> Q8 GROUP LIMITED, US 242,00",
-      "rubles_received": null,
+      "rubles_received": "3772422.36 / 64744.34",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
@@ -4201,6 +4201,35 @@
         "file": null
       },
       "companyProvisional": true,
+      "companyVerified": false
+    },
+    {
+      "row": 145,
+      "date": "2026-11-03",
+      "sum": 4037.5,
+      "currency": "USD",
+      "company": "Guangzhou Tinlee Leather Co., Ltd",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "📄 03.11.2026 (📨 ВТС · t6646, файлы «Поручение 75332.pdf» + «инвойс услуги Би трейд 75332.pdf», заявка 75332) — ПОРУЧЕНИЕ №75332 от 03.11.2026 (ООО ВТС -> БиТрейд Кей Джи): 4 037,50 USD, получатель Guangzhou Tinlee Leather Co., Ltd (BANK OF CHINA GUANGDONG BRANCH, SWIFT bkchcnbj400, счёт 718565384704), Sales Contract 24-07/01 от 24.07.2026, invoice HXX20260826 от 26.08.2026. ⚠️ в поручении курс 85,85, но п.8 329 379,25 ₽ соответствует курсу 81,5800 (как и инвойс услуг на 160,56 USD = 13 098,69 ₽) — курс требует подтверждения",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000435",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "Поручение 75332 от 03.11.2026",
+        "messageId": null
+      },
+      "companyProvisional": false,
       "companyVerified": false
     }
   ]
