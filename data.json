@@ -3937,7 +3937,7 @@
       "sum": null,
       "currency": null,
       "company": null,
-      "color": "FFFF0000",
+      "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
       "costFormula": "101 543,00 EUR / 0,887026192399 (FX Q8 02.11.2026: 1 USD = 0,887026192399 EUR) = 114 475,35 USD + 0,3% + 30 = 114 818,78 USDT",
       "extra": null,
