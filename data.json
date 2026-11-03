@@ -4260,6 +4260,35 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 147,
+      "date": "2026-11-03",
+      "sum": 10950,
+      "currency": "USD",
+      "company": "DECHAAB HONG KONG BUSINESS CO., LIMITED",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "📄 03.11.2026 (📨 ВТС · t6658, файл «PI-TF-OA261013-signed (3) (2) (1).pdf», заявка 77326) — PROFORMA INVOICE PI-TF-OA261013 (DECHAAB HONG KONG BUSINESS CO., LIMITED -> Q8 GROUP LIMITED/WTC): tanning foam 5000 pc x 4,38 USD = 21 900,00 USD, оплата 50% депозит = 10 950,00 USD; Taishin International Bank Hong Kong, SWIFT TSIBHKHH, счёт 29000120096653",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000437",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "PI-TF-OA261013 от 03.11.2026",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
