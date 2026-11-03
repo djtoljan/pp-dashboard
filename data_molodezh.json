@@ -2378,7 +2378,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 54191.09,
-    "notes": "✏️ 03.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 53 999,09 + 0,3% + 30 = 54 191,09 USDT.",
+    "notes": "✏️ 03.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 53 999,09 + 0,3% + 30 = 54 191,09 USDT. | 📄 03.11.2026 (📨 Заявки/расчеты JP Morgan, файл «inv SM261030-01 - Smart - BS - 53,999.09 USD.pdf») — PROFORMA INVOICE № SM261030-01 от 30.10.2026: SMARTSISTEMS PTE. LTD. (16 Raffles Quay #33-03 Hong Leong Building, Singapore 048581; UEN 201828649R), Sender Q8 GROUP LIMITED (18/F The Center, 99 Queen's Road Central, Hong Kong, BR 68975013); позиция Semi-Assembled STRO Skid (Xiamen Jiarong Technology Corp., Ltd), 1 × 53 999,09 = **53 999,09 USD**; банк Citibank, N.A., Hong Kong Branch (Champion Tower, 3 Garden Road, Central), SWIFT CITIHKHX, счёт 006-391-390205005. | 📄 03.11.2026 (📨 Заявки/расчеты JP Morgan, ORDER No Q80076) — ордер на оплату: beneficiary SMARTSISTEMS PTE. LTD., Citibank N.A. Hong Kong (CITIHKHX, счёт 006-391-390205005), Remarks «PAYMENT FOR INVOICE SM261030-01», Amount 53 999,09 USD, Payer Q8 GROUP LIMITED. Сумма строки = сумма ордера; Q8-расчёт 53 999,09 + 0,3% + 30 = 54 191,09 USDT.",
     "calc": null,
     "rowId": "mol-000219",
     "companySource": {
