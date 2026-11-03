@@ -4331,6 +4331,35 @@
       "notes": null,
       "calc": null,
       "rowId": "main-000439"
+    },
+    {
+      "row": 150,
+      "date": "2026-11-03",
+      "sum": 7920,
+      "currency": "USD",
+      "company": "Goodly Cosmetics",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "📄 03.11.2026 (📨 ВТС · t6704, файл «Lip Oil invoice20260803-01.pdf», заявка 74324) — INVOICE по контракту GM20260803-22 от 03.08.2026 (Goodly Cosmetics, Yiwu/Shanghai; покупатель WTC): Lip Oil Rich Red 3000 + Dusty Rose 5000 + Hot Honey 5000 + Clear 3000 = 16 000 pcs x 0,99 USD = 15 840,00 USD; условия 50% депозит / 50% перед отгрузкой; в сделку — депозит 7 920,00 USD, баланс 7 920,00 USD",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000440",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "GM20260803-22 от 03.08.2026",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
