@@ -4289,6 +4289,27 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 148,
+      "date": "2026-11-02",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "Блэкшарк",
+      "costFormula": "NONE",
+      "extra": "Приход на Альмено по заявке 44 (БлэкШарк, Альмено) для FININVEST (FININVEST ULUSLARARASI TİCARET ANONİM ŞİRKETİ) — за Цветы; курс не получен",
+      "rubles_received": "6850725.63",
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000438"
     }
   ]
 }
