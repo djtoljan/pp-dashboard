@@ -3893,12 +3893,12 @@
       "calc": null,
       "rowId": "main-000412",
       "companySource": {
-        "source": "invoice",
-        "date": null,
-        "ref": "267056",
-        "file": null
+        "source": "owner_instruction",
+        "date": "2026-11-03",
+        "ref": "telegram:7206154434#16069",
+        "messageId": "16069"
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
@@ -3909,7 +3909,7 @@
       "company": null,
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": "101 543,00 EUR / 0,887026192399 (FX Q8 02.11.2026: 1 USD = 0,887026192399 EUR) = 114 475,35 USD + 0,3% + 30 = 114 818,78 USDT",
+      "costFormula": "null",
       "extra": null,
       "rubles_received": "9169332.90 / 137539.99",
       "statementRef": null,
