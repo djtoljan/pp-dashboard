@@ -4337,7 +4337,7 @@
       "date": "2026-11-03",
       "sum": 7920,
       "currency": "USD",
-      "company": "Goodly Cosmetics",
+      "company": "Goodly Cosmetics (Yiwu) Co., Ltd.",
       "color": "FFFFFFFF",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4353,12 +4353,12 @@
       "calc": null,
       "rowId": "main-000440",
       "companySource": {
-        "source": "invoice",
+        "source": "order",
         "date": null,
-        "ref": "GM20260803-22 от 03.08.2026",
-        "file": null
+        "ref": "Поручение 74324 от 03.11.2026",
+        "messageId": null
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
