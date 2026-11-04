@@ -1094,7 +1094,7 @@
     "company": "Bista Standard Sp. z o.o.",
     "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "(33 180,00 × 1,0025 + 80) × 1,12448 = 37493 USDT (себестоимость)",
+    "costFormula": "(33 180,00 × 1,0025 + 80) × 1,12594 = 37 542,16 USDT (себестоимость)",
     "extra": "📄 03.11.2026 (📨 Константин Просто Группа, файл «Proforma_229_2026_LLC_Nova.pdf») — INVOICE FP RO/0229/2026 от 12.10.2026: Bista Standard Sp. z o.o. (ul. Smoleńska 29, 85-871 Bydgoszcz, Poland; NIP 5542559901) -> LLC Nova (42 Lenin Avenue, Vladimir, Russia); filter cigarette tubes T&T 1000 economy, 1680 master case; 33 180,00 EUR; ANNEX 36 к Supply Contract #34 от 27.11.2024; Erste Bank Polska S.A., SWIFT WBKPPLPP, счёт PL 19 1090 2590 0000 0001 4307 6304",
     "rubles_received": null,
     "statementRef": null,
@@ -1103,7 +1103,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 37609.25,
-    "notes": " | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 37609.25 USDT; батч 132 343,25",
+    "notes": " | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 37609.25 USDT; батч 132 343,25 | Курс изменился 04.11.2026: 1,12448 -> 1,12594; доплата 49 USDT на TVJmqcyGz1e7BPqGHmgwYZYWB4vyL6LQZB",
     "calc": null,
     "rowId": "kon-000084",
     "companySource": {
