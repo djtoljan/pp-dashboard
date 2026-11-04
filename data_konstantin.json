@@ -1230,5 +1230,26 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 39,
+    "date": "2026-11-04",
+    "sum": 62854.83,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "📄 04.11.2026 (📨 Константин Просто Группа, файлы «Technorium 2026-014 v2.pdf» + «Jura_Aykut_62_854_83_EUR_2026-014.xlsx») — проформа-инвойс № 2026-014 от 04.11.2026: 26 позиций Jura (X10/W8/Z10/J10/E8/E6/C9 + аксессуары), итого 62 854,83 EUR, Cash in Advance, EXW FTZ. Покупатель TECHNORIUM LLC (Тбилиси). Бенефициар AYKUT GLOBAL ITHALAT IHRACAT A.S. (Стамбул), Garanti BBVA, SWIFT TGBATRIS, IBAN TR120006200167600009090725; назначение: payment in advance for proforma invoice 2026-014 dd 04.11.2026. Компания-плательщик не указана.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000090"
   }
 ]
