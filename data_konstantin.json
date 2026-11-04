@@ -1217,9 +1217,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 200000,
     "sent_usdt": 303530,
-    "notes": "📄 04.11.2026 (📨 Ордера и Расчеты «Payment from ATB») — ордер на платёж: beneficiary Melitta Europa GmbH & Co. KG — Ringstr. 99 — 32427 Minden — Germany; банк Deutsche Bank AG — Minden — Germany; SWIFT DEUTDE3B490; счёт DE03490700280291371300; payment details proforma invoice 3975743 dd 26.10.2026; Amount 268 906 — 40 EUR; OUR. Приложена проформа-инвойс № 3975743 от 26.10.2026 (7 стр. — FCA Minden). | Расчёт Scream 04.11.2026 (📨 Ордера и Расчеты)",
+    "notes": "📄 04.11.2026 (📨 Ордера и Расчеты «Payment from ATB») — ордер на платёж: beneficiary Melitta Europa GmbH & Co. KG — Ringstr. 99 — 32427 Minden — Germany; банк Deutsche Bank AG — Minden — Germany; SWIFT DEUTDE3B490; счёт DE03490700280291371300; payment details proforma invoice 3975743 dd 26.10.2026; Amount 268 906 — 40 EUR; OUR. Приложена проформа-инвойс № 3975743 от 26.10.2026 (7 стр. — FCA Minden). | Расчёт Scream 04.11.2026 (📨 Ордера и Расчеты) | К оплате 303 530 USDT на кошелёк TVJmqcyGz1e7BPqGHmgwYZYWB4vyL6LQZB (указание Scream 04.11.2026) | 🛡️ 04.11.2026: движение IN 200000 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:38).",
     "calc": null,
     "rowId": "kon-000089",
     "companySource": {
