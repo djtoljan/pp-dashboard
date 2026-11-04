@@ -2478,7 +2478,7 @@
     "sum": 10395,
     "currency": "USD",
     "company": "BEIYI INFORMATION CO., LIMITED",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Вилог",
     "costFormula": "(10 395,00 + 65,00) / 0,9965 = 10 497 USDT",
     "extra": "PROFORMA INVOICE RCF261102-LN от 03.11.2026 (BEIYI INFORMATION CO., LIMITED -> Q8 Group Limited): Mellanox ConnectX-5 50 pcs x 171,00 = 8 550,00 USD; Dell 8TB SAS 12Gb HDD 5 pcs x 369,00 = 1 845,00 USD; итого 10 395,00 USD. Банк OCBC Wing Hang HK, SWIFT WIHBHKHH, счёт 883674831. В сообщении указано 10 392,00 USD — расхождение 3,00 USD с инвойсом",
