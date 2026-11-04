@@ -2506,7 +2506,7 @@
     "date": "2026-11-03",
     "sum": 4352,
     "currency": "USD",
-    "company": "SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI",
+    "company": "Q8",
     "color": "FFFFFF00",
     "clientName": "Вилог",
     "costFormula": "(4 252,00 + 65,00) / 0,9965 = 4 332 USDT",
@@ -2522,12 +2522,12 @@
     "calc": null,
     "rowId": "mol-000225",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "CL20261030001 от 30.10.2026",
-      "file": null
+      "ref": null,
+      "messageId": "16155"
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   }
 ]
