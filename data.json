@@ -3982,7 +3982,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 02.11.2026 (📨 ВТС · t6511, заявка 77922, файл «Z SOURCE_PROVISIONAL INVOICE (1) (1).pdf») — PROVISIONAL INVOICE № 250087C / HK250087C от 26.10.2026, условия ANTICIPATO — IN ADVANCE: щётки GAMMA/ALFA/JOTA/R5403 и др., 13 позиций, TOTALE FATTURA 9.531,70 EUR. Заявка 77922, клиент ВТС, компания Z SOURCE. Расчёт не проставлен — ждёт формулу/курс от Scream. | 📄 02.11.2026 (📨 ВТС · t6511, файл «инвойс услуги Би трейд 77922.pdf») — **Инвойс № 77922 от 02.11.2026** ООО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001), договор 27062025TК/1 от 24.06.2025, покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001, Новоданиловская наб., 4А): посреднические услуги по расчётам с иностранным поставщиком — 142,98 EUR × 91,2000 = 13 039,37 ₽; 100,00 USD × 81,1000 = 8 110,00 ₽; **ИТОГО 21 149,37 ₽**. Это счёт за услуги по заявке 77922 (сумма сделки 9 531,70 EUR не меняется). | 📄 02.11.2026 (📨 ВТС · t6511, файл «поручение 77922.pdf») — **ПОРУЧЕНИЕ № 77922 от 02.11.2026** (Transfer request No 77922), Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025: принципал **ООО «ВТС»** → агент **ОсОО «БиТрейд Кей Джи»** (КР), платёж **9 531,70 EUR** по инвойсу 77922 dd 02.11.2026; получатель (нерезидент) **Z SOURCE LIMITED** (RM18, 27/F, Ho King Comm CTR, 2-16 Fayuen ST, Mong Kok, Hong Kong), банк **DBS Bank (Hong Kong) Limited**, SWIFT DHBKHKHH, beneficiary **Q8 GROUP LIMITED**, счёт 79807111801. Курс 91,2000 → к перечислению **869 291,04 ₽**; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Заявка подтверждена, компания Z SOURCE.",
+      "notes": "ПП на Almeno №176 от 03.11.2026 (890 440 41 ₽ — номер из документа ПП) | 📄 02.11.2026 (📨 ВТС · t6511  заявка 77922  файл «Z SOURCE_PROVISIONAL INVOICE (1) (1).pdf») — PROVISIONAL INVOICE № 250087C / HK250087C от 26.10.2026  условия ANTICIPATO — IN ADVANCE: щётки GAMMA/ALFA/JOTA/R5403 и др.  13 позиций  TOTALE FATTURA 9.531 70 EUR. Заявка 77922  клиент ВТС  компания Z SOURCE. Расчёт не проставлен — ждёт формулу/курс от Scream. | 📄 02.11.2026 (📨 ВТС · t6511  файл «инвойс услуги Би трейд 77922.pdf») — **Инвойс № 77922 от 02.11.2026** ООО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001)  договор 27062025TК/1 от 24.06.2025  покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001  Новоданиловская наб.  4А): посреднические услуги по расчётам с иностранным поставщиком — 142 98 EUR × 91 2000   13 039 37 ₽; 100 00 USD × 81 1000   8 110 00 ₽; **ИТОГО 21 149 37 ₽**. Это счёт за услуги по заявке 77922 (сумма сделки 9 531 70 EUR не меняется). | 📄 02.11.2026 (📨 ВТС · t6511  файл «поручение 77922.pdf») — **ПОРУЧЕНИЕ № 77922 от 02.11.2026** (Transfer request No 77922)  Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025: принципал **ООО «ВТС»** → агент **ОсОО «БиТрейд Кей Джи»** (КР)  платёж **9 531 70 EUR** по инвойсу 77922 dd 02.11.2026; получатель (нерезидент) **Z SOURCE LIMITED** (RM18  27/F  Ho King Comm CTR  2-16 Fayuen ST  Mong Kok  Hong Kong)  банк **DBS Bank (Hong Kong) Limited**  SWIFT DHBKHKHH  beneficiary **Q8 GROUP LIMITED**  счёт 79807111801. Курс 91 2000 → к перечислению **869 291 04 ₽**; комиссия агента 1 5% + 100 USD; срок 5–10 банковских дней. Заявка подтверждена  компания Z SOURCE.",
       "calc": null,
       "rowId": "main-000421",
       "companySource": {
@@ -4011,7 +4011,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 02.11.2026 (📨 ВТС · t6532, файл «поручение 78044.pdf») — **ПОРУЧЕНИЕ № 78044 от 02.11.2026** (Transfer request No 78044), Приложение № 2 к договору № 27062025TК/1 от 24.06.2025: принципал **ООО «ВТС»** → агент **ОсОО «БиТрейд Кей Джи»**, платёж **20 340,93 USD** по инвойсу 78044 от 29.10.2026; получатель **Itrix Co., Ltd.** (725 S Metro Building, 20th Floor, Sukhumvit Road, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand), **Siam Commercial Bank PCL**, SWIFT SICOTHBK, счёт 468-000093-8-840 (USD); Sales Contract № 20-09/01 dd 20.09.2025; курс 81,1000; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Компания-плательщик не указана — ждём. | 📄 03.11.2026 (📨 ВТС · t6532, файл «Itrix invoice 78044.xlsx») — INVOICE NO. 78044 от 29.10.2026: Itrix Co., Ltd. (725 S Metro Building, Sukhumvit Rd, Bangkok, Thailand) → Limited Liability Company «WTC» (ООО «ВТС», Новоданиловская наб. 4А, Москва); Sales Contract №20-09/01 dd 20/09/2025; 1) GIGAroll 011.550 CAET0 set, YS11928-00004, 5 шт — 5 473,79 USD; 2) GIGAroll 010.1000 CAET0 set, YS13720-00001, 7 шт — 14 239,67 USD; 3) Aperto 800N, YCN-2722V404, 5 шт — 627,47 USD; SUBTOTAL 20 340,93 USD, TAX 0. Банк: Siam Commercial Bank PCL, SWIFT SICOTHBK, USD счёт 468-000093-8-840 (Itrix Co., Ltd.).",
+      "notes": "ПП на Almeno №177 от 03.11.2026 (1 682 504 16 ₽ — номер из документа ПП) | 📄 02.11.2026 (📨 ВТС · t6532  файл «поручение 78044.pdf») — **ПОРУЧЕНИЕ № 78044 от 02.11.2026** (Transfer request No 78044)  Приложение № 2 к договору № 27062025TК/1 от 24.06.2025: принципал **ООО «ВТС»** → агент **ОсОО «БиТрейд Кей Джи»**  платёж **20 340 93 USD** по инвойсу 78044 от 29.10.2026; получатель **Itrix Co.  Ltd.** (725 S Metro Building  20th Floor  Sukhumvit Road  Khlong Tan Nuea  Watthana  Bangkok 10110  Thailand)  **Siam Commercial Bank PCL**  SWIFT SICOTHBK  счёт 468-000093-8-840 (USD); Sales Contract № 20-09/01 dd 20.09.2025; курс 81 1000; комиссия агента 1 5% + 100 USD; срок 5–10 банковских дней. Компания-плательщик не указана — ждём. | 📄 03.11.2026 (📨 ВТС · t6532  файл «Itrix invoice 78044.xlsx») — INVOICE NO. 78044 от 29.10.2026: Itrix Co.  Ltd. (725 S Metro Building  Sukhumvit Rd  Bangkok  Thailand) → Limited Liability Company «WTC» (ООО «ВТС»  Новоданиловская наб. 4А  Москва); Sales Contract №20-09/01 dd 20/09/2025; 1) GIGAroll 011.550 CAET0 set  YS11928-00004  5 шт — 5 473 79 USD; 2) GIGAroll 010.1000 CAET0 set  YS13720-00001  7 шт — 14 239 67 USD; 3) Aperto 800N  YCN-2722V404  5 шт — 627 47 USD; SUBTOTAL 20 340 93 USD  TAX 0. Банк: Siam Commercial Bank PCL  SWIFT SICOTHBK  USD счёт 468-000093-8-840 (Itrix Co.  Ltd.).",
       "calc": null,
       "rowId": "main-000422"
     },
@@ -4103,7 +4103,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "ПП на Almeno №181 от 03.11.2026 (14 085 422 84 ₽ — номер из документа ПП)",
       "calc": null,
       "rowId": "main-000431",
       "companySource": {
@@ -4132,7 +4132,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "ПП на Almeno №180 от 03.11.2026 (3 535 712 38 ₽ — номер из документа ПП)",
       "calc": null,
       "rowId": "main-000432",
       "companySource": {
@@ -4161,7 +4161,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 0,
-      "notes": "✏️ 03.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 46 242,00 + 0,3% + 30 = 46 410,73 USDT. | Scream 05.11.2026: снять расчёт — компания-плательщик неизвестна, Q8 не подтверждён",
+      "notes": "ПП на Almeno №179 от 03.11.2026 (3 837 166 70 ₽ — номер из документа ПП) | ✏️ 03.11.2026 (add-row): company Q8 → Q8-расчёт проставлен автоматически  46 242 00 + 0 3% + 30   46 410 73 USDT.",
       "calc": "",
       "rowId": "main-000433",
       "companySource": {
@@ -4220,7 +4220,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "ПП на Almeno №184 от 03.11.2026 (342 477 94 ₽ — номер из документа ПП)",
       "calc": null,
       "rowId": "main-000435",
       "companySource": {
@@ -4249,7 +4249,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "ПП на Almeno №182 от 03.11.2026 (534 375 51 ₽ — номер из документа ПП)",
       "calc": null,
       "rowId": "main-000436",
       "companySource": {
@@ -4278,7 +4278,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "ПП на Almeno №183 от 03.11.2026 (914 858 52 ₽ — номер из документа ПП)",
       "calc": null,
       "rowId": "main-000437",
       "companySource": {
@@ -4307,7 +4307,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "🏦 05.11.2026 выписка АКИБ Почтобанк счёт 40807810100157518600 ОсОО Блэкшарк Трейд за 03.11-05.11.2026: ДЕБЕТ ПП №688 от 03.11.2026 — 6 850 725.63 рублей получателю АЛЬМЕНО КО. ЛТД ИНН 9909691746 счёт 40807810700300000030 — оплата по агентскому договору № AL16062026-8 от 16.06.2026 согласно заявке 44 за цветы. Это отправка на VDX: sent_rubles_vdx = 6 850 725.63.",
+      "notes": "ПП на Almeno №688 от 03.11.2026 (6 850 725 63 ₽ — номер из документа ПП)",
       "calc": null,
       "rowId": "main-000438"
     },
@@ -4328,7 +4328,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "ПП на Almeno №178 от 03.11.2026 (3 087 291 95 ₽ — номер из документа ПП)",
       "calc": null,
       "rowId": "main-000439"
     },
@@ -4349,7 +4349,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "ПП на Almeno №185 от 03.11.2026 (663 963 30 ₽ — номер из документа ПП)",
       "calc": null,
       "rowId": "main-000440",
       "companySource": {
@@ -4378,7 +4378,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "ПП на Almeno №186 от 03.11.2026 (1 155 817 28 ₽ — номер из документа ПП)",
       "calc": null,
       "rowId": "main-000441",
       "companySource": {
@@ -4436,7 +4436,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "💳 Платёж по инвойсу VCA2026000000376 (11 000,00 USD в адрес CMV LOJISTIK) исполняется со счёта Q8 GROUP LIMITED (указание Scream 03.11.2026); рублёвая часть 897 380,00 ₽ + комиссия 13 460,70 ₽ поступила от ООО ЕТЕ (ПП 4984/4985).",
+      "notes": "ПП на Almeno №187 от 03.11.2026 (910 840 70 ₽ — номер из документа ПП) | 💳 Платёж по инвойсу VCA2026000000376 (11 000 00 USD в адрес CMV LOJISTIK) исполняется со счёта Q8 GROUP LIMITED (указание Scream 03.11.2026); рублёвая часть 897 380 00 ₽ + комиссия 13 460 70 ₽ поступила от ООО ЕТЕ (ПП 4984/4985).",
       "calc": null,
       "rowId": "main-000443",
       "companySource": {
