@@ -2003,7 +2003,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "| 💸 05.11.2026 (📨 Ордера и Расчеты) — **Payment from ATB**: бенефициар ATLANTIC AVRORA EOOD (Ul. Odrin No15, Et. 9 ofis 908, Burgas, Bulgaria PK8000), банк Bank Stanhope Financial UAB, SWIFT USTILT2VXXX, счёт LT323981120000005326, payment details «inv AA-Q8-2026-1105-01 dd 05.11.26», сумма 60 513,58 EUR, OUR. Сумма ордера = сумме инвойса (оплата полная). Компания-плательщик по ордеру — ATB (в строке company = Q8 Group Limited).",
     "calc": null,
     "rowId": "flw-000175",
     "companySource": {
