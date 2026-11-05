@@ -4599,6 +4599,27 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 160,
+      "date": "2026-11-05",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО ЕТЕ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "30399.53",
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000450"
     }
   ]
 }
