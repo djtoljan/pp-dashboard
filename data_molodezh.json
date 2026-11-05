@@ -2332,7 +2332,7 @@
     "sum": 14211,
     "currency": "USD",
     "company": "Q8 JP",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "ЭНЭЛТ (Вилог)",
     "costFormula": "(14 211,00 + 65) / 0,9965 = 14 326 USDT",
     "extra": null,
