@@ -2454,7 +2454,7 @@
     "sum": 34018,
     "currency": "USD",
     "company": "Centuno Co. Ltd.",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Экспорт МА",
     "costFormula": null,
     "extra": "📄 03.11.2026 (📨 Молодежь · t13225, скрин UBP) — внешний перевод: Centuno Co. Ltd., USD 34 018,00, исполнение 04.11.2026, счёт 4680001861840, Transfer ID CT4512867, комиссия Shared charges, назначение For payments for services, оплата по инвойсу C-11-10-2026-014 dd 11.10.2026",
@@ -2465,7 +2465,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "| 📄 05.11.2026 (📨 Молодежь · t13225, файл «201036341920261104A10000037760759.pdf») — полный платёжный адвайс **UNION BANCAIRE PRIVEE, UBP SA** (Genève, Rue du Rhône 96-98): списан счёт 3491614 (CURRENT ACCOUNT), IBAN CH42 0865 7201 0B34 9161 4, **value date 04.11.2026, USD 34 018,00**, получатель CENTUNO CO. LTD. (SUKHUMVIT ROAD, BANGKOK TH, счёт 4680001861840), назначение «PAYMENT UNDER INV. C-11-10-2026-014 DD 11.10.2026», ссылка PR006 | K 0000037760759 | 201 K 132624-4 | 1 K 6880909. Статус строки поднят ⬜ → 🟡 (деньги списаны банком, ждём подтверждения получателя для 🟢).",
     "calc": null,
     "rowId": "mol-000223",
     "companySource": {
