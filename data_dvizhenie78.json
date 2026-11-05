@@ -426,7 +426,7 @@
     "extra": null,
     "rubles_received": "352981.60 / 9051.17",
     "statementRef": null,
-    "sent_rubles_vdx": "362032.77 (VDX - заявка 866)",
+    "sent_rubles_vdx": 362032.77,
     "exchange_to": "VDX",
     "vdx_rate": 80.575,
     "received_usdt": 4488.62,
