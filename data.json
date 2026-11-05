@@ -4145,7 +4145,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "ПП на Almeno №181 от 03.11.2026 (14 085 422 84 ₽ — номер из документа ПП)",
+      "notes": "ПП на Almeno №181 от 03.11.2026 (14 085 422 84 ₽ — номер из документа ПП) | | 📄 05.11.2026 (📨 Заявки Z-Source, файл «Data Flow EUR Q8 152296.41 EUR.pdf») — **ордер на оплату по инвойсу 77804**: бенефициар **PT INNOVATIVE DATA FLOW** (Benoa Square, Jalan Bypass I Gusti Ngurah Rai No 21A, Kedonganan Kuta, Badung, Bali 80361, Indonesia); банк **MAYBANK** (Jl Sunset Road No 811, Badung 80361, Indonesia), SWIFT **IBBKIDJA**, счёт EUR **2777004712**; назначение «PAYMENT FOR INVOICE 77804»; сумма **152 296,41 EUR**; плательщик **Z SOURCE LIMITED**. Компания строки = Z SOURCE по ордеру (источник order), статус 🔴 → ⬜. Отправка по строке: 14 085 422,84 ₽ (Almeno, ПП №181), приход 13 904 662,23 + 180 760,61.",
       "calc": null,
       "rowId": "main-000431",
       "companySource": {
