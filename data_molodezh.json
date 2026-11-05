@@ -2331,7 +2331,7 @@
     "date": "2026-11-02",
     "sum": 14211,
     "currency": "USD",
-    "company": "Shenzhen Mega Energy Co., Ltd",
+    "company": "Q8 JP",
     "color": "FFFFFFFF",
     "clientName": "ЭНЭЛТ (Вилог)",
     "costFormula": "(14 211,00 + 65) / 0,9965 = 14 326 USDT",
@@ -2347,10 +2347,10 @@
     "calc": null,
     "rowId": "mol-000216",
     "companySource": {
-      "source": "order",
-      "date": null,
-      "ref": "PO 14211",
-      "messageId": null
+      "source": "owner_instruction",
+      "date": "2026-11-05",
+      "ref": null,
+      "messageId": "16196"
     },
     "companyProvisional": false,
     "companyVerified": false,
