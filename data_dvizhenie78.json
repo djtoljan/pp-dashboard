@@ -509,7 +509,7 @@
     "sum": 20905,
     "currency": "CNY",
     "company": "PQ18",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Оникс (Движение 78)",
     "costFormula": "20 905,00 / 6,6627649 (FX Q8 04.11.2026: 1 USD = 6,6627649 CNH) + 0,3% + 30 = 3 177,00 USDT",
     "extra": "📄 03.11.2026 (📨 Движение 78 · t1832, файл «ПОРУЧЕНИЕ 20905.00.pdf») — ПОРУЧЕНИЕ №36 от 03.11.2026 (ООО Оникс -> Блэкшарк, агентский договор 020425-B от 02.04.2025): перевод 20 905,00 CNY по инвойсу KX26695 от 03.11.2026 получателю TAIZHOU KEXING IMPORT AND EXPORT CO.,LTD (ZHEJIANG TAILONG COMMERCIAL BANK, SWIFT ZJTLCNBH, счёт 33010150201000008484, Taizhou, Zhejiang); агентское вознаграждение 2,5% = 536,03 CNY; курс 12,37 ₽/CNY -> 258 594,85 ₽ + 6 630,69 ₽",
