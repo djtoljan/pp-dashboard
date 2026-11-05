@@ -1993,5 +1993,26 @@
     "notes": null,
     "calc": null,
     "rowId": "flw-000176"
+  },
+  {
+    "row": 72,
+    "date": "2026-11-03",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ООО ГЛОБАЛЦВЕТ (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "3562510.56 / 89062.76",
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "flw-000177"
   }
 ]
