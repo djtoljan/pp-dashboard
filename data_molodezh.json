@@ -2366,7 +2366,7 @@
     "sum": 67544.15,
     "currency": "EUR",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Al Safi",
     "costFormula": "(67 544,15 / 0,887 + 65) / 0,9965 = 76 482 USDT",
     "extra": null,
