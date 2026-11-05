@@ -4475,7 +4475,7 @@
       "sum": 20000,
       "currency": "EUR",
       "company": "ATB",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ООО «Дре русланд трейдинг»",
       "costFormula": "(20 000 × 1,0025 + 80) × 1,12279 = 22 601,76 USDT",
       "extra": null,
