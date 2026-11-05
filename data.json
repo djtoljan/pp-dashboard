@@ -4557,9 +4557,30 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 05.11.2026 (📨 ВТС · t191, файл «51 BG 134 - 51 ZB 134 (1).pdf» — скан, читал вижном) — **INVOICE № CVA2026000000298** (CMV LOJİSTİK ULUS.ARS.NAK.İTH.İHR.TURZ.SAN.TİC.LTD.ŞTİ, Merkez Kule İş Merkezi, Mah.130. Sok. Aşkar Güven Plaza Bina No:3 Kat 8/D 30 Hopa/Artvin): покупатель ETE LİMİTED LİABİLİTY COMPANY (117246, Москва, Научный Гейеди, 17, Daire 37/15); дата/vade 14.10.2026; описание «TURKIYE RUSYA (51 BG 134 / 51 ZB 134)», 1 рейс,  350,00, KDV 0%, Net/Toplam  350,00; «TÜRKİYE YÜKLEME RUSYA NAKLİYE BEDELİ»; эквивалент в рублях — 1 013 317,50 RUR. Банк продавца: VAKIFBANK USD, IBAN TR860001500158048023559420, SWIFT TVBATR2AXXX. Строка 🔴 — компания-плательщик не названа.",
       "calc": null,
       "rowId": "main-000448"
+    },
+    {
+      "row": 159,
+      "date": "2026-11-05",
+      "sum": 12350,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО ЕТЕ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "rowId": "main-000449"
     }
   ]
 }
