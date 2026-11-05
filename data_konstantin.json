@@ -1260,5 +1260,34 @@
     },
     "companyProvisional": false,
     "companyVerified": true
+  },
+  {
+    "row": 40,
+    "date": "2026-11-05",
+    "sum": 25141.33,
+    "currency": "EUR",
+    "company": "ALTERA",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "rowId": "kon-000091",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-05",
+      "ref": "260424",
+      "file": "input-Invoice_Altevia_260424---df2372ba-b4c4-43b9-b681-c0fd7c0810d3.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
