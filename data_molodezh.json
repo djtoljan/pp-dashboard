@@ -2334,7 +2334,7 @@
     "company": "Shenzhen Mega Energy Co., Ltd",
     "color": "FFFFFFFF",
     "clientName": "ЭНЭЛТ (Вилог)",
-    "costFormula": null,
+    "costFormula": "(14 211,00 + 65) / 0,9965 = 14 326 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2342,8 +2342,8 @@
     "exchange_to": "VDX",
     "vdx_rate": 81.5,
     "received_usdt": 14482.14,
-    "sent_usdt": null,
-    "notes": "ПП на VDX №2869 от 02.11.2026 (1 181 475.54 ₽) | 📄 02.11.2026 (📨 Молодежь t13091 · файл payment-2869.pdf) — ПП №2869 ИСПОЛНЕНО (АО «РЕАЛИСТ БАНК» · ЭП Кремер А.Х.): ООО «Группа ЭНЭЛТ» (ИНН 7720740668 · КПП 165801001 · счёт 40702810400000410945) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068 · ПСБ · счёт 40807810000000015414) — 1 181 475.54 ₽. {VO11100} Предоплата за товар по инвойсу №26007 от 28.10.2026 по ДС № ENL-20261030-01 от 30.10.2026 к контракту MEEN09/2026 от 16.09.2026 (по курсу 83.1381). НДС не облагается. Заявки нет — 🔵 отправка на VDX. | 📄 04.11.2026 — PROFORMA INVOICE 26007 от 28.10.2026: Shenzhen Mega Energy Co. Ltd -> Q8 Group Limited · 160 kVA frequency conversion system 1 шт × 14 211.00 USD · ZHEJIANG CHOUZHOU COMMERCIAL BANK · счёт 25608002010090002120 · SWIFT CZCBCN2XXXX.",
+    "sent_usdt": 14326,
+    "notes": "ПП на VDX №2869 от 02.11.2026 (1 181 475.54 ₽) | 📄 02.11.2026 (📨 Молодежь t13091 · файл payment-2869.pdf) — ПП №2869 ИСПОЛНЕНО (АО «РЕАЛИСТ БАНК» · ЭП Кремер А.Х.): ООО «Группа ЭНЭЛТ» (ИНН 7720740668 · КПП 165801001 · счёт 40702810400000410945) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068 · ПСБ · счёт 40807810000000015414) — 1 181 475.54 ₽. {VO11100} Предоплата за товар по инвойсу №26007 от 28.10.2026 по ДС № ENL-20261030-01 от 30.10.2026 к контракту MEEN09/2026 от 16.09.2026 (по курсу 83.1381). НДС не облагается. Заявки нет — 🔵 отправка на VDX. | 📄 04.11.2026 — PROFORMA INVOICE 26007 от 28.10.2026: Shenzhen Mega Energy Co. Ltd -> Q8 Group Limited · 160 kVA frequency conversion system 1 шт × 14 211.00 USD · ZHEJIANG CHOUZHOU COMMERCIAL BANK · счёт 25608002010090002120 · SWIFT CZCBCN2XXXX. | ✏️ 05.11.2026: расчёт Winters BP (07:29 МСК): (14 211 + 65) / 0,9965 = 14 326 USDT",
     "calc": null,
     "rowId": "mol-000216",
     "companySource": {
@@ -2353,7 +2353,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction, FINIVEST AI msg 60631 Winters BP 05.11.2026, топик FINIVEST AI",
+      "date": "2026-11-05"
+    }
   },
   {
     "row": 82,
