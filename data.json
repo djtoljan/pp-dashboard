@@ -4377,8 +4377,8 @@
       "exchange_to": "Almeno",
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "ПП на Almeno №186 от 03.11.2026 (1 155 817 28 ₽ — номер из документа ПП)",
+      "sent_usdt": 13974,
+      "notes": "ПП на Almeno №186 от 03.11.2026 (1 155 817 28 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 13974 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:151).",
       "calc": null,
       "rowId": "main-000441",
       "companySource": {
