@@ -4667,7 +4667,7 @@
       "sum": 33264,
       "currency": "EUR",
       "company": "Q8",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "📄 06.11.2026 (📨 FINIVEST AI, Scream «33264 под заявку») — 2-я часть ПОРУЧЕНИЯ №77712 (заявка 77712, ВТС): платёж 33 264,00 EUR по инвойсу PFI 202603 от 22.10.2026, получатель MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI (TÜRKİYE GARANTI BANKASI, IBAN TR38 0006 2000 7210 0009 0492 48); 2-я предоплата 50% по проформе (1-я оплачена строкой Main r117). Оплата в USDT: OUT 37 699 USDT c Рабочего 6 → TBfdEf7hMrRHeBxWsMMzsufbwuDT8F7hLw, txid ce0727a4eb81608a0b76438b11e6a6f4d915c75d530b0435092bece226c1ab52 (06.11.2026 06:45 UTC). Расчёт: (33 264/0,887 + 65)/0,9965 = 37 699 USDT.",
