@@ -2057,7 +2057,7 @@
     "date": "2026-10-29",
     "sum": 25200,
     "currency": "CNY",
-    "company": null,
+    "company": "Alipay",
     "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": "25 200,00 CNA ÷ 6,595 = 3 821 USDT",
@@ -2071,7 +2071,15 @@
     "sent_usdt": 3821,
     "notes": "📄 29.10.2026 (📨 W& Платежи (Т+С)/169, t29590) — заказ **25 200,00 CNA** (CNY): три перевода получателю 永迪 (**迪, yan***@126.com) от 潘治国 (tpv***@163.com) в Alipay: ¥9 000 (17:36) + ¥8 500 (18:06) + ¥7 700 (19:25) = ¥25 200, заказ закрыт полностью. | 💱 29.10.2026 (📨 W& Платежи (Т+С)/169, t29590, адресовано @CScream1): **25 200,00 CNA / 6,595 = 3 821** — выплата **3 821 USDT** на кошелёк **TEz7cE2frCQTo6wTafMgPNJrCGVLqDSfoP** (TRON), tx f2cbec8b…38cc99. | 🔀 29.10.2026 (Scream): клиент — **Вилог**; строка перенесена из Main r135 в Молодёжь. | 📨 29.10.2026 (W& Платежи (Т+С)/169): 25 200,00 CNA / 6,595 = 3 821; кошелёк TEz7cE2frCQTo6wTafMgPNJrCGVLqDSfoP. | 🛡️ 29.10.2026: движение OUT 3821 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:73).",
     "calc": null,
-    "rowId": "mol-000205"
+    "rowId": "mol-000205",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": null,
+      "messageId": "16697"
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 72,
@@ -2310,7 +2318,7 @@
     "date": "2026-11-02",
     "sum": 18000,
     "currency": "USD",
-    "company": null,
+    "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": "(18 000,00 + 65) / 0,9965 = 18 128 USDT (Winters | BP)",
@@ -2324,7 +2332,16 @@
     "sent_usdt": 18128,
     "notes": "ПП на VDX №668 от 02.11.2026 (1 481 547,60 ₽ — номер из документа ПП) | 📄 02.11.2026 (📨 Молодежь · t13079, файл «rpp_668.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 668 от 02.11.2026, ИСПОЛНЕН 16:38:27 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО, ЭП Мельникова С.С.): плательщик **ООО «ВИЛОГ»** (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199) → получатель **«ВиДиИкс Сервисез - ФЗКО»** (ИНН 9909710068, КПП 712887001, счёт 40807810000000015414, ПАО «Банк ПСБ»), **1 481 547,60 ₽**, {VO11100} «Частичная оплата за товар по инвойсу №ENT-079-HW PI016 от 02.11.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 82,3082)», НДС не облагается. Сумма сделки 18 000,00 USD — по сообщению; отправка на VDX, компания-плательщик не определена. | 📄 03.11.2026 (📨 Молодежь · t13079, файл «PO 18000 USD YIWU ZHENCUI TRADING COMPANY.docx») — PAYMENT ORDER: бенефициар YIWU ZHENCUI TRADING COMPANY (Room 401, Unit 2, Building 8, Zhao Zhai Fifth District, Choucheng Street, Yiwu City, Jinhua City, Zhejiang Province), банк ZHEJIANG CHOUZHOU COMMERCIAL BANK (Chouyin Building, No. 188 Shangcheng Avenue, Futian Street, Yiwu), SWIFT CZCBCN2X, счёт 15602142110300248418, сумма 18 000,00 USD. Клиент Вилог, заявка 13079. | 📄 03.11.2026 (📨 Молодёжь · t13079, файл «18000 USD INVOICE YIWU ZHENCUI TRADING COMPANY (1) (1).pdf») — PROFORMA INVOICE HW PI016 от 26.10.2026: YIWU ZHENCUI TRADING COMPANY → Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK); 3 × AirEngine9703-H @ $6 000 = 18 000,00 USD; банк ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт 15602142110300248418, SWIFT CZCBCN2X.",
     "calc": null,
-    "rowId": "mol-000215"
+    "rowId": "mol-000215",
+    "companySource": {
+      "source": "foreign_pp",
+      "file": "BAXS PAY FO2611030914000001 4339_18",
+      "txid": null,
+      "ref": null,
+      "date": null
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 81,
