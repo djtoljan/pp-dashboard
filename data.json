@@ -4809,6 +4809,34 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 165,
+      "date": "2026-11-06",
+      "sum": 3337400,
+      "currency": "RUB",
+      "company": null,
+      "color": "FFFFFFFF",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": "Приход на Альмено (БиТрейд Кей Джи → Альмено) — косметический бальзам, ВТС; заявка 53; оффер ООО ВТС, курс не получен",
+      "rubles_received": "3337400",
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "scream",
+        "ref": "FINIVEST AI t23693 06.11.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000460"
     }
   ]
 }
