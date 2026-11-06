@@ -4404,7 +4404,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 13974,
-      "notes": "ПП на Almeno №186 от 03.11.2026 (1 155 817 28 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 13974 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:151).",
+      "notes": "ПП на Almeno №186 от 03.11.2026 (1 155 817 28 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 13974 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:151). | 📄 06.11.2026 (📨 USD, файл «13,860.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20260722-01», 13 860,00 USD, дата 06.11.2026, номер FO2611060947000001, статус Pending (в обработке). Не исполнение — строка 🟡.",
       "calc": null,
       "rowId": "main-000441",
       "companySource": {
@@ -4422,7 +4422,7 @@
       "sum": 7860,
       "currency": "USD",
       "company": "",
-      "color": "FFFF0000",
+      "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "📄 03.11.2026 (📨 ВТС · t6720, файл «Peptide Balm invoice20261014-02 (1).pdf», заявка 77374) — INVOICE по контракту GM20261014-29 от 14.10.2026 (Goodly Cosmetics, Yiwu/Shanghai; покупатель WTC): Peptide Balm Rose Burt 3000 pcs + Smoothies 3000 pcs x 1,31 USD = 7 860,00 USD (депозит 3 930 / баланс 3 930; 50% депозит, баланс до отгрузки, EXW)",
