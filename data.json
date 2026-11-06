@@ -3696,7 +3696,7 @@
       "clientName": "ВТС",
       "costFormula": "20 380,54 EUR × 1,1252 = 22 933,10; TT fee 50,00 ÷ 0,9965 = 50,18; итого 22 983,28 USDT (JP Morgan, заявка Q8-0068)",
       "extra": null,
-      "rubles_received": "1836239.78 / 35603.60",
+      "rubles_received": "1878231.84 / 36373.48",
       "statementRef": null,
       "sent_rubles_vdx": 1871843.38,
       "exchange_to": "VDX",
@@ -4827,7 +4827,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "06.11.2026 (📨 FINIVEST AI t23693): отправка рублей с БиТрейд на Альмено — 3 337 400,00 ₽, косметический бальзам, заявка 53, ООО ВТС. Заявки/инвойса по 53 в таблицах нет — валютная сумма сделки и курс не получены, строка ждёт заявку/оффер.",
       "calc": null,
       "sumSource": {
         "source": "scream",
