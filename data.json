@@ -4937,6 +4937,34 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 169,
+      "date": "2026-11-06",
+      "sum": 663963.3,
+      "currency": "RUB",
+      "company": null,
+      "color": "FFFFFFFF",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": "Приход на Альмено (БиТрейд Кей Джи → Альмено) — косметическое средство, ВТС; заявка 34; ПП №191 от 06.11.2026 (исп. 18:13)",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "pp",
+        "ref": "ПП №191 от 06.11.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000464"
     }
   ]
 }
