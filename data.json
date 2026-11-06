@@ -4232,8 +4232,8 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
+      "sent_usdt": 8194,
+      "notes": " | 🛡️ 06.11.2026: движение OUT 8194 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:146).",
       "calc": null,
       "rowId": "main-000434",
       "companySource": {
