@@ -3971,7 +3971,7 @@
       "sum": 9531.7,
       "currency": "EUR",
       "company": "Z SOURCE",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "9 531,70 / 0,88974584267 (FX Q8 06.11.2026: 1 USD = 0,88974584267 EUR) + 0,3% + 30 = 10 774,97 USDT",
       "extra": "📄 02.11.2026 (📨 ВТС · t6511, заявка 77922, файл «Z SOURCE_PROVISIONAL INVOICE (1) (1).pdf») — PROVISIONAL INVOICE № 250087C / HK250087C от 26.10.2026, условия ANTICIPATO — IN ADVANCE: щётки GAMMA/ALFA/JOTA/R5403 и др., 13 позиций, TOTALE FATTURA 9.531,70 EUR. Заявка 77922, клиент ВТС, компания Z SOURCE. Расчёт не проставлен — ждёт формулу/курс от Scream.",
