@@ -2424,10 +2424,10 @@
     "date": "2026-11-03",
     "sum": 215098.53,
     "currency": "USD",
-    "company": "Xinhang Micro Technology (HK) Limited",
+    "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "ООО «СТРЕЛОЙ Е-КОММЕРЦ»",
-    "costFormula": null,
+    "costFormula": "215 098,53 + 0,3% + 30 = 215 773,83 USDT (Q8)",
     "extra": "📄 03.11.2026 (📨 Молодежь · t13206, файл «PI USD _Xinh 215 098,53_.pdf») — INVOICE XHW110326 от 03.11.2026: Xinhang Micro Technology (HK) Limited (Flat/RM A 12/F ZJ 300, 300 Lockhart Road, Wan Chai, HK) -> Buyer Z SOURCE LIMITED; Connectors 100 000 pcs x 2,1509 = 215 098,53 USD; EXW, 100% payment. Маршрут: ДС №9 от 20.10.2026 к договору 130225USD от 13.02.2025 — получателем платежей выступает ОсОО Блэкшарк Трейд",
     "rubles_received": "17584046.71",
     "statementRef": null,
@@ -2435,17 +2435,17 @@
     "exchange_to": "Almeno",
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "ПП на Almeno №64 от 03.11.2026 (17 554 046 71 ₽ — номер из документа ПП) | 📄 06.11.2026 (📨 Заявки Z-Source, файл «payment order.docx») — PAYMENT ORDER: плательщик Z SOURCE LIMITED → BENEFICIARY Xinhang Micro Technology (HK) Limited, 215 098,53 USD, банк JPMorgan Chase Bank N.A. Hong Kong Branch, счёт 200000000040097, SWIFT CHASHKHH; назначение «Payment for connectors invoice XHW110326 dd 03.11.2026». Это поручение на оплату, статуса исполнения в документе нет — сумма и цвет строки не меняются. | ⚠️ 06.11.2026 (📨 Молодежь · t13206 · 215 098,53 USD, Xinhang/JPMorgan) — платёж через Xfee ОТВЕРГНУТ системой: транзакция WR21186168267904122889, получатель Xinhang Micro Technology HK Limited, USD, счёт 2000****097, JPMORGAN CHASE BANK N.A., статус Rejected. Детали выясняются; возможна оплата с Q8 JP — не раньше понедельника. Строка не меняется, цвет без изменений.",
+    "sent_usdt": 215773.83,
+    "notes": "ПП на Almeno №64 от 03.11.2026 (17 554 046 71 ₽ — номер из документа ПП) | 📄 06.11.2026 (📨 Заявки Z-Source, файл «payment order.docx») — PAYMENT ORDER: плательщик Z SOURCE LIMITED → BENEFICIARY Xinhang Micro Technology (HK) Limited, 215 098,53 USD, банк JPMorgan Chase Bank N.A. Hong Kong Branch, счёт 200000000040097, SWIFT CHASHKHH; назначение «Payment for connectors invoice XHW110326 dd 03.11.2026». Это поручение на оплату, статуса исполнения в документе нет — сумма и цвет строки не меняются. | ⚠️ 06.11.2026 (📨 Молодежь · t13206 · 215 098,53 USD, Xinhang/JPMorgan) — платёж через Xfee ОТВЕРГНУТ системой: транзакция WR21186168267904122889, получатель Xinhang Micro Technology HK Limited, USD, счёт 2000****097, JPMORGAN CHASE BANK N.A., статус Rejected. Детали выясняются; возможна оплата с Q8 JP — не раньше понедельника. Строка не меняется, цвет без изменений. | запуск с Q8 по указанию (Молодежь t13206); ранее Xfee отклонил | 📄 06.11.2026 (📨 Молодежь t13206, «Запускаем с Q8», файл «PI USD _Xinh 215 098,53_-2.pdf») — платёж по Xinhang решено вести через Q8 (компания Q8, source=owner_instruction); проформа та же XHW110326 от 03.11.2026, 215 098,53 USD. Расчёт Q8: сумма + 0,3% + 30 = 215 773,83 USDT. Прежний отказ Xfee (WR21186168267904122889) остаётся в истории строки.",
     "calc": null,
     "rowId": "mol-000222",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "XHW110326 от 03.11.2026",
-      "file": null
+      "ref": "Запускаем с Q8 (Молодежь t13206",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   },
   {
