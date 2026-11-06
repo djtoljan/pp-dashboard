@@ -4732,6 +4732,42 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 163,
+      "date": "2026-11-06",
+      "sum": 32119.26,
+      "currency": "EUR",
+      "company": "Q8",
+      "color": "FFFFFFFF",
+      "clientName": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "extra": "📄 06.11.2026 (📨 ВТС · t6874, файл «60-ATB Service GmbH-Q8-FIT-051126.pdf», заявка 78248) — PROFORMA INVOICE №060-051126-FIT от 05.11.2026: CILINDRO DE HMB AL.100/060/0800+TS40C+TS40N 60 шт × 307,03 = 18 421,86; CILINDRO DE HMB AL.090/050/0500 TS40C+TS40N 60 шт × 222,62 = 13 357,10; PACKING 1 × 340,30; ИТОГО 32 119,26 EUR; происхождение Италия (EXW LUGO, ITALY), 120 мест, вес нетто 4 745,28 кг, брутто 4 943,00 кг; оплата в течение 5 дней; директор I.Brigida. Плательщик — Германия/ATB Service GmbH; по указанию оплата идёт на ФИНИНВЕСТ через Q8 (это первый инвойс).",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "PROFORMA 060-051126-FIT",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000458",
+      "companySource": {
+        "source": "owner_instruction",
+        "date": null,
+        "ref": "Оплата на ФИНИНВЕСТ через Q8",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
