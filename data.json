@@ -4317,7 +4317,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 6443,
-      "notes": "ПП на Almeno №182 от 03.11.2026 (534 375 51 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 6443 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:148).",
+      "notes": "ПП на Almeno №182 от 03.11.2026 (534 375 51 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 6443 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:148). | 📄 06.11.2026 (📨 USD, файл «6,355.00 USD-Guangzhou Baiyun Yanmei Cosmetics Factory.pdf») — квитанция BAXS PAY LIMITED: получатель Guangzhou Baiyun Yanmei Cosmetics Factory, назначение «PAYMENT FOR INVOICE RU40720261013», 6 355,00 USD, дата 06.11.2026, номер FO2611060904000001, статус Pending (в обработке). Не исполнение — строка 🟡.",
       "calc": null,
       "rowId": "main-000436",
       "companySource": {
@@ -4335,7 +4335,7 @@
       "sum": 10950,
       "currency": "USD",
       "company": "",
-      "color": "FFFF0000",
+      "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "📄 03.11.2026 (📨 ВТС · t6658, файл «PI-TF-OA261013-signed (3) (2) (1).pdf», заявка 77326) — PROFORMA INVOICE PI-TF-OA261013 (DECHAAB HONG KONG BUSINESS CO., LIMITED -> Q8 GROUP LIMITED/WTC): tanning foam 5000 pc x 4,38 USD = 21 900,00 USD, оплата 50% депозит = 10 950,00 USD; Taishin International Bank Hong Kong, SWIFT TSIBHKHH, счёт 29000120096653",
