@@ -2713,5 +2713,34 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 95,
+    "date": "2026-11-06",
+    "sum": 153070,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Акварайм (Молодёжь)",
+    "costFormula": "(153 070,00 + 65) / 0,9965 = 153 673,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 153559.21,
+    "notes": null,
+    "calc": null,
+    "rowId": "mol-000234",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-05",
+      "ref": "SM261105-01",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
