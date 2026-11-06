@@ -1303,7 +1303,7 @@
     "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "70000 + 0,3% + 30 = 70240 USDT (автопересчёт после смены суммы)",
     "extra": "📄 06.11.2026 (📨 Константин Просто Группа, файл «EL261029TP-2 - Z SOURCE LIMITED.pdf», «В работу, плата Z-source») — INVOICE EL261029TP-2, контракт FRW260926 от 26.09.2026, отгрузка 29.10.2026: услуги экспедирования/организации международной перевозки груза, 1 услуга, 70 000,00 USD, VAT 0%, TOTAL 70 000,00 USD. Бенефициар Shanghai EuroLink Supply Chain Management Co., Ltd. (Room 1313, No. 682 Shuidian Road, Hongkou District, Shanghai; USCC 91310110MAKNRPM85Q), INDUSTRIAL BANK CO., LTD. SHANGHAI BRANCH, USD счёт 216221400100134359, CNY 216220100100466999, SWIFT FJIBCNBA600, CNAPS 3092 9000 0199. Компания — Z SOURCE по указанию (плата Z-source).",
     "rubles_received": null,
     "statementRef": null,
@@ -1311,15 +1311,14 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 70240,
+    "notes": " | INVOICE EL261029TP-2, контракт FRW260926 | 📄 06.11.2026 (📨 Константин Просто Группа, файл «70 000.00 USD (06.11.2026) — EuroLink.xlsx») — заявка (форма «Необходимые данные для заявки»): сумма 70 000,00 USD, бенефициар Shanghai EuroLink Supply Chain Management Co., Ltd. (3rd Floor (mezzanine), No. 833 Yinhang Road, Yangpu District, Shanghai, China), банк INDUSTRIAL BANK CO., LTD., SHANGHAI BRANCH (No.168 Jiangning Road, Shanghai), счёт 216221400100134359, SWIFT FJIBCNBA600; назначение «Payment for freight forwarding services, invoice EL261029TP-2 dated 29.10.2026, contract FRW260926 dated 26.09.2026». Сумма совпадает со строкой, sumSource=order.",
     "calc": null,
     "sumSource": {
-      "source": "invoice",
-      "ref": "EL261029TP-2",
+      "source": "order",
+      "ref": "Заявка 70 000.00 USD (06.11.2026) EuroLink, invoice EL261029TP-2",
       "file": null,
-      "date": null,
-      "messageId": null
+      "date": "2026-11-06"
     },
     "rowId": "kon-000093",
     "companySource": {
