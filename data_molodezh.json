@@ -2737,7 +2737,7 @@
     "sum": 153070,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Акварайм (Молодёжь)",
     "costFormula": "(153 070,00 + 65) / 0,9965 = 153 673,00 USDT",
     "extra": null,
