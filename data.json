@@ -4229,7 +4229,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 46470,
-      "notes": "ПП на Almeno №179 от 03.11.2026 (3 837 166 70 ₽ — номер из документа ПП) | ✏️ 03.11.2026 (add-row): company Q8 → Q8-расчёт проставлен автоматически  46 242 00 + 0 3% + 30   46 410 73 USDT. | 🛡️ 06.11.2026: движение OUT 46470 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:145).",
+      "notes": "ПП на Almeno №179 от 03.11.2026 (3 837 166 70 ₽ — номер из документа ПП) | ✏️ 03.11.2026 (add-row): company Q8 → Q8-расчёт проставлен автоматически  46 242 00 + 0 3% + 30   46 410 73 USDT. | 🛡️ 06.11.2026: движение OUT 46470 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:145). | 📄 06.11.2026 (📨 USD, файл «46,242.00 USD-YUEQING HOUSE ELECTRIC CO.,LTD.pdf») — квитанция BAXS PAY LIMITED: получатель YUEQING HOUSE ELECTRIC CO., LTD, назначение «PAYMENT FOR INVOICE HBS2610106», 46 242,00 USD, дата 06.11.2026, номер FO2611060859000003, статус Pending (в обработке). Не исполнение — строка 🟡.",
       "calc": "",
       "rowId": "main-000433",
       "companySource": {
