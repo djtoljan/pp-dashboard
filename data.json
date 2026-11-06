@@ -4218,7 +4218,7 @@
       "sum": 46242,
       "currency": "USD",
       "company": "",
-      "color": "FFFF0000",
+      "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": "",
       "extra": "📄 03.11.2026 (📨 ВТС · t6623, файл «HBS2610106 (2).pdf», заявка 78178) — PROFORMA INVOICE HBS2610106 от 31.10.2026: YUEQING HOUSE ELECTRIC CO.,LTD (Zhejiang, China) -> Q8 GROUP LIMITED, US 242,00",
@@ -4259,7 +4259,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 8194,
-      "notes": " | 🛡️ 06.11.2026: движение OUT 8194 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:146).",
+      "notes": " | 🛡️ 06.11.2026: движение OUT 8194 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:146). | 📄 06.11.2026 (📨 USD, файл «8,100.00 USD-HK INBRIGHT LIGHTING CO., LIMITED.pdf») — квитанция BAXS PAY LIMITED: получатель HK INBRIGHT LIGHTING CO., LIMITED, назначение «PAYMENT FOR INVOICE PI261102IB08», 8 100,00 USD, дата 06.11.2026, номер FO2611060853000001, статус Pending (в обработке). Не исполнение — строка 🟡.",
       "calc": null,
       "rowId": "main-000434",
       "companySource": {
