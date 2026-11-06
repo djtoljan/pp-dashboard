@@ -1265,7 +1265,7 @@
     "date": "2026-11-06",
     "sum": 63357.1,
     "currency": "EUR",
-    "company": "LAURASTAR SA",
+    "company": "ATB",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
@@ -1277,7 +1277,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 2026-11-06: сумма строки = сумма оплаты 63357.1 (источник: order, Laurastar payment instruction: Proforma-Invoice 1031587 dd 04.11.26, payer N 1437635); итог инвойса 65007.14 — справочно.",
+    "notes": "📄 2026-11-06: сумма строки = сумма оплаты 63357.1 (источник: order, Laurastar payment instruction: Proforma-Invoice 1031587 dd 04.11.26, payer N 1437635); итог инвойса 65007.14 — справочно. | 📄 06.11.2026 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 63 357,10 EUR.pdf») — ордер: бенефициар Laurastar SA (Rte de Montreux 149, CH-1618 Châtel-St-Denis, Switzerland), UBS Switzerland AG (CH-1630 Bulle), SWIFT UBSWCHZH80A, счёт CH16 0026 6266 3500 7464 D, назначение «Proforma-Invoice 1031587 dd 04.11.26», EUR 63 357,10, условия OUR; плательщик ATB — компания проставлена (order), сумма совпадает с платёжным документом.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -1287,12 +1287,12 @@
     },
     "rowId": "kon-000092",
     "companySource": {
-      "source": "invoice",
+      "source": "order",
       "date": null,
-      "ref": "Proforma 1031587 dd 04.11.2026",
-      "file": "pfi_1031587_NOV_GE.pdf"
+      "ref": "Payment from ATB",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   }
 ]
