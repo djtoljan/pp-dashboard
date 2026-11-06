@@ -1263,7 +1263,7 @@
   {
     "row": 40,
     "date": "2026-11-06",
-    "sum": 65007.14,
+    "sum": 63357.1,
     "currency": "EUR",
     "company": "LAURASTAR SA",
     "color": "FFFFFFFF",
@@ -1277,14 +1277,13 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 2026-11-06: сумма строки = сумма оплаты 63357.1 (источник: order, Laurastar payment instruction: Proforma-Invoice 1031587 dd 04.11.26, payer N 1437635); итог инвойса 65007.14 — справочно.",
     "calc": null,
     "sumSource": {
-      "source": "invoice",
-      "ref": "Proforma 1031587 dd 04.11.2026",
-      "file": "pfi_1031587_NOV_GE.pdf",
-      "date": null,
-      "messageId": null
+      "source": "order",
+      "ref": "Laurastar payment instruction: Proforma-Invoice 1031587 dd 04.11.26, payer N 1437635",
+      "file": null,
+      "date": "2026-11-06"
     },
     "rowId": "kon-000092",
     "companySource": {
