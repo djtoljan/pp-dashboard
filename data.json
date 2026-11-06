@@ -4901,6 +4901,42 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 168,
+      "date": "2026-11-06",
+      "sum": 30000,
+      "currency": "EUR",
+      "company": "CH ER EZ LTD",
+      "color": "FFFFFFFF",
+      "clientName": "ИП Осипенко В.П.",
+      "costFormula": null,
+      "extra": "📄 06.11.2026 (📨 Fininvest — ИП Осипенко В.П., файл «Поручение №19.pdf») — ПОРУЧЕНИЕ №19 от 30.09.2026 (Приложение №1 к агентскому договору 0503-26/1 от 05.03.2026): ИП Осипенко Виталий Петрович → ОсОО «Блэкшарк Трейд» на платёж 30 000 EUR по инвойсу 82-2026 (контракт 09022026 от 06.03.2026); получатель CH ER EZ LTD (UniCredit Bulbank, IBAN BG03UNCR70001520072854, SWIFT UNCRBGSF, Blagoevgrad). Курс 96,0625, к перечислению 2 881 875 ₽; комиссия агента 1,5% + 100 USD = 43 228,13 + 8 442,83 = 51 670,96 ₽. Срок 2-3 банковских дня.",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Поручение №19 от 30.09.2026",
+        "file": "Поручение №19.pdf",
+        "date": "30.09.2026",
+        "messageId": null
+      },
+      "rowId": "main-000463",
+      "companySource": {
+        "source": "order",
+        "date": "30.09.2026",
+        "ref": "Поручение №19 от 30.09.2026",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
