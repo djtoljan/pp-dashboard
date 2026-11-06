@@ -4134,7 +4134,7 @@
       "sum": 152296.41,
       "currency": "EUR",
       "company": "Z SOURCE",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "152 296,41 / 0,88974584267 (FX Q8 06.11.2026: 1 USD = 0,88974584267 EUR) + 0,3% + 30 = 171 711,95 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6592, файл «Data Flow EUR.xlsx», заявка 77804) — INVOICE #77804 от 30.10.2026: PT INNOVATIVE DATA FLOW (BENOA SQUARE, BALI 80361) → LLC WTC, насосы/оборудование по Sales Contract №19-09/01 от 19.09.2025, 152 296,41 EUR",
