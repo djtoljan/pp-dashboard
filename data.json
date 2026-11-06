@@ -4375,7 +4375,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 8013,
-      "notes": "ПП на Almeno №185 от 03.11.2026 (663 963 30 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 8013 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:150).",
+      "notes": "ПП на Almeno №185 от 03.11.2026 (663 963 30 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 8013 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:150). | 📄 06.11.2026 (📨 USD, файл «7,920.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20260803-22», 7 920,00 USD, дата 06.11.2026, номер FO2611060944000002, статус Pending (в обработке). Не исполнение — строка 🟡.",
       "calc": null,
       "rowId": "main-000440",
       "companySource": {
@@ -4393,7 +4393,7 @@
       "sum": 13860,
       "currency": "USD",
       "company": "",
-      "color": "FFFF0000",
+      "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
       "extra": "📄 03.11.2026 (📨 ВТС · t6711, файл «Powder invoice20261029 3500pcs (3).pdf», заявка 78036) — INVOICE по контракту GM20260722-01 от 22.07.2026 (Goodly Cosmetics, Yiwu/Shanghai; покупатель WTC): powder, 3500 pcs; 13 860,00 USD; условия EXW, депозит/баланс до отгрузки",
