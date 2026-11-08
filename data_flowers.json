@@ -2061,5 +2061,41 @@
     "notes": "ПП на Almeno №695 от 05.11.2026 (3 092 072,65 ₽ — номер из документа ПП) | | 🏦 05.11.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, предварительная выписка Почтобанка 04.11–05.11.2026) — приход двумя ПП от ООО «ГЛОБАЛЦВЕТ» (ИНН 9721133571, БИК 044525922, счёт 40702810110090006341): ПП №1125 — 3 017 349,17 ₽ {VO11200} оплата по агентскому договору WD-26 от 25.12.2025 в рамках контракта 01/11-2024 от 01.11.2024 по поручению 104 от 05.11.2026 (тело) и ПП №1126 — 75 433,73 ₽ {VO21100} вознаграждение по тому же поручению 104 (агентское). rubles_received = 3 017 349.17 / 75 433.73. Строка 🔵 — ордер по поручению 104 ещё не приходил. | Разницу по ПП оставляем на комиссию банка — указание Scream 06.11.2026.",
     "calc": null,
     "rowId": "flw-000179"
+  },
+  {
+    "row": 75,
+    "date": "2026-11-09",
+    "sum": 10000,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Luxus Blumen (Цветы)",
+    "costFormula": "10 000,00 + 0,3% + 30 = 10 060,00 USDT",
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": 10060,
+    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT.",
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "INVOICE 273566 от 23.10.2026",
+      "file": "LUXUS_BLUMEN_10000_USD.pdf",
+      "date": "2026-10-23",
+      "messageId": null
+    },
+    "rowId": "flw-000180",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-23",
+      "ref": null,
+      "file": "LUXUS_BLUMEN_10000_USD.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
