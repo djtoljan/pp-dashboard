@@ -2151,7 +2151,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 26500.17,
-    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 26 391,00 + 0,3% + 30 = 26 500,17 USDT.",
+    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 26 391,00 + 0,3% + 30 = 26 500,17 USDT. | 📄 09.11.2026 (📨 Цветы · файл «AOA VENTURES LTD 26391,32.docx») — платёжные реквизиты к инвойсу 039: Amount 26 391,32 USD (в самом инвойсе TOTAL 26 391,00 — расхождение 0,32); получатель AOA VENTURES LTD, Port Louis, Mauritius; IBAN MU07AFBL2501076818000000027USD, AfrAsia Bank Ltd (Bowen Square 10, Dr Ferriere Street, Port Louis), SWIFT AFBLMUMU; рег. номер 162120; директор Safaraliiev Aleksandr, alexandr.lakshmigroup@gmail.com; расходы перевода не указаны; назначение «For flowers and/ or logistics». Корр. банк Citibank NA, New York, счёт 36889497, SWIFT CITI US 33 (из инвойса). Строка одна; сумма строки — по инвойсу 26 391,00, уточнить у Scream 0,32 при отправке.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
