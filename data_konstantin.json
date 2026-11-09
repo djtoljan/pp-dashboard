@@ -1382,9 +1382,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 18494.43,
     "sent_usdt": 18426.63,
-    "notes": "| 📄 09.11.2026 (📨 Ордера и Расчеты; «Payment from ATB❗️»; файл «INV 16 350,00 EUR.pdf») — ОРДЕР на платёж: компания-плательщик ATB; бенефициар MALVARROSA OU (Tulika 19; 10613 Tallinn; Estonia); банк Paysera LT; UAB; SWIFT EVIULT2VXXX; счёт LT923500010017273592; назначение «invoice No. M10-07 dd 20.10.2026»; сумма 16 350.00 EUR; OUR. 🚨 РАСХОЖДЕНИЕ реквизитов: в инвойсе M10-07 банк Banking Circle UK (IBAN GB75SAPY60838229948293; SWIFT SAPYGB2L); в ордере — Paysera LT (LT923500010017273592; EVIULT2VXXX; те же реквизиты; что у r6 от 08.10.2026). Перед оплатой сверить банк получателя. Компания ATB подтверждена ордером; строка ⬜.",
+    "notes": "| 📄 09.11.2026 (📨 Ордера и Расчеты; «Payment from ATB❗️»; файл «INV 16 350,00 EUR.pdf») — ОРДЕР на платёж: компания-плательщик ATB; бенефициар MALVARROSA OU (Tulika 19; 10613 Tallinn; Estonia); банк Paysera LT; UAB; SWIFT EVIULT2VXXX; счёт LT923500010017273592; назначение «invoice No. M10-07 dd 20.10.2026»; сумма 16 350.00 EUR; OUR. 🚨 РАСХОЖДЕНИЕ реквизитов: в инвойсе M10-07 банк Banking Circle UK (IBAN GB75SAPY60838229948293; SWIFT SAPYGB2L); в ордере — Paysera LT (LT923500010017273592; EVIULT2VXXX; те же реквизиты; что у r6 от 08.10.2026). Перед оплатой сверить банк получателя. Компания ATB подтверждена ордером; строка ⬜. | 🛡️ 09.11.2026: движение IN 18494.43 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:43).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
