@@ -5161,6 +5161,28 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000473"
+    },
+    {
+      "row": 178,
+      "date": "2026-11-09",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО ЕТЕ",
+      "costFormula": null,
+      "extra": "🏦 приход по выписке ВТБ (БиТрейд) 09.11.2026: ПП №5058 и №5059 от ООО «ЕТЕ» — тело и агентское, зачисление на счёт БиТрейд 40807810525640000008",
+      "rubles_received": "4928613.18 / 73928.84",
+      "statementRef": "VTB_битрейд_09.11.2026_59099.pdf",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: VTB_битрейд_09.11.2026_59099.pdf",
+      "calc": null,
+      "sumSource": null,
+      "rowId": "main-000474"
     }
   ]
 }
