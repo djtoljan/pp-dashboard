@@ -302,7 +302,7 @@
     "date": "2026-11-03",
     "sum": 10395,
     "currency": "USD",
-    "company": "BEIYI INFORMATION CO., LIMITED",
+    "company": "Q8",
     "color": "FFFFFF00",
     "clientName": "Вилог",
     "costFormula": "(10 395,00 + 65,00) / 0,9965 = 10 497 USDT",
@@ -318,12 +318,12 @@
     "calc": null,
     "rowId": "mol-000224",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "RCF261102-LN",
-      "file": null
+      "ref": null,
+      "messageId": "17004"
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   },
   {
