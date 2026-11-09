@@ -1179,7 +1179,7 @@
     "sum": 29375.25,
     "currency": "EUR",
     "company": "ATB",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(29 375,25 × 1,0025 + 80) × 1,12448 = 33204 USDT (себестоимость)",
     "extra": "📄 03.11.2026 (📨 Константин Просто Группа, файлы «29_375,25_EUR_2.xlsx» + «signal-2026-10-29-124720.pdf») — Fatura Proforma №A/04804 от 24.09.2026 (Numisma, Португалия; клиент David Berezin, Raq. 4884): 6 лотов золотых монет, продажная 25 000,00 EUR + комиссия 17,5% 4 375,00 EUR = 29 375,00 EUR; в проформе итог с IVA 23% (1 006,25) = 30 381,25 EUR. Реквизиты: BANCO COMERCIAL PORTUGUES, SWIFT BCOMPTPL, счёт PT50 0033 0000 0001 0968 038 40; к оплате указано 29 375,25 EUR",
@@ -1190,7 +1190,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 33309.49,
-    "notes": "📄 04.11.2026 Ордера и Расчеты «Payment from ATB» — ордер: beneficiary Numisma - Sociedade de Artigos Numismaticos SA; BANCO COMERCIAL PORTUGUES; SWIFT BCOMPTPL; PT50 0033 0000 0001 0968 038 40; OUR. Payment details INVOICE L149 R4884 / Fatura A/04804. | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 33309.49 USDT; батч 132 343,25",
+    "notes": "📄 04.11.2026 Ордера и Расчеты «Payment from ATB» — ордер: beneficiary Numisma - Sociedade de Artigos Numismaticos SA; BANCO COMERCIAL PORTUGUES; SWIFT BCOMPTPL; PT50 0033 0000 0001 0968 038 40; OUR. Payment details INVOICE L149 R4884 / Fatura A/04804. | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 33309.49 USDT; батч 132 343,25 |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (6).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → Numisma - Sociedade de Artigos Numismáticos SA (Banco Comercial Português, SWIFT BCOMPTPL, PT50003300000001096803840) по инвойсу L149 R4884 / Fatura A/04804: проводка 04.11.2026 — 29 375,25 EUR (End-to-End CCB.746.UE.POS70897234). Зелёнка.",
     "calc": null,
     "rowId": "kon-000087",
     "companySource": {
