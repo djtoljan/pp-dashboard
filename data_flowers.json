@@ -2294,5 +2294,41 @@
     "calc": null,
     "sumSource": null,
     "rowId": "flw-000187"
+  },
+  {
+    "row": 82,
+    "date": "2026-11-09",
+    "sum": 86598.22,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "ModestoGroup (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "INVOICE FL01/101126 dd 10.11.2026 (ModestoGroup OU)",
+      "file": null,
+      "date": "10.11.2026",
+      "messageId": null
+    },
+    "rowId": "flw-000190",
+    "companySource": {
+      "source": "invoice",
+      "date": "10.11.2026",
+      "ref": "FL01/101126",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
