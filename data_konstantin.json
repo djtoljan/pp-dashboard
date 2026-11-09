@@ -1402,5 +1402,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 44,
+    "date": "2026-11-09",
+    "sum": 180000,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Ligo_Electric_180_000_00_EUR_13548.xlsx / order request 13548 dd 08.11.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000099"
   }
 ]
