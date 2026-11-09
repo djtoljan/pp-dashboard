@@ -4223,7 +4223,7 @@
       "date": "2026-11-03",
       "sum": 46242,
       "currency": "USD",
-      "company": "",
+      "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": "",
@@ -4239,10 +4239,10 @@
       "calc": "",
       "rowId": "main-000433",
       "companySource": {
-        "source": "order",
+        "source": "owner_instruction",
         "date": null,
-        "ref": "Поручение 78178 от 03.11.2026",
-        "messageId": null
+        "ref": null,
+        "messageId": "16872"
       },
       "companyProvisional": false,
       "companyVerified": false,
@@ -4253,7 +4253,7 @@
       "date": "2026-11-03",
       "sum": 8100,
       "currency": "USD",
-      "company": "",
+      "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4269,12 +4269,12 @@
       "calc": null,
       "rowId": "main-000434",
       "companySource": {
-        "source": "invoice",
+        "source": "owner_instruction",
         "date": null,
-        "ref": "PI261102IB08 от 03.11.2026",
-        "file": null
+        "ref": null,
+        "messageId": "16872"
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
@@ -4282,7 +4282,7 @@
       "date": "2026-11-03",
       "sum": 4037.5,
       "currency": "USD",
-      "company": "",
+      "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4298,10 +4298,10 @@
       "calc": null,
       "rowId": "main-000435",
       "companySource": {
-        "source": "order",
+        "source": "owner_instruction",
         "date": null,
-        "ref": "Поручение 75332 от 03.11.2026",
-        "messageId": null
+        "ref": null,
+        "messageId": "16872"
       },
       "companyProvisional": false,
       "companyVerified": false
@@ -4311,7 +4311,7 @@
       "date": "2026-11-03",
       "sum": 6355,
       "currency": "USD",
-      "company": "",
+      "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4327,12 +4327,12 @@
       "calc": null,
       "rowId": "main-000436",
       "companySource": {
-        "source": "invoice",
+        "source": "owner_instruction",
         "date": null,
-        "ref": "RU40720261013 от 13.10.2026",
-        "file": null
+        "ref": null,
+        "messageId": "16872"
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
@@ -4340,7 +4340,7 @@
       "date": "2026-11-03",
       "sum": 10950,
       "currency": "USD",
-      "company": "",
+      "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4356,12 +4356,12 @@
       "calc": null,
       "rowId": "main-000437",
       "companySource": {
-        "source": "invoice",
+        "source": "owner_instruction",
         "date": null,
-        "ref": "PI-TF-OA261013 от 03.11.2026",
-        "file": null
+        "ref": null,
+        "messageId": "16872"
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
@@ -4369,7 +4369,7 @@
       "date": "2026-11-03",
       "sum": 7920,
       "currency": "USD",
-      "company": "",
+      "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4385,10 +4385,10 @@
       "calc": null,
       "rowId": "main-000440",
       "companySource": {
-        "source": "order",
+        "source": "owner_instruction",
         "date": null,
-        "ref": "Поручение 74324 от 03.11.2026",
-        "messageId": null
+        "ref": null,
+        "messageId": "16872"
       },
       "companyProvisional": false,
       "companyVerified": false
@@ -4398,7 +4398,7 @@
       "date": "2026-11-03",
       "sum": 13860,
       "currency": "USD",
-      "company": "",
+      "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4414,10 +4414,10 @@
       "calc": null,
       "rowId": "main-000441",
       "companySource": {
-        "source": "order",
+        "source": "owner_instruction",
         "date": null,
-        "ref": "Поручение 78036 от 03.11.2026",
-        "messageId": null
+        "ref": null,
+        "messageId": "16872"
       },
       "companyProvisional": false,
       "companyVerified": false
@@ -4427,7 +4427,7 @@
       "date": "2026-11-03",
       "sum": 7860,
       "currency": "USD",
-      "company": "",
+      "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4443,12 +4443,12 @@
       "calc": null,
       "rowId": "main-000442",
       "companySource": {
-        "source": "invoice",
+        "source": "owner_instruction",
         "date": null,
-        "ref": "GM20261014-29 от 14.10.2026",
-        "file": null
+        "ref": null,
+        "messageId": "16872"
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
