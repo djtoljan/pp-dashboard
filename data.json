@@ -4973,28 +4973,6 @@
       "currency": null,
       "company": null,
       "color": "FF4FC3F7",
-      "clientName": "ООО ЦЕРЕРА",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": "Предварительная выписка АО АКИБ «ПОЧТОБАНК» г. Пермь, счёт 40807810100157518600, 06.11.2026–09.11.2026: ПП №647/№648 от 06.11.2026, поручение 30",
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
-      "calc": null,
-      "sumSource": null,
-      "rowId": "main-000465"
-    },
-    {
-      "row": 171,
-      "date": "2026-11-06",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
       "clientName": "Ханлон Проджект Трейдинг",
       "costFormula": null,
       "extra": null,
@@ -5011,7 +4989,7 @@
       "rowId": "main-000466"
     },
     {
-      "row": 172,
+      "row": 171,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -5033,7 +5011,7 @@
       "rowId": "main-000467"
     },
     {
-      "row": 173,
+      "row": 172,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -5055,7 +5033,7 @@
       "rowId": "main-000468"
     },
     {
-      "row": 174,
+      "row": 173,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -5077,7 +5055,7 @@
       "rowId": "main-000469"
     },
     {
-      "row": 175,
+      "row": 174,
       "date": "2026-11-09",
       "sum": 46559.39,
       "currency": "USD",
@@ -5105,7 +5083,7 @@
       "rowId": "main-000470"
     },
     {
-      "row": 176,
+      "row": 175,
       "date": "2026-11-09",
       "sum": 17292,
       "currency": "EUR",
@@ -5133,7 +5111,7 @@
       "rowId": "main-000471"
     },
     {
-      "row": 177,
+      "row": 176,
       "date": "2026-11-09",
       "sum": null,
       "currency": null,
@@ -5155,7 +5133,7 @@
       "rowId": "main-000472"
     },
     {
-      "row": 178,
+      "row": 177,
       "date": "2026-11-09",
       "sum": null,
       "currency": null,

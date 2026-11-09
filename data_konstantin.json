@@ -1384,7 +1384,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 09.11.2026 (📨 Константин Просто Группа; файл «16 350 EUR (09.11.2026).xlsx» — форма заявки + «invoice M10-07.pdf») — ЗАЯВКА на международный платёж: сумма **16 350.00 EUR**; бенефициар **Malvarrosa OÜ** (Tulika 19; Kristiine linnaosa; Tallinn; Harju maakond; 10613; Estonia; reg.nr. 14389384; VAT EE102033661); банк **Banking Circle UK** (24 King William Street; London; United Kingdom; IBAN **GB75SAPY60838229948293**; SWIFT **SAPYGB2L**); назначение «**Payment for furniture to invoice No. M10-07 dd 20.10.2026**». Инвойс M10-07 от 20.10.2026; плательщик **ATB Service GmbH** (VAT DE463202384; Nonnendammallee 22; 13599 Berlin; Germany); товар Tableware; итог 16 350.00 €; срок оплаты 28.11.2026. Отдельная сделка от r6 (Malvarrosa; инв. M09-03; 17 500 EUR). Расчёт (ставка/формула) от Scream не задан — расход не проставлен.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
