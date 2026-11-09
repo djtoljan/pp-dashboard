@@ -2067,10 +2067,10 @@
     "date": "2026-11-09",
     "sum": 10000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FFFFFFFF",
     "clientName": "Luxus Blumen (Цветы)",
-    "costFormula": "10 000,00 + 0,3% + 30 = 10 060,00 USDT",
+    "costFormula": "(10 000 + 65) / 0,9965 = 10 100 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2078,8 +2078,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 10060,
-    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT. | 📄 09.11.2026 (📨 Цветы · файл «LUXUS_BLUMEN_10000_USD.pdf») — **INVOICE 273566 от 23.10.2026** (LUXUS BLUMEN S.A., Provincia Pichincha, Canton Pedro Moncayo, Parroquia Tabacundo, sector Tupigachi, RUC 1792072794001): экспортёр цветов (Эквадор → Казахстан), импортёр **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). AWB UIO: 2027, AWB SVO: LA1610056990, by order No. 675; 120 пиеces / 60 фулл-бокс, брутто 9 277 кг, нетто 7 885 кг; TOTAL **10 000,00 USD** (розы 50–90 см, 33 371 стебель). Оплата по контракту № L-1/14 от 15.08.2023. Бенефициар: Luxus Blumen S.A., счёт 02005190602, PRODUBANCO (Av. Amazonas N35211 y Japon, Quito, Ecuador), SWIFT PRODECEQ, корр. WELLS FARGO BANK N.A., SWIFT PNBPUS3N NYC, корр. счёт 2000192321006, назначение «For flowers». company = Q8 (импортёр по инвойсу), строка ⬜. | 📄 09.11.2026 (📨 Цветы · файл «Luxus Blumen S.A. 10000.docx») — платёжные реквизиты по тому же счёту: Amount 10 000,00 USD; получатель Luxus Blumen S.A., Prov. Pichincha, Canton Pedro Moncayo, Parroquia Tabancundo, sector Tupigachi-Ecuador; счёт 02005190602, PRODUBANCO (Av. Amazonas N35211 y Japón, Quito, Ecuador), SWIFT PRODECEQ; VAT 1792072794001; директор Cesar Guerra; корр. WELLS FARGO BANK N.A., SWIFT PNBPUS3N NYC, счёт 2000192321006; расходы перевода 0,00 $; назначение «For flowers». Совпадает с инвойсом 273566 — реквизиты для оплаты, вторая строка не нужна. |  | 📄 09.11.2026 (📨 USD · платёжный ордер) — ORDER по INVOICE 273566: Payer Q8 GROUP LIMITED, Amount 10 000,00 USD, Remarks PAYMENT FOR INVOICE 273566; бенефициар Luxus Blumen S.A., PRODUBANCO, SWIFT PRODECEQ, счёт 02005190602; промежуточный WELLS FARGO BANK N.A., SWIFT PNBPUS3NNYC, счёт 2000192321006. Совпадает с инвойсом; строка без изменений ⬜.",
+    "sent_usdt": 10100,
+    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT. | 📄 09.11.2026 (📨 Цветы · файл «LUXUS_BLUMEN_10000_USD.pdf») — **INVOICE 273566 от 23.10.2026** (LUXUS BLUMEN S.A., Provincia Pichincha, Canton Pedro Moncayo, Parroquia Tabacundo, sector Tupigachi, RUC 1792072794001): экспортёр цветов (Эквадор → Казахстан), импортёр **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong). AWB UIO: 2027, AWB SVO: LA1610056990, by order No. 675; 120 пиеces / 60 фулл-бокс, брутто 9 277 кг, нетто 7 885 кг; TOTAL **10 000,00 USD** (розы 50–90 см, 33 371 стебель). Оплата по контракту № L-1/14 от 15.08.2023. Бенефициар: Luxus Blumen S.A., счёт 02005190602, PRODUBANCO (Av. Amazonas N35211 y Japon, Quito, Ecuador), SWIFT PRODECEQ, корр. WELLS FARGO BANK N.A., SWIFT PNBPUS3N NYC, корр. счёт 2000192321006, назначение «For flowers». company = Q8 (импортёр по инвойсу), строка ⬜. | 📄 09.11.2026 (📨 Цветы · файл «Luxus Blumen S.A. 10000.docx») — платёжные реквизиты по тому же счёту: Amount 10 000,00 USD; получатель Luxus Blumen S.A., Prov. Pichincha, Canton Pedro Moncayo, Parroquia Tabancundo, sector Tupigachi-Ecuador; счёт 02005190602, PRODUBANCO (Av. Amazonas N35211 y Japón, Quito, Ecuador), SWIFT PRODECEQ; VAT 1792072794001; директор Cesar Guerra; корр. WELLS FARGO BANK N.A., SWIFT PNBPUS3N NYC, счёт 2000192321006; расходы перевода 0,00 $; назначение «For flowers». Совпадает с инвойсом 273566 — реквизиты для оплаты, вторая строка не нужна. |  | 📄 09.11.2026 (📨 USD · платёжный ордер) — ORDER по INVOICE 273566: Payer Q8 GROUP LIMITED, Amount 10 000,00 USD, Remarks PAYMENT FOR INVOICE 273566; бенефициар Luxus Blumen S.A., PRODUBANCO, SWIFT PRODECEQ, счёт 02005190602; промежуточный WELLS FARGO BANK N.A., SWIFT PNBPUS3NNYC, счёт 2000192321006. Совпадает с инвойсом; строка без изменений ⬜. | 📐 09.11.2026 (Scream msg 61285): расчёт оператора (сумма + 65) / 0,9965 = 10100 USDT; компания Q8 JP по указанию Scream.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -2090,23 +2090,28 @@
     },
     "rowId": "flw-000180",
     "companySource": {
-      "source": "invoice",
-      "date": "2026-10-23",
-      "ref": null,
-      "file": "LUXUS_BLUMEN_10000_USD.pdf"
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "telegram:7206154434#61285",
+      "messageId": "61285"
     },
-    "companyProvisional": true,
-    "companyVerified": false
+    "companyProvisional": false,
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; msg 61285; 2026-11-09",
+      "date": "2026-11-09"
+    }
   },
   {
     "row": 76,
     "date": "2026-11-09",
     "sum": 10000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FFFFFFFF",
     "clientName": "Rosaprima (Цветы)",
-    "costFormula": "10 000,00 + 0,3% + 30 = 10 060,00 USDT",
+    "costFormula": "(10 000 + 65) / 0,9965 = 10 100 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2114,8 +2119,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 10060,
-    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT. | 📄 09.11.2026 (📨 Цветы · файл «ROSAPRIMA_10000_USD.pdf») — **Proforma #983435** (Rosaprima International, LLC, 175 SW 7th Street, Suite 2301, Miami, FL 33130): Customer **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); SO #83403, customer PO #983435, sales rep Daniel Larrea; Truck Date 10/27/2026; carrier EBF Cargo, account 553394; розы ROS AST 60: 100 стеблей @ 0,500 USD = 400 ед. + 50 боксов × 25 стеблей @ 0,500 USD = 400 ед.; TOTAL 10 000,00 USD, налог 0,00. Бенефициар: Rosaprima Cia Ltda., Cananvalle Guachala Cayambe-Ecuador, RUC 1791338502001, счёт 02005162277, PRODUBANCO (Av Amazonas N35-211 y Japon, Quito, Ecuador), SWIFT PRODECEQ. company = Q8 (заказчик по проформе), строка ⬜. | 📄 09.11.2026 (📨 Цветы · файл «Rosaprima Cia Ltda. 10000.doc») — платёжные реквизиты по той же проформе 983435: BENEFICIARY Rosaprima Cia Ltda., Cananvalle Guachala Cayambe-Ecuador; банк PRODUBANCO (Av Amazonas N35-211 y Japón), SWIFT PRODECEQ; счёт 02005162277. Совпадает с проформой — реквизиты для оплаты, вторая строка не нужна. |  | 📄 09.11.2026 (📨 USD · платёжный ордер) — ORDER по INVOICE 983435: Payer Q8 GROUP LIMITED, Amount 10 000,00 USD, Remarks PAYMENT FOR INVOICE 983435; бенефициар Rosaprima Cia Ltda., Cananvalle Guachala Cayambe-Ecuador, PRODUBANCO, SWIFT PRODECEQ, счёт 02005162277. Совпадает с проформой; строка без изменений ⬜.",
+    "sent_usdt": 10100,
+    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 10 000,00 + 0,3% + 30 = 10 060,00 USDT. | 📄 09.11.2026 (📨 Цветы · файл «ROSAPRIMA_10000_USD.pdf») — **Proforma #983435** (Rosaprima International, LLC, 175 SW 7th Street, Suite 2301, Miami, FL 33130): Customer **Q8 Group Limited** (Company Number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong); SO #83403, customer PO #983435, sales rep Daniel Larrea; Truck Date 10/27/2026; carrier EBF Cargo, account 553394; розы ROS AST 60: 100 стеблей @ 0,500 USD = 400 ед. + 50 боксов × 25 стеблей @ 0,500 USD = 400 ед.; TOTAL 10 000,00 USD, налог 0,00. Бенефициар: Rosaprima Cia Ltda., Cananvalle Guachala Cayambe-Ecuador, RUC 1791338502001, счёт 02005162277, PRODUBANCO (Av Amazonas N35-211 y Japon, Quito, Ecuador), SWIFT PRODECEQ. company = Q8 (заказчик по проформе), строка ⬜. | 📄 09.11.2026 (📨 Цветы · файл «Rosaprima Cia Ltda. 10000.doc») — платёжные реквизиты по той же проформе 983435: BENEFICIARY Rosaprima Cia Ltda., Cananvalle Guachala Cayambe-Ecuador; банк PRODUBANCO (Av Amazonas N35-211 y Japón), SWIFT PRODECEQ; счёт 02005162277. Совпадает с проформой — реквизиты для оплаты, вторая строка не нужна. |  | 📄 09.11.2026 (📨 USD · платёжный ордер) — ORDER по INVOICE 983435: Payer Q8 GROUP LIMITED, Amount 10 000,00 USD, Remarks PAYMENT FOR INVOICE 983435; бенефициар Rosaprima Cia Ltda., Cananvalle Guachala Cayambe-Ecuador, PRODUBANCO, SWIFT PRODECEQ, счёт 02005162277. Совпадает с проформой; строка без изменений ⬜. | 📐 09.11.2026 (Scream msg 61285): расчёт оператора (сумма + 65) / 0,9965 = 10100 USDT; компания Q8 JP по указанию Scream.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -2126,23 +2131,28 @@
     },
     "rowId": "flw-000181",
     "companySource": {
-      "source": "invoice",
-      "date": "2026-07-14",
-      "ref": null,
-      "file": "ROSAPRIMA_10000_USD.pdf"
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "telegram:7206154434#61285",
+      "messageId": "61285"
     },
-    "companyProvisional": true,
-    "companyVerified": false
+    "companyProvisional": false,
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; msg 61285; 2026-11-09",
+      "date": "2026-11-09"
+    }
   },
   {
     "row": 77,
     "date": "2026-11-09",
     "sum": 26391,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FFFFFFFF",
     "clientName": "AOA VENTURES (Цветы)",
-    "costFormula": "26 391,00 + 0,3% + 30 = 26 500,17 USDT",
+    "costFormula": "(26 391 + 65) / 0,9965 = 26 549 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2150,8 +2160,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 26500.17,
-    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 26 391,00 + 0,3% + 30 = 26 500,17 USDT. | 📄 09.11.2026 (📨 Цветы · файл «AOA VENTURES LTD 26391,32.docx») — платёжные реквизиты к инвойсу 039: Amount 26 391,32 USD (в самом инвойсе TOTAL 26 391,00 — расхождение 0,32); получатель AOA VENTURES LTD, Port Louis, Mauritius; IBAN MU07AFBL2501076818000000027USD, AfrAsia Bank Ltd (Bowen Square 10, Dr Ferriere Street, Port Louis), SWIFT AFBLMUMU; рег. номер 162120; директор Safaraliiev Aleksandr, alexandr.lakshmigroup@gmail.com; расходы перевода не указаны; назначение «For flowers and/ or logistics». Корр. банк Citibank NA, New York, счёт 36889497, SWIFT CITI US 33 (из инвойса). Строка одна; сумма строки — по инвойсу 26 391,00, уточнить у Scream 0,32 при отправке. |  | 📄 09.11.2026 (📨 USD · файл «Invoice 039 AOA Ventures 26391 USD.pdf») — **INVOICE 039 от 08.10.2026**: Q8 Group Limited, CURRENCY USD, TOTAL 26 391,00 USD, назначение PAYMENT FOR FLOWERS; получатель AOA VENTURES LTD (4 Ter Saint George Street, Port Louis, Mauritius), AfrAsia Bank Ltd (Bowen Square 10, Dr Ferriere Street, Port Louis; SWIFT AFBLMUMU), счёт 076818000000027 USD, IBAN MU07AFBL2501076818000000027USD; корр. Citibank NA, New York, счёт 36889497, SWIFT CITIUS33. Совпадает с уже записанным; расхождение 0,32 с docx остаётся на уточнение, строка та же ⬜.",
+    "sent_usdt": 26549,
+    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 26 391,00 + 0,3% + 30 = 26 500,17 USDT. | 📄 09.11.2026 (📨 Цветы · файл «AOA VENTURES LTD 26391,32.docx») — платёжные реквизиты к инвойсу 039: Amount 26 391,32 USD (в самом инвойсе TOTAL 26 391,00 — расхождение 0,32); получатель AOA VENTURES LTD, Port Louis, Mauritius; IBAN MU07AFBL2501076818000000027USD, AfrAsia Bank Ltd (Bowen Square 10, Dr Ferriere Street, Port Louis), SWIFT AFBLMUMU; рег. номер 162120; директор Safaraliiev Aleksandr, alexandr.lakshmigroup@gmail.com; расходы перевода не указаны; назначение «For flowers and/ or logistics». Корр. банк Citibank NA, New York, счёт 36889497, SWIFT CITI US 33 (из инвойса). Строка одна; сумма строки — по инвойсу 26 391,00, уточнить у Scream 0,32 при отправке. |  | 📄 09.11.2026 (📨 USD · файл «Invoice 039 AOA Ventures 26391 USD.pdf») — **INVOICE 039 от 08.10.2026**: Q8 Group Limited, CURRENCY USD, TOTAL 26 391,00 USD, назначение PAYMENT FOR FLOWERS; получатель AOA VENTURES LTD (4 Ter Saint George Street, Port Louis, Mauritius), AfrAsia Bank Ltd (Bowen Square 10, Dr Ferriere Street, Port Louis; SWIFT AFBLMUMU), счёт 076818000000027 USD, IBAN MU07AFBL2501076818000000027USD; корр. Citibank NA, New York, счёт 36889497, SWIFT CITIUS33. Совпадает с уже записанным; расхождение 0,32 с docx остаётся на уточнение, строка та же ⬜. | 📐 09.11.2026 (Scream msg 61285): расчёт оператора (сумма + 65) / 0,9965 = 26549 USDT; компания Q8 JP по указанию Scream.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -2162,12 +2172,17 @@
     },
     "rowId": "flw-000182",
     "companySource": {
-      "source": "invoice",
-      "date": "2026-10-08",
-      "ref": null,
-      "file": "AOA_VENTURES_LTD_26391_32.pdf"
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "telegram:7206154434#61285",
+      "messageId": "61285"
     },
-    "companyProvisional": true,
-    "companyVerified": false
+    "companyProvisional": false,
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; msg 61285; 2026-11-09",
+      "date": "2026-11-09"
+    }
   }
 ]

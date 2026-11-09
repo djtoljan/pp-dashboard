@@ -2649,10 +2649,10 @@
     "date": "2026-11-05",
     "sum": 50000,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FFFFFFFF",
     "clientName": "АВЛОГ (Молодёжь)",
-    "costFormula": "50 000,00 + 0,3% + 30 = 50 180,00 USDT",
+    "costFormula": "(50 000 + 65) / 0,9965 = 50 241 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2660,18 +2660,23 @@
     "exchange_to": "VDX",
     "vdx_rate": 81.975,
     "received_usdt": 50858.88,
-    "sent_usdt": 50180,
-    "notes": "ПП на VDX №659 от 05.11.2026 (4 173 330,00 ₽ — номер из документа ПП) | | 📄 05.11.2026 (📨 Молодежь · t13353 · 50 000,00 USD Авлог (Вилог), файл «пп vdx 05.11.26.pdf») — **ПП №659 от 05.11.2026** (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, подпись Егорова Ю.Г.): ООО «АВЛОГ» (ИНН 7805808900, КПП 780501001, счёт 40702810326710001396) → VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», счёт 40807810000000015414), сумма **4 173 330,00 ₽**, назначение {VO11100} «Предоплата по контракту №AL26-001 от 29.09.2026 за профиль алюминиевый. НДС не облагается». sent_rubles_vdx = 4 173 330,00, маршрут VDX; сумма сделки 50 000,00 USD (курс ≈83,47 ₽/USD). | ✏️ 05.11.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 50 000,00 + 0,3% + 30 = 50 180,00 USDT. | | 📄 05.11.2026 (📨 Молодежь · t13353 · 50 000,00 USD Авлог (Вилог), файл «50000_USD_INVOICE_Foshan_Xubao_Import_And_Export_CO,LTD.pdf») — **PROFORMA INVOICE EXP M10-2026-023 от 08.10.2026** (Foshan Xubao Import And Export CO.,LTD, ROOM 501-2, NO.23 OF JI HUA 5TH RD, CHANCHENG, FOSHAN, CHINA): плательщик **Q8 Group Limited** (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK); 7 позиций (верх/низ горизонта, трек-пады, ручки, арт. XBX/XGX/LXD), N.W. 10 712,00 кг, **TOTAL 50 000,00 USD**. Бенефициар: Foshan Xubao, Agricultural Bank of China Foshan Huada Sub Branch, счёт 44423301040014020, SWIFT ABOCCNBJ190, CNAPS 103588042208. company = Q8 по счёту, строка ⬜; отправка на ВиДиИкс 4 173 330,00 ₽ (ПП №659) стоит. | | 📄 05.11.2026 (📨 Молодежь · t13353 · Авлог, файл «PO 50000 USD Foshan Xubao Import And Export CO.,LTD.docx») — платёжные реквизиты по счёту EXP M10-2026-023: бенефициар **Foshan Xubao Import And Export CO.,LTD** (ROOM 501-2, NO.23 OF JI HUA 5TH RD, CHANCHENG, FOSHAN, CHINA), банк **AGRICULTURAL BANK OF CHINA FOSHAN HUADA SUB BRANCH** (NO.3-4 BLDG NO.2 TONGXING ROAD, CHANCHENG, FOSHAN, GUANGDONG), SWIFT **ABOCCNBJ190**, счёт **44423301040014020**, сумма **50 000 USD**. Совпадает с проформой — это реквизиты для оплаты от Q8.",
+    "sent_usdt": 50241,
+    "notes": "ПП на VDX №659 от 05.11.2026 (4 173 330,00 ₽ — номер из документа ПП) | | 📄 05.11.2026 (📨 Молодежь · t13353 · 50 000,00 USD Авлог (Вилог), файл «пп vdx 05.11.26.pdf») — **ПП №659 от 05.11.2026** (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, подпись Егорова Ю.Г.): ООО «АВЛОГ» (ИНН 7805808900, КПП 780501001, счёт 40702810326710001396) → VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», счёт 40807810000000015414), сумма **4 173 330,00 ₽**, назначение {VO11100} «Предоплата по контракту №AL26-001 от 29.09.2026 за профиль алюминиевый. НДС не облагается». sent_rubles_vdx = 4 173 330,00, маршрут VDX; сумма сделки 50 000,00 USD (курс ≈83,47 ₽/USD). | ✏️ 05.11.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 50 000,00 + 0,3% + 30 = 50 180,00 USDT. | | 📄 05.11.2026 (📨 Молодежь · t13353 · 50 000,00 USD Авлог (Вилог), файл «50000_USD_INVOICE_Foshan_Xubao_Import_And_Export_CO,LTD.pdf») — **PROFORMA INVOICE EXP M10-2026-023 от 08.10.2026** (Foshan Xubao Import And Export CO.,LTD, ROOM 501-2, NO.23 OF JI HUA 5TH RD, CHANCHENG, FOSHAN, CHINA): плательщик **Q8 Group Limited** (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK); 7 позиций (верх/низ горизонта, трек-пады, ручки, арт. XBX/XGX/LXD), N.W. 10 712,00 кг, **TOTAL 50 000,00 USD**. Бенефициар: Foshan Xubao, Agricultural Bank of China Foshan Huada Sub Branch, счёт 44423301040014020, SWIFT ABOCCNBJ190, CNAPS 103588042208. company = Q8 по счёту, строка ⬜; отправка на ВиДиИкс 4 173 330,00 ₽ (ПП №659) стоит. | | 📄 05.11.2026 (📨 Молодежь · t13353 · Авлог, файл «PO 50000 USD Foshan Xubao Import And Export CO.,LTD.docx») — платёжные реквизиты по счёту EXP M10-2026-023: бенефициар **Foshan Xubao Import And Export CO.,LTD** (ROOM 501-2, NO.23 OF JI HUA 5TH RD, CHANCHENG, FOSHAN, CHINA), банк **AGRICULTURAL BANK OF CHINA FOSHAN HUADA SUB BRANCH** (NO.3-4 BLDG NO.2 TONGXING ROAD, CHANCHENG, FOSHAN, GUANGDONG), SWIFT **ABOCCNBJ190**, счёт **44423301040014020**, сумма **50 000 USD**. Совпадает с проформой — это реквизиты для оплаты от Q8. | 📐 09.11.2026 (Scream msg 61285): расчёт оператора (сумма + 65) / 0,9965 = 50241 USDT; компания Q8 JP по указанию Scream.",
     "calc": null,
     "rowId": "mol-000231",
     "companySource": {
-      "source": "invoice",
-      "date": "2026-10-08",
-      "ref": "EXP M10-2026-023",
-      "file": "input-50000_USD_INVOICE_Foshan_Xubao_Import_And_Export_CO_LTD---ded0889b-ca54-4ca2-b3c1-acadbc3af24a.pdf"
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "telegram:7206154434#61285",
+      "messageId": "61285"
     },
-    "companyProvisional": true,
-    "companyVerified": false
+    "companyProvisional": false,
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; msg 61285; 2026-11-09",
+      "date": "2026-11-09"
+    }
   },
   {
     "row": 93,
@@ -2765,10 +2770,10 @@
     "date": "2026-11-06",
     "sum": 149103.16,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 JP",
     "color": "FFFFFFFF",
     "clientName": "Акварайм (Молодёжь)",
-    "costFormula": "149 103,16 + 0,3% + 30 = 149 580,47 USDT",
+    "costFormula": "(149 103,16 + 65) / 0,9965 = 149 692 USDT",
     "extra": "📄 06.11.2026 (📨 Молодежь · t13327, файлы «PAYMENT_ORDER 05.11.2026 149 103.16 USD.pdf» + «inv SM261105-01 - Smart - BS - 302 173.16 USD -p1.pdf») — INVOICE SM261105-01 от 05.11.2026 (эмитент Q8 Group Limited, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK): Semi-Assembled STRO Skid Parts 3 шт × 99 392,17 = 298 176,51; pH-электрод Endress+Hauser 549,76; BALL VALVE FlowX 10 × 131,86 = 1 318,60; корпуса фильтров FIRST LINE 3 × 202,77 = 608,31; фильтроэлементы 21 × 72,38 = 1 519,98; ИТОГО 302 173,16 USD. В инвойсе указано «Partial payment according to invoice 149,103.16 USD» — эта строка = 1-я часть оплаты; 2-я часть 153 070,00 USD проведена квитанцией BAXS (Молодёжь r95), вместе ровно 302 173,16. Бенефициар SMARTSISTEMS PTE. LTD., Citibank N.A. Hong Kong Branch, счёт 006-391-390205005, SWIFT CITIHKHX. PAYMENT ORDER от 03.11.2026 на 149 103,16 USD.",
     "rubles_received": null,
     "statementRef": null,
@@ -2776,8 +2781,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 149580.47,
-    "notes": "✏️ 06.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 149 103,16 + 0,3% + 30 = 149 580,47 USDT.",
+    "sent_usdt": 149692,
+    "notes": "✏️ 06.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 149 103,16 + 0,3% + 30 = 149 580,47 USDT. | 📐 09.11.2026 (Scream msg 61285): расчёт оператора (сумма + 65) / 0,9965 = 149692 USDT; компания Q8 JP по указанию Scream.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -2788,12 +2793,17 @@
     },
     "rowId": "mol-000235",
     "companySource": {
-      "source": "invoice",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "Invoice SM261105-01 dd 05.11.2026",
-      "file": "inv SM261105-01 (302 173.16 USD).pdf"
+      "ref": "telegram:7206154434#61285",
+      "messageId": "61285"
     },
-    "companyProvisional": true,
-    "companyVerified": false
+    "companyProvisional": false,
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction; msg 61285; 2026-11-09",
+      "date": "2026-11-09"
+    }
   }
 ]
