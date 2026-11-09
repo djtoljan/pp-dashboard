@@ -1384,7 +1384,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 09.11.2026 (📨 Константин Просто Группа; файл «16 350 EUR (09.11.2026).xlsx» — форма заявки + «invoice M10-07.pdf») — ЗАЯВКА на международный платёж: сумма **16 350.00 EUR**; бенефициар **Malvarrosa OÜ** (Tulika 19; Kristiine linnaosa; Tallinn; Harju maakond; 10613; Estonia; reg.nr. 14389384; VAT EE102033661); банк **Banking Circle UK** (24 King William Street; London; United Kingdom; IBAN **GB75SAPY60838229948293**; SWIFT **SAPYGB2L**); назначение «**Payment for furniture to invoice No. M10-07 dd 20.10.2026**». Инвойс M10-07 от 20.10.2026; плательщик **ATB Service GmbH** (VAT DE463202384; Nonnendammallee 22; 13599 Berlin; Germany); товар Tableware; итог 16 350.00 €; срок оплаты 28.11.2026. Отдельная сделка от r6 (Malvarrosa; инв. M09-03; 17 500 EUR). Расчёт (ставка/формула) от Scream не задан — расход не проставлен.",
+    "notes": "| 📄 09.11.2026 (📨 Ордера и Расчеты; «Payment from ATB❗️»; файл «INV 16 350,00 EUR.pdf») — ОРДЕР на платёж: компания-плательщик ATB; бенефициар MALVARROSA OU (Tulika 19; 10613 Tallinn; Estonia); банк Paysera LT; UAB; SWIFT EVIULT2VXXX; счёт LT923500010017273592; назначение «invoice No. M10-07 dd 20.10.2026»; сумма 16 350.00 EUR; OUR. 🚨 РАСХОЖДЕНИЕ реквизитов: в инвойсе M10-07 банк Banking Circle UK (IBAN GB75SAPY60838229948293; SWIFT SAPYGB2L); в ордере — Paysera LT (LT923500010017273592; EVIULT2VXXX; те же реквизиты; что у r6 от 08.10.2026). Перед оплатой сверить банк получателя. Компания ATB подтверждена ордером; строка ⬜.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
