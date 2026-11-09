@@ -5087,8 +5087,8 @@
       "date": "2026-11-09",
       "sum": 17292,
       "currency": "EUR",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "ATB",
+      "color": "FFFFFFFF",
       "clientName": "Дре Русланд",
       "costFormula": null,
       "extra": null,
@@ -5108,7 +5108,15 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000471"
+      "rowId": "main-000471",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "FS/1634/2026",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     },
     {
       "row": 176,
