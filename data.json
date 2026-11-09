@@ -5131,6 +5131,28 @@
         "messageId": null
       },
       "rowId": "main-000471"
+    },
+    {
+      "row": 177,
+      "date": "2026-11-09",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "1914605.32",
+      "statementRef": null,
+      "sent_rubles_vdx": "1914605.32",
+      "exchange_to": "Almeno",
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "\\n💸 09.11.2026 (📨 Отправки рублей ПП.) — с БиТрейд (ВТБ) на Альмено 1 914 605,32 ₽ — оборудование, заявка 35, доки на вход O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 06.11.26_3. Маршрут Almeno. Заявки/поручения в таблице не было — строка 🔵, ждём сделку (сумма/валюта с инвойсом/ордером).",
+      "calc": null,
+      "sumSource": null,
+      "rowId": "main-000472"
     }
   ]
 }
