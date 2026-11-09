@@ -1366,5 +1366,41 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 43,
+    "date": "2026-11-09",
+    "sum": 16350,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "invoice M10-07 dd 20.10.2026",
+      "file": "invoice M10-07.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000097",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "M10-07",
+      "file": "invoice M10-07.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
