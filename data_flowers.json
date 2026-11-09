@@ -2101,7 +2101,19 @@
     "costSourceRef": {
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
-    }
+    },
+    "payment_facts": [
+      {
+        "entryId": "OUT_20200_09.11.2026_1794202699455",
+        "ref": "722263e203f4a09ca9efc359b182d6f6d56a0fd02e33ce5b6921537891bcde64",
+        "txid": "722263e203f4a09ca9efc359b182d6f6d56a0fd02e33ce5b6921537891bcde64",
+        "bobrAlertId": null,
+        "date": "09.11.2026",
+        "direction": "OUT",
+        "amount": 10100,
+        "rowId": "flw-000180"
+      }
+    ]
   },
   {
     "row": 76,
@@ -2142,7 +2154,19 @@
     "costSourceRef": {
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
-    }
+    },
+    "payment_facts": [
+      {
+        "entryId": "OUT_20200_09.11.2026_1794202699455",
+        "ref": "722263e203f4a09ca9efc359b182d6f6d56a0fd02e33ce5b6921537891bcde64",
+        "txid": "722263e203f4a09ca9efc359b182d6f6d56a0fd02e33ce5b6921537891bcde64",
+        "bobrAlertId": null,
+        "date": "09.11.2026",
+        "direction": "OUT",
+        "amount": 10100,
+        "rowId": "flw-000181"
+      }
+    ]
   },
   {
     "row": 77,
