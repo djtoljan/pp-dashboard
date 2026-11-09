@@ -1329,5 +1329,42 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 42,
+    "date": "2026-11-09",
+    "sum": 15355,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "\\n📄 09.11.2026 (📨 Константин Просто группа, файл «15355 EUR (09.11.2026).xlsx» — заявка на международный платёж): 15 355 EUR, бенефициар ZOTOKS DOO VIROVO (VIROVO BB, Virovo, SERBIA), банк AIK BANKA AD BEOGRAD (BULEVAR MIHAILA PUPINA 115D, 11070 NOVI BEOGRAD, SERBIA), IBAN RS351050000000290628, SWIFT AIKBRS22. Назначение: Payment for invoice 26-ZZ004000003. Компания/ордер не указаны — строка 🔴, ждём компанию.",
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Invoice 26-ZZ004000003 / заявка 15355 EUR (09.11.2026)",
+      "file": "15355 EUR (09.11.2026).xlsx",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000094",
+    "companySource": {
+      "source": "topic",
+      "date": "2026-11-09",
+      "topic": "Константин Просто Группа",
+      "messageId": "61310",
+      "file": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
