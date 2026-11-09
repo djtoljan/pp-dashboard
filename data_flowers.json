@@ -2208,5 +2208,27 @@
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
     }
+  },
+  {
+    "row": 78,
+    "date": "2026-11-06",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ООО ГЛОБАЛЦВЕТ (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "2877347.78 / 71933.69",
+    "statementRef": "Предварительная выписка АО АКИБ «ПОЧТОБАНК» г. Пермь, счёт 40807810100157518600, 06.11.2026–09.11.2026: ПП №1127/№1128 от 06.11.2026, поручение 105",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: Предварительная выписка АО АКИБ «ПОЧТОБАНК» г. Пермь, счёт 40807810100157518600, 06.11.2026–09.11.2026: ПП №1127/№1128 от 06.11.2026, поручение 105",
+    "calc": null,
+    "sumSource": null,
+    "rowId": "flw-000183"
   }
 ]
