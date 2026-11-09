@@ -1408,8 +1408,8 @@
     "date": "2026-11-09",
     "sum": 180000,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "ATB",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -1429,6 +1429,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000099"
+    "rowId": "kon-000099",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "13548",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
