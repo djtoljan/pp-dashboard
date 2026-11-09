@@ -2250,5 +2250,27 @@
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
     }
+  },
+  {
+    "row": 80,
+    "date": "2026-11-09",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ООО ГЛОБАЛЦВЕТ (Цветы)",
+    "costFormula": null,
+    "extra": "🏦 приход по выписке Почтобанка 09.11.2026: ПП №1129 (тело) и ПП №1130 (агентское) от ООО ГЛОБАЛЦВЕТ по Поручению 106, договор WD-26 от 25.12.2025, контракт 01/11-2024 от 01.11.2024",
+    "rubles_received": "4382043.38 / 109551.08",
+    "statementRef": "ОсОО_Блэкшарк_Трейд_, _ПОЧТОБАНК_iBank_для_Бизнеса.pdf",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: ОсОО_Блэкшарк_Трейд_, _ПОЧТОБАНК_iBank_для_Бизнеса.pdf",
+    "calc": null,
+    "sumSource": null,
+    "rowId": "flw-000186"
   }
 ]
