@@ -516,5 +516,33 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 17,
+    "date": "2026-11-09",
+    "sum": 20570.51,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Заявка 20 570,51 EUR (09.11.2026) + инвойс 1947 от 21.08.2026 (ICSEA HELEN SEWARD)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000100"
   }
 ]
