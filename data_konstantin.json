@@ -522,8 +522,8 @@
     "date": "2026-11-09",
     "sum": 20570.51,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "ATB",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -534,7 +534,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 09.11.2026 (📨 Константин Просто Группа; файл «20570,51 EUR (09.11.2026).xlsx» — форма заявки) — ЗАЯВКА на международный платёж: сумма 20 570.51 EUR; бенефициар ICSEA HELEN SEWARD s.a.s. (Italy); банк INTESA SANPAOLO SPA (PIAZZA SAN CARLO 156; TORINO; ITALY; IBAN IT85 Q030 6933 2201 0000 0000 723; SWIFT BCITITMMXXX); назначение «for cosmetic goods (partial payment)»; инвойс 1947 от 21.08.2026. Компания-плательщик не указана — строка 🔴; ждём компанию. Расчёт не проставлен.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -543,6 +543,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000100"
+    "rowId": "kon-000100",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "1947",
+      "file": "P-I_1947_NED_RUSSIA_MODIFIED_1.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
