@@ -1300,7 +1300,7 @@
     "date": "2026-11-06",
     "sum": 70000,
     "currency": "USD",
-    "company": "Z SOURCE",
+    "company": "PQ18",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": "70000 + 0,3% + 30 = 70240 USDT (автопересчёт после смены суммы)",
@@ -1324,8 +1324,8 @@
     "companySource": {
       "source": "owner_instruction",
       "date": null,
-      "ref": "Плата Z-source",
-      "messageId": null
+      "ref": "telegram:7206154434#61296",
+      "messageId": "61296"
     },
     "companyProvisional": false,
     "companyVerified": false
