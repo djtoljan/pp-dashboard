@@ -2771,7 +2771,7 @@
     "sum": 149103.16,
     "currency": "USD",
     "company": "Q8 JP",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Акварайм (Молодёжь)",
     "costFormula": "(149 103,16 + 65) / 0,9965 = 149 692 USDT",
     "extra": "📄 06.11.2026 (📨 Молодежь · t13327, файлы «PAYMENT_ORDER 05.11.2026 149 103.16 USD.pdf» + «inv SM261105-01 - Smart - BS - 302 173.16 USD -p1.pdf») — INVOICE SM261105-01 от 05.11.2026 (эмитент Q8 Group Limited, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK): Semi-Assembled STRO Skid Parts 3 шт × 99 392,17 = 298 176,51; pH-электрод Endress+Hauser 549,76; BALL VALVE FlowX 10 × 131,86 = 1 318,60; корпуса фильтров FIRST LINE 3 × 202,77 = 608,31; фильтроэлементы 21 × 72,38 = 1 519,98; ИТОГО 302 173,16 USD. В инвойсе указано «Partial payment according to invoice 149,103.16 USD» — эта строка = 1-я часть оплаты; 2-я часть 153 070,00 USD проведена квитанцией BAXS (Молодёжь r95), вместе ровно 302 173,16. Бенефициар SMARTSISTEMS PTE. LTD., Citibank N.A. Hong Kong Branch, счёт 006-391-390205005, SWIFT CITIHKHX. PAYMENT ORDER от 03.11.2026 на 149 103,16 USD.",
@@ -2782,7 +2782,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 149692,
-    "notes": "✏️ 06.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 149 103,16 + 0,3% + 30 = 149 580,47 USDT. | 📐 09.11.2026 (Scream msg 61285): расчёт оператора (сумма + 65) / 0,9965 = 149692 USDT; компания Q8 JP по указанию Scream. | 🛡️ 09.11.2026: движение OUT 149692 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:96).",
+    "notes": "✏️ 06.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 149 103,16 + 0,3% + 30 = 149 580,47 USDT. | 📐 09.11.2026 (Scream msg 61285): расчёт оператора (сумма + 65) / 0,9965 = 149692 USDT; компания Q8 JP по указанию Scream. | 🛡️ 09.11.2026: движение OUT 149692 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:96). |  | 📄 09.11.2026 (📨 USD, файл «149,103.16 USD-SMARTSISTEMS PTE. LTD..pdf») — платёжный сертификат BAXS PAY LIMITED (BC1510785): 149 103,16 USD, OUR, получатель SMARTSISTEMS PTE. LTD., назначение «PAYMENT FOR INVOICE SM261105-01», транзакция FO2611090801000001 от 09.11.2026, статус **Pending (обработка)** — INITIATED, не исполнение.",
     "calc": null,
     "sumSource": {
       "source": "order",
