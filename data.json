@@ -5293,6 +5293,28 @@
         "messageId": null
       },
       "rowId": "main-000476"
+    },
+    {
+      "row": 181,
+      "date": "2026-11-10",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО ЕТЕ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": "БиТрейд → Альмено 4 050 000, 00 ₽ транспортные услуги (заявка 37; вход 09.11.26)",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: БиТрейд → Альмено 4 050 000, 00 ₽ транспортные услуги (заявка 37; вход 09.11.26)",
+      "calc": null,
+      "sumSource": null,
+      "rowId": "main-000477"
     }
   ]
 }
