@@ -725,7 +725,7 @@
     "sum": 220150,
     "currency": "EUR",
     "company": "INTEGRA",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(220 150,00 × 1,0025 + 80) × 1,11798 = 246828,04 USDT (XE 10.11.2026: 1 EUR = 1,11798 USD)",
     "extra": "Babyliss: order 7030217900 + PI 7030180456",
