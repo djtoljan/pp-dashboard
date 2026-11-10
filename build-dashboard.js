@@ -150,7 +150,9 @@ function build() {
       // 🚨 Исключение: маршрут на ВТБ (перевод собственных средств / покупка валюты) — это НЕ VDX,
       // такие строки в разделе «Не на VDX» не показываем (прецедент 25.08.2026, Движение 78 r14).
       const vtbRoute = /ВТБ|VTB/i.test(String(r.exchange_to || ''));
-      if (r.rubles_received && !r.sent_rubles_vdx && !vtbRoute) {
+      // 🚨 Также исключаем рубли с маршрутом на Альмена (Almeno/Al Safi) — это тоже обмен, но не VDX.
+      const oltreRoute = /almeno|al\s*safi/i.test(String(r.exchange_to || ''));
+      if (r.rubles_received && !r.sent_rubles_vdx && !vtbRoute && !oltreRoute) {
         waitVdx.push(entry);
       }
 
@@ -269,7 +271,7 @@ th { background: #1e2138; text-align: left; padding: 9px 14px; font-size: 11px; 
 
   // ===== 🔵 RUBLES — NOT SENT TO VDX =====
   if (waitVdx.length > 0) {
-    h += `<h2><span class="section-label">🔵</span> Рубли на VDX не отправлены <span>${waitVdx.length}</span></h2>`;
+    h += `<h2><span class="section-label">🔵</span> Рубли не отправлены на обмен <span>${waitVdx.length}</span></h2>`;
     h += `<table><thead><tr><th></th><th>Дата</th><th>Клиент</th><th>Группа</th><th>Пришло ₽</th></tr></thead><tbody>`;
     for (const r of waitVdx) {
       const rubTotal = r.rubles ? String(r.rubles).split('/').reduce((a,p) => a + (parseFloat(p)||0), 0) : 0;

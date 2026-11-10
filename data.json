@@ -5183,6 +5183,42 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000474"
+    },
+    {
+      "row": 179,
+      "date": "2026-11-10",
+      "sum": 59596.29,
+      "currency": "USD",
+      "company": "Q8 GROUP LIMITED",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "72534",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000475",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "Data Flow invoice 59596",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
