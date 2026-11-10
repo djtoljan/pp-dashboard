@@ -5351,6 +5351,42 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 183,
+      "date": "2026-11-10",
+      "sum": 27216,
+      "currency": "EUR",
+      "company": "SEVEROSKLO Kamenický Šenov s.r.o.",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "Заявка 78312, проформа 26FVZ00031",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "Proforma invoice 26FVZ00031 от 04.11.2026",
+        "file": "proforma_invoice_26FVZ00031---195f0421-0bfb-4d7f-badb-6586cdf12246.pdf",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000483",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "Proforma invoice 26FVZ00031 dd 04.11.2026",
+        "file": "proforma_invoice_26FVZ00031---195f0421-0bfb-4d7f-badb-6586cdf12246.pdf"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
