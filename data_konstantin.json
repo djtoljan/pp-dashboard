@@ -43,9 +43,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": 85887,
+    "received_usdt": 98852.75,
     "sent_usdt": 98697,
-    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, «Платит ATB», файл «6550_201 inv BZT 87 758.80 eur ATB Service GmbH.pdf») — **PRO FORMA INVOICE № D-BZT-51** от 02.11.2026 (срок оплаты 12.11.2026): продавец **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85, tax 33020048-2-42) → customer **ATB Service GmbH** (Germany, DE-13599 Berlin, Nonnendammallee 22, VAT DE463202384); товар «Equipment components in an assortment», итого **87 758,80 EUR**, VAT 0. Бенефициар **SYMOCO PAYMENTS LTD**, IBAN LT843981120000002353, SWIFT USTILT2VXXX, банк UAB Stanhope Financial (Vilnius). Компания-плательщик — **ATB**. Заявка в xlsx ссылалась на D-BZT-39 (glue), фактический инвойс — D-BZT-51. | 📄 02.11.2026 16:11 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 87 758,80 EUR.pdf») — ордер на платёж: **87 758,80 EUR**, OUR; beneficiary **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó, HUNGARY), банк **UAB Stanhope Financial** (Vilnius, Lithuania), счёт LT843981120000002353, SWIFT USTILT2VXXX; в сообщении назначение — «invoice No. D-BZT-39 dd 07.10.2026», в приложенном PDF — PRO FORMA INVOICE **D-BZT-51** от 02.11.2026 (customer ATB Service GmbH), бенефициар SYMOCO PAYMENTS LTD. Компания ATB подтверждена, сумма и цвет строки без изменений. | ✔️ 02.11.2026 (📨 Константин Просто Группа, «Как в заявке этой», файл «87 758.80 EUR (02.11.2026) (1).xlsx») — сверено с заявкой: сумма **87 758,80 EUR**, валюта EUR, бенефициар **BZT Master Cargo Kft** (HUNGARY, 1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó), банк **UAB Stanhope Financial** (UPES G. 23, Vilnius, LT-08128, Lithuania), IBAN **LT843981120000002353**, SWIFT **USTILT2VXXX**, назначение «Payment for glue to invoice No. D-BZT-39 dd 07.10.2026» — как в заявке. Реквизиты строки соответствуют заявке; PDF D-BZT-51 — справочно. | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (3).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → BZT Master Cargo Kft (UAB Stanhope Financial, SWIFT USTILT2VXXX, LT843981120000002353) по инвойсу D-BZT-39 dd 07.10.2026: проводка 03.11.2026 — 87 758,80 EUR (End-to-End CCB.100.UE.POS81028714). Зелёнка.",
+    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, «Платит ATB», файл «6550_201 inv BZT 87 758.80 eur ATB Service GmbH.pdf») — **PRO FORMA INVOICE № D-BZT-51** от 02.11.2026 (срок оплаты 12.11.2026): продавец **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85, tax 33020048-2-42) → customer **ATB Service GmbH** (Germany, DE-13599 Berlin, Nonnendammallee 22, VAT DE463202384); товар «Equipment components in an assortment», итого **87 758,80 EUR**, VAT 0. Бенефициар **SYMOCO PAYMENTS LTD**, IBAN LT843981120000002353, SWIFT USTILT2VXXX, банк UAB Stanhope Financial (Vilnius). Компания-плательщик — **ATB**. Заявка в xlsx ссылалась на D-BZT-39 (glue), фактический инвойс — D-BZT-51. | 📄 02.11.2026 16:11 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 87 758,80 EUR.pdf») — ордер на платёж: **87 758,80 EUR**, OUR; beneficiary **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó, HUNGARY), банк **UAB Stanhope Financial** (Vilnius, Lithuania), счёт LT843981120000002353, SWIFT USTILT2VXXX; в сообщении назначение — «invoice No. D-BZT-39 dd 07.10.2026», в приложенном PDF — PRO FORMA INVOICE **D-BZT-51** от 02.11.2026 (customer ATB Service GmbH), бенефициар SYMOCO PAYMENTS LTD. Компания ATB подтверждена, сумма и цвет строки без изменений. | ✔️ 02.11.2026 (📨 Константин Просто Группа, «Как в заявке этой», файл «87 758.80 EUR (02.11.2026) (1).xlsx») — сверено с заявкой: сумма **87 758,80 EUR**, валюта EUR, бенефициар **BZT Master Cargo Kft** (HUNGARY, 1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó), банк **UAB Stanhope Financial** (UPES G. 23, Vilnius, LT-08128, Lithuania), IBAN **LT843981120000002353**, SWIFT **USTILT2VXXX**, назначение «Payment for glue to invoice No. D-BZT-39 dd 07.10.2026» — как в заявке. Реквизиты строки соответствуют заявке; PDF D-BZT-51 — справочно. | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (3).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → BZT Master Cargo Kft (UAB Stanhope Financial, SWIFT USTILT2VXXX, LT843981120000002353) по инвойсу D-BZT-39 dd 07.10.2026: проводка 03.11.2026 — 87 758,80 EUR (End-to-End CCB.100.UE.POS81028714). Зелёнка. | Себестоимость 98 852,75 = приход двумя платежами 85 887,00 + 12 965,75 (влад. 10.11.2026) | Себестоимость восстановлена 10.11.2026 — приходная формула 1,005+100 в costFormula НЕ пишетсяприход двумя платежами 03.11.2026: 85 887,00 (txid 64038cb6…) + 12 965,75 (txid bf5a31e8…) = 98 852,75 USDT",
     "calc": null,
     "rowId": "kon-000080",
     "companySource": {
@@ -58,8 +58,8 @@
     "companyVerified": false,
     "costSource": "operator",
     "costSourceRef": {
-      "ref": "telegram -1003734813084 #60010, 02.11.2026",
-      "date": "2026-11-02"
+      "ref": "восстановление себестоимости (Scream 10.11.2026: себестоимость не перезаписывать приходной формулой)",
+      "date": "2026-11-10"
     }
   },
   {
@@ -172,7 +172,7 @@
     "company": "ATB",
     "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "(33 180,00 × 1,0025 + 80) × 1,12594 = 37 542,16 USDT (себестоимость)",
+    "costFormula": "(33 180,00 × 1,0025 + 80) × 1,12594 = 37 542,16 USDT",
     "extra": "📄 03.11.2026 (📨 Константин Просто Группа, файл «Proforma_229_2026_LLC_Nova.pdf») — INVOICE FP RO/0229/2026 от 12.10.2026: Bista Standard Sp. z o.o. (ul. Smoleńska 29, 85-871 Bydgoszcz, Poland; NIP 5542559901) -> LLC Nova (42 Lenin Avenue, Vladimir, Russia); filter cigarette tubes T&T 1000 economy, 1680 master case; 33 180,00 EUR; ANNEX 36 к Supply Contract #34 от 27.11.2024; Erste Bank Polska S.A., SWIFT WBKPPLPP, счёт PL 19 1090 2590 0000 0001 4307 6304",
     "rubles_received": null,
     "statementRef": null,
@@ -180,8 +180,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 37609.25,
-    "sent_usdt": 37609.25,
-    "notes": " | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 37609.25 USDT; батч 132 343,25 | Курс изменился 04.11.2026: 1,12448 -> 1,12594; доплата 49 USDT на TVJmqcyGz1e7BPqGHmgwYZYWB4vyL6LQZB",
+    "sent_usdt": 37542.16,
+    "notes": " | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 37609.25 USDT; батч 132 343,25 | Курс изменился 04.11.2026: 1,12448 -> 1,12594; доплата 49 USDT на TVJmqcyGz1e7BPqGHmgwYZYWB4vyL6LQZB | Расчёт владельца 10.11.2026 (чат): приход USDT по строкам ATB | Себестоимость восстановлена 10.11.2026 — приходная формула 1,005+100 в costFormula НЕ пишется",
     "calc": null,
     "rowId": "kon-000084",
     "companySource": {
@@ -191,7 +191,12 @@
       "messageId": "17004"
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "восстановление себестоимости (Scream 10.11.2026: себестоимость не перезаписывать приходной формулой)",
+      "date": "2026-11-10"
+    }
   },
   {
     "row": 7,
@@ -201,7 +206,7 @@
     "company": "ATB",
     "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "(19 981,25 × 1,0025 + 80) × 1,12448 = 22615 USDT (себестоимость)",
+    "costFormula": "(19 981,25 × 1,0025 + 80) × 1,12448 = 22 615 USDT",
     "extra": "📄 03.11.2026 (📨 Константин Просто Группа, файл «signal-2026-10-29-124523.pdf») — AUCTION 5 INVOICE №39917 от 18.10.2026 (Мюнхен): Münzgalerie München MGM Handelsgesellschaft mbH & Co. Joker KG (Stiglmaierplatz 2, 80333 Munich; VAT DE130006976) — 6 лотов, hammer 17 375,00 EUR + Aufgeld 15% 2 606,25 EUR = 19 981,25 EUR; самовывоз (shipping 0), оплата банковским переводом Stadtsparkasse München; инвойс-адрес David Berezin (Jerusalem), доставка Diana Starodubceva (Dubai, JVC)",
     "rubles_received": null,
     "statementRef": null,
@@ -209,8 +214,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 22693.31,
-    "sent_usdt": 22693.31,
-    "notes": "📄 04.11.2026 Ордера и Расчеты «Payment from ATB» — ордер: beneficiary Münzgalerie München MGM Handelsgesellschaft mbH & Co. Joker KG; Stiglmaierplatz 2 80333 München; Stadtsparkasse München; SWIFT SSKMDEMMXXX; DE47701500000909113490; OUR. Payment details INVOICE Auction 5 - Invoice 39917. | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 22693.31 USDT; батч 132 343,25",
+    "sent_usdt": 22615,
+    "notes": "📄 04.11.2026 Ордера и Расчеты «Payment from ATB» — ордер: beneficiary Münzgalerie München MGM Handelsgesellschaft mbH & Co. Joker KG; Stiglmaierplatz 2 80333 München; Stadtsparkasse München; SWIFT SSKMDEMMXXX; DE47701500000909113490; OUR. Payment details INVOICE Auction 5 - Invoice 39917. | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 22693.31 USDT; батч 132 343,25 | Расчёт владельца 10.11.2026 (чат): приход USDT по строкам ATB | Себестоимость восстановлена 10.11.2026 — приходная формула 1,005+100 в costFormula НЕ пишется",
     "calc": null,
     "rowId": "kon-000085",
     "companySource": {
@@ -220,7 +225,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "восстановление себестоимости (Scream 10.11.2026: себестоимость не перезаписывать приходной формулой)",
+      "date": "2026-11-10"
+    }
   },
   {
     "row": 8,
@@ -230,7 +240,7 @@
     "company": "ATB",
     "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "(34 172,80 × 1,0025 + 80) × 1,12448 = 38613 USDT (себестоимость)",
+    "costFormula": "(34 172,80 × 1,0025 + 80) × 1,12448 = 38 613 USDT",
     "extra": "📄 03.11.2026 (📨 Константин Просто Группа, файл «34_172,8_EUR.xlsx») — платёжные реквизиты: получатель Fritz Rudolf Künker GmbH & Co. KG, банк Sparkasse Osnabrück, SWIFT NOLADE22XXX, счёт DE50 2655 0105 0000 2473 20; сумма 34 172,80 EUR. Инвойс/аукционный счёт не приложен",
     "rubles_received": null,
     "statementRef": null,
@@ -238,8 +248,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 38731.21,
-    "sent_usdt": 38731.21,
-    "notes": "📄 04.11.2026 Ордера и Расчеты «Payment from ATB» — ордер: beneficiary Fritz Rudolf Künker GmbH & Co. KG; Sparkasse Osnabrück; SWIFT NOLADE22XXX; DE50 2655 0105 0000 2473 20; OUR. Payment details Invoice R282695 / Kundennummer 907600. Приложен счёт аукциона 39917 от 18.10.2026 (Auction 5; 6 лотов; hammer 17 375 EUR + Aufgeld 15%) | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 38731.21 USDT; батч 132 343,25",
+    "sent_usdt": 38613,
+    "notes": "📄 04.11.2026 Ордера и Расчеты «Payment from ATB» — ордер: beneficiary Fritz Rudolf Künker GmbH & Co. KG; Sparkasse Osnabrück; SWIFT NOLADE22XXX; DE50 2655 0105 0000 2473 20; OUR. Payment details Invoice R282695 / Kundennummer 907600. Приложен счёт аукциона 39917 от 18.10.2026 (Auction 5; 6 лотов; hammer 17 375 EUR + Aufgeld 15%) | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 38731.21 USDT; батч 132 343,25 | Расчёт владельца 10.11.2026 (чат): приход USDT по строкам ATB | Себестоимость восстановлена 10.11.2026 — приходная формула 1,005+100 в costFormula НЕ пишется",
     "calc": null,
     "rowId": "kon-000086",
     "companySource": {
@@ -249,7 +259,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "восстановление себестоимости (Scream 10.11.2026: себестоимость не перезаписывать приходной формулой)",
+      "date": "2026-11-10"
+    }
   },
   {
     "row": 9,
@@ -259,16 +274,16 @@
     "company": "ATB",
     "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "(29 375,25 × 1,0025 + 80) × 1,12448 = 33204 USDT (себестоимость)",
+    "costFormula": "(29 375,25 × 1,0025 + 80) × 1,12448 = 33 204 USDT",
     "extra": "📄 03.11.2026 (📨 Константин Просто Группа, файлы «29_375,25_EUR_2.xlsx» + «signal-2026-10-29-124720.pdf») — Fatura Proforma №A/04804 от 24.09.2026 (Numisma, Португалия; клиент David Berezin, Raq. 4884): 6 лотов золотых монет, продажная 25 000,00 EUR + комиссия 17,5% 4 375,00 EUR = 29 375,00 EUR; в проформе итог с IVA 23% (1 006,25) = 30 381,25 EUR. Реквизиты: BANCO COMERCIAL PORTUGUES, SWIFT BCOMPTPL, счёт PT50 0033 0000 0001 0968 038 40; к оплате указано 29 375,25 EUR",
     "rubles_received": null,
     "statementRef": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": 33309.49,
-    "notes": "📄 04.11.2026 Ордера и Расчеты «Payment from ATB» — ордер: beneficiary Numisma - Sociedade de Artigos Numismaticos SA; BANCO COMERCIAL PORTUGUES; SWIFT BCOMPTPL; PT50 0033 0000 0001 0968 038 40; OUR. Payment details INVOICE L149 R4884 / Fatura A/04804. | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 33309.49 USDT; батч 132 343,25 |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (6).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → Numisma - Sociedade de Artigos Numismáticos SA (Banco Comercial Português, SWIFT BCOMPTPL, PT50003300000001096803840) по инвойсу L149 R4884 / Fatura A/04804: проводка 04.11.2026 — 29 375,25 EUR (End-to-End CCB.746.UE.POS70897234). Зелёнка.",
+    "received_usdt": 33309.49,
+    "sent_usdt": 33204,
+    "notes": "📄 04.11.2026 Ордера и Расчеты «Payment from ATB» — ордер: beneficiary Numisma - Sociedade de Artigos Numismaticos SA; BANCO COMERCIAL PORTUGUES; SWIFT BCOMPTPL; PT50 0033 0000 0001 0968 038 40; OUR. Payment details INVOICE L149 R4884 / Fatura A/04804. | Расчёт владельца 04.11.2026 (батч ATB; итого 131 925 USDT) | Сумма под заявку по указанию Scream 04.11.2026 (не себестоимость); батч 132 343,25 USDT | К оплате по заявке 04.11.2026: (сумма × 1,005 + 100) × 1,12448 = 33309.49 USDT; батч 132 343,25 |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (6).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → Numisma - Sociedade de Artigos Numismáticos SA (Banco Comercial Português, SWIFT BCOMPTPL, PT50003300000001096803840) по инвойсу L149 R4884 / Fatura A/04804: проводка 04.11.2026 — 29 375,25 EUR (End-to-End CCB.746.UE.POS70897234). Зелёнка. | Расчёт владельца 10.11.2026 (чат): приход USDT по строкам ATB | Себестоимость восстановлена 10.11.2026 — приходная формула 1,005+100 в costFormula НЕ пишетсяприход 33 309,49 USDT (влад. 10.11.2026)",
     "calc": null,
     "rowId": "kon-000087",
     "companySource": {
@@ -278,7 +293,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "восстановление себестоимости (Scream 10.11.2026: себестоимость не перезаписывать приходной формулой)",
+      "date": "2026-11-10"
+    }
   },
   {
     "row": 10,
@@ -295,9 +315,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": 200000,
+    "received_usdt": 304198.28,
     "sent_usdt": 303530,
-    "notes": "| К оплате по заявке: (268 906;40 × 1;005) × 1;12561 — сумма клиента; НЕ себестоимость (себестоимость 303 530 USDT). Приходы 04.11.2026 на Рабочий 6 — оба в леджере: txid 20a8ef95… и 42498e5e… | 🛡️ 04.11.2026: движение OUT 303530 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:38).",
+    "notes": "| К оплате по заявке: (268 906;40 × 1;005) × 1;12561 — сумма клиента; НЕ себестоимость (себестоимость 303 530 USDT). Приходы 04.11.2026 на Рабочий 6 — оба в леджере: txid 20a8ef95… и 42498e5e… | 🛡️ 04.11.2026: движение OUT 303530 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:38). | Приход 04.11.2026 двумя платежами: 200 000,00 (txid 20a8ef95…) + 104 198,28 (txid 42498e5e…, скрин H F) = 304 198,28 USDT | Себестоимость восстановлена 10.11.2026 — приходная формула 1,005+100 в costFormula НЕ пишетсяприход двумя платежами 04.11.2026: 200 000,00 (txid 20a8ef95…) + 104 198,28 (txid 42498e5e…) = 304 198,28 USDT",
     "calc": null,
     "rowId": "kon-000089",
     "companySource": {
@@ -307,7 +327,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "восстановление себестоимости (Scream 10.11.2026: себестоимость не перезаписывать приходной формулой)",
+      "date": "2026-11-10"
+    }
   },
   {
     "row": 11,
