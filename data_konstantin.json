@@ -736,7 +736,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 10.11.2026 (📨 Константин Просто Группа, файлы «Babyliss_220_150_00_EUR_7030217900_7030180456.xlsx», «PI 7030180456.pdf», «Access Type for Print Parameter and Proposal.pdf») — заявка на платёж 220 150,00 EUR: бенефициар BABYLISS SARL (18-20 quai du Point du Jour, 92100 Boulogne-Billancourt, Франция), банк J.P. Morgan SE — Amsterdam Branch (WTC Tower B, Strawinskylaan 1135, 1077 XX Amsterdam), SWIFT CHASNL2X, IBAN NL77CHAS0626002453. Назначение: Payment for order confirmation 7030217900 dd 02.11.2026 and proforma invoice 7030180456 dd 06.11.2026, payer N 235723 (FINEST LTD, Кабул). HS 8516310000, 8516320000, 8510200000. Основание: PI 7030180456 от 06.11.2026 (Babyliss International FZE, Standard Chartered Dubai, SCBLAEADXXX) — фены/стайлеры, FCA Poland, TT с 2% скидкой при немедленной оплате; второй документ — предложение на 5 листах по заказу от 02.11.2026 (RESA FINEST NOV). Сумма заявки 220 150,00 EUR.",
     "calc": null,
     "sumSource": {
       "source": "order",
