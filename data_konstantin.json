@@ -593,9 +593,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 125687.5,
     "sent_usdt": 125504,
-    "notes": "📄 10.11.2026 (📨 Константин Просто Группа; файлы «INV_2026_03195_EN.pdf» и «125 000.00 USD (10.11.2026).xlsx») — TAX INVOICE INV/2026/03195 от 29.09.2026 (Karam Al Arab General Trading LLC, Шарджа, ОАЭ; VAT 104695189100003) → Q8 Group Limited (Room A22 10/F, No.52 Hung To Road, Kwun Tong, HK): Assorted Perfumes 4 800 шт × 26.041666 = 125 000.00 USD, 100% advance, HS 3303.00; оплата по Tax Invoice INV/2026/03195. Банк: National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C, Umm Hurair Branch, Dubai; SWIFT NRAKAEAK; IBAN AE94 0400 0000 3337 3687 0002 (счёт 0333736870002); получатель KARAM AL ARAB GEN. TR. LLC |  | 📄 10.11.2026 (📨 USD; ORDER по INV/2026/03195) — ORDER: плательщик Q8 GROUP LIMITED; получатель KARAM AL ARAB GEN. TR. LLC (Warehouse #5, Industrial Area 11, Sharjah, UAE); National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C, Umm Hurair Branch, Dubai; SWIFT NRAKAEAK; IBAN AE94 0400 0000 3337 3687 0002; PAYMENT FOR INVOICE INV/2026/03195; 125 000.00 USD; HS 3303.00; Assorted Perfumes 4 800 pcs × 26.041666; 100% advance payment | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61706): (125 000 + 65) / 0,9965 = 125 504 USDT",
+    "notes": "📄 10.11.2026 (📨 Константин Просто Группа; файлы «INV_2026_03195_EN.pdf» и «125 000.00 USD (10.11.2026).xlsx») — TAX INVOICE INV/2026/03195 от 29.09.2026 (Karam Al Arab General Trading LLC, Шарджа, ОАЭ; VAT 104695189100003) → Q8 Group Limited (Room A22 10/F, No.52 Hung To Road, Kwun Tong, HK): Assorted Perfumes 4 800 шт × 26.041666 = 125 000.00 USD, 100% advance, HS 3303.00; оплата по Tax Invoice INV/2026/03195. Банк: National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C, Umm Hurair Branch, Dubai; SWIFT NRAKAEAK; IBAN AE94 0400 0000 3337 3687 0002 (счёт 0333736870002); получатель KARAM AL ARAB GEN. TR. LLC |  | 📄 10.11.2026 (📨 USD; ORDER по INV/2026/03195) — ORDER: плательщик Q8 GROUP LIMITED; получатель KARAM AL ARAB GEN. TR. LLC (Warehouse #5, Industrial Area 11, Sharjah, UAE); National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C, Umm Hurair Branch, Dubai; SWIFT NRAKAEAK; IBAN AE94 0400 0000 3337 3687 0002; PAYMENT FOR INVOICE INV/2026/03195; 125 000.00 USD; HS 3303.00; Assorted Perfumes 4 800 pcs × 26.041666; 100% advance payment | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61706): (125 000 + 65) / 0,9965 = 125 504 USDT | 🛡️ 10.11.2026: движение IN 125687.5 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:18).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -700,7 +700,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 10.11.2026 (📨 Константин Просто Группа, файлы «WZK_SPRZET_AND_PASZE_LTD_ATB_Service_Limited_Invoice_4621649.pdf» и «46216,49 EUR (10.11.2026).xlsx») — заявка на платёж 46 216,49 EUR: бенефициар WZK SPRZET & PASZE LTD (Office 330, Regico Offices, The Old Bank, 153 The Parade High Street, Watford, UK, WD17 1NA; Tax Nr. 14734 24323), банк Banking Circle S.A. (Denmark, Copenhagen, Lautrupsgade 13-15, 2100), IBAN DK8489000020645759, SWIFT SXPYDKKK. Основание: Proforma-Invoice 28102026-01 от 28.10.2026 (WZK → ATB Service GmbH, HRB 287502 B, Nonnendammallee 22, 13599 Berlin): датчики SATEL — AQUA Ring 50 × 18,00 = 900,00; MPD-300 50 × 21,36 = 1 068,00; SLIM-DUAL 29 × 28,00 = 812,00; ACCO-NT2 140 × 310,00 = 43 400,00; обработка заказа 36,49; ИТОГО 46 216,49 EUR (Tax 0,00) — сходится с заявкой.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
