@@ -652,8 +652,8 @@
     "date": "2026-11-10",
     "sum": 215371.2,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "ATB",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -673,6 +673,14 @@
       "date": null,
       "messageId": "input-Melitta_215_371_20_EUR_3975793---cdc29247-14dd-469f-9628-077ae0f033c6.xlsx"
     },
-    "rowId": "kon-000103"
+    "rowId": "kon-000103",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "proforma 3975793 dd 09.11.2026",
+      "file": "Melitta_215_371_20_EUR_3975793.xlsx"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
