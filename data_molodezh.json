@@ -836,5 +836,41 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 28,
+    "date": "2026-11-11",
+    "sum": 34475,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "INVOICE SZHSE26100113A HESION (HK) GLOBALLOGISTICS 34475 USD",
+      "file": "PO_34475_USD_HESION_HK_GLOBALLOGISTICS_LIMITED.docx",
+      "date": "2026-11-11",
+      "messageId": null
+    },
+    "rowId": "mol-000247",
+    "companySource": {
+      "source": "order",
+      "date": "2026-11-11",
+      "ref": "PO 34475 USD HESION (HK) GLOBALLOGISTICS LIMITED.docx",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
