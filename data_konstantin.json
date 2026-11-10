@@ -682,5 +682,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 21,
+    "date": "2026-11-10",
+    "sum": 46216.49,
+    "currency": "EUR",
+    "company": "ATB Service GmbH",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "WZK 28102026-01 (датчики SATEL)",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Proforma-Invoice 28102026-01 от 28.10.2026",
+      "file": "WZK_SPRZET_AND_PASZE_LTD_ATB_Service_Limited_Invoice_4621649.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000104",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Proforma-Invoice 28102026-01 dd 28.10.2026",
+      "file": "WZK_SPRZET_AND_PASZE_LTD_ATB_Service_Limited_Invoice_4621649.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
