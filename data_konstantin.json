@@ -631,7 +631,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 10.11.2026 (📨 Константин Просто Группа; файлы «7894553399.pdf» + «SEB_UAE_294 750,00 EUR_7894553399.xlsx») — PROFORMA INVOICE 7894553399 от 30.09.2026 (GROUPE SEB EXPORT SAS; условия GSE) — TEFAL-OIL LESS FRYER: Order CN ADDITIONAL MAY 04.03.2026 (Easy Fry Infrared 7L EY8328E0) 1 875 PCE × 136.40 = 255 750.00; Order OLF ORDER JUNE CN 30.04.2026 (EY245GE0) 47 PCE × 74.80 = 3 515.60; Order OLF ORDER AUGUST CN 30.04.2026 (EY8218F0 80 PCE × 85.80 = 6 864.00; EY245GE0 540 PCE × 74.80 = 40 392.00); ИТОГО по проформе 1 007 781.36 EUR (брутто 62 132.894 кг / нетто 43 980.330 кг / 522.262 м3; CN China). Заявка на оплату: 294 750.00 EUR (частичная оплата) — Payment for proforma invoice 7894553399 dd 30.09.2026; получатель GROUPE SEB EXPORT MIDDLE EAST (Dubai, UAE); HSBC Bank Middle East Limited (HSBC Tower, Downtown Dubai); SWIFT BBMEAEADXXX; счёт AE690200000026580852101. Компания-плательщик не указана",
     "calc": null,
     "sumSource": {
       "source": "order",
