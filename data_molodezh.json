@@ -684,5 +684,33 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 23,
+    "date": "2026-11-10",
+    "sum": 9580,
+    "currency": "USD",
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": "input-rpp_677---ffbdbbbc-3179-4219-8ca5-adfc64582c2f.pdf",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: input-rpp_677---ffbdbbbc-3179-4219-8ca5-adfc64582c2f.pdf",
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "ПП №677 от 10.11.2026, курс 84,9793",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000239"
   }
 ]
