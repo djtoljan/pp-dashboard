@@ -648,5 +648,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 22,
+    "date": "2026-11-10",
+    "sum": 4901.55,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Бестакватикс (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "11/11/2026 + S11/11/2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000237"
   }
 ]
