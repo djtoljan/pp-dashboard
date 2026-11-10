@@ -764,5 +764,41 @@
     "calc": null,
     "sumSource": null,
     "rowId": "mol-000241"
+  },
+  {
+    "row": 26,
+    "date": "2026-11-10",
+    "sum": 5311,
+    "currency": "USD",
+    "company": "BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": "PO 5311 USD, заявка t13575",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "PO 5311 USD от 10.11.2026",
+      "file": "PO_5311_USD_BEIJING_YATAI_HUAHENG_TECHNOLOGY_CO._LTD_1---47fe8997-dd5d-4d9b-8549-966fa2f62ce3.docx",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000242",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "PO 5311 USD (BEIJING YATAI HUAHENG)",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
