@@ -742,5 +742,27 @@
     "calc": null,
     "sumSource": null,
     "rowId": "mol-000240"
+  },
+  {
+    "row": 25,
+    "date": "2026-11-10",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": "Заявка 3 от 10.11.2026, инвойс VL2026026 от 06.11.2026 (cork), контракт 02/10-24",
+    "rubles_received": "3715825.82 / 59453.21",
+    "statementRef": "Выписка ЭНЕРГОТРАНСБАНК 40807810200000034895, 10.11.2026 (ПП 39/40)",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: Выписка ЭНЕРГОТРАНСБАНК 40807810200000034895, 10.11.2026 (ПП 39/40)",
+    "calc": null,
+    "sumSource": null,
+    "rowId": "mol-000241"
   }
 ]
