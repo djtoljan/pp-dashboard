@@ -4787,7 +4787,7 @@
       "date": "2026-11-06",
       "sum": 40000,
       "currency": "USD",
-      "company": "HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO., LTD",
+      "company": "Q8 GROUP LIMITED",
       "color": "FFFFFFFF",
       "clientName": "ВТС",
       "costFormula": null,
@@ -4799,7 +4799,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 10.11.2026 (📨 ВТС; файл «Hebei Yukuo HBYK-260901 40000 USD Q8.pdf») — ORDER: плательщик Q8 GROUP LIMITED; бенефициар HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO. LTD (Bank of China Shijiazhuang Jichang Road Sub-BR; SWIFT BKCHCNBJ220; счёт 101911882209); PAYMENT FOR INVOICE HBYK-260901; 40 000.00 USD. В company стоял получатель — приведено к плательщику Q8 GROUP LIMITED (основание: ORDER 10.11.2026)",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -4811,8 +4811,8 @@
       "rowId": "main-000459",
       "companySource": {
         "source": "order",
-        "date": null,
-        "ref": "Поручение 66630-2 от 06.11.2026",
+        "date": "10.11.2026",
+        "ref": "input-Hebei_Yukuo_HBYK-260901_40000_USD_Q8---f3e5a6a0-e780-46b7-9647-ea8a4933afe9.pdf",
         "messageId": null
       },
       "companyProvisional": false,
