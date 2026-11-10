@@ -439,7 +439,7 @@
     "sum": 15355,
     "currency": "EUR",
     "company": "ATB",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(15 355 × 1,0025 + 80) × 1,11886 = 17 312,55 USDT",
     "extra": null,
