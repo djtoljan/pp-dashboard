@@ -650,7 +650,7 @@
   {
     "row": 20,
     "date": "2026-11-10",
-    "sum": 23936,
+    "sum": 215371.2,
     "currency": "EUR",
     "company": null,
     "color": "FFFF0000",
@@ -664,14 +664,14 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": " | 📄 10.11.2026 (📨 Константин Просто Группа; файл «Melitta_215_371_20_EUR_3975793.xlsx») — заявка на платёж: 215 371.20 EUR, получатель Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany); Deutsche Bank AG (Minden); SWIFT DEUTDE3B490; счёт DE03490700280291371300; назначение «Payment for proforma invoice 3975793 dd 09.11.2026, customer N 26157». Сумма строки приведена к 215 371.20 EUR по заявке (в PDF проформы текст дал только первый item 23 936.00 — 128 PC × 187.00)",
     "calc": null,
     "sumSource": {
-      "source": "invoice",
-      "ref": "3975793",
+      "source": "order",
+      "ref": "proforma 3975793 dd 09.11.2026 / заявка 215 371.20 EUR",
       "file": null,
       "date": null,
-      "messageId": null
+      "messageId": "input-Melitta_215_371_20_EUR_3975793---cdc29247-14dd-469f-9628-077ae0f033c6.xlsx"
     },
     "rowId": "kon-000103"
   }
