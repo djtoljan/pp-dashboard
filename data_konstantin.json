@@ -718,5 +718,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 22,
+    "date": "2026-11-10",
+    "sum": 220150,
+    "currency": "EUR",
+    "company": "FINEST LTD",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": "Babyliss: order 7030217900 + PI 7030180456",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Заявка 220 150,00 EUR от 10.11.2026 (order confirmation 7030217900)",
+      "file": "PI_7030180456---8f72582b-04e6-46f5-a264-8b916f9aa8b5.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000105",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "PI 7030180456 dd 06.11.2026",
+      "file": "PI_7030180456---8f72582b-04e6-46f5-a264-8b916f9aa8b5.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
