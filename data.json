@@ -5315,6 +5315,42 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000477"
+    },
+    {
+      "row": 182,
+      "date": "2026-11-10",
+      "sum": 157946.5,
+      "currency": "EUR",
+      "company": "TRIUMPH INTERTRADE AG",
+      "color": "FF4FC3F7",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": "Пакет 10.11.2026: тело 14 888 048,40 ₽ + комиссия 297 760,74 ₽ (инвойс 78454, 3 158,93 EUR), курс 94,26",
+      "rubles_received": "14888048.40 / 297760.74",
+      "statementRef": "payment_order_4186_10.11.2026.pdf, payment_order_4187_10.11.2026.pdf, Поручение Fininvest 78454.pdf, инвойс 78454.pdf",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: payment_order_4186_10.11.2026.pdf, payment_order_4187_10.11.2026.pdf, Поручение Fininvest 78454.pdf, инвойс 78454.pdf",
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Поручение №78454 от 10.11.2026",
+        "file": "Поручение Fininvest 78454.pdf",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000482",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "Поручение №78454 от 10.11.2026",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
