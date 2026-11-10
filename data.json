@@ -5067,8 +5067,8 @@
       "date": "2026-11-09",
       "sum": 46559.39,
       "currency": "USD",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "Q8 GROUP LIMITED",
+      "color": "FFFFFFFF",
       "clientName": "Логолок",
       "costFormula": null,
       "extra": null,
@@ -5088,7 +5088,15 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000470"
+      "rowId": "main-000470",
+      "companySource": {
+        "source": "order",
+        "date": "10.11.2026",
+        "ref": "input-Yueqing_PI_0082KATE26100-2698_originals_46559.39_USD_2---384748f7-b9ec-4fe7-b111-660341258861.pdf",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     },
     {
       "row": 175,
