@@ -515,7 +515,7 @@
     "sum": 4225.47,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "ИП Крылов",
     "costFormula": "(4 225,47 + 65) / 0,9965 = 4 306 USDT (Q8 baxs)",
     "extra": null,
