@@ -845,7 +845,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Вилог",
-    "costFormula": null,
+    "costFormula": "предварительно, ждём формулу Scream: 34 475 + 0,3% + 30 = 34 608.43 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -853,8 +853,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
+    "sent_usdt": 34608.43,
+    "notes": "📄 11.11.2026 (📨 Молодежь · t13591; файлы «PO 34475 USD HESION (HK) GLOBALLOGISTICS LIMITED.docx» и «34475 USD INVOICE HESION (HK) GLOBALLOGISTICS CO. LTD.pdf») — INVOICE SZHSE26100113A от 03.11.2026: HESION (HK) GLOBALLOGISTICS LIMITED → плательщик Q8 Group Limited; AIR FREIGHT 4×6 795 = 27 180 + OCEAN FREIGHT 3 295 + 4 000; итого 34 475.00 USD; China CITIC Bank International SWIFT KWHKHKHH счёт 746207349801",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -871,6 +871,11 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "formula",
+    "costSourceRef": {
+      "ref": "INVOICE SZHSE26100113A HESION 34 475 USD",
+      "date": "2026-11-10"
+    }
   }
 ]
