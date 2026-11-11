@@ -883,5 +883,33 @@
       "ref": "telegram:-1003734813084#61970; 2026-11-11",
       "date": "2026-11-11"
     }
+  },
+  {
+    "row": 29,
+    "date": "2026-11-10",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Смарт-Агент",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "t13601",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000248"
   }
 ]
