@@ -2398,8 +2398,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": "",
-    "notes": "📄 11.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB‼», файл «INV 71 965,72 EUR.pdf») — ордер на платёж: Beneficiary Atlantic Avrora EOOD (Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Reg. Nr. 208330386, VAT BG208330386), банк Bank Stanhope Financial UAB, SWIFT USTILT2VXXX, счёт LT323981120000005326; payment details «inv AA-Q8-2026-1110 dd 10.11.26»; Amount 71 965,72 EUR; OUR. Вложенный COMMERCIAL INVOICE № AA-Q8-2026-1110 от 10.11.2026 (Seller Atlantic Avrora EOOD, fresh cut flowers, 1 lot, EUR 71 965,72) — сумма ордера равна итогу инвойса, оплата полная. Компания-плательщик = ATB (из ордера).",
+    "sent_usdt": 80469.47,
+    "notes": "📄 11.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB‼», файл «INV 71 965,72 EUR.pdf») — ордер на платёж: Beneficiary Atlantic Avrora EOOD (Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Reg. Nr. 208330386, VAT BG208330386), банк Bank Stanhope Financial UAB, SWIFT USTILT2VXXX, счёт LT323981120000005326; payment details «inv AA-Q8-2026-1110 dd 10.11.26»; Amount 71 965,72 EUR; OUR. Вложенный COMMERCIAL INVOICE № AA-Q8-2026-1110 от 10.11.2026 (Seller Atlantic Avrora EOOD, fresh cut flowers, 1 lot, EUR 71 965,72) — сумма ордера равна итогу инвойса, оплата полная. Компания-плательщик = ATB (из ордера). | 🛡️ 11.11.2026: движение OUT 80469.47 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:85).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
