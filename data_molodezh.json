@@ -887,8 +887,8 @@
   {
     "row": 29,
     "date": "2026-11-10",
-    "sum": null,
-    "currency": null,
+    "sum": 7614.4,
+    "currency": "USD",
     "company": null,
     "color": "FF4FC3F7",
     "clientName": "Смарт-Агент",
@@ -896,19 +896,19 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": 668168.93,
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "ПП на VDX №282 от 10.11.2026 (668 168,93 ₽ — номер из документа ПП) | 📄 11.11.2026 (📨 Молодежь · t13601) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №282 от 10.11.2026 (электронно, проведено 10.11.2026): ООО «Смарт-Агент» (ИНН 5074093111, КПП 507401001, счёт 40702810320010015552, АО ЮНИКРЕДИТ БАНК, БИК 044525545) → VDXSERVICES-FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555) — 668 168,93 ₽ {VO11100} оплата по контракту «ATL/SA/ATM-USD» от 18.07.2025 по PROF.INV. № АА-002-160861 dd 09.11.26 по аг.дог. №09-02-5/26 от 09.02.26, без НДС. Сумма строки в USD — из сообщения владельца (t13601); заявка/ордер по сделке ещё не приходили. sent_rubles_vdx = 668168.93, маршрут VDX. Цвет 🔵 — рубли статус не двигают.",
     "calc": null,
     "sumSource": {
       "source": "scream",
       "ref": "t13601",
       "file": null,
       "date": null,
-      "messageId": null
+      "messageId": "160861.pdf"
     },
     "rowId": "mol-000248"
   }
