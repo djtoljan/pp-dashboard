@@ -1019,5 +1019,33 @@
       "messageId": null
     },
     "rowId": "mol-000251"
+  },
+  {
+    "row": 33,
+    "date": "2026-11-11",
+    "sum": 23087.14,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Кристал Джет",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "t13662",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000252"
   }
 ]
