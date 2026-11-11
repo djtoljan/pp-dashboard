@@ -889,8 +889,8 @@
     "date": "2026-11-10",
     "sum": 7614.4,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "MARPOL PARLATICI SAN. TIC. A.S.",
+    "color": "FFFFFFFF",
     "clientName": "Смарт-Агент",
     "costFormula": null,
     "extra": null,
@@ -901,15 +901,23 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "ПП на VDX №282 от 10.11.2026 (668 168,93 ₽ — номер из документа ПП) | 📄 11.11.2026 (📨 Молодежь · t13601) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №282 от 10.11.2026 (электронно, проведено 10.11.2026): ООО «Смарт-Агент» (ИНН 5074093111, КПП 507401001, счёт 40702810320010015552, АО ЮНИКРЕДИТ БАНК, БИК 044525545) → VDXSERVICES-FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555) — 668 168,93 ₽ {VO11100} оплата по контракту «ATL/SA/ATM-USD» от 18.07.2025 по PROF.INV. № АА-002-160861 dd 09.11.26 по аг.дог. №09-02-5/26 от 09.02.26, без НДС. Сумма строки в USD — из сообщения владельца (t13601); заявка/ордер по сделке ещё не приходили. sent_rubles_vdx = 668168.93, маршрут VDX. Цвет 🔵 — рубли статус не двигают.",
+    "notes": "ПП на VDX №282 от 10.11.2026 (668 168,93 ₽ — номер из документа ПП) | 📄 11.11.2026 (📨 Молодежь · t13601) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №282 от 10.11.2026 (электронно, проведено 10.11.2026): ООО «Смарт-Агент» (ИНН 5074093111, КПП 507401001, счёт 40702810320010015552, АО ЮНИКРЕДИТ БАНК, БИК 044525545) → VDXSERVICES-FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555) — 668 168,93 ₽ {VO11100} оплата по контракту «ATL/SA/ATM-USD» от 18.07.2025 по PROF.INV. № АА-002-160861 dd 09.11.26 по аг.дог. №09-02-5/26 от 09.02.26, без НДС. Сумма строки в USD — из сообщения владельца (t13601); заявка/ордер по сделке ещё не приходили. sent_rubles_vdx = 668168.93, маршрут VDX. Цвет 🔵 — рубли статус не двигают. | 📄 11.11.2026 (📨 Молодежь · t13601, файл «Платежное поручение 160861.docx») — ПОРУЧЕНИЕ по инвойсу 160861: AMOUNT 7 614,40 USD; BENEFICIARY MARPOL PARLATICI SAN. TIC. A.S. (GEPOSB IÇI ATATÜRK BULV. NO:37, GEBZE - KOCAELI / TURKEY); ACCOUNT 675638415004; BENEF.BANK ZIRAAT BANKASI (GEBZE OSB 2 1600. SOKAK NO:1601/15 PK 41430 ÇAYIROVA / KOCAELİ); SWIFT TCZBTR2A; PAYMENT DETAILS: PAYMENT BY PROFORMA INVOICE NO. 2026310 DD 30.10.2026 FOR POLISHING CHEMISTRY. Сумма строки = сумма поручения, компания = MARPOL (order). | 📄 11.11.2026 (📨 Молодежь · t13601, файл «30.10.2026 PI - Uvelin-rev.pdf») — PROFORMA INVOICE №2026310 от 30.10.2026 (rev): shipper MARPOL PARLATICI SAN. TİC. A.Ş. (Geposb içi Atatürk Bulv. No:37, Gebze-Kocaeli, Turkey), receiver PQ18 Limited (18/F, The Center, 99 Queens Road Central, Hong Kong); Port of loading Istanbul, origin Turkey, EXW; TOTAL EXW AMOUNT 7 614,40 USD — совпадает с суммой строки; позиции: полировальные пасты Marpol (DIALUX, EUROLUX, DIAMOND, Tube Cream), 28 позиций; оплата 100% предоплата на ZIRAAT BANKASI, IBAN TR60 0001 0026 2567 5638 4150 04, счёт 675638415004, SWIFT TCZBTR2A; отгрузка 1–2 недели после оплаты; таможенный код 34.05.90.10.00.00.",
     "calc": null,
     "sumSource": {
-      "source": "scream",
-      "ref": "t13601",
+      "source": "order",
+      "ref": "Платежное поручение 160861.docx",
       "file": null,
       "date": null,
-      "messageId": "160861.pdf"
+      "messageId": "Платежное поручение 160861.docx"
     },
-    "rowId": "mol-000248"
+    "rowId": "mol-000248",
+    "companySource": {
+      "source": "order",
+      "date": "11.11.2026",
+      "ref": "Платежное поручение 160861.docx",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
