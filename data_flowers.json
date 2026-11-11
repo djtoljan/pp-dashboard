@@ -2390,7 +2390,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Atlantic Avrora (Цветы)",
-    "costFormula": "71 965,72 / 0,892848144515 (FX Q8 11.11.2026: 1 USD = 0,892848144515 EUR) + 0,3% + 30 = 80 874,23 USDT",
+    "costFormula": "",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2398,7 +2398,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 80874.23,
+    "sent_usdt": "",
     "notes": null,
     "calc": null,
     "sumSource": {
