@@ -5524,34 +5524,6 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000488"
-    },
-    {
-      "row": 189,
-      "date": "2026-11-10",
-      "sum": 1500023.08,
-      "currency": "RUB",
-      "company": null,
-      "color": "FFFFFFFF",
-      "clientName": "ООО «ВТС»",
-      "costFormula": null,
-      "extra": "заявка 61",
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "ПП 479 от 10.11.2026 (выписка ПСБ): плательщик ООО МОЛО РУС ИНН 7703603848; получатель ООО МП-МЕДИКАЛ ИНН 7707364076; назначение — оплата по контракту 12/22 от 12.06.2022 за детскую одежду по инвойсам 10919986 от 31.08.2026 без НДС; получатель НЕ Альмено; в таблицах сумма не найдена; маркер ПП на Almeno неприменим; строку решить привязать к клиенту по инвойсу или удалить",
-      "calc": null,
-      "sumSource": {
-        "source": "scream",
-        "ref": "ПП на Almeno 10.11.2026",
-        "file": null,
-        "date": null,
-        "messageId": null
-      },
-      "rowId": "main-000489"
     }
   ]
 }
