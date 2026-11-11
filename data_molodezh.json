@@ -849,7 +849,7 @@
     "sum": 34475,
     "currency": "USD",
     "company": "Q8 Group Limited",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Вилог",
     "costFormula": "(34 475 + 65) / 0,9965 = 34 661 USDT",
     "extra": null,
@@ -860,7 +860,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 34661,
-    "notes": "📄 11.11.2026 (📨 Молодежь · t13591; файлы «PO 34475 USD HESION (HK) GLOBALLOGISTICS LIMITED.docx» и «34475 USD INVOICE HESION (HK) GLOBALLOGISTICS CO. LTD.pdf») — INVOICE SZHSE26100113A от 03.11.2026: HESION (HK) GLOBALLOGISTICS LIMITED → плательщик Q8 Group Limited; AIR FREIGHT 4×6 795 = 27 180 + OCEAN FREIGHT 3 295 + 4 000; итого 34 475.00 USD; China CITIC Bank International SWIFT KWHKHKHH счёт 746207349801 | 🛡️ 11.11.2026: движение OUT 34661 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:28).",
+    "notes": "📄 11.11.2026 (📨 Молодежь · t13591; файлы «PO 34475 USD HESION (HK) GLOBALLOGISTICS LIMITED.docx» и «34475 USD INVOICE HESION (HK) GLOBALLOGISTICS CO. LTD.pdf») — INVOICE SZHSE26100113A от 03.11.2026: HESION (HK) GLOBALLOGISTICS LIMITED → плательщик Q8 Group Limited; AIR FREIGHT 4×6 795 = 27 180 + OCEAN FREIGHT 3 295 + 4 000; итого 34 475.00 USD; China CITIC Bank International SWIFT KWHKHKHH счёт 746207349801 | 🛡️ 11.11.2026: движение OUT 34661 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:28). | 📄 11.11.2026 (📨 USD, файл «HESION (HK) GLOBALLOGISTICS LIMITED-34475USD.pdf») — BAXS PAY Proof of Transfer: Payer Q8 GROUP LIMITED → Beneficiary HESION (HK) GLOBALLOGISTICS LIMITED (62-170 Tai Lin Pai Road, Kwai Chung, N.T.); банк CHINA CITIC BANK INTERNATIONAL LIMITED, счёт 746207349801, SWIFT KWHKHKHH; Transaction Amount 34 475,00 USD; Details of Charges OUR; Transaction ID FO2611111024000001; Transaction Status Pending（处理中）; Transaction Date 20261111; Remarks «INVOICE SZHSE26100113A». Сумма совпадает со строкой; статус Pending — не исполнение: строка ⬜→🟡, зелёнку не ставим до Success/Executed.",
     "calc": null,
     "sumSource": {
       "source": "order",
