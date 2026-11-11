@@ -1165,19 +1165,19 @@
     "date": "2026-11-11",
     "sum": 19248,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": 1619599.86,
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "ПП на VDX №678 от 11.11.2026 (1 619 599,86 ₽ — номер из документа ПП) | 📄 11.11.2026 (📨 Молодежь · t13707 · 19 248 USD Вилог, файл «rpp_678.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №678 от 11.11.2026, ИСПОЛНЕНО: ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199, Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411) → VDX SERVICES-FZCO (ИНН 9909710068, ПАО «Банк ПСБ», счёт 40807810000000015414) — {VO11100} «Частичная оплата за товар по инвойсу №PRM-081-20261102 от 02.11.2026». sent_rubles_vdx = 1619599.86, маршрут VDX; курс по сумме сделки 19 248 USD = 84,1438. Компания-плательщик в ПП не названа — строка 🔴. | 📄 11.11.2026 (📨 Молодежь · t13707 · 19 248 USD Вилог, файл «PO 19248 USD BEIYI INFORMATION CO.,LIMITED.docx») — реквизиты платежа: Beneficiary BEIYI INFORMATION CO., LIMITED (RM1002, 10/F, Easey Comm Bldg, Nos. 253-161 Hennessy Rd, Wanchai, HK); банк OCBC Wing Hang in Hong Kong (1/F, 161 Queens Road Central, HK); SWIFT WIHBHKHH; счёт 883674831; Amount 19 248,00 USD. Тот же поставщик и счёт, что в строке 27 (BEIYI, 8 058 USD). Компания-плательщик в PO не названа — строка остаётся 🔴 до инвойса. | 📄 11.11.2026 (📨 Молодежь · t13707 · 19 248 USD Вилог, файл «19248  USD INVOICE BEIYI INFORMATION CO.,LIMITED (1).pdf») — PROFORMA INVOICE № RCF26111003-PM от 10.11.2026 (BEIYI INFORMATION CO., LIMITED): BUYER Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK); позиции — память DDR4-2933 RDIMM (Micron 36ASF4G72PZ-2G9E2, SK Hynix HMA84GR7JJR4NWM), TOTAL PRICE $19 248,00 — совпадает со строкой и PO/ПП №678. Компания Q8 Group Limited — по инвойсу, цвет 🔴→⬜.",
     "calc": null,
     "sumSource": {
       "source": "scream",
@@ -1186,6 +1186,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000256"
+    "rowId": "mol-000256",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "INVOICE RCF26111003-PM",
+      "file": "input-19248_USD_INVOICE_BEIYI_INFORMATION_CO._LIMITED_1---561b591c-ec73-4039-b3c2-69f8f86b2198.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
