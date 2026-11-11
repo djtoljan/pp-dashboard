@@ -733,8 +733,8 @@
     "extra": "Заявка 58: комплекты турбовентиляторов, Блэкшарк → Альмено 18 050 000,00 ₽",
     "rubles_received": null,
     "statementRef": "📨 Отправки рублей ПП. 10.11.2026 (заявка 58; папка БлэкШарк/РК ТРЕЙД/вход 10.11.26)",
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": 18050000,
+    "exchange_to": "Almeno",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
@@ -850,7 +850,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Вилог",
-    "costFormula": "предварительно, ждём формулу Scream: 34 475 + 0,3% + 30 = 34 608.43 USDT",
+    "costFormula": "(34 475 + 65) / 0,9965 = 34 661 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -858,7 +858,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 34608.43,
+    "sent_usdt": 34661,
     "notes": "📄 11.11.2026 (📨 Молодежь · t13591; файлы «PO 34475 USD HESION (HK) GLOBALLOGISTICS LIMITED.docx» и «34475 USD INVOICE HESION (HK) GLOBALLOGISTICS CO. LTD.pdf») — INVOICE SZHSE26100113A от 03.11.2026: HESION (HK) GLOBALLOGISTICS LIMITED → плательщик Q8 Group Limited; AIR FREIGHT 4×6 795 = 27 180 + OCEAN FREIGHT 3 295 + 4 000; итого 34 475.00 USD; China CITIC Bank International SWIFT KWHKHKHH счёт 746207349801",
     "calc": null,
     "sumSource": {
@@ -877,10 +877,10 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "costSource": "formula",
+    "costSource": "owner_instruction",
     "costSourceRef": {
-      "ref": "INVOICE SZHSE26100113A HESION 34 475 USD",
-      "date": "2026-11-10"
+      "ref": "telegram:-1003734813084#61970; 2026-11-11",
+      "date": "2026-11-11"
     }
   }
 ]
