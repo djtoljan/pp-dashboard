@@ -2537,5 +2537,41 @@
     "calc": null,
     "sumSource": null,
     "rowId": "flw-000200"
+  },
+  {
+    "row": 90,
+    "date": "2026-11-11",
+    "sum": 18000,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "GEOFLORA SAS (Цветы)",
+    "costFormula": null,
+    "extra": "📄 11.11.2026 (📨 Цветы, файлы «GEOFLORA_18000_USD_11-11-2026.pdf» + «GEOFLORA SAS 18000.docx») — PROFORMA INVOICE No. 1103 dd 11.11.2026: Cut Flowers 60 000 stems × /bin/zsh,30; invoice to Q8 Group Limited (Hong Kong); получатель GEOFLORA SAS, Km 4 Via Corzo – Bojaca, Colombia; BBVA COLOMBIA, SWIFT GEROCOBB, счёт 00130382000100017184; Wire Transfer.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "PROFORMA INVOICE No. 1103 dd 11.11.2026",
+      "file": "GEOFLORA_18000_USD_11-11-2026.pdf",
+      "date": "2026-11-11",
+      "messageId": null
+    },
+    "rowId": "flw-000201",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-11",
+      "ref": "PROFORMA INVOICE No. 1103",
+      "file": "GEOFLORA_18000_USD_11-11-2026.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
