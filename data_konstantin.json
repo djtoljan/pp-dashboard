@@ -724,7 +724,7 @@
     "date": "2026-11-10",
     "sum": 220150,
     "currency": "EUR",
-    "company": "INTEGRA",
+    "company": "ATB",
     "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(220 150,00 × 1,0025 + 80) × 1,11798 = 246828,04 USDT (XE 10.11.2026: 1 EUR = 1,11798 USD)",
@@ -747,13 +747,14 @@
     },
     "rowId": "kon-000105",
     "companySource": {
-      "source": "order",
-      "date": null,
-      "ref": "Payment from INTEGRA / inv 7030217900 dd 02.11.2026 + proforma 7030180456 dd 06.11.2026",
-      "messageId": null
+      "source": "foreign_pp",
+      "file": null,
+      "txid": null,
+      "ref": "CCB.314.UE.POS00259159 file=file.pdf payerName=ATB Service GmbH",
+      "date": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": true
   },
   {
     "row": 23,
