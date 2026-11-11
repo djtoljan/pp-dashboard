@@ -2573,5 +2573,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 91,
+    "date": "2026-11-11",
+    "sum": 37000,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": null,
+    "extra": "📄 11.11.2026 (📨 Цветы, файл «Dolina_Agro_37000_USD_11-11-2026.pdf») — INVOICE № DA-111126-01 от 11.11.2026: поставщик DOLINA AGRO LTD (Reg. No. 515826436, Caesarea, Israel), BILL TO Q8 Group Limited (Company No. 80242882, Hong Kong); условия CIF Amsterdam; позиции: Aspidistra 70, Ruscus 50, Gypsophila 40, Gypsophila 50, Solidago 40, Statiza 80 — всего 167 коробок / 52 920 единиц; TOTAL USD 37 000,00. Банк: BANK LEUMI LE ISRAEL, IBAN IL750107440000027660042, SWIFT LUMIILITXXX, отделение 744 (Натания). Отдельный инвойс от DA-111126-02 (48 000 EUR, строка 86). Компания Q8 Group Limited — по инвойсу (Step 3, ⬜); расчёт не проставляю — Q8-авто отключено.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "INVOICE DA-111126-01 dd 11.11.2026",
+      "file": "Dolina_Agro_37000_USD_11-11-2026.pdf",
+      "date": "2026-11-11",
+      "messageId": null
+    },
+    "rowId": "flw-000202",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-11",
+      "ref": "INVOICE DA-111126-01",
+      "file": "Dolina_Agro_37000_USD_11-11-2026.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
