@@ -809,7 +809,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Вилог",
-    "costFormula": "предварительно, ждём формулу Scream: 8 058 + 0,3% + 30 = 8 112,17 USDT",
+    "costFormula": "(8 058 + 65) / 0,9965 = 8 152 USDT",
     "extra": "Proforma RCF261103-PM dd 03.11.2026",
     "rubles_received": null,
     "statementRef": null,
@@ -817,7 +817,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": 8112.17,
+    "sent_usdt": 8152,
     "notes": "📄 10.11.2026 (📨 Молодежь · t13579, файл «8058 USD INVOICE BEIYI INFORMATION CO.,LIMITED (1).pdf») — PROFORMA INVOICE №RCF261103-PM от Nov./3rd/2026: продавец BEIYI INFORMATION CO., LIMITED (RM1002, 10/F, Easey Comm Bldg, Nos. 253-161 Hennessy Rd, Wanchai, HK), покупатель Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK); позиции: SK Hynix 1×64GB DDR4-2400 LRDIMM — 20 × 320,00 = 6 400,00; INTEL D3-S4510 1.92TB SATA SSD — 2 × 829,00 = 1 658,00; Subtotal 22 шт, 8 058,00 USD. Реквизиты: OCBC Wing Hang in Hong Kong, счёт 883674831, SWIFT WIHBHKHH (1/F, 161 Queen's Road Central, HK). Клиент Вилог, компания из инвойса. |  | 📄 10.11.2026 (📨 Молодежь · t13579, файл «PO 8058 USD BEIYI INFORMATION CO.,LIMITED.docx») — ордер на платёж 8 058,00 USD: бенефициар BEIYI INFORMATION CO., LIMITED (RM1002, 10/F, Easey Comm Bldg, Nos. 253-161 Hennessy Rd, Wanchai, HK), банк OCBC Wing Hang in Hong Kong (1/F, 161 Queen's Road Central, HK), SWIFT WIHBHKHH, счёт 883674831. Сумма и реквизиты совпадают с проформой RCF261103-PM и строкой. | Scream 10.11.2026: расчёт предварительный, официальную формулу ещё не дал; в леджер не отправлять",
     "calc": null,
     "sumSource": {
@@ -835,7 +835,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "owner_instruction",
+    "costSourceRef": {
+      "ref": "telegram:7206154434#61952; 2026-11-11",
+      "date": "2026-11-11"
+    }
   },
   {
     "row": 28,
