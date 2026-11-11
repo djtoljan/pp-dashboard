@@ -2591,7 +2591,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 11.11.2026 (📨 Цветы · файл «Dolina Agro Ltd 37000.docx») — реквизиты платежа к инвойсу DA-111126-01: вид «Только не из России»; сумма USD 37 000; BENEFICIARY Dolina Agro Ltd (P.O. Box 3103 · 10 Bareker str. · Industrial Park Caesarea · 38900 ISRAEL); ACCOUNT IL750107440000027660042; SWIFT LUMIILITXXX; BANK LEUMI LE ISRAEL · BUSINESS NATHANYA BRANCH 744; коррбанк не указан; назначение пустое. Совпадает с инвойсом и строкой 37 000 USD.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
