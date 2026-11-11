@@ -1206,7 +1206,7 @@
     "clientName": "Медлазцентр (Молодёжь)",
     "costFormula": null,
     "extra": null,
-    "rubles_received": null,
+    "rubles_received": "577545.00 / 37935.00",
     "statementRef": null,
     "sent_rubles_vdx": "577545.00 / 37935.00",
     "exchange_to": "VDX",
