@@ -2387,7 +2387,7 @@
     "date": "2026-11-10",
     "sum": 71965.72,
     "currency": "EUR",
-    "company": "Q8 Group Limited",
+    "company": "ATB",
     "color": "FFFFFFFF",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "",
@@ -2399,7 +2399,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": "",
-    "notes": null,
+    "notes": "📄 11.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB‼», файл «INV 71 965,72 EUR.pdf») — ордер на платёж: Beneficiary Atlantic Avrora EOOD (Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, PK8000; Reg. Nr. 208330386, VAT BG208330386), банк Bank Stanhope Financial UAB, SWIFT USTILT2VXXX, счёт LT323981120000005326; payment details «inv AA-Q8-2026-1110 dd 10.11.26»; Amount 71 965,72 EUR; OUR. Вложенный COMMERCIAL INVOICE № AA-Q8-2026-1110 от 10.11.2026 (Seller Atlantic Avrora EOOD, fresh cut flowers, 1 lot, EUR 71 965,72) — сумма ордера равна итогу инвойса, оплата полная. Компания-плательщик = ATB (из ордера).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -2410,12 +2410,12 @@
     },
     "rowId": "flw-000196",
     "companySource": {
-      "source": "invoice",
-      "date": null,
-      "ref": "AA-Q8-2026-1110",
-      "file": "Invoice_Atlantic_Avrora_Q8_71965_72_EUR_10-Nov-2026.pdf"
+      "source": "order",
+      "date": "11.11.2026",
+      "ref": "Payment from ATB",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   }
 ]
