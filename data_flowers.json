@@ -2514,5 +2514,27 @@
     "calc": null,
     "sumSource": null,
     "rowId": "flw-000199"
+  },
+  {
+    "row": 89,
+    "date": "2026-11-11",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "АРОМАТНЫЙ ПУТЬ (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "5126859.11 / 128171.48",
+    "statementRef": "Предварительная выписка АО АКИБ ПОЧТОБАНК 11.11.2026",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: Предварительная выписка АО АКИБ ПОЧТОБАНК 11.11.2026",
+    "calc": null,
+    "sumSource": null,
+    "rowId": "flw-000200"
   }
 ]
