@@ -5486,6 +5486,28 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000487"
+    },
+    {
+      "row": 188,
+      "date": "2026-11-11",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО БАЛТИК ЛЕНД",
+      "costFormula": "3819928.84",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": "ОсОО_Блэкшарк_Трейд_, _ПОЧТОБАНК_iBank_для_Бизнеса.pdf",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: ОсОО_Блэкшарк_Трейд_, _ПОЧТОБАНК_iBank_для_Бизнеса.pdf",
+      "calc": null,
+      "sumSource": null,
+      "rowId": "main-000488"
     }
   ]
 }
