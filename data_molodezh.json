@@ -1159,5 +1159,33 @@
       "messageId": null
     },
     "rowId": "mol-000255"
+  },
+  {
+    "row": 37,
+    "date": "2026-11-11",
+    "sum": 19248,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "t13707",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000256"
   }
 ]
