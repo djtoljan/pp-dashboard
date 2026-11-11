@@ -2609,5 +2609,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 92,
+    "date": "2026-11-11",
+    "sum": 140327.72,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Gulf Flowers FZCO (Цветы)",
+    "costFormula": null,
+    "extra": "📄 11.11.2026 (📨 Цветы, файл «Заявка 140 327,72.docx») — заявка (реквизиты платежа): Amount 140 327,72 USD; Beneficiary Gulf Flowers FZCO (Unit 4WB 336, Building 4WB West Side, Dubai Airport Free Zone, Dubai, UAE); Account AE200340003528243426702; Bank EMIRATES ISLAMIC BANK, SWIFT MEBLAEAD; коррбанк The Bank of New York Mellon, SWIFT IRVTUS3NXXX, счёт 8901515981; назначение «Payment for cut flowers under contract GF-EXG/2025/10/20 dd 20.10.2025». Компания Q8 — по заявке (⬜); расчёт не проставляю — Q8-авто отключено.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Заявка 140 327,72 USD dd 11.11.2026",
+      "file": "Заявка 140 327",
+      "date": "2026-11-11",
+      "messageId": null
+    },
+    "rowId": "flw-000203",
+    "companySource": {
+      "source": "order",
+      "date": "2026-11-11",
+      "ref": "Заявка 140 327",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
