@@ -772,7 +772,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 11.11.2026 (📨 Константин Просто Группа, файл «25 210 USD (11.11.2026).xlsx» — заявка клиента на платёж): сумма 25 210,00 USD; валюта USD; бенефициар PT ABC WORLD TRADE (Indonesia; Jalan Ratna Nomor 80, Tonja, Denpasar Utara, Kota Denpasar, Bali, 80239); банк Bank Mandiri (Persero), Indonesia, JL. GATOT SUBROTO 36-38, JAKARTA; счёт 1750004922307; SWIFT BMRIIDJA; назначение «invoice N: U221026 dated 22.10.2026»; коррбанк не указан. Бенефициарное владение: Director Putu Alit Setiawati (гражданство Индонезия, 21.01.1972, место рождения Denpasar, адрес Jalan Cokroaminoto/Pucuk Sari 1, Denpasar); деятельность — wholesale trade on fee/contract basis (KBLI 46100), сайт abcworldtrade.com; рег. номер 2905240010663. Соответствует инвойсу U221026 (25 210,00 USD) по этой строке.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
