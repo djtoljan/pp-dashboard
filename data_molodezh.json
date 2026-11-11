@@ -1127,5 +1127,33 @@
       "messageId": null
     },
     "rowId": "mol-000254"
+  },
+  {
+    "row": 36,
+    "date": "2026-11-11",
+    "sum": 28341.4,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Фри Лайнс",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "t13697",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000255"
   }
 ]
