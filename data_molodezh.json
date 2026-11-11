@@ -859,7 +859,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 34661,
-    "notes": "📄 11.11.2026 (📨 Молодежь · t13591; файлы «PO 34475 USD HESION (HK) GLOBALLOGISTICS LIMITED.docx» и «34475 USD INVOICE HESION (HK) GLOBALLOGISTICS CO. LTD.pdf») — INVOICE SZHSE26100113A от 03.11.2026: HESION (HK) GLOBALLOGISTICS LIMITED → плательщик Q8 Group Limited; AIR FREIGHT 4×6 795 = 27 180 + OCEAN FREIGHT 3 295 + 4 000; итого 34 475.00 USD; China CITIC Bank International SWIFT KWHKHKHH счёт 746207349801",
+    "notes": "📄 11.11.2026 (📨 Молодежь · t13591; файлы «PO 34475 USD HESION (HK) GLOBALLOGISTICS LIMITED.docx» и «34475 USD INVOICE HESION (HK) GLOBALLOGISTICS CO. LTD.pdf») — INVOICE SZHSE26100113A от 03.11.2026: HESION (HK) GLOBALLOGISTICS LIMITED → плательщик Q8 Group Limited; AIR FREIGHT 4×6 795 = 27 180 + OCEAN FREIGHT 3 295 + 4 000; итого 34 475.00 USD; China CITIC Bank International SWIFT KWHKHKHH счёт 746207349801 | 🛡️ 11.11.2026: движение OUT 34661 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:28).",
     "calc": null,
     "sumSource": {
       "source": "order",
