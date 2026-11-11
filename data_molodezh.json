@@ -1063,5 +1063,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 34,
+    "date": "2026-11-11",
+    "sum": 25502.5,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Сенсис",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "payment order 25 502.5 USD.docx",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000253"
   }
 ]
