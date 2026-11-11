@@ -937,7 +937,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 11.11.2026 (📨 Молодежь · t13646, файл «9650_USD_INVOICE_GLOBAL_UZLOG_LOJISTIK_TICARET_LIMITED_SIRKETI_2.pdf») — INVOICE № 20261007 (Invoice Date 2026-09-04) от Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK): SEAFREIGHT, 1 ед., USD 9 650,00, VAT 0. Банк получателя: GLOBAL UZLOG LOJISTIK TICARET LIMITED SIRKETI (Osmaniye Mah Şirin Sk. Atilla İş Merkezi No: 34/3 Bakırköy, İstanbul, Türkiye); GARANTİ BANKASI YEŞİLKÖY ŞUBESİ (İstasyon Caddesi No: 28, Yeşilköy 34149 Bakırköy İstanbul); IBAN TR91 0006 2000 3280 0009 0712 11; SWIFT TGBATRISXXX. Сумма строки = счёт 9 650,00 USD; заявка/ордер на оплату ещё не приходили. | 📄 11.11.2026 (📨 Молодежь · t13646, файл «PO_9650_USD_GLOBAL_UZLOG_LOJISTIK_TICARET_LIMITED_SIRKETI_1_1.docx») — подтверждение реквизитов платежа: Beneficiary GLOBAL UZLOG LOJISTIK TICARET LIMITED SIRKETI, адрес Osmaniye Mah Şirin Sk. Atillla İş Merkezi No: 34/3 Bakırköy İstanbul Türkiye; банк GARANTİ BANKASI YEŞİLKÖY ŞUBESİ, İstasyon Caddesi No: 28 Yeşilköy 34149 Bakırköy İstanbul; SWIFT TGBATRISXXX; IBAN TR91 0006 2000 3280 0009 0712 11; Amount 9650 USD. Реквизиты совпадают с инвойсом 20261007.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -955,5 +955,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 31,
+    "date": "2026-11-11",
+    "sum": 13745,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Welog",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "PO_13745_USD_SHEN_ZHEN_SHI_NI_ZHOU_KE_JI_YOU_XIAN_GONG_SI_1.docx",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000250"
   }
 ]
