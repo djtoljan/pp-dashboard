@@ -2663,7 +2663,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 11.11.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_72816_28_EUR_11-Nov-2026.pdf») — COMMERCIAL INVOICE № AA-Q8-2026-1111 dd 11 November 2026: продавец Atlantic Avrora EOOD (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin No15, Et. 9, ofis 908, Burgas, Bulgaria, директор Aleksandrs Rakovskis) → покупатель Q8 Group Limited (Company No. 80242882, Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong): Fresh cut flowers, assorted, 1 lot. Реквизиты: Stanhope Financial UAB, SWIFT USTILT2VXXX, IBAN LT323981120000005326. Расчёт ждёт формулу владельца.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
