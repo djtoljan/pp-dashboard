@@ -2627,7 +2627,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 11.11.2026 (📨 Цветы, файл «INVOICE 140 327.72 $ to Islamic.pdf», скан — читал вижном) — INVOICE № 2110-Q8G от 21.10.2026: продавец Gulf Flowers FZCO (Dubai Airport Free Zone, UAE; Reg. No. 1713; License 3471; VAT 1000472048600003); Buyer Q8 GROUP LIMITED (RM A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong; Reg. No. 80242882); контракт GF-Q86/2026/05/21 dd 21/05/2026; FCA Amsterdam/Aalsmeer, Incoterms 2010, open account; 145 321 стеблей срезанных цветов, брутто 9 916,00 кг; TOTAL USD 140 327,72. Реквизиты: EMIRATES ISLAMIC BANK, IBAN AE200340003528243426702, SWIFT MEBLAEAD; сумма и получатель совпадают с заявкой и строкой. Расчёт не проставляю — Q8-авто отключено.",
     "calc": null,
     "sumSource": {
       "source": "order",
