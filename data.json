@@ -5524,6 +5524,34 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000488"
+    },
+    {
+      "row": 189,
+      "date": "2026-11-10",
+      "sum": 1500023.08,
+      "currency": "RUB",
+      "company": null,
+      "color": "FFFFFFFF",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": "заявка 61",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "scream",
+        "ref": "ПП на Almeno 10.11.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000489"
     }
   ]
 }
