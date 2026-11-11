@@ -1195,5 +1195,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 38,
+    "date": "2026-11-11",
+    "sum": 6950,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Медлазцентр (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": null,
+      "file": "PI_for_agent.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000257",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": null,
+      "file": "PI_for_agent.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
