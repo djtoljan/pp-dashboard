@@ -754,5 +754,41 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 23,
+    "date": "2026-11-11",
+    "sum": 25210,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "INV ABC USD  25210-2.docx.pdf",
+      "file": "INV ABC USD  25210-2.docx.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000106",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "INVOICE U221026",
+      "file": "INV ABC USD  25210-2.docx.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
