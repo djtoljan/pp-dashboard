@@ -919,5 +919,41 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 30,
+    "date": "2026-11-11",
+    "sum": 9650,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Welog",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "9650_USD_INVOICE_GLOBAL_UZLOG_LOJISTIK_TICARET_LIMITED_SIRKETI_2.pdf",
+      "file": "9650_USD_INVOICE_GLOBAL_UZLOG_LOJISTIK_TICARET_LIMITED_SIRKETI_2.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000249",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "INVOICE 20261007 Q8",
+      "file": "9650_USD_INVOICE_GLOBAL_UZLOG_LOJISTIK_TICARET_LIMITED_SIRKETI_2.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
