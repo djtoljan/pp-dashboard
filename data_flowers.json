@@ -2434,5 +2434,41 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 86,
+    "date": "2026-11-11",
+    "sum": 48000,
+    "currency": "EUR",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Dolina Agro (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Dolina_Agro_48000_EUR_11-11-2026.pdf",
+      "file": "Dolina_Agro_48000_EUR_11-11-2026.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "flw-000197",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "INVOICE DA-111126-02",
+      "file": "Dolina_Agro_48000_EUR_11-11-2026.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
