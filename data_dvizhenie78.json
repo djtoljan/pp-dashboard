@@ -82,5 +82,33 @@
       "messageId": null
     },
     "rowId": "d78-000052"
+  },
+  {
+    "row": 4,
+    "date": "2026-11-12",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Оникс (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "Выписка АКИБ Почтобанк 12.11.2026, ПП №268 (приход ООО ОНИКС)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "d78-000054"
   }
 ]
