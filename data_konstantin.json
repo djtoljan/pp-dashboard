@@ -834,8 +834,8 @@
     "date": "2026-11-12",
     "sum": 30799.96,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "ATB Service GmbH",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -846,7 +846,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 12.11.2026 (📨 Константин Просто Группа, файл «6997 inv BZT 30 799,96 eur ATB Service GmbH _sf.pdf») — ИНВОЙС BZT Master Cargo Kft (№6997): CUSTOMER ATB Service GmbH (Germany, DE-13599 Berlin, Nonnendammallee 22, EU VAT DE463202384), оплата банковским переводом; completion/issue date 12/11/2026, due 22/11/2026; позиции Miele (WWG880 WCS 2 × 833,65 = 1 667,30; WEG895 WCS 4 × 857,14 = 3 428,56; WEI895 WCS 2 × 1 042,96 = 2 085,92; WTR870WPM 5 × 1 607,60 = 8 038,00; WQ1000 WPS 8 × 1 511,12 = 12 088,96; TEA535 WP 6 × 581,87 = 3 491,22); Total 30 799,96 EUR, VAT 0, MNB 364,92 HUF, Gross 11 239 521 HUF; реквизиты: Beneficiary SYMOCO PAYMENTS LTD, IBAN LT843981120000002353, SWIFT USTILT2VXXX, Bank UAB Stanhope Financial (Vilnius, Lithuania), reference «BZT Master Cargo Kft.». Компания строки поставлена ATB Service GmbH по этому инвойсу (источник invoice).",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -855,6 +855,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000109"
+    "rowId": "kon-000109",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "6997",
+      "file": "input-6997_inv_BZT_30_799.96_eur_ATB_Service_GmbH_sf---d3c4b28d-f6b9-43bf-9314-5831b916ed40.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
