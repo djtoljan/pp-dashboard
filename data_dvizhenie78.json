@@ -67,7 +67,7 @@
     "extra": null,
     "rubles_received": "3819928.84 / 97947.45",
     "statementRef": null,
-    "sent_rubles_vdx": "3917876.29 (Almeno - заявка 62) / 3917876.29",
+    "sent_rubles_vdx": 3917876.29,
     "exchange_to": "Almeno",
     "vdx_rate": null,
     "received_usdt": null,
