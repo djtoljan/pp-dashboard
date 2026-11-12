@@ -916,9 +916,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 255366.69,
     "sent_usdt": null,
-    "notes": "📄 12.11.2026 (📨 Константин Просто Группа, файл «Melitta_229_223_20_EUR_3975744.xlsx») — заявка на платёж: 229 223.20 EUR, получатель Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany); Deutsche Bank AG (Minden, Germany); SWIFT DEUTDE3B490; счёт DE03490700280291371300; назначение «Payment for proforma invoice 3975744 dd 12.11.2026, customer N 26236». Также получен PDF-инвойс Melitta 3975744 от 12.11.2026 (Warenempfänger TECHNORIUM LLC, Tbilisi; FCA Minden; оплата авансом). | ✏️ 12.11.2026 (📨 Ордера и Расчеты: Payment from ATB) — ордер на платёж подтверждён: бенефициар Melitta Europa GmbH & Co. KG; Deutsche Bank AG (Minden, Germany); SWIFT DEUTDE3B490; счёт DE03490700280291371300; payment details «invoice 3975744 dd 12.11.2026, customer N 26236»; условие OUR. Сумма ордера совпадает со строкой. | ✏️ 12.11.2026 (📨 Ордера и Расчеты) — ЧАСТИЧНАЯ ОПЛАТА по инвойсу 3975744: сумма строки — сумма ордера (229 223,20 EUR), а не полный итог инвойса.",
+    "notes": "📄 12.11.2026 (📨 Константин Просто Группа, файл «Melitta_229_223_20_EUR_3975744.xlsx») — заявка на платёж: 229 223.20 EUR, получатель Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany); Deutsche Bank AG (Minden, Germany); SWIFT DEUTDE3B490; счёт DE03490700280291371300; назначение «Payment for proforma invoice 3975744 dd 12.11.2026, customer N 26236». Также получен PDF-инвойс Melitta 3975744 от 12.11.2026 (Warenempfänger TECHNORIUM LLC, Tbilisi; FCA Minden; оплата авансом). | ✏️ 12.11.2026 (📨 Ордера и Расчеты: Payment from ATB) — ордер на платёж подтверждён: бенефициар Melitta Europa GmbH & Co. KG; Deutsche Bank AG (Minden, Germany); SWIFT DEUTDE3B490; счёт DE03490700280291371300; payment details «invoice 3975744 dd 12.11.2026, customer N 26236»; условие OUR. Сумма ордера совпадает со строкой. | ✏️ 12.11.2026 (📨 Ордера и Расчеты) — ЧАСТИЧНАЯ ОПЛАТА по инвойсу 3975744: сумма строки — сумма ордера (229 223,20 EUR), а не полный итог инвойса. | 💰 12.11.2026 — приход USDT 255 366,69 от Константина (Рабочий 6, txid 87cd1289…5ddf) записан под эту сделку: received_usdt = 255 366,69 (перевод 15:16 UTC, Q9 отправлен).",
     "calc": null,
     "sumSource": {
       "source": "order",
