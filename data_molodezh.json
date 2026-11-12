@@ -690,8 +690,8 @@
     "date": "2026-11-10",
     "sum": 9580,
     "currency": "USD",
-    "company": "MAPLELEAF INFORMATION TECHNOLOGY LIMITED",
-    "color": "FFFFFFFF",
+    "company": "Q8 GROUP LIMITED",
+    "color": "FFFFFF00",
     "clientName": "Вилог",
     "costFormula": null,
     "extra": null,
@@ -702,7 +702,7 @@
     "vdx_rate": 83.15,
     "received_usdt": 9780.97,
     "sent_usdt": 9679,
-    "notes": "🏦 приход по выписке: input-rpp_677---ffbdbbbc-3179-4219-8ca5-adfc64582c2f.pdf | ПП на VDX №677 от 10.11.2026 (814 101,69 ₽ — номер из документа ПП) | 📄 10.11.2026 (📨 Молодежь · t13555, файл «rpp_677.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №677 от 10.11.2026 ИСПОЛНЕН 10.11.2026 14:46:52 (Филиал «Центральный» Банка ВТБ, ДБО): ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ, счёт 40807810000000015414) — 814 101,69 ₽ {VO11100} частичная оплата за товар по инвойсу №ENT-081-ALE20261106 от 06.11.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS 8206000000), по курсу 84,9793, НДС не облагается. Сумма сделки 9 580,00 USD (по сообщению t13555); 9 580 × 84,9793 = 814 101,69 — сходится. Отправка на VDX, цвет 🔵 — рублёвое ПП статус не двигает. | 📄 10.11.2026 (📨 Молодежь · t13555, файл «PO_9580_USD_MAPLELEAF_INFORMATION_TECHNOLOGY_LIMITED_1_1.docx») — ордер на платёж 9 580,00 USD: бенефициар MAPLELEAF INFORMATION TECHNOLOGY LIMITED (Room A11, 8th Floor, Ka Shing Factory Building, 25-27 Luk Hop Street, San Po Kong, Kowloon, Hong Kong), банк China Construction Bank (Asia) Co., Ltd (20/F CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon), SWIFT CCBQHKAX, счёт 846210561199. company = MAPLELEAF (ордер). Сумма 9 580,00 USD = 814 101,69 ₽ / 84,9793 по ПП №677. | 📄 10.11.2026 (📨 Молодежь · t13555, файл «9580_USD_INVOICE_MAPLELEAF_INFORMATION_TECHNOLOGY_LIMITED_2_1.pdf») — PROFORMA INVOICE №ALE20261106 от 06.11.2026 (MAPLELEAF INFORMATION TECHNOLOGY LIMITED, Room A11, 8th Floor, Ka Shing Factory Building, 25-27 Luk Hop Street, San Po Kong, Kowloon, HK; China Construction Bank (Asia), SWIFT CCBQHKAX, счёт 846210561199) → покупатель Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK): LIC-USG6650E-IPS-3Y License — 4 × 2 395,00 = 9 580,00 USD. Совпадает с ПП №677 (814 101,69 ₽ / 84,9793) и ордером PO 9580 USD. | 🛡️ 12.11.2026: движение OUT 9679 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:23).",
+    "notes": "🏦 приход по выписке: input-rpp_677---ffbdbbbc-3179-4219-8ca5-adfc64582c2f.pdf | ПП на VDX №677 от 10.11.2026 (814 101,69 ₽ — номер из документа ПП) | 📄 10.11.2026 (📨 Молодежь · t13555, файл «rpp_677.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №677 от 10.11.2026 ИСПОЛНЕН 10.11.2026 14:46:52 (Филиал «Центральный» Банка ВТБ, ДБО): ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, ПСБ, счёт 40807810000000015414) — 814 101,69 ₽ {VO11100} частичная оплата за товар по инвойсу №ENT-081-ALE20261106 от 06.11.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS 8206000000), по курсу 84,9793, НДС не облагается. Сумма сделки 9 580,00 USD (по сообщению t13555); 9 580 × 84,9793 = 814 101,69 — сходится. Отправка на VDX, цвет 🔵 — рублёвое ПП статус не двигает. | 📄 10.11.2026 (📨 Молодежь · t13555, файл «PO_9580_USD_MAPLELEAF_INFORMATION_TECHNOLOGY_LIMITED_1_1.docx») — ордер на платёж 9 580,00 USD: бенефициар MAPLELEAF INFORMATION TECHNOLOGY LIMITED (Room A11, 8th Floor, Ka Shing Factory Building, 25-27 Luk Hop Street, San Po Kong, Kowloon, Hong Kong), банк China Construction Bank (Asia) Co., Ltd (20/F CCB Centre, 18 Wang Chiu Road, Kowloon Bay, Kowloon), SWIFT CCBQHKAX, счёт 846210561199. company = MAPLELEAF (ордер). Сумма 9 580,00 USD = 814 101,69 ₽ / 84,9793 по ПП №677. | 📄 10.11.2026 (📨 Молодежь · t13555, файл «9580_USD_INVOICE_MAPLELEAF_INFORMATION_TECHNOLOGY_LIMITED_2_1.pdf») — PROFORMA INVOICE №ALE20261106 от 06.11.2026 (MAPLELEAF INFORMATION TECHNOLOGY LIMITED, Room A11, 8th Floor, Ka Shing Factory Building, 25-27 Luk Hop Street, San Po Kong, Kowloon, HK; China Construction Bank (Asia), SWIFT CCBQHKAX, счёт 846210561199) → покупатель Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK): LIC-USG6650E-IPS-3Y License — 4 × 2 395,00 = 9 580,00 USD. Совпадает с ПП №677 (814 101,69 ₽ / 84,9793) и ордером PO 9580 USD. | 🛡️ 12.11.2026: движение OUT 9679 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row molodezh:23). | 🏦 12.11.2026 (📨 USD, файл «9,580.00 USD-MAPLELEAF INFORMATION TECHNOLOGY LIMITED.pdf») — Proof of Transfer (сертификат BAXS PAY LIMITED): Payer Q8 GROUP LIMITED → Payee MAPLELEAF INFORMATION TECHNOLOGY LIMITED (Room A11, 8th Floor, Ka Shing Factory Building, 25-27), China Construction Bank (Asia) Co., Ltd, счёт 846210561199, BIC CCBQHKAX; Transaction Amount 9 580,00 USD, комиссии OUR; Transaction ID FO2611120903000001; Transaction Status «Pending (处理中)» — платёж в обработке (INITIATED), дата 20261112; назначение «INVOICE ALE20261106». Сумма совпадает со строкой. Компания строки приведена к плательщику Q8 GROUP LIMITED по этому документу (foreign_pp, txid) — ранее в поле стоял получатель; строка ⬜→🟡 до EXECUTED.",
     "calc": null,
     "sumSource": {
       "source": "pp",
@@ -713,13 +713,14 @@
     },
     "rowId": "mol-000239",
     "companySource": {
-      "source": "order",
-      "date": null,
-      "ref": "PO 9580 USD MAPLELEAF",
-      "messageId": null
+      "source": "foreign_pp",
+      "file": "input-9_580.00_USD-MAPLELEAF_INFORMATION_TECHNOLOGY_LIMITED---de9e7559-aabe-4c8c-9324-e07020242755.pdf",
+      "txid": "FO2611120903000001",
+      "ref": null,
+      "date": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": true
   },
   {
     "row": 24,
