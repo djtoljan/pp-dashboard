@@ -5718,7 +5718,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "🏦 12.11.2026 (📨 Платежные Поручения, файл «file (31).pdf») — Commerzbank: «Ihre Überweisung wird ausgeführt» (подвешенное ПП, ещё НЕ исполнено): отправитель ATB Service GmbH (DE43 1004 0000 0453 3493 00, EUR, PremiumGeschäftskonto Plus) → WORLDWIDE HOTEL LINK SRL (IBAN IT50 N050 3402 0700 0000 0030 039, BANCO BPM S.P.A., BIC BAPPIT21709); Betrag 10 087,91 EUR; Verwendungszweck «INV. 000082,000680 dd 10-11.2026, AG 03.08-26 dd.03.08.26»; Referenznummer CCB.316.UE.POS00140707; Ausführungsdatum 12.11.2026; Empfängerprüfung «Angaben stimmen überein». Компания строки ATB (foreign_pp по документу), статус 🟡 (INITIATED). Клиент не определён — требует уточнения.",
       "calc": null,
       "sumSource": {
         "source": "pp",
