@@ -1303,5 +1303,33 @@
       "messageId": "input-report---a3a5de09-0fb8-4fe1-ad9b-b4ea1e627564.pdf"
     },
     "rowId": "mol-000259"
+  },
+  {
+    "row": 41,
+    "date": "2026-11-12",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Евразия Логистика",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "ПП №197 от 12.11.2026, ЕВРАЗИЯ ЛОГИСТИКС → VDX (поручение 9, S.K Trading)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000260"
   }
 ]
