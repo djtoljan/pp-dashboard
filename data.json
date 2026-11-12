@@ -5608,6 +5608,34 @@
         "messageId": null
       },
       "rowId": "main-000492"
+    },
+    {
+      "row": 192,
+      "date": "2026-11-12",
+      "sum": 55985.07,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Заявка 73114 (12.11.2026), 55 985,07 USD — инвойс услуг БиТрейд 73114",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000493"
     }
   ]
 }
