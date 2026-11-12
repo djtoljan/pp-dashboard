@@ -1923,6 +1923,42 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000502"
+    },
+    {
+      "row": 67,
+      "date": "2026-11-12",
+      "sum": 28381.4,
+      "currency": "USD",
+      "company": "Q8 GROUP LIMITED",
+      "color": "FFFFFFFF",
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "Invoices BB2603 KBP 28381.40 USD.pdf",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000503",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "Invoices BB2603 KBP (msg 62666)",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
