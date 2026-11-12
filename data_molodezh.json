@@ -1372,6 +1372,28 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
+    "sent_rubles_vdx": "498183.03 / 26661.32",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 12.11.2026 (список бухгалтера за 12.11, Scream 19:05) — две ПП на VDX: ПП №74 — 498 183,03 ₽ (документ «Платежное_поручение_74_12.11.2026.pdf»: ООО «ПРОФИФЕЙС», ИНН 7816705167, Альфа-Банк → VDX, ПСБ); ПП №75 — 26 661,32 ₽ (документ не получен, маркер не ставится). Итого 524 844,35 ₽. | ПП на VDX №74 от 12.11.2026 (498 183,03 ₽ — по документу ПП №74)",
+    "calc": null,
+    "sumSource": null,
+    "rowId": "mol-000262"
+  },
+  {
+    "row": 44,
+    "date": "2026-11-12",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "АО «Фри Лайнс Компани»",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
@@ -1380,6 +1402,6 @@
     "notes": null,
     "calc": null,
     "sumSource": null,
-    "rowId": "mol-000262"
+    "rowId": "mol-000263"
   }
 ]
