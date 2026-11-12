@@ -1813,7 +1813,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 12.11.2026 (📨 ВТС · t7294 · файлы «инвойс услуги Би трейд 74522.pdf» и «Поручение 74522.pdf») — ПОРУЧЕНИЕ №74522 от 12.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → получатель GZP TRADING CO. LTD (Room 4 16th Floor Goodview Commercial Center 2-16 Garden Street Mong Kok Hong Kong); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK; SWIFT CZCBCN2X; счёт NRA15602002010590034271; банк YIWULEYUAN EAST JIANGBIN RD YIWU ZHEJIANG CHINA; назначение «PAYMENT BY PROFORMA INVOICE NO: 74522 DATE: 14.08.2026»; курс 82.9900; сумма к перечислению 3 195 685.14 RUB; комиссия агента 1.5% + 100 USD. Инвойс услуг БиТрейд 74522 от 12.11.2026 — 677.60 USD = 56 234.28 RUB (посреднические услуги по курсу 82.9900).",
+      "notes": "📄 12.11.2026 (📨 ВТС · t7294 · файлы «инвойс услуги Би трейд 74522.pdf» и «Поручение 74522.pdf») — ПОРУЧЕНИЕ №74522 от 12.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → получатель GZP TRADING CO. LTD (Room 4 16th Floor Goodview Commercial Center 2-16 Garden Street Mong Kok Hong Kong); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK; SWIFT CZCBCN2X; счёт NRA15602002010590034271; банк YIWULEYUAN EAST JIANGBIN RD YIWU ZHEJIANG CHINA; назначение «PAYMENT BY PROFORMA INVOICE NO: 74522 DATE: 14.08.2026»; курс 82.9900; сумма к перечислению 3 195 685.14 RUB; комиссия агента 1.5% + 100 USD. Инвойс услуг БиТрейд 74522 от 12.11.2026 — 677.60 USD = 56 234.28 RUB (посреднические услуги по курсу 82.9900). | 📄 12.11.2026 (📨 ВТС · t7294, файл «INV № 74522 от 14.08.26 new.xlsx») — COMMERCIAL INVOICE CI №74522 от 14.08.2026: продавец GZP TRADING CO. LTD (Room 4, 16th Floor, Goodview Commercial Center, 2-16 Garden Street, Mong Kok, Hong Kong) → покупатель LLC «WTC» / ООО «ВТС»; Sales Contract №13-08/2026 от 13.08.2026; товар — DIXEL переходные рамки и линзы (заказ 5D-42); итог 38 506.87 USD.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -1873,6 +1873,34 @@
         "messageId": null
       },
       "rowId": "main-000500"
+    },
+    {
+      "row": 65,
+      "date": "2026-11-12",
+      "sum": 19111.59,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "📄 12.11.2026 (📨 ВТС · t7311 · заявка 78124, файл «инвойс услуги Би трейд 78124.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» №78124 от 12.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН 7735171132); посреднические услуги по проведению расчётов, курс USD 82.9900; комиссия агента по инвойсу — 386.67 USD. Сумма сделки по заявке 78124 — 19 111,59 USD (ждём поручение). | 📄 12.11.2026 (📨 ВТС · t7311, файл «Поручение 78124.pdf») — ПОРУЧЕНИЕ №78124 от 12.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → получатель ZHONG SHENG TECHNOLOGY DEVELOPMENT CO. LIMITED (FLAT B01, 2/F, KIN TAK FUNG IND BUILDING, 174 WAI YIP STREET, KWUN TONG, HONG KONG); банк The Bank Of East Asia Limited Hong Kong; SWIFT BEASHKHH; счёт 015-248-68-019188; назначение Sales Contract № 305N dd 11.09.2026, инвойс № 313N от 09/11/2026; курс 82.9900; сумма к перечислению 1 586 070.85 RUB; комиссия агента 1.5% + 100 USD.",
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "заявка 78124 (📨 ВТС · t7311)",
+        "file": "инвойс услуги Би трейд 78124.pdf",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000501"
     }
   ]
 }
