@@ -2544,7 +2544,7 @@
     "sum": 18000,
     "currency": "USD",
     "company": "Q8 Group Limited",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "GEOFLORA SAS (Цветы)",
     "costFormula": null,
     "extra": "📄 11.11.2026 (📨 Цветы, файлы «GEOFLORA_18000_USD_11-11-2026.pdf» + «GEOFLORA SAS 18000.docx») — PROFORMA INVOICE No. 1103 dd 11.11.2026: Cut Flowers 60 000 stems × /bin/zsh,30; invoice to Q8 Group Limited (Hong Kong); получатель GEOFLORA SAS, Km 4 Via Corzo – Bojaca, Colombia; BBVA COLOMBIA, SWIFT GEROCOBB, счёт 00130382000100017184; Wire Transfer.",
@@ -2555,7 +2555,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 18128,
-    "notes": null,
+    "notes": "🏦 12.11.2026 (📨 USD, файл «18020.00USD-.GEOFLORA SASpdf.pdf») — Proof of Transfer (сертификат BAXS PAY LIMITED): Payer Q8 GROUP LIMITED → Payee GEOFLORA SAS (Km 4 Via Corzo - Bojaca, Colombia), BBVA COLOMBIA, счёт 00130382000100017184, BIC GEROCOBB; Transaction Amount 18 020,00 USD, комиссии SHA; Transaction ID FO2611120906000001; Transaction Status «Pending (处理中)» — платёж в обработке (INITIATED), дата 20261112; назначение «INVOICE 1103». ⚠️ Расхождение с суммой строки: 18 020,00 против 18 000,00 USD (+20,00) — уточнить (тот же рисунок, что по ABC WORLD TRADE: там 25 230 против 25 210). Строка ⬜→🟡.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
