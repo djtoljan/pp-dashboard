@@ -1845,6 +1845,34 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000499"
+    },
+    {
+      "row": 64,
+      "date": "2026-11-12",
+      "sum": 1574562.87,
+      "currency": "RUB",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "Счет 12-БШ от 11.11.26",
+        "file": "telegram:62560",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000500"
     }
   ]
 }
