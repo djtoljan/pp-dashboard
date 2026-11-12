@@ -1884,7 +1884,7 @@
       "clientName": "ООО ВТС",
       "costFormula": null,
       "extra": null,
-      "rubles_received": null,
+      "rubles_received": "1586070.85 / 32090.06",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
@@ -1901,6 +1901,28 @@
         "messageId": null
       },
       "rowId": "main-000501"
+    },
+    {
+      "row": 66,
+      "date": "2026-11-12",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": null,
+      "rowId": "main-000502"
     }
   ]
 }
