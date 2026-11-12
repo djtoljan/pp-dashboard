@@ -1331,5 +1331,33 @@
       "messageId": "input-исполнено_1780261-13---14256343-a45f-49a7-9046-da1e9641c541.pdf"
     },
     "rowId": "mol-000260"
+  },
+  {
+    "row": 42,
+    "date": "2026-11-12",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "ПП №679 от 12.11.2026 (Виолог → VDX, 136 674,45 ₽)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000261"
   }
 ]
