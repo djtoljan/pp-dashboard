@@ -5552,6 +5552,34 @@
         "messageId": null
       },
       "rowId": "main-000490"
+    },
+    {
+      "row": 190,
+      "date": "2026-11-12",
+      "sum": 2577369.32,
+      "currency": "RUB",
+      "company": null,
+      "color": "FFFFFFFF",
+      "clientName": "ООО ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "pp",
+        "ref": "Отправка БиТрейд → Альмено, заявка 38, резиновые покрышки (12.11.2026)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000491"
     }
   ]
 }
