@@ -900,5 +900,41 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 27,
+    "date": "2026-11-12",
+    "sum": 229223.2,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Melitta_229_223_20_EUR_3975744.xlsx",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000114",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "Melitta 3975744 (msg 62608)",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
