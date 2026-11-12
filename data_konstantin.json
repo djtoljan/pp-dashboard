@@ -791,5 +791,42 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 24,
+    "date": "2026-11-12",
+    "sum": 31995,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "FPRO/0252/2026 dd 05.11.2026",
+      "file": null,
+      "date": "2026-11-12",
+      "messageId": "62340"
+    },
+    "rowId": "kon-000108",
+    "companySource": {
+      "source": "topic",
+      "date": "2026-11-12",
+      "topic": "FINIVEST AI",
+      "messageId": "62340",
+      "file": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
