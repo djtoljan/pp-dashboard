@@ -1416,6 +1416,28 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
+    "sent_rubles_vdx": "424751.74 / 25192.70",
+    "exchange_to": "VDX",
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 12.11.2026 (список бухгалтера за 12.11, Scream 19:05) — АО «Фри Лайнс Компани»: две ПП на VDX — ПП №5230 — 424 751,74 ₽ и ПП №5231 — 25 192,70 ₽. Итого 449 944,44 ₽. Документы ПП не получены, маркеры не ставятся. Сумма/валюта сделки — пусто до ордера.",
+    "calc": null,
+    "sumSource": null,
+    "rowId": "mol-000264"
+  },
+  {
+    "row": 46,
+    "date": "2026-11-12",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "АО «Фри Лайнс Компани»",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
@@ -1424,6 +1446,6 @@
     "notes": null,
     "calc": null,
     "sumSource": null,
-    "rowId": "mol-000264"
+    "rowId": "mol-000265"
   }
 ]
