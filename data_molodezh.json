@@ -1231,5 +1231,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 39,
+    "date": "2026-11-12",
+    "sum": 77180431,
+    "currency": "KRW",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 12.11.2026 (📨 Молодежь, файл «payment order_77180431 KRW.docx», реф. IM121126_03) — PAYMENT ORDER от 12/11/2026: AMOUNT 77 180 431,00 KRW; BENEFICIARY MOBY (Room 203, Munwugeum-ro 243, Yeonsu-gu, Republic of Korea), WOORI BANK (124, Woninjae-ro, Yeonsu-gu, Incheon 21974), счёт 1005-704-724-337, SWIFT HVBKKRSE; PAYMENT PURPOSE: «Payment Inv KR2026111255 dd 12.11.2026, KR2026111256 dd 12.11.2026». Компания-плательщик и клиент в документе не указаны — строка 🔴 до определения клиента/компании.",
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "payment order 77180431 KRW dd 12.11.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000258"
   }
 ]
