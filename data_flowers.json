@@ -729,7 +729,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 18128,
-    "notes": "🏦 12.11.2026 (📨 USD, файл «18020.00USD-.GEOFLORA SASpdf.pdf») — Proof of Transfer (сертификат BAXS PAY LIMITED): Payer Q8 GROUP LIMITED → Payee GEOFLORA SAS (Km 4 Via Corzo - Bojaca, Colombia), BBVA COLOMBIA, счёт 00130382000100017184, BIC GEROCOBB; Transaction Amount 18 020,00 USD, комиссии SHA; Transaction ID FO2611120906000001; Transaction Status «Pending (处理中)» — платёж в обработке (INITIATED), дата 20261112; назначение «INVOICE 1103». ⚠️ Расхождение с суммой строки: 18 020,00 против 18 000,00 USD (+20,00) — уточнить (тот же рисунок, что по ABC WORLD TRADE: там 25 230 против 25 210). Строка ⬜→🟡.",
+    "notes": "🏦 12.11.2026 (📨 USD, файл «18020.00USD-.GEOFLORA SASpdf.pdf») — Proof of Transfer (сертификат BAXS PAY LIMITED): Payer Q8 GROUP LIMITED → Payee GEOFLORA SAS (Km 4 Via Corzo - Bojaca, Colombia), BBVA COLOMBIA, счёт 00130382000100017184, BIC GEROCOBB; Transaction Amount 18 020,00 USD, комиссии SHA; Transaction ID FO2611120906000001; Transaction Status «Pending (处理中)» — платёж в обработке (INITIATED), дата 20261112; назначение «INVOICE 1103». ⚠️ Расхождение с суммой строки: 18 020,00 против 18 000,00 USD (+20,00) — уточнить (тот же рисунок, что по ABC WORLD TRADE: там 25 230 против 25 210). Строка ⬜→🟡. | 📄 12.11.2026 (📨 Цветы, файл «18,020.00 USD-GEOFLORA SAS.pdf») — повторно тот же ваучер BAXS PAY LIMITED: Payer Q8 GROUP LIMITED → GEOFLORA SAS (BBVA COLOMBIA, счёт 00130382000100017184, BIC GEROCOBB); Transaction ID FO2611120906000001; Transaction Status «Pending (处理中)»; Transaction Date 20261112; Remarks INVOICE 1103; charges SHA. Статус не изменился — 🟡 сохраняется.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
