@@ -5654,7 +5654,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 12.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB❗️», файл «INV 12 087,67 EUR.pdf») — ОРДЕР: плательщик ATB; Beneficiary ERS LOGISTIK OOD (Kazbek n. 51 – Etaj 1a, 10618 Sofia, Bulgaria), Bulgarian American Credit Bank, SWIFT BGUSBGSF, счёт BG65BGUS91601412608400; Payment details «PROFORMA 1435 dd 23.10.26»; Amount 12 087,67 EUR; OUR. Вложенный INVOICE (PROFORMA 1435, DOC. DATE 23/10/2026): продавец ERS LOGISTIK OOD (VAT BG206887027, EORI BGC206887027ZZZZ1) → покупатель Hanlon Project Trading FZE LLC (BLB-624 Ajman Boulevard Commercial, Ajman, UAE, P.O. Box 1099); позиции RECT. 60*120 BEIGE/WHITE/GREY/BLACK — по 103,680 MQ × 28,00 € = 2 903,04 € каждая, OTHER COSTS 475,51 €; HS 69072100; Total 12 087,67 €. Клиент проставлен по аналогии с предыдущей сделкой ERS LOGISTIK (стр. 112, принципал Hanlon Project Trading FZE LLC); компания ATB — по ордеру.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
