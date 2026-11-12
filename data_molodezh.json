@@ -1279,28 +1279,28 @@
   {
     "row": 40,
     "date": "2026-11-12",
-    "sum": null,
-    "currency": null,
+    "sum": 26100,
+    "currency": "EUR",
     "company": null,
     "color": "FF4FC3F7",
     "clientName": "МД Лайн транс",
     "costFormula": null,
     "extra": null,
-    "rubles_received": null,
+    "rubles_received": "2444514.81 / 46030.09",
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": 2490544.9,
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 12.11.2026 (📨 Молодежь · t13832 · 26 100 EUR МД Лайн транс, файл «report.pdf») — два ПП ООО «МД ЛАЙН Транс» (ИНН 9701223523, КПП 772301001, счёт 40702810001360000661, АО Банк Инго, БИК 044525148) → VDX SERVICES-FZCO (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», БИК 044525555, счёт 40807810000000015414): ПП №37 — 2 444 514,81 ₽ {VO11100} «для оплаты в адрес GEOPRODUCTS LTD за товар по PROFORMA INVOICE № MDLT_2610 от 26.10.2026 по аг.дог. № 454-EX15052026 от 15.05.26 по № 3 от 12.11.2026»; ПП №38 — 46 030,09 ₽ {VO21100} «оплата вознаграждение агента согласно поручению №3 от 12.11.2026 на основании Агентского договора № 454-EX15052026 от 15.05.2026». Итого 2 490 544,90 ₽ — тело 2 444 514,81 + комиссия 46 030,09; отправка на VDX.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
-      "ref": "PROFORMA INVOICE MDLT_2610 dd 26.10.2026 (GEOPRODUCTS LTD)",
+      "ref": "PROFORMA INVOICE MDLT_2610 dd 26.10.2026",
       "file": null,
       "date": null,
-      "messageId": null
+      "messageId": "input-report---a3a5de09-0fb8-4fe1-ad9b-b4ea1e627564.pdf"
     },
     "rowId": "mol-000259"
   }
