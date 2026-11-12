@@ -1275,5 +1275,33 @@
       "messageId": null
     },
     "rowId": "mol-000258"
+  },
+  {
+    "row": 40,
+    "date": "2026-11-12",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "МД Лайн транс",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "PROFORMA INVOICE MDLT_2610 dd 26.10.2026 (GEOPRODUCTS LTD)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000259"
   }
 ]
