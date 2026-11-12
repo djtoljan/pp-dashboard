@@ -864,5 +864,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 26,
+    "date": "2026-11-12",
+    "sum": 286000,
+    "currency": "CNY",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "286000_CNY_Hubei_Goman.xlsx",
+      "file": null,
+      "date": "2026-11-12",
+      "messageId": "62552"
+    },
+    "rowId": "kon-000113",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": "2026-11-12",
+      "ref": "telegram:8903509988#62552",
+      "messageId": "62552"
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
