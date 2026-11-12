@@ -5636,6 +5636,42 @@
         "messageId": null
       },
       "rowId": "main-000493"
+    },
+    {
+      "row": 193,
+      "date": "2026-11-12",
+      "sum": 12087.67,
+      "currency": "EUR",
+      "company": "ATB",
+      "color": "FFFFFFFF",
+      "clientName": "Спринт Импорт (Платежи по паспортам)",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "PROFORMA 1435 dd 23.10.2026 (ERS LOGISTIK)",
+        "file": "input-INV_12_087_67_EUR---c19b0555-93af-42fd-8ed8-5f5bd4457a76.pdf",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000494",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "PROFORMA 1435",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
