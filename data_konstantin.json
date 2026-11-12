@@ -882,7 +882,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 12.11.2026 (📨 Константин Просто Группа; файл «286000 CNY Hubei Goman.xlsx») — реквизиты: бенефициар Hubei Goman Heavy Industry Technology Co. Ltd; No.188 Doubu Avenue Hannan District Wuhan China; банк HUBEI BANK CORPORATION LIMITED; NO.86 ZHONGBEI ROAD SHUIGUOHU STREET WUHAN HUBEI P.R.CHINA; SWIFT HBBKCNBNXXX; счёт 10061240000000206; назначение «Additional payment of 65% for spider tower GomanLift X16»; сумма 286 000 CNY (ордер). Плательщик — Q8 (сообщение «Платит Q8»). Расчёт Q8 ждёт курс CNY→USD (FX Q8).",
     "calc": null,
     "sumSource": {
       "source": "order",
