@@ -1043,7 +1043,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 13.11.2026 (📨 Константин Просто Группа, файл «Invoice Altevia 260447.pdf») — INVOICE №260447 от 13.11.2026 (AlteVia OÜ, Reg. 14279017, VAT EE101984656, Haabneeme, Эстония; Coop Pank AS, IBAN EE794204278622781603, BIC EKRDEE22) → покупатель ALTERA LOGISTICS LIMITED (Company number 17015210, International House, 55 Longsmith Street, Gloucester GL1 2HT, UK): «Musical instruments for the invoice 260447», 1 pcs, 30 831,58 EUR, VAT 0%, срок оплаты до 23.11.2026. Компания-плательщик не указана — строка 🔴. | 📄 13.11.2026 (📨 Константин Просто Группа, файл «AlteVia_30_831_58_EUR_260447.xlsx» — платёжная форма): получатель AlteVia OÜ, банк Coop Pank AS (Maakri 30, Tallinn 15014, Estonia, SWIFT EKRDEE22), счёт EE794204278622781603, назначение «Payment for Invoice 260447 dd 13.11.2026», сумма 30 831,58 EUR — та же сделка, что и инвойс выше.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
