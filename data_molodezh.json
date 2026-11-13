@@ -1426,10 +1426,10 @@
     "date": "2026-11-12",
     "sum": 4783.72,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "АО «Фри Лайнс Компани»",
-    "costFormula": null,
+    "costFormula": "4 783,72 + 0,3% + 30",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1437,8 +1437,8 @@
     "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 12.11.2026 (список бухгалтера за 12.11, Scream 19:05) — АО «Фри Лайнс Компани»: две ПП на VDX — ПП №5232 — 399 384,65 ₽ и ПП №5233 — 24 685,35 ₽. Итого 424 070,00 ₽. Документы ПП не получены, маркеры не ставятся. Сумма/валюта сделки — пусто до ордера. | 📄 13.11.2026 (📨 Молодежь · t13924 · 4 783,72 USD Фрилайнс, файл «VDX SERVICES - FZCO.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №5233 от 12.11.2026 (электронно): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274, АО ЮНИКРЕДИТ БАНК, БИК 044525545) → получатель VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555) — 24 685,35 ₽ {VO21100} «оплата вознаграждения согласно поручению №34 от 12.11.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026», НДС не облагается. Это вторая часть строки: sent_rubles_vdx = 399 384,65 / 24 685,35 ₽ (ПП 5232 + 5233) | ПП на VDX №5233 от 12.11.2026 (24 685,35 ₽ — номер из документа ПП)",
+    "sent_usdt": 4828.07,
+    "notes": "📄 12.11.2026 (список бухгалтера за 12.11, Scream 19:05) — АО «Фри Лайнс Компани»: две ПП на VDX — ПП №5232 — 399 384,65 ₽ и ПП №5233 — 24 685,35 ₽. Итого 424 070,00 ₽. Документы ПП не получены, маркеры не ставятся. Сумма/валюта сделки — пусто до ордера. | 📄 13.11.2026 (📨 Молодежь · t13924 · 4 783,72 USD Фрилайнс, файл «VDX SERVICES - FZCO.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №5233 от 12.11.2026 (электронно): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274, АО ЮНИКРЕДИТ БАНК, БИК 044525545) → получатель VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555) — 24 685,35 ₽ {VO21100} «оплата вознаграждения согласно поручению №34 от 12.11.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026», НДС не облагается. Это вторая часть строки: sent_rubles_vdx = 399 384,65 / 24 685,35 ₽ (ПП 5232 + 5233) | ПП на VDX №5233 от 12.11.2026 (24 685,35 ₽ — номер из документа ПП) | 📄 13.11.2026 (📨 Молодежь · t13924 · 4 783,72 USD Фрилайнс, файл «payment order 5.docx») — PAYMENT ORDER от 13.11.2026: получатель KMP FREIGHT PRIVATE LIMITED (Plot No 23A, 2nd Main Road, Ramachandra Nagar, Gerugambakkam, Chennai, Tamil Nadu 600122, India), HDFC BANK (First Floor, No 10, Arcot Road, Lakshmi Nagar, Chennai 600116, Tamil Nadu), счёт 50200056837301 (USD), SWIFT HDFCINBBCHE; USD 4 783,72; назначение «Payment for transport service under invoice number 1118266471002744 dd 2026-10-13»; условие «100% afterpayment». Поручение подтверждает сумму и получателя строки | 📄 13.11.2026 (переслано Alex @KL1M3NT, файл «СЧЕТ КМП долл (002).pdf») — INVOICE / DEBIT NOTE KMP FREIGHT PRIVATE LIMITED (Plot No 23A, 2nd Main Road, Ramachandra Nagar, Gerugambakkam, Chennai, Tamil Nadu 600122, India): Invoice No 1118266471002744 от 13-OCT-2026, Payment Due Date 13-OCT-2026, IRN e7db0790715be127bdfceb2a9a80b77a/a22e55d70e239a563213eae7f48e927b, Job Number AEF-261064710010-1 от 02-OCT-2026, note «EXPORT OF SERVICES — LUT ARN # AD330325188965M»; Agent: Q8 GROUP LIMITED (Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Kowloon, HK). Состав: Transport service — USD 4 783,72; Total in USD 4 783,72. Банк: HDFC BANK, A/C 50200056837301 (USD), First Floor, No 10, Arcot Road, Lakshmi Nagar, Chennai 600116, SWIFT HDFCINBBCHE. Компания строки Q8 GROUP LIMITED по документу (плательщик/агент), себестоимость — формула Q8",
     "calc": null,
     "sumSource": {
       "source": "pp",
@@ -1447,7 +1447,15 @@
       "date": null,
       "messageId": "input-VDX_SERVICES_-_FZCO---257bf279-7f38-45ed-bb93-71ab3c67f591.pdf"
     },
-    "rowId": "mol-000265"
+    "rowId": "mol-000265",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "1118266471002744",
+      "file": "СЧЕТ КМП долл (002).pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 46,
