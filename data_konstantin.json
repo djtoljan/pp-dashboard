@@ -56,7 +56,7 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "costSource": "не подтверждено оператором",
+    "costSource": "payout",
     "costSourceRef": {
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
@@ -328,7 +328,7 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "costSource": "operator",
+    "costSource": "payout",
     "costSourceRef": {
       "ref": "восстановление себестоимости (Scream 10.11.2026: себестоимость не перезаписывать приходной формулой)",
       "date": "2026-11-10"
@@ -396,7 +396,8 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "payout"
   },
   {
     "row": 13,
@@ -468,7 +469,8 @@
       "file": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "payout"
   },
   {
     "row": 15,
@@ -596,7 +598,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "(125 000,00 + 65) / 0,9965 = 125 504 USDT (Q8 baxs)",
+    "costFormula": "факт по выплате, txid 70ec66549faf3be26a1c0c935c6daad3de97106b25de41cfb64731c08588ddc8 = 125504.00 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -605,7 +607,7 @@
     "vdx_rate": null,
     "received_usdt": 125687.5,
     "sent_usdt": 125504,
-    "notes": "📄 10.11.2026 (📨 Константин Просто Группа; файлы «INV_2026_03195_EN.pdf» и «125 000.00 USD (10.11.2026).xlsx») — TAX INVOICE INV/2026/03195 от 29.09.2026 (Karam Al Arab General Trading LLC, Шарджа, ОАЭ; VAT 104695189100003) → Q8 Group Limited (Room A22 10/F, No.52 Hung To Road, Kwun Tong, HK): Assorted Perfumes 4 800 шт × 26.041666 = 125 000.00 USD, 100% advance, HS 3303.00; оплата по Tax Invoice INV/2026/03195. Банк: National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C, Umm Hurair Branch, Dubai; SWIFT NRAKAEAK; IBAN AE94 0400 0000 3337 3687 0002 (счёт 0333736870002); получатель KARAM AL ARAB GEN. TR. LLC |  | 📄 10.11.2026 (📨 USD; ORDER по INV/2026/03195) — ORDER: плательщик Q8 GROUP LIMITED; получатель KARAM AL ARAB GEN. TR. LLC (Warehouse #5, Industrial Area 11, Sharjah, UAE); National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C, Umm Hurair Branch, Dubai; SWIFT NRAKAEAK; IBAN AE94 0400 0000 3337 3687 0002; PAYMENT FOR INVOICE INV/2026/03195; 125 000.00 USD; HS 3303.00; Assorted Perfumes 4 800 pcs × 26.041666; 100% advance payment | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61706): (125 000 + 65) / 0,9965 = 125 504 USDT | 🛡️ 10.11.2026: движение IN 125687.5 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:18). | 🛡️ 11.11.2026: движение OUT 125504 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:18). | 📄 11.11.2026 (📨 USD, файл «KARAM AL ARAB GEN. TR. LLC-125000USD.pdf») — BAXS PAY Proof of Transfer: Payer Q8 GROUP LIMITED → Beneficiary KARAM AL ARAB GEN. TR. LLC (Warehouse # 5, Industrial Area 1); банк National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C., IBAN AE9404000000333736870002, SWIFT NRAKAEAK; Transaction Amount 125 000,00 USD; Details of Charges OUR; Transaction ID FO2611111130000001; Transaction Status Pending（处理中）; Transaction Date 20261111; Remarks «INV/2026/03195». Сумма совпадает со строкой; статус Pending — не исполнение: строка ⬜→🟡, зелёнку не ставим до Success/Executed. | 🏦 12.11.2026 (📨 USD, файл «125,000.00 USD-KARAM AL ARAB GEN. TR. LLC.pdf») — Proof of Transfer (подтверждение отправки): отправитель Q8 GROUP LIMITED (No.52 Hung To Road, Kwun Tong, KL, HK), получатель KARAM AL ARAB GEN. TR. LLC (Warehouse 5, Industrial Area 11, Sharjah, AE), банк NRAKAEAK, счёт AE9404000000333736870002; Settlement Date/Amount 32A: 12/11/2026 / 125 000,00 USD; назначение «INV/2026/03195»; Transaction Reference PB2611120333000004-1; UETR cd2f5f69-053f-4fbc-91aa-e0220672ac0a. Сумма и инвойс совпадают со строкой; документ информационный (не подтверждает зачисление) — 🟡 сохраняется до исполнения.",
+    "notes": "📄 10.11.2026 (📨 Константин Просто Группа; файлы «INV_2026_03195_EN.pdf» и «125 000.00 USD (10.11.2026).xlsx») — TAX INVOICE INV/2026/03195 от 29.09.2026 (Karam Al Arab General Trading LLC, Шарджа, ОАЭ; VAT 104695189100003) → Q8 Group Limited (Room A22 10/F, No.52 Hung To Road, Kwun Tong, HK): Assorted Perfumes 4 800 шт × 26.041666 = 125 000.00 USD, 100% advance, HS 3303.00; оплата по Tax Invoice INV/2026/03195. Банк: National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C, Umm Hurair Branch, Dubai; SWIFT NRAKAEAK; IBAN AE94 0400 0000 3337 3687 0002 (счёт 0333736870002); получатель KARAM AL ARAB GEN. TR. LLC |  | 📄 10.11.2026 (📨 USD; ORDER по INV/2026/03195) — ORDER: плательщик Q8 GROUP LIMITED; получатель KARAM AL ARAB GEN. TR. LLC (Warehouse #5, Industrial Area 11, Sharjah, UAE); National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C, Umm Hurair Branch, Dubai; SWIFT NRAKAEAK; IBAN AE94 0400 0000 3337 3687 0002; PAYMENT FOR INVOICE INV/2026/03195; 125 000.00 USD; HS 3303.00; Assorted Perfumes 4 800 pcs × 26.041666; 100% advance payment | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61706): (125 000 + 65) / 0,9965 = 125 504 USDT | 🛡️ 10.11.2026: движение IN 125687.5 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:18). | 🛡️ 11.11.2026: движение OUT 125504 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:18). | 📄 11.11.2026 (📨 USD, файл «KARAM AL ARAB GEN. TR. LLC-125000USD.pdf») — BAXS PAY Proof of Transfer: Payer Q8 GROUP LIMITED → Beneficiary KARAM AL ARAB GEN. TR. LLC (Warehouse # 5, Industrial Area 1); банк National Bank of Ras Al Khaimah (RAKBANK) P.J.S.C., IBAN AE9404000000333736870002, SWIFT NRAKAEAK; Transaction Amount 125 000,00 USD; Details of Charges OUR; Transaction ID FO2611111130000001; Transaction Status Pending（处理中）; Transaction Date 20261111; Remarks «INV/2026/03195». Сумма совпадает со строкой; статус Pending — не исполнение: строка ⬜→🟡, зелёнку не ставим до Success/Executed. | 🏦 12.11.2026 (📨 USD, файл «125,000.00 USD-KARAM AL ARAB GEN. TR. LLC.pdf») — Proof of Transfer (подтверждение отправки): отправитель Q8 GROUP LIMITED (No.52 Hung To Road, Kwun Tong, KL, HK), получатель KARAM AL ARAB GEN. TR. LLC (Warehouse 5, Industrial Area 11, Sharjah, AE), банк NRAKAEAK, счёт AE9404000000333736870002; Settlement Date/Amount 32A: 12/11/2026 / 125 000,00 USD; назначение «INV/2026/03195»; Transaction Reference PB2611120333000004-1; UETR cd2f5f69-053f-4fbc-91aa-e0220672ac0a. Сумма и инвойс совпадают со строкой; документ информационный (не подтверждает зачисление) — 🟡 сохраняется до исполнения. | ✏️ 13.11.2026 (payout-link): прежняя формула «(125 000,00 + 65) / 0,9965 = 125 504 USDT (Q8 baxs)» заменена фактом по выплате (70ec66549faf3be26a1c0c935c6daad3de97106b25de41cfb64731c08588ddc8, 125504 USDT) — Scream.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -623,7 +625,7 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "costSource": "operator",
+    "costSource": "payout",
     "costSourceRef": {
       "ref": "owner_instruction, FINIVEST AI msg 61706, 10.11.2026",
       "date": "2026-11-10"
@@ -727,7 +729,8 @@
       "file": "WZK_SPRZET_AND_PASZE_LTD_ATB_Service_Limited_Invoice_4621649.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "payout"
   },
   {
     "row": 22,
@@ -764,7 +767,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "costSource": "payout"
   },
   {
     "row": 23,
@@ -774,7 +778,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "(25 210,00 + 65) / 0,9965 = 25 364 USDT (Winters | BP)",
+    "costFormula": "факт по выплате, txid 449107d48dc5bd2520028cf6dfc4bbcf60acaa389e84928686b2dbd73de4226b = 25364.00 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -783,7 +787,7 @@
     "vdx_rate": null,
     "received_usdt": 25448.66,
     "sent_usdt": 25364,
-    "notes": "📄 11.11.2026 (📨 Константин Просто Группа, файл «25 210 USD (11.11.2026).xlsx» — заявка клиента на платёж): сумма 25 210,00 USD; валюта USD; бенефициар PT ABC WORLD TRADE (Indonesia; Jalan Ratna Nomor 80, Tonja, Denpasar Utara, Kota Denpasar, Bali, 80239); банк Bank Mandiri (Persero), Indonesia, JL. GATOT SUBROTO 36-38, JAKARTA; счёт 1750004922307; SWIFT BMRIIDJA; назначение «invoice N: U221026 dated 22.10.2026»; коррбанк не указан. Бенефициарное владение: Director Putu Alit Setiawati (гражданство Индонезия, 21.01.1972, место рождения Denpasar, адрес Jalan Cokroaminoto/Pucuk Sari 1, Denpasar); деятельность — wholesale trade on fee/contract basis (KBLI 46100), сайт abcworldtrade.com; рег. номер 2905240010663. Соответствует инвойсу U221026 (25 210,00 USD) по этой строке. | 🛡️ 11.11.2026: движение IN 25448.66 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:23). | 🛡️ 12.11.2026: движение OUT 25364 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:23). | Расчёт по сообщению в FINIVEST AI 12.11.2026 | 🏦 12.11.2026 (📨 USD, файл «25,230.00 USD-PT ABC WORLD TRADE.pdf») — Proof of Transfer (BAXS PAY LIMITED, сертификат для справки): Payer Q8 GROUP LIMITED → Payee PT ABC WORLD TRADE (Jalan Ratna Nomor 80, Tonja, Denpasar Utara, Kota Denpasar, Bali), Bank Mandiri (Persero), счёт 1750004922307, BIC BMRIIDJA; Transaction Amount 25 230,00 USD, комиссии SHA; Transaction ID FO2611120907000001; Transaction Status «Pending (处理中)» — платёж в обработке (INITIATED), дата 20261112; назначение «INVOICE U221026». ⚠️ Расхождение с суммой строки: 25 230,00 против 25 210,00 USD (+20,00) — уточнить. Строка ⬜→🟡.",
+    "notes": "📄 11.11.2026 (📨 Константин Просто Группа, файл «25 210 USD (11.11.2026).xlsx» — заявка клиента на платёж): сумма 25 210,00 USD; валюта USD; бенефициар PT ABC WORLD TRADE (Indonesia; Jalan Ratna Nomor 80, Tonja, Denpasar Utara, Kota Denpasar, Bali, 80239); банк Bank Mandiri (Persero), Indonesia, JL. GATOT SUBROTO 36-38, JAKARTA; счёт 1750004922307; SWIFT BMRIIDJA; назначение «invoice N: U221026 dated 22.10.2026»; коррбанк не указан. Бенефициарное владение: Director Putu Alit Setiawati (гражданство Индонезия, 21.01.1972, место рождения Denpasar, адрес Jalan Cokroaminoto/Pucuk Sari 1, Denpasar); деятельность — wholesale trade on fee/contract basis (KBLI 46100), сайт abcworldtrade.com; рег. номер 2905240010663. Соответствует инвойсу U221026 (25 210,00 USD) по этой строке. | 🛡️ 11.11.2026: движение IN 25448.66 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:23). | 🛡️ 12.11.2026: движение OUT 25364 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:23). | Расчёт по сообщению в FINIVEST AI 12.11.2026 | 🏦 12.11.2026 (📨 USD, файл «25,230.00 USD-PT ABC WORLD TRADE.pdf») — Proof of Transfer (BAXS PAY LIMITED, сертификат для справки): Payer Q8 GROUP LIMITED → Payee PT ABC WORLD TRADE (Jalan Ratna Nomor 80, Tonja, Denpasar Utara, Kota Denpasar, Bali), Bank Mandiri (Persero), счёт 1750004922307, BIC BMRIIDJA; Transaction Amount 25 230,00 USD, комиссии SHA; Transaction ID FO2611120907000001; Transaction Status «Pending (处理中)» — платёж в обработке (INITIATED), дата 20261112; назначение «INVOICE U221026». ⚠️ Расхождение с суммой строки: 25 230,00 против 25 210,00 USD (+20,00) — уточнить. Строка ⬜→🟡. | ✏️ 13.11.2026 (payout-link): прежняя формула «(25 210,00 + 65) / 0,9965 = 25 364 USDT (Winters | BP)» заменена фактом по выплате (449107d48dc5bd2520028cf6dfc4bbcf60acaa389e84928686b2dbd73de4226b, 25364 USDT) — Scream.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -800,7 +804,8 @@
       "file": "INV ABC USD  25210-2.docx.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "payout"
   },
   {
     "row": 24,
@@ -893,7 +898,7 @@
     "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "(286 000 / 6,655 + 65) / 0,9965 = 43 191 USDT (CNY-курс 6,655)",
+    "costFormula": "факт по выплате, txid de4af690bce1025ac48e5ae1729b1feaa12a0c1832421a1b4a1bc6c499958231 = 43191.00 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -902,7 +907,7 @@
     "vdx_rate": null,
     "received_usdt": 43642.56,
     "sent_usdt": 43191,
-    "notes": "📄 12.11.2026 (📨 Константин Просто Группа; файл «286000 CNY Hubei Goman.xlsx») — реквизиты: бенефициар Hubei Goman Heavy Industry Technology Co. Ltd; No.188 Doubu Avenue Hannan District Wuhan China; банк HUBEI BANK CORPORATION LIMITED; NO.86 ZHONGBEI ROAD SHUIGUOHU STREET WUHAN HUBEI P.R.CHINA; SWIFT HBBKCNBNXXX; счёт 10061240000000206; назначение «Additional payment of 65% for spider tower GomanLift X16»; сумма 286 000 CNY (ордер). Плательщик — Q8 (сообщение «Платит Q8»). Расчёт Q8 ждёт курс CNY→USD (FX Q8). |  | 📄 13.11.2026 (📨 FINIVEST AI, файл «Invoice Q8G20260819001 Hubei Goman 286000 CNY.pdf») — INVOICE Q8G20260819001 от 19.08.2026: Hubei Goman Heavy Industry Technology Co., Ltd, HUBEI BANK CORPORATION LIMITED (HBBKCNBNXXX), счёт 10061240000000206, 286 000 CNY, «Additional payment of 65% for spider tower GomanLift X16» — тот же ордер, что уже в строке, новая строка не создавалась. |  | 📨 13.11.2026 от C$AI: плательщик Q8 GROUP LIMITED, CNAPS CODE 313521006585 — Hubei Bank Co., Ltd. Wuhan Chegu Branch; осторожно: в ордере номер заказа не указан, реквизиты те же. | Расчёт от C$AI 13.11.2026 | 🛡️ 13.11.2026: движение IN 43642.56 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:26). | 🛡️ 13.11.2026: движение OUT 43191 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:26).",
+    "notes": "📄 12.11.2026 (📨 Константин Просто Группа; файл «286000 CNY Hubei Goman.xlsx») — реквизиты: бенефициар Hubei Goman Heavy Industry Technology Co. Ltd; No.188 Doubu Avenue Hannan District Wuhan China; банк HUBEI BANK CORPORATION LIMITED; NO.86 ZHONGBEI ROAD SHUIGUOHU STREET WUHAN HUBEI P.R.CHINA; SWIFT HBBKCNBNXXX; счёт 10061240000000206; назначение «Additional payment of 65% for spider tower GomanLift X16»; сумма 286 000 CNY (ордер). Плательщик — Q8 (сообщение «Платит Q8»). Расчёт Q8 ждёт курс CNY→USD (FX Q8). |  | 📄 13.11.2026 (📨 FINIVEST AI, файл «Invoice Q8G20260819001 Hubei Goman 286000 CNY.pdf») — INVOICE Q8G20260819001 от 19.08.2026: Hubei Goman Heavy Industry Technology Co., Ltd, HUBEI BANK CORPORATION LIMITED (HBBKCNBNXXX), счёт 10061240000000206, 286 000 CNY, «Additional payment of 65% for spider tower GomanLift X16» — тот же ордер, что уже в строке, новая строка не создавалась. |  | 📨 13.11.2026 от C$AI: плательщик Q8 GROUP LIMITED, CNAPS CODE 313521006585 — Hubei Bank Co., Ltd. Wuhan Chegu Branch; осторожно: в ордере номер заказа не указан, реквизиты те же. | Расчёт от C$AI 13.11.2026 | 🛡️ 13.11.2026: движение IN 43642.56 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:26). | 🛡️ 13.11.2026: движение OUT 43191 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:26). | ✏️ 13.11.2026 (payout-link): прежняя формула «(286 000 / 6,655 + 65) / 0,9965 = 43 191 USDT (CNY-курс 6,655)» заменена фактом по выплате (de4af690bce1025ac48e5ae1729b1feaa12a0c1832421a1b4a1bc6c499958231, 43191 USDT) — Scream.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -919,7 +924,8 @@
       "messageId": "62552"
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "payout"
   },
   {
     "row": 27,
@@ -956,7 +962,7 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "costSource": "не подтверждено оператором",
+    "costSource": "payout",
     "costSourceRef": {
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
@@ -970,7 +976,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "(110 000 + 65) / 0,9965",
+    "costFormula": "факт по выплате, txid 71d784ec6b1fb344c8cdce83da1b71be416d29f2425b0f460ecb16b92d56a22a = 110451.58 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -979,7 +985,7 @@
     "vdx_rate": null,
     "received_usdt": 110608.35,
     "sent_usdt": 110451.58,
-    "notes": "📄 13.11.2026 (📨 Константин Просто Группа, файлы «Invoice_26807234_Jizan_to_Z_Source 2.pdf» и «110 000 USD (13.11.2026).xlsx») — COMMERCIAL INVOICE № 26807234 от 11.11.2026: SELLER JIZAN PERFUMES LLC (Shop No.3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, Dubai, UAE; тел. +971 4 226 8090) → BUYER/BILL TO Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Kowloon, HK; Attn: Fan Jianwei, Director). Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 USD = 169 975,00 USD, VAT 0% (export), TOTAL DUE 169 975,00 USD, 100% advance; remitter must be Z SOURCE LIMITED (DBS Bank (Hong Kong) Ltd, SWIFT DHBKHKHH). Бенефициар: JIZAN PERFUMES LLC, United Arab Bank, Dubai, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, корсчёт The Bank of New York Mellon SWIFT IRVTUS3NXXX, код назначения GDI. Приложенная платёжная форма — на 110 000,00 USD (частичная оплата по тому же инвойсу). Владелец группы спрашивает, кто сможет заплатить вместо Z-source — платёж ещё не назначен, строка ⬜ (заявка) | ⚖️ 13.11.2026 (Scream, msg 62762): платёжная форма на 110 000,00 USD — только форма (поля подписей Agent/Subagent пустые, нет статуса исполнения и номера ПП), факта оплаты нет. Сумма строки предварительно — 169 975,00 USD по инвойсу 26807234 (sumSource=invoice). После подтверждения фактической оплаты (ПП/квитанция): sum = 110 000,00 USD, sumSource=pp, инвойс 169 975,00 — в notes. | 📄 13.11.2026 (📨 Константин Просто Группа, файл «Invoice 26807234 Jizan 169975 USD Q8.pdf») — COMMERCIAL INVOICE № 26807234 от 11.11.2026, версия для Q8: BUYER / BILL TO Q8 GROUP LIMITED (RM A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong), «100% in advance by bank transfer in USD. Remitter must be Q8 GROUP LIMITED». Тот же продавец JIZAN PERFUMES LLC (Dubai, UAE), тот же товар: Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 USD = 169 975,00 USD, VAT 0%, TOTAL DUE 169 975,00 USD. Бенефициар: United Arab Bank, Dubai, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, корсчёт Bank of New York Mellon SWIFT IRVTUS3NXXX, код GDI. Компания строки изменена Z SOURCE → Q8 GROUP LIMITED по инвойсу (источник invoice) | 📄 13.11.2026 (📨 Константин Просто Группа, файл «Invoice 26807234 Jizan 110000 USD Q8.pdf») — перевыпущенный COMMERCIAL INVOICE № 26807234 от 11.11.2026 на Q8: Perfumery products HS 3303.00.00 — 2 200 шт × 50,00 USD = 110 000,00 USD, VAT 0%, TOTAL DUE 110 000,00 USD, 100% advance, remitter Q8 GROUP LIMITED. Бенефициар JIZAN PERFUMES LLC, United Arab Bank, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, код GDI. Сумма строки 169 975 → 110 000 USD по этому инвойсу (sumSource=invoice), расчёт Q8: 110 000 + 0,3% + 30 = 110 360 USDT | 📄 13.11.2026 (📨 USD, ORDER): получатель JIZAN PERFUMES LLC (Shop No.3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, Dubai, UAE), United Arab Bank, Dubai, SWIFT UARBAEAAXXX, счёт AE68 0460 0010 3402 5987 002 (USD), корсчёт The Bank of New York Mellon SWIFT IRVTUS3NXXX; USD 110 000,00; Payer Q8 GROUP LIMITED; назначение «Payment for perfumery products under commercial invoice No. 26807234 dated 11.11.2026, 100% advance», код GDI; HS 3303.00.00. Ордер подтверждает сумму 110 000 и плательщика Q8 | 🛡️ 13.11.2026: движение IN 110608.35 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:28). | 🛡️ 13.11.2026: движение OUT 110451.58 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:28).",
+    "notes": "📄 13.11.2026 (📨 Константин Просто Группа, файлы «Invoice_26807234_Jizan_to_Z_Source 2.pdf» и «110 000 USD (13.11.2026).xlsx») — COMMERCIAL INVOICE № 26807234 от 11.11.2026: SELLER JIZAN PERFUMES LLC (Shop No.3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, Dubai, UAE; тел. +971 4 226 8090) → BUYER/BILL TO Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Kowloon, HK; Attn: Fan Jianwei, Director). Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 USD = 169 975,00 USD, VAT 0% (export), TOTAL DUE 169 975,00 USD, 100% advance; remitter must be Z SOURCE LIMITED (DBS Bank (Hong Kong) Ltd, SWIFT DHBKHKHH). Бенефициар: JIZAN PERFUMES LLC, United Arab Bank, Dubai, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, корсчёт The Bank of New York Mellon SWIFT IRVTUS3NXXX, код назначения GDI. Приложенная платёжная форма — на 110 000,00 USD (частичная оплата по тому же инвойсу). Владелец группы спрашивает, кто сможет заплатить вместо Z-source — платёж ещё не назначен, строка ⬜ (заявка) | ⚖️ 13.11.2026 (Scream, msg 62762): платёжная форма на 110 000,00 USD — только форма (поля подписей Agent/Subagent пустые, нет статуса исполнения и номера ПП), факта оплаты нет. Сумма строки предварительно — 169 975,00 USD по инвойсу 26807234 (sumSource=invoice). После подтверждения фактической оплаты (ПП/квитанция): sum = 110 000,00 USD, sumSource=pp, инвойс 169 975,00 — в notes. | 📄 13.11.2026 (📨 Константин Просто Группа, файл «Invoice 26807234 Jizan 169975 USD Q8.pdf») — COMMERCIAL INVOICE № 26807234 от 11.11.2026, версия для Q8: BUYER / BILL TO Q8 GROUP LIMITED (RM A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong), «100% in advance by bank transfer in USD. Remitter must be Q8 GROUP LIMITED». Тот же продавец JIZAN PERFUMES LLC (Dubai, UAE), тот же товар: Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 USD = 169 975,00 USD, VAT 0%, TOTAL DUE 169 975,00 USD. Бенефициар: United Arab Bank, Dubai, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, корсчёт Bank of New York Mellon SWIFT IRVTUS3NXXX, код GDI. Компания строки изменена Z SOURCE → Q8 GROUP LIMITED по инвойсу (источник invoice) | 📄 13.11.2026 (📨 Константин Просто Группа, файл «Invoice 26807234 Jizan 110000 USD Q8.pdf») — перевыпущенный COMMERCIAL INVOICE № 26807234 от 11.11.2026 на Q8: Perfumery products HS 3303.00.00 — 2 200 шт × 50,00 USD = 110 000,00 USD, VAT 0%, TOTAL DUE 110 000,00 USD, 100% advance, remitter Q8 GROUP LIMITED. Бенефициар JIZAN PERFUMES LLC, United Arab Bank, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, код GDI. Сумма строки 169 975 → 110 000 USD по этому инвойсу (sumSource=invoice), расчёт Q8: 110 000 + 0,3% + 30 = 110 360 USDT | 📄 13.11.2026 (📨 USD, ORDER): получатель JIZAN PERFUMES LLC (Shop No.3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, Dubai, UAE), United Arab Bank, Dubai, SWIFT UARBAEAAXXX, счёт AE68 0460 0010 3402 5987 002 (USD), корсчёт The Bank of New York Mellon SWIFT IRVTUS3NXXX; USD 110 000,00; Payer Q8 GROUP LIMITED; назначение «Payment for perfumery products under commercial invoice No. 26807234 dated 11.11.2026, 100% advance», код GDI; HS 3303.00.00. Ордер подтверждает сумму 110 000 и плательщика Q8 | 🛡️ 13.11.2026: движение IN 110608.35 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:28). | 🛡️ 13.11.2026: движение OUT 110451.58 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:28). | ✏️ 13.11.2026 (payout-link): прежняя формула «(110 000 + 65) / 0,9965» заменена фактом по выплате (71d784ec6b1fb344c8cdce83da1b71be416d29f2425b0f460ecb16b92d56a22a, 110451.58 USDT) — Scream.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -996,7 +1002,8 @@
       "file": "Invoice 26807234 Jizan 169975 USD Q8.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "payout"
   },
   {
     "row": 29,

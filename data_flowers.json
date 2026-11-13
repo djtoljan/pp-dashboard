@@ -51,7 +51,7 @@
     "company": "Q8",
     "color": "FFFFFF00",
     "clientName": "Condor Andino (Цветы)",
-    "costFormula": "(22 320,00 + 65) / 0,9965 = 22 464 USDT",
+    "costFormula": "факт по выплате, txid  = 22464.00 USDT",
     "extra": "📄 04.11.2026 (📨 FINIVEST AI, Scream: «Цветочная заявка», файл «INVOICE 339 Q8 GROUP LIMITED.pdf») — **INVOICE № 339 dd 4/11/2026** (CONDOR ANDINO SAS, NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; тел. 3206668410, Elizabeth Tabares) → BILL TO **Q8 Group Limited** (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): FRESH CUT FLOWERS, pack QB, 5 боксов / 31 886 стеблей, LIGHT PINK PREMIUM, HTS 0603, VR UND 0,7 → **TOTAL USD 22 320,00**. Реквизиты: CONDOR ANDINO SAS, счёт 55700015652, BANCOLOMBIA (CLL 10 # 8-48 La Unión Ant, Col), SWIFT COLOCOBM. Компания Q8 → расчёт Q8.",
     "rubles_received": null,
     "statementRef": null,
@@ -60,7 +60,7 @@
     "vdx_rate": null,
     "received_usdt": 22554,
     "sent_usdt": 22464,
-    "notes": "✏️ 04.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 22 320,00 + 0,3% + 30 = 22 416,96 USDT. | 🛡️ 04.11.2026: движение IN 22554 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:69). | ✏️ 05.11.2026: расчёт Winters BP (06:29 МСК): (22 320 + 65) / 0,9965 = 22 464 USDT | 🛡️ 05.11.2026: движение OUT 22464 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:69).",
+    "notes": "✏️ 04.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 22 320,00 + 0,3% + 30 = 22 416,96 USDT. | 🛡️ 04.11.2026: движение IN 22554 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:69). | ✏️ 05.11.2026: расчёт Winters BP (06:29 МСК): (22 320 + 65) / 0,9965 = 22 464 USDT | 🛡️ 05.11.2026: движение OUT 22464 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:69). | ✏️ 13.11.2026 (payout-link): прежняя формула «(22 320,00 + 65) / 0,9965 = 22 464 USDT» заменена фактом по выплате (, 22464 USDT) — Scream.",
     "calc": null,
     "rowId": "flw-000173",
     "companySource": {
@@ -72,7 +72,7 @@
     },
     "companyProvisional": false,
     "companyVerified": true,
-    "costSource": "operator",
+    "costSource": "payout",
     "costSourceRef": {
       "ref": "owner_instruction, FINIVEST AI msg 60631 Winters BP 05.11.2026, топик FINIVEST AI",
       "date": "2026-11-05"
@@ -107,7 +107,7 @@
     },
     "companyProvisional": false,
     "companyVerified": true,
-    "costSource": "operator",
+    "costSource": "payout",
     "costSourceRef": {
       "source": "operator",
       "ref": "Scream 05.11.2026 Ордера и Расчеты: 60513.58 EUR x 1.0025 + 80 x 1.12322 = 68229.85 USDT",
@@ -328,7 +328,7 @@
     "company": "Q8 JP",
     "color": "FFFFFF00",
     "clientName": "AOA VENTURES (Цветы)",
-    "costFormula": "(26 391 + 65) / 0,9965 = 26 549 USDT",
+    "costFormula": "факт по выплате, txid 722263e203f4a09ca9efc359b182d6f6d56a0fd02e33ce5b6921537891bcde64 = 26549.00 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -337,7 +337,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 26549,
-    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 26 391,00 + 0,3% + 30 = 26 500,17 USDT. | 📄 09.11.2026 (📨 Цветы · файл «AOA VENTURES LTD 26391,32.docx») — платёжные реквизиты к инвойсу 039: Amount 26 391,32 USD (в самом инвойсе TOTAL 26 391,00 — расхождение 0,32); получатель AOA VENTURES LTD, Port Louis, Mauritius; IBAN MU07AFBL2501076818000000027USD, AfrAsia Bank Ltd (Bowen Square 10, Dr Ferriere Street, Port Louis), SWIFT AFBLMUMU; рег. номер 162120; директор Safaraliiev Aleksandr, alexandr.lakshmigroup@gmail.com; расходы перевода не указаны; назначение «For flowers and/ or logistics». Корр. банк Citibank NA, New York, счёт 36889497, SWIFT CITI US 33 (из инвойса). Строка одна; сумма строки — по инвойсу 26 391,00, уточнить у Scream 0,32 при отправке. |  | 📄 09.11.2026 (📨 USD · файл «Invoice 039 AOA Ventures 26391 USD.pdf») — **INVOICE 039 от 08.10.2026**: Q8 Group Limited, CURRENCY USD, TOTAL 26 391,00 USD, назначение PAYMENT FOR FLOWERS; получатель AOA VENTURES LTD (4 Ter Saint George Street, Port Louis, Mauritius), AfrAsia Bank Ltd (Bowen Square 10, Dr Ferriere Street, Port Louis; SWIFT AFBLMUMU), счёт 076818000000027 USD, IBAN MU07AFBL2501076818000000027USD; корр. Citibank NA, New York, счёт 36889497, SWIFT CITIUS33. Совпадает с уже записанным; расхождение 0,32 с docx остаётся на уточнение, строка та же ⬜. | 📐 09.11.2026 (Scream msg 61285): расчёт оператора (сумма + 65) / 0,9965 = 26549 USDT; компания Q8 JP по указанию Scream. | 🛡️ 09.11.2026: движение OUT 26549 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:77). |  | 📄 09.11.2026 (📨 USD, файл «26,391.00 USD-AOA VENTURES LTD.pdf») — платёжный сертификат BAXS PAY LIMITED (BC1510785): 26 421,00 USD (в имени файла 26 391,00), SHA, получатель AOA VENTURES LTD, назначение «PAYMENT FOR INVOICE 039», транзакция FO2611090808000001 от 09.11.2026, статус **Pending (обработка)** — INITIATED, не исполнение.",
+    "notes": "✏️ 09.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 26 391,00 + 0,3% + 30 = 26 500,17 USDT. | 📄 09.11.2026 (📨 Цветы · файл «AOA VENTURES LTD 26391,32.docx») — платёжные реквизиты к инвойсу 039: Amount 26 391,32 USD (в самом инвойсе TOTAL 26 391,00 — расхождение 0,32); получатель AOA VENTURES LTD, Port Louis, Mauritius; IBAN MU07AFBL2501076818000000027USD, AfrAsia Bank Ltd (Bowen Square 10, Dr Ferriere Street, Port Louis), SWIFT AFBLMUMU; рег. номер 162120; директор Safaraliiev Aleksandr, alexandr.lakshmigroup@gmail.com; расходы перевода не указаны; назначение «For flowers and/ or logistics». Корр. банк Citibank NA, New York, счёт 36889497, SWIFT CITI US 33 (из инвойса). Строка одна; сумма строки — по инвойсу 26 391,00, уточнить у Scream 0,32 при отправке. |  | 📄 09.11.2026 (📨 USD · файл «Invoice 039 AOA Ventures 26391 USD.pdf») — **INVOICE 039 от 08.10.2026**: Q8 Group Limited, CURRENCY USD, TOTAL 26 391,00 USD, назначение PAYMENT FOR FLOWERS; получатель AOA VENTURES LTD (4 Ter Saint George Street, Port Louis, Mauritius), AfrAsia Bank Ltd (Bowen Square 10, Dr Ferriere Street, Port Louis; SWIFT AFBLMUMU), счёт 076818000000027 USD, IBAN MU07AFBL2501076818000000027USD; корр. Citibank NA, New York, счёт 36889497, SWIFT CITIUS33. Совпадает с уже записанным; расхождение 0,32 с docx остаётся на уточнение, строка та же ⬜. | 📐 09.11.2026 (Scream msg 61285): расчёт оператора (сумма + 65) / 0,9965 = 26549 USDT; компания Q8 JP по указанию Scream. | 🛡️ 09.11.2026: движение OUT 26549 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:77). |  | 📄 09.11.2026 (📨 USD, файл «26,391.00 USD-AOA VENTURES LTD.pdf») — платёжный сертификат BAXS PAY LIMITED (BC1510785): 26 421,00 USD (в имени файла 26 391,00), SHA, получатель AOA VENTURES LTD, назначение «PAYMENT FOR INVOICE 039», транзакция FO2611090808000001 от 09.11.2026, статус **Pending (обработка)** — INITIATED, не исполнение. | ✏️ 13.11.2026 (payout-link): прежняя формула «(26 391 + 65) / 0,9965 = 26 549 USDT» заменена фактом по выплате (722263e203f4a09ca9efc359b182d6f6d56a0fd02e33ce5b6921537891bcde64, 26549 USDT) — Scream.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -355,7 +355,7 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "costSource": "operator",
+    "costSource": "payout",
     "costSourceRef": {
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
@@ -514,7 +514,7 @@
     "company": "ATB",
     "color": "FFFFFF00",
     "clientName": "Atlantic Avrora (Цветы)",
-    "costFormula": "",
+    "costFormula": "факт по выплате, txid 8209837b72258dc2fe7c876b78a9cde3144811dd8f120527a683fe3a658a1a97 = 80469.47 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -541,7 +541,7 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "costSource": "не подтверждено оператором",
+    "costSource": "payout",
     "costSourceRef": {
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
@@ -555,7 +555,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFF00",
     "clientName": "Dolina Agro (Цветы)",
-    "costFormula": null,
+    "costFormula": "факт по выплате, txid 2cb0639ced8c23b8ab0b745b1f9cae4dede8b2c05cd9efdf0c5e57a4472855f5 = 54126.00 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -581,7 +581,8 @@
       "file": "Dolina_Agro_48000_EUR_11-11-2026.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "payout"
   },
   {
     "row": 19,
@@ -657,7 +658,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFF00",
     "clientName": "GEOFLORA SAS (Цветы)",
-    "costFormula": null,
+    "costFormula": "факт по выплате, txid  = 18128.00 USDT",
     "extra": "📄 11.11.2026 (📨 Цветы, файлы «GEOFLORA_18000_USD_11-11-2026.pdf» + «GEOFLORA SAS 18000.docx») — PROFORMA INVOICE No. 1103 dd 11.11.2026: Cut Flowers 60 000 stems × /bin/zsh,30; invoice to Q8 Group Limited (Hong Kong); получатель GEOFLORA SAS, Km 4 Via Corzo – Bojaca, Colombia; BBVA COLOMBIA, SWIFT GEROCOBB, счёт 00130382000100017184; Wire Transfer.",
     "rubles_received": null,
     "statementRef": null,
@@ -684,7 +685,8 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "costSource": "payout"
   },
   {
     "row": 23,

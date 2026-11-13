@@ -28,7 +28,7 @@
       },
       "companyProvisional": true,
       "companyVerified": false,
-      "costSource": "не подтверждено оператором",
+      "costSource": "payout",
       "costSourceRef": {
         "ref": "telegram:7206154434#62929",
         "date": "2026-11-13"
@@ -135,7 +135,7 @@
       "company": "Lok KEE",
       "color": "FFFFFF00",
       "clientName": "ООО «А-РГО»",
-      "costFormula": "(15 947,02 + 65) / 0,9965 = 16 068,00 USDT",
+      "costFormula": "факт по выплате, txid 2b450ed087973237625c55f318a27661b368de154720a5b75a4415b027635250 = 16068.00 USDT",
       "extra": null,
       "rubles_received": "1296652.19 / 19449.78",
       "statementRef": null,
@@ -144,7 +144,7 @@
       "vdx_rate": 82.4,
       "received_usdt": 15860.48,
       "sent_usdt": 16068,
-      "notes": "ПП на VDX №245 от 06.11.2026 (1 308 212,01 ₽ — номер из документа ПП) | 📄 03.11.2026 (📨 ООО А-РГО/ Fininvest/ЭТБ, файл «Поручение_№5_А_РГО_от_03_11_2026_на_проверку.docx») — ПОРУЧЕНИЕ №5 от 03.11.2026 (Transfer request), принципал ООО «А-РГО» (LLC A-RGO): платёж 15 947,02 USD получателю CARDIMED ASIA MEDIKAL SANAYI VE TICARET LIMITED ŞIRKETI (Cevizli Mah. Tansel Cad. No 12-18, Maltepe / İstanbul), банк AKBANK T.A.Ş., IBAN TR200004601379001000145288, SWIFT AKBKTRIS; назначение «(VO11100) Advance payment for Invoice №2026-11535 from 28.10.2026 by the Sale Purchase Agreement №1/2026 from 22/01/2026 for medical goods (P0103)». | 📄 03.11.2026 (📨 тот же чат, файл «Invoice 28.10.26 USD.pdf») — INVOICE 2026-11535 от 28.10.2026: CARDIMED ASIA → LLC A-RGO (Obninsk), 9 позиций медтоваров, Items net 15 947,02 USD, VAT 0%. Инвойс + поручение совпадают по сумме. | 📄 03.11.2026 (📨 ООО А-РГО/ Fininvest/ЭТБ, файл «Поручение_№5_А_РГО_от_03_11_2026_на_проверку.pdf» — текстовый слой) — та же ПОРУЧЕНИЕ №5 от 03.11.2026, принципал ООО «А-РГО» → агент ОсОО «Блэкшарк Трейд» (приложение №1 к агентскому договору №3/04 от 13.04.2026), платёж 15 947,02 USD по инвойсу №2026-11535 от 28.10.2026, получатель CARDIMED ASIA MEDIKAL (AKBANK, IBAN TR200004601379001000145288, SWIFT AKBKTRIS). Новое в PDF: курс конвертации 81,31; сумма к перечислению 1 296 652,19 ₽; комиссия агента 1,5% = 19 449,78 ₽; срок 2–3 банковских дня. | 🏦 03.11.2026 выписка ЭТБ счёт 40807810200000034895 ОсОО Блэкшарк Трейд за 03.11-05.11.2026: ДЕБЕТ ПП №175 от 03.11.2026 — 1 296 652.19 рублей получателю ООО А-РГО ИНН 4025462526 — оплата по поручению №5 по АД №3/04 от 13.04.2026 по инвойсу 2026-11535 за поставку медицинских изделий. ДЕБЕТ ПП №176 от 03.11.2026 — 19 449.78 рублей — оплата по поручению №5 за услуги агента. rubles_received = 1 296 652.19 / 19 449.78. | 📄 06.11.2026 (📨 Ордера и Расчеты, «Payment from ❗️», файл «INV 15 947,02 USD.pdf») — ордер: бенефициар CARDIMED Asia Medikal (Stationsplein 8-RP, 6221 BT Maastricht, Netherlands), AKBANK T.A.S. (Maltepe E-5, Istanbul), SWIFT AKBKTRIS, счёт TR200004601379001000145288, назначение «INVOICE 2026-11535 dd 28.10.26», USD 15 947,02, условия OUR. Сумма совпала со строкой; компания проставлена по инвойсу CARDIMED Asia Medikal (в сообщении имя плательщика не указано — «Payment from ❗️»), sumSource=order; расчёт не ставился — компания не из Q8/PQ18/Z SOURCE. | 📄 06.11.2026 (📨 Ордера и Расчеты, «Payment from Lok KEE❗️», файл «INV 15 947,02 USD.pdf») — плательщик Lok KEE (назван в сообщении), бенефициар CARDIMED Asia Medikal (Stationsplein 8-RP, Maastricht), AKBANK T.A.S., SWIFT AKBKTRIS, счёт TR200004601379001000145288, назначение «INVOICE 2026-11535 dd 28.10.26», USD 15 947,02, условия OUR. Компания проставлена Lok KEE по плательщику (order) — прежняя привязка по инвойсу снята. | 💸 06.11.2026 (📨 Отправки рублей ПП.: «с Блэкшарк Энерготранс на ВиДиИкс», заявка 879, ООО «А-РГО») — отправка рублей на VDX 1 308 212,01 ₽ за медицинские изделия (папка «вход 03.11.26»); sent_rubles_vdx и маршрут VDX проставлены. |  | 📄 08.11.2026 (📨 ООО А-РГО/ Fininvest/ЭТБ, файл «payment-175.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №175 от 03.11.2026 ИСПОЛНЕНО (МОСКОВСКИЙ ФКБ «ЭНЕРГОТРАНСБАНК» (АО), БИК 044525227, ЭП Рухадзе Георгий Отарович): плательщик ООО «А-РГО» (ИНН 4025462526, счёт 40702810300000035682) → получатель ОсОО «Блэкшарк Трейд» (ИНН 9909705614, счёт 40807810200000034895), 1 296 652,19 ₽ {VO11100} оплата по поручению №5 от 03.11.2026 по АД №3/04 от 13.04.2026 по инвойсу 2026-11535 от 28.10.2026 за поставку медицинских изделий (P0103). Подтверждает приход (тело) rubles_received 1 296 652.19 — сумма уже учтена по выписке ЭТБ, дубля нет. | 📄 09.11.2026 (📨 Ордера и Расчеты !) — расчёт прислан: (15 947,02 USD + 65)/0,9965 = 16 068 USDT; адрес кошелька получателя TLGt1JTFcYNkaftfQd8g9toEpVePf7X6BB. Q9/леджер не записывал — это план перевода, подтверждения движения (txid/Bobr) нет. | 🛡️ 09.11.2026: движение OUT 16068 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:140). | 🏦 12.11.2026 (📨 Платежные Поручения, файл «15,967.02 USD-CARDIMED Asia Medikal.pdf») — банковский статус перевода: транзакция FO2611120631000002 от 12.11.2026 (20261112), сумма 15 967,02 USD, комиссии SHA, статус «Pending (处理中)» — платёж в обработке (INITIATED, не исполнен); получатель CARDIMED ASIA MEDIKAL SANAYI VE TICARET LIMITED ŞIRKETI (Cevizli Mah. Tansel Cad. No 12-18 Bulut Plaza D 32-33-34, Maltepe/İstanbul), назначение «INVOICE 2026-11535 dd 28.10.26». ⚠️ Расхождение с суммой строки: 15 967,02 против 15 947,02 USD (+20,00) — уточнить; строка ⬜→🟡.",
+      "notes": "ПП на VDX №245 от 06.11.2026 (1 308 212,01 ₽ — номер из документа ПП) | 📄 03.11.2026 (📨 ООО А-РГО/ Fininvest/ЭТБ, файл «Поручение_№5_А_РГО_от_03_11_2026_на_проверку.docx») — ПОРУЧЕНИЕ №5 от 03.11.2026 (Transfer request), принципал ООО «А-РГО» (LLC A-RGO): платёж 15 947,02 USD получателю CARDIMED ASIA MEDIKAL SANAYI VE TICARET LIMITED ŞIRKETI (Cevizli Mah. Tansel Cad. No 12-18, Maltepe / İstanbul), банк AKBANK T.A.Ş., IBAN TR200004601379001000145288, SWIFT AKBKTRIS; назначение «(VO11100) Advance payment for Invoice №2026-11535 from 28.10.2026 by the Sale Purchase Agreement №1/2026 from 22/01/2026 for medical goods (P0103)». | 📄 03.11.2026 (📨 тот же чат, файл «Invoice 28.10.26 USD.pdf») — INVOICE 2026-11535 от 28.10.2026: CARDIMED ASIA → LLC A-RGO (Obninsk), 9 позиций медтоваров, Items net 15 947,02 USD, VAT 0%. Инвойс + поручение совпадают по сумме. | 📄 03.11.2026 (📨 ООО А-РГО/ Fininvest/ЭТБ, файл «Поручение_№5_А_РГО_от_03_11_2026_на_проверку.pdf» — текстовый слой) — та же ПОРУЧЕНИЕ №5 от 03.11.2026, принципал ООО «А-РГО» → агент ОсОО «Блэкшарк Трейд» (приложение №1 к агентскому договору №3/04 от 13.04.2026), платёж 15 947,02 USD по инвойсу №2026-11535 от 28.10.2026, получатель CARDIMED ASIA MEDIKAL (AKBANK, IBAN TR200004601379001000145288, SWIFT AKBKTRIS). Новое в PDF: курс конвертации 81,31; сумма к перечислению 1 296 652,19 ₽; комиссия агента 1,5% = 19 449,78 ₽; срок 2–3 банковских дня. | 🏦 03.11.2026 выписка ЭТБ счёт 40807810200000034895 ОсОО Блэкшарк Трейд за 03.11-05.11.2026: ДЕБЕТ ПП №175 от 03.11.2026 — 1 296 652.19 рублей получателю ООО А-РГО ИНН 4025462526 — оплата по поручению №5 по АД №3/04 от 13.04.2026 по инвойсу 2026-11535 за поставку медицинских изделий. ДЕБЕТ ПП №176 от 03.11.2026 — 19 449.78 рублей — оплата по поручению №5 за услуги агента. rubles_received = 1 296 652.19 / 19 449.78. | 📄 06.11.2026 (📨 Ордера и Расчеты, «Payment from ❗️», файл «INV 15 947,02 USD.pdf») — ордер: бенефициар CARDIMED Asia Medikal (Stationsplein 8-RP, 6221 BT Maastricht, Netherlands), AKBANK T.A.S. (Maltepe E-5, Istanbul), SWIFT AKBKTRIS, счёт TR200004601379001000145288, назначение «INVOICE 2026-11535 dd 28.10.26», USD 15 947,02, условия OUR. Сумма совпала со строкой; компания проставлена по инвойсу CARDIMED Asia Medikal (в сообщении имя плательщика не указано — «Payment from ❗️»), sumSource=order; расчёт не ставился — компания не из Q8/PQ18/Z SOURCE. | 📄 06.11.2026 (📨 Ордера и Расчеты, «Payment from Lok KEE❗️», файл «INV 15 947,02 USD.pdf») — плательщик Lok KEE (назван в сообщении), бенефициар CARDIMED Asia Medikal (Stationsplein 8-RP, Maastricht), AKBANK T.A.S., SWIFT AKBKTRIS, счёт TR200004601379001000145288, назначение «INVOICE 2026-11535 dd 28.10.26», USD 15 947,02, условия OUR. Компания проставлена Lok KEE по плательщику (order) — прежняя привязка по инвойсу снята. | 💸 06.11.2026 (📨 Отправки рублей ПП.: «с Блэкшарк Энерготранс на ВиДиИкс», заявка 879, ООО «А-РГО») — отправка рублей на VDX 1 308 212,01 ₽ за медицинские изделия (папка «вход 03.11.26»); sent_rubles_vdx и маршрут VDX проставлены. |  | 📄 08.11.2026 (📨 ООО А-РГО/ Fininvest/ЭТБ, файл «payment-175.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №175 от 03.11.2026 ИСПОЛНЕНО (МОСКОВСКИЙ ФКБ «ЭНЕРГОТРАНСБАНК» (АО), БИК 044525227, ЭП Рухадзе Георгий Отарович): плательщик ООО «А-РГО» (ИНН 4025462526, счёт 40702810300000035682) → получатель ОсОО «Блэкшарк Трейд» (ИНН 9909705614, счёт 40807810200000034895), 1 296 652,19 ₽ {VO11100} оплата по поручению №5 от 03.11.2026 по АД №3/04 от 13.04.2026 по инвойсу 2026-11535 от 28.10.2026 за поставку медицинских изделий (P0103). Подтверждает приход (тело) rubles_received 1 296 652.19 — сумма уже учтена по выписке ЭТБ, дубля нет. | 📄 09.11.2026 (📨 Ордера и Расчеты !) — расчёт прислан: (15 947,02 USD + 65)/0,9965 = 16 068 USDT; адрес кошелька получателя TLGt1JTFcYNkaftfQd8g9toEpVePf7X6BB. Q9/леджер не записывал — это план перевода, подтверждения движения (txid/Bobr) нет. | 🛡️ 09.11.2026: движение OUT 16068 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:140). | 🏦 12.11.2026 (📨 Платежные Поручения, файл «15,967.02 USD-CARDIMED Asia Medikal.pdf») — банковский статус перевода: транзакция FO2611120631000002 от 12.11.2026 (20261112), сумма 15 967,02 USD, комиссии SHA, статус «Pending (处理中)» — платёж в обработке (INITIATED, не исполнен); получатель CARDIMED ASIA MEDIKAL SANAYI VE TICARET LIMITED ŞIRKETI (Cevizli Mah. Tansel Cad. No 12-18 Bulut Plaza D 32-33-34, Maltepe/İstanbul), назначение «INVOICE 2026-11535 dd 28.10.26». ⚠️ Расхождение с суммой строки: 15 967,02 против 15 947,02 USD (+20,00) — уточнить; строка ⬜→🟡. | ✏️ 13.11.2026 (payout-link): прежняя формула «(15 947,02 + 65) / 0,9965 = 16 068,00 USDT» заменена фактом по выплате (2b450ed087973237625c55f318a27661b368de154720a5b75a4415b027635250, 16068 USDT) — Scream.",
       "calc": null,
       "rowId": "main-000423",
       "companySource": {
@@ -160,7 +160,8 @@
         "ref": "Invoice 2026-11535 dd 28.10.26 / Payment from",
         "file": null,
         "date": "2026-11-06"
-      }
+      },
+      "costSource": "payout"
     },
     {
       "row": 7,
@@ -216,7 +217,8 @@
         "ref": "INVOICE 20260416 dd 14.10.26 / Payment from ATB",
         "file": null,
         "date": "2026-11-06"
-      }
+      },
+      "costSource": "payout"
     },
     {
       "row": 9,
@@ -255,7 +257,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(42 601,41 + 65) / 0,9965 = 42 816 USDT (Q8 baxs)",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 42816.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6607, файлы «Поручение 78204.pdf» + «инвойс услуги Би трейд 78204.pdf», заявка 78204) — ПОРУЧЕНИЕ №78204 от 03.11.2026 (ООО ВТС -> БиТрейд Кей Джи): 42 601,41 USD, получатель DENER INOVASYON (GARANTI BANKASI, SWIFT TGBATRIS, счёт TR20 0006 2001 1470 0009 0817 80), Sales Contract ВТС/24/13-12 от 13.12.2024, invoice 268427 от 30.10.2026, курс 81,5800 -> 3 475 423,03 ₽; комиссия агента 1,5% + 100 USD = 739,02 USD (60 289,35 ₽ по инвойсу услуг №78204)",
       "rubles_received": "3475423.03 / 60289.35",
       "statementRef": null,
@@ -264,7 +266,7 @@
       "vdx_rate": 81.6,
       "received_usdt": 43329.81,
       "sent_usdt": 42816,
-      "notes": "ПП на Almeno №180 от 03.11.2026 (3 535 712 38 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 42816 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:144). | 📄 06.11.2026 (📨 ВТС · t6607, файл «ФОРМА_для_реквизитов_на_платеж_78204.docx») — ФОРМА реквизитов к Поручению №78204 от 02.11.2026 (договор А/26-22/05 от 26.05.2022): сумма 42 601,41 USD; получатель DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan OSB 9. Cadde No:1, Melikgazi/Kayseri, Turkey), GARANTİ BANKASI (Kayseri OSB), IBAN TR20 0006 2001 1470 0009 0817 80, SWIFT TGBATRIS; PAYMENT BY INVOICE NO 268427 DD 30/10/2026. Принципал в форме — ООО «СВЕТ» (Криволапов С.И.), а строка числится на ВТС: расхождение клиента, ждёт уточнения. | ✏️ 06.11.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 42 601,41 + 0,3% + 30 = 42 759,21 USDT. | себестоимость = факт движения; формула Q8 даёт 42 759,21 | 📄 06.11.2026 (📨 USD, уточнённые реквизиты по заявке 78204) — плательщик Q8 GROUP LIMITED → DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan OSB 9. Cadde No:1, Melikgazi/Kayseri, Turkey), GARANTI BANKASI Kayseri OSB (Levent Nispetiye Mah., Aytar Cad. No:2, Beşiktaş, İstanbul), SWIFT TGBATRIS, IBAN TR20 0006 2001 1470 0009 0817 80, назначение «PAYMENT FOR INVOICE 268427», USD 42 601,41. Компания проставлена Q8 по плательщику (order). Себестоимость оставлена по факту движения — см. costFormula. | Расчёт Q8 (baxs) от Scream 09.11.2026 | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61627): (42 601,41 + 65) / 0,9965 = 42 816 USDT (Q8 baxs) | 📄 11.11.2026 (📨 USD, файл «42,601_41_USD_DENER_INOVASYON_DIS_TICARET_ENERJI_INSAAT_SANAYI_VE.pdf») — BAXS PAY LIMITED Proof of Transfer: Payer Q8 GROUP LIMITED → Beneficiary DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan Organize Sanayi Bolgesi 9. Cadde No: 01, Melikgazi/Kayseri); банк GARANTI BANKASI, Kayseri OSB Branch, IBAN TR200006200114700009081780, SWIFT TGBATRIS; Transaction Amount 42 621,41 USD; Details of Charges SHA; Transaction ID FO2611110823000003; Transaction Status Pending（处理中）; Transaction Date 20261111; Remarks «PAYMENT FOR INVOICE 268427». Разница с суммой строки +20,00 USD — банковская комиссия SHA (плательщик/получатель делят). Статус Pending — не исполнение: строка ⬜→🟡, зелёнку не ставим до Success/Executed.",
+      "notes": "ПП на Almeno №180 от 03.11.2026 (3 535 712 38 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 42816 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:144). | 📄 06.11.2026 (📨 ВТС · t6607, файл «ФОРМА_для_реквизитов_на_платеж_78204.docx») — ФОРМА реквизитов к Поручению №78204 от 02.11.2026 (договор А/26-22/05 от 26.05.2022): сумма 42 601,41 USD; получатель DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan OSB 9. Cadde No:1, Melikgazi/Kayseri, Turkey), GARANTİ BANKASI (Kayseri OSB), IBAN TR20 0006 2001 1470 0009 0817 80, SWIFT TGBATRIS; PAYMENT BY INVOICE NO 268427 DD 30/10/2026. Принципал в форме — ООО «СВЕТ» (Криволапов С.И.), а строка числится на ВТС: расхождение клиента, ждёт уточнения. | ✏️ 06.11.2026 (set-color): company=Q8 → Q8-расчёт проставлен автоматически, 42 601,41 + 0,3% + 30 = 42 759,21 USDT. | себестоимость = факт движения; формула Q8 даёт 42 759,21 | 📄 06.11.2026 (📨 USD, уточнённые реквизиты по заявке 78204) — плательщик Q8 GROUP LIMITED → DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan OSB 9. Cadde No:1, Melikgazi/Kayseri, Turkey), GARANTI BANKASI Kayseri OSB (Levent Nispetiye Mah., Aytar Cad. No:2, Beşiktaş, İstanbul), SWIFT TGBATRIS, IBAN TR20 0006 2001 1470 0009 0817 80, назначение «PAYMENT FOR INVOICE 268427», USD 42 601,41. Компания проставлена Q8 по плательщику (order). Себестоимость оставлена по факту движения — см. costFormula. | Расчёт Q8 (baxs) от Scream 09.11.2026 | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61627): (42 601,41 + 65) / 0,9965 = 42 816 USDT (Q8 baxs) | 📄 11.11.2026 (📨 USD, файл «42,601_41_USD_DENER_INOVASYON_DIS_TICARET_ENERJI_INSAAT_SANAYI_VE.pdf») — BAXS PAY LIMITED Proof of Transfer: Payer Q8 GROUP LIMITED → Beneficiary DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan Organize Sanayi Bolgesi 9. Cadde No: 01, Melikgazi/Kayseri); банк GARANTI BANKASI, Kayseri OSB Branch, IBAN TR200006200114700009081780, SWIFT TGBATRIS; Transaction Amount 42 621,41 USD; Details of Charges SHA; Transaction ID FO2611110823000003; Transaction Status Pending（处理中）; Transaction Date 20261111; Remarks «PAYMENT FOR INVOICE 268427». Разница с суммой строки +20,00 USD — банковская комиссия SHA (плательщик/получатель делят). Статус Pending — не исполнение: строка ⬜→🟡, зелёнку не ставим до Success/Executed. | ✏️ 13.11.2026 (payout-link): прежняя формула «(42 601,41 + 65) / 0,9965 = 42 816 USDT (Q8 baxs)» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 42816 USDT) — Scream.",
       "calc": "ТЕЗ",
       "rowId": "main-000432",
       "companySource": {
@@ -281,7 +283,7 @@
         "file": null,
         "date": "2026-11-06"
       },
-      "costSource": "operator",
+      "costSource": "payout",
       "costSourceRef": {
         "ref": "owner_instruction, FINIVEST AI msg 61627, 10.11.2026",
         "date": "2026-11-10"
@@ -296,7 +298,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(46 242 + 65) / 0,9965 = 46 470 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 46470.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6623, файл «HBS2610106 (2).pdf», заявка 78178) — PROFORMA INVOICE HBS2610106 от 31.10.2026: YUEQING HOUSE ELECTRIC CO.,LTD (Zhejiang, China) -> Q8 GROUP LIMITED, US 242,00",
       "rubles_received": "3772422.36 / 64744.34",
       "statementRef": null,
@@ -305,7 +307,7 @@
       "vdx_rate": 82.44,
       "received_usdt": 46544.96,
       "sent_usdt": 46470,
-      "notes": "ПП на Almeno №179 от 03.11.2026 (3 837 166 70 ₽ — номер из документа ПП) | ✏️ 03.11.2026 (add-row): company Q8 → Q8-расчёт проставлен автоматически  46 242 00 + 0 3% + 30   46 410 73 USDT. | 🛡️ 06.11.2026: движение OUT 46470 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:145). | 📄 06.11.2026 (📨 USD, файл «46,242.00 USD-YUEQING HOUSE ELECTRIC CO.,LTD.pdf») — квитанция BAXS PAY LIMITED: получатель YUEQING HOUSE ELECTRIC CO., LTD, назначение «PAYMENT FOR INVOICE HBS2610106», 46 242,00 USD, дата 06.11.2026, номер FO2611060859000003, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 46 242,00 + 0,3% + 30 = 46 410,73 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026",
+      "notes": "ПП на Almeno №179 от 03.11.2026 (3 837 166 70 ₽ — номер из документа ПП) | ✏️ 03.11.2026 (add-row): company Q8 → Q8-расчёт проставлен автоматически  46 242 00 + 0 3% + 30   46 410 73 USDT. | 🛡️ 06.11.2026: движение OUT 46470 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:145). | 📄 06.11.2026 (📨 USD, файл «46,242.00 USD-YUEQING HOUSE ELECTRIC CO.,LTD.pdf») — квитанция BAXS PAY LIMITED: получатель YUEQING HOUSE ELECTRIC CO., LTD, назначение «PAYMENT FOR INVOICE HBS2610106», 46 242,00 USD, дата 06.11.2026, номер FO2611060859000003, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 46 242,00 + 0,3% + 30 = 46 410,73 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(46 242 + 65) / 0,9965 = 46 470 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 46470 USDT) — Scream.",
       "calc": "ТЕЗ",
       "rowId": "main-000433",
       "companySource": {
@@ -317,7 +319,8 @@
       "companyProvisional": false,
       "companyVerified": false,
       "calcStale": true,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 12,
@@ -327,7 +330,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(8 100 + 65) / 0,9965 = 8 194 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 8194.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6636, файл «PI261102IB08 2026-11-3 PI to Natalya.pdf», заявка 75562) — PROFORMA INVOICE PI261102IB08: Jiangmen Inbright Lighting Co.,Ltd / HK INBRIGHT LIGHTING CO., LIMITED -> Q8 GROUP LIMITED, 450 pcs, US$ 8 100,00; счёт USD 76212 7341 001",
       "rubles_received": "660798.00 / 18069.97",
       "statementRef": null,
@@ -336,7 +339,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 8194,
-      "notes": " | 🛡️ 06.11.2026: движение OUT 8194 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:146). | 📄 06.11.2026 (📨 USD, файл «8,100.00 USD-HK INBRIGHT LIGHTING CO., LIMITED.pdf») — квитанция BAXS PAY LIMITED: получатель HK INBRIGHT LIGHTING CO., LIMITED, назначение «PAYMENT FOR INVOICE PI261102IB08», 8 100,00 USD, дата 06.11.2026, номер FO2611060853000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 8 100,00 + 0,3% + 30 = 8 154,30 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026",
+      "notes": " | 🛡️ 06.11.2026: движение OUT 8194 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:146). | 📄 06.11.2026 (📨 USD, файл «8,100.00 USD-HK INBRIGHT LIGHTING CO., LIMITED.pdf») — квитанция BAXS PAY LIMITED: получатель HK INBRIGHT LIGHTING CO., LIMITED, назначение «PAYMENT FOR INVOICE PI261102IB08», 8 100,00 USD, дата 06.11.2026, номер FO2611060853000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 8 100,00 + 0,3% + 30 = 8 154,30 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(8 100 + 65) / 0,9965 = 8 194 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 8194 USDT) — Scream.",
       "calc": "ТЕЗ",
       "rowId": "main-000434",
       "companySource": {
@@ -347,7 +350,8 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 13,
@@ -357,7 +361,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(4 037 + 65) / 0,9965 = 4 116 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 4116.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6646, файлы «Поручение 75332.pdf» + «инвойс услуги Би трейд 75332.pdf», заявка 75332) — ПОРУЧЕНИЕ №75332 от 03.11.2026 (ООО ВТС -> БиТрейд Кей Джи): 4 037,50 USD, получатель Guangzhou Tinlee Leather Co., Ltd (BANK OF CHINA GUANGDONG BRANCH, SWIFT bkchcnbj400, счёт 718565384704), Sales Contract 24-07/01 от 24.07.2026, invoice HXX20260826 от 26.08.2026. ⚠️ в поручении курс 85,85, но п.8 329 379,25 ₽ соответствует курсу 81,5800 (как и инвойс услуг на 160,56 USD = 13 098,69 ₽) — курс требует подтверждения",
       "rubles_received": "329379.25 / 13098.69",
       "statementRef": null,
@@ -366,7 +370,7 @@
       "vdx_rate": 81.6,
       "received_usdt": 4197.03,
       "sent_usdt": 4116,
-      "notes": "ПП на Almeno №184 от 03.11.2026 (342 477 94 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 4116 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:147). | 📄 06.11.2026 (📨 USD, файл «4,037.50 USD-Guangzhou Tinlee Leather Co., Ltd..pdf») — квитанция BAXS PAY LIMITED: получатель Guangzhou Tinlee Leather Co., Ltd., назначение «PAYMENT FOR INVOICE HXX20260826», 4 037,50 USD, условия SHA, дата 06.11.2026, номер FO2611060842000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 4 037,50 + 0,3% + 30 = 4 079,61 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026",
+      "notes": "ПП на Almeno №184 от 03.11.2026 (342 477 94 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 4116 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:147). | 📄 06.11.2026 (📨 USD, файл «4,037.50 USD-Guangzhou Tinlee Leather Co., Ltd..pdf») — квитанция BAXS PAY LIMITED: получатель Guangzhou Tinlee Leather Co., Ltd., назначение «PAYMENT FOR INVOICE HXX20260826», 4 037,50 USD, условия SHA, дата 06.11.2026, номер FO2611060842000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 4 037,50 + 0,3% + 30 = 4 079,61 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(4 037 + 65) / 0,9965 = 4 116 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 4116 USDT) — Scream.",
       "calc": "ТЕЗ",
       "rowId": "main-000435",
       "companySource": {
@@ -377,7 +381,8 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 14,
@@ -387,7 +392,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(6 355 + 65) / 0,9965 = 6 443 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 6443.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6650, файл «Invoice for tan water spray-261013 (2) (3).pdf», заявка 77328) — INVOICE PI No. RU40720261013 от 13.10.2026: Guangzhou Baiyun Yanmei Cosmetics Factory -> Q8 GROUP LIMITED (получатель в счете также Itrix, DANNY HUIZINK), tan water spray 30ml, 5000 pcs x 1,271 USD = 6 355,00 USD, условия EXW, полная оплата",
       "rubles_received": "518440.90 / 15934.61",
       "statementRef": null,
@@ -396,7 +401,7 @@
       "vdx_rate": 82.05,
       "received_usdt": 6512.8,
       "sent_usdt": 6443,
-      "notes": "ПП на Almeno №182 от 03.11.2026 (534 375 51 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 6443 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:148). | 📄 06.11.2026 (📨 USD, файл «6,355.00 USD-Guangzhou Baiyun Yanmei Cosmetics Factory.pdf») — квитанция BAXS PAY LIMITED: получатель Guangzhou Baiyun Yanmei Cosmetics Factory, назначение «PAYMENT FOR INVOICE RU40720261013», 6 355,00 USD, дата 06.11.2026, номер FO2611060904000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 6 355,00 + 0,3% + 30 = 6 404,07 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026",
+      "notes": "ПП на Almeno №182 от 03.11.2026 (534 375 51 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 6443 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:148). | 📄 06.11.2026 (📨 USD, файл «6,355.00 USD-Guangzhou Baiyun Yanmei Cosmetics Factory.pdf») — квитанция BAXS PAY LIMITED: получатель Guangzhou Baiyun Yanmei Cosmetics Factory, назначение «PAYMENT FOR INVOICE RU40720261013», 6 355,00 USD, дата 06.11.2026, номер FO2611060904000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 6 355,00 + 0,3% + 30 = 6 404,07 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(6 355 + 65) / 0,9965 = 6 443 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 6443 USDT) — Scream.",
       "calc": "ТЕЗ",
       "rowId": "main-000436",
       "companySource": {
@@ -407,7 +412,8 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 15,
@@ -417,7 +423,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(10 950 + 65) / 0,9965 = 11 054 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 11054.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6658, файл «PI-TF-OA261013-signed (3) (2) (1).pdf», заявка 77326) — PROFORMA INVOICE PI-TF-OA261013 (DECHAAB HONG KONG BUSINESS CO., LIMITED -> Q8 GROUP LIMITED/WTC): tanning foam 5000 pc x 4,38 USD = 21 900,00 USD, оплата 50% депозит = 10 950,00 USD; Taishin International Bank Hong Kong, SWIFT TSIBHKHH, счёт 29000120096653",
       "rubles_received": "893301.00 / 21557.52",
       "statementRef": null,
@@ -426,7 +432,7 @@
       "vdx_rate": 81.64999999999999,
       "received_usdt": 11204.64,
       "sent_usdt": 11054,
-      "notes": "ПП на Almeno №183 от 03.11.2026 (914 858 52 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 11054 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:149). | 📄 06.11.2026 (📨 USD, файл «10,950.00 USD-Taishin International Bank Hong Kong Branch.pdf») — квитанция BAXS PAY LIMITED: получатель Taishin International Bank, Hong Kong Branch, назначение «PAYMENT FOR INVOICE PI-TF-OA261013», 10 950,00 USD, дата 06.11.2026, номер FO2611060910000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 10 950,00 + 0,3% + 30 = 11 012,85 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026",
+      "notes": "ПП на Almeno №183 от 03.11.2026 (914 858 52 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 11054 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:149). | 📄 06.11.2026 (📨 USD, файл «10,950.00 USD-Taishin International Bank Hong Kong Branch.pdf») — квитанция BAXS PAY LIMITED: получатель Taishin International Bank, Hong Kong Branch, назначение «PAYMENT FOR INVOICE PI-TF-OA261013», 10 950,00 USD, дата 06.11.2026, номер FO2611060910000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 10 950,00 + 0,3% + 30 = 11 012,85 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(10 950 + 65) / 0,9965 = 11 054 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 11054 USDT) — Scream.",
       "calc": "ТЕЗ",
       "rowId": "main-000437",
       "companySource": {
@@ -437,7 +443,8 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 16,
@@ -447,7 +454,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(7 920 + 65) / 0,9965 = 8 013 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 8013.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6704, файл «Lip Oil invoice20260803-01.pdf», заявка 74324) — INVOICE по контракту GM20260803-22 от 03.08.2026 (Goodly Cosmetics, Yiwu/Shanghai; покупатель WTC): Lip Oil Rich Red 3000 + Dusty Rose 5000 + Hot Honey 5000 + Clear 3000 = 16 000 pcs x 0,99 USD = 15 840,00 USD; условия 50% депозит / 50% перед отгрузкой; в сделку — депозит 7 920,00 USD, баланс 7 920,00 USD",
       "rubles_received": "646113.60 / 17849.70",
       "statementRef": null,
@@ -456,7 +463,7 @@
       "vdx_rate": 82.05,
       "received_usdt": "8092.18",
       "sent_usdt": 8013,
-      "notes": "ПП на Almeno №185 от 03.11.2026 (663 963 30 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 8013 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:150). | 📄 06.11.2026 (📨 USD, файл «7,920.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20260803-22», 7 920,00 USD, дата 06.11.2026, номер FO2611060944000002, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 7 920,00 + 0,3% + 30 = 7 973,76 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026",
+      "notes": "ПП на Almeno №185 от 03.11.2026 (663 963 30 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 8013 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:150). | 📄 06.11.2026 (📨 USD, файл «7,920.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20260803-22», 7 920,00 USD, дата 06.11.2026, номер FO2611060944000002, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 7 920,00 + 0,3% + 30 = 7 973,76 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(7 920 + 65) / 0,9965 = 8 013 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 8013 USDT) — Scream.",
       "calc": "ТЕЗ",
       "rowId": "main-000440",
       "companySource": {
@@ -467,7 +474,8 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 17,
@@ -477,7 +485,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(13 860 + 65) / 0,9965 = 13 974 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 13974.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6711, файл «Powder invoice20261029 3500pcs (3).pdf», заявка 78036) — INVOICE по контракту GM20260722-01 от 22.07.2026 (Goodly Cosmetics, Yiwu/Shanghai; покупатель WTC): powder, 3500 pcs; 13 860,00 USD; условия EXW, депозит/баланс до отгрузки",
       "rubles_received": "1130698.80 / 25118.48",
       "statementRef": null,
@@ -486,7 +494,7 @@
       "vdx_rate": 81.64999999999999,
       "received_usdt": 14155.75,
       "sent_usdt": 13974,
-      "notes": "ПП на Almeno №186 от 03.11.2026 (1 155 817 28 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 13974 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:151). | 📄 06.11.2026 (📨 USD, файл «13,860.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20260722-01», 13 860,00 USD, дата 06.11.2026, номер FO2611060947000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 13 860,00 + 0,3% + 30 = 13 931,58 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026",
+      "notes": "ПП на Almeno №186 от 03.11.2026 (1 155 817 28 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 13974 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:151). | 📄 06.11.2026 (📨 USD, файл «13,860.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20260722-01», 13 860,00 USD, дата 06.11.2026, номер FO2611060947000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 13 860,00 + 0,3% + 30 = 13 931,58 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(13 860 + 65) / 0,9965 = 13 974 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 13974 USDT) — Scream.",
       "calc": "ТЕЗ",
       "rowId": "main-000441",
       "companySource": {
@@ -497,7 +505,8 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 18,
@@ -507,7 +516,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(7 860 + 65) / 0,9965 = 7 953 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 7953.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t6720, файл «Peptide Balm invoice20261014-02 (1).pdf», заявка 77374) — INVOICE по контракту GM20261014-29 от 14.10.2026 (Goodly Cosmetics, Yiwu/Shanghai; покупатель WTC): Peptide Balm Rose Burt 3000 pcs + Smoothies 3000 pcs x 1,31 USD = 7 860,00 USD (депозит 3 930 / баланс 3 930; 50% депозит, баланс до отгрузки, EXW)",
       "rubles_received": "644913 / 17878.70",
       "statementRef": null,
@@ -516,7 +525,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 7953,
-      "notes": "| 🛡️ 06.11.2026: движение OUT 7953 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:152). | 📄 06.11.2026 (📨 USD, файл «7,860.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20261014-29», 7 860,00 USD, дата 06.11.2026, номер FO2611060949000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 7 860,00 + 0,3% + 30 = 7 913,58 USDT. | 🏦 09.11.2026 (📨 ВТС · t6720; файлы «9909705572_09.11.2026_5051.PDF» и «…5052.PDF») — ПЛАТЁЖНЫЕ ПОРУЧЕНИЯ ИСПОЛНЕНЫ 09.11.2026 (ПАО Сбербанк; ЭП): плательщик ООО «ВТС» (ИНН 7735171132; КПП 772601001; счёт 40702810738000140608) → получатель ООО «БиТрейд Кей Джи» (ИНН 9909705572; КПП 772887001; Филиал «Центральный» Банка ВТБ (ПАО); счёт 40807810525640000008). ПП №5051 — 644 913.00 ₽ {VO11100} оплата товара по договору ВТС/07/04/2026-01 от 07.04.2026; по инвойсу GM20261014-29 от 14.10.2026 (тело). ПП №5052 — 17 878.70 ₽ {VO21100} оплата за посреднические услуги по договору 27062025TК/1 от 24.06.2025; инвойс 77374 от 09.11.2026 (агентское). rubles_received = 644 913.00 / 17 878.70; заявка 77374. | 📄 09.11.2026 (📨 ВТС · t6720; файл «инвойс услуги Би трейд 77374.pdf») — ИНВОЙС №77374 от 09.11.2026 (ООО «БиТрейд Кей Джи» → ООО «ВТС»; договор 27062025TК/1 от 24.06.2025): посреднические услуги по проведению расчётов с иностранным поставщиком; 217.90 USD при курсе 82.0500 = 17 878.70 ₽ — агентское вознаграждение по заявке 77374; совпадает с ПП №5052. | 📄 09.11.2026 (📨 ВТС · t6720; файл «Поручение 77374.pdf») — ПОРУЧЕНИЕ №77374 от 09.11.2026 (Приложение №2 к договору 27062025TК/1 от 24.06.2025; Transfer request No 78374): принципал ООО «ВТС» → ОсОО «БиТрейд Кей Джи»; платёж 7 860.00 USD по инвойсу GM20261014-29 от 14.10.2026; получатель Goodly Cosmetics (Yiwu) Co., Ltd (26/F Tower One, Times Square, 1 Matheson Street, Causeway Bay, HK); банк CITIBANK N.A. HONG KONG BRANCH; SWIFT CITIHKHX; счёт 3996000396176; контракт ВТС/07/04/2026-01 от 07.04.2026; курс 82.0500; сумма в рублях 644 913.00 RUB; комиссия агента 1.5% + 100 USD = 217.90 USD (17 878.70 ₽). | Расчёт Q8 (baxs) от Scream 09.11.2026",
+      "notes": "| 🛡️ 06.11.2026: движение OUT 7953 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:152). | 📄 06.11.2026 (📨 USD, файл «7,860.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20261014-29», 7 860,00 USD, дата 06.11.2026, номер FO2611060949000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 7 860,00 + 0,3% + 30 = 7 913,58 USDT. | 🏦 09.11.2026 (📨 ВТС · t6720; файлы «9909705572_09.11.2026_5051.PDF» и «…5052.PDF») — ПЛАТЁЖНЫЕ ПОРУЧЕНИЯ ИСПОЛНЕНЫ 09.11.2026 (ПАО Сбербанк; ЭП): плательщик ООО «ВТС» (ИНН 7735171132; КПП 772601001; счёт 40702810738000140608) → получатель ООО «БиТрейд Кей Джи» (ИНН 9909705572; КПП 772887001; Филиал «Центральный» Банка ВТБ (ПАО); счёт 40807810525640000008). ПП №5051 — 644 913.00 ₽ {VO11100} оплата товара по договору ВТС/07/04/2026-01 от 07.04.2026; по инвойсу GM20261014-29 от 14.10.2026 (тело). ПП №5052 — 17 878.70 ₽ {VO21100} оплата за посреднические услуги по договору 27062025TК/1 от 24.06.2025; инвойс 77374 от 09.11.2026 (агентское). rubles_received = 644 913.00 / 17 878.70; заявка 77374. | 📄 09.11.2026 (📨 ВТС · t6720; файл «инвойс услуги Би трейд 77374.pdf») — ИНВОЙС №77374 от 09.11.2026 (ООО «БиТрейд Кей Джи» → ООО «ВТС»; договор 27062025TК/1 от 24.06.2025): посреднические услуги по проведению расчётов с иностранным поставщиком; 217.90 USD при курсе 82.0500 = 17 878.70 ₽ — агентское вознаграждение по заявке 77374; совпадает с ПП №5052. | 📄 09.11.2026 (📨 ВТС · t6720; файл «Поручение 77374.pdf») — ПОРУЧЕНИЕ №77374 от 09.11.2026 (Приложение №2 к договору 27062025TК/1 от 24.06.2025; Transfer request No 78374): принципал ООО «ВТС» → ОсОО «БиТрейд Кей Джи»; платёж 7 860.00 USD по инвойсу GM20261014-29 от 14.10.2026; получатель Goodly Cosmetics (Yiwu) Co., Ltd (26/F Tower One, Times Square, 1 Matheson Street, Causeway Bay, HK); банк CITIBANK N.A. HONG KONG BRANCH; SWIFT CITIHKHX; счёт 3996000396176; контракт ВТС/07/04/2026-01 от 07.04.2026; курс 82.0500; сумма в рублях 644 913.00 RUB; комиссия агента 1.5% + 100 USD = 217.90 USD (17 878.70 ₽). | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(7 860 + 65) / 0,9965 = 7 953 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 7953 USDT) — Scream.",
       "calc": "ТЕЗ",
       "rowId": "main-000442",
       "companySource": {
@@ -527,7 +536,8 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 19,
@@ -537,7 +547,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ООО ЕТЕ",
-      "costFormula": "(11 000 + 65) / 0,9965 = 11 104 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 11104.00 USDT",
       "extra": "📄 03.11.2026 (📨 ВТС · t191 «транспорт оплата», файл «AY 080 DO - GG 938 P.pdf») — INVOICE No VCA2026000000376 от 28.10.2026 (CMV LOJISTIK, Merkez Kule, HOPA/ARTVIN, Турция) -> ETE LIMITED LIABILITY COMPANY (117246, Москва, Научный проезд 17, оф.37/15): перевозка TÜRKİYE -> RUSYA (AY 080 DO / GG 938 P), 1 ad, 11 000,00 USD, KDV 0%; итого 897 380,00 ₽ (курс 81,58); оплата на VAKIFLAR BANKASI TR860001500158048023559420, SWIFT TVBATR2AXXX",
       "rubles_received": "897380.00 / 13460.70",
       "statementRef": null,
@@ -546,7 +556,7 @@
       "vdx_rate": 81.64999999999999,
       "received_usdt": 11155.43,
       "sent_usdt": 11104,
-      "notes": "ПП на Almeno №187 от 03.11.2026 (910 840 70 ₽ — номер из документа ПП) | 💳 Платёж по инвойсу VCA2026000000376 (11 000 00 USD в адрес CMV LOJISTIK) исполняется со счёта Q8 GROUP LIMITED (указание Scream 03.11.2026); рублёвая часть 897 380 00 ₽ + комиссия 13 460 70 ₽ поступила от ООО ЕТЕ (ПП 4984/4985). | 🛡️ 06.11.2026: движение OUT 11104 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:153). | 📄 06.11.2026 (📨 USD, файл «11,000_00_USD_CMV_LOJISTIK…pdf») — квитанция BAXS PAY LIMITED: получатель CMV LOJISTIK ULUS. ARS. NAK. ITH. IHR. TURZ. SAN. TIC. LTD., назначение «PAYMENT FOR INVOICE VCA2026000000376», 11 020,00 USD (сумма с комиссией, условия SHA), дата 06.11.2026, номер FO2611060838000003, статус Pending (в обработке). В строке сумма 11 000,00 USD — разница 20,00 это банковская комиссия SHA. Не исполнение — строка 🟡. | Q8-расчёт 09.11.2026 (Scream) | Расчёт Q8 (baxs) от Scream 09.11.2026",
+      "notes": "ПП на Almeno №187 от 03.11.2026 (910 840 70 ₽ — номер из документа ПП) | 💳 Платёж по инвойсу VCA2026000000376 (11 000 00 USD в адрес CMV LOJISTIK) исполняется со счёта Q8 GROUP LIMITED (указание Scream 03.11.2026); рублёвая часть 897 380 00 ₽ + комиссия 13 460 70 ₽ поступила от ООО ЕТЕ (ПП 4984/4985). | 🛡️ 06.11.2026: движение OUT 11104 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:153). | 📄 06.11.2026 (📨 USD, файл «11,000_00_USD_CMV_LOJISTIK…pdf») — квитанция BAXS PAY LIMITED: получатель CMV LOJISTIK ULUS. ARS. NAK. ITH. IHR. TURZ. SAN. TIC. LTD., назначение «PAYMENT FOR INVOICE VCA2026000000376», 11 020,00 USD (сумма с комиссией, условия SHA), дата 06.11.2026, номер FO2611060838000003, статус Pending (в обработке). В строке сумма 11 000,00 USD — разница 20,00 это банковская комиссия SHA. Не исполнение — строка 🟡. | Q8-расчёт 09.11.2026 (Scream) | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(11 000 + 65) / 0,9965 = 11 104 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 11104 USDT) — Scream.",
       "calc": null,
       "rowId": "main-000443",
       "companySource": {
@@ -557,7 +567,8 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 20,
@@ -607,7 +618,8 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "payout"
     },
     {
       "row": 22,
@@ -709,7 +721,7 @@
       "company": "Q8",
       "color": "FFFFFF00",
       "clientName": "ВТС",
-      "costFormula": "(13 505,49 + 65) / 0,9965 = 13 618,00 USDT",
+      "costFormula": "факт по выплате, txid 5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb = 13618.00 USDT",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -718,7 +730,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 13618,
-      "notes": " | 🛡️ 06.11.2026: движение OUT 13618 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:159). | 📄 06.11.2026 (📨 USD, файл «13,505.49 USD-Itrix Co., Ltd..pdf») — квитанция BAXS PAY LIMITED: получатель Itrix Co., Ltd., назначение «PAYMENT FOR INVOICE 78044», 13 505,49 USD, комиссии OUR, дата 06.11.2026, номер FO2611060840000001, статус Pending (в обработке). Не исполнение — строка 🟡.",
+      "notes": " | 🛡️ 06.11.2026: движение OUT 13618 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:159). | 📄 06.11.2026 (📨 USD, файл «13,505.49 USD-Itrix Co., Ltd..pdf») — квитанция BAXS PAY LIMITED: получатель Itrix Co., Ltd., назначение «PAYMENT FOR INVOICE 78044», 13 505,49 USD, комиссии OUR, дата 06.11.2026, номер FO2611060840000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 13.11.2026 (payout-link): прежняя формула «(13 505,49 + 65) / 0,9965 = 13 618,00 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 13618 USDT) — Scream.",
       "calc": null,
       "rowId": "main-000452",
       "companySource": {
@@ -729,7 +741,8 @@
       },
       "companyProvisional": true,
       "companyVerified": false,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 26,
@@ -802,7 +815,8 @@
         "date": null,
         "messageId": "telegram:7206154434#61010"
       },
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "costSource": "payout"
     },
     {
       "row": 28,
@@ -1351,7 +1365,7 @@
       "company": null,
       "color": "FFFF0000",
       "clientName": "Центр Пром-Автомат (Tez Iz)",
-      "costFormula": null,
+      "costFormula": "факт по выплате, txid 6f2b8d10e254a610ee828991ca0dd944428653e3651e5545dd1360a55f9e166f = 152488.00 USDT",
       "extra": null,
       "rubles_received": "11987707.69 / 179815.61 + 511801.32 / 7677.02",
       "statementRef": null,
@@ -1373,7 +1387,8 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 msg 17536 @ 2026-11-13 09:08"
-      }
+      },
+      "costSource": "payout"
     },
     {
       "row": 46,
