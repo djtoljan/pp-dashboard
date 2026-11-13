@@ -936,5 +936,41 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 28,
+    "date": "2026-11-13",
+    "sum": 169975,
+    "currency": "USD",
+    "company": "Z SOURCE",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Commercial Invoice 26807234 от 11.11.2026",
+      "file": "Invoice_26807234_Jizan_to_Z_Source 2.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000118",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "26807234",
+      "file": "Invoice_26807234_Jizan_to_Z_Source 2.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
