@@ -1574,5 +1574,41 @@
       "messageId": null
     },
     "rowId": "mol-000269"
+  },
+  {
+    "row": 49,
+    "date": "2026-11-13",
+    "sum": 6208,
+    "currency": "USD",
+    "company": "-",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": "--doc-ref",
+    "extra": "input-rpp_680_1---d004924d-8879-446c-9897-5d9381f3aec7.pdf",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "ПП №680 от 13.11.2026 — 1 389 262,88 ₽; сделка 6 208 USD по сообщению t13973",
+      "file": "rpp_680 (1).pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000270",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "ПП 680",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
