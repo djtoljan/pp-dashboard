@@ -997,5 +997,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 29,
+    "date": "2026-11-13",
+    "sum": 115000,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "заявка Tanita 115 000,00 EUR, invoice 3510063639",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000119"
   }
 ]
