@@ -1526,5 +1526,33 @@
       "messageId": null
     },
     "rowId": "mol-000268"
+  },
+  {
+    "row": 48,
+    "date": "2026-11-13",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": "--doc-ref",
+    "extra": "input-rpp_681---5688cfd0-89c7-472e-b5cf-177cc99b42e6.pdf",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "ПП №681 от 13.11.2026: 634 714,61 ₽ (инв. PRM-080/PRM-081)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000269"
   }
 ]
