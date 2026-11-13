@@ -1580,7 +1580,11 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000491"
+      "rowId": "main-000491",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "Scream 13.11.2026: курс 82,99 (таблица Scream 12.11) — часть ПП №196 2 577 369,32 + 31 056,38 USDT"
+      }
     },
     {
       "row": 54,
@@ -1771,7 +1775,7 @@
       "statementRef": null,
       "sent_rubles_vdx": "3246919.43",
       "exchange_to": "Almeno",
-      "vdx_rate": 82.99,
+      "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
       "notes": "📄 12.11.2026 (📨 ВТС · t7294 · файлы «инвойс услуги Би трейд 74522.pdf» и «Поручение 74522.pdf») — ПОРУЧЕНИЕ №74522 от 12.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → получатель GZP TRADING CO. LTD (Room 4 16th Floor Goodview Commercial Center 2-16 Garden Street Mong Kok Hong Kong); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK; SWIFT CZCBCN2X; счёт NRA15602002010590034271; банк YIWULEYUAN EAST JIANGBIN RD YIWU ZHEJIANG CHINA; назначение «PAYMENT BY PROFORMA INVOICE NO: 74522 DATE: 14.08.2026»; курс 82.9900; сумма к перечислению 3 195 685.14 RUB; комиссия агента 1.5% + 100 USD. Инвойс услуг БиТрейд 74522 от 12.11.2026 — 677.60 USD = 56 234.28 RUB (посреднические услуги по курсу 82.9900). | 📄 12.11.2026 (📨 ВТС · t7294, файл «INV № 74522 от 14.08.26 new.xlsx») — COMMERCIAL INVOICE CI №74522 от 14.08.2026: продавец GZP TRADING CO. LTD (Room 4, 16th Floor, Goodview Commercial Center, 2-16 Garden Street, Mong Kok, Hong Kong) → покупатель LLC «WTC» / ООО «ВТС»; Sales Contract №13-08/2026 от 13.08.2026; товар — DIXEL переходные рамки и линзы (заказ 5D-42); итог 38 506.87 USD. | 📄 12.11.2026 (📨 USD, файл «Invoice 74522 GZP TRADING 38506.87 USD.pdf») — вторая версия коммерческого инвойса CI №74522 от 14.08.2026, в ней покупатель указан Q8 GROUP LIMITED (RM A22, 10/F, NO. 2, Hung To Road, Kwun Tong, Hong Kong), продавец GZP TRADING CO. LTD; товар — DIXEL переходные рамки/линзы (заказ 5D-42). Ранее получена версия того же CI 74522 на LLC «WTC»/ООО «ВТС» — сумма и номер совпадают, сделка та же (строка не дублируется). | 🔗 2026-11-13 (Scream: «Scream 13.11.2026: r59 (ПП 74522) и r63 (ПП №200 на Almeno) — одна сделка ВТС») — строки 63 объединены с этой: sum = 38506.87 USD; rubles_received = 3195685.14 / 56234.28; sent_rubles_vdx = 3246919.43; цвет = 🔴 (row 59 (выжившая), понижение запрещено). Полные notes прежних строк — в Main.removed-rows_59-63_2026-11-13.json. | | ПП на Almeno №200 от 12.11.2026 (3 246 919,43 ₽ — номер из документа ПП) — по этой части сделки (тело 3 195 685,14 + услуги БиТрейд 56 234,28). | 📄 13.11.2026 (📨 USD, файл «38,506.87 USD-GZP TRADING CO., LTD.pdf») — PROOF OF TRANSFER: Payer Q8 GROUP LIMITED → Payee GZP TRADING CO., LTD (Room 4, 16th Floor, Goodview Commercial Center, 2-16 Garden Street), ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт NRA15602002010590034271, BIC CZCBCN2X; Transaction Amount 38 506,87 USD; Details of Charges OUR; Transaction ID FO2611130935000001; Transaction Date 20261113; Remarks «PAYMENT FOR INVOICE 74522»; статус **Pending (处理中)** — платёж отправлен, но НЕ исполнен → 🟡 (не 🟢). Плательщик по документу — Q8 GROUP LIMITED (компания строки) | 📄 13.11.2026 (📨 ВТС · t7294 · 38 506,87 USD / заявка 74522, файл «357_38,506.87 USD-GZP TRADING CO., LTD.pdf») — та же платёжная печать (копия 357, BAXS PAY LIMITED): Q8 GROUP LIMITED → GZP TRADING CO., LTD, 38 506,87 USD, Transaction ID FO2611130935000001, Transaction Status Pending (处理中), Remarks «PAYMENT FOR INVOICE 74522» — повод заявки 74522. Дубликат — цвет не меняется, остаётся 🟡 до исполнения",
@@ -1784,10 +1788,7 @@
         "messageId": "Поручение 74522.pdf"
       },
       "rowId": "main-000498",
-      "vdxRateSource": {
-        "kind": "scream-order",
-        "ref": "telegram:7206154434 msg 17545 @ 2026-11-13 09:16"
-      },
+      "vdxRateSource": null,
       "companySource": {
         "source": "foreign_pp",
         "file": "38",
@@ -1956,7 +1957,7 @@
       "company": "-",
       "color": "FFFFFFFF",
       "clientName": "ООО ВТС",
-      "costFormula": "--doc-ref",
+      "costFormula": "",
       "extra": "input-инвойс_услуги_Би_трейд_78494---a8750991-dbb4-41d1-b0a6-cd033aaef614.pdf",
       "rubles_received": null,
       "statementRef": null,
@@ -1965,7 +1966,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 13.11.2026 (📨 ВТС · t7370 · 17 336,00 USD / заявка 78494, файл «инвойс услуги Би трейд 78494.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78494 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001, Москва, Новоданиловская наб. 4А); посреднические услуги по расчётам с иностранным поставщиком — 360,04 USD = 29 876,23 ₽ (курс USD 82,9803), ИТОГО 360,04 USD / 29 876,23 ₽. Сумма сделки 17 336,00 USD — из сообщения t7370, заявка 78494; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7370 · 17 336,00 USD / заявка 78494, файл «Поручение 78494.pdf») — ПОРУЧЕНИЕ №78494 от 13.11.2026 (Приложение №2 к договору на оказание посреднических услуг №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи» (Кыргызская Республика); платёж 17 336,00 USD по инвойсу Order NO GST-R261027; получатель CIXI GUANGSHENGTONG TELECOM EQUIPMENT CO LTD (No112 Weishan North Road, Guanhaiwei West Industrial Zone, Cixi, Ningbo, China), NINGBO CIXI RURAL COOPERATIVE BANK, SWIFT CXBKCN2N, счёт 201000065509383; курс 82,9803; сумма к перечислению 1 438 546,48 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Подписи: Бондарев А.П. / Курьянов А.А.",
       "calc": null,
       "sumSource": {
         "source": "scream",
