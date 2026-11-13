@@ -1286,28 +1286,6 @@
     },
     {
       "row": 44,
-      "date": "2026-11-09",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ООО ЕТЕ",
-      "costFormula": null,
-      "extra": "🏦 приход по выписке ВТБ (БиТрейд) 09.11.2026: ПП №5058 и №5059 от ООО «ЕТЕ» — тело и агентское, зачисление на счёт БиТрейд 40807810525640000008",
-      "rubles_received": "4928613.18 / 73928.84",
-      "statementRef": "VTB_битрейд_09.11.2026_59099.pdf",
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "🏦 приход по выписке: VTB_битрейд_09.11.2026_59099.pdf",
-      "calc": null,
-      "sumSource": null,
-      "rowId": "main-000474"
-    },
-    {
-      "row": 45,
       "date": "2026-11-10",
       "sum": 59596.29,
       "currency": "USD",
@@ -1323,7 +1301,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 10.11.2026 (📨 ВТС · t191; файл «Data Flow invoice 59596.29 USD.xlsx») — INVOICE 72534 от 01.11.2026 (PT INNOVATIVE DATA FLOW; Бали; Bank Mandiri BMRIIDJA; USD счёт 1750003421038): транспортные услуги; TOTAL 59 596.29 USD; due 06.11.2026; плательщик Q8 GROUP LIMITED («перевод от Q8 на Flow») | ПП №5058 от 09.11.2026 ИСПОЛНЕН (ВТБ 15:08): ООО «ЕТЕ» → ООО «БиТрейд Кей Джи» {VO21200} транспортные услуги по Дог. 20-04/2026; инвойс 72534 от 01.11.26; поср. №2026/05/29-1; пор.29 = тело rubles_received (курс 82.70 сходится) | ПП №5059 от 09.11.2026 ИСПОЛНЕН (ВТБ 15:39): ООО «ЕТЕ» → ООО «БиТрейд Кей Джи» {VO21100} посреднические услуги; инв.29 от 09.11.2026; Поручение 29 = агентское rubles_received | 📄 10.11.2026 (📨 ВТС · t191; файл «инвойс услуги Би трейд 893.94.pdf») — ИНВОЙС №29 от 09.11.2026 (ООО «БиТрейд Кей Джи» → ООО «ЕТЕ»; договор 2026/05/29-1): посреднические услуги по расчётам с ин. поставщиком; курс 82.70; 893.94 USD = 73 928.84 ₽ — совпадает с ПП №5059 (агентское) | 📄 10.11.2026 (📨 ВТС · t191; файл «Поручение 29.pdf») — ПОРУЧЕНИЕ №29 от 09.11.2026 ООО «ЕТЕ» → ОсОО «БиТрейд Кей Джи»: платёж 59 596.29 USD в PT INNOVATIVE DATA FLOW (Bank Mandiri BMRIIDJA; счёт 1750003421038 USD); инвойс 72534 от 01.11.2026; TRANSPORT EXPEDITION AGREEMENT 20-04/2026; курс 82.70; к перечислению 4 928 613.18 ₽; комиссия агента 1.5% — сходится со строкой | 📄 10.11.2026 (📨 ВТС · t191; файл «akt 59596.29 USD.pdf») — АКТ ВЫПОЛНЕННЫХ РАБОТ от 05.11.2026 (PT INNOVATIVE DATA FLOW — Экспедитор; ООО «ЕТЕ» — Заказчик; TRANSPORT EXPEDITION AGREEMENT 20-04/2026): заявка 72534 от 01.11.2026; стоимость услуг 59 596.29 USD = ИТОГО | 📄 12.11.2026 (📨 USD, файл «Invoice 72534 DATA FLOW 59596.29 USD.pdf») — INVOICE №723 от 01.11.2026 (due 06.11.2026): продавец PT INNOVATIVE DATA FLOW (Benoa Square, Jalan Bypass I Gusti Ngurah Rai Nomor 21A, Kedonganan Kuta, Badung, Bali 80361; e-mail idfloowmail@gmail.com); bill to Q8 GROUP LIMITED (RM A22, 10/F, NO. 2, Hung To Road, Kwun Tong, Hong Kong); итого по инвойсу — сумма строки. | ✏️ 12.11.2026 (📨 USD, текстовый ордер по Invoice 72534) — beneficiary PT INNOVATIVE DATA FLOW (Benoa Square, Jalan Bypass I Gusti Ngurah Rai Nomor 21A, Kedonganan Kuta, Badung, Bali 80361, Indonesia); банк BANK MANDIRI (Persero) PT (Jl. Uluwatu II No. 112 X, Jimbaran, Badung - Bali, Indonesia), SWIFT BMRIIDJA, счёт 1750003421038; remarks «PAYMENT FOR INVOICE 72534»; payer Q8 GROUP LIMITED. | 📄 13.11.2026 (📨 USD, файл «59,626.29 USD-PT INNOVATIVE DATA FLOW.pdf») — PROOF OF TRANSFER (BAXS PAY LIMITED, BC1510785): Payer Q8 GROUP LIMITED → Payee PT INNOVATIVE DATA FLOW (Benoa Square, Jalan Bypass I Gusti Ngurah Rai 21A), BANK MANDIRI (Persero) PT, счёт 1750003421038, BIC BMRIIDJA; Transaction Amount 59 626,29 USD; Details of Charges SHA; Transaction ID FO2611130933000001; Transaction Date 20261113; Remarks «PAYMENT FOR INVOICE 72534»; статус **Pending (处理中)** — платёж отправлен, но НЕ исполнен → 🟡 (не 🟢). Сумма документа на 30,00 USD больше суммы строки (59 596,29) — банковская комиссия; сумма строки не меняется | 📄 13.11.2026 (📨 ВТС · t191 · транспорт оплата, файл «358_59,626.29 USD-PT INNOVATIVE DATA FLOW.pdf») — та же платёжная печать (копия 358, BAXS PAY LIMITED): Q8 GROUP LIMITED → PT INNOVATIVE DATA FLOW, 59 626,29 USD, Transaction ID FO2611130933000001, Transaction Status Pending (处理中), Remarks «PAYMENT FOR INVOICE 72534». Дубликат — сумма строки 59 596,29 USD не меняется, цвет остаётся 🟡 до исполнения",
+      "notes": "📄 10.11.2026 (📨 ВТС · t191; файл «Data Flow invoice 59596.29 USD.xlsx») — INVOICE 72534 от 01.11.2026 (PT INNOVATIVE DATA FLOW; Бали; Bank Mandiri BMRIIDJA; USD счёт 1750003421038): транспортные услуги; TOTAL 59 596.29 USD; due 06.11.2026; плательщик Q8 GROUP LIMITED («перевод от Q8 на Flow») | ПП №5058 от 09.11.2026 ИСПОЛНЕН (ВТБ 15:08): ООО «ЕТЕ» → ООО «БиТрейд Кей Джи» {VO21200} транспортные услуги по Дог. 20-04/2026; инвойс 72534 от 01.11.26; поср. №2026/05/29-1; пор.29 = тело rubles_received (курс 82.70 сходится) | ПП №5059 от 09.11.2026 ИСПОЛНЕН (ВТБ 15:39): ООО «ЕТЕ» → ООО «БиТрейд Кей Джи» {VO21100} посреднические услуги; инв.29 от 09.11.2026; Поручение 29 = агентское rubles_received | 📄 10.11.2026 (📨 ВТС · t191; файл «инвойс услуги Би трейд 893.94.pdf») — ИНВОЙС №29 от 09.11.2026 (ООО «БиТрейд Кей Джи» → ООО «ЕТЕ»; договор 2026/05/29-1): посреднические услуги по расчётам с ин. поставщиком; курс 82.70; 893.94 USD = 73 928.84 ₽ — совпадает с ПП №5059 (агентское) | 📄 10.11.2026 (📨 ВТС · t191; файл «Поручение 29.pdf») — ПОРУЧЕНИЕ №29 от 09.11.2026 ООО «ЕТЕ» → ОсОО «БиТрейд Кей Джи»: платёж 59 596.29 USD в PT INNOVATIVE DATA FLOW (Bank Mandiri BMRIIDJA; счёт 1750003421038 USD); инвойс 72534 от 01.11.2026; TRANSPORT EXPEDITION AGREEMENT 20-04/2026; курс 82.70; к перечислению 4 928 613.18 ₽; комиссия агента 1.5% — сходится со строкой | 📄 10.11.2026 (📨 ВТС · t191; файл «akt 59596.29 USD.pdf») — АКТ ВЫПОЛНЕННЫХ РАБОТ от 05.11.2026 (PT INNOVATIVE DATA FLOW — Экспедитор; ООО «ЕТЕ» — Заказчик; TRANSPORT EXPEDITION AGREEMENT 20-04/2026): заявка 72534 от 01.11.2026; стоимость услуг 59 596.29 USD = ИТОГО | 📄 12.11.2026 (📨 USD, файл «Invoice 72534 DATA FLOW 59596.29 USD.pdf») — INVOICE №723 от 01.11.2026 (due 06.11.2026): продавец PT INNOVATIVE DATA FLOW (Benoa Square, Jalan Bypass I Gusti Ngurah Rai Nomor 21A, Kedonganan Kuta, Badung, Bali 80361; e-mail idfloowmail@gmail.com); bill to Q8 GROUP LIMITED (RM A22, 10/F, NO. 2, Hung To Road, Kwun Tong, Hong Kong); итого по инвойсу — сумма строки. | ✏️ 12.11.2026 (📨 USD, текстовый ордер по Invoice 72534) — beneficiary PT INNOVATIVE DATA FLOW (Benoa Square, Jalan Bypass I Gusti Ngurah Rai Nomor 21A, Kedonganan Kuta, Badung, Bali 80361, Indonesia); банк BANK MANDIRI (Persero) PT (Jl. Uluwatu II No. 112 X, Jimbaran, Badung - Bali, Indonesia), SWIFT BMRIIDJA, счёт 1750003421038; remarks «PAYMENT FOR INVOICE 72534»; payer Q8 GROUP LIMITED. | 📄 13.11.2026 (📨 USD, файл «59,626.29 USD-PT INNOVATIVE DATA FLOW.pdf») — PROOF OF TRANSFER (BAXS PAY LIMITED, BC1510785): Payer Q8 GROUP LIMITED → Payee PT INNOVATIVE DATA FLOW (Benoa Square, Jalan Bypass I Gusti Ngurah Rai 21A), BANK MANDIRI (Persero) PT, счёт 1750003421038, BIC BMRIIDJA; Transaction Amount 59 626,29 USD; Details of Charges SHA; Transaction ID FO2611130933000001; Transaction Date 20261113; Remarks «PAYMENT FOR INVOICE 72534»; статус **Pending (处理中)** — платёж отправлен, но НЕ исполнен → 🟡 (не 🟢). Сумма документа на 30,00 USD больше суммы строки (59 596,29) — банковская комиссия; сумма строки не меняется | 📄 13.11.2026 (📨 ВТС · t191 · транспорт оплата, файл «358_59,626.29 USD-PT INNOVATIVE DATA FLOW.pdf») — та же платёжная печать (копия 358, BAXS PAY LIMITED): Q8 GROUP LIMITED → PT INNOVATIVE DATA FLOW, 59 626,29 USD, Transaction ID FO2611130933000001, Transaction Status Pending (处理中), Remarks «PAYMENT FOR INVOICE 72534». Дубликат — сумма строки 59 596,29 USD не меняется, цвет остаётся 🟡 до исполнения | 🔗 2026-11-13 (Scream: «Scream 13.11.2026: ЕТЕ r44 — двойной учёт прихода (разноска выписки 09.11 создала строку при существующей сделке r45). Приход один раз в r45, notes и ссылка на выписку ПП 5058/5059 переносятся, r44 удаляется») — строки 44 объединены с этой: sum = 59596.29 USD; rubles_received = 4928613.18 / 73928.84; sent_rubles_vdx = null; цвет = 🟡 (row 45 (выжившая), понижение запрещено). Полные notes прежних строк — в Main.removed-rows_44-45_2026-11-13.json.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -1343,7 +1321,7 @@
       "companyVerified": false
     },
     {
-      "row": 46,
+      "row": 45,
       "date": "2026-11-10",
       "sum": 151420,
       "currency": "USD",
@@ -1375,7 +1353,7 @@
       }
     },
     {
-      "row": 47,
+      "row": 46,
       "date": "2026-11-10",
       "sum": null,
       "currency": null,
@@ -1401,7 +1379,7 @@
       }
     },
     {
-      "row": 48,
+      "row": 47,
       "date": "2026-11-10",
       "sum": 157946.5,
       "currency": "EUR",
@@ -1437,7 +1415,7 @@
       "companyVerified": false
     },
     {
-      "row": 49,
+      "row": 48,
       "date": "2026-11-10",
       "sum": 27216,
       "currency": "EUR",
@@ -1474,7 +1452,7 @@
       "companyVerified": true
     },
     {
-      "row": 50,
+      "row": 49,
       "date": "2026-11-10",
       "sum": 39912.2,
       "currency": "EUR",
@@ -1502,7 +1480,7 @@
       "rowId": "main-000504"
     },
     {
-      "row": 51,
+      "row": 50,
       "date": "2026-11-11",
       "sum": null,
       "currency": null,
@@ -1524,7 +1502,7 @@
       "rowId": "main-000485"
     },
     {
-      "row": 52,
+      "row": 51,
       "date": "2026-11-11",
       "sum": null,
       "currency": null,
@@ -1546,7 +1524,7 @@
       "rowId": "main-000486"
     },
     {
-      "row": 53,
+      "row": 52,
       "date": "2026-11-12",
       "sum": 45648.54,
       "currency": "EUR",
@@ -1583,7 +1561,7 @@
       "companyVerified": true
     },
     {
-      "row": 54,
+      "row": 53,
       "date": "2026-11-12",
       "sum": 2577369.32,
       "currency": "RUB",
@@ -1615,7 +1593,7 @@
       }
     },
     {
-      "row": 55,
+      "row": 54,
       "date": "2026-11-12",
       "sum": 159883,
       "currency": "USD",
@@ -1652,7 +1630,7 @@
       "companyVerified": true
     },
     {
-      "row": 56,
+      "row": 55,
       "date": "2026-11-12",
       "sum": 55985.07,
       "currency": "USD",
@@ -1689,7 +1667,7 @@
       "companyVerified": true
     },
     {
-      "row": 57,
+      "row": 56,
       "date": "2026-11-12",
       "sum": 12087.67,
       "currency": "EUR",
@@ -1730,7 +1708,7 @@
       }
     },
     {
-      "row": 58,
+      "row": 57,
       "date": "2026-11-12",
       "sum": 9589.32,
       "currency": "USD",
@@ -1758,7 +1736,7 @@
       "rowId": "main-000495"
     },
     {
-      "row": 59,
+      "row": 58,
       "date": "2026-11-12",
       "sum": 10087.91,
       "currency": "EUR",
@@ -1795,7 +1773,7 @@
       "companyVerified": true
     },
     {
-      "row": 60,
+      "row": 59,
       "date": "2026-11-12",
       "sum": 38506.87,
       "currency": "USD",
@@ -1833,7 +1811,7 @@
       "companyVerified": true
     },
     {
-      "row": 61,
+      "row": 60,
       "date": "2026-11-12",
       "sum": null,
       "currency": null,
@@ -1855,7 +1833,7 @@
       "rowId": "main-000499"
     },
     {
-      "row": 62,
+      "row": 61,
       "date": "2026-11-12",
       "sum": 1574562.87,
       "currency": "RUB",
@@ -1883,7 +1861,7 @@
       "rowId": "main-000500"
     },
     {
-      "row": 63,
+      "row": 62,
       "date": "2026-11-12",
       "sum": 19111.59,
       "currency": "USD",
@@ -1911,7 +1889,7 @@
       "rowId": "main-000501"
     },
     {
-      "row": 64,
+      "row": 63,
       "date": "2026-11-12",
       "sum": 28381.4,
       "currency": "USD",
@@ -1947,7 +1925,7 @@
       "companyVerified": false
     },
     {
-      "row": 65,
+      "row": 64,
       "date": "2026-11-13",
       "sum": 239962,
       "currency": "USD",
@@ -1988,7 +1966,7 @@
       }
     },
     {
-      "row": 66,
+      "row": 65,
       "date": "2026-11-13",
       "sum": 17336,
       "currency": "USD",
@@ -2024,7 +2002,7 @@
       "companyVerified": false
     },
     {
-      "row": 67,
+      "row": 66,
       "date": "2026-11-13",
       "sum": 15950.22,
       "currency": "USD",
@@ -2040,7 +2018,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «инвойс услуги Би трейд 78496.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78496 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 339,25 USD = 28 151,34 ₽ (курс USD 82,9803), ИТОГО 339,25 USD / 28 151,34 ₽. Сумма сделки 15 950,22 USD — из сообщения t7378, заявка 78496; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ №78496 от 13.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; платёж по инвойсу V20261110001 dd 10/11/2026; получатель HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK), CITIBANK (HONG KONG) LIMITED, SWIFT CITIHKAX, счёт 42775760; курс 82,9803; к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. ⚠️ В поручении в поле суммы напечатано «15 590,22 USD», но сумма в рублях 1 323 554,04 ₽ / 82,9803 = 15 950,22 USD — сумма строки 15 950,22 USD верна, в документе опечатка (перестановка цифр). Сумму не менял | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «COMMERCIAL INVOICE(1).pdf») — COMMERCIAL INVOICE HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK) № V20261110001 от 10Nov2026, BILL TO Q8 GROUP LIMITED (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), Ship To Russia, Novosibirsk; 26 позиций (винты, пружины, SFP DAC shell/cover, кабели 10G DAC 30AWG/24AWG, PCB, упаковка), TOTAL AMOUNT (USD) **15 950,22**. Банк: CITIBANK (HONGKONG) LIMITED, SWIFT CITIHKAX, Account 42775760 (USS A/C), Branch Code 390. ⚠️ В строке «SAY TOTAL» напечатано «twenty two thousand seven hundred fifty nine and cents forty seven» (22 759,47) — расходится с итоговой суммой 15 950,22; сумму строки не менял, плательщик по инвойсу — Q8 GROUP LIMITED | ⏳ ждём расчёт оператора",
+      "notes": "📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «инвойс услуги Би трейд 78496.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78496 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 339,25 USD = 28 151,34 ₽ (курс USD 82,9803), ИТОГО 339,25 USD / 28 151,34 ₽. Сумма сделки 15 950,22 USD — из сообщения t7378, заявка 78496; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ №78496 от 13.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; платёж по инвойсу V20261110001 dd 10/11/2026; получатель HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK), CITIBANK (HONG KONG) LIMITED, SWIFT CITIHKAX, счёт 42775760; курс 82,9803; к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. ⚠️ В поручении в поле суммы напечатано «15 590,22 USD», но сумма в рублях 1 323 554,04 ₽ / 82,9803 = 15 950,22 USD — сумма строки 15 950,22 USD верна, в документе опечатка (перестановка цифр). Сумму не менял | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «COMMERCIAL INVOICE(1).pdf») — COMMERCIAL INVOICE HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK) № V20261110001 от 10Nov2026, BILL TO Q8 GROUP LIMITED (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), Ship To Russia, Novosibirsk; 26 позиций (винты, пружины, SFP DAC shell/cover, кабели 10G DAC 30AWG/24AWG, PCB, упаковка), TOTAL AMOUNT (USD) **15 950,22**. Банк: CITIBANK (HONGKONG) LIMITED, SWIFT CITIHKAX, Account 42775760 (USS A/C), Branch Code 390. ⚠️ В строке «SAY TOTAL» напечатано «twenty two thousand seven hundred fifty nine and cents forty seven» (22 759,47) — расходится с итоговой суммой 15 950,22; сумму строки не менял, плательщик по инвойсу — Q8 GROUP LIMITED | ⏳ ждём расчёт оператора | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ № 78496 от 13.11.2026 (Приложение №2 к договору № 27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи» (Кыргызстан), платёж по инвойсу 78496 от 12.11.2026, получатель Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH, счёт 79807111801; сумма 15 950,22 USD; курс конвертации 82,9803; сумма к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5-10 банковских дней с момента исполнения",
       "calc": null,
       "sumSource": {
         "source": "scream",
@@ -2065,7 +2043,7 @@
       }
     },
     {
-      "row": 68,
+      "row": 67,
       "date": "2026-11-13",
       "sum": null,
       "currency": null,
@@ -2081,7 +2059,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "💸 13.11.2026 (📨 Отправки рублей ПП.: «С БиТрейд на Альмено, сумма 1 468 422,71, оборудование, заявка 45», папка O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 13.11.26_2, ООО ВТС) — отправка рублей на Альмено 1 468 422,71 ₽, маршрут Almeno, заявка 45. Строка создана по этому сообщению (сумма/валюта сделки пока не известны — ждём заявку/ордер)",
+      "notes": "💸 13.11.2026 (📨 Отправки рублей ПП.: «С БиТрейд на Альмено, сумма 1 468 422,71, оборудование, заявка 45», папка O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 13.11.26_2, ООО ВТС) — отправка рублей на Альмено 1 468 422,71 ₽, маршрут Almeno, заявка 45. Строка создана по этому сообщению (сумма/валюта сделки пока не известны — ждём заявку/ордер) | ⚠️ 13.11.2026 (Scream): ПРИХОД НЕ НАЙДЕН — отправка на Альмено 1 468 422,71 ₽ (заявка 45, ООО ВТС) без прихода: ПП/выписки клиента на эту сумму в таблицах нет. Строка держит отправку (иначе сумма пропала бы из отчёта Альмено); в ежедневной сверке — «отправка без прихода» до появления прихода; объединение — только по распоряжению Scream.",
       "calc": null,
       "sumSource": {
         "source": "scream",
