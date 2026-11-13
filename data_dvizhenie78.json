@@ -97,7 +97,7 @@
     "sum": 12750.19,
     "currency": "USD",
     "company": "PQ18",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Оникс (Движение 78)",
     "costFormula": "12 750,19 + 0,3% + 30 = 12 818,44 USDT",
     "extra": null,
