@@ -33,7 +33,7 @@
         "ref": "telegram:7206154434#62929",
         "date": "2026-11-13"
       },
-      "payerSystem": "JP Morgan"
+      "payerSystem": ""
     },
     {
       "row": 2,
@@ -2098,12 +2098,12 @@
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": 8183525.07,
+      "exchange_to": "Almeno",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "💸 13.11.2026 (📨 Отправки рублей ПП.: «С БиТрейд на Альмено, сумма 8 183 525,07, комплектующие, заявка 48», папка O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 13.11.26_4, ООО ВТС) — отправка рублей на Альмено 8 183 525,07 ₽, маршрут Almeno, заявка 48, назначение «комплектующие». Заявки/инвойса по 48 в таблицах нет — строка 🔵, ждём сделку (сумма/валюта с инвойсом/ордером).",
       "calc": null,
       "sumSource": null,
       "rowId": "main-000510"
