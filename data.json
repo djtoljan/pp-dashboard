@@ -2018,10 +2018,10 @@
       "date": "2026-11-13",
       "sum": 15950.22,
       "currency": "USD",
-      "company": "-",
+      "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ВТС",
-      "costFormula": "--doc-ref",
+      "costFormula": "15 950,22 + 0,3% + 30",
       "extra": "input-инвойс_услуги_Би_трейд_78496---eea0373f-cfcd-457d-8f7c-69250c932570.pdf",
       "rubles_received": null,
       "statementRef": null,
@@ -2029,8 +2029,8 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
-      "notes": null,
+      "sent_usdt": 16028.07,
+      "notes": "📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «инвойс услуги Би трейд 78496.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78496 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 339,25 USD = 28 151,34 ₽ (курс USD 82,9803), ИТОГО 339,25 USD / 28 151,34 ₽. Сумма сделки 15 950,22 USD — из сообщения t7378, заявка 78496; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ №78496 от 13.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; платёж по инвойсу V20261110001 dd 10/11/2026; получатель HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK), CITIBANK (HONG KONG) LIMITED, SWIFT CITIHKAX, счёт 42775760; курс 82,9803; к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. ⚠️ В поручении в поле суммы напечатано «15 590,22 USD», но сумма в рублях 1 323 554,04 ₽ / 82,9803 = 15 950,22 USD — сумма строки 15 950,22 USD верна, в документе опечатка (перестановка цифр). Сумму не менял | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «COMMERCIAL INVOICE(1).pdf») — COMMERCIAL INVOICE HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK) № V20261110001 от 10Nov2026, BILL TO Q8 GROUP LIMITED (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), Ship To Russia, Novosibirsk; 26 позиций (винты, пружины, SFP DAC shell/cover, кабели 10G DAC 30AWG/24AWG, PCB, упаковка), TOTAL AMOUNT (USD) **15 950,22**. Банк: CITIBANK (HONGKONG) LIMITED, SWIFT CITIHKAX, Account 42775760 (USS A/C), Branch Code 390. ⚠️ В строке «SAY TOTAL» напечатано «twenty two thousand seven hundred fifty nine and cents forty seven» (22 759,47) — расходится с итоговой суммой 15 950,22; сумму строки не менял, плательщик по инвойсу — Q8 GROUP LIMITED",
       "calc": null,
       "sumSource": {
         "source": "scream",
@@ -2041,12 +2041,12 @@
       },
       "rowId": "main-000507",
       "companySource": {
-        "source": "order",
+        "source": "invoice",
         "date": null,
-        "ref": "78496",
-        "messageId": null
+        "ref": "V20261110001",
+        "file": "COMMERCIAL INVOICE(1).pdf"
       },
-      "companyProvisional": false,
+      "companyProvisional": true,
       "companyVerified": false
     }
   ]
