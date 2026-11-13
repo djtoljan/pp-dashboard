@@ -26,7 +26,8 @@
       "file": null
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "directToExchanger": true
   },
   {
     "row": 2,
@@ -114,7 +115,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "directToExchanger": true
   },
   {
     "row": 5,
@@ -144,7 +146,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "directToExchanger": true
   },
   {
     "row": 6,
@@ -178,7 +181,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, FINIVEST AI msg 60631 Winters BP 05.11.2026, топик FINIVEST AI",
       "date": "2026-11-05"
-    }
+    },
+    "directToExchanger": true
   },
   {
     "row": 7,
@@ -483,7 +487,8 @@
     "costSourceRef": {
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
-    }
+    },
+    "directToExchanger": true
   },
   {
     "row": 17,
@@ -512,7 +517,8 @@
       "file": "input-invoice_ST261015-01---c9ab505a-349b-470c-b166-98f1acf5e18d.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "directToExchanger": true
   },
   {
     "row": 18,
@@ -729,7 +735,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "directToExchanger": true
   },
   {
     "row": 24,
@@ -843,7 +850,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "directToExchanger": true
   },
   {
     "row": 27,
@@ -997,7 +1005,8 @@
     "costSourceRef": {
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
-    }
+    },
+    "directToExchanger": true
   },
   {
     "row": 31,
@@ -1033,7 +1042,8 @@
       "file": "invoice ST261111-01.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "directToExchanger": true
   },
   {
     "row": 32,
@@ -1069,7 +1079,8 @@
       "file": "input-PI_to_PQ18_2026111005---ba9521e7-e38e-4189-b30e-1978254db521.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "directToExchanger": true
   },
   {
     "row": 33,
@@ -1106,7 +1117,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "directToExchanger": true
   },
   {
     "row": 34,
@@ -1134,7 +1146,8 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000255"
+    "rowId": "mol-000255",
+    "directToExchanger": true
   },
   {
     "row": 35,
@@ -1170,7 +1183,8 @@
       "file": "input-19248_USD_INVOICE_BEIYI_INFORMATION_CO._LIMITED_1---561b591c-ec73-4039-b3c2-69f8f86b2198.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "directToExchanger": true
   },
   {
     "row": 36,
@@ -1298,7 +1312,8 @@
       "file": "Invoice_360475_updated.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "directToExchanger": true
   },
   {
     "row": 40,
@@ -1326,7 +1341,8 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000261"
+    "rowId": "mol-000261",
+    "directToExchanger": true
   },
   {
     "row": 41,
@@ -1367,7 +1383,8 @@
     "costSourceRef": {
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
-    }
+    },
+    "directToExchanger": true
   },
   {
     "row": 42,
@@ -1403,7 +1420,8 @@
       "file": "SF_TRN493616_26100874636.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "directToExchanger": true
   },
   {
     "row": 43,
@@ -1425,7 +1443,8 @@
     "notes": "ПП на VDX №5231 от 12.11.2026 (25 192,70 ₽ — номер из документа ПП) | 📄 12.11.2026 (список бухгалтера за 12.11, Scream 19:05) — АО «Фри Лайнс Компани»: две ПП на VDX — ПП №5230 — 424 751,74 ₽ и ПП №5231 — 25 192,70 ₽. Итого 449 944,44 ₽. Документы ПП не получены, маркеры не ставятся. Сумма/валюта сделки — пусто до ордера. | 📄 13.11.2026 (📨 Молодежь · t13924 · 4 783,72 USD Фрилайнс, файл «JS INTERNATIONAL KOREA.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №5230 от 12.11.2026 (электронно): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274, АО ЮНИКРЕДИТ БАНК, БИК 044525545) → VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555) — 424 751,74 ₽ {VO21400} «для перечисления (JS INTERNATIONAL KOREA) Payment under invoice 55580819653SVO dd 2026-10-28, поруч № 33 от 12.11.26 по аген. дог № 09-02-3/26 от 09.02.26», НДС не облагается. Это первая часть строки (ПП 5230 + 5231) | ПП на VDX №5230 от 12.11.2026 (424 751,74 ₽ — номер из документа ПП) | 📄 13.11.2026 (📨 Молодежь · t13924 · 4 783,72 USD Фрилайнс, файл «VDX SERVICES - FZCO (1).pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №5231 от 12.11.2026 (электронно, проведено 12.11.2026): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274, АО ЮНИКРЕДИТ БАНК) → VDX SERVICES - FZCO — 25 192,70 ₽ {VO21100} «оплата вознаграждения согласно поручению № 33 от 12.11.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026». Вторая часть строки (ПП 5230 + 5231 = 424 751,74 / 25 192,70 ₽) | ПП на VDX №5231 от 12.11.2026 (25 192,70 ₽ — номер из документа ПП)",
     "calc": null,
     "sumSource": null,
-    "rowId": "mol-000264"
+    "rowId": "mol-000264",
+    "directToExchanger": true
   },
   {
     "row": 44,
@@ -1466,7 +1485,8 @@
     "costSourceRef": {
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
-    }
+    },
+    "directToExchanger": true
   },
   {
     "row": 45,
@@ -1494,7 +1514,8 @@
       "date": null,
       "messageId": "input-1506878-02---387a53a7-f207-4633-a4ff-7bfda903d42f.pdf"
     },
-    "rowId": "mol-000266"
+    "rowId": "mol-000266",
+    "directToExchanger": true
   },
   {
     "row": 46,
@@ -1550,7 +1571,8 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000269"
+    "rowId": "mol-000269",
+    "directToExchanger": true
   },
   {
     "row": 48,
@@ -1586,7 +1608,8 @@
       "file": "6208 USD INVOICE BEIYI INFORMATION CO."
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "directToExchanger": true
   },
   {
     "row": 49,
