@@ -1669,7 +1669,7 @@
       "sum": 12087.67,
       "currency": "EUR",
       "company": "ATB",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "Спринт Импорт (Платежи по паспортам)",
       "costFormula": "(12 087,67 × 1,0025 + 80) × 1,10851 = 13 521,48 USDT (XE EUR/USD 1,10887, 12.11.2026 14:55)",
       "extra": null,
