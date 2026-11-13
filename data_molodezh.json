@@ -1646,5 +1646,42 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 50,
+    "date": "2026-11-13",
+    "sum": 57870.92,
+    "currency": "EUR",
+    "company": "-",
+    "color": "FFFFFFFF",
+    "clientName": "АО «Фри Лайнс Компани»",
+    "costFormula": "--company",
+    "extra": "АО «Фри Лайнс Компани»",
+    "rubles_received": "--doc-ref",
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "ПП №5246 от 13.11.2026 (5 473 723,39 ₽)",
+      "file": "5.473.723",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000278",
+    "companySource": {
+      "source": "foreign_pp",
+      "file": "5.473.723",
+      "txid": null,
+      "ref": "5246",
+      "date": null
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   }
 ]

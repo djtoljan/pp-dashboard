@@ -2053,7 +2053,7 @@
       "date": "2026-11-13",
       "sum": 96473,
       "currency": "USD",
-      "company": "-",
+      "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ВТС",
       "costFormula": "--doc-ref",
@@ -2065,7 +2065,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 13.11.2026 (📨 ВТС · t7389 · 96 473,00 USD / заявка 78556, 7 поставщиков; файл «PITA-39-111226 -5.pdf») — COMMERCIAL INVOICE № PITA-39-111226 от 12.11.2026, ATOMIC TECH LIMITED (B-29, Chengzhongyayuan, Futian, Shenzhen) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), FOB, оплата ALIPAY: S26361-F5731-L118 Fujitsu 1.8TB 10k 12Gb/s SAS HDD (oem new) 2 × $115 = $230; MK003840GXNZN / P40505-B21 HPE 3.84TB SATA 6G Mixed Use SFF BC SSD (oem new) 2 × $770 = $1 540; SF shipping $5; ИТОГО US$1 775,00 (Total RMB 11 839,25). Бенефициар Shenzhen SJBL Tech Co., Ltd, CITIBANK N.A. Hong Kong, счёт 3974000058244, SWIFT CITIHKHX. Это один из 7 поставщиков по заявке 78556 — общая сделка 96 473,00 USD | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «PI-XMY-SET261111-04 -6.pdf») — PROFORMA INVOICE № PI-XMY-SET261111-04 от 11.11.2026, Beijing Xinmingyuan Technology CO., LTD (Unit C 9/F Winning House, 72-76 Win Lok Street, Sheung Wan, HK; Beijing) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), Payment Term TT: C9300L-STACK-KIT (Cisco New Original, with Plastic Bag) 5 × $225 = **$1 125,00** EXW Beijing. Бенефициар Beijing Xinmingyuan Technology, ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт 156281420105000028698745, SWIFT CZCBCN2X. Второй из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «Setion-36 -7.pdf») — PROFORMA INVOICE № Setion-36 от 12.11.2026, Guangzhou Fanbo Trade Limited (Room B278, 2/F, Huangcun Road, Tianhe, Guangzhou) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), Payment terms Prepay: 02351UFE OceanStor 14TB 7.2K NL SAS ×1 = $600; 00AR144 IBM 4TB SAS ×2 = $240; ST6000NM0095 6TB ×10 = $1 800; ST1800MM0129 1.8TB 10K SAS ×42 = $4 830; P20077-001 HP 3Par 1.8TB ×2 = $230; P50312-B21 HPE 64GB DDR5-4800 ×8 = $21 888; P50230-B21 HP 3.2TB NVMe ×12 = $33 600; **ИТОГО $63 188,00**. Бенефициар HK Fanbo Trade Limited, ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт NRA15801142010500001971, SWIFT CZCBCN2X (intermediary MASHREQBANK PSC, MSHQUS33XXX). Третий из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD)",
       "calc": null,
       "sumSource": {
         "source": "invoice",
