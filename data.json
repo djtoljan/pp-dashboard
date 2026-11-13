@@ -2047,6 +2047,42 @@
         "messageId": null
       },
       "rowId": "main-000508"
+    },
+    {
+      "row": 67,
+      "date": "2026-11-13",
+      "sum": 96473,
+      "currency": "USD",
+      "company": "-",
+      "color": "FFFFFFFF",
+      "clientName": "ООО ВТС",
+      "costFormula": "--doc-ref",
+      "extra": "PITA-39-111226_-5.pdf",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "Invoice PITA-39-111226 от 12.11.2026 (заявка 78556, 7 поставщиков)",
+        "file": "PITA-39-111226 -5.pdf",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000509",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "PITA-39-111226",
+        "file": "PITA-39-111226 -5.pdf"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
