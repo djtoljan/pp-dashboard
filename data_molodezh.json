@@ -1498,5 +1498,33 @@
       "messageId": "input-1506878-02---387a53a7-f207-4633-a4ff-7bfda903d42f.pdf"
     },
     "rowId": "mol-000266"
+  },
+  {
+    "row": 47,
+    "date": "2026-11-13",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ООО ГТК",
+    "costFormula": "--doc-ref",
+    "extra": "О:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ГТК\\вход 12.11.26_2",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "сообщение «Отправки рублей ПП.» 13.11.2026: 816 053,94 ₽, заявка 44, светодиодные линзы",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000268"
   }
 ]
