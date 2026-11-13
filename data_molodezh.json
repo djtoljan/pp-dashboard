@@ -1434,5 +1434,33 @@
     "calc": null,
     "sumSource": null,
     "rowId": "mol-000265"
+  },
+  {
+    "row": 46,
+    "date": "2026-11-13",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Евразия Логистика",
+    "costFormula": "--doc-ref",
+    "extra": "input-1506878-02---387a53a7-f207-4633-a4ff-7bfda903d42f.pdf",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "ПП №200 от 13.11.2026 (1 506 878,02 ₽) + сообщение 2 679 000 JPY",
+      "file": "1506878-02.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000266"
   }
 ]
