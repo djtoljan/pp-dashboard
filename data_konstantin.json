@@ -1015,7 +1015,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 13.11.2026 (📨 Константин Просто Группа; файл «Tanita_115_000_00_EUR_3510063639.xlsx» — заявка на платёж): сумма 115 000,00 EUR; получатель TANITA EUROPE B.V. (Hoogoorddreef 56e, 1101 BE Amsterdam, The Netherlands), банк SMBC BANK EU AG (Frankfurt am Main, SWIFT SMBCDEFF), счёт DE90505103000000350811; назначение «Payment for invoice 3510063639 dd 19.05.2026, customer N 13813»; HS Code 84231090, 84231010. Компания-плательщик в заявке не указана — 🔴, ждём документ с компанией. 📄 13.11.2026 (📨 Константин Просто Группа; файл «3510063639.pdf») — ORIGINAL INVOICE №3510063639 от 19.05.2026 (Tanita Europe B.V., NL818468981B01 → Volna Distribution Ltd, Душанбе, Таджикистан, Customer No. 13813): Body Composition Monitors, 2 354 PC, FCA Rozenburg, сумма инвойса 57 528,64 EUR; реквизиты SMBC Bank EU AG, IBAN DE90 5051 0300 0000 3508 11, BIC SMBCDEFF. ⚠️ Сумма заявки 115 000,00 EUR ≠ сумме инвойса 57 528,64 EUR — нужно уточнение владельца (возможно, оплата двух инвойсов).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1025,5 +1025,33 @@
       "messageId": null
     },
     "rowId": "kon-000119"
+  },
+  {
+    "row": 30,
+    "date": "2026-11-13",
+    "sum": 30831.58,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Invoice Altevia 260447 от 13.11.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000120"
   }
 ]
