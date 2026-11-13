@@ -81,7 +81,7 @@
     "date": "2026-11-05",
     "sum": 60513.58,
     "currency": "EUR",
-    "company": "Q8 Group Limited",
+    "company": "ATB",
     "color": "FF92D050",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "(60 513,58 × 1,0025 + 80) × 1,12322 = 68 229,85 ≈ 68 230 USDT",
@@ -97,13 +97,14 @@
     "calc": null,
     "rowId": "flw-000175",
     "companySource": {
-      "source": "invoice",
-      "date": "2026-11-05",
-      "ref": "AA-Q8-2026-1105-01",
-      "file": "Invoice_Atlantic_Avrora_Q8_60513_58_EUR_05-Nov-2026.pdf"
+      "source": "foreign_pp",
+      "file": "file (39)_261113_150047.pdf",
+      "txid": null,
+      "ref": "CCB.309.UE.POS00175032",
+      "date": null
     },
-    "companyProvisional": true,
-    "companyVerified": false
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 5,
@@ -736,7 +737,7 @@
     "date": "2026-11-11",
     "sum": 72816.28,
     "currency": "EUR",
-    "company": "Q8 Group Limited",
+    "company": "ATB",
     "color": "FFFFFF00",
     "clientName": "Atlantic Avrora (Цветы)",
     "costFormula": "(72 816,28 × 1,0025 + 80) × 1,10851 = 81 008,05 USDT (XE EUR/USD 1,10887, 12.11.2026 14:55)",
@@ -759,12 +760,13 @@
     },
     "rowId": "flw-000206",
     "companySource": {
-      "source": "invoice",
-      "date": null,
-      "ref": "AA-Q8-2026-1111",
-      "file": "Invoice_Atlantic_Avrora_Q8_72816_28_EUR_11-Nov-2026.pdf"
+      "source": "foreign_pp",
+      "file": "72 816.pdf",
+      "txid": null,
+      "ref": "CCB.317.UE.POS00164882",
+      "date": null
     },
-    "companyProvisional": true,
-    "companyVerified": false
+    "companyProvisional": false,
+    "companyVerified": true
   }
 ]
