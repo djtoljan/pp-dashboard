@@ -1470,7 +1470,7 @@
       "sum": 39912.2,
       "currency": "EUR",
       "company": null,
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ООО «Аргос»",
       "costFormula": "(39 912,20 × 1,0025 + 80) × 1,10851 = 44 442,36 USDT (XE EUR/USD 1,10887, 12.11.2026 14:55)",
       "extra": "Заявка 3 от 10.11.2026, инвойс VL2026026 от 06.11.2026 (cork), контракт 02/10-24",
