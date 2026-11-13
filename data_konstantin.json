@@ -1001,10 +1001,10 @@
   {
     "row": 29,
     "date": "2026-11-13",
-    "sum": 115000,
+    "sum": 57528.64,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -1015,16 +1015,24 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 13.11.2026 (📨 Константин Просто Группа; файл «Tanita_115_000_00_EUR_3510063639.xlsx» — заявка на платёж): сумма 115 000,00 EUR; получатель TANITA EUROPE B.V. (Hoogoorddreef 56e, 1101 BE Amsterdam, The Netherlands), банк SMBC BANK EU AG (Frankfurt am Main, SWIFT SMBCDEFF), счёт DE90505103000000350811; назначение «Payment for invoice 3510063639 dd 19.05.2026, customer N 13813»; HS Code 84231090, 84231010. Компания-плательщик в заявке не указана — 🔴, ждём документ с компанией. 📄 13.11.2026 (📨 Константин Просто Группа; файл «3510063639.pdf») — ORIGINAL INVOICE №3510063639 от 19.05.2026 (Tanita Europe B.V., NL818468981B01 → Volna Distribution Ltd, Душанбе, Таджикистан, Customer No. 13813): Body Composition Monitors, 2 354 PC, FCA Rozenburg, сумма инвойса 57 528,64 EUR; реквизиты SMBC Bank EU AG, IBAN DE90 5051 0300 0000 3508 11, BIC SMBCDEFF. ⚠️ Сумма заявки 115 000,00 EUR ≠ сумме инвойса 57 528,64 EUR — нужно уточнение владельца (возможно, оплата двух инвойсов).",
+    "notes": "📄 13.11.2026 (📨 Константин Просто Группа; файл «Tanita_115_000_00_EUR_3510063639.xlsx» — заявка на платёж): сумма 115 000,00 EUR; получатель TANITA EUROPE B.V. (Hoogoorddreef 56e, 1101 BE Amsterdam, The Netherlands), банк SMBC BANK EU AG (Frankfurt am Main, SWIFT SMBCDEFF), счёт DE90505103000000350811; назначение «Payment for invoice 3510063639 dd 19.05.2026, customer N 13813»; HS Code 84231090, 84231010. Компания-плательщик в заявке не указана — 🔴, ждём документ с компанией. 📄 13.11.2026 (📨 Константин Просто Группа; файл «3510063639.pdf») — ORIGINAL INVOICE №3510063639 от 19.05.2026 (Tanita Europe B.V., NL818468981B01 → Volna Distribution Ltd, Душанбе, Таджикистан, Customer No. 13813): Body Composition Monitors, 2 354 PC, FCA Rozenburg, сумма инвойса 57 528,64 EUR; реквизиты SMBC Bank EU AG, IBAN DE90 5051 0300 0000 3508 11, BIC SMBCDEFF. ⚠️ Сумма заявки 115 000,00 EUR ≠ сумме инвойса 57 528,64 EUR — нужно уточнение владельца (возможно, оплата двух инвойсов). | 📄 13.11.2026 (📨 Константин Просто Группа, файл «Application for transfer TANITA 57528.64 EUR.docx») — APPLICATION FOR TRANSFER (заявление на перевод): 57 528,64 EUR, получатель TANITA EUROPE B.V., банк SMBC BANK EU AG (Main Tower, Neue Mainzer Str. 52-58, 60311 Frankfurt am Main; IBAN DE90 5051 0300 0000 3508 11, SWIFT SMBCDEFF), назначение «PAYMENT FOR INVOICE 3510063639», Remark: Q8 GROUP LIMITED. Сумма сделки уточнена по заявлению и инвойсу 115 000,00 → 57 528,64 EUR; плательщик Q8 GROUP LIMITED — строка ⬜.",
     "calc": null,
     "sumSource": {
-      "source": "invoice",
-      "ref": "заявка Tanita 115 000,00 EUR, invoice 3510063639",
+      "source": "order",
+      "ref": "Application for transfer TANITA 57528.64 EUR от 13.11.2026",
       "file": null,
       "date": null,
+      "messageId": "telegram:8903509988#63051"
+    },
+    "rowId": "kon-000119",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "Application for transfer TANITA 57528.64 EUR от 13.11.2026",
       "messageId": null
     },
-    "rowId": "kon-000119"
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 30,
