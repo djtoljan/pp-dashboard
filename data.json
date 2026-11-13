@@ -1947,6 +1947,42 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 65,
+      "date": "2026-11-13",
+      "sum": 17336,
+      "currency": "USD",
+      "company": "-",
+      "color": "FFFFFFFF",
+      "clientName": "ООО ВТС",
+      "costFormula": "--doc-ref",
+      "extra": "input-инвойс_услуги_Би_трейд_78494---a8750991-dbb4-41d1-b0a6-cd033aaef614.pdf",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "scream",
+        "ref": "сообщение ВТС t7370: 17 336,00 USD, заявка 78494",
+        "file": "инвойс услуги Би трейд 78494.pdf",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000506",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "78494",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
