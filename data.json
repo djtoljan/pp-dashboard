@@ -1949,7 +1949,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ВТС",
-      "costFormula": "239 962,00 + 0,3% + 30",
+      "costFormula": null,
       "extra": "input-инвойс_услуги_Би_трейд_77760---30e06b90-41ad-4612-bb0a-cf889665c847.pdf",
       "rubles_received": null,
       "statementRef": null,
@@ -1957,8 +1957,8 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": 240711.89,
-      "notes": "📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760, файл «Поручение 77760.pdf») — ПОРУЧЕНИЕ №77760 от 13.11.2026 (Приложение №2 к договору на оказание посреднических услуг №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи» (Кыргызская Республика); платёж 239 962,00 USD по инвойсу GL20261008001 2026/10/8 Revised 2026-10-30; получатель Shenzhen Yiyuan Communication Technology Co., Ltd. (Room 502, Building 3, Chaohuilou Industrial Park, No.11 Huating Road, Langkou Community, Dalang Subdistrict, Longhua District, Shenzhen, Guangdong, China), CHINA MERCHANTS BANK H.O., SWIFT CMBCCNBSXXX, счёт 755928888832000; курс 82,9803; сумма к перечислению 19 912 118,75 RUB; комиссия агента 1,3%; срок 5–10 банковских дней. Подписи: Бондарев А.П. / Курьянов А.А. | 📄 13.11.2026 (📨 ВТС · t7351, файл «инвойс услуги Би трейд 77760.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» №77760 от 13.11.2026 (договор 27062025TК/1): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 3 119,51 USD = 258 857,54 ₽ (курс USD 82,9803), ИТОГО 3 119,51 USD / 258 857,54 ₽ — это комиссия агента 1,3% от 239 962,00 USD | 📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760, файл «PI GL20261008001 Optical components+1G+10G copper CKD.pdf») — PROFORMA INVOICE Shenzhen Yiyuan Communication Technology Co., Ltd (5/F, Building 3, Chaohuilou Science Park, No.119 Huating Road, Dalang Street, Longhua District, Shenzhen; +86 13692281427): PI Number GL20261008001, PI Date 2026/10/8 Revised 2026-10-30, BILL TO Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK; Contact Valeria Safronova +8618588496609); Trade Term EXW ShenZhen, Ship Date TBC, Payment Terms 30% Deposit + 70% Balance before shipment. Товар — оптические компоненты (SFP/QSFP 1G/10G/25G/40G/100G, TOSA/ROSA/BOSA, copper CKD, PCB, чипы). Сумма совпадает с поручением №77760 (239 962,00 USD); компания по счёту — Q8 GROUP LIMITED",
+      "sent_usdt": null,
+      "notes": "📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760, файл «Поручение 77760.pdf») — ПОРУЧЕНИЕ №77760 от 13.11.2026 (Приложение №2 к договору на оказание посреднических услуг №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи» (Кыргызская Республика); платёж 239 962,00 USD по инвойсу GL20261008001 2026/10/8 Revised 2026-10-30; получатель Shenzhen Yiyuan Communication Technology Co., Ltd. (Room 502, Building 3, Chaohuilou Industrial Park, No.11 Huating Road, Langkou Community, Dalang Subdistrict, Longhua District, Shenzhen, Guangdong, China), CHINA MERCHANTS BANK H.O., SWIFT CMBCCNBSXXX, счёт 755928888832000; курс 82,9803; сумма к перечислению 19 912 118,75 RUB; комиссия агента 1,3%; срок 5–10 банковских дней. Подписи: Бондарев А.П. / Курьянов А.А. | 📄 13.11.2026 (📨 ВТС · t7351, файл «инвойс услуги Би трейд 77760.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» №77760 от 13.11.2026 (договор 27062025TК/1): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 3 119,51 USD = 258 857,54 ₽ (курс USD 82,9803), ИТОГО 3 119,51 USD / 258 857,54 ₽ — это комиссия агента 1,3% от 239 962,00 USD | 📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760, файл «PI GL20261008001 Optical components+1G+10G copper CKD.pdf») — PROFORMA INVOICE Shenzhen Yiyuan Communication Technology Co., Ltd (5/F, Building 3, Chaohuilou Science Park, No.119 Huating Road, Dalang Street, Longhua District, Shenzhen; +86 13692281427): PI Number GL20261008001, PI Date 2026/10/8 Revised 2026-10-30, BILL TO Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK; Contact Valeria Safronova +8618588496609); Trade Term EXW ShenZhen, Ship Date TBC, Payment Terms 30% Deposit + 70% Balance before shipment. Товар — оптические компоненты (SFP/QSFP 1G/10G/25G/40G/100G, TOSA/ROSA/BOSA, copper CKD, PCB, чипы). Сумма совпадает с поручением №77760 (239 962,00 USD); компания по счёту — Q8 GROUP LIMITED | ⏳ ждём расчёт оператора",
       "calc": null,
       "sumSource": {
         "source": "scream",
@@ -1975,7 +1975,12 @@
         "file": "PI GL20261008001 Optical components+1G+10G copper CKD.pdf"
       },
       "companyProvisional": true,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "не подтверждено оператором",
+      "costSourceRef": {
+        "ref": "telegram:7206154434#62929",
+        "date": "2026-11-13"
+      }
     },
     {
       "row": 66,
@@ -2021,7 +2026,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ВТС",
-      "costFormula": "15 950,22 + 0,3% + 30",
+      "costFormula": null,
       "extra": "input-инвойс_услуги_Би_трейд_78496---eea0373f-cfcd-457d-8f7c-69250c932570.pdf",
       "rubles_received": null,
       "statementRef": null,
@@ -2029,8 +2034,8 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": 16028.07,
-      "notes": "📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «инвойс услуги Би трейд 78496.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78496 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 339,25 USD = 28 151,34 ₽ (курс USD 82,9803), ИТОГО 339,25 USD / 28 151,34 ₽. Сумма сделки 15 950,22 USD — из сообщения t7378, заявка 78496; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ №78496 от 13.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; платёж по инвойсу V20261110001 dd 10/11/2026; получатель HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK), CITIBANK (HONG KONG) LIMITED, SWIFT CITIHKAX, счёт 42775760; курс 82,9803; к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. ⚠️ В поручении в поле суммы напечатано «15 590,22 USD», но сумма в рублях 1 323 554,04 ₽ / 82,9803 = 15 950,22 USD — сумма строки 15 950,22 USD верна, в документе опечатка (перестановка цифр). Сумму не менял | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «COMMERCIAL INVOICE(1).pdf») — COMMERCIAL INVOICE HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK) № V20261110001 от 10Nov2026, BILL TO Q8 GROUP LIMITED (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), Ship To Russia, Novosibirsk; 26 позиций (винты, пружины, SFP DAC shell/cover, кабели 10G DAC 30AWG/24AWG, PCB, упаковка), TOTAL AMOUNT (USD) **15 950,22**. Банк: CITIBANK (HONGKONG) LIMITED, SWIFT CITIHKAX, Account 42775760 (USS A/C), Branch Code 390. ⚠️ В строке «SAY TOTAL» напечатано «twenty two thousand seven hundred fifty nine and cents forty seven» (22 759,47) — расходится с итоговой суммой 15 950,22; сумму строки не менял, плательщик по инвойсу — Q8 GROUP LIMITED",
+      "sent_usdt": null,
+      "notes": "📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «инвойс услуги Би трейд 78496.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78496 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 339,25 USD = 28 151,34 ₽ (курс USD 82,9803), ИТОГО 339,25 USD / 28 151,34 ₽. Сумма сделки 15 950,22 USD — из сообщения t7378, заявка 78496; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ №78496 от 13.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; платёж по инвойсу V20261110001 dd 10/11/2026; получатель HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK), CITIBANK (HONG KONG) LIMITED, SWIFT CITIHKAX, счёт 42775760; курс 82,9803; к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. ⚠️ В поручении в поле суммы напечатано «15 590,22 USD», но сумма в рублях 1 323 554,04 ₽ / 82,9803 = 15 950,22 USD — сумма строки 15 950,22 USD верна, в документе опечатка (перестановка цифр). Сумму не менял | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «COMMERCIAL INVOICE(1).pdf») — COMMERCIAL INVOICE HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK) № V20261110001 от 10Nov2026, BILL TO Q8 GROUP LIMITED (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), Ship To Russia, Novosibirsk; 26 позиций (винты, пружины, SFP DAC shell/cover, кабели 10G DAC 30AWG/24AWG, PCB, упаковка), TOTAL AMOUNT (USD) **15 950,22**. Банк: CITIBANK (HONGKONG) LIMITED, SWIFT CITIHKAX, Account 42775760 (USS A/C), Branch Code 390. ⚠️ В строке «SAY TOTAL» напечатано «twenty two thousand seven hundred fifty nine and cents forty seven» (22 759,47) — расходится с итоговой суммой 15 950,22; сумму строки не менял, плательщик по инвойсу — Q8 GROUP LIMITED | ⏳ ждём расчёт оператора",
       "calc": null,
       "sumSource": {
         "source": "scream",
@@ -2047,7 +2052,12 @@
         "file": "COMMERCIAL INVOICE(1).pdf"
       },
       "companyProvisional": true,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "не подтверждено оператором",
+      "costSourceRef": {
+        "ref": "telegram:7206154434#62929",
+        "date": "2026-11-13"
+      }
     },
     {
       "row": 68,

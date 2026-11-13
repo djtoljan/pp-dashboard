@@ -45,7 +45,7 @@
     "vdx_rate": null,
     "received_usdt": 98852.75,
     "sent_usdt": 98697,
-    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, «Платит ATB», файл «6550_201 inv BZT 87 758.80 eur ATB Service GmbH.pdf») — **PRO FORMA INVOICE № D-BZT-51** от 02.11.2026 (срок оплаты 12.11.2026): продавец **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85, tax 33020048-2-42) → customer **ATB Service GmbH** (Germany, DE-13599 Berlin, Nonnendammallee 22, VAT DE463202384); товар «Equipment components in an assortment», итого **87 758,80 EUR**, VAT 0. Бенефициар **SYMOCO PAYMENTS LTD**, IBAN LT843981120000002353, SWIFT USTILT2VXXX, банк UAB Stanhope Financial (Vilnius). Компания-плательщик — **ATB**. Заявка в xlsx ссылалась на D-BZT-39 (glue), фактический инвойс — D-BZT-51. | 📄 02.11.2026 16:11 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 87 758,80 EUR.pdf») — ордер на платёж: **87 758,80 EUR**, OUR; beneficiary **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó, HUNGARY), банк **UAB Stanhope Financial** (Vilnius, Lithuania), счёт LT843981120000002353, SWIFT USTILT2VXXX; в сообщении назначение — «invoice No. D-BZT-39 dd 07.10.2026», в приложенном PDF — PRO FORMA INVOICE **D-BZT-51** от 02.11.2026 (customer ATB Service GmbH), бенефициар SYMOCO PAYMENTS LTD. Компания ATB подтверждена, сумма и цвет строки без изменений. | ✔️ 02.11.2026 (📨 Константин Просто Группа, «Как в заявке этой», файл «87 758.80 EUR (02.11.2026) (1).xlsx») — сверено с заявкой: сумма **87 758,80 EUR**, валюта EUR, бенефициар **BZT Master Cargo Kft** (HUNGARY, 1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó), банк **UAB Stanhope Financial** (UPES G. 23, Vilnius, LT-08128, Lithuania), IBAN **LT843981120000002353**, SWIFT **USTILT2VXXX**, назначение «Payment for glue to invoice No. D-BZT-39 dd 07.10.2026» — как в заявке. Реквизиты строки соответствуют заявке; PDF D-BZT-51 — справочно. | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (3).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → BZT Master Cargo Kft (UAB Stanhope Financial, SWIFT USTILT2VXXX, LT843981120000002353) по инвойсу D-BZT-39 dd 07.10.2026: проводка 03.11.2026 — 87 758,80 EUR (End-to-End CCB.100.UE.POS81028714). Зелёнка. | Себестоимость 98 852,75 = приход двумя платежами 85 887,00 + 12 965,75 (влад. 10.11.2026) | Себестоимость восстановлена 10.11.2026 — приходная формула 1,005+100 в costFormula НЕ пишетсяприход двумя платежами 03.11.2026: 85 887,00 (txid 64038cb6…) + 12 965,75 (txid bf5a31e8…) = 98 852,75 USDT",
+    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, «Платит ATB», файл «6550_201 inv BZT 87 758.80 eur ATB Service GmbH.pdf») — **PRO FORMA INVOICE № D-BZT-51** от 02.11.2026 (срок оплаты 12.11.2026): продавец **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85, tax 33020048-2-42) → customer **ATB Service GmbH** (Germany, DE-13599 Berlin, Nonnendammallee 22, VAT DE463202384); товар «Equipment components in an assortment», итого **87 758,80 EUR**, VAT 0. Бенефициар **SYMOCO PAYMENTS LTD**, IBAN LT843981120000002353, SWIFT USTILT2VXXX, банк UAB Stanhope Financial (Vilnius). Компания-плательщик — **ATB**. Заявка в xlsx ссылалась на D-BZT-39 (glue), фактический инвойс — D-BZT-51. | 📄 02.11.2026 16:11 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 87 758,80 EUR.pdf») — ордер на платёж: **87 758,80 EUR**, OUR; beneficiary **BZT Master Cargo Kft** (1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó, HUNGARY), банк **UAB Stanhope Financial** (Vilnius, Lithuania), счёт LT843981120000002353, SWIFT USTILT2VXXX; в сообщении назначение — «invoice No. D-BZT-39 dd 07.10.2026», в приложенном PDF — PRO FORMA INVOICE **D-BZT-51** от 02.11.2026 (customer ATB Service GmbH), бенефициар SYMOCO PAYMENTS LTD. Компания ATB подтверждена, сумма и цвет строки без изменений. | ✔️ 02.11.2026 (📨 Константин Просто Группа, «Как в заявке этой», файл «87 758.80 EUR (02.11.2026) (1).xlsx») — сверено с заявкой: сумма **87 758,80 EUR**, валюта EUR, бенефициар **BZT Master Cargo Kft** (HUNGARY, 1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó), банк **UAB Stanhope Financial** (UPES G. 23, Vilnius, LT-08128, Lithuania), IBAN **LT843981120000002353**, SWIFT **USTILT2VXXX**, назначение «Payment for glue to invoice No. D-BZT-39 dd 07.10.2026» — как в заявке. Реквизиты строки соответствуют заявке; PDF D-BZT-51 — справочно. | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (3).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → BZT Master Cargo Kft (UAB Stanhope Financial, SWIFT USTILT2VXXX, LT843981120000002353) по инвойсу D-BZT-39 dd 07.10.2026: проводка 03.11.2026 — 87 758,80 EUR (End-to-End CCB.100.UE.POS81028714). Зелёнка. | Себестоимость 98 852,75 = приход двумя платежами 85 887,00 + 12 965,75 (влад. 10.11.2026) | Себестоимость восстановлена 10.11.2026 — приходная формула 1,005+100 в costFormula НЕ пишетсяприход двумя платежами 03.11.2026: 85 887,00 (txid 64038cb6…) + 12 965,75 (txid bf5a31e8…) = 98 852,75 USDT | ⏳ 13.11.2026 (Scream 62929): расчёт ATB по курсу XE, оператор не подтверждал — ждём подтверждения",
     "calc": null,
     "rowId": "kon-000080",
     "companySource": {
@@ -56,10 +56,10 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "costSource": "operator",
+    "costSource": "не подтверждено оператором",
     "costSourceRef": {
-      "ref": "восстановление себестоимости (Scream 10.11.2026: себестоимость не перезаписывать приходной формулой)",
-      "date": "2026-11-10"
+      "ref": "telegram:7206154434#62929",
+      "date": "2026-11-13"
     }
   },
   {
@@ -79,7 +79,7 @@
     "vdx_rate": null,
     "received_usdt": 47421.47,
     "sent_usdt": 47281,
-    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «GAMA_42_000_00_EUR_26PI00359.xlsx») — заявка на платёж: **42 000,00 EUR** авансом по проформе **26PI00359 от 22.10.2026**, заказ 26OV03255, товар — hair care appliances. Бенефициар **GA.MA S.R.L.** (Via Sant'Alberto 1714, 40018 San Pietro in Casale (BO), Italy), банк **BPER Banca S.p.A.** (branch 5 Bologna, Via Corticella 2018, 40128 Bologna), IBAN IT42V0538702405000000983787, SWIFT BPMOIT22XXX. HS 85163100, 85163200. Сумма строки приведена к сумме заявки (42 000,00 EUR); полная проформа 26PI00359 — в PDF выше. Компания-плательщик не указана. | 📄 02.11.2026 16:14 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 42 000,00 EUR.pdf») — ордер на платёж: **42 000,00 EUR**, OUR; beneficiary **GA.MA S.R.L.** (Via Sant'Alberto 1714, 40018 San Pietro in Casale (BO), Italy), банк **BPER Banca S.p.A., branch 5 Bologna**, счёт IT42V0538702405000000983787, SWIFT BPMOIT22XXX; назначение — «invoice 26PI00359 dd 22.10.2026». Компания-плательщик — **ATB**. | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. | 💵 02.11.2026: приход тез под платёж — 47 421,47 USDT (Рабочий 6, леджер 02.11.2026). Финансирование, не себестоимость. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (4).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → GA.MA S.R.L. (BPER Banca, SWIFT BPMOIT22XXX, IT42V0538702405000000983787) по инвойсу 26PI00359 dd 22.10.2026: проводка 03.11.2026 — 42 000,00 EUR (End-to-End CCB.828.UE.POS35784427). Зелёнка.",
+    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «GAMA_42_000_00_EUR_26PI00359.xlsx») — заявка на платёж: **42 000,00 EUR** авансом по проформе **26PI00359 от 22.10.2026**, заказ 26OV03255, товар — hair care appliances. Бенефициар **GA.MA S.R.L.** (Via Sant'Alberto 1714, 40018 San Pietro in Casale (BO), Italy), банк **BPER Banca S.p.A.** (branch 5 Bologna, Via Corticella 2018, 40128 Bologna), IBAN IT42V0538702405000000983787, SWIFT BPMOIT22XXX. HS 85163100, 85163200. Сумма строки приведена к сумме заявки (42 000,00 EUR); полная проформа 26PI00359 — в PDF выше. Компания-плательщик не указана. | 📄 02.11.2026 16:14 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 42 000,00 EUR.pdf») — ордер на платёж: **42 000,00 EUR**, OUR; beneficiary **GA.MA S.R.L.** (Via Sant'Alberto 1714, 40018 San Pietro in Casale (BO), Italy), банк **BPER Banca S.p.A., branch 5 Bologna**, счёт IT42V0538702405000000983787, SWIFT BPMOIT22XXX; назначение — «invoice 26PI00359 dd 22.10.2026». Компания-плательщик — **ATB**. | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. | 💵 02.11.2026: приход тез под платёж — 47 421,47 USDT (Рабочий 6, леджер 02.11.2026). Финансирование, не себестоимость. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (4).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → GA.MA S.R.L. (BPER Banca, SWIFT BPMOIT22XXX, IT42V0538702405000000983787) по инвойсу 26PI00359 dd 22.10.2026: проводка 03.11.2026 — 42 000,00 EUR (End-to-End CCB.828.UE.POS35784427). Зелёнка. | ⏳ ждём расчёт оператора",
     "calc": null,
     "rowId": "kon-000081",
     "companySource": {
@@ -90,10 +90,10 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "costSource": "operator",
+    "costSource": "не подтверждено оператором",
     "costSourceRef": {
-      "ref": "telegram -1003734813084 #60010, 02.11.2026",
-      "date": "2026-11-02"
+      "ref": "telegram:7206154434#62929",
+      "date": "2026-11-13"
     }
   },
   {
@@ -113,7 +113,7 @@
     "vdx_rate": null,
     "received_usdt": 66015,
     "sent_usdt": 65940,
-    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «Parlux_58_606_34_EUR_391-00-2026.xlsx») — заявка на платёж: **58 606,34 EUR** авансом по проформе **391/00/2026 от 02.11.2026**, customer 1769 (MIA GROUP OF COMPANIES (PVT) LTD), hair dryers. Бенефициар **Parlux S.p.A.** (Via Carlo Goldoni 10/12, 20090 Trezzano s/N (MI), Italy), банк **Monte Paschi di Siena** (Siena, Italy), IBAN IT52D0103033911000063110778, SWIFT PASCITMMXXX. Сумма соответствует проформе 391/00/2026. Компания-плательщик не указана. | 📄 02.11.2026 16:17 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 58 606,34 EUR.pdf») — ордер на платёж: **58 606,34 EUR**, OUR; beneficiary **Parlux S.p.A.** (Via Carlo Goldoni 10/12, 20090 Trezzano s/N (MI), Italy), банк **Banca Monte dei Paschi di Siena S.p.A.**, счёт IT52D0103033911000063110778, SWIFT PASCITMMXXX; назначение — «invoice 391/00/2026 dd 02.11.2026». Компания-плательщик — **ATB**. | ✏️ 02.11.2026 (📨 Ордера и Расчеты, сообщение «частичная оплата») — оплата по инвойсу 391/00/2026 от 02.11.2026 помечена как **частичная**; сумма строки 58 606,34 EUR остаётся, ждём остаток/следующие платежи. | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. | 💵 02.11.2026: приход тез под платёж — 66 015,00 USDT (Рабочий 6, леджер 02.11.2026). Финансирование, не себестоимость. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (5).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → Parlux S.p.A. (Monte Paschi di Siena, SWIFT PASCITMMXXX, IT52D0103033911000063110778) по инвойсу 391/00/2026 dd 02.11.2026: проводка 03.11.2026 — 58 606,34 EUR (End-to-End CCB.878.UE.POS67714083). Зелёнка.",
+    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «Parlux_58_606_34_EUR_391-00-2026.xlsx») — заявка на платёж: **58 606,34 EUR** авансом по проформе **391/00/2026 от 02.11.2026**, customer 1769 (MIA GROUP OF COMPANIES (PVT) LTD), hair dryers. Бенефициар **Parlux S.p.A.** (Via Carlo Goldoni 10/12, 20090 Trezzano s/N (MI), Italy), банк **Monte Paschi di Siena** (Siena, Italy), IBAN IT52D0103033911000063110778, SWIFT PASCITMMXXX. Сумма соответствует проформе 391/00/2026. Компания-плательщик не указана. | 📄 02.11.2026 16:17 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 58 606,34 EUR.pdf») — ордер на платёж: **58 606,34 EUR**, OUR; beneficiary **Parlux S.p.A.** (Via Carlo Goldoni 10/12, 20090 Trezzano s/N (MI), Italy), банк **Banca Monte dei Paschi di Siena S.p.A.**, счёт IT52D0103033911000063110778, SWIFT PASCITMMXXX; назначение — «invoice 391/00/2026 dd 02.11.2026». Компания-плательщик — **ATB**. | ✏️ 02.11.2026 (📨 Ордера и Расчеты, сообщение «частичная оплата») — оплата по инвойсу 391/00/2026 от 02.11.2026 помечена как **частичная**; сумма строки 58 606,34 EUR остаётся, ждём остаток/следующие платежи. | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. | 💵 02.11.2026: приход тез под платёж — 66 015,00 USDT (Рабочий 6, леджер 02.11.2026). Финансирование, не себестоимость. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файл «Umsatzdetails ATB Service GmbH (5).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 00, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → Parlux S.p.A. (Monte Paschi di Siena, SWIFT PASCITMMXXX, IT52D0103033911000063110778) по инвойсу 391/00/2026 dd 02.11.2026: проводка 03.11.2026 — 58 606,34 EUR (End-to-End CCB.878.UE.POS67714083). Зелёнка. | ⏳ ждём расчёт оператора",
     "calc": null,
     "rowId": "kon-000082",
     "companySource": {
@@ -124,10 +124,10 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "costSource": "operator",
+    "costSource": "не подтверждено оператором",
     "costSourceRef": {
-      "ref": "telegram -1003734813084 #60010, 02.11.2026",
-      "date": "2026-11-02"
+      "ref": "telegram:7206154434#62929",
+      "date": "2026-11-13"
     }
   },
   {
@@ -147,7 +147,7 @@
     "vdx_rate": null,
     "received_usdt": 353807.78,
     "sent_usdt": 353017,
-    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «proforma invoice 2026-01402.pdf») — **PROFORMA INVOICE № 2026-01402 от 27.10.2026**: **Nivona Apparate GmbH** (Südwestpark 49, 90449 Nürnberg, VAT DE814347283, WEEE DE92010626), customer number D6681558, агент Regina Böhm, номер 613944; покупатель **LLC Technorium** (Chubinashvii str 63, 0102 Tbilisi, GEORGIA); товар — автоматические кофемашины NICR 796/825/790/759/550/690/560/695 и NIVO 8107/8112, TARIC 85167100, Ex Works Nuremberg, order confirmation 2026-426137. Сумма к оплате по заявке — **314 101,00 EUR**. Компания-плательщик не указана — ждём. | 📄 02.11.2026 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 314 101,00 EUR.pdf») — платёжный ордер: получатель Nivona Apparate GmbH (Südwestpark 49, 90449 Nürnberg, Germany); банк Deutsche Bank AG, SWIFT DEUTDEDB760, счёт DE41760700240471977900; payment details invoice 2026-01402 dd 27.10.2026; сумма ордера 314 101,00 EUR; OUR. Компания-плательщик ATB → ⬜. ⚠️ Итог проформы 330 516,00 EUR — оплата частичная (314 101,00) | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. | 💵 02.11.2026: приход тез под платёж — 353 807,78 USDT (Рабочий 6, леджер 02.11.2026). Финансирование, не себестоимость. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файлы «Umsatzdetails ATB Service GmbH.pdf» и «Umsatzdetails ATB Service GmbH (1).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 0, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → Nivona Apparate GmbH (Deutsche Bank, DE41760700240471977900) по инвойсу 2026-01402 dd 27.10.2026: две проводки 03.11.2026 — 164 101,00 EUR (End-to-End CCB.089.UE.POS65671946) и 150 000,00 EUR (CCB.160.UE.POS13730102); итого 314 101,00 EUR — полная сумма по заявке. Зелёнка по двум документам банка.",
+    "notes": "📄 02.11.2026 (📨 Константин Просто Группа, файл «proforma invoice 2026-01402.pdf») — **PROFORMA INVOICE № 2026-01402 от 27.10.2026**: **Nivona Apparate GmbH** (Südwestpark 49, 90449 Nürnberg, VAT DE814347283, WEEE DE92010626), customer number D6681558, агент Regina Böhm, номер 613944; покупатель **LLC Technorium** (Chubinashvii str 63, 0102 Tbilisi, GEORGIA); товар — автоматические кофемашины NICR 796/825/790/759/550/690/560/695 и NIVO 8107/8112, TARIC 85167100, Ex Works Nuremberg, order confirmation 2026-426137. Сумма к оплате по заявке — **314 101,00 EUR**. Компания-плательщик не указана — ждём. | 📄 02.11.2026 (📨 Ордера и Расчеты, «Payment from ATB❗️», файл «INV 314 101,00 EUR.pdf») — платёжный ордер: получатель Nivona Apparate GmbH (Südwestpark 49, 90449 Nürnberg, Germany); банк Deutsche Bank AG, SWIFT DEUTDEDB760, счёт DE41760700240471977900; payment details invoice 2026-01402 dd 27.10.2026; сумма ордера 314 101,00 EUR; OUR. Компания-плательщик ATB → ⬜. ⚠️ Итог проформы 330 516,00 EUR — оплата частичная (314 101,00) | ⏳ 02.11.2026 (Ордера и Расчеты): тез просят отправить завтра 03.11.2026, чтобы не хранить; курс зафиксирован. | 💵 02.11.2026: приход тез под платёж — 353 807,78 USDT (Рабочий 6, леджер 02.11.2026). Финансирование, не себестоимость. |  | 🏦 09.11.2026 (📨 Платежные Поручения, файлы «Umsatzdetails ATB Service GmbH.pdf» и «Umsatzdetails ATB Service GmbH (1).pdf» — Commerzbank, IBAN DE43 1004 0000 0453 3493 0, BIC COBADEFFXXX) — исполнение платежа ATB Service GmbH → Nivona Apparate GmbH (Deutsche Bank, DE41760700240471977900) по инвойсу 2026-01402 dd 27.10.2026: две проводки 03.11.2026 — 164 101,00 EUR (End-to-End CCB.089.UE.POS65671946) и 150 000,00 EUR (CCB.160.UE.POS13730102); итого 314 101,00 EUR — полная сумма по заявке. Зелёнка по двум документам банка. | ⏳ ждём расчёт оператора",
     "calc": null,
     "rowId": "kon-000083",
     "companySource": {
@@ -158,10 +158,10 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "costSource": "operator",
+    "costSource": "не подтверждено оператором",
     "costSourceRef": {
-      "ref": "telegram -1003734813084 #60010, 02.11.2026",
-      "date": "2026-11-02"
+      "ref": "telegram:7206154434#62929",
+      "date": "2026-11-13"
     }
   },
   {
@@ -487,7 +487,7 @@
     "vdx_rate": null,
     "received_usdt": 18494.43,
     "sent_usdt": 18426.63,
-    "notes": "| 📄 09.11.2026 (📨 Ордера и Расчеты; «Payment from ATB❗️»; файл «INV 16 350,00 EUR.pdf») — ОРДЕР на платёж: компания-плательщик ATB; бенефициар MALVARROSA OU (Tulika 19; 10613 Tallinn; Estonia); банк Paysera LT; UAB; SWIFT EVIULT2VXXX; счёт LT923500010017273592; назначение «invoice No. M10-07 dd 20.10.2026»; сумма 16 350.00 EUR; OUR. 🚨 РАСХОЖДЕНИЕ реквизитов: в инвойсе M10-07 банк Banking Circle UK (IBAN GB75SAPY60838229948293; SWIFT SAPYGB2L); в ордере — Paysera LT (LT923500010017273592; EVIULT2VXXX; те же реквизиты; что у r6 от 08.10.2026). Перед оплатой сверить банк получателя. Компания ATB подтверждена ордером; строка ⬜. | 🛡️ 09.11.2026: движение IN 18494.43 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:43).",
+    "notes": "| 📄 09.11.2026 (📨 Ордера и Расчеты; «Payment from ATB❗️»; файл «INV 16 350,00 EUR.pdf») — ОРДЕР на платёж: компания-плательщик ATB; бенефициар MALVARROSA OU (Tulika 19; 10613 Tallinn; Estonia); банк Paysera LT; UAB; SWIFT EVIULT2VXXX; счёт LT923500010017273592; назначение «invoice No. M10-07 dd 20.10.2026»; сумма 16 350.00 EUR; OUR. 🚨 РАСХОЖДЕНИЕ реквизитов: в инвойсе M10-07 банк Banking Circle UK (IBAN GB75SAPY60838229948293; SWIFT SAPYGB2L); в ордере — Paysera LT (LT923500010017273592; EVIULT2VXXX; те же реквизиты; что у r6 от 08.10.2026). Перед оплатой сверить банк получателя. Компания ATB подтверждена ордером; строка ⬜. | 🛡️ 09.11.2026: движение IN 18494.43 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:43). | ⏳ ждём расчёт оператора",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -504,7 +504,12 @@
       "file": "invoice M10-07.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "не подтверждено оператором",
+    "costSourceRef": {
+      "ref": "telegram:7206154434#62929",
+      "date": "2026-11-13"
+    }
   },
   {
     "row": 16,
@@ -523,7 +528,7 @@
     "vdx_rate": null,
     "received_usdt": 202380.07,
     "sent_usdt": 201966.13,
-    "notes": "📄 09.11.2026 (📨 Константин Просто Группа; файл «Ligo_Electric_180_000_00_EUR_13548.xlsx» — заявка на платёж) — ЗАЯВКА: сумма 180 000.00 EUR; бенефициар LIGO ELECTRIC SA (Via Ponte Laveggio 9; CH-6853 Ligornetto; Switzerland); банк UBS Switzerland AG (Bahnhofstrasse 45; 8001 Zurich; SWIFT UBSWCHZH80A); счёт CH230024724724807660M; назначение «Payment for order 13548 dd 08.11.2026; customer No 001802. Charges: OUR». Основание — order request № 13548 от 08.11.2026 (LIGO ELECTRIC SA → MIA GROUP OF COMPANIES (PVT) LTD; Исламабад); итог заказа 187 825.04 EUR; оплата авансом 180 000.00 EUR. Компания-плательщик в документах не указана — строка 🔴; ждём компанию. Расчёт не проставлен. | 📄 09.11.2026 (📨 Ордера и Расчеты; «Payment from ATB❗️»; файл «INV 180 000,00 EUR.pdf») — ОРДЕР на платёж: компания-плательщик ATB; бенефициар LIGO ELECTRIC SA (Via Ponte Laveggio 9; CH-6853 Ligornetto; Switzerland); банк UBS Switzerland AG; SWIFT UBSWCHZH80A; счёт CH230024724724807660M; назначение «invoice 13548 dd 08.11.2026; customer No 001802»; сумма 180 000.00 EUR; OUR. Компания ATB подтверждена ордером; строка ⬜. | 🛡️ 09.11.2026: движение IN 202380.07 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:44). | 📄 09.11.2026 (📨 Платежные Поручения; файл «Transaction-Details_11-09-26 (3).pdf»; подпись «180.000,00 EUR») — банковский документ SEPA Credit transfer: ATB Service GmbH (Postbank Business Giro aktiv plus, DE86 1007 0399 0077 8100 00) → LIGO ELECTRIC SA (CH23 0024 7247 2480 7660 M), UBS SWITZERLAND AG, UBSWCHZH69A, 180 000,00 EUR, назначение «invoice 13548 dd 08.11.2026, customer No 001802», PDF создан 11/09/26. Статус INITIATED/EXECUTED в документе не указан — цвет не меняю.",
+    "notes": "📄 09.11.2026 (📨 Константин Просто Группа; файл «Ligo_Electric_180_000_00_EUR_13548.xlsx» — заявка на платёж) — ЗАЯВКА: сумма 180 000.00 EUR; бенефициар LIGO ELECTRIC SA (Via Ponte Laveggio 9; CH-6853 Ligornetto; Switzerland); банк UBS Switzerland AG (Bahnhofstrasse 45; 8001 Zurich; SWIFT UBSWCHZH80A); счёт CH230024724724807660M; назначение «Payment for order 13548 dd 08.11.2026; customer No 001802. Charges: OUR». Основание — order request № 13548 от 08.11.2026 (LIGO ELECTRIC SA → MIA GROUP OF COMPANIES (PVT) LTD; Исламабад); итог заказа 187 825.04 EUR; оплата авансом 180 000.00 EUR. Компания-плательщик в документах не указана — строка 🔴; ждём компанию. Расчёт не проставлен. | 📄 09.11.2026 (📨 Ордера и Расчеты; «Payment from ATB❗️»; файл «INV 180 000,00 EUR.pdf») — ОРДЕР на платёж: компания-плательщик ATB; бенефициар LIGO ELECTRIC SA (Via Ponte Laveggio 9; CH-6853 Ligornetto; Switzerland); банк UBS Switzerland AG; SWIFT UBSWCHZH80A; счёт CH230024724724807660M; назначение «invoice 13548 dd 08.11.2026; customer No 001802»; сумма 180 000.00 EUR; OUR. Компания ATB подтверждена ордером; строка ⬜. | 🛡️ 09.11.2026: движение IN 202380.07 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:44). | 📄 09.11.2026 (📨 Платежные Поручения; файл «Transaction-Details_11-09-26 (3).pdf»; подпись «180.000,00 EUR») — банковский документ SEPA Credit transfer: ATB Service GmbH (Postbank Business Giro aktiv plus, DE86 1007 0399 0077 8100 00) → LIGO ELECTRIC SA (CH23 0024 7247 2480 7660 M), UBS SWITZERLAND AG, UBSWCHZH69A, 180 000,00 EUR, назначение «invoice 13548 dd 08.11.2026, customer No 001802», PDF создан 11/09/26. Статус INITIATED/EXECUTED в документе не указан — цвет не меняю. | ⏳ ждём расчёт оператора",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -540,7 +545,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "не подтверждено оператором",
+    "costSourceRef": {
+      "ref": "telegram:7206154434#62929",
+      "date": "2026-11-13"
+    }
   },
   {
     "row": 17,
@@ -809,7 +819,7 @@
     "vdx_rate": null,
     "received_usdt": 35754.96,
     "sent_usdt": 35644.13,
-    "notes": "📄 12.11.2026 (📨 Константин Просто Группа, файл «Invoice FPRO_0252_2026 Bista» — фото/скан) — INVOICE nr FPRO/0252/2026 от 05.11.2026, LOADING LIST: продавец Bista Standard Sp. z o.o. (ul. Smolenska 29, 85-871 Bydgoszcz, Poland; NIP 5542559901, BDO 000521665) → покупатель LLC «Nova» (42 Lenin Avenue, Vladimir region, 600015 Vladimir, Russia); Filter cigarette tubes T&T 1000 economy, 10 000 tubes — 1 620 master cases × 19,75 EUR = 31 995,00 EUR, netto 31 995,00 EUR, VAT 0%, brutto 31 995,00 EUR; ANNEX #37 DD 05.11.2026 к SUPPLY CONTRACT #34 DD 27.11.2024; курс 1 EUR = 4,4014 PLN (NBP 04.11.2026); счёт Erste Bank Polska S.A., SWIFT WBKPPLPP, PL 19 1090 2590 0000 0001 4307 6304; подписала Katarzyna Kulczyńska (Export Manager). Платит ATB — компания проставлена по указанию в топике. | 📄 12.11.2026 (📨 Константин Просто Группа, файл «Form 31995 Bista.docx») — ФОРМА ПЛАТЕЖА: Amount & Currency EUR 31995.00; Beneficiary Bista Standard Sp. z o.o. (ul. Smolenska 29, 85-871 Bydgoszcz, POLAND); IBAN PL19109025900000000143076304; Beneficiary's Bank Erste Bank Polska S.A., SWIFT WBKPPLPP; Details of Payment: «PayMENT for Filter cigarette tubes. INVOICE FPRO/0252/2026 DATED 05/11/2026». Реквизиты совпадают с инвойсом. | 📄 12.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB ‼», файл «INV 31 995,00 EUR.pdf») — ОРДЕР: плательщик ATB; Beneficiary BISTA STANDARD SP. Z O.O. (UL. SMOLENSKA 29, 85-871 BYDGOSZCZ, POLAND), банк ERSTE BANK POLSKA S.A., SWIFT WBKPPLPP, счёт PL19109025900000000143076304; Payment details «INVOICE FPRO/0252/2026 DATED 05/11/2026»; Amount 31 995,00 EUR; OUR. Вложенный INVOICE nr FPRO/0252/2026 от 05.11.2026 (LOADING LIST): продавец Bista Standard Sp. z o.o. (ul. Smolenska 29, 85-871 Bydgoszcz; NIP 5542559901, BDO 000521665), Erste Bank Polska S.A., SWIFT WBKPPLPP, PL 19 1090 2590 0000 0001 4307 6304, курс 1 EUR = 4,4014 PLN (NBP 04.11.2026); Filter cigarette tubes T&T 1000 economy, 10 000 tubes — 1 620 master cases × 19,75 EUR = 31 995,00 EUR, VAT 0%. Сумма и реквизиты совпали со строкой и формой платежа; плательщик ATB подтверждён ордером. | 💰 12.11.2026 — приход USDT 35 754,96 от Константина (Рабочий 6, txid 861ee56c…8852) под эту сделку (31 995,00 EUR): received_usdt = 35 754,96, Q9 отправлен. | 📄 13.11.2026 (📨 Платежные Поручения, файл «file (139).pdf») — SEPA Überweisung Commerzbank: Von ATB Service GmbH (DE43 1004 0000 0453 3493 00, EUR, PremiumGeschäftskonto Plus) → An BISTA STANDARD SP. Z O.O. (PL19 1090 2590 0000 0001 4307 6304, ERSTE BANK POLSKA, WBKPPLPPXXX); Betrag 31 995,00 EUR; Verwendungszweck «INVOICE FPRO/0252/2026 DATED 05/11/2026»; Referenznummer CCB.317.UE.POS00059747; Ausführungsdatum 13.11.2026; статус «Ihre Überweisung wird ausgeführt» — поручение на исполнении → 🟡 (не 🟢)",
+    "notes": "📄 12.11.2026 (📨 Константин Просто Группа, файл «Invoice FPRO_0252_2026 Bista» — фото/скан) — INVOICE nr FPRO/0252/2026 от 05.11.2026, LOADING LIST: продавец Bista Standard Sp. z o.o. (ul. Smolenska 29, 85-871 Bydgoszcz, Poland; NIP 5542559901, BDO 000521665) → покупатель LLC «Nova» (42 Lenin Avenue, Vladimir region, 600015 Vladimir, Russia); Filter cigarette tubes T&T 1000 economy, 10 000 tubes — 1 620 master cases × 19,75 EUR = 31 995,00 EUR, netto 31 995,00 EUR, VAT 0%, brutto 31 995,00 EUR; ANNEX #37 DD 05.11.2026 к SUPPLY CONTRACT #34 DD 27.11.2024; курс 1 EUR = 4,4014 PLN (NBP 04.11.2026); счёт Erste Bank Polska S.A., SWIFT WBKPPLPP, PL 19 1090 2590 0000 0001 4307 6304; подписала Katarzyna Kulczyńska (Export Manager). Платит ATB — компания проставлена по указанию в топике. | 📄 12.11.2026 (📨 Константин Просто Группа, файл «Form 31995 Bista.docx») — ФОРМА ПЛАТЕЖА: Amount & Currency EUR 31995.00; Beneficiary Bista Standard Sp. z o.o. (ul. Smolenska 29, 85-871 Bydgoszcz, POLAND); IBAN PL19109025900000000143076304; Beneficiary's Bank Erste Bank Polska S.A., SWIFT WBKPPLPP; Details of Payment: «PayMENT for Filter cigarette tubes. INVOICE FPRO/0252/2026 DATED 05/11/2026». Реквизиты совпадают с инвойсом. | 📄 12.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB ‼», файл «INV 31 995,00 EUR.pdf») — ОРДЕР: плательщик ATB; Beneficiary BISTA STANDARD SP. Z O.O. (UL. SMOLENSKA 29, 85-871 BYDGOSZCZ, POLAND), банк ERSTE BANK POLSKA S.A., SWIFT WBKPPLPP, счёт PL19109025900000000143076304; Payment details «INVOICE FPRO/0252/2026 DATED 05/11/2026»; Amount 31 995,00 EUR; OUR. Вложенный INVOICE nr FPRO/0252/2026 от 05.11.2026 (LOADING LIST): продавец Bista Standard Sp. z o.o. (ul. Smolenska 29, 85-871 Bydgoszcz; NIP 5542559901, BDO 000521665), Erste Bank Polska S.A., SWIFT WBKPPLPP, PL 19 1090 2590 0000 0001 4307 6304, курс 1 EUR = 4,4014 PLN (NBP 04.11.2026); Filter cigarette tubes T&T 1000 economy, 10 000 tubes — 1 620 master cases × 19,75 EUR = 31 995,00 EUR, VAT 0%. Сумма и реквизиты совпали со строкой и формой платежа; плательщик ATB подтверждён ордером. | 💰 12.11.2026 — приход USDT 35 754,96 от Константина (Рабочий 6, txid 861ee56c…8852) под эту сделку (31 995,00 EUR): received_usdt = 35 754,96, Q9 отправлен. | 📄 13.11.2026 (📨 Платежные Поручения, файл «file (139).pdf») — SEPA Überweisung Commerzbank: Von ATB Service GmbH (DE43 1004 0000 0453 3493 00, EUR, PremiumGeschäftskonto Plus) → An BISTA STANDARD SP. Z O.O. (PL19 1090 2590 0000 0001 4307 6304, ERSTE BANK POLSKA, WBKPPLPPXXX); Betrag 31 995,00 EUR; Verwendungszweck «INVOICE FPRO/0252/2026 DATED 05/11/2026»; Referenznummer CCB.317.UE.POS00059747; Ausführungsdatum 13.11.2026; статус «Ihre Überweisung wird ausgeführt» — поручение на исполнении → 🟡 (не 🟢) | ⏳ ждём расчёт оператора",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -827,7 +837,12 @@
       "file": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "не подтверждено оператором",
+    "costSourceRef": {
+      "ref": "telegram:7206154434#62929",
+      "date": "2026-11-13"
+    }
   },
   {
     "row": 25,
@@ -846,7 +861,7 @@
     "vdx_rate": null,
     "received_usdt": 34423.62,
     "sent_usdt": 34316.1,
-    "notes": "📄 12.11.2026 (📨 Константин Просто Группа, файл «6997 inv BZT 30 799,96 eur ATB Service GmbH _sf.pdf») — ИНВОЙС BZT Master Cargo Kft (№6997): CUSTOMER ATB Service GmbH (Germany, DE-13599 Berlin, Nonnendammallee 22, EU VAT DE463202384), оплата банковским переводом; completion/issue date 12/11/2026, due 22/11/2026; позиции Miele (WWG880 WCS 2 × 833,65 = 1 667,30; WEG895 WCS 4 × 857,14 = 3 428,56; WEI895 WCS 2 × 1 042,96 = 2 085,92; WTR870WPM 5 × 1 607,60 = 8 038,00; WQ1000 WPS 8 × 1 511,12 = 12 088,96; TEA535 WP 6 × 581,87 = 3 491,22); Total 30 799,96 EUR, VAT 0, MNB 364,92 HUF, Gross 11 239 521 HUF; реквизиты: Beneficiary SYMOCO PAYMENTS LTD, IBAN LT843981120000002353, SWIFT USTILT2VXXX, Bank UAB Stanhope Financial (Vilnius, Lithuania), reference «BZT Master Cargo Kft.». Компания строки поставлена ATB Service GmbH по этому инвойсу (источник invoice). | 📄 12.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB❗️», файл «INV 30 799,96 EUR.pdf») — ОРДЕР: плательщик ATB; Beneficiary BZT Master Cargo Kft (1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó, HUNGARY), банк UAB Stanhope Financial, счёт LT843981120000002353, SWIFT USTILT2VXXX; Payment details «invoice No. Е-BZT-2026-20 dd 22.10.2026»; Amount 30 799,96 EUR; OUR. Вложенный инвойс — тот же BZT Master Cargo Kft на ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, DE463202384), позиции Miele (WWG880 2 × 833,65; WEG895 4 × 857,14; WEI895 2 × 1 042,96; WTR870WPM 5 × 1 607,60; WQ1000 WPS 8 × 1 511,12; TEA535 6 × 581,87), Total 30 799,96 EUR, VAT 0, due 22/11/2026. ⚠️ В ордере номер инвойса Е-BZT-2026-20 dd 22.10.2026, а вложенный инвойс — issue date 12/11/2026 (файл ранее шёл как «6997 inv BZT») — номер/дата расходятся, уточнить у владельца. Сумма совпадает со строкой. | 💰 12.11.2026 — приход USDT 34 423,62 от Константина (Рабочий 6, txid de207d8c…3299) под эту сделку (30 799,96 EUR): received_usdt = 34 423,62, Q9 отправлен.",
+    "notes": "📄 12.11.2026 (📨 Константин Просто Группа, файл «6997 inv BZT 30 799,96 eur ATB Service GmbH _sf.pdf») — ИНВОЙС BZT Master Cargo Kft (№6997): CUSTOMER ATB Service GmbH (Germany, DE-13599 Berlin, Nonnendammallee 22, EU VAT DE463202384), оплата банковским переводом; completion/issue date 12/11/2026, due 22/11/2026; позиции Miele (WWG880 WCS 2 × 833,65 = 1 667,30; WEG895 WCS 4 × 857,14 = 3 428,56; WEI895 WCS 2 × 1 042,96 = 2 085,92; WTR870WPM 5 × 1 607,60 = 8 038,00; WQ1000 WPS 8 × 1 511,12 = 12 088,96; TEA535 WP 6 × 581,87 = 3 491,22); Total 30 799,96 EUR, VAT 0, MNB 364,92 HUF, Gross 11 239 521 HUF; реквизиты: Beneficiary SYMOCO PAYMENTS LTD, IBAN LT843981120000002353, SWIFT USTILT2VXXX, Bank UAB Stanhope Financial (Vilnius, Lithuania), reference «BZT Master Cargo Kft.». Компания строки поставлена ATB Service GmbH по этому инвойсу (источник invoice). | 📄 12.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB❗️», файл «INV 30 799,96 EUR.pdf») — ОРДЕР: плательщик ATB; Beneficiary BZT Master Cargo Kft (1141 Budapest, Mogyoródi út 85. pi.szt 3. ajtó, HUNGARY), банк UAB Stanhope Financial, счёт LT843981120000002353, SWIFT USTILT2VXXX; Payment details «invoice No. Е-BZT-2026-20 dd 22.10.2026»; Amount 30 799,96 EUR; OUR. Вложенный инвойс — тот же BZT Master Cargo Kft на ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, DE463202384), позиции Miele (WWG880 2 × 833,65; WEG895 4 × 857,14; WEI895 2 × 1 042,96; WTR870WPM 5 × 1 607,60; WQ1000 WPS 8 × 1 511,12; TEA535 6 × 581,87), Total 30 799,96 EUR, VAT 0, due 22/11/2026. ⚠️ В ордере номер инвойса Е-BZT-2026-20 dd 22.10.2026, а вложенный инвойс — issue date 12/11/2026 (файл ранее шёл как «6997 inv BZT») — номер/дата расходятся, уточнить у владельца. Сумма совпадает со строкой. | 💰 12.11.2026 — приход USDT 34 423,62 от Константина (Рабочий 6, txid de207d8c…3299) под эту сделку (30 799,96 EUR): received_usdt = 34 423,62, Q9 отправлен. | ⏳ ждём расчёт оператора",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -863,7 +878,12 @@
       "file": "input-6997_inv_BZT_30_799.96_eur_ATB_Service_GmbH_sf---d3c4b28d-f6b9-43bf-9314-5831b916ed40.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "не подтверждено оператором",
+    "costSourceRef": {
+      "ref": "telegram:7206154434#62929",
+      "date": "2026-11-13"
+    }
   },
   {
     "row": 26,
@@ -918,7 +938,7 @@
     "vdx_rate": null,
     "received_usdt": 255366.69,
     "sent_usdt": 254229.35,
-    "notes": "📄 12.11.2026 (📨 Константин Просто Группа, файл «Melitta_229_223_20_EUR_3975744.xlsx») — заявка на платёж: 229 223.20 EUR, получатель Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany); Deutsche Bank AG (Minden, Germany); SWIFT DEUTDE3B490; счёт DE03490700280291371300; назначение «Payment for proforma invoice 3975744 dd 12.11.2026, customer N 26236». Также получен PDF-инвойс Melitta 3975744 от 12.11.2026 (Warenempfänger TECHNORIUM LLC, Tbilisi; FCA Minden; оплата авансом). | ✏️ 12.11.2026 (📨 Ордера и Расчеты: Payment from ATB) — ордер на платёж подтверждён: бенефициар Melitta Europa GmbH & Co. KG; Deutsche Bank AG (Minden, Germany); SWIFT DEUTDE3B490; счёт DE03490700280291371300; payment details «invoice 3975744 dd 12.11.2026, customer N 26236»; условие OUR. Сумма ордера совпадает со строкой. | ✏️ 12.11.2026 (📨 Ордера и Расчеты) — ЧАСТИЧНАЯ ОПЛАТА по инвойсу 3975744: сумма строки — сумма ордера (229 223,20 EUR), а не полный итог инвойса. | 💰 12.11.2026 — приход USDT 255 366,69 от Константина (Рабочий 6, txid 87cd1289…5ddf) записан под эту сделку: received_usdt = 255 366,69 (перевод 15:16 UTC, Q9 отправлен). | 📄 13.11.2026 (📨 Ордера и Расчеты 11:45, XE EUR/USD 1 EUR = 1,10594 USD): расчёт к оплате — (229 223,20 × 1,0025 + 80) × 1,10594 = 254 229,35 USDT; кошелёк получателя TLmwx8nwDREHohQPfcj9ANmGSQWpTV7eYZ. Себестоимость строки установлена по этому ордеру | 🛡️ 13.11.2026: движение OUT 254229.35 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:27).",
+    "notes": "📄 12.11.2026 (📨 Константин Просто Группа, файл «Melitta_229_223_20_EUR_3975744.xlsx») — заявка на платёж: 229 223.20 EUR, получатель Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany); Deutsche Bank AG (Minden, Germany); SWIFT DEUTDE3B490; счёт DE03490700280291371300; назначение «Payment for proforma invoice 3975744 dd 12.11.2026, customer N 26236». Также получен PDF-инвойс Melitta 3975744 от 12.11.2026 (Warenempfänger TECHNORIUM LLC, Tbilisi; FCA Minden; оплата авансом). | ✏️ 12.11.2026 (📨 Ордера и Расчеты: Payment from ATB) — ордер на платёж подтверждён: бенефициар Melitta Europa GmbH & Co. KG; Deutsche Bank AG (Minden, Germany); SWIFT DEUTDE3B490; счёт DE03490700280291371300; payment details «invoice 3975744 dd 12.11.2026, customer N 26236»; условие OUR. Сумма ордера совпадает со строкой. | ✏️ 12.11.2026 (📨 Ордера и Расчеты) — ЧАСТИЧНАЯ ОПЛАТА по инвойсу 3975744: сумма строки — сумма ордера (229 223,20 EUR), а не полный итог инвойса. | 💰 12.11.2026 — приход USDT 255 366,69 от Константина (Рабочий 6, txid 87cd1289…5ddf) записан под эту сделку: received_usdt = 255 366,69 (перевод 15:16 UTC, Q9 отправлен). | 📄 13.11.2026 (📨 Ордера и Расчеты 11:45, XE EUR/USD 1 EUR = 1,10594 USD): расчёт к оплате — (229 223,20 × 1,0025 + 80) × 1,10594 = 254 229,35 USDT; кошелёк получателя TLmwx8nwDREHohQPfcj9ANmGSQWpTV7eYZ. Себестоимость строки установлена по этому ордеру | 🛡️ 13.11.2026: движение OUT 254229.35 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:27). | ⏳ ждём расчёт оператора",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -935,7 +955,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "не подтверждено оператором",
+    "costSourceRef": {
+      "ref": "telegram:7206154434#62929",
+      "date": "2026-11-13"
+    }
   },
   {
     "row": 28,
