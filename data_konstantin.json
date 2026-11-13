@@ -855,7 +855,7 @@
     "sum": 30799.96,
     "currency": "EUR",
     "company": "ATB Service GmbH",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(30 799,96 × 1,0025 + 80) × 1,10851 = 34 316,10 USDT (XE EUR/USD 1,10887, 12.11.2026 14:55)",
     "extra": null,
