@@ -1517,28 +1517,6 @@
     },
     {
       "row": 52,
-      "date": "2026-11-11",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ООО БАЛТИК ЛЕНД",
-      "costFormula": "",
-      "extra": null,
-      "rubles_received": 3819928.84,
-      "statementRef": "ОсОО_Блэкшарк_Трейд_, _ПОЧТОБАНК_iBank_для_Бизнеса.pdf",
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "🏦 приход по выписке: ОсОО_Блэкшарк_Трейд_, _ПОЧТОБАНК_iBank_для_Бизнеса.pdf | 🏦 11.11.2026 (📨 Платежи из Мира Привелегий (t23693), файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf», сформировано 18:41 GMT+05) — кредит ПП №3002 от 11.11.2026: 3 819 928,84 ₽ от ООО «БАЛТИК ЛЭНД» (ИНН 7813456956, счёт 40702810217350005081, БИК 044525411), назначение {VO21100} «Оплата за перевозку по контракту 06052026/1 от 06.05.2026, Перевод ДС ПА пор. 93 от 11.11.2026 к аг. договору 120525-B от 12.05.2025», НДС не облагается. rubles_received = 3819928.84. Сделка/инвойс ещё не приходили — строка 🔵, ждём документ (сумма/валюта).",
-      "calc": null,
-      "sumSource": null,
-      "rowId": "main-000488"
-    },
-    {
-      "row": 53,
       "date": "2026-11-12",
       "sum": 45648.54,
       "currency": "EUR",
@@ -1566,7 +1544,7 @@
       "rowId": "main-000490"
     },
     {
-      "row": 54,
+      "row": 53,
       "date": "2026-11-12",
       "sum": 2577369.32,
       "currency": "RUB",
@@ -1594,7 +1572,7 @@
       "rowId": "main-000491"
     },
     {
-      "row": 55,
+      "row": 54,
       "date": "2026-11-12",
       "sum": 159883,
       "currency": "USD",
@@ -1622,7 +1600,7 @@
       "rowId": "main-000492"
     },
     {
-      "row": 56,
+      "row": 55,
       "date": "2026-11-12",
       "sum": 55985.07,
       "currency": "USD",
@@ -1650,7 +1628,7 @@
       "rowId": "main-000493"
     },
     {
-      "row": 57,
+      "row": 56,
       "date": "2026-11-12",
       "sum": 12087.67,
       "currency": "EUR",
@@ -1686,7 +1664,7 @@
       "companyVerified": false
     },
     {
-      "row": 58,
+      "row": 57,
       "date": "2026-11-12",
       "sum": 9589.32,
       "currency": "USD",
@@ -1714,7 +1692,7 @@
       "rowId": "main-000495"
     },
     {
-      "row": 59,
+      "row": 58,
       "date": "2026-11-12",
       "sum": 10087.91,
       "currency": "EUR",
@@ -1751,7 +1729,7 @@
       "companyVerified": true
     },
     {
-      "row": 60,
+      "row": 59,
       "date": "2026-11-12",
       "sum": 38506.87,
       "currency": "USD",
@@ -1762,12 +1740,12 @@
       "extra": null,
       "rubles_received": "3195685.14 / 56234.28",
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
+      "sent_rubles_vdx": "3246919.43",
+      "exchange_to": "Almeno",
+      "vdx_rate": 82.99,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 12.11.2026 (📨 ВТС · t7294 · файлы «инвойс услуги Би трейд 74522.pdf» и «Поручение 74522.pdf») — ПОРУЧЕНИЕ №74522 от 12.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → получатель GZP TRADING CO. LTD (Room 4 16th Floor Goodview Commercial Center 2-16 Garden Street Mong Kok Hong Kong); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK; SWIFT CZCBCN2X; счёт NRA15602002010590034271; банк YIWULEYUAN EAST JIANGBIN RD YIWU ZHEJIANG CHINA; назначение «PAYMENT BY PROFORMA INVOICE NO: 74522 DATE: 14.08.2026»; курс 82.9900; сумма к перечислению 3 195 685.14 RUB; комиссия агента 1.5% + 100 USD. Инвойс услуг БиТрейд 74522 от 12.11.2026 — 677.60 USD = 56 234.28 RUB (посреднические услуги по курсу 82.9900). | 📄 12.11.2026 (📨 ВТС · t7294, файл «INV № 74522 от 14.08.26 new.xlsx») — COMMERCIAL INVOICE CI №74522 от 14.08.2026: продавец GZP TRADING CO. LTD (Room 4, 16th Floor, Goodview Commercial Center, 2-16 Garden Street, Mong Kok, Hong Kong) → покупатель LLC «WTC» / ООО «ВТС»; Sales Contract №13-08/2026 от 13.08.2026; товар — DIXEL переходные рамки и линзы (заказ 5D-42); итог 38 506.87 USD. | 📄 12.11.2026 (📨 USD, файл «Invoice 74522 GZP TRADING 38506.87 USD.pdf») — вторая версия коммерческого инвойса CI №74522 от 14.08.2026, в ней покупатель указан Q8 GROUP LIMITED (RM A22, 10/F, NO. 2, Hung To Road, Kwun Tong, Hong Kong), продавец GZP TRADING CO. LTD; товар — DIXEL переходные рамки/линзы (заказ 5D-42). Ранее получена версия того же CI 74522 на LLC «WTC»/ООО «ВТС» — сумма и номер совпадают, сделка та же (строка не дублируется).",
+      "notes": "📄 12.11.2026 (📨 ВТС · t7294 · файлы «инвойс услуги Би трейд 74522.pdf» и «Поручение 74522.pdf») — ПОРУЧЕНИЕ №74522 от 12.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → получатель GZP TRADING CO. LTD (Room 4 16th Floor Goodview Commercial Center 2-16 Garden Street Mong Kok Hong Kong); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK; SWIFT CZCBCN2X; счёт NRA15602002010590034271; банк YIWULEYUAN EAST JIANGBIN RD YIWU ZHEJIANG CHINA; назначение «PAYMENT BY PROFORMA INVOICE NO: 74522 DATE: 14.08.2026»; курс 82.9900; сумма к перечислению 3 195 685.14 RUB; комиссия агента 1.5% + 100 USD. Инвойс услуг БиТрейд 74522 от 12.11.2026 — 677.60 USD = 56 234.28 RUB (посреднические услуги по курсу 82.9900). | 📄 12.11.2026 (📨 ВТС · t7294, файл «INV № 74522 от 14.08.26 new.xlsx») — COMMERCIAL INVOICE CI №74522 от 14.08.2026: продавец GZP TRADING CO. LTD (Room 4, 16th Floor, Goodview Commercial Center, 2-16 Garden Street, Mong Kok, Hong Kong) → покупатель LLC «WTC» / ООО «ВТС»; Sales Contract №13-08/2026 от 13.08.2026; товар — DIXEL переходные рамки и линзы (заказ 5D-42); итог 38 506.87 USD. | 📄 12.11.2026 (📨 USD, файл «Invoice 74522 GZP TRADING 38506.87 USD.pdf») — вторая версия коммерческого инвойса CI №74522 от 14.08.2026, в ней покупатель указан Q8 GROUP LIMITED (RM A22, 10/F, NO. 2, Hung To Road, Kwun Tong, Hong Kong), продавец GZP TRADING CO. LTD; товар — DIXEL переходные рамки/линзы (заказ 5D-42). Ранее получена версия того же CI 74522 на LLC «WTC»/ООО «ВТС» — сумма и номер совпадают, сделка та же (строка не дублируется). | 🔗 2026-11-13 (Scream: «Scream 13.11.2026: r59 (ПП 74522) и r63 (ПП №200 на Almeno) — одна сделка ВТС») — строки 63 объединены с этой: sum = 38506.87 USD; rubles_received = 3195685.14 / 56234.28; sent_rubles_vdx = 3246919.43; цвет = 🔴 (row 59 (выжившая), понижение запрещено). Полные notes прежних строк — в Main.removed-rows_59-63_2026-11-13.json.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -1776,10 +1754,14 @@
         "date": null,
         "messageId": "Поручение 74522.pdf"
       },
-      "rowId": "main-000498"
+      "rowId": "main-000498",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 msg 17545 @ 2026-11-13 09:16"
+      }
     },
     {
-      "row": 61,
+      "row": 60,
       "date": "2026-11-12",
       "sum": null,
       "currency": null,
@@ -1801,7 +1783,7 @@
       "rowId": "main-000499"
     },
     {
-      "row": 62,
+      "row": 61,
       "date": "2026-11-12",
       "sum": 1574562.87,
       "currency": "RUB",
@@ -1829,7 +1811,7 @@
       "rowId": "main-000500"
     },
     {
-      "row": 63,
+      "row": 62,
       "date": "2026-11-12",
       "sum": 19111.59,
       "currency": "USD",
@@ -1857,29 +1839,7 @@
       "rowId": "main-000501"
     },
     {
-      "row": 64,
-      "date": "2026-11-12",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ООО ВТС",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": 3246919.43,
-      "exchange_to": "Almeno",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "🏦 12.11.2026 (📨 Отправки рублей ПП., файл «international_payments 200.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №200 от 12.11.2026, EXECUTED: ОсОО «БиТрейд Кей Джи» (счёт 40807810525640000008, ВТБ) → АЛЬМЕНО КО., ЛТД (ИНН 9909691746, счёт 40807810700300000030); назначение {VO60081} «Оплата по агент.дог. № AL17062026-3 от 17.06.2026, согл. заяв.42 от 12.11.2026 за запчасти». Строка 🔵: сделка/инвойс по заявке 42 ещё не поступали.",
-      "calc": null,
-      "sumSource": null,
-      "rowId": "main-000502"
-    },
-    {
-      "row": 65,
+      "row": 63,
       "date": "2026-11-12",
       "sum": 28381.4,
       "currency": "USD",
