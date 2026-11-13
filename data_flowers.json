@@ -104,7 +104,13 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "costSource": "operator",
+    "costSourceRef": {
+      "source": "operator",
+      "ref": "Scream 05.11.2026 Ордера и Расчеты: 60513.58 EUR x 1.0025 + 80 x 1.12322 = 68229.85 USDT",
+      "date": "2026-11-05"
+    }
   },
   {
     "row": 5,
@@ -251,7 +257,8 @@
         "amount": 10100,
         "rowId": "flw-000180"
       }
-    ]
+    ],
+    "payerSystem": "BAXS"
   },
   {
     "row": 10,
@@ -304,7 +311,8 @@
         "amount": 10100,
         "rowId": "flw-000181"
       }
-    ]
+    ],
+    "payerSystem": "BAXS"
   },
   {
     "row": 11,
@@ -345,7 +353,8 @@
     "costSourceRef": {
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
-    }
+    },
+    "payerSystem": "BAXS"
   },
   {
     "row": 12,
@@ -438,7 +447,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, FINIVEST AI msg 61563, 10.11.2026",
       "date": "2026-11-10"
-    }
+    },
+    "payerSystem": "BAXS"
   },
   {
     "row": 15,
@@ -663,7 +673,8 @@
       "file": "GEOFLORA_18000_USD_11-11-2026.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "payerSystem": "BAXS"
   },
   {
     "row": 23,

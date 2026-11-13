@@ -396,7 +396,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, FINIVEST AI msg 61563, 10.11.2026",
       "date": "2026-11-10"
-    }
+    },
+    "payerSystem": "BAXS"
   },
   {
     "row": 14,
@@ -488,7 +489,8 @@
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
     },
-    "directToExchanger": true
+    "directToExchanger": true,
+    "payerSystem": "BAXS"
   },
   {
     "row": 17,
@@ -552,7 +554,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, FINIVEST AI msg 61563, 10.11.2026",
       "date": "2026-11-10"
-    }
+    },
+    "payerSystem": "BAXS"
   },
   {
     "row": 19,
@@ -581,7 +584,8 @@
       "file": null
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "payerSystem": "BAXS"
   },
   {
     "row": 20,
@@ -622,7 +626,8 @@
     "costSourceRef": {
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
-    }
+    },
+    "payerSystem": "BAXS"
   },
   {
     "row": 21,
@@ -662,7 +667,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
-    }
+    },
+    "payerSystem": "BAXS"
   },
   {
     "row": 22,
@@ -698,7 +704,8 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "payerSystem": "BAXS"
   },
   {
     "row": 23,
@@ -736,7 +743,8 @@
     },
     "companyProvisional": false,
     "companyVerified": true,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "payerSystem": "BAXS"
   },
   {
     "row": 24,
@@ -813,7 +821,8 @@
     "costSourceRef": {
       "ref": "telegram:7206154434#61952; 2026-11-11",
       "date": "2026-11-11"
-    }
+    },
+    "payerSystem": "BAXS"
   },
   {
     "row": 26,
@@ -892,7 +901,8 @@
     "costSourceRef": {
       "ref": "telegram:-1003734813084#61970; 2026-11-11",
       "date": "2026-11-11"
-    }
+    },
+    "payerSystem": "BAXS"
   },
   {
     "row": 28,
@@ -928,7 +938,8 @@
       "file": "9650_USD_INVOICE_GLOBAL_UZLOG_LOJISTIK_TICARET_LIMITED_SIRKETI_2.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "payerSystem": "BAXS"
   },
   {
     "row": 29,
@@ -964,7 +975,8 @@
       "file": "13745_USD_INVOICE_SHEN_ZHEN_SHI_NI_ZHOU_KE_JI_YOU_XIAN_GONG_SI_1.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "payerSystem": "BAXS"
   },
   {
     "row": 30,
@@ -1006,7 +1018,8 @@
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
     },
-    "directToExchanger": true
+    "directToExchanger": true,
+    "payerSystem": "BAXS"
   },
   {
     "row": 31,
@@ -1184,7 +1197,8 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "payerSystem": "BAXS"
   },
   {
     "row": 36,
@@ -1220,7 +1234,8 @@
       "file": "PI_for_agent.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "payerSystem": "BAXS"
   },
   {
     "row": 37,
@@ -1505,7 +1520,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 13.11.2026 (📨 Молодежь · t13916 · 2 679 000 JPY Евразия Логистика, файл «1506878-02.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №200 от 13.11.2026 (электронно, ЭП Поплавская О.В., исполнено Морским банком 13.11.2026): плательщик ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246, МОРСКОЙ БАНК АО, БИК 044525095) → получатель VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555) — 1 506 878,02 ₽ {VO60081} «Перевод в пользу BE FORWARD CO., LTD. Субагентский договор № СА-2026-3108-01 от 31.08.26 поручение 10 от 13.11.2026, оплата за лог. услуги», без НДС. sent_rubles_vdx = 1 506 878,02 ₽, маршрут VDX; сумма сделки 2 679 000 JPY — из сообщения. | ПП на VDX №200 от 13.11.2026 (1 506 878,02 ₽ — номер из документа ПП)",
+    "notes": "📄 13.11.2026 (📨 Молодежь · t13916 · 2 679 000 JPY Евразия Логистика, файл «1506878-02.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №200 от 13.11.2026 (электронно, ЭП Поплавская О.В., исполнено Морским банком 13.11.2026): плательщик ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, КПП 772687001, счёт 40807810700002236246, МОРСКОЙ БАНК АО, БИК 044525095) → получатель VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555) — 1 506 878,02 ₽ {VO60081} «Перевод в пользу BE FORWARD CO., LTD. Субагентский договор № СА-2026-3108-01 от 31.08.26 поручение 10 от 13.11.2026, оплата за лог. услуги», без НДС. sent_rubles_vdx = 1 506 878,02 ₽, маршрут VDX; сумма сделки 2 679 000 JPY — из сообщения. | ПП на VDX №200 от 13.11.2026 (1 506 878,02 ₽ — номер из документа ПП) | 📄 13.11.2026 (📨 Молодежь · t14011 · «IM121126_01_updated (1).pdf») — PRO-FORMA INVOICE № 4096372 от 09.11.2026 (BE FORWARD CO.,LTD., Токио; покупатель PQ18 Limited, DBS Bank (Hong Kong) Ltd, DHBKHKHH): HONDA Vezel, RV4-1204968, 2 679 000 JPY, оплата 100% до отгрузки T/T; банк MUFG BANK LTD (BOTKJPJT), счёт 225-0636634. 📄 13.11.2026 (📨 Молодежь · t14011 · «payment order_2679000 JPY.docx») — PAYMENT ORDER от 12.11.2026: 2 679 000,00 JPY, получатель BE FORWARD CO.,LTD., MUFG BANK LTD, счёт 225-0636634, SWIFT BOTKJPJT, назначение «Payment Inv 4096372 dd 09.11.2026». Сумма сделки 2 679 000 JPY подтверждена инвойсом и поручением.",
     "calc": null,
     "sumSource": {
       "source": "pp",

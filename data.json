@@ -32,7 +32,8 @@
       "costSourceRef": {
         "ref": "telegram:7206154434#62929",
         "date": "2026-11-13"
-      }
+      },
+      "payerSystem": "JP Morgan"
     },
     {
       "row": 2,
@@ -284,7 +285,8 @@
       "costSourceRef": {
         "ref": "owner_instruction, FINIVEST AI msg 61627, 10.11.2026",
         "date": "2026-11-10"
-      }
+      },
+      "payerSystem": "BAXS"
     },
     {
       "row": 11,
@@ -314,7 +316,8 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "calcStale": true
+      "calcStale": true,
+      "payerSystem": "BAXS"
     },
     {
       "row": 12,
@@ -343,7 +346,8 @@
         "messageId": "16872"
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "BAXS"
     },
     {
       "row": 13,
@@ -372,7 +376,8 @@
         "messageId": "16872"
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "BAXS"
     },
     {
       "row": 14,
@@ -401,7 +406,8 @@
         "messageId": "16872"
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "BAXS"
     },
     {
       "row": 15,
@@ -430,7 +436,8 @@
         "messageId": "16872"
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "BAXS"
     },
     {
       "row": 16,
@@ -459,7 +466,8 @@
         "messageId": "16872"
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "BAXS"
     },
     {
       "row": 17,
@@ -488,7 +496,8 @@
         "messageId": "16872"
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "BAXS"
     },
     {
       "row": 18,
@@ -517,7 +526,8 @@
         "messageId": "16872"
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "BAXS"
     },
     {
       "row": 19,
@@ -546,7 +556,8 @@
         "messageId": "17005"
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "BAXS"
     },
     {
       "row": 20,
@@ -651,7 +662,8 @@
       "sent_usdt": null,
       "notes": "📄 05.11.2026 (📨 Fininvest — ИП Осипенко В.П., файл «платежные поручения.pdf») — два ПП от ООО «АРОСИ» (ИНН 3905036979, КПП 390601001, КБ «ЭНЕРГОТРАНСБАНК» г. Калининград, БИК 042748701) на Ворлд Трейдинг Компани ФЗСО (ИНН 9909608018, КПП 770387001, счёт 40807810000000032128), оба ИСПОЛНЕНО 02.11.2026: 1) 11 970 451,76 ₽ {VO11100} — оплата по контракту № KG191225 от 19.12.2025 за клей TECHNOMELT SUPRA 350 HT, агентский договор № 191225-1 от 19.12.2025 (тело); 2) 434 161,67 ₽ {VO21100} — агентское вознаграждение по агентскому договору № 191225-1 от 19.12.2025. rubles_received = 11 970 451.76 / 434 161.67. Строка 🔵 — формальной заявки/ордера по сделке ещё нет.",
       "calc": null,
-      "rowId": "main-000447"
+      "rowId": "main-000447",
+      "payerSystem": "BAXS"
     },
     {
       "row": 24,
@@ -686,7 +698,8 @@
       "costSourceRef": {
         "ref": "owner_instruction, FINIVEST AI msg 61627, 10.11.2026",
         "date": "2026-11-10"
-      }
+      },
+      "payerSystem": "BAXS"
     },
     {
       "row": 25,
@@ -715,7 +728,8 @@
         "file": null
       },
       "companyProvisional": true,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "BAXS"
     },
     {
       "row": 26,
@@ -787,7 +801,8 @@
         "file": null,
         "date": null,
         "messageId": "telegram:7206154434#61010"
-      }
+      },
+      "payerSystem": "BAXS"
     },
     {
       "row": 28,
@@ -864,7 +879,8 @@
       "costSourceRef": {
         "ref": "owner_instruction, FINIVEST AI msg 61632, 10.11.2026",
         "date": "2026-11-10"
-      }
+      },
+      "payerSystem": "BAXS"
     },
     {
       "row": 30,
@@ -905,7 +921,8 @@
       "costSourceRef": {
         "ref": "owner_instruction, FINIVEST AI msg 61627, 10.11.2026",
         "date": "2026-11-10"
-      }
+      },
+      "payerSystem": "BAXS"
     },
     {
       "row": 31,
@@ -1194,7 +1211,8 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
-      }
+      },
+      "payerSystem": "BAXS"
     },
     {
       "row": 41,
@@ -1322,7 +1340,8 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
-      }
+      },
+      "payerSystem": "BAXS"
     },
     {
       "row": 45,
@@ -1427,7 +1446,8 @@
         "date": null
       },
       "companyProvisional": false,
-      "companyVerified": true
+      "companyVerified": true,
+      "payerSystem": "Xfee"
     },
     {
       "row": 48,
@@ -1583,7 +1603,8 @@
         "date": null
       },
       "companyProvisional": false,
-      "companyVerified": true
+      "companyVerified": true,
+      "payerSystem": "BAXS"
     },
     {
       "row": 53,
@@ -1620,7 +1641,8 @@
         "date": null
       },
       "companyProvisional": false,
-      "companyVerified": true
+      "companyVerified": true,
+      "payerSystem": "BAXS"
     },
     {
       "row": 54,
@@ -1764,7 +1786,8 @@
         "date": null
       },
       "companyProvisional": false,
-      "companyVerified": true
+      "companyVerified": true,
+      "payerSystem": "BAXS"
     },
     {
       "row": 58,
@@ -2060,7 +2083,8 @@
         "file": "PITA-39-111226 -5.pdf"
       },
       "companyProvisional": true,
-      "companyVerified": false
+      "companyVerified": false,
+      "payerSystem": "JP Morgan"
     }
   ]
 }
