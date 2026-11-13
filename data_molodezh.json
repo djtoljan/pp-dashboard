@@ -752,10 +752,10 @@
   {
     "row": 25,
     "date": "2026-11-10",
-    "sum": 5311,
-    "currency": "USD",
+    "sum": 35372,
+    "currency": "CNY",
     "company": "BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Вилог",
     "costFormula": null,
     "extra": "PO 5311 USD, заявка t13575",
@@ -766,14 +766,14 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 10.11.2026 (📨 Молодежь · t13575, файл «PO 5311 USD BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD (1).docx») — ордер на платёж 5 311,00 USD: бенефициар BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD (STAR HOUSE, NO.3 SAUSBURY ROAD, TSIM SHA TSUI, HONG KONG), банк ZHEJIANG CHOUZHOU COMMERCIAL BANK (YIWULEYUAN EAST, JIANGBIN RD, YIWU, ZHEJIANG, CHINA), SWIFT CZCBCN2X, счёт NRA15603142010500007408. Клиент Вилог, компания из ордера — BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD. |  | 📄 10.11.2026 (📨 Молодежь · t13575, файл «5311_USD_INVOICE_BEIJING_YATAI_HUAHENG_TECHNOLOGY_CO_,LTD_1_1.pdf») — INVOICE №PI-PRM 20261103: продавец BEIJING YATAI HUAHENG TECHNOLOGY CO., LTD (STAR HOUSE, NO.3 SAUSBURY ROAD, TSIM SHA TSUI, HONG KONG), покупатель PQ18 Limited; позиции: C9115AXI-R Access point — 15 × 352 = 5 280; RB931-2nD Access point — 1 × 31 = 31; Итого 5 311,00 USD — совпадает с ордером и строкой. Реквизиты: ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15603142010500007408 (Yiwuleyuan East, Jiangbin Rd, Yiwu, Zhejiang, China). | 📄 12.11.2026 (📨 Молодежь · t13575 · 5 311 USD Welog, файл «5311_USD_INVOICE_BEIJING_YATAI_HUAHENG_TECHNOLOGY_CO_,LTD_2.pdf») — INVOICE №PI-PRM 20261103: продавец BEIJING YATAI HUAHENG TECHNOLOGY CO., LTD (STAR HOUSE, NO.3 SAUSBURY ROAD, TSIM SHA TSUI, HONG KONG); в ЭТОЙ версии покупатель — Q8 Group Limited (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), тогда как в ранее полученной версии «…_1_1.pdf» покупателем указан PQ18 Limited. Позиции те же: C9115AXI-R Access point 15 × 352 = 5 280; RB931-2nD Access point 1 × 31 = 31; итого 5 311,00 USD. Реквизиты: ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15603142010500007408 (Yiwuleyuan East, Jiangbin Rd, Yiwu, Zhejiang, China). ВНИМАНИЕ: в поле company строки стоит получатель (BEIJING YATAI), а не плательщик; версии инвойса расходятся по покупателю (PQ18 / Q8) — компанию не меняю до подтверждения владельца. | 📄 12.11.2026 (📨 Молодежь · t13575 · 5 311 USD Welog; «прошу оплатить», файл-скрин Alipay QR) — ЗАПРОС НА ОПЛАТУ через Alipay: 35 372 RMB получателю 王舒灿 (тел. 15713838443; QR-получатель «蓝湛爱天天(**灿)»), назначение — инвойсы PRM-078-081 по поставке BEIJING YATAI HUAHENG TECHNOLOGY CO., LTD. Сверка курса: 5 311,00 USD × 6,6609 ≈ 35 371,9 RMB — сходится. Это ИНСТРУКЦИЯ на платёж (не подтверждение исполнения): сумма строки 5 311 USD не меняется, цвет не меняется; после фактического перевода нужен чек Alipay/выписка для привязки.",
+    "notes": "📄 10.11.2026 (📨 Молодежь · t13575, файл «PO 5311 USD BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD (1).docx») — ордер на платёж 5 311,00 USD: бенефициар BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD (STAR HOUSE, NO.3 SAUSBURY ROAD, TSIM SHA TSUI, HONG KONG), банк ZHEJIANG CHOUZHOU COMMERCIAL BANK (YIWULEYUAN EAST, JIANGBIN RD, YIWU, ZHEJIANG, CHINA), SWIFT CZCBCN2X, счёт NRA15603142010500007408. Клиент Вилог, компания из ордера — BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD. |  | 📄 10.11.2026 (📨 Молодежь · t13575, файл «5311_USD_INVOICE_BEIJING_YATAI_HUAHENG_TECHNOLOGY_CO_,LTD_1_1.pdf») — INVOICE №PI-PRM 20261103: продавец BEIJING YATAI HUAHENG TECHNOLOGY CO., LTD (STAR HOUSE, NO.3 SAUSBURY ROAD, TSIM SHA TSUI, HONG KONG), покупатель PQ18 Limited; позиции: C9115AXI-R Access point — 15 × 352 = 5 280; RB931-2nD Access point — 1 × 31 = 31; Итого 5 311,00 USD — совпадает с ордером и строкой. Реквизиты: ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15603142010500007408 (Yiwuleyuan East, Jiangbin Rd, Yiwu, Zhejiang, China). | 📄 12.11.2026 (📨 Молодежь · t13575 · 5 311 USD Welog, файл «5311_USD_INVOICE_BEIJING_YATAI_HUAHENG_TECHNOLOGY_CO_,LTD_2.pdf») — INVOICE №PI-PRM 20261103: продавец BEIJING YATAI HUAHENG TECHNOLOGY CO., LTD (STAR HOUSE, NO.3 SAUSBURY ROAD, TSIM SHA TSUI, HONG KONG); в ЭТОЙ версии покупатель — Q8 Group Limited (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), тогда как в ранее полученной версии «…_1_1.pdf» покупателем указан PQ18 Limited. Позиции те же: C9115AXI-R Access point 15 × 352 = 5 280; RB931-2nD Access point 1 × 31 = 31; итого 5 311,00 USD. Реквизиты: ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15603142010500007408 (Yiwuleyuan East, Jiangbin Rd, Yiwu, Zhejiang, China). ВНИМАНИЕ: в поле company строки стоит получатель (BEIJING YATAI), а не плательщик; версии инвойса расходятся по покупателю (PQ18 / Q8) — компанию не меняю до подтверждения владельца. | 📄 12.11.2026 (📨 Молодежь · t13575 · 5 311 USD Welog; «прошу оплатить», файл-скрин Alipay QR) — ЗАПРОС НА ОПЛАТУ через Alipay: 35 372 RMB получателю 王舒灿 (тел. 15713838443; QR-получатель «蓝湛爱天天(**灿)»), назначение — инвойсы PRM-078-081 по поставке BEIJING YATAI HUAHENG TECHNOLOGY CO., LTD. Сверка курса: 5 311,00 USD × 6,6609 ≈ 35 371,9 RMB — сходится. Это ИНСТРУКЦИЯ на платёж (не подтверждение исполнения): сумма строки 5 311 USD не меняется, цвет не меняется; после фактического перевода нужен чек Alipay/выписка для привязки. | 💸 13.11.2026 (📨 W& Платежи (Т+С)/169 t29590; Scream msg 62765): оплата бенефициару исполнена тремя переводами с личного платёжного счёта на физлицо 蓝湛爱天天(**灿): 24 200,00 CNY (13.11.2026 11:10:49) + 6 098,00 CNY (13.11.2026 15:40:09, заказ 20261113200040011100860057107415) + 5 074,00 CNY (баланс 2 246,24 + Юйэбао 2 827,76) = 35 372,00 CNY. Сумма строки исправлена с 5 311 USD на 35 372 CNY по факту оплаты (sumSource=scream)",
     "calc": null,
     "sumSource": {
-      "source": "order",
-      "ref": "PO 5311 USD от 10.11.2026",
-      "file": "PO_5311_USD_BEIJING_YATAI_HUAHENG_TECHNOLOGY_CO._LTD_1---47fe8997-dd5d-4d9b-8549-966fa2f62ce3.docx",
+      "source": "scream",
+      "ref": "Scream msg 62765 (35 372 CNY вместо 5 311 USD, исполненные скрины)",
+      "file": null,
       "date": null,
-      "messageId": null
+      "messageId": "telegram:7206154434#62765"
     },
     "rowId": "mol-000242",
     "companySource": {
@@ -834,7 +834,7 @@
     "company": "PQ18",
     "color": "FF92D050",
     "clientName": "Смарт-Агент",
-    "costFormula": null,
+    "costFormula": "7 614,40 + 0,3% + 30",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -842,7 +842,7 @@
     "exchange_to": "VDX",
     "vdx_rate": 82.975,
     "received_usdt": 8044.6,
-    "sent_usdt": null,
+    "sent_usdt": 7667.24,
     "notes": "ПП на VDX №282 от 10.11.2026 (668 168,93 ₽ — номер из документа ПП) | 📄 11.11.2026 (📨 Молодежь · t13601) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №282 от 10.11.2026 (электронно, проведено 10.11.2026): ООО «Смарт-Агент» (ИНН 5074093111, КПП 507401001, счёт 40702810320010015552, АО ЮНИКРЕДИТ БАНК, БИК 044525545) → VDXSERVICES-FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555) — 668 168,93 ₽ {VO11100} оплата по контракту «ATL/SA/ATM-USD» от 18.07.2025 по PROF.INV. № АА-002-160861 dd 09.11.26 по аг.дог. №09-02-5/26 от 09.02.26, без НДС. Сумма строки в USD — из сообщения владельца (t13601); заявка/ордер по сделке ещё не приходили. sent_rubles_vdx = 668168.93, маршрут VDX. Цвет 🔵 — рубли статус не двигают. | 📄 11.11.2026 (📨 Молодежь · t13601, файл «Платежное поручение 160861.docx») — ПОРУЧЕНИЕ по инвойсу 160861: AMOUNT 7 614,40 USD; BENEFICIARY MARPOL PARLATICI SAN. TIC. A.S. (GEPOSB IÇI ATATÜRK BULV. NO:37, GEBZE - KOCAELI / TURKEY); ACCOUNT 675638415004; BENEF.BANK ZIRAAT BANKASI (GEBZE OSB 2 1600. SOKAK NO:1601/15 PK 41430 ÇAYIROVA / KOCAELİ); SWIFT TCZBTR2A; PAYMENT DETAILS: PAYMENT BY PROFORMA INVOICE NO. 2026310 DD 30.10.2026 FOR POLISHING CHEMISTRY. Сумма строки = сумма поручения, компания = MARPOL (order). | 📄 11.11.2026 (📨 Молодежь · t13601, файл «30.10.2026 PI - Uvelin-rev.pdf») — PROFORMA INVOICE №2026310 от 30.10.2026 (rev): shipper MARPOL PARLATICI SAN. TİC. A.Ş. (Geposb içi Atatürk Bulv. No:37, Gebze-Kocaeli, Turkey), receiver PQ18 Limited (18/F, The Center, 99 Queens Road Central, Hong Kong); Port of loading Istanbul, origin Turkey, EXW; TOTAL EXW AMOUNT 7 614,40 USD — совпадает с суммой строки; позиции: полировальные пасты Marpol (DIALUX, EUROLUX, DIAMOND, Tube Cream), 28 позиций; оплата 100% предоплата на ZIRAAT BANKASI, IBAN TR60 0001 0026 2567 5638 4150 04, счёт 675638415004, SWIFT TCZBTR2A; отгрузка 1–2 недели после оплаты; таможенный код 34.05.90.10.00.00. | 📄 12.11.2026 (📨 Заявки PQ18, файл «30.10.2026 PI - Uvelin-rev.pdf») — PROFORMA INVOICE PI №2026310 от 30.10.2026: shipper MARPOL PARLATICI SAN. TİC. A.Ş. (Geposb içi Atatürk Bulv. No:37, Gebze - Kocaeli, Turkey) → receiver PQ18 Limited (18/F, The Center, 99 Queen's Road Central, Hong Kong); товар — полировальные пасты Marpol EUROLUX и др.; TOTAL EXW AMOUNT; условия 100% Cash in Advance, EXW Istanbul, отгрузка 1-2 недели после оплаты, origin Turkey. | 🏦 12.11.2026 (📨 Заявки PQ18, файл «Платежное поручение 160861.docx») — платёжное поручение на оплату PI 2026310: beneficiary MARPOL PARLATICI SAN. TIC. A.S. (GEPOSB IÇI ATATÜRK BULV. NO:37, GEBZE - KOCAELI / TURKEY); счёт 675638415004 в ZIRAAT BANKASI (GEBZE OSB 2 1600. SOKAK NO:1601/15 PK 41430 ÇAYIROVA / KOCAELI); SWIFT TCZBTR2A; payment details «PAYMENT BY PROFORMA INVOICE NO. 2026310 DD 30.10.2026 FOR POLISHING CHEMISTRY». | 🔧 13.11.2026 (распоряжение Scream, FINIVEST AI): компания строки изменена с MARPOL PARLATICI SAN. TIC. A.S. на PQ18 — по плательщику в BONBILL Payment Certificate (txid O2121130509139574784789, Payer PQ18 Limited; получатель MARPOL PARLATICI SAN. TIC. A.S., ZIRAAT BANKASI, USD 7 614,40). Расчёт себестоимости — формула Q8 (сумма + 0,3% + 30)",
     "calc": null,
     "sumSource": {

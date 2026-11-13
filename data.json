@@ -794,7 +794,7 @@
       "date": "2026-11-06",
       "sum": 12244.26,
       "currency": "EUR",
-      "company": "Itrix Co., Ltd.",
+      "company": "PQ18",
       "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "12244,26 / 0.88816831838 (FX Q8 10.11.2026: 1 USD = 0.88816831838 EUR) + 0,3% + 30 = 13857,33 USDT",
@@ -817,13 +817,14 @@
       },
       "rowId": "main-000457",
       "companySource": {
-        "source": "order",
-        "date": null,
-        "ref": "Поручение 76256-2 от 06.11.2026",
-        "messageId": null
+        "source": "foreign_pp",
+        "file": "input-12244.26---f164e673-ef71-4327-98fc-e211c5933ec3.pdf",
+        "txid": null,
+        "ref": "O2120125656766480384753",
+        "date": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": true
     },
     {
       "row": 29,
