@@ -2055,7 +2055,7 @@
       "sum": null,
       "currency": null,
       "company": null,
-      "color": "FFFF0000",
+      "color": "FFFFFFFF",
       "clientName": "ООО ВТС",
       "costFormula": "--doc-ref",
       "extra": "О:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 13.11.26_2",
