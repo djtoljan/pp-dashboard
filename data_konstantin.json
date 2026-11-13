@@ -940,12 +940,12 @@
   {
     "row": 28,
     "date": "2026-11-13",
-    "sum": 169975,
+    "sum": 110000,
     "currency": "USD",
-    "company": "Z SOURCE",
+    "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "110 000,00 + 0,3% + 30",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -953,22 +953,22 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 13.11.2026 (📨 Константин Просто Группа, файлы «Invoice_26807234_Jizan_to_Z_Source 2.pdf» и «110 000 USD (13.11.2026).xlsx») — COMMERCIAL INVOICE № 26807234 от 11.11.2026: SELLER JIZAN PERFUMES LLC (Shop No.3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, Dubai, UAE; тел. +971 4 226 8090) → BUYER/BILL TO Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Kowloon, HK; Attn: Fan Jianwei, Director). Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 USD = 169 975,00 USD, VAT 0% (export), TOTAL DUE 169 975,00 USD, 100% advance; remitter must be Z SOURCE LIMITED (DBS Bank (Hong Kong) Ltd, SWIFT DHBKHKHH). Бенефициар: JIZAN PERFUMES LLC, United Arab Bank, Dubai, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, корсчёт The Bank of New York Mellon SWIFT IRVTUS3NXXX, код назначения GDI. Приложенная платёжная форма — на 110 000,00 USD (частичная оплата по тому же инвойсу). Владелец группы спрашивает, кто сможет заплатить вместо Z-source — платёж ещё не назначен, строка ⬜ (заявка) | ⚖️ 13.11.2026 (Scream, msg 62762): платёжная форма на 110 000,00 USD — только форма (поля подписей Agent/Subagent пустые, нет статуса исполнения и номера ПП), факта оплаты нет. Сумма строки предварительно — 169 975,00 USD по инвойсу 26807234 (sumSource=invoice). После подтверждения фактической оплаты (ПП/квитанция): sum = 110 000,00 USD, sumSource=pp, инвойс 169 975,00 — в notes.",
+    "sent_usdt": 110360,
+    "notes": "📄 13.11.2026 (📨 Константин Просто Группа, файлы «Invoice_26807234_Jizan_to_Z_Source 2.pdf» и «110 000 USD (13.11.2026).xlsx») — COMMERCIAL INVOICE № 26807234 от 11.11.2026: SELLER JIZAN PERFUMES LLC (Shop No.3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, Dubai, UAE; тел. +971 4 226 8090) → BUYER/BILL TO Z SOURCE LIMITED (RM 509, 5/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Kowloon, HK; Attn: Fan Jianwei, Director). Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 USD = 169 975,00 USD, VAT 0% (export), TOTAL DUE 169 975,00 USD, 100% advance; remitter must be Z SOURCE LIMITED (DBS Bank (Hong Kong) Ltd, SWIFT DHBKHKHH). Бенефициар: JIZAN PERFUMES LLC, United Arab Bank, Dubai, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, корсчёт The Bank of New York Mellon SWIFT IRVTUS3NXXX, код назначения GDI. Приложенная платёжная форма — на 110 000,00 USD (частичная оплата по тому же инвойсу). Владелец группы спрашивает, кто сможет заплатить вместо Z-source — платёж ещё не назначен, строка ⬜ (заявка) | ⚖️ 13.11.2026 (Scream, msg 62762): платёжная форма на 110 000,00 USD — только форма (поля подписей Agent/Subagent пустые, нет статуса исполнения и номера ПП), факта оплаты нет. Сумма строки предварительно — 169 975,00 USD по инвойсу 26807234 (sumSource=invoice). После подтверждения фактической оплаты (ПП/квитанция): sum = 110 000,00 USD, sumSource=pp, инвойс 169 975,00 — в notes. | 📄 13.11.2026 (📨 Константин Просто Группа, файл «Invoice 26807234 Jizan 169975 USD Q8.pdf») — COMMERCIAL INVOICE № 26807234 от 11.11.2026, версия для Q8: BUYER / BILL TO Q8 GROUP LIMITED (RM A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong), «100% in advance by bank transfer in USD. Remitter must be Q8 GROUP LIMITED». Тот же продавец JIZAN PERFUMES LLC (Dubai, UAE), тот же товар: Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 USD = 169 975,00 USD, VAT 0%, TOTAL DUE 169 975,00 USD. Бенефициар: United Arab Bank, Dubai, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, корсчёт Bank of New York Mellon SWIFT IRVTUS3NXXX, код GDI. Компания строки изменена Z SOURCE → Q8 GROUP LIMITED по инвойсу (источник invoice) | 📄 13.11.2026 (📨 Константин Просто Группа, файл «Invoice 26807234 Jizan 110000 USD Q8.pdf») — перевыпущенный COMMERCIAL INVOICE № 26807234 от 11.11.2026 на Q8: Perfumery products HS 3303.00.00 — 2 200 шт × 50,00 USD = 110 000,00 USD, VAT 0%, TOTAL DUE 110 000,00 USD, 100% advance, remitter Q8 GROUP LIMITED. Бенефициар JIZAN PERFUMES LLC, United Arab Bank, IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, код GDI. Сумма строки 169 975 → 110 000 USD по этому инвойсу (sumSource=invoice), расчёт Q8: 110 000 + 0,3% + 30 = 110 360 USDT",
     "calc": null,
     "sumSource": {
       "source": "invoice",
-      "ref": "Commercial Invoice 26807234 от 11.11.2026",
-      "file": "Invoice_26807234_Jizan_to_Z_Source 2.pdf",
+      "ref": "Invoice 26807234 (Q8) 110 000 USD от 11.11.2026",
+      "file": null,
       "date": null,
-      "messageId": null
+      "messageId": "input-Invoice_26807234_Jizan_110000_USD_Q8---cf426af0-5dc7-416d-a349-c3987bb91ed9.pdf"
     },
     "rowId": "kon-000118",
     "companySource": {
       "source": "invoice",
       "date": null,
       "ref": "26807234",
-      "file": "Invoice_26807234_Jizan_to_Z_Source 2.pdf"
+      "file": "Invoice 26807234 Jizan 169975 USD Q8.pdf"
     },
     "companyProvisional": true,
     "companyVerified": false
