@@ -27,7 +27,11 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 30.10 (2026-10-30)"
+    }
   },
   {
     "row": 2,
@@ -56,7 +60,11 @@
       "file": "LION 148800 USD_.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "vdxRateSource": {
+      "kind": "legacy",
+      "ref": "источник не зафиксирован, строка создана до 14.11.2026"
+    }
   },
   {
     "row": 3,
@@ -85,7 +93,11 @@
       "file": "TREEPEAK PI261029.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "vdxRateSource": {
+      "kind": "legacy",
+      "ref": "источник не зафиксирован, строка создана до 14.11.2026"
+    }
   },
   {
     "row": 4,
@@ -116,7 +128,11 @@
     },
     "companyProvisional": false,
     "companyVerified": true,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 03.11 (2026-11-02)"
+    }
   },
   {
     "row": 5,
@@ -148,7 +164,11 @@
     "companyProvisional": false,
     "companyVerified": true,
     "directToExchanger": true,
-    "costSource": "payout"
+    "costSource": "payout",
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 02.11_1 (2026-11-02)"
+    }
   },
   {
     "row": 6,
@@ -183,7 +203,11 @@
       "ref": "owner_instruction, FINIVEST AI msg 60631 Winters BP 05.11.2026, топик FINIVEST AI",
       "date": "2026-11-05"
     },
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 03.11 (2026-11-02)"
+    }
   },
   {
     "row": 7,
@@ -243,7 +267,11 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "vdxRateSource": {
+      "kind": "legacy",
+      "ref": "источник не зафиксирован, строка создана до 14.11.2026"
+    }
   },
   {
     "row": 9,
@@ -277,6 +305,10 @@
     "costSourceRef": {
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
+    },
+    "vdxRateSource": {
+      "kind": "legacy",
+      "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     }
   },
   {
@@ -399,7 +431,11 @@
       "ref": "owner_instruction, FINIVEST AI msg 61563, 10.11.2026",
       "date": "2026-11-10"
     },
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 09.11 (2026-11-05)"
+    }
   },
   {
     "row": 14,
@@ -428,7 +464,11 @@
       "file": "LION 120852.85  USD.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "vdxRateSource": {
+      "kind": "legacy",
+      "ref": "источник не зафиксирован, строка создана до 14.11.2026"
+    }
   },
   {
     "row": 15,
@@ -456,6 +496,10 @@
       "file": null,
       "date": null,
       "messageId": "telegram:7206154434#17045"
+    },
+    "vdxRateSource": {
+      "kind": "legacy",
+      "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     }
   },
   {
@@ -492,7 +536,11 @@
       "date": "2026-11-09"
     },
     "directToExchanger": true,
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 6.11_7 (2026-11-05)"
+    }
   },
   {
     "row": 17,
@@ -523,7 +571,11 @@
     "companyProvisional": true,
     "companyVerified": false,
     "directToExchanger": true,
-    "costSource": "payout"
+    "costSource": "payout",
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 6.11_7 (2026-11-05)"
+    }
   },
   {
     "row": 18,
@@ -559,7 +611,11 @@
       "date": "2026-11-10"
     },
     "payerSystem": "BAXS",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 09.11 (2026-11-05)"
+    }
   },
   {
     "row": 19,
@@ -711,7 +767,11 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 11.11 (2026-11-10)"
+    }
   },
   {
     "row": 23,
@@ -751,7 +811,11 @@
     "companyVerified": true,
     "directToExchanger": true,
     "payerSystem": "BAXS",
-    "costSource": "payout"
+    "costSource": "payout",
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 10.11 (2026-11-10)"
+    }
   },
   {
     "row": 24,
@@ -868,7 +932,11 @@
     },
     "companyProvisional": false,
     "companyVerified": true,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 11.11 (2026-11-10)"
+    }
   },
   {
     "row": 27,
@@ -1028,7 +1096,11 @@
       "date": "2026-11-13"
     },
     "directToExchanger": true,
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 11.11 (2026-11-11)"
+    }
   },
   {
     "row": 31,
@@ -1066,7 +1138,11 @@
     "companyProvisional": true,
     "companyVerified": false,
     "directToExchanger": true,
-    "costSource": "payout"
+    "costSource": "payout",
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 11.11 (2026-11-11)"
+    }
   },
   {
     "row": 32,
@@ -1103,7 +1179,11 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 11.11 (2026-11-11)"
+    }
   },
   {
     "row": 33,
@@ -1141,7 +1221,11 @@
     },
     "companyProvisional": false,
     "companyVerified": true,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 11.11 (2026-11-11)"
+    }
   },
   {
     "row": 34,
@@ -1170,7 +1254,11 @@
       "messageId": null
     },
     "rowId": "mol-000255",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 11.11 (2026-11-11)"
+    }
   },
   {
     "row": 35,
@@ -1209,7 +1297,11 @@
     "companyVerified": false,
     "directToExchanger": true,
     "payerSystem": "BAXS",
-    "costSource": "payout"
+    "costSource": "payout",
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 11.11 (2026-11-11)"
+    }
   },
   {
     "row": 36,
@@ -1247,7 +1339,11 @@
     "companyProvisional": true,
     "companyVerified": false,
     "payerSystem": "BAXS",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 12.11 (2026-11-11)"
+    }
   },
   {
     "row": 37,

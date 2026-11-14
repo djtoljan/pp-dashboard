@@ -33,7 +33,11 @@
         "ref": "telegram:7206154434#62929",
         "date": "2026-11-13"
       },
-      "payerSystem": ""
+      "payerSystem": "",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r1 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 2,
@@ -62,7 +66,11 @@
         "file": "Z SOURCE_PROVISIONAL INVOICE (1) (1).pdf"
       },
       "companyProvisional": true,
-      "companyVerified": false
+      "companyVerified": false,
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r2 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 3,
@@ -83,7 +91,11 @@
       "sent_usdt": null,
       "notes": "ПП на Almeno №177 от 03.11.2026 (1 682 504 16 ₽ — номер из документа ПП) | 📄 02.11.2026 (📨 ВТС · t6532  файл «поручение 78044.pdf») — **ПОРУЧЕНИЕ № 78044 от 02.11.2026** (Transfer request No 78044)  Приложение № 2 к договору № 27062025TК/1 от 24.06.2025: принципал **ООО «ВТС»** → агент **ОсОО «БиТрейд Кей Джи»**  платёж **20 340 93 USD** по инвойсу 78044 от 29.10.2026; получатель **Itrix Co.  Ltd.** (725 S Metro Building  20th Floor  Sukhumvit Road  Khlong Tan Nuea  Watthana  Bangkok 10110  Thailand)  **Siam Commercial Bank PCL**  SWIFT SICOTHBK  счёт 468-000093-8-840 (USD); Sales Contract № 20-09/01 dd 20.09.2025; курс 81 1000; комиссия агента 1 5% + 100 USD; срок 5–10 банковских дней. Компания-плательщик не указана — ждём. | 📄 03.11.2026 (📨 ВТС · t6532  файл «Itrix invoice 78044.xlsx») — INVOICE NO. 78044 от 29.10.2026: Itrix Co.  Ltd. (725 S Metro Building  Sukhumvit Rd  Bangkok  Thailand) → Limited Liability Company «WTC» (ООО «ВТС»  Новоданиловская наб. 4А  Москва); Sales Contract №20-09/01 dd 20/09/2025; 1) GIGAroll 011.550 CAET0 set  YS11928-00004  5 шт — 5 473 79 USD; 2) GIGAroll 010.1000 CAET0 set  YS13720-00001  7 шт — 14 239 67 USD; 3) Aperto 800N  YCN-2722V404  5 шт — 627 47 USD; SUBTOTAL 20 340 93 USD  TAX 0. Банк: Siam Commercial Bank PCL  SWIFT SICOTHBK  USD счёт 468-000093-8-840 (Itrix Co.  Ltd.). | Выписка ВТБ БиТрейд счёт 40807810525640000008, 02.11.2026: два перевода от ООО ВТС (ИНН 7735171132) — 1 649 649,42 ₽ (тело) и 32 854,74 ₽ (агентское); вместе 1 682 504,16 ₽ = отправке строки. Подтверждённая пара «тело + агентское»",
       "calc": null,
-      "rowId": "main-000422"
+      "rowId": "main-000422",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r3 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 4,
@@ -104,7 +116,11 @@
       "sent_usdt": null,
       "notes": "ПП на Almeno №688 от 03.11.2026 (6 850 725 63 ₽ — номер из документа ПП)",
       "calc": null,
-      "rowId": "main-000438"
+      "rowId": "main-000438",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r4 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 5,
@@ -125,7 +141,11 @@
       "sent_usdt": null,
       "notes": "ПП на Almeno №178 от 03.11.2026 (3 087 291 95 ₽ — номер из документа ПП) | ⚠️ УТОЧНЕНИЕ ПРИХОДА (14.11.2026): сумма 3 092 072,65 ₽, стоявшая здесь приходом, — это НАША ОТПРАВКА по Цветы r6 (flw-000179, ООО ГЛОБАЛЦВЕТ, поручение 104 от 05.11.2026, ПП на VDX). В приходе этой строки её быть не могло: это исходящий платёж на обменник, а не получение денег. Поле прихода очищено по распоряжению владельца. | Выписка ВТБ БиТрейд счёт 40807810525640000008, 02.11.2026: два перевода от ООО ВТС (ИНН 7735171132) — 3 033 676,80 ₽ (тело) и 53 615,15 ₽ (агентское); вместе 3 087 291,95 ₽ = отправке строки. Подтверждённая пара «тело + агентское»",
       "calc": null,
-      "rowId": "main-000439"
+      "rowId": "main-000439",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r5 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 6,
@@ -161,7 +181,11 @@
         "file": null,
         "date": "2026-11-06"
       },
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r6 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 7,
@@ -218,7 +242,11 @@
         "file": null,
         "date": "2026-11-06"
       },
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r8 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 9,
@@ -247,7 +275,11 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r9 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 10,
@@ -288,7 +320,11 @@
         "ref": "owner_instruction, FINIVEST AI msg 61627, 10.11.2026",
         "date": "2026-11-10"
       },
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r10 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 11,
@@ -320,7 +356,11 @@
       "companyVerified": false,
       "calcStale": true,
       "payerSystem": "BAXS",
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r11 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 12,
@@ -382,7 +422,11 @@
       "companyProvisional": false,
       "companyVerified": false,
       "payerSystem": "BAXS",
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r13 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 14,
@@ -413,7 +457,11 @@
       "companyProvisional": false,
       "companyVerified": false,
       "payerSystem": "BAXS",
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r14 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 15,
@@ -444,7 +492,11 @@
       "companyProvisional": false,
       "companyVerified": false,
       "payerSystem": "BAXS",
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r15 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 16,
@@ -475,7 +527,11 @@
       "companyProvisional": false,
       "companyVerified": false,
       "payerSystem": "BAXS",
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r16 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 17,
@@ -506,7 +562,11 @@
       "companyProvisional": false,
       "companyVerified": false,
       "payerSystem": "BAXS",
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r17 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 18,
@@ -568,7 +628,11 @@
       "companyProvisional": false,
       "companyVerified": false,
       "payerSystem": "BAXS",
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r19 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 20,
@@ -619,7 +683,11 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "costSource": "payout"
+      "costSource": "payout",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r21 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 22,
@@ -653,6 +721,10 @@
       "costSourceRef": {
         "ref": "Scream, FINIVEST AI msg 61981, 11.11.2026",
         "date": "2026-11-11"
+      },
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r22 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
       }
     },
     {
@@ -711,7 +783,11 @@
         "ref": "owner_instruction, FINIVEST AI msg 61627, 10.11.2026",
         "date": "2026-11-10"
       },
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r24 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
       "row": 25,
@@ -778,6 +854,10 @@
         "file": null,
         "date": null,
         "messageId": "Поручение №11 от 06.11.2026 / FK_11_2026.pdf"
+      },
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r26 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
       }
     },
     {
@@ -830,12 +910,12 @@
       "extra": "📄 06.11.2026 (📨 ВТС · t6855, файл «Поручение 76256-2.pdf») — ПОРУЧЕНИЕ №76256 от 06.11.2026 (Приложение №2 к договору на оказание посреднических услуг №27062025ТК/1 от 24.06.2025): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи»; платёж 12 244,26 EUR по инвойсу 76256/1 от 12.10.2026; получатель Itrix Co., Ltd. (725 S Metro Building, 20th Floor, Sukhumvit Road, Khlong Tan Nuea, Watthana, Bangkok, Thailand 10110), Siam Commercial Bank PCL, SWIFT SICOTHBK, счёт 468-000094-6-978 (EUR); контракт Sales Contract №25-01/10 от 01.10.2025; курс 92,1581; к перечислению 1 128 407,74 ₽; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Подписи: Бондарев А.П. / Курьянов А.А.",
       "rubles_received": "1128407.74 / 25126.12",
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
+      "sent_rubles_vdx": "1153533.86",
+      "exchange_to": "Almeno",
+      "vdx_rate": 81.94,
+      "received_usdt": 14077.79,
       "sent_usdt": 13857.33,
-      "notes": "📄 06.11.2026 (📨 ВТС · t6855, файл «Itrix invoice 76256-1.xlsx») — INVOICE 76256/1 от 12.10.2026 (Itrix Co., Ltd., Бангкок): SEAL MOD 298XL CM 123 — 80 шт 592,14; SEAL MOD 103SF GU30 CM 103 — 1 050 шт 5 321,51; SEAL MOD 101SF GU30 CM 63 — 120 шт 558,83; CM 83 — 240 шт 1 196,61; CM 103 — 240 шт 1 268,16; SUBTOTAL 12 244,26 EUR, TAX 0, SHIPPING 0, DISCOUNT 0, TOTAL 12 244,26 EUR (рублёвый эквивалент 1 128 407,74). Banc: Siam Commercial Bank PCL, SWIFT SICOTHBK, EUR счёт 468-000094-6-978 (USD 468-000093-8-840, CNY 468-000095-4-156); также Bangkok Bank (BKKBTHBK). Сумма совпадает со строкой — не менялась. |  | 📄 11.11.2026 (📨 ПП компании Q8/Z-source, файл «12244.26.pdf») — BONBILL LIMITED Payment Certificate: Transaction ID O2120125656766480384753, Payment Time 10.11.2026 20:05:21, payer PQ18 Limited → Itrix Co., Ltd. (SIAM COMMERCIAL BANK PCL., счёт 4680000946978), 12 244,26 EUR, Remarks «INVOICE 762561DD12102026ForTechPartsSeal». Сумма и получатель совпадают со строкой — платёж подтверждён квитанцией. ⚠️ FSM: ⬜→🟢 запрещён (компания строки Itrix Co., Ltd. не в исключениях; плательщик в квитанции PQ18) — цвет не менял. |  | 💬 11.11.2026 (📨 EUR, msg 61968): Scream — «This has also been paid» (платёж 12 244,26 EUR по INVOICE 762561DD12102026ForTechPartsSeal исполнен). Цвет не менял: FSM запрещает ⬜→🟢 (компания строки Itrix Co., Ltd. не в исключениях), для 🟢 нужен документ-триггер этой строки/распоряжение владельца из ЛС.",
+      "notes": "📄 06.11.2026 (📨 ВТС · t6855, файл «Itrix invoice 76256-1.xlsx») — INVOICE 76256/1 от 12.10.2026 (Itrix Co., Ltd., Бангкок): SEAL MOD 298XL CM 123 — 80 шт 592,14; SEAL MOD 103SF GU30 CM 103 — 1 050 шт 5 321,51; SEAL MOD 101SF GU30 CM 63 — 120 шт 558,83; CM 83 — 240 шт 1 196,61; CM 103 — 240 шт 1 268,16; SUBTOTAL 12 244,26 EUR, TAX 0, SHIPPING 0, DISCOUNT 0, TOTAL 12 244,26 EUR (рублёвый эквивалент 1 128 407,74). Banc: Siam Commercial Bank PCL, SWIFT SICOTHBK, EUR счёт 468-000094-6-978 (USD 468-000093-8-840, CNY 468-000095-4-156); также Bangkok Bank (BKKBTHBK). Сумма совпадает со строкой — не менялась. |  | 📄 11.11.2026 (📨 ПП компании Q8/Z-source, файл «12244.26.pdf») — BONBILL LIMITED Payment Certificate: Transaction ID O2120125656766480384753, Payment Time 10.11.2026 20:05:21, payer PQ18 Limited → Itrix Co., Ltd. (SIAM COMMERCIAL BANK PCL., счёт 4680000946978), 12 244,26 EUR, Remarks «INVOICE 762561DD12102026ForTechPartsSeal». Сумма и получатель совпадают со строкой — платёж подтверждён квитанцией. ⚠️ FSM: ⬜→🟢 запрещён (компания строки Itrix Co., Ltd. не в исключениях; плательщик в квитанции PQ18) — цвет не менял. |  | 💬 11.11.2026 (📨 EUR, msg 61968): Scream — «This has also been paid» (платёж 12 244,26 EUR по INVOICE 762561DD12102026ForTechPartsSeal исполнен). Цвет не менял: FSM запрещает ⬜→🟢 (компания строки Itrix Co., Ltd. не в исключениях), для 🟢 нужен документ-триггер этой строки/распоряжение владельца из ЛС. | r31: 06.11.2026 (📨 FINIVEST AI t23693): отправка рублей с БиТрейд на Альмено — 1 153 533,86 ₽, комплектующие для дверей, заявка 33, ООО ВТС. Заявки/инвойса по 33 в таблицах нет — валютная сумма сделки и курс не получены, строка ждёт заявку/оффер. | ПП на Almeno №190 от 06.11.2026 ИСПОЛНЕН 17:30 (ВТБ, ЭП): ОсОО «БиТрейд Кей Джи» → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», сч. 40807810700300000030), 1 153 533,86 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 33 от 06.11.2026, за комплектующие для дверей, НДС не облагается. | 🔗 2026-11-14 (Scream: «распоряжение владельца 14.11.2026 — склейка r28+r32, курс 81,94 перенесён с источником») — строки 31 объединены с этой: sum = 12244.26 EUR; rubles_received = 1128407.74 / 25126.12; sent_rubles_vdx = 1153533.86; цвет = 🟢 (row 28 (выжившая), понижение запрещено). Доказательства прежних строк: r31 (⬜). Полные notes прежних строк — в Main.removed-rows_main-000457-main-000461_2026-11-14.json.",
       "calc": "ТЕЗ",
       "sumSource": {
         "source": "order",
@@ -853,7 +933,11 @@
         "date": null
       },
       "companyProvisional": false,
-      "companyVerified": true
+      "companyVerified": true,
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 msg 18185 @ 2026-11-14T12:57"
+      }
     },
     {
       "row": 29,
@@ -941,39 +1025,13 @@
         "date": "2026-11-10"
       },
       "payerSystem": "BAXS",
-      "vdxRateSource": "{\"kind\":\"scream-order\",\"ref\":\"telegram:7206154434 msg 18185 @ 2026-11-14T12:57\"}"
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 msg 18185 @ 2026-11-14T12:57"
+      }
     },
     {
       "row": 31,
-      "date": "2026-11-06",
-      "sum": 1153533.86,
-      "currency": "RUB",
-      "company": null,
-      "color": "FFFFFFFF",
-      "clientName": "ООО «ВТС»",
-      "costFormula": null,
-      "extra": "Приход на Альмено (БиТрейд Кей Джи → Альмено) — комплектующие для дверей, ВТС; заявка 33; оффер ООО ВТС, курс не получен",
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": 1153533.86,
-      "exchange_to": "Almeno",
-      "vdx_rate": 81.94,
-      "received_usdt": 14077.79,
-      "sent_usdt": null,
-      "notes": "06.11.2026 (📨 FINIVEST AI t23693): отправка рублей с БиТрейд на Альмено — 1 153 533,86 ₽, комплектующие для дверей, заявка 33, ООО ВТС. Заявки/инвойса по 33 в таблицах нет — валютная сумма сделки и курс не получены, строка ждёт заявку/оффер. | ПП на Almeno №190 от 06.11.2026 ИСПОЛНЕН 17:30 (ВТБ, ЭП): ОсОО «БиТрейд Кей Джи» → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», сч. 40807810700300000030), 1 153 533,86 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 33 от 06.11.2026, за комплектующие для дверей, НДС не облагается.",
-      "calc": null,
-      "sumSource": {
-        "source": "scream",
-        "ref": "FINIVEST AI t23693 06.11.2026",
-        "file": null,
-        "date": null,
-        "messageId": null
-      },
-      "rowId": "main-000461",
-      "vdxRateSource": "{\"kind\":\"scream-order\",\"ref\":\"telegram:7206154434 msg 18185 @ 2026-11-14T12:57\"}"
-    },
-    {
-      "row": 32,
       "date": "2026-11-06",
       "sum": 17635.5,
       "currency": "EUR",
@@ -1009,7 +1067,7 @@
       "companyVerified": false
     },
     {
-      "row": 33,
+      "row": 32,
       "date": "2026-11-06",
       "sum": 30000,
       "currency": "EUR",
@@ -1045,7 +1103,7 @@
       "companyVerified": false
     },
     {
-      "row": 34,
+      "row": 33,
       "date": "2026-11-06",
       "sum": 663963.3,
       "currency": "RUB",
@@ -1070,10 +1128,14 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000464"
+      "rowId": "main-000464",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r33 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
-      "row": 35,
+      "row": 34,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1092,10 +1154,14 @@
       "notes": "🏦 приход по выписке: Предварительная выписка АО АКИБ «ПОЧТОБАНК» г. Пермь, счёт 40807810100157518600, 06.11.2026–09.11.2026: ПП №82 от 06.11.2026, договор 01-06/26, поручение 2 |  | 🏦 06.11.2026 (📨 Платежи из Мира Привелегий (операционка) t23693, предварительная выписка Почтобанка 06.11–09.11.2026) — приход от «Ханлон Проджект Трейдинг ФЗЕ ЛЛС» (ИНН 9909680769, БИК 044030757, счёт 40807810800000357929): ПП №82 — 1 161 165,89 ₽ {VO60081} оплата по договору № 01-06/26 от 01.06.2026, согласно поручению № 2 от 06.11.2026, включая вознаграждение. rubles_received = 1 161 165.89. Строка 🔵 — ордер/заявка ещё не приходили. |  | 📄 10.11.2026 (📨 Отправки рублей ПП; файл «ЗАПРОС 2.pdf») — ЗАПРОС АО АКИБ «ПОЧТОБАНК» №315 от 10.11.2026 по счёту 40807810100157518600 (тема «пп 701»): просят предоставить инвойс №1035 и агентский договор 01-06/26 (в запросе дата 23.10.2026), указанные в Заявке №881 и Поручении №2. По строке: ПП №701 — 1 161 165.89 ₽ в ВиДиИкс (по данным выписки ПП №82 от 06.11.2026, договор 01-06/26 от 01.06.2026, поручение №2 от 06.11.2026). Инвойса 1035 и Заявки 881 в таблицах нет — нужны от клиента/из папки |  | ⚠️ 10.11.2026 (📨 Отправки рублей ПП) — Почтабанк вернул пакет по ПП №701: ошибки ОДНОВРЕМЕННО в поручении и в инвойсе (со слов клиента). В запросе №315 банк ссылается на инвойс №1035 и агентский договор 01-06/26 от 23.10.2026 (по нашим данным договор 01-06/26 от 01.06.2026, поручение №2 от 06.11.2026). До исправления документов ответ банку не отправляем; при получении финальных версий — сверить: № инвойса, дата договора, сумма 1 161 165.89 ₽ (ПП №82/701), покупатель Ханлон Проджект Трейдинг | ПП на VDX №701 от 09.11.2026 (1 161 165,89 ₽ — номер из документа ПП) | 📄 10.11.2026 (📨 Отправки рублей ПП., файл «пп 701.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №701 от 09.11.2026 ИСПОЛНЕНО 10.11.2026 (АО АКИБ «ПОЧТОБАНК», ЭП ПОДЛИННА, доставлено iBank 09.11.2026 18:22 GMT+05): ОсОО «Блэкшарк Трейд» (ИНН 9909705614, счёт 40807810100157518600) → ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, ПСБ, счёт 40807810000000015414) — 1 161 165,89 ₽ {VO60081} оплата по агентскому договору №4 от 31.03.2025 согласно заявке 881 от 09.11.2026 за керамогранит, НДС не облагается. ✅ Пакет, который Почтабанк ранее вернул с замечаниями к поручению и инвойсу, проведён после исправления. rubles_received = sent_rubles_vdx = 1 161 165,89 ₽, маршрут VDX.",
       "calc": null,
       "sumSource": null,
-      "rowId": "main-000466"
+      "rowId": "main-000466",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r34 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
-      "row": 36,
+      "row": 35,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1118,7 +1184,7 @@
       "dealType": "exchange"
     },
     {
-      "row": 37,
+      "row": 36,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1141,7 +1207,7 @@
       "dealType": "exchange"
     },
     {
-      "row": 38,
+      "row": 37,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1164,7 +1230,7 @@
       "dealType": "exchange"
     },
     {
-      "row": 39,
+      "row": 38,
       "date": "2026-11-09",
       "sum": 46559.39,
       "currency": "USD",
@@ -1210,7 +1276,7 @@
       "payerSystem": "BAXS"
     },
     {
-      "row": 40,
+      "row": 39,
       "date": "2026-11-09",
       "sum": 17292,
       "currency": "EUR",
@@ -1243,10 +1309,14 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r39 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
-      "row": 41,
+      "row": 40,
       "date": "2026-11-09",
       "sum": null,
       "currency": null,
@@ -1272,7 +1342,7 @@
       }
     },
     {
-      "row": 42,
+      "row": 41,
       "date": "2026-11-10",
       "sum": 59596.29,
       "currency": "USD",
@@ -1313,7 +1383,7 @@
       "payerSystem": "BAXS"
     },
     {
-      "row": 43,
+      "row": 42,
       "date": "2026-11-10",
       "sum": 151420,
       "currency": "USD",
@@ -1346,7 +1416,7 @@
       "costSource": "payout"
     },
     {
-      "row": 44,
+      "row": 43,
       "date": "2026-11-10",
       "sum": 157946.5,
       "currency": "EUR",
@@ -1382,7 +1452,7 @@
       "companyVerified": false
     },
     {
-      "row": 45,
+      "row": 44,
       "date": "2026-11-10",
       "sum": 27216,
       "currency": "EUR",
@@ -1424,7 +1494,7 @@
       }
     },
     {
-      "row": 46,
+      "row": 45,
       "date": "2026-11-10",
       "sum": 39912.2,
       "currency": "EUR",
@@ -1449,10 +1519,14 @@
         "date": null,
         "messageId": "input-INV_39_912_20_EUR---f920a1c4-ee97-4ab8-98ba-501b7d5ec525.pdf"
       },
-      "rowId": "main-000504"
+      "rowId": "main-000504",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r45 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
-      "row": 47,
+      "row": 46,
       "date": "2026-11-10",
       "sum": 1664432.97,
       "currency": "RUB",
@@ -1483,7 +1557,7 @@
       "refundReason": "платёж не проведён получателю"
     },
     {
-      "row": 48,
+      "row": 47,
       "date": "2026-11-11",
       "sum": null,
       "currency": null,
@@ -1505,7 +1579,7 @@
       "rowId": "main-000485"
     },
     {
-      "row": 49,
+      "row": 48,
       "date": "2026-11-12",
       "sum": 45648.54,
       "currency": "EUR",
@@ -1539,10 +1613,14 @@
         "date": null
       },
       "companyProvisional": false,
-      "companyVerified": true
+      "companyVerified": true,
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r48 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
-      "row": 50,
+      "row": 49,
       "date": "2026-11-12",
       "sum": 159883,
       "currency": "USD",
@@ -1577,10 +1655,14 @@
       },
       "companyProvisional": false,
       "companyVerified": true,
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 склейка r49 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+      }
     },
     {
-      "row": 51,
+      "row": 50,
       "date": "2026-11-12",
       "sum": 55985.07,
       "currency": "USD",
@@ -1622,7 +1704,7 @@
       }
     },
     {
-      "row": 52,
+      "row": 51,
       "date": "2026-11-12",
       "sum": 12087.67,
       "currency": "EUR",
@@ -1663,7 +1745,7 @@
       }
     },
     {
-      "row": 53,
+      "row": 52,
       "date": "2026-11-12",
       "sum": 9589.32,
       "currency": "USD",
@@ -1691,7 +1773,7 @@
       "rowId": "main-000495"
     },
     {
-      "row": 54,
+      "row": 53,
       "date": "2026-11-12",
       "sum": 10087.91,
       "currency": "EUR",
@@ -1728,7 +1810,7 @@
       "companyVerified": true
     },
     {
-      "row": 55,
+      "row": 54,
       "date": "2026-11-12",
       "sum": 38506.87,
       "currency": "USD",
@@ -1770,7 +1852,7 @@
       "payerSystem": "BAXS"
     },
     {
-      "row": 56,
+      "row": 55,
       "date": "2026-11-12",
       "sum": null,
       "currency": null,
@@ -1793,7 +1875,7 @@
       "dealType": "exchange"
     },
     {
-      "row": 57,
+      "row": 56,
       "date": "2026-11-12",
       "sum": 1574562.87,
       "currency": "RUB",
@@ -1821,7 +1903,7 @@
       "rowId": "main-000500"
     },
     {
-      "row": 58,
+      "row": 57,
       "date": "2026-11-12",
       "sum": 19111.59,
       "currency": "USD",
@@ -1849,7 +1931,7 @@
       "rowId": "main-000501"
     },
     {
-      "row": 59,
+      "row": 58,
       "date": "2026-11-12",
       "sum": 28381.4,
       "currency": "USD",
@@ -1885,7 +1967,7 @@
       "companyVerified": false
     },
     {
-      "row": 60,
+      "row": 59,
       "date": "2026-11-13",
       "sum": null,
       "currency": null,
@@ -1913,7 +1995,7 @@
       "rowId": "mol-000268"
     },
     {
-      "row": 61,
+      "row": 60,
       "date": "2026-11-13",
       "sum": 239962,
       "currency": "USD",
@@ -1924,12 +2006,12 @@
       "extra": "input-инвойс_услуги_Би_трейд_77760---30e06b90-41ad-4612-bb0a-cf889665c847.pdf",
       "rubles_received": "19912118.75 / 258857.54",
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": "20170976.29",
+      "exchange_to": "Almeno",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760, файл «Поручение 77760.pdf») — ПОРУЧЕНИЕ №77760 от 13.11.2026 (Приложение №2 к договору на оказание посреднических услуг №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи» (Кыргызская Республика); платёж 239 962,00 USD по инвойсу GL20261008001 2026/10/8 Revised 2026-10-30; получатель Shenzhen Yiyuan Communication Technology Co., Ltd. (Room 502, Building 3, Chaohuilou Industrial Park, No.11 Huating Road, Langkou Community, Dalang Subdistrict, Longhua District, Shenzhen, Guangdong, China), CHINA MERCHANTS BANK H.O., SWIFT CMBCCNBSXXX, счёт 755928888832000; курс 82,9803; сумма к перечислению 19 912 118,75 RUB; комиссия агента 1,3%; срок 5–10 банковских дней. Подписи: Бондарев А.П. / Курьянов А.А. | 📄 13.11.2026 (📨 ВТС · t7351, файл «инвойс услуги Би трейд 77760.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» №77760 от 13.11.2026 (договор 27062025TК/1): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 3 119,51 USD = 258 857,54 ₽ (курс USD 82,9803), ИТОГО 3 119,51 USD / 258 857,54 ₽ — это комиссия агента 1,3% от 239 962,00 USD | 📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760, файл «PI GL20261008001 Optical components+1G+10G copper CKD.pdf») — PROFORMA INVOICE Shenzhen Yiyuan Communication Technology Co., Ltd (5/F, Building 3, Chaohuilou Science Park, No.119 Huating Road, Dalang Street, Longhua District, Shenzhen; +86 13692281427): PI Number GL20261008001, PI Date 2026/10/8 Revised 2026-10-30, BILL TO Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK; Contact Valeria Safronova +8618588496609); Trade Term EXW ShenZhen, Ship Date TBC, Payment Terms 30% Deposit + 70% Balance before shipment. Товар — оптические компоненты (SFP/QSFP 1G/10G/25G/40G/100G, TOSA/ROSA/BOSA, copper CKD, PCB, чипы). Сумма совпадает с поручением №77760 (239 962,00 USD); компания по счёту — Q8 GROUP LIMITED | ⏳ ждём расчёт оператора | 📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760; файл «PI_GL20261008001_Optical_components 1G 10G copper CKD_1_1.pdf») — PROFORMA INVOICE № GL20261008001 от 08.10.2026 (ред. 30.10.2026), Shenzhen Yiyuan Communication Technology Co., Ltd (5/F, bld 3, Chaohuilou Science Park, No.119 Huating Road, Dalang Street, Longhua, Shenzhen; www.glight-tech.com) → Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK, контакт Valeria Safronova). Условия: EXW Shenzhen, 30% депозит + 70% перед отгрузкой, ship date TBC. Состав (оптика/медь, CKD): SFP blister box 5000 шт; 1,25G TOSA/ROSA 850нм MM (3180/3180); 1,25G TOSA/ROSA 1310нм (10500/10500); 10G TOSA/ROSA 850нм (8000/8000); SC-BOSA 1490/1550 и 1550/1490 по 120 шт; 10G TOSA/ROSA 1310нм (1020/1020); 10G LC-BOSA 1270/1330 и 1330/1270 по 1020 шт; soft belts (1050/3200/2100/17600); SFP28 25G 850нм 30 шт, 1310нм 30 шт; QSFP+ 40G 2км/10км по 10; QSFP28 100G 100м/300м по 10; медные модули 10/100/1000M (Realtek и Marvell 88E1112) по 10; UX3320T 30000 (1 reel); PCB MBPС_758721_107 15000; SMD crystal HSX321S-25M 15000; SY8092A 15000; IC 88E1111-BAB 15000; 1G SFP shell 15000; PCB-SFP+10G-T-113C-V2 1000; индуктивности/кристалл/IC CJ3415/AQR113C 1000/2000/1000/1000; C8051F392 1000; GD25Q16 1000 и др. Сделка 239 962,00 USD, расчёт не подтверждён оператором | 🏦 13.11.2026 (📨 Банковские выписки, файл «VTB_битрейд _12.11.2026-13.11.2026_138618.pdf») — выписка ВТБ (ПАО) по счёту ОсОО «БиТрейд Кей Джи» 40807810525640000008: приход от ООО «ВТС» (ИНН 7735171132) 19 912 118,75 ₽ (ПП №5154, 13.11.2026) — тело по заявке 77760 и 258 857,54 ₽ (ПП №5155) — агентское вознаграждение. rubles_received = 19 912 118,75 / 258 857,54.",
+      "notes": "📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760, файл «Поручение 77760.pdf») — ПОРУЧЕНИЕ №77760 от 13.11.2026 (Приложение №2 к договору на оказание посреднических услуг №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи» (Кыргызская Республика); платёж 239 962,00 USD по инвойсу GL20261008001 2026/10/8 Revised 2026-10-30; получатель Shenzhen Yiyuan Communication Technology Co., Ltd. (Room 502, Building 3, Chaohuilou Industrial Park, No.11 Huating Road, Langkou Community, Dalang Subdistrict, Longhua District, Shenzhen, Guangdong, China), CHINA MERCHANTS BANK H.O., SWIFT CMBCCNBSXXX, счёт 755928888832000; курс 82,9803; сумма к перечислению 19 912 118,75 RUB; комиссия агента 1,3%; срок 5–10 банковских дней. Подписи: Бондарев А.П. / Курьянов А.А. | 📄 13.11.2026 (📨 ВТС · t7351, файл «инвойс услуги Би трейд 77760.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» №77760 от 13.11.2026 (договор 27062025TК/1): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 3 119,51 USD = 258 857,54 ₽ (курс USD 82,9803), ИТОГО 3 119,51 USD / 258 857,54 ₽ — это комиссия агента 1,3% от 239 962,00 USD | 📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760, файл «PI GL20261008001 Optical components+1G+10G copper CKD.pdf») — PROFORMA INVOICE Shenzhen Yiyuan Communication Technology Co., Ltd (5/F, Building 3, Chaohuilou Science Park, No.119 Huating Road, Dalang Street, Longhua District, Shenzhen; +86 13692281427): PI Number GL20261008001, PI Date 2026/10/8 Revised 2026-10-30, BILL TO Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK; Contact Valeria Safronova +8618588496609); Trade Term EXW ShenZhen, Ship Date TBC, Payment Terms 30% Deposit + 70% Balance before shipment. Товар — оптические компоненты (SFP/QSFP 1G/10G/25G/40G/100G, TOSA/ROSA/BOSA, copper CKD, PCB, чипы). Сумма совпадает с поручением №77760 (239 962,00 USD); компания по счёту — Q8 GROUP LIMITED | ⏳ ждём расчёт оператора | 📄 13.11.2026 (📨 ВТС · t7351 · 239 962,00 USD / заявка 77760; файл «PI_GL20261008001_Optical_components 1G 10G copper CKD_1_1.pdf») — PROFORMA INVOICE № GL20261008001 от 08.10.2026 (ред. 30.10.2026), Shenzhen Yiyuan Communication Technology Co., Ltd (5/F, bld 3, Chaohuilou Science Park, No.119 Huating Road, Dalang Street, Longhua, Shenzhen; www.glight-tech.com) → Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK, контакт Valeria Safronova). Условия: EXW Shenzhen, 30% депозит + 70% перед отгрузкой, ship date TBC. Состав (оптика/медь, CKD): SFP blister box 5000 шт; 1,25G TOSA/ROSA 850нм MM (3180/3180); 1,25G TOSA/ROSA 1310нм (10500/10500); 10G TOSA/ROSA 850нм (8000/8000); SC-BOSA 1490/1550 и 1550/1490 по 120 шт; 10G TOSA/ROSA 1310нм (1020/1020); 10G LC-BOSA 1270/1330 и 1330/1270 по 1020 шт; soft belts (1050/3200/2100/17600); SFP28 25G 850нм 30 шт, 1310нм 30 шт; QSFP+ 40G 2км/10км по 10; QSFP28 100G 100м/300м по 10; медные модули 10/100/1000M (Realtek и Marvell 88E1112) по 10; UX3320T 30000 (1 reel); PCB MBPС_758721_107 15000; SMD crystal HSX321S-25M 15000; SY8092A 15000; IC 88E1111-BAB 15000; 1G SFP shell 15000; PCB-SFP+10G-T-113C-V2 1000; индуктивности/кристалл/IC CJ3415/AQR113C 1000/2000/1000/1000; C8051F392 1000; GD25Q16 1000 и др. Сделка 239 962,00 USD, расчёт не подтверждён оператором | 🏦 13.11.2026 (📨 Банковские выписки, файл «VTB_битрейд _12.11.2026-13.11.2026_138618.pdf») — выписка ВТБ (ПАО) по счёту ОсОО «БиТрейд Кей Джи» 40807810525640000008: приход от ООО «ВТС» (ИНН 7735171132) 19 912 118,75 ₽ (ПП №5154, 13.11.2026) — тело по заявке 77760 и 258 857,54 ₽ (ПП №5155) — агентское вознаграждение. rubles_received = 19 912 118,75 / 258 857,54. | r64: 📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №205) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №205 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 20 170 976,29 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 47 от 13.11.2026 за комплектующие, НДС не облагается. Маршрут Almeno, заявка 47, строка 🔵 — ждём сделку. | ПП на Альмено №205 от 13.11.2026 (20 170 976,29 ₽ — номер из документа ПП). | 🔗 2026-11-14 (Scream: «распоряжение владельца 14.11.2026 — склейка r60+r67 (ВТС, 239 962 USD)») — строки 64 объединены с этой: sum = 239962 USD; rubles_received = 19912118.75 / 258857.54; sent_rubles_vdx = 20170976.29; цвет = ⬜ (row 60 (выжившая), понижение запрещено). Полные notes прежних строк — в Main.removed-rows_main-000505-main-000512_2026-11-14.json.",
       "calc": null,
       "sumSource": {
         "source": "scream",
@@ -1954,7 +2036,7 @@
       }
     },
     {
-      "row": 62,
+      "row": 61,
       "date": "2026-11-13",
       "sum": 17336,
       "currency": "USD",
@@ -1965,12 +2047,12 @@
       "extra": "input-инвойс_услуги_Би_трейд_78494---a8750991-dbb4-41d1-b0a6-cd033aaef614.pdf",
       "rubles_received": "1438546.48 / 29876.23",
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": "1468422.71",
+      "exchange_to": "Almeno",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 13.11.2026 (📨 ВТС · t7370 · 17 336,00 USD / заявка 78494, файл «инвойс услуги Би трейд 78494.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78494 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001, Москва, Новоданиловская наб. 4А); посреднические услуги по расчётам с иностранным поставщиком — 360,04 USD = 29 876,23 ₽ (курс USD 82,9803), ИТОГО 360,04 USD / 29 876,23 ₽. Сумма сделки 17 336,00 USD — из сообщения t7370, заявка 78494; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7370 · 17 336,00 USD / заявка 78494, файл «Поручение 78494.pdf») — ПОРУЧЕНИЕ №78494 от 13.11.2026 (Приложение №2 к договору на оказание посреднических услуг №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи» (Кыргызская Республика); платёж 17 336,00 USD по инвойсу Order NO GST-R261027; получатель CIXI GUANGSHENGTONG TELECOM EQUIPMENT CO LTD (No112 Weishan North Road, Guanhaiwei West Industrial Zone, Cixi, Ningbo, China), NINGBO CIXI RURAL COOPERATIVE BANK, SWIFT CXBKCN2N, счёт 201000065509383; курс 82,9803; сумма к перечислению 1 438 546,48 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Подписи: Бондарев А.П. / Курьянов А.А. | 📄 13.11.2026 (📨 ВТС · t7370 · 17 336,00 USD / заявка 78494, файл «P.I-R261027-WTC.pdf») — PROFORMA INVOICE CIXI GUANGSHENGTONG TELECOM EQUIPMENT CO.,LTD (No112 Weishan North Road, Guanhaiwei West Industrial Zone, Cixi, Ningbo, China; тел. 86-574-63620699) → Buyer LLC «WTC» (4A, floor 6, space II, rooms 22в/22у, 117105 Moscow, Novodanilovskaya embankment; контакт Valeria Safronova): Contract/Order No. GST-R261027, Payment T/T advance, Price Terms FOB Ningbo, Destination Russia; товар — SFP cases (1.25G LC duplex G3 black/blue, SC bidi ZJ4, 10G SR/LR/bidi SFP+ G1), итого **US$17 336,00** (SAY TOTAL SEVENTEEN THOUSAND THREE HUNDRED AND THIRTY-SIX DOLLARS ONLY). Банк: NINGBO CIXI RURAL COOPERATIVE BANK, SWIFT CXBKCN2N, счёт 201000065509383; корсчёт WELLS FARGO BANK N.A. NEW YORK, SWIFT PNBPUS3NNYC. Сумма совпадает со строкой и поручением №78494; покупатель в проформе — LLC «WTC» | 🏦 13.11.2026 (📨 Банковские выписки, файл «VTB_битрейд _12.11.2026-13.11.2026_138618.pdf») — выписка ВТБ (ПАО) по счёту ОсОО «БиТрейд Кей Джи»: приход от ООО «ВТС» 1 438 546,48 ₽ (ПП №5156) — тело по заявке 78494 (17 336,00 USD × 82,9803) и 29 876,23 ₽ (ПП №5157) — агентское (инвойс услуг 78494, 360,04 USD). rubles_received = 1 438 546,48 / 29 876,23.",
+      "notes": "📄 13.11.2026 (📨 ВТС · t7370 · 17 336,00 USD / заявка 78494, файл «инвойс услуги Би трейд 78494.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78494 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001, Москва, Новоданиловская наб. 4А); посреднические услуги по расчётам с иностранным поставщиком — 360,04 USD = 29 876,23 ₽ (курс USD 82,9803), ИТОГО 360,04 USD / 29 876,23 ₽. Сумма сделки 17 336,00 USD — из сообщения t7370, заявка 78494; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7370 · 17 336,00 USD / заявка 78494, файл «Поручение 78494.pdf») — ПОРУЧЕНИЕ №78494 от 13.11.2026 (Приложение №2 к договору на оказание посреднических услуг №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи» (Кыргызская Республика); платёж 17 336,00 USD по инвойсу Order NO GST-R261027; получатель CIXI GUANGSHENGTONG TELECOM EQUIPMENT CO LTD (No112 Weishan North Road, Guanhaiwei West Industrial Zone, Cixi, Ningbo, China), NINGBO CIXI RURAL COOPERATIVE BANK, SWIFT CXBKCN2N, счёт 201000065509383; курс 82,9803; сумма к перечислению 1 438 546,48 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Подписи: Бондарев А.П. / Курьянов А.А. | 📄 13.11.2026 (📨 ВТС · t7370 · 17 336,00 USD / заявка 78494, файл «P.I-R261027-WTC.pdf») — PROFORMA INVOICE CIXI GUANGSHENGTONG TELECOM EQUIPMENT CO.,LTD (No112 Weishan North Road, Guanhaiwei West Industrial Zone, Cixi, Ningbo, China; тел. 86-574-63620699) → Buyer LLC «WTC» (4A, floor 6, space II, rooms 22в/22у, 117105 Moscow, Novodanilovskaya embankment; контакт Valeria Safronova): Contract/Order No. GST-R261027, Payment T/T advance, Price Terms FOB Ningbo, Destination Russia; товар — SFP cases (1.25G LC duplex G3 black/blue, SC bidi ZJ4, 10G SR/LR/bidi SFP+ G1), итого **US$17 336,00** (SAY TOTAL SEVENTEEN THOUSAND THREE HUNDRED AND THIRTY-SIX DOLLARS ONLY). Банк: NINGBO CIXI RURAL COOPERATIVE BANK, SWIFT CXBKCN2N, счёт 201000065509383; корсчёт WELLS FARGO BANK N.A. NEW YORK, SWIFT PNBPUS3NNYC. Сумма совпадает со строкой и поручением №78494; покупатель в проформе — LLC «WTC» | 🏦 13.11.2026 (📨 Банковские выписки, файл «VTB_битрейд _12.11.2026-13.11.2026_138618.pdf») — выписка ВТБ (ПАО) по счёту ОсОО «БиТрейд Кей Джи»: приход от ООО «ВТС» 1 438 546,48 ₽ (ПП №5156) — тело по заявке 78494 (17 336,00 USD × 82,9803) и 29 876,23 ₽ (ПП №5157) — агентское (инвойс услуг 78494, 360,04 USD). rubles_received = 1 438 546,48 / 29 876,23. | r63: 💸 13.11.2026 (📨 Отправки рублей ПП.: «С БиТрейд на Альмено, сумма 1 468 422,71, оборудование, заявка 45», папка O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 13.11.26_2, ООО ВТС) — отправка рублей на Альмено 1 468 422,71 ₽, маршрут Almeno, заявка 45. Строка создана по этому сообщению (сумма/валюта сделки пока не известны — ждём заявку/ордер) | ⚠️ 13.11.2026 (Scream): ПРИХОД НЕ НАЙДЕН — отправка на Альмено 1 468 422,71 ₽ (заявка 45, ООО ВТС) без прихода: ПП/выписки клиента на эту сумму в таблицах нет. Строка держит отправку (иначе сумма пропала бы из отчёта Альмено); в ежедневной сверке — «отправка без прихода» до появления прихода; объединение — только по распоряжению Scream. | 📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №203) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №203 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 1 468 422,71 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 45 от 13.11.2026 за оборудование, НДС не облагается. ПП на Альмено №203 от 13.11.2026 (1 468 422,71 ₽ — номер из документа ПП) | 🔗 2026-11-14 (Scream: «распоряжение владельца 14.11.2026 — склейка r61+r63 (ВТС, 17 336 USD, Альмено)») — строки 63 объединены с этой: sum = 17336 USD; rubles_received = 1438546.48 / 29876.23; sent_rubles_vdx = 1468422.71; цвет = ⬜ (row 61 (выжившая), понижение запрещено). Доказательства прежних строк: r63 (⬜): 📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №203) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №203 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 1 468 422,71 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. за. Полные notes прежних строк — в Main.removed-rows_main-000506-main-000508_2026-11-14.json.",
       "calc": null,
       "sumSource": {
         "source": "scream",
@@ -1990,7 +2072,7 @@
       "companyVerified": false
     },
     {
-      "row": 63,
+      "row": 62,
       "date": "2026-11-13",
       "sum": 15950.22,
       "currency": "USD",
@@ -2001,12 +2083,12 @@
       "extra": "input-инвойс_услуги_Би_трейд_78496---eea0373f-cfcd-457d-8f7c-69250c932570.pdf",
       "rubles_received": "1323554.04 / 28151.34",
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": "1351705.38",
+      "exchange_to": "Almeno",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «инвойс услуги Би трейд 78496.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78496 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 339,25 USD = 28 151,34 ₽ (курс USD 82,9803), ИТОГО 339,25 USD / 28 151,34 ₽. Сумма сделки 15 950,22 USD — из сообщения t7378, заявка 78496; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ №78496 от 13.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; платёж по инвойсу V20261110001 dd 10/11/2026; получатель HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK), CITIBANK (HONG KONG) LIMITED, SWIFT CITIHKAX, счёт 42775760; курс 82,9803; к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. ⚠️ В поручении в поле суммы напечатано «15 590,22 USD», но сумма в рублях 1 323 554,04 ₽ / 82,9803 = 15 950,22 USD — сумма строки 15 950,22 USD верна, в документе опечатка (перестановка цифр). Сумму не менял | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «COMMERCIAL INVOICE(1).pdf») — COMMERCIAL INVOICE HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK) № V20261110001 от 10Nov2026, BILL TO Q8 GROUP LIMITED (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), Ship To Russia, Novosibirsk; 26 позиций (винты, пружины, SFP DAC shell/cover, кабели 10G DAC 30AWG/24AWG, PCB, упаковка), TOTAL AMOUNT (USD) **15 950,22**. Банк: CITIBANK (HONGKONG) LIMITED, SWIFT CITIHKAX, Account 42775760 (USS A/C), Branch Code 390. ⚠️ В строке «SAY TOTAL» напечатано «twenty two thousand seven hundred fifty nine and cents forty seven» (22 759,47) — расходится с итоговой суммой 15 950,22; сумму строки не менял, плательщик по инвойсу — Q8 GROUP LIMITED | ⏳ ждём расчёт оператора | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ № 78496 от 13.11.2026 (Приложение №2 к договору № 27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи» (Кыргызстан), платёж по инвойсу 78496 от 12.11.2026, получатель Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH, счёт 79807111801; сумма 15 950,22 USD; курс конвертации 82,9803; сумма к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5-10 банковских дней с момента исполнения | 🏦 13.11.2026 (📨 Банковские выписки, файл «VTB_битрейд _12.11.2026-13.11.2026_138618.pdf») — выписка ВТБ (ПАО) по счёту ОсОО «БиТрейд Кей Джи»: приход от ООО «ВТС» 1 323 554,04 ₽ (ПП №5158) — тело по заявке 78496 (15 950,22 USD × 82,9803) и 28 151,34 ₽ (ПП №5159) — агентское (инвойс услуг 78496, 339,25 USD). rubles_received = 1 323 554,04 / 28 151,34.",
+      "notes": "📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «инвойс услуги Би трейд 78496.pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) №78496 от 13.11.2026 (договор 27062025TК/1 от 24.06.2025): покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001); посреднические услуги по расчётам с иностранным поставщиком — 339,25 USD = 28 151,34 ₽ (курс USD 82,9803), ИТОГО 339,25 USD / 28 151,34 ₽. Сумма сделки 15 950,22 USD — из сообщения t7378, заявка 78496; плательщик в документах не назван | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ №78496 от 13.11.2026 (Приложение №2 к договору №27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» → Агент ОсОО «БиТрейд Кей Джи»; платёж по инвойсу V20261110001 dd 10/11/2026; получатель HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK), CITIBANK (HONG KONG) LIMITED, SWIFT CITIHKAX, счёт 42775760; курс 82,9803; к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. ⚠️ В поручении в поле суммы напечатано «15 590,22 USD», но сумма в рублях 1 323 554,04 ₽ / 82,9803 = 15 950,22 USD — сумма строки 15 950,22 USD верна, в документе опечатка (перестановка цифр). Сумму не менял | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «COMMERCIAL INVOICE(1).pdf») — COMMERCIAL INVOICE HONGKONG REALSEA OPTOELECTRONIC TECHNOLOGY CO., LIMITED (RM 1502-151 Easey Comm Bldg, 253-261 Hennessy Rd, Wanchai, HK) № V20261110001 от 10Nov2026, BILL TO Q8 GROUP LIMITED (Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), Ship To Russia, Novosibirsk; 26 позиций (винты, пружины, SFP DAC shell/cover, кабели 10G DAC 30AWG/24AWG, PCB, упаковка), TOTAL AMOUNT (USD) **15 950,22**. Банк: CITIBANK (HONGKONG) LIMITED, SWIFT CITIHKAX, Account 42775760 (USS A/C), Branch Code 390. ⚠️ В строке «SAY TOTAL» напечатано «twenty two thousand seven hundred fifty nine and cents forty seven» (22 759,47) — расходится с итоговой суммой 15 950,22; сумму строки не менял, плательщик по инвойсу — Q8 GROUP LIMITED | ⏳ ждём расчёт оператора | 📄 13.11.2026 (📨 ВТС · t7378 · 15 950,22 USD / заявка 78496, файл «Поручение 78496.pdf») — ПОРУЧЕНИЕ № 78496 от 13.11.2026 (Приложение №2 к договору № 27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи» (Кыргызстан), платёж по инвойсу 78496 от 12.11.2026, получатель Q8 GROUP LIMITED (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH, счёт 79807111801; сумма 15 950,22 USD; курс конвертации 82,9803; сумма к перечислению 1 323 554,04 RUB; комиссия агента 1,5% + 100 USD; срок 5-10 банковских дней с момента исполнения | 🏦 13.11.2026 (📨 Банковские выписки, файл «VTB_битрейд _12.11.2026-13.11.2026_138618.pdf») — выписка ВТБ (ПАО) по счёту ОсОО «БиТрейд Кей Джи»: приход от ООО «ВТС» 1 323 554,04 ₽ (ПП №5158) — тело по заявке 78496 (15 950,22 USD × 82,9803) и 28 151,34 ₽ (ПП №5159) — агентское (инвойс услуг 78496, 339,25 USD). rubles_received = 1 323 554,04 / 28 151,34. | r64: 📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №204) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №204 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 1 351 705,38 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 46 от 13.11.2026 за комплектующие, НДС не облагается. Маршрут Almeno, заявка 46, строка 🔵 — ждём сделку. | ПП на Альмено №204 от 13.11.2026 (1 351 705,38 ₽ — номер из документа ПП). | 🔗 2026-11-14 (Scream: «распоряжение владельца 14.11.2026 — склейка r62+r66 (ВТС, 15 950,22 USD)») — строки 64 объединены с этой: sum = 15950.22 USD; rubles_received = 1323554.04 / 28151.34; sent_rubles_vdx = 1351705.38; цвет = ⬜ (row 62 (выжившая), понижение запрещено). Полные notes прежних строк — в Main.removed-rows_main-000507-main-000511_2026-11-14.json.",
       "calc": null,
       "sumSource": {
         "source": "scream",
@@ -2031,35 +2113,7 @@
       }
     },
     {
-      "row": 64,
-      "date": "2026-11-13",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FFFFFFFF",
-      "clientName": "ООО ВТС",
-      "costFormula": "",
-      "extra": "О:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 13.11.26_2",
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": 1468422.71,
-      "exchange_to": "Almeno",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "💸 13.11.2026 (📨 Отправки рублей ПП.: «С БиТрейд на Альмено, сумма 1 468 422,71, оборудование, заявка 45», папка O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 13.11.26_2, ООО ВТС) — отправка рублей на Альмено 1 468 422,71 ₽, маршрут Almeno, заявка 45. Строка создана по этому сообщению (сумма/валюта сделки пока не известны — ждём заявку/ордер) | ⚠️ 13.11.2026 (Scream): ПРИХОД НЕ НАЙДЕН — отправка на Альмено 1 468 422,71 ₽ (заявка 45, ООО ВТС) без прихода: ПП/выписки клиента на эту сумму в таблицах нет. Строка держит отправку (иначе сумма пропала бы из отчёта Альмено); в ежедневной сверке — «отправка без прихода» до появления прихода; объединение — только по распоряжению Scream. | 📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №203) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №203 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 1 468 422,71 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 45 от 13.11.2026 за оборудование, НДС не облагается. ПП на Альмено №203 от 13.11.2026 (1 468 422,71 ₽ — номер из документа ПП)",
-      "calc": null,
-      "sumSource": {
-        "source": "scream",
-        "ref": "сообщение «Отправки рублей ПП.» 13.11.2026: 1 468 422,71 ₽, заявка 45, оборудование",
-        "file": null,
-        "date": null,
-        "messageId": null
-      },
-      "rowId": "main-000508"
-    },
-    {
-      "row": 65,
+      "row": 63,
       "date": "2026-11-13",
       "sum": 96473,
       "currency": "USD",
@@ -2070,12 +2124,12 @@
       "extra": "PITA-39-111226_-5.pdf",
       "rubles_received": "8005358.48 / 178166.59",
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
+      "sent_rubles_vdx": "8183525.07",
+      "exchange_to": "Almeno",
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 13.11.2026 (📨 ВТС · t7389 · 96 473,00 USD / заявка 78556, 7 поставщиков; файл «PITA-39-111226 -5.pdf») — COMMERCIAL INVOICE № PITA-39-111226 от 12.11.2026, ATOMIC TECH LIMITED (B-29, Chengzhongyayuan, Futian, Shenzhen) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), FOB, оплата ALIPAY: S26361-F5731-L118 Fujitsu 1.8TB 10k 12Gb/s SAS HDD (oem new) 2 × $115 = $230; MK003840GXNZN / P40505-B21 HPE 3.84TB SATA 6G Mixed Use SFF BC SSD (oem new) 2 × $770 = $1 540; SF shipping $5; ИТОГО US$1 775,00 (Total RMB 11 839,25). Бенефициар Shenzhen SJBL Tech Co., Ltd, CITIBANK N.A. Hong Kong, счёт 3974000058244, SWIFT CITIHKHX. Это один из 7 поставщиков по заявке 78556 — общая сделка 96 473,00 USD | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «PI-XMY-SET261111-04 -6.pdf») — PROFORMA INVOICE № PI-XMY-SET261111-04 от 11.11.2026, Beijing Xinmingyuan Technology CO., LTD (Unit C 9/F Winning House, 72-76 Win Lok Street, Sheung Wan, HK; Beijing) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), Payment Term TT: C9300L-STACK-KIT (Cisco New Original, with Plastic Bag) 5 × $225 = **$1 125,00** EXW Beijing. Бенефициар Beijing Xinmingyuan Technology, ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт 156281420105000028698745, SWIFT CZCBCN2X. Второй из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «Setion-36 -7.pdf») — PROFORMA INVOICE № Setion-36 от 12.11.2026, Guangzhou Fanbo Trade Limited (Room B278, 2/F, Huangcun Road, Tianhe, Guangzhou) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), Payment terms Prepay: 02351UFE OceanStor 14TB 7.2K NL SAS ×1 = $600; 00AR144 IBM 4TB SAS ×2 = $240; ST6000NM0095 6TB ×10 = $1 800; ST1800MM0129 1.8TB 10K SAS ×42 = $4 830; P20077-001 HP 3Par 1.8TB ×2 = $230; P50312-B21 HPE 64GB DDR5-4800 ×8 = $21 888; P50230-B21 HP 3.2TB NVMe ×12 = $33 600; **ИТОГО $63 188,00**. Бенефициар HK Fanbo Trade Limited, ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт NRA15801142010500001971, SWIFT CZCBCN2X (intermediary MASHREQBANK PSC, MSHQUS33XXX). Третий из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «12112026ELEC -1.pdf») — PROFORMA INVOICE № 12112026ELEC от 12.11.2026, Foshan Yanmein Intelligent Products (No.11 Xihua Road, Longjiang, Shunde, Foshan) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH): 816995-B21 960GB SATA SSD ×1 = $225; P05319-001 / P04556-B21 240GB SATA ×2 = $190; 881507-001 2.4TB SAS 10K ×2 = $770; AW611A 600GB SAS 2.5 EVA ×15 = $675; EG002400JWJNN / 881457-B21 2.4TB 10K SAS ×2 = $770; P37064-001 / P36887-B21 960GB SAS SSD ×4 = $1 160; P18432-B21 / P18477-001 480GB SATA MU ×2 = $330; P18436-B21 / P19695-001 1.92TB SATA MU ×2 = $830; **ИТОГО $4 950,00**. TT: Foshan Yanmei Intelligent Electronic Products company, JPMorgan Chase Bank N.A. Hong Kong Branch, счёт 200000001039320, SWIFT CHASHKHH, bank code 007, branch 863. Четвёртый из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «G2026111200A -2.pdf») — PROFORMA INVOICE № G2026111200A от 12.11.2026, NexNet Technology Co., Limited (602, 6/F, Kai Yue Commercial Bldg, 2C Argyle St, Mong Kok, Kowloon, HK) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), Payment Terms 100% Prepay: FPR1010-NGFW-K9 NEW ×1 = $665; C9200CX-8P-2X2G-E NEW ×1 = $1 600; C9200-NM-4X= NEW PULLED ×3 = $1 350; **ИТОГО $3 615,00**. Бенефициар NexNet Technology Co., Limited. Пятый из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «GN261112 -3.pdf») — PROFORMA INVOICE № GN261112 от 12.11.2026, ZETAI NETWORK TECHNOLOGY CO., LIMITED (Youth Entrepreneurship Building, Baisha Road, Shahe Town, Changping, Beijing) → Q8 GROUP LIMITED, FOB Beijing, Prepay by T/T, SF express: AIR-AP1542I-R-K9 ×10 = $4 800; AIR-AP1542D-R-K9 ×10 = $5 000; AIR-AP1562I-R-K9 ×3 = $1 260; AIR-AP1562D-R-K9 ×3 = $1 290; AIR-AP1562E-R-K9 ×3 = $1 350; C9115AXI-R ×20 = $7 000; C9115AXI-E ×2 = $650; **ИТОГО USD 21 350,00**. Бенефициар ZETAI NETWORK TECHNOLOGY CO.,LIMITED, ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт NRA15702142010500035466, SWIFT CZCBCN2X. Шестой из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «PIQ102026111208-4.pdf») — PROFORMA INVOICE № PI/Q10/2026111208 от 12.11.2026, Shenzhen Pilot Tech Dev Ltd (A210, Shanhai Commercial Plaza, Huangjunshan No.111, Bantian, Longgang, Shenzhen) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), 100% Deposit: 005049568 EMC 2TB 7.2K 3Gb/s SAS 3.5 (new) ×2 = $230; CP-7841-K9 ip Phone (new) ×3 = $240; **Sub Total US$470,00**. Седьмой (последний) поставщик по заявке 78556 — комплект сошёлся ровно: $1 775 + $1 125 + $63 188 + $4 950 + $3 615 + $21 350 + $470 = $96 473,00 | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-7.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (Приложение №2 к договору № 27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», платёж по инвойсу **Setion-36 от 12.11.2026**, получатель **HK Fanbo Trade Limited** (FLAT/RM 803, Chevalier House, 45-51 Chatham Road South, Tsim Sha Tsui, KL), банк ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2XXXX, счёт NRA15801142010500001971; сумма **63 188,00 USD**; курс конвертации **82,9803**; сумма к перечислению **5 243 359,19 RUB**; комиссия агента 1,5% + 700 USD; срок 5-10 банковских дней. Поручение покрывает только крупнейшего поставщика (Setion-36) из семи — по остальным поставщикам поручения ещё нет | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-1.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (второй экземпляр, приложение №2 к договору № 27062025TК/1): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», платёж по инвойсу **12112026ELEC от 12.11.2026**, получатель **Foshan Yanmei Intelligent Electronic Products company** (No.11 Xihua Road, Longjiang, Shunde, Foshan), JPMorgan Chase Bank N.A. Hong Kong Branch, SWIFT CHASHKHH, счёт 200000001039320; сумма **4 950,00 USD**; курс **82,9803**; сумма к перечислению в поручении указана **8 005 358,48 RUB**; комиссия 1,5% + 700 USD; срок 5-10 банковских дней. ⚠️ Расхождение: 4 950,00 USD × 82,9803 ≈ 410 752 ₽, а 8 005 358,48 ₽ соответствует ~96 473 USD (всей заявке). Рублёвую сумму не менял, помечаю для оператора | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-2.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (третий экземпляр, приложение №2 к договору № 27062025TК/1): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», платёж по инвойсу **G2026111200A от 12.11.2026**, получатель **NexNet Technology Co., Limited** (602, 6/F, Kai Yue Commercial Bldg, 2C Argyle St, Mong Kok, Kowloon, HK), HSBC (The Hongkong and Shanghai Banking Corporation Limited), SWIFT **HSBCHKHHHKH**, счёт **853 264778 838**; сумма **3 615,00 USD**; курс **82,9803**; ⚠️ поле «сумма к перечислению в рублях» заполнено только словом «RUB» — цифры нет; комиссия 1,5% + 700 USD; срок 5-10 банковских дней. Требуется дозаполнение рублёвой суммы оператором | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-3.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (четвёртый экземпляр): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», инвойс **GN261112 от 12.11.2026**, получатель **ZETAI NETWORK TECHNOLOGY CO.,LIMITED** (Beijing), ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15702142010500035466; сумма **21 350,00 USD**; курс **82,9803**; к перечислению **1 771 629,41 ₽** (сходится: 21 350 × 82,9803); комиссия 1,5% + 700 USD; срок 5-10 банковских дней | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-4.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (пятый экземпляр): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», инвойс **PI/Q10/2026111208 от 12.11.2026**, получатель **Shenzhen Pilot Tech Dev Ltd** (Units 1260, 12/F, Emperor Group Centre, 288 Hennessy Road, Wan Chai, HK), JPMorgan Chase Bank N.A. Hong Kong Branch, SWIFT **CHASHKHHXXX**, счёт **63001215662**; сумма **470,00 USD**; курс **82,9803**; к перечислению **39 000,74 ₽** (сходится); комиссия 1,5% + 700 USD; срок 5-10 банковских дней | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-5.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (шестой экземпляр): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», инвойс **PITA-39-111226 от 12.11.2026**, получатель **Shenzhen SJBL Tech Co., Ltd** (20/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, HK), CITIBANK N.A. HONG KONG BRANCH, SWIFT CITIHKHX / CITIHKHXXXX, счёт **3974000058244**; сумма **1 775,00 USD**; курс **82,9803**; к перечислению **147 290,03 ₽** (сходится); комиссия 1,5% + 700 USD; срок 5-10 банковских дней | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-6.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (седьмой, последний экземпляр): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», инвойс **PI-XMY-SET261111-04 от 11.11.2026**, получатель **Beijing Xinmingyuan Technology CO., LTD** (RM406A1, 4th Floor, Building 4, Yard 8, Fazhan Road, Changping District), ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2XXXX, счёт **156281420105000028698745**; сумма **1 125,00 USD**; курс **82,9803**; к перечислению **93 352,84 ₽** (сходится); комиссия 1,5% + 700 USD; срок 5-10 банковских дней. Комплект по заявке 78556 закрыт: все 7 поставщиков, сумма поручений = 96 473,00 USD | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «9909705572_13.11.2026_5160.PDF») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 5160 от 13.11.2026: плательщик **ООО «ВТС»** (ИНН 7735171132, КПП 772601001, ПАО Сбербанк, счёт 40702810738000140608) → получатель **ООО «БиТрейд Кей Джи»** (ИНН 9909705572, КПП 772887001, Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, счёт 40807810525640000008), сумма **8 005 358,48 ₽**, назначение {VO11100}: оплата товара по договору **07/09-2026 от 07.09.2026**, по инвойсу **78556 от 12.11.2026**, НДС не облагается. Проверка: 96 473,00 USD × 82,9803 = 8 005 358,48 ₽ — это оплата ВСЕЙ заявки 78556 одной суммой. Отсюда и цифра 8 005 358,48, попавшая в поручение Foshan Yanmei (она относилась ко всей заявке, а не к 4 950 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «9909705572_13.11.2026_5161.PDF») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 5161 от 13.11.2026: плательщик ООО «ВТС» (ИНН 7735171132, Сбербанк, счёт 40702810738000140608) → получатель **ООО «БиТрейд Кей Джи»** (ИНН 9909705572, ВТБ, счёт 40807810525640000008), сумма **178 166,59 ₽**, назначение {VO21100}: оплата за посреднические услуги по проведению расчётов с иностранным поставщиком, договор 27062025TК/1 от 24.06.2025, инвойс 78556 от 13.11.2026, НДС не облагается. Проверка: 178 166,59 / 82,9803 = 2 147,10 USD = комиссия агента 1,5% + 700 USD по всей заявке. Итого перечислено ВТС → БиТрейд: тело 8 005 358,48 ₽ (ПП №5160) + вознаграждение 178 166,59 ₽ (ПП №5161) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «инвойс услуги Би трейд 78556.pdf») — ИНВОЙС № 78556 от 13.11.2026, **ОсОО «БиТрейд Кей Джи»** (ИНН/КПП 9909705572/772887001) → покупатель **ООО «ВТС»** (117105, Москва, Новоданиловская наб., д. 4А, пом. 11/2/6; ИНН/КПП 7735171132/772601001): «Посреднические услуги по проведению расчётов с иностранным поставщиком», курс USD **82,9803** — **2 147,10 USD = 178 166,59 ₽**, договор 27062025TК/1 от 24.06.2025. Реквизиты: ВТБ (ПАО), р/с 40807810525640000008 (RUB), БИК 044525411, к/с 30101810145250000411, SWIFT VTBRRUM2MS2. Счёт полностью соответствует ПП №5161 (178 166,59 ₽) — комиссия агента 1,5% + 700 USD по всей заявке | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556.pdf» — ОБЩЕЕ поручение на всю заявку) — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (приложение №2 к договору № 27062025TК/1): принципал **ООО «ВТС»** → агент **ОсОО «БиТрейд Кей Джи»**, платёж по инвойсу **78556 от 12.11.2026**, получатель **Q8 GROUP LIMITED** (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), **DBS Bank (Hong Kong) Limited**, SWIFT **DHBKHKHH**, счёт **79807111801**; сумма **96 473,00 USD** (вся заявка, 7 поставщиков); курс **82,9803**; к перечислению **8 005 358,48 ₽**; комиссия агента 1,5% + 700 USD; срок 5-10 банковских дней. Это ОСНОВНОЕ поручение: сумма и рублёвый эквивалент совпадают с ПП №5160 (8 005 358,48 ₽), деньги идут в адрес Q8; семь отдельных поручений (Setion-36, Foshan Yanmei, NexNet, ZETAI, Shenzhen Pilot Tech, Shenzhen SJBL, Beijing Xinmingyuan) — разбивка выплат поставщикам внутри той же заявки | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Invoice Q8 78556.xlsx») — СЧЁТ **Q8 GROUP LIMITED → WTC LLC** (ВТС): INVOICE NO. **78556** от 12.11.2026, currency USD, terms 1, контракт **07/09-2026 от 07/09/2026**, Bill To/Ship To: WTC LLC, 117105, Москва, наб. Новоданиловская, 4А, пом. 11/2/6; 30 позиций — весь ассортимент семи поставщиков (816995-B21, P05319-001, 881507-001, AW611A, EG002400JWJNN, P37064-001, P18432-B21, P18436-B21, FPR1010-NGFW-K9, C9200CX-8P-2X2G-E, C9200-NM-4X=, AIR-AP1542I/D-R-K9, AIR-AP1562I/D/E-R-K9, C9115AXI-R/E, 005049568, CP-7841-K9, S26361-F5731-L118, MK003840GXNZN, C9300L-STACK-KIT, 02351UFE, 00AR144, P50312-B21, P50230-B21). **SUBTOTAL 96 473 USD, TOTAL 96 473 USD = 8 005 358,48 ₽**. Реквизиты: DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH, счёт 79807111801, Tax/Reg. No 80242882. Это счёт, выставленный НАМ (Q8) в адрес ВТС — именно по нему ВТС платит 8 005 358,48 ₽ (ПП №5160), сумма совпадает с общим поручением № 78556 | 🏦 25.09.2026 (statement-distribution-guard): rubles_received заполнен из выписки — ПП №5160 (8 005 358,48 ₽) + №5161 (178 166,59 ₽) = итого 8 183 525,07 ₽.",
+      "notes": "📄 13.11.2026 (📨 ВТС · t7389 · 96 473,00 USD / заявка 78556, 7 поставщиков; файл «PITA-39-111226 -5.pdf») — COMMERCIAL INVOICE № PITA-39-111226 от 12.11.2026, ATOMIC TECH LIMITED (B-29, Chengzhongyayuan, Futian, Shenzhen) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), FOB, оплата ALIPAY: S26361-F5731-L118 Fujitsu 1.8TB 10k 12Gb/s SAS HDD (oem new) 2 × $115 = $230; MK003840GXNZN / P40505-B21 HPE 3.84TB SATA 6G Mixed Use SFF BC SSD (oem new) 2 × $770 = $1 540; SF shipping $5; ИТОГО US$1 775,00 (Total RMB 11 839,25). Бенефициар Shenzhen SJBL Tech Co., Ltd, CITIBANK N.A. Hong Kong, счёт 3974000058244, SWIFT CITIHKHX. Это один из 7 поставщиков по заявке 78556 — общая сделка 96 473,00 USD | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «PI-XMY-SET261111-04 -6.pdf») — PROFORMA INVOICE № PI-XMY-SET261111-04 от 11.11.2026, Beijing Xinmingyuan Technology CO., LTD (Unit C 9/F Winning House, 72-76 Win Lok Street, Sheung Wan, HK; Beijing) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), Payment Term TT: C9300L-STACK-KIT (Cisco New Original, with Plastic Bag) 5 × $225 = **$1 125,00** EXW Beijing. Бенефициар Beijing Xinmingyuan Technology, ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт 156281420105000028698745, SWIFT CZCBCN2X. Второй из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «Setion-36 -7.pdf») — PROFORMA INVOICE № Setion-36 от 12.11.2026, Guangzhou Fanbo Trade Limited (Room B278, 2/F, Huangcun Road, Tianhe, Guangzhou) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), Payment terms Prepay: 02351UFE OceanStor 14TB 7.2K NL SAS ×1 = $600; 00AR144 IBM 4TB SAS ×2 = $240; ST6000NM0095 6TB ×10 = $1 800; ST1800MM0129 1.8TB 10K SAS ×42 = $4 830; P20077-001 HP 3Par 1.8TB ×2 = $230; P50312-B21 HPE 64GB DDR5-4800 ×8 = $21 888; P50230-B21 HP 3.2TB NVMe ×12 = $33 600; **ИТОГО $63 188,00**. Бенефициар HK Fanbo Trade Limited, ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт NRA15801142010500001971, SWIFT CZCBCN2X (intermediary MASHREQBANK PSC, MSHQUS33XXX). Третий из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «12112026ELEC -1.pdf») — PROFORMA INVOICE № 12112026ELEC от 12.11.2026, Foshan Yanmein Intelligent Products (No.11 Xihua Road, Longjiang, Shunde, Foshan) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH): 816995-B21 960GB SATA SSD ×1 = $225; P05319-001 / P04556-B21 240GB SATA ×2 = $190; 881507-001 2.4TB SAS 10K ×2 = $770; AW611A 600GB SAS 2.5 EVA ×15 = $675; EG002400JWJNN / 881457-B21 2.4TB 10K SAS ×2 = $770; P37064-001 / P36887-B21 960GB SAS SSD ×4 = $1 160; P18432-B21 / P18477-001 480GB SATA MU ×2 = $330; P18436-B21 / P19695-001 1.92TB SATA MU ×2 = $830; **ИТОГО $4 950,00**. TT: Foshan Yanmei Intelligent Electronic Products company, JPMorgan Chase Bank N.A. Hong Kong Branch, счёт 200000001039320, SWIFT CHASHKHH, bank code 007, branch 863. Четвёртый из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «G2026111200A -2.pdf») — PROFORMA INVOICE № G2026111200A от 12.11.2026, NexNet Technology Co., Limited (602, 6/F, Kai Yue Commercial Bldg, 2C Argyle St, Mong Kok, Kowloon, HK) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), Payment Terms 100% Prepay: FPR1010-NGFW-K9 NEW ×1 = $665; C9200CX-8P-2X2G-E NEW ×1 = $1 600; C9200-NM-4X= NEW PULLED ×3 = $1 350; **ИТОГО $3 615,00**. Бенефициар NexNet Technology Co., Limited. Пятый из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «GN261112 -3.pdf») — PROFORMA INVOICE № GN261112 от 12.11.2026, ZETAI NETWORK TECHNOLOGY CO., LIMITED (Youth Entrepreneurship Building, Baisha Road, Shahe Town, Changping, Beijing) → Q8 GROUP LIMITED, FOB Beijing, Prepay by T/T, SF express: AIR-AP1542I-R-K9 ×10 = $4 800; AIR-AP1542D-R-K9 ×10 = $5 000; AIR-AP1562I-R-K9 ×3 = $1 260; AIR-AP1562D-R-K9 ×3 = $1 290; AIR-AP1562E-R-K9 ×3 = $1 350; C9115AXI-R ×20 = $7 000; C9115AXI-E ×2 = $650; **ИТОГО USD 21 350,00**. Бенефициар ZETAI NETWORK TECHNOLOGY CO.,LIMITED, ZHEJIANG CHOUZHOU COMMERCIAL BANK, счёт NRA15702142010500035466, SWIFT CZCBCN2X. Шестой из 7 поставщиков по заявке 78556 (общая сделка 96 473,00 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556, 7 поставщиков; файл «PIQ102026111208-4.pdf») — PROFORMA INVOICE № PI/Q10/2026111208 от 12.11.2026, Shenzhen Pilot Tech Dev Ltd (A210, Shanhai Commercial Plaza, Huangjunshan No.111, Bantian, Longgang, Shenzhen) → Q8 GROUP LIMITED (DBS Bank HK, счёт 79807111801, SWIFT DHBKHKHH), 100% Deposit: 005049568 EMC 2TB 7.2K 3Gb/s SAS 3.5 (new) ×2 = $230; CP-7841-K9 ip Phone (new) ×3 = $240; **Sub Total US$470,00**. Седьмой (последний) поставщик по заявке 78556 — комплект сошёлся ровно: $1 775 + $1 125 + $63 188 + $4 950 + $3 615 + $21 350 + $470 = $96 473,00 | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-7.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (Приложение №2 к договору № 27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», платёж по инвойсу **Setion-36 от 12.11.2026**, получатель **HK Fanbo Trade Limited** (FLAT/RM 803, Chevalier House, 45-51 Chatham Road South, Tsim Sha Tsui, KL), банк ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2XXXX, счёт NRA15801142010500001971; сумма **63 188,00 USD**; курс конвертации **82,9803**; сумма к перечислению **5 243 359,19 RUB**; комиссия агента 1,5% + 700 USD; срок 5-10 банковских дней. Поручение покрывает только крупнейшего поставщика (Setion-36) из семи — по остальным поставщикам поручения ещё нет | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-1.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (второй экземпляр, приложение №2 к договору № 27062025TК/1): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», платёж по инвойсу **12112026ELEC от 12.11.2026**, получатель **Foshan Yanmei Intelligent Electronic Products company** (No.11 Xihua Road, Longjiang, Shunde, Foshan), JPMorgan Chase Bank N.A. Hong Kong Branch, SWIFT CHASHKHH, счёт 200000001039320; сумма **4 950,00 USD**; курс **82,9803**; сумма к перечислению в поручении указана **8 005 358,48 RUB**; комиссия 1,5% + 700 USD; срок 5-10 банковских дней. ⚠️ Расхождение: 4 950,00 USD × 82,9803 ≈ 410 752 ₽, а 8 005 358,48 ₽ соответствует ~96 473 USD (всей заявке). Рублёвую сумму не менял, помечаю для оператора | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-2.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (третий экземпляр, приложение №2 к договору № 27062025TК/1): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», платёж по инвойсу **G2026111200A от 12.11.2026**, получатель **NexNet Technology Co., Limited** (602, 6/F, Kai Yue Commercial Bldg, 2C Argyle St, Mong Kok, Kowloon, HK), HSBC (The Hongkong and Shanghai Banking Corporation Limited), SWIFT **HSBCHKHHHKH**, счёт **853 264778 838**; сумма **3 615,00 USD**; курс **82,9803**; ⚠️ поле «сумма к перечислению в рублях» заполнено только словом «RUB» — цифры нет; комиссия 1,5% + 700 USD; срок 5-10 банковских дней. Требуется дозаполнение рублёвой суммы оператором | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-3.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (четвёртый экземпляр): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», инвойс **GN261112 от 12.11.2026**, получатель **ZETAI NETWORK TECHNOLOGY CO.,LIMITED** (Beijing), ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2X, счёт NRA15702142010500035466; сумма **21 350,00 USD**; курс **82,9803**; к перечислению **1 771 629,41 ₽** (сходится: 21 350 × 82,9803); комиссия 1,5% + 700 USD; срок 5-10 банковских дней | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-4.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (пятый экземпляр): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», инвойс **PI/Q10/2026111208 от 12.11.2026**, получатель **Shenzhen Pilot Tech Dev Ltd** (Units 1260, 12/F, Emperor Group Centre, 288 Hennessy Road, Wan Chai, HK), JPMorgan Chase Bank N.A. Hong Kong Branch, SWIFT **CHASHKHHXXX**, счёт **63001215662**; сумма **470,00 USD**; курс **82,9803**; к перечислению **39 000,74 ₽** (сходится); комиссия 1,5% + 700 USD; срок 5-10 банковских дней | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-5.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (шестой экземпляр): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», инвойс **PITA-39-111226 от 12.11.2026**, получатель **Shenzhen SJBL Tech Co., Ltd** (20/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, HK), CITIBANK N.A. HONG KONG BRANCH, SWIFT CITIHKHX / CITIHKHXXXX, счёт **3974000058244**; сумма **1 775,00 USD**; курс **82,9803**; к перечислению **147 290,03 ₽** (сходится); комиссия 1,5% + 700 USD; срок 5-10 банковских дней | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556-6.pdf») — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (седьмой, последний экземпляр): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи», инвойс **PI-XMY-SET261111-04 от 11.11.2026**, получатель **Beijing Xinmingyuan Technology CO., LTD** (RM406A1, 4th Floor, Building 4, Yard 8, Fazhan Road, Changping District), ZHEJIANG CHOUZHOU COMMERCIAL BANK, SWIFT CZCBCN2XXXX, счёт **156281420105000028698745**; сумма **1 125,00 USD**; курс **82,9803**; к перечислению **93 352,84 ₽** (сходится); комиссия 1,5% + 700 USD; срок 5-10 банковских дней. Комплект по заявке 78556 закрыт: все 7 поставщиков, сумма поручений = 96 473,00 USD | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «9909705572_13.11.2026_5160.PDF») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 5160 от 13.11.2026: плательщик **ООО «ВТС»** (ИНН 7735171132, КПП 772601001, ПАО Сбербанк, счёт 40702810738000140608) → получатель **ООО «БиТрейд Кей Джи»** (ИНН 9909705572, КПП 772887001, Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, счёт 40807810525640000008), сумма **8 005 358,48 ₽**, назначение {VO11100}: оплата товара по договору **07/09-2026 от 07.09.2026**, по инвойсу **78556 от 12.11.2026**, НДС не облагается. Проверка: 96 473,00 USD × 82,9803 = 8 005 358,48 ₽ — это оплата ВСЕЙ заявки 78556 одной суммой. Отсюда и цифра 8 005 358,48, попавшая в поручение Foshan Yanmei (она относилась ко всей заявке, а не к 4 950 USD) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «9909705572_13.11.2026_5161.PDF») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 5161 от 13.11.2026: плательщик ООО «ВТС» (ИНН 7735171132, Сбербанк, счёт 40702810738000140608) → получатель **ООО «БиТрейд Кей Джи»** (ИНН 9909705572, ВТБ, счёт 40807810525640000008), сумма **178 166,59 ₽**, назначение {VO21100}: оплата за посреднические услуги по проведению расчётов с иностранным поставщиком, договор 27062025TК/1 от 24.06.2025, инвойс 78556 от 13.11.2026, НДС не облагается. Проверка: 178 166,59 / 82,9803 = 2 147,10 USD = комиссия агента 1,5% + 700 USD по всей заявке. Итого перечислено ВТС → БиТрейд: тело 8 005 358,48 ₽ (ПП №5160) + вознаграждение 178 166,59 ₽ (ПП №5161) | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «инвойс услуги Би трейд 78556.pdf») — ИНВОЙС № 78556 от 13.11.2026, **ОсОО «БиТрейд Кей Джи»** (ИНН/КПП 9909705572/772887001) → покупатель **ООО «ВТС»** (117105, Москва, Новоданиловская наб., д. 4А, пом. 11/2/6; ИНН/КПП 7735171132/772601001): «Посреднические услуги по проведению расчётов с иностранным поставщиком», курс USD **82,9803** — **2 147,10 USD = 178 166,59 ₽**, договор 27062025TК/1 от 24.06.2025. Реквизиты: ВТБ (ПАО), р/с 40807810525640000008 (RUB), БИК 044525411, к/с 30101810145250000411, SWIFT VTBRRUM2MS2. Счёт полностью соответствует ПП №5161 (178 166,59 ₽) — комиссия агента 1,5% + 700 USD по всей заявке | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Поручение 78556.pdf» — ОБЩЕЕ поручение на всю заявку) — ПОРУЧЕНИЕ № 78556 от 13.11.2026 (приложение №2 к договору № 27062025TК/1): принципал **ООО «ВТС»** → агент **ОсОО «БиТрейд Кей Джи»**, платёж по инвойсу **78556 от 12.11.2026**, получатель **Q8 GROUP LIMITED** (RM A22, 10/F, No.52 Hung To Road, Kwun Tong, HK), **DBS Bank (Hong Kong) Limited**, SWIFT **DHBKHKHH**, счёт **79807111801**; сумма **96 473,00 USD** (вся заявка, 7 поставщиков); курс **82,9803**; к перечислению **8 005 358,48 ₽**; комиссия агента 1,5% + 700 USD; срок 5-10 банковских дней. Это ОСНОВНОЕ поручение: сумма и рублёвый эквивалент совпадают с ПП №5160 (8 005 358,48 ₽), деньги идут в адрес Q8; семь отдельных поручений (Setion-36, Foshan Yanmei, NexNet, ZETAI, Shenzhen Pilot Tech, Shenzhen SJBL, Beijing Xinmingyuan) — разбивка выплат поставщикам внутри той же заявки | 📄 13.11.2026 (📨 ВТС · t7389 · заявка 78556; файл «Invoice Q8 78556.xlsx») — СЧЁТ **Q8 GROUP LIMITED → WTC LLC** (ВТС): INVOICE NO. **78556** от 12.11.2026, currency USD, terms 1, контракт **07/09-2026 от 07/09/2026**, Bill To/Ship To: WTC LLC, 117105, Москва, наб. Новоданиловская, 4А, пом. 11/2/6; 30 позиций — весь ассортимент семи поставщиков (816995-B21, P05319-001, 881507-001, AW611A, EG002400JWJNN, P37064-001, P18432-B21, P18436-B21, FPR1010-NGFW-K9, C9200CX-8P-2X2G-E, C9200-NM-4X=, AIR-AP1542I/D-R-K9, AIR-AP1562I/D/E-R-K9, C9115AXI-R/E, 005049568, CP-7841-K9, S26361-F5731-L118, MK003840GXNZN, C9300L-STACK-KIT, 02351UFE, 00AR144, P50312-B21, P50230-B21). **SUBTOTAL 96 473 USD, TOTAL 96 473 USD = 8 005 358,48 ₽**. Реквизиты: DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH, счёт 79807111801, Tax/Reg. No 80242882. Это счёт, выставленный НАМ (Q8) в адрес ВТС — именно по нему ВТС платит 8 005 358,48 ₽ (ПП №5160), сумма совпадает с общим поручением № 78556 | 🏦 25.09.2026 (statement-distribution-guard): rubles_received заполнен из выписки — ПП №5160 (8 005 358,48 ₽) + №5161 (178 166,59 ₽) = итого 8 183 525,07 ₽. | r64: 💸 13.11.2026 (📨 Отправки рублей ПП.: «С БиТрейд на Альмено, сумма 8 183 525,07, комплектующие, заявка 48», папка O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 13.11.26_4, ООО ВТС) — отправка рублей на Альмено 8 183 525,07 ₽, маршрут Almeno, заявка 48, назначение «комплектующие». Заявки/инвойса по 48 в таблицах нет — строка 🔵, ждём сделку (сумма/валюта с инвойсом/ордером). | 📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №207) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №207 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 8 183 525,07 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 48 от 13.11.2026 за комплектующие, НДС не облагается. ПП на Альмено №207 от 13.11.2026 (8 183 525,07 ₽ — номер из документа ПП) | 🔗 2026-11-14 (Scream: «распоряжение владельца 14.11.2026 — склейка r64+r65 (ВТС, 96 473 USD)») — строки 64 объединены с этой: sum = 96473 USD; rubles_received = 8005358.48 / 178166.59; sent_rubles_vdx = 8183525.07; цвет = ⬜ (row 63 (выжившая), понижение запрещено). Полные notes прежних строк — в Main.removed-rows_main-000509-main-000510_2026-11-14.json.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -2094,72 +2148,6 @@
       "companyProvisional": true,
       "companyVerified": false,
       "payerSystem": "JP Morgan"
-    },
-    {
-      "row": 66,
-      "date": "2026-11-13",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ООО ВТС",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": 8183525.07,
-      "exchange_to": "Almeno",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "💸 13.11.2026 (📨 Отправки рублей ПП.: «С БиТрейд на Альмено, сумма 8 183 525,07, комплектующие, заявка 48», папка O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 13.11.26_4, ООО ВТС) — отправка рублей на Альмено 8 183 525,07 ₽, маршрут Almeno, заявка 48, назначение «комплектующие». Заявки/инвойса по 48 в таблицах нет — строка 🔵, ждём сделку (сумма/валюта с инвойсом/ордером). | 📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №207) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №207 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 8 183 525,07 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 48 от 13.11.2026 за комплектующие, НДС не облагается. ПП на Альмено №207 от 13.11.2026 (8 183 525,07 ₽ — номер из документа ПП)",
-      "calc": null,
-      "sumSource": null,
-      "rowId": "main-000510"
-    },
-    {
-      "row": 67,
-      "date": "2026-11-13",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ООО ВТС",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": 1351705.38,
-      "exchange_to": "Almeno",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №204) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №204 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 1 351 705,38 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 46 от 13.11.2026 за комплектующие, НДС не облагается. Маршрут Almeno, заявка 46, строка 🔵 — ждём сделку. | ПП на Альмено №204 от 13.11.2026 (1 351 705,38 ₽ — номер из документа ПП).",
-      "calc": null,
-      "sumSource": null,
-      "rowId": "main-000511"
-    },
-    {
-      "row": 68,
-      "date": "2026-11-13",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ООО ВТС",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": 20170976.29,
-      "exchange_to": "Almeno",
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №205) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №205 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 20 170 976,29 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 47 от 13.11.2026 за комплектующие, НДС не облагается. Маршрут Almeno, заявка 47, строка 🔵 — ждём сделку. | ПП на Альмено №205 от 13.11.2026 (20 170 976,29 ₽ — номер из документа ПП).",
-      "calc": null,
-      "sumSource": null,
-      "rowId": "main-000512"
     }
   ]
 }

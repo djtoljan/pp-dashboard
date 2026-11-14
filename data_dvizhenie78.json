@@ -23,6 +23,10 @@
     "costSourceRef": {
       "ref": "W& Платежи (Т+С)/169 t29590, 02.11.2026 15:34, msg 59940",
       "date": "2026-11-02"
+    },
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 03.11 (2026-11-02)"
     }
   },
   {
@@ -53,7 +57,11 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "vdxRateSource": {
+      "kind": "vdx-table",
+      "ref": "VDX 5.11xlsx (2026-11-05)"
+    }
   },
   {
     "row": 3,
@@ -89,7 +97,11 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "vdxRateSource": {
+      "kind": "legacy",
+      "ref": "источник не зафиксирован, строка создана до 14.11.2026"
+    }
   },
   {
     "row": 4,
@@ -125,6 +137,10 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "vdxRateSource": {
+      "kind": "legacy",
+      "ref": "источник не зафиксирован, строка создана до 14.11.2026"
+    }
   }
 ]
