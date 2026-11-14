@@ -192,7 +192,7 @@
     "currency": "EUR",
     "company": "Q8",
     "color": "FFFFFF00",
-    "clientName": "Al Safi",
+    "clientName": "SMARTSISTEMS PTE. LTD.",
     "costFormula": "(67 544,15 / 0,887 + 65) / 0,9965 = 76 482 USDT",
     "extra": null,
     "rubles_received": null,
@@ -535,7 +535,7 @@
     "clientName": "ИП Крылов",
     "costFormula": "(4 225,47 + 65) / 0,9965 = 4 306 USDT (Q8 baxs)",
     "extra": null,
-    "rubles_received": "59155.36 / 287658.54 / 12396.47",
+    "rubles_received": null,
     "statementRef": null,
     "sent_rubles_vdx": "59155.36 / 287658.54 / 12396.47",
     "exchange_to": "VDX",
@@ -558,7 +558,8 @@
       "ref": "owner_instruction, FINIVEST AI msg 61563, 10.11.2026",
       "date": "2026-11-10"
     },
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "directToExchanger": true
   },
   {
     "row": 19,
@@ -757,7 +758,7 @@
     "date": "2026-11-10",
     "sum": 35372,
     "currency": "CNY",
-    "company": "BEIJING YATAI HUAHENG TECHNOLOGY CO.,LTD",
+    "company": "Alipay",
     "color": "FF92D050",
     "clientName": "Вилог",
     "costFormula": "факт по выплате, txid d739bada10dd884b144188f52470db01b141398166bbe91ed6792d1cb42fa9d8 = 6880.00 USDT",
@@ -780,10 +781,10 @@
     },
     "rowId": "mol-000242",
     "companySource": {
-      "source": "order",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "PO 5311 USD (BEIJING YATAI HUAHENG)",
-      "messageId": null
+      "ref": null,
+      "messageId": "17921"
     },
     "companyProvisional": false,
     "companyVerified": false,
@@ -1549,34 +1550,6 @@
     "currency": null,
     "company": null,
     "color": "FFFFFFFF",
-    "clientName": "ООО ГТК",
-    "costFormula": "",
-    "extra": "О:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ГТК\\вход 12.11.26_2",
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": 816053.94,
-    "exchange_to": "Almeno",
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "💸 13.11.2026 (📨 Отправки рублей ПП.: «С БиТрейд на Альмено, сумма 816 053,94, светодиодные линзы и комплектующие, заявка 44», папка O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ГТК\\вход 12.11.26_2, ООО «ГТК») — отправка рублей на Альмено 816 053,94 ₽, маршрут Almeno, заявка 44. Строка создана по этому сообщению (сумма/валюта сделки пока не известны — ждём заявку) | 📄 13.11.2026 (📨 Отправки рублей ПП., файл «пп 201-207 исп.pdf», ПП №202) — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №202 от 13.11.2026, исполнено 13.11.2026 (Филиал «Центральный» Банка ВТБ (ПАО), ДБО): ОсОО «БиТрейд Кей Джи» (ИНН 9909705572, счёт 40807810525640000008) → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», счёт 40807810700300000030), 816 053,94 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 44 от 13.11.2026 за запчасти, НДС не облагается. ПП на Альмено №202 от 13.11.2026 (816 053,94 ₽ — номер из документа ПП)",
-    "calc": null,
-    "sumSource": {
-      "source": "scream",
-      "ref": "сообщение «Отправки рублей ПП.» 13.11.2026: 816 053,94 ₽, заявка 44, светодиодные линзы",
-      "file": null,
-      "date": null,
-      "messageId": null
-    },
-    "rowId": "mol-000268"
-  },
-  {
-    "row": 47,
-    "date": "2026-11-13",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": "",
     "extra": "input-rpp_681---5688cfd0-89c7-472e-b5cf-177cc99b42e6.pdf",
@@ -1600,7 +1573,7 @@
     "directToExchanger": true
   },
   {
-    "row": 48,
+    "row": 47,
     "date": "2026-11-13",
     "sum": 6208,
     "currency": "USD",
@@ -1637,7 +1610,7 @@
     "directToExchanger": true
   },
   {
-    "row": 49,
+    "row": 48,
     "date": "2026-11-13",
     "sum": 10155,
     "currency": "USD",
@@ -1673,7 +1646,7 @@
     "companyVerified": false
   },
   {
-    "row": 50,
+    "row": 49,
     "date": "2026-11-13",
     "sum": 57870.92,
     "currency": "EUR",
@@ -1682,7 +1655,7 @@
     "clientName": "АО «Фри Лайнс Компани»",
     "costFormula": "",
     "extra": "АО «Фри Лайнс Компани»",
-    "rubles_received": "--doc-ref",
+    "rubles_received": null,
     "statementRef": null,
     "sent_rubles_vdx": 5473723.39,
     "exchange_to": "VDX",
@@ -1710,7 +1683,7 @@
     "companyVerified": true
   },
   {
-    "row": 51,
+    "row": 50,
     "date": "2026-11-13",
     "sum": 36877.05,
     "currency": "USD",
@@ -1719,7 +1692,7 @@
     "clientName": "Мосты",
     "costFormula": "",
     "extra": "ООО «ФЛАВИА»",
-    "rubles_received": "--doc-ref",
+    "rubles_received": null,
     "statementRef": null,
     "sent_rubles_vdx": "3060068.67 / 69912.95",
     "exchange_to": "VDX",
@@ -1747,7 +1720,7 @@
     "companyVerified": true
   },
   {
-    "row": 52,
+    "row": 51,
     "date": "2026-11-13",
     "sum": 22400,
     "currency": "USD",
@@ -1756,7 +1729,7 @@
     "clientName": "Вилог",
     "costFormula": "",
     "extra": "ООО «ВИЛОГ»",
-    "rubles_received": "--doc-ref",
+    "rubles_received": null,
     "statementRef": null,
     "sent_rubles_vdx": 1876857.92,
     "exchange_to": "VDX",
