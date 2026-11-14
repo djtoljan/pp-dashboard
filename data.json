@@ -1370,7 +1370,7 @@
       "clientName": "Центр Пром-Автомат (Tez Iz)",
       "costFormula": "факт по выплате, txid 6f2b8d10e254a610ee828991ca0dd944428653e3651e5545dd1360a55f9e166f = 152488.00 USDT",
       "extra": null,
-      "rubles_received": "11987707.69 / 179815.61 + 511801.32 / 7677.02",
+      "rubles_received": "11987707.69 / 179815.61 / 511801.32 / 7677.02",
       "statementRef": null,
       "sent_rubles_vdx": "12687001.64",
       "exchange_to": "Almeno",
