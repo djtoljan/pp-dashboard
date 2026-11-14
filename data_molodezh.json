@@ -1221,7 +1221,7 @@
     "clientName": "Медлазцентр (Молодёжь)",
     "costFormula": null,
     "extra": null,
-    "rubles_received": "577545.00 / 37935.00",
+    "rubles_received": null,
     "statementRef": null,
     "sent_rubles_vdx": "577545.00 / 37935.00",
     "exchange_to": "VDX",
@@ -1246,7 +1246,8 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "directToExchanger": true
   },
   {
     "row": 37,
@@ -1286,7 +1287,7 @@
     "clientName": "МД Лайн транс",
     "costFormula": null,
     "extra": null,
-    "rubles_received": "2444514.81 / 46030.09",
+    "rubles_received": null,
     "statementRef": null,
     "sent_rubles_vdx": "2444514.81 / 46030.09",
     "exchange_to": "VDX",
@@ -1302,7 +1303,8 @@
       "date": null,
       "messageId": "input-payment_order_13.11---fc143e88-11b3-4fce-81bd-05c690b8d03e.docx"
     },
-    "rowId": "mol-000259"
+    "rowId": "mol-000259",
+    "directToExchanger": true
   },
   {
     "row": 39,
