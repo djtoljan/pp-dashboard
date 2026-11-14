@@ -867,12 +867,12 @@
       "extra": "📄 06.11.2026 (📨 ВТС · t6874, файл «60-ATB Service GmbH-Q8-FIT-051126.pdf», заявка 78248) — PROFORMA INVOICE №060-051126-FIT от 05.11.2026: CILINDRO DE HMB AL.100/060/0800+TS40C+TS40N 60 шт × 307,03 = 18 421,86; CILINDRO DE HMB AL.090/050/0500 TS40C+TS40N 60 шт × 222,62 = 13 357,10; PACKING 1 × 340,30; ИТОГО 32 119,26 EUR; происхождение Италия (EXW LUGO, ITALY), 120 мест, вес нетто 4 745,28 кг, брутто 4 943,00 кг; оплата в течение 5 дней; директор I.Brigida. Плательщик — Германия/ATB Service GmbH; по указанию оплата идёт на ФИНИНВЕСТ через Q8 (это первый инвойс).",
       "rubles_received": "2960049.98 / 52600.75",
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
+      "sent_rubles_vdx": "3012650.73",
+      "exchange_to": "Almeno",
+      "vdx_rate": 82.44,
+      "received_usdt": 36543.56,
       "sent_usdt": 36403.53,
-      "notes": "📄 06.11.2026 (📨 ВТС · t6874, файл «инвойс услуги Би трейд 78248.pdf») — ИНВОЙС услуг ООО «БиТрейд Кей Джи» по заявке 78248: посреднические услуги по расчётам с иностранным поставщиком — 481,79 EUR по курсу 92,1581 (44 400,75 ₽) + 100,00 USD по курсу 82,0000 (8 200,00 ₽), итого 52 600,75 ₽; реквизиты ВТБ (ПАО), р/с 40807810525640000008, БИК 044525411, подписант Курьянов А.А. Это счёт за услуги по заявке 78248 — сумма сделки не меняется. | 📄 06.11.2026 (📨 ВТС · t6874, файл «Поручение 78248.pdf») — ПОРУЧЕНИЕ №78248 от 06.11.2026 (Приложение №2 к договору №27062025ТК/1 от 24.06.2025): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи»; платёж 32 119,26 EUR по инвойсу 060-051126-FIT от 05.11.2026; получатель FININVEST ULUSLARARASI TICARET ANONIM SIRKETI (Ataturk Mah., Ertugrul Gazi Sk., Metropol Istanbul C1 Blok No:2B Daire:376, Atasehir/Istanbul), KUVEYT TURK KATILIM BANKASI A.S. (Yusufpasa), SWIFT KTEFTRIS, счёт TR27 0020 5000 0982 4616 8001 02; контракт FI-070825-1 от 07.08.2025; курс 92,1581, к перечислению 2 960 049,98 ₽; комиссия агента 1,5% + 100 USD; подписи Бондарев А.П. / Курьянов А.А. Принципал — ВТС (клиент строки исправлен с ФИНИНВЕСТ на ВТС), сумма не менялась. | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61632): (32 119,26 / 0,887 + 65) / 0,9965 = 36 403,53 USDT (Q8 baxs EUR) | 📄 11.11.2026 (📨 EUR, файл «FININVEST ULUSLARARASI TICARET ANONIM SIRKETI-32119.26EUR.pdf») — BAXS PAY Proof of Transfer: Payer Q8 GROUP LIMITED → Beneficiary FININVEST ULUSLARARASI TICARET ANONIM SIRKETI (Atatürk Mah. Ertuğrul Gazi Sk.); банк KUVEYT TURK KATILIM BANKASI A.S., IBAN TR270020500009824616800102, SWIFT KTEFTRIS; Transaction Amount 32 119,26 EUR; Details of Charges OUR; Transaction ID FO2611111011000002; Transaction Status Pending（处理中）; Transaction Date 20261111; Remarks «INVOICE 060-051126-FIT». Сумма совпадает со строкой; статус Pending — не исполнение: строка ⬜→🟡, зелёнку не ставим до Success/Executed. | 🏦 12.11.2026 (📨 EUR, файл «32,119.26 EUR-FININVEST ULUSLARARASI TICARET ANONIM SIRKETI.pdf») — Proof of Transfer (подтверждение отправки): отправитель Q8 GROUP LIMITED (No.52 Hung To Road, Kwun Tong, KL, HK), получатель FININVEST ULUSLARARASI TICARET ANONIM SIRKETI (Ataturk Mah. Ertugrul Gazi Sk, Istanbul, 3435, TR), банк KTEFTRIS, счёт TR270020500009824616800102; Settlement Date/Amount 32A: 12/11/2026 / 32 119,26 EUR; назначение «INVOICE 060-051126-FIT»; Transaction Reference PB2611120159000002-1; UETR 88e1e1b0-7f74-4995-9af7-4b30d9be64f8. Сумма совпадает со строкой; документ информационный (не подтверждает зачисление) — статус 🟡 сохраняется до подтверждения исполнения. | 📄 12.11.2026 (📨 ВТС · t6874 · 32 119,26 EUR, повтор файла «302_32,119_26_EUR_FININVEST…pdf») — уточнение к сделке: платёж идёт по заявке 78248, плательщик — FININVEST + Германия (FININVEST ULUSLARARASI TICARET ANONIM SIRKETI как плательщик со стороны Германии). Документ исполнения — Proof of Transfer PB2611120159000002-1 (12.11.2026, 32 119,26 EUR, INVOICE 060-051126-FIT). Статус 🟡 сохраняется до EXECUTED.",
+      "notes": "📄 06.11.2026 (📨 ВТС · t6874, файл «инвойс услуги Би трейд 78248.pdf») — ИНВОЙС услуг ООО «БиТрейд Кей Джи» по заявке 78248: посреднические услуги по расчётам с иностранным поставщиком — 481,79 EUR по курсу 92,1581 (44 400,75 ₽) + 100,00 USD по курсу 82,0000 (8 200,00 ₽), итого 52 600,75 ₽; реквизиты ВТБ (ПАО), р/с 40807810525640000008, БИК 044525411, подписант Курьянов А.А. Это счёт за услуги по заявке 78248 — сумма сделки не меняется. | 📄 06.11.2026 (📨 ВТС · t6874, файл «Поручение 78248.pdf») — ПОРУЧЕНИЕ №78248 от 06.11.2026 (Приложение №2 к договору №27062025ТК/1 от 24.06.2025): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи»; платёж 32 119,26 EUR по инвойсу 060-051126-FIT от 05.11.2026; получатель FININVEST ULUSLARARASI TICARET ANONIM SIRKETI (Ataturk Mah., Ertugrul Gazi Sk., Metropol Istanbul C1 Blok No:2B Daire:376, Atasehir/Istanbul), KUVEYT TURK KATILIM BANKASI A.S. (Yusufpasa), SWIFT KTEFTRIS, счёт TR27 0020 5000 0982 4616 8001 02; контракт FI-070825-1 от 07.08.2025; курс 92,1581, к перечислению 2 960 049,98 ₽; комиссия агента 1,5% + 100 USD; подписи Бондарев А.П. / Курьянов А.А. Принципал — ВТС (клиент строки исправлен с ФИНИНВЕСТ на ВТС), сумма не менялась. | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61632): (32 119,26 / 0,887 + 65) / 0,9965 = 36 403,53 USDT (Q8 baxs EUR) | 📄 11.11.2026 (📨 EUR, файл «FININVEST ULUSLARARASI TICARET ANONIM SIRKETI-32119.26EUR.pdf») — BAXS PAY Proof of Transfer: Payer Q8 GROUP LIMITED → Beneficiary FININVEST ULUSLARARASI TICARET ANONIM SIRKETI (Atatürk Mah. Ertuğrul Gazi Sk.); банк KUVEYT TURK KATILIM BANKASI A.S., IBAN TR270020500009824616800102, SWIFT KTEFTRIS; Transaction Amount 32 119,26 EUR; Details of Charges OUR; Transaction ID FO2611111011000002; Transaction Status Pending（处理中）; Transaction Date 20261111; Remarks «INVOICE 060-051126-FIT». Сумма совпадает со строкой; статус Pending — не исполнение: строка ⬜→🟡, зелёнку не ставим до Success/Executed. | 🏦 12.11.2026 (📨 EUR, файл «32,119.26 EUR-FININVEST ULUSLARARASI TICARET ANONIM SIRKETI.pdf») — Proof of Transfer (подтверждение отправки): отправитель Q8 GROUP LIMITED (No.52 Hung To Road, Kwun Tong, KL, HK), получатель FININVEST ULUSLARARASI TICARET ANONIM SIRKETI (Ataturk Mah. Ertugrul Gazi Sk, Istanbul, 3435, TR), банк KTEFTRIS, счёт TR270020500009824616800102; Settlement Date/Amount 32A: 12/11/2026 / 32 119,26 EUR; назначение «INVOICE 060-051126-FIT»; Transaction Reference PB2611120159000002-1; UETR 88e1e1b0-7f74-4995-9af7-4b30d9be64f8. Сумма совпадает со строкой; документ информационный (не подтверждает зачисление) — статус 🟡 сохраняется до подтверждения исполнения. | 📄 12.11.2026 (📨 ВТС · t6874 · 32 119,26 EUR, повтор файла «302_32,119_26_EUR_FININVEST…pdf») — уточнение к сделке: платёж идёт по заявке 78248, плательщик — FININVEST + Германия (FININVEST ULUSLARARASI TICARET ANONIM SIRKETI как плательщик со стороны Германии). Документ исполнения — Proof of Transfer PB2611120159000002-1 (12.11.2026, 32 119,26 EUR, INVOICE 060-051126-FIT). Статус 🟡 сохраняется до EXECUTED. | r43: ПП на Almeno №193 от 09.11.2026 (3 012 650,73 ₽ — номер из документа ПП) | \\n💸 09.11.2026 (📨 Отправки рублей ПП.) — с БиТрейд (ВТБ) на Альмено 3 012 650,73 ₽ — ЦИЛИНДР ДЛЯ ИСБ, заявка 36, доки на вход O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 06.11.26_4. Маршрут Almeno. Готовой строки не было — строка 🔵, ждём сделку (сумма/валюта с инвойсом/ордером). |  | 🏦 09.11.2026 (📨 Отправки рублей ПП., файл «international_payments 193.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ ИСПОЛНЕНО 09.11.2026 в 12:28:41 (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, через АО БАНК «ЕРМАК»): {VO60081} оплата по агентскому договору № AL17062026-3 от 17.06.2026, согласно заявке 36 от 09.11.2026 за цилиндр для ИСБ; получатель АЛЬМЕНО КО., ЛТД (ИНН 9909691746, счёт 40807810700300000030). Подтверждает отправку рублей по этой строке. | 🔗 2026-11-14 (Scream: «распоряжение владельца 14.11.2026 — склейка разорванной сделки r29+r43») — строки 43 объединены с этой: sum = 32119.26 EUR; rubles_received = 2960049.98 / 52600.75; sent_rubles_vdx = 3012650.73; цвет = 🟡 (row 29 (выжившая), понижение запрещено). Полные notes прежних строк — в Main.removed-rows_29-43_2026-11-14.json.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -894,7 +894,11 @@
         "ref": "owner_instruction, FINIVEST AI msg 61632, 10.11.2026",
         "date": "2026-11-10"
       },
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "vdxRateSource": {
+        "kind": "scream-order",
+        "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
+      }
     },
     {
       "row": 30,
@@ -908,12 +912,12 @@
       "extra": "📄 06.11.2026 (📨 ВТС · t6884, файл «Поручение 66630-2.pdf») — ПОРУЧЕНИЕ №66630 от 06.11.2026 (вторая часть): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи»; платёж 40 000,00 USD по инвойсу HBYK-260901 от 01.09.2026; получатель HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO., LTD (Room 850, Unit 2, Building 1, Lehuicheng, No. 11, Zhongshan East Road, Chang'an District, Shijiazhuang, Hebei, China), BANK OF CHINA SHIJIAZHUANG JICHANG ROAD SUB-BR, SWIFT BKCHCNBJ220, счёт 101911882209; контракт Sales Contract №01/09-2026-01 от 01.09.2026; курс 82,0000, к перечислению 3 280 000,00 ₽; комиссия агента 1,5% + 100 USD; подписи Бондарев А.П. / Курьянов А.А. Это остаток 50% по проформе HBYK-260901 (итого 80 000 после скидки); первая часть — Main r5.",
       "rubles_received": "3280000.00 / 57400.00",
       "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
+      "sent_rubles_vdx": "3337400",
+      "exchange_to": "Almeno",
+      "vdx_rate": 81.94,
+      "received_usdt": 40729.8,
       "sent_usdt": 40206,
-      "notes": "📄 10.11.2026 (📨 ВТС; файл «Hebei Yukuo HBYK-260901 40000 USD Q8.pdf») — ORDER: плательщик Q8 GROUP LIMITED; бенефициар HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO. LTD (Bank of China Shijiazhuang Jichang Road Sub-BR; SWIFT BKCHCNBJ220; счёт 101911882209); PAYMENT FOR INVOICE HBYK-260901; 40 000.00 USD. В company стоял получатель — приведено к плательщику Q8 GROUP LIMITED (основание: ORDER 10.11.2026) | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61627): (40 000,00 + 65) / 0,9965 = 40 206 USDT (Q8 baxs) | 📄 11.11.2026 (📨 USD, файл «40,000.00 USD-HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO.,LTD.pdf») — BAXS PAY Proof of Transfer: Payer Q8 GROUP LIMITED → Beneficiary HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO., LTD (Room 807, Hanke Building, No.44 Jianshe North Street); банк BANK OF CHINA SHIJIAZHUANG JICHANG ROAD SUB-BR, счёт 101911882209, SWIFT BKCHCNBJ220; Transaction Amount 40 000,00 USD; Details of Charges OUR; Transaction ID FO2611110836000001; Transaction Status Pending（处理中）; Transaction Date 20261111; Remarks «INVOICE HBYK-260901». Статус Pending — не исполнение: строка ⬜→🟡, зелёнку не ставим до Success/Executed. | ✅ 11.11.2026 (Scream, голосом в FINIVEST AI): по инвойсу HBYK-260901 это ВТОРОЙ платёж — две разные сделки; строки 5 и 164 НЕ объединять. | 🏦 12.11.2026 (📨 USD, файл «40,000.00 USD-HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO.,LTD .pdf») — Proof of Transfer (подтверждение отправки): отправитель Q8 GROUP LIMITED (No.52 Hung To Road, Kwun Tong, KL, HK), получатель HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO.,LTD (Room 807, Hanke Building, No.44 Jianshe North Street, Shijiazhuang, Hebei, 050041, CN), банк BKCHCNBJ220 (Bank of China Shijiazhuang Jichang Road Sub-BR), счёт 101911882209; Settlement Date/Amount 32A: 12/11/2026 / 40 000,00 USD; назначение «INVOICE HBYK-260901»; Transaction Reference PB2611120328000001-1; UETR 77a477d1-414a-4ceb-9ca0-16c368f6060f. Сумма совпадает со строкой; документ информационный (не подтверждает зачисление) — 🟡 сохраняется до исполнения. | 📄 12.11.2026 (📨 ВТС · t6884 · заявка 66630) — PROOF OF TRANSFER (SWIFT MT103-поля 20/23B/32A/50/57A/59/72/121): Q8 GROUP LIMITED → HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO. LTD (BKCHCNBJ220, счёт 101911882209); инвойс HBYK-260901; settlement date 12.11.2026; Bank Operation Code URGP; Transaction Reference PB2611120328000001-1; UETR 77a477d1-414a-4ceb-9ca0-16c368f6060f.",
+      "notes": "📄 10.11.2026 (📨 ВТС; файл «Hebei Yukuo HBYK-260901 40000 USD Q8.pdf») — ORDER: плательщик Q8 GROUP LIMITED; бенефициар HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO. LTD (Bank of China Shijiazhuang Jichang Road Sub-BR; SWIFT BKCHCNBJ220; счёт 101911882209); PAYMENT FOR INVOICE HBYK-260901; 40 000.00 USD. В company стоял получатель — приведено к плательщику Q8 GROUP LIMITED (основание: ORDER 10.11.2026) | Q8 baxs расчёт от владельца 10.11.2026 (FINIVEST AI msg 61627): (40 000,00 + 65) / 0,9965 = 40 206 USDT (Q8 baxs) | 📄 11.11.2026 (📨 USD, файл «40,000.00 USD-HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO.,LTD.pdf») — BAXS PAY Proof of Transfer: Payer Q8 GROUP LIMITED → Beneficiary HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO., LTD (Room 807, Hanke Building, No.44 Jianshe North Street); банк BANK OF CHINA SHIJIAZHUANG JICHANG ROAD SUB-BR, счёт 101911882209, SWIFT BKCHCNBJ220; Transaction Amount 40 000,00 USD; Details of Charges OUR; Transaction ID FO2611110836000001; Transaction Status Pending（处理中）; Transaction Date 20261111; Remarks «INVOICE HBYK-260901». Статус Pending — не исполнение: строка ⬜→🟡, зелёнку не ставим до Success/Executed. | ✅ 11.11.2026 (Scream, голосом в FINIVEST AI): по инвойсу HBYK-260901 это ВТОРОЙ платёж — две разные сделки; строки 5 и 164 НЕ объединять. | 🏦 12.11.2026 (📨 USD, файл «40,000.00 USD-HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO.,LTD .pdf») — Proof of Transfer (подтверждение отправки): отправитель Q8 GROUP LIMITED (No.52 Hung To Road, Kwun Tong, KL, HK), получатель HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO.,LTD (Room 807, Hanke Building, No.44 Jianshe North Street, Shijiazhuang, Hebei, 050041, CN), банк BKCHCNBJ220 (Bank of China Shijiazhuang Jichang Road Sub-BR), счёт 101911882209; Settlement Date/Amount 32A: 12/11/2026 / 40 000,00 USD; назначение «INVOICE HBYK-260901»; Transaction Reference PB2611120328000001-1; UETR 77a477d1-414a-4ceb-9ca0-16c368f6060f. Сумма совпадает со строкой; документ информационный (не подтверждает зачисление) — 🟡 сохраняется до исполнения. | 📄 12.11.2026 (📨 ВТС · t6884 · заявка 66630) — PROOF OF TRANSFER (SWIFT MT103-поля 20/23B/32A/50/57A/59/72/121): Q8 GROUP LIMITED → HEBEI YUKUO ENVIRONMENTAL TECHNOLOGY CO. LTD (BKCHCNBJ220, счёт 101911882209); инвойс HBYK-260901; settlement date 12.11.2026; Bank Operation Code URGP; Transaction Reference PB2611120328000001-1; UETR 77a477d1-414a-4ceb-9ca0-16c368f6060f. | r31: 06.11.2026 (📨 FINIVEST AI t23693; правка Scream 17:27, msg 61230): отправка рублей с БиТрейд на Альмено — 3 337 400,00 ₽, автозапчасти, заявка 32, ООО ВТС. Ранее было указано «косметический бальзам, заявка 53» — назначение исправлено. Заявки/инвойса по 32 в таблицах нет, валютная сумма и курс не получены. | ПП на Almeno №189 от 06.11.2026 ИСПОЛНЕН 17:23 (ВТБ, ЭП): ОсОО «БиТрейд Кей Джи» → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», сч. 40807810700300000030), 3 337 400,00 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 32 от 06.11.2026, за автозапчасти, НДС не облагается. | 🔗 2026-11-14 (Scream: «распоряжение владельца 14.11.2026 — склейка разорванной сделки r30+r31, курс 81,94 подтверждён владельцем») — строки 31 объединены с этой: sum = 40000 USD; rubles_received = 3280000.00 / 57400.00; sent_rubles_vdx = 3337400; цвет = 🟡 (row 30 (выжившая), понижение запрещено). Доказательства прежних строк: r31 (⬜). Полные notes прежних строк — в Main.removed-rows_30-31_2026-11-14.json.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -936,38 +940,11 @@
         "ref": "owner_instruction, FINIVEST AI msg 61627, 10.11.2026",
         "date": "2026-11-10"
       },
-      "payerSystem": "BAXS"
+      "payerSystem": "BAXS",
+      "vdxRateSource": "{\"kind\":\"scream-order\",\"ref\":\"telegram:7206154434 msg 18185 @ 2026-11-14T12:57\"}"
     },
     {
       "row": 31,
-      "date": "2026-11-06",
-      "sum": 3337400,
-      "currency": "RUB",
-      "company": null,
-      "color": "FFFFFFFF",
-      "clientName": "ООО «ВТС»",
-      "costFormula": null,
-      "extra": "Приход на Альмено (БиТрейд Кей Джи → Альмено) — автозапчасти, ВТС; заявка 32; оффер ООО ВТС, курс не получен",
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": 3337400,
-      "exchange_to": "Almeno",
-      "vdx_rate": 81.94,
-      "received_usdt": 40729.8,
-      "sent_usdt": null,
-      "notes": "06.11.2026 (📨 FINIVEST AI t23693; правка Scream 17:27, msg 61230): отправка рублей с БиТрейд на Альмено — 3 337 400,00 ₽, автозапчасти, заявка 32, ООО ВТС. Ранее было указано «косметический бальзам, заявка 53» — назначение исправлено. Заявки/инвойса по 32 в таблицах нет, валютная сумма и курс не получены. | ПП на Almeno №189 от 06.11.2026 ИСПОЛНЕН 17:23 (ВТБ, ЭП): ОсОО «БиТрейд Кей Джи» → АЛЬМЕНО КО., ЛТД (АО БАНК «ЕРМАК», сч. 40807810700300000030), 3 337 400,00 ₽ {VO60081} оплата по агент. дог. № AL17062026-3 от 17.06.2026, согл. заяв. 32 от 06.11.2026, за автозапчасти, НДС не облагается.",
-      "calc": null,
-      "sumSource": {
-        "source": "scream",
-        "ref": "FINIVEST AI t23693 06.11.2026",
-        "file": null,
-        "date": null,
-        "messageId": null
-      },
-      "rowId": "main-000460"
-    },
-    {
-      "row": 32,
       "date": "2026-11-06",
       "sum": 1153533.86,
       "currency": "RUB",
@@ -992,10 +969,11 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000461"
+      "rowId": "main-000461",
+      "vdxRateSource": "{\"kind\":\"scream-order\",\"ref\":\"telegram:7206154434 msg 18185 @ 2026-11-14T12:57\"}"
     },
     {
-      "row": 33,
+      "row": 32,
       "date": "2026-11-06",
       "sum": 17635.5,
       "currency": "EUR",
@@ -1031,7 +1009,7 @@
       "companyVerified": false
     },
     {
-      "row": 34,
+      "row": 33,
       "date": "2026-11-06",
       "sum": 30000,
       "currency": "EUR",
@@ -1067,7 +1045,7 @@
       "companyVerified": false
     },
     {
-      "row": 35,
+      "row": 34,
       "date": "2026-11-06",
       "sum": 663963.3,
       "currency": "RUB",
@@ -1095,7 +1073,7 @@
       "rowId": "main-000464"
     },
     {
-      "row": 36,
+      "row": 35,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1117,7 +1095,7 @@
       "rowId": "main-000466"
     },
     {
-      "row": 37,
+      "row": 36,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1140,7 +1118,7 @@
       "dealType": "exchange"
     },
     {
-      "row": 38,
+      "row": 37,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1163,7 +1141,7 @@
       "dealType": "exchange"
     },
     {
-      "row": 39,
+      "row": 38,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1186,7 +1164,7 @@
       "dealType": "exchange"
     },
     {
-      "row": 40,
+      "row": 39,
       "date": "2026-11-09",
       "sum": 46559.39,
       "currency": "USD",
@@ -1232,7 +1210,7 @@
       "payerSystem": "BAXS"
     },
     {
-      "row": 41,
+      "row": 40,
       "date": "2026-11-09",
       "sum": 17292,
       "currency": "EUR",
@@ -1268,7 +1246,7 @@
       "companyVerified": false
     },
     {
-      "row": 42,
+      "row": 41,
       "date": "2026-11-09",
       "sum": null,
       "currency": null,
@@ -1294,33 +1272,7 @@
       }
     },
     {
-      "row": 43,
-      "date": "2026-11-09",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ООО «ВТС»",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": "3012650.73",
-      "exchange_to": "Almeno",
-      "vdx_rate": 82.44,
-      "received_usdt": 36543.56,
-      "sent_usdt": null,
-      "notes": "ПП на Almeno №193 от 09.11.2026 (3 012 650,73 ₽ — номер из документа ПП) | \\n💸 09.11.2026 (📨 Отправки рублей ПП.) — с БиТрейд (ВТБ) на Альмено 3 012 650,73 ₽ — ЦИЛИНДР ДЛЯ ИСБ, заявка 36, доки на вход O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БиТрейдКейДжи\\ВТС\\вход 06.11.26_4. Маршрут Almeno. Готовой строки не было — строка 🔵, ждём сделку (сумма/валюта с инвойсом/ордером). |  | 🏦 09.11.2026 (📨 Отправки рублей ПП., файл «international_payments 193.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ ИСПОЛНЕНО 09.11.2026 в 12:28:41 (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, через АО БАНК «ЕРМАК»): {VO60081} оплата по агентскому договору № AL17062026-3 от 17.06.2026, согласно заявке 36 от 09.11.2026 за цилиндр для ИСБ; получатель АЛЬМЕНО КО., ЛТД (ИНН 9909691746, счёт 40807810700300000030). Подтверждает отправку рублей по этой строке.",
-      "calc": null,
-      "sumSource": null,
-      "rowId": "main-000473",
-      "vdxRateSource": {
-        "kind": "scream-order",
-        "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
-      }
-    },
-    {
-      "row": 44,
+      "row": 42,
       "date": "2026-11-10",
       "sum": 59596.29,
       "currency": "USD",
@@ -1361,7 +1313,7 @@
       "payerSystem": "BAXS"
     },
     {
-      "row": 45,
+      "row": 43,
       "date": "2026-11-10",
       "sum": 151420,
       "currency": "USD",
@@ -1394,7 +1346,7 @@
       "costSource": "payout"
     },
     {
-      "row": 46,
+      "row": 44,
       "date": "2026-11-10",
       "sum": 157946.5,
       "currency": "EUR",
@@ -1430,7 +1382,7 @@
       "companyVerified": false
     },
     {
-      "row": 47,
+      "row": 45,
       "date": "2026-11-10",
       "sum": 27216,
       "currency": "EUR",
@@ -1472,7 +1424,7 @@
       }
     },
     {
-      "row": 48,
+      "row": 46,
       "date": "2026-11-10",
       "sum": 39912.2,
       "currency": "EUR",
@@ -1500,7 +1452,7 @@
       "rowId": "main-000504"
     },
     {
-      "row": 49,
+      "row": 47,
       "date": "2026-11-10",
       "sum": 1664432.97,
       "currency": "RUB",
@@ -1531,7 +1483,7 @@
       "refundReason": "платёж не проведён получателю"
     },
     {
-      "row": 50,
+      "row": 48,
       "date": "2026-11-11",
       "sum": null,
       "currency": null,
@@ -1553,7 +1505,7 @@
       "rowId": "main-000485"
     },
     {
-      "row": 51,
+      "row": 49,
       "date": "2026-11-12",
       "sum": 45648.54,
       "currency": "EUR",
@@ -1590,7 +1542,7 @@
       "companyVerified": true
     },
     {
-      "row": 52,
+      "row": 50,
       "date": "2026-11-12",
       "sum": 159883,
       "currency": "USD",
@@ -1628,7 +1580,7 @@
       "payerSystem": "BAXS"
     },
     {
-      "row": 53,
+      "row": 51,
       "date": "2026-11-12",
       "sum": 55985.07,
       "currency": "USD",
@@ -1670,7 +1622,7 @@
       }
     },
     {
-      "row": 54,
+      "row": 52,
       "date": "2026-11-12",
       "sum": 12087.67,
       "currency": "EUR",
@@ -1711,7 +1663,7 @@
       }
     },
     {
-      "row": 55,
+      "row": 53,
       "date": "2026-11-12",
       "sum": 9589.32,
       "currency": "USD",
@@ -1739,7 +1691,7 @@
       "rowId": "main-000495"
     },
     {
-      "row": 56,
+      "row": 54,
       "date": "2026-11-12",
       "sum": 10087.91,
       "currency": "EUR",
@@ -1776,7 +1728,7 @@
       "companyVerified": true
     },
     {
-      "row": 57,
+      "row": 55,
       "date": "2026-11-12",
       "sum": 38506.87,
       "currency": "USD",
@@ -1818,7 +1770,7 @@
       "payerSystem": "BAXS"
     },
     {
-      "row": 58,
+      "row": 56,
       "date": "2026-11-12",
       "sum": null,
       "currency": null,
@@ -1841,7 +1793,7 @@
       "dealType": "exchange"
     },
     {
-      "row": 59,
+      "row": 57,
       "date": "2026-11-12",
       "sum": 1574562.87,
       "currency": "RUB",
@@ -1869,7 +1821,7 @@
       "rowId": "main-000500"
     },
     {
-      "row": 60,
+      "row": 58,
       "date": "2026-11-12",
       "sum": 19111.59,
       "currency": "USD",
@@ -1897,7 +1849,7 @@
       "rowId": "main-000501"
     },
     {
-      "row": 61,
+      "row": 59,
       "date": "2026-11-12",
       "sum": 28381.4,
       "currency": "USD",
@@ -1933,7 +1885,7 @@
       "companyVerified": false
     },
     {
-      "row": 62,
+      "row": 60,
       "date": "2026-11-13",
       "sum": null,
       "currency": null,
@@ -1961,7 +1913,7 @@
       "rowId": "mol-000268"
     },
     {
-      "row": 63,
+      "row": 61,
       "date": "2026-11-13",
       "sum": 239962,
       "currency": "USD",
@@ -2002,7 +1954,7 @@
       }
     },
     {
-      "row": 64,
+      "row": 62,
       "date": "2026-11-13",
       "sum": 17336,
       "currency": "USD",
@@ -2038,7 +1990,7 @@
       "companyVerified": false
     },
     {
-      "row": 65,
+      "row": 63,
       "date": "2026-11-13",
       "sum": 15950.22,
       "currency": "USD",
@@ -2079,7 +2031,7 @@
       }
     },
     {
-      "row": 66,
+      "row": 64,
       "date": "2026-11-13",
       "sum": null,
       "currency": null,
@@ -2107,7 +2059,7 @@
       "rowId": "main-000508"
     },
     {
-      "row": 67,
+      "row": 65,
       "date": "2026-11-13",
       "sum": 96473,
       "currency": "USD",
@@ -2144,7 +2096,7 @@
       "payerSystem": "JP Morgan"
     },
     {
-      "row": 68,
+      "row": 66,
       "date": "2026-11-13",
       "sum": null,
       "currency": null,
@@ -2166,7 +2118,7 @@
       "rowId": "main-000510"
     },
     {
-      "row": 69,
+      "row": 67,
       "date": "2026-11-13",
       "sum": null,
       "currency": null,
@@ -2188,7 +2140,7 @@
       "rowId": "main-000511"
     },
     {
-      "row": 70,
+      "row": 68,
       "date": "2026-11-13",
       "sum": null,
       "currency": null,
