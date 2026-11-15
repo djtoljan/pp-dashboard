@@ -1972,42 +1972,6 @@
     },
     {
       "row": 57,
-      "date": "2026-11-12",
-      "sum": 28381.4,
-      "currency": "USD",
-      "company": "Q8 GROUP LIMITED",
-      "color": "FFFFFFFF",
-      "clientName": null,
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 12.11.2026 (📨 USD, файл «Invoices BB2603 KBP 28381.40 USD.pdf») — KBP (3rd Floor A075, 25-11 Seongji-gil, Mapo-gu, Seoul, South Korea); PO issued by Q8 GROUP LIMITED (RM A22, 10/F, NO. 52, Hung To Road, Kwun Tong, Hong Kong); INVOICE PI# BB2603: (1) от 04.11.2026 — VICTORIA BONYA blush, итог инвойса, аванс получен, остаток к оплате; (2) от 21.10.2026 — VICTORIA BONYA perfect blur concealer, аванс получен, остаток к оплате. Сумма строки — сумма двух остатков (балансов). Условия EXW. Банк: WOORI BANK (17, World Cup Buk-ro 60-gil, Mapo-gu, Seoul), счёт 1081-801-031584, SWIFT HVBKKRSEXXX, имя счёта Choi Yeseul KBP.",
-      "calc": null,
-      "sumSource": {
-        "source": "invoice",
-        "ref": "Invoices BB2603 KBP 28381.40 USD.pdf",
-        "file": null,
-        "date": null,
-        "messageId": null
-      },
-      "rowId": "main-000503",
-      "companySource": {
-        "source": "order",
-        "date": null,
-        "ref": "Invoices BB2603 KBP (msg 62666)",
-        "messageId": null
-      },
-      "companyProvisional": false,
-      "companyVerified": false
-    },
-    {
-      "row": 58,
       "date": "2026-11-13",
       "sum": 9589.32,
       "currency": "USD",
@@ -2035,7 +1999,7 @@
       "rowId": "main-000520"
     },
     {
-      "row": 59,
+      "row": 58,
       "date": "2026-11-13",
       "sum": 239962,
       "currency": "USD",
@@ -2078,7 +2042,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 60,
+      "row": 59,
       "date": "2026-11-13",
       "sum": 17336,
       "currency": "USD",
@@ -2116,7 +2080,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 61,
+      "row": 60,
       "date": "2026-11-13",
       "sum": 15950.22,
       "currency": "USD",
@@ -2159,7 +2123,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 62,
+      "row": 61,
       "date": "2026-11-13",
       "sum": 96473,
       "currency": "USD",
