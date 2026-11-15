@@ -1905,7 +1905,9 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000499",
-      "dealType": "exchange"
+      "dealType": "exchange",
+      "line": "А",
+      "sendKind": "internal_transfer"
     },
     {
       "row": 56,
@@ -1914,7 +1916,7 @@
       "currency": "RUB",
       "company": null,
       "color": "FFFF0000",
-      "clientName": "ФИНИНВЕСТ",
+      "clientName": "",
       "costFormula": null,
       "extra": null,
       "rubles_received": null,
@@ -1933,7 +1935,8 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000500"
+      "rowId": "main-000500",
+      "sendKind": "invoice_payment"
     },
     {
       "row": 57,
