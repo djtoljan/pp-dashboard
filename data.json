@@ -120,7 +120,9 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 склейка r4 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-      }
+      },
+      "line": "А",
+      "sendKind": "exchanger"
     },
     {
       "row": 5,
