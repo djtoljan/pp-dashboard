@@ -1381,34 +1381,6 @@
   {
     "row": 37,
     "date": "2026-11-12",
-    "sum": 77180431,
-    "currency": "KRW",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": null,
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 12.11.2026 (📨 Молодежь, файл «payment order_77180431 KRW.docx», реф. IM121126_03) — PAYMENT ORDER от 12/11/2026: AMOUNT 77 180 431,00 KRW; BENEFICIARY MOBY (Room 203, Munwugeum-ro 243, Yeonsu-gu, Republic of Korea), WOORI BANK (124, Woninjae-ro, Yeonsu-gu, Incheon 21974), счёт 1005-704-724-337, SWIFT HVBKKRSE; PAYMENT PURPOSE: «Payment Inv KR2026111255 dd 12.11.2026, KR2026111256 dd 12.11.2026». Компания-плательщик и клиент в документе не указаны — строка 🔴 до определения клиента/компании.",
-    "calc": null,
-    "sumSource": {
-      "source": "pp",
-      "ref": "payment order 77180431 KRW dd 12.11.2026",
-      "file": null,
-      "date": null,
-      "messageId": null
-    },
-    "rowId": "mol-000258"
-  },
-  {
-    "row": 38,
-    "date": "2026-11-12",
     "sum": 26110,
     "currency": "EUR",
     "company": null,
@@ -1436,7 +1408,7 @@
     "directToExchanger": true
   },
   {
-    "row": 39,
+    "row": 38,
     "date": "2026-11-12",
     "sum": 3361000,
     "currency": "JPY",
@@ -1473,7 +1445,7 @@
     "directToExchanger": true
   },
   {
-    "row": 40,
+    "row": 39,
     "date": "2026-11-12",
     "sum": null,
     "currency": null,
@@ -1502,7 +1474,7 @@
     "directToExchanger": true
   },
   {
-    "row": 41,
+    "row": 40,
     "date": "2026-11-12",
     "sum": 5087.56,
     "currency": "USD",
@@ -1544,7 +1516,7 @@
     "directToExchanger": true
   },
   {
-    "row": 42,
+    "row": 41,
     "date": "2026-11-12",
     "sum": 19360.95,
     "currency": "EUR",
@@ -1581,7 +1553,7 @@
     "directToExchanger": true
   },
   {
-    "row": 43,
+    "row": 42,
     "date": "2026-11-12",
     "sum": null,
     "currency": null,
@@ -1604,7 +1576,7 @@
     "directToExchanger": true
   },
   {
-    "row": 44,
+    "row": 43,
     "date": "2026-11-12",
     "sum": 4783.72,
     "currency": "USD",
@@ -1646,7 +1618,7 @@
     "directToExchanger": true
   },
   {
-    "row": 45,
+    "row": 44,
     "date": "2026-11-13",
     "sum": 2679000,
     "currency": "JPY",
@@ -1675,7 +1647,7 @@
     "directToExchanger": true
   },
   {
-    "row": 46,
+    "row": 45,
     "date": "2026-11-13",
     "sum": null,
     "currency": null,
@@ -1704,7 +1676,7 @@
     "directToExchanger": true
   },
   {
-    "row": 47,
+    "row": 46,
     "date": "2026-11-13",
     "sum": 6208,
     "currency": "USD",
@@ -1742,7 +1714,7 @@
     "payment_system": "baxs"
   },
   {
-    "row": 48,
+    "row": 47,
     "date": "2026-11-13",
     "sum": 10155,
     "currency": "USD",
@@ -1778,7 +1750,7 @@
     "companyVerified": false
   },
   {
-    "row": 49,
+    "row": 48,
     "date": "2026-11-13",
     "sum": 57870.92,
     "currency": "EUR",
@@ -1816,7 +1788,7 @@
     "directToExchanger": true
   },
   {
-    "row": 50,
+    "row": 49,
     "date": "2026-11-13",
     "sum": 36877.05,
     "currency": "USD",
@@ -1854,7 +1826,7 @@
     "directToExchanger": true
   },
   {
-    "row": 51,
+    "row": 50,
     "date": "2026-11-13",
     "sum": 22400,
     "currency": "USD",
