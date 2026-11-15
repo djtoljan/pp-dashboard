@@ -280,7 +280,8 @@
         "rowId": "flw-000180"
       }
     ],
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "payment_system": "baxs"
   },
   {
     "row": 10,
@@ -334,7 +335,8 @@
         "rowId": "flw-000181"
       }
     ],
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "payment_system": "baxs"
   },
   {
     "row": 11,
@@ -376,7 +378,8 @@
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
     },
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "payment_system": "baxs"
   },
   {
     "row": 12,
@@ -472,7 +475,8 @@
       "ref": "owner_instruction, FINIVEST AI msg 61563, 10.11.2026",
       "date": "2026-11-10"
     },
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "payment_system": "baxs"
   },
   {
     "row": 15,
@@ -715,7 +719,8 @@
     "companyProvisional": true,
     "companyVerified": false,
     "payerSystem": "BAXS",
-    "costSource": "payout"
+    "costSource": "payout",
+    "payment_system": "baxs"
   },
   {
     "row": 23,

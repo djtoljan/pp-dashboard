@@ -435,7 +435,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 09.11 (2026-11-05)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 14,
@@ -540,7 +541,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 6.11_7 (2026-11-05)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 17,
@@ -615,7 +617,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 09.11 (2026-11-05)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 19,
@@ -646,7 +649,8 @@
     "companyProvisional": true,
     "companyVerified": false,
     "payerSystem": "BAXS",
-    "costSource": "payout"
+    "costSource": "payout",
+    "payment_system": "baxs"
   },
   {
     "row": 20,
@@ -688,7 +692,8 @@
       "ref": "owner_instruction; msg 61285; 2026-11-09",
       "date": "2026-11-09"
     },
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "payment_system": "baxs"
   },
   {
     "row": 21,
@@ -730,7 +735,8 @@
       "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
     },
     "payerSystem": "BAXS",
-    "costSource": "payout"
+    "costSource": "payout",
+    "payment_system": "baxs"
   },
   {
     "row": 22,
@@ -771,7 +777,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-10)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 23,
@@ -815,7 +822,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 10.11 (2026-11-10)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 24,
@@ -894,7 +902,8 @@
       "ref": "telegram:7206154434#61952; 2026-11-11",
       "date": "2026-11-11"
     },
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "payment_system": "baxs"
   },
   {
     "row": 26,
@@ -978,7 +987,8 @@
       "ref": "telegram:-1003734813084#61970; 2026-11-11",
       "date": "2026-11-11"
     },
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "payment_system": "baxs"
   },
   {
     "row": 28,
@@ -1016,7 +1026,8 @@
     "companyProvisional": true,
     "companyVerified": false,
     "payerSystem": "BAXS",
-    "costSource": "payout"
+    "costSource": "payout",
+    "payment_system": "baxs"
   },
   {
     "row": 29,
@@ -1053,7 +1064,8 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "payerSystem": "BAXS"
+    "payerSystem": "BAXS",
+    "payment_system": "baxs"
   },
   {
     "row": 30,
@@ -1100,7 +1112,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-11)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 31,
@@ -1301,7 +1314,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-11)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 36,
@@ -1343,7 +1357,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 12.11 (2026-11-11)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 37,
@@ -1705,7 +1720,8 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "payment_system": "baxs"
   },
   {
     "row": 48,

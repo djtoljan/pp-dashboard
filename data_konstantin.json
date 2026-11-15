@@ -26,7 +26,8 @@
       "messageId": "59808"
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_system": "jp"
   },
   {
     "row": 2,
@@ -629,7 +630,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, FINIVEST AI msg 61706, 10.11.2026",
       "date": "2026-11-10"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 19,
@@ -805,7 +807,8 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "costSource": "payout"
+    "costSource": "payout",
+    "payment_system": "baxs"
   },
   {
     "row": 24,
