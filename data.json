@@ -1181,7 +1181,8 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000467",
-      "dealType": "exchange"
+      "dealType": "exchange",
+      "line": "А"
     },
     {
       "row": 36,
@@ -1204,7 +1205,8 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000468",
-      "dealType": "exchange"
+      "dealType": "exchange",
+      "line": "А"
     },
     {
       "row": 37,
@@ -1227,7 +1229,8 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000469",
-      "dealType": "exchange"
+      "dealType": "exchange",
+      "line": "А"
     },
     {
       "row": 38,
@@ -1339,7 +1342,8 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
-      }
+      },
+      "line": "А"
     },
     {
       "row": 41,
@@ -2175,7 +2179,8 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000522"
+      "rowId": "main-000522",
+      "line": "Б"
     }
   ]
 }
