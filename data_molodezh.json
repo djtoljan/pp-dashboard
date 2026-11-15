@@ -1263,7 +1263,7 @@
     "date": "2026-11-11",
     "sum": 28381.4,
     "currency": "USD",
-    "company": null,
+    "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Фри Лайнс",
     "costFormula": "(28 381,40 + 65) / 0,9965 = 28 546",
@@ -1289,7 +1289,15 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-11)"
-    }
+    },
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "telegram:7206154434#19305",
+      "messageId": "19305"
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   },
   {
     "row": 35,
