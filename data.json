@@ -749,28 +749,6 @@
     {
       "row": 23,
       "date": "2026-11-05",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
-      "clientName": "ИП Осипенко В.П.",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 05.11.2026 (📨 Fininvest — ИП Осипенко В.П., файл «платежные поручения.pdf») — два ПП от ООО «АРОСИ» (ИНН 3905036979, КПП 390601001, КБ «ЭНЕРГОТРАНСБАНК» г. Калининград, БИК 042748701) на Ворлд Трейдинг Компани ФЗСО (ИНН 9909608018, КПП 770387001, счёт 40807810000000032128), оба ИСПОЛНЕНО 02.11.2026: 1) 11 970 451,76 ₽ {VO11100} — оплата по контракту № KG191225 от 19.12.2025 за клей TECHNOMELT SUPRA 350 HT, агентский договор № 191225-1 от 19.12.2025 (тело); 2) 434 161,67 ₽ {VO21100} — агентское вознаграждение по агентскому договору № 191225-1 от 19.12.2025. rubles_received = 11 970 451.76 / 434 161.67. Строка 🔵 — формальной заявки/ордера по сделке ещё нет.",
-      "calc": null,
-      "rowId": "main-000447",
-      "payerSystem": "BAXS"
-    },
-    {
-      "row": 24,
-      "date": "2026-11-05",
       "sum": 24700,
       "currency": "USD",
       "company": "Q8",
@@ -810,7 +788,7 @@
       "payment_system": "baxs"
     },
     {
-      "row": 25,
+      "row": 24,
       "date": "2026-11-06",
       "sum": 13505.49,
       "currency": "USD",
@@ -842,7 +820,7 @@
       "payment_system": "baxs"
     },
     {
-      "row": 26,
+      "row": 25,
       "date": "2026-11-06",
       "sum": 5200,
       "currency": "EUR",
@@ -884,7 +862,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 27,
+      "row": 26,
       "date": "2026-11-06",
       "sum": 33264,
       "currency": "EUR",
@@ -923,7 +901,7 @@
       "payment_system": "baxs"
     },
     {
-      "row": 28,
+      "row": 27,
       "date": "2026-11-06",
       "sum": 12244.26,
       "currency": "EUR",
@@ -964,7 +942,7 @@
       }
     },
     {
-      "row": 29,
+      "row": 28,
       "date": "2026-11-06",
       "sum": 32119.26,
       "currency": "EUR",
@@ -1010,7 +988,7 @@
       "payment_system": "baxs"
     },
     {
-      "row": 30,
+      "row": 29,
       "date": "2026-11-06",
       "sum": 40000,
       "currency": "USD",
@@ -1057,7 +1035,7 @@
       "payment_system": "baxs"
     },
     {
-      "row": 31,
+      "row": 30,
       "date": "2026-11-06",
       "sum": 17635.5,
       "currency": "EUR",
@@ -1093,7 +1071,7 @@
       "companyVerified": false
     },
     {
-      "row": 32,
+      "row": 31,
       "date": "2026-11-06",
       "sum": 30000,
       "currency": "EUR",
@@ -1129,7 +1107,7 @@
       "companyVerified": false
     },
     {
-      "row": 33,
+      "row": 32,
       "date": "2026-11-06",
       "sum": 663963.3,
       "currency": "RUB",
@@ -1161,7 +1139,7 @@
       }
     },
     {
-      "row": 34,
+      "row": 33,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1189,7 +1167,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 35,
+      "row": 34,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1214,7 +1192,7 @@
       "sendKind": "internal_transfer"
     },
     {
-      "row": 36,
+      "row": 35,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1239,7 +1217,7 @@
       "sendKind": "internal_transfer"
     },
     {
-      "row": 37,
+      "row": 36,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1264,7 +1242,7 @@
       "sendKind": "internal_transfer"
     },
     {
-      "row": 38,
+      "row": 37,
       "date": "2026-11-06",
       "sum": null,
       "currency": null,
@@ -1293,7 +1271,7 @@
       "line": "Б"
     },
     {
-      "row": 39,
+      "row": 38,
       "date": "2026-11-09",
       "sum": 46559.39,
       "currency": "USD",
@@ -1340,7 +1318,7 @@
       "payment_system": "baxs"
     },
     {
-      "row": 40,
+      "row": 39,
       "date": "2026-11-09",
       "sum": 17292,
       "currency": "EUR",
@@ -1382,7 +1360,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 41,
+      "row": 40,
       "date": "2026-11-09",
       "sum": null,
       "currency": null,
@@ -1409,7 +1387,7 @@
       "line": ""
     },
     {
-      "row": 42,
+      "row": 41,
       "date": "2026-11-10",
       "sum": 59596.29,
       "currency": "USD",
@@ -1453,7 +1431,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 43,
+      "row": 42,
       "date": "2026-11-10",
       "sum": 151420,
       "currency": "USD",
@@ -1488,7 +1466,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 44,
+      "row": 43,
       "date": "2026-11-10",
       "sum": 157946.5,
       "currency": "EUR",
@@ -1525,7 +1503,7 @@
       "directToExchanger": true
     },
     {
-      "row": 45,
+      "row": 44,
       "date": "2026-11-10",
       "sum": 27216,
       "currency": "EUR",
@@ -1570,7 +1548,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 46,
+      "row": 45,
       "date": "2026-11-10",
       "sum": 39912.2,
       "currency": "EUR",
@@ -1604,7 +1582,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 47,
+      "row": 46,
       "date": "2026-11-10",
       "sum": 1664432.97,
       "currency": "RUB",
@@ -1635,7 +1613,7 @@
       "refundReason": "платёж не проведён получателю"
     },
     {
-      "row": 48,
+      "row": 47,
       "date": "2026-11-11",
       "sum": null,
       "currency": null,
@@ -1659,7 +1637,7 @@
       "sendKind": "internal_transfer"
     },
     {
-      "row": 49,
+      "row": 48,
       "date": "2026-11-12",
       "sum": 45648.54,
       "currency": "EUR",
@@ -1702,7 +1680,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 50,
+      "row": 49,
       "date": "2026-11-12",
       "sum": 159883,
       "currency": "USD",
@@ -1745,7 +1723,7 @@
       "payment_system": "baxs"
     },
     {
-      "row": 51,
+      "row": 50,
       "date": "2026-11-12",
       "sum": 55985.07,
       "currency": "USD",
@@ -1788,7 +1766,7 @@
       "payment_system": "baxs"
     },
     {
-      "row": 52,
+      "row": 51,
       "date": "2026-11-12",
       "sum": 12087.67,
       "currency": "EUR",
@@ -1829,7 +1807,7 @@
       }
     },
     {
-      "row": 53,
+      "row": 52,
       "date": "2026-11-12",
       "sum": 10087.91,
       "currency": "EUR",
@@ -1866,7 +1844,7 @@
       "companyVerified": true
     },
     {
-      "row": 54,
+      "row": 53,
       "date": "2026-11-12",
       "sum": 38506.87,
       "currency": "USD",
@@ -1909,7 +1887,7 @@
       "payment_system": "baxs"
     },
     {
-      "row": 55,
+      "row": 54,
       "date": "2026-11-12",
       "sum": null,
       "currency": null,
@@ -1934,7 +1912,7 @@
       "sendKind": "internal_transfer"
     },
     {
-      "row": 56,
+      "row": 55,
       "date": "2026-11-12",
       "sum": 1574562.87,
       "currency": "RUB",
@@ -1963,7 +1941,7 @@
       "sendKind": "invoice_payment"
     },
     {
-      "row": 57,
+      "row": 56,
       "date": "2026-11-12",
       "sum": 19111.59,
       "currency": "USD",
@@ -1993,7 +1971,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 58,
+      "row": 57,
       "date": "2026-11-12",
       "sum": 28381.4,
       "currency": "USD",
@@ -2029,7 +2007,7 @@
       "companyVerified": false
     },
     {
-      "row": 59,
+      "row": 58,
       "date": "2026-11-13",
       "sum": 9589.32,
       "currency": "USD",
@@ -2057,7 +2035,7 @@
       "rowId": "main-000520"
     },
     {
-      "row": 60,
+      "row": 59,
       "date": "2026-11-13",
       "sum": 239962,
       "currency": "USD",
@@ -2100,7 +2078,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 61,
+      "row": 60,
       "date": "2026-11-13",
       "sum": 17336,
       "currency": "USD",
@@ -2138,7 +2116,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 62,
+      "row": 61,
       "date": "2026-11-13",
       "sum": 15950.22,
       "currency": "USD",
@@ -2181,7 +2159,7 @@
       "sentAccountSource": "series"
     },
     {
-      "row": 63,
+      "row": 62,
       "date": "2026-11-13",
       "sum": 96473,
       "currency": "USD",
