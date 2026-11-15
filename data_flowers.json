@@ -23,7 +23,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 2,
@@ -49,7 +51,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 3,
@@ -146,7 +150,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "series"
   },
   {
     "row": 6,
@@ -172,7 +178,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 7,
@@ -199,7 +207,9 @@
       "kind": "scream-order",
       "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
     },
-    "dealType": "balance_topup"
+    "dealType": "balance_topup",
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "series"
   },
   {
     "row": 8,
@@ -226,7 +236,9 @@
       "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
     },
     "received_usdt": 35774.88,
-    "dealType": "balance_topup"
+    "dealType": "balance_topup",
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 9,
@@ -406,7 +418,9 @@
       "kind": "scream-order",
       "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
     },
-    "dealType": "balance_topup"
+    "dealType": "balance_topup",
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 13,
@@ -433,7 +447,9 @@
       "kind": "scream-order",
       "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
     },
-    "dealType": "balance_topup"
+    "dealType": "balance_topup",
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 14,

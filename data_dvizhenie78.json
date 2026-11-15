@@ -27,7 +27,9 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 03.11 (2026-11-02)"
-    }
+    },
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 2,
@@ -61,7 +63,9 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 5.11xlsx (2026-11-05)"
-    }
+    },
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 3,
@@ -101,7 +105,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 4,
@@ -141,6 +147,8 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   }
 ]

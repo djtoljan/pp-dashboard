@@ -64,7 +64,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810825640000009",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 3,
@@ -97,7 +99,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810825640000009",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 4,
@@ -271,7 +275,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810825640000009",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 9,
@@ -309,7 +315,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810825640000009",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 10,
@@ -436,7 +444,9 @@
       "kind": "vdx-table",
       "ref": "VDX 09.11 (2026-11-05)"
     },
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 14,
@@ -469,7 +479,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810825640000009",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 15,
@@ -501,7 +513,9 @@
     "vdxRateSource": {
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
-    }
+    },
+    "sentAccount": "40807810825640000009",
+    "sentAccountSource": "bank_confirmed"
   },
   {
     "row": 16,
@@ -736,7 +750,9 @@
     },
     "payerSystem": "BAXS",
     "costSource": "payout",
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "series"
   },
   {
     "row": 22,
@@ -778,7 +794,9 @@
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-10)"
     },
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "sentAccount": "40807810100157518600",
+    "sentAccountSource": "series"
   },
   {
     "row": 23,
