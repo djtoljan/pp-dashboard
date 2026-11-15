@@ -69,7 +69,8 @@ function build() {
   const waitGreen = []; // 🟡 ждёт зелёнку
   const waitPP = []; // 🔴 ждёт ПП (есть компания+расчёт)
   const waitApp = []; // ⚪ без заявки/компании
-  const waitVdx = []; // 🔵 рубли пришли, на VDX не отправлены
+  const { closureOf } = require('./closure');
+  const waitVdx = []; // 🔵 рубли пришли, закрытия нет (см. closure.js — не только «нет отправки»)
   const needsAttention = []; // ⚠️ 🔴/⬜ без компании или без расчёта
 
   const dailyCount = {};
@@ -152,7 +153,11 @@ function build() {
       const vtbRoute = /ВТБ|VTB/i.test(String(r.exchange_to || ''));
       // 🚨 Также исключаем рубли с маршрутом на Альмена (Almeno/Al Safi) — это тоже обмен, но не VDX.
       const oltreRoute = /almeno|al\s*safi/i.test(String(r.exchange_to || ''));
-      if (r.rubles_received && !r.sent_rubles_vdx && !vtbRoute && !oltreRoute) {
+      // 🚨 15.11.2026 (Scream): «закрыто» — вопрос к закрытиям ЛЮБОГО вида, а не к пустому полю.
+      // Отправка, вид отправки, зачёт в счёт возврата, directToExchanger, тип сделки без отправки,
+      // линия А — всё это закрытие (closure.js). Пустое поле само по себе ничего не значит.
+      const closure = closureOf(r);
+      if (!closure.closed && !vtbRoute && !oltreRoute) {
         waitVdx.push(entry);
       }
 
