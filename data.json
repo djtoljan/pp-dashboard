@@ -37,7 +37,9 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 склейка r1 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-      }
+      },
+      "sentAccount": "40807810200000034895",
+      "sentAccountSource": "series"
     },
     {
       "row": 2,
@@ -187,7 +189,9 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 склейка r6 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-      }
+      },
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 7,
@@ -738,7 +742,9 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 склейка r22 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-      }
+      },
+      "sentAccount": "40807810100157518600",
+      "sentAccountSource": "series"
     },
     {
       "row": 23,
@@ -873,7 +879,9 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 склейка r26 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-      }
+      },
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 27,
@@ -1176,7 +1184,9 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 склейка r34 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-      }
+      },
+      "sentAccount": "40807810100157518600",
+      "sentAccountSource": "series"
     },
     {
       "row": 35,
@@ -1338,7 +1348,9 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 склейка r39 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-      }
+      },
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 40,
@@ -1407,7 +1419,9 @@
         "ref": "telegram:7206154434 msg 17234 @ 2026-11-11 16:51"
       },
       "payerSystem": "BAXS",
-      "payment_system": "baxs"
+      "payment_system": "baxs",
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 42,
@@ -1440,7 +1454,9 @@
         "kind": "scream-order",
         "ref": "telegram:7206154434 msg 17536 @ 2026-11-13 09:08"
       },
-      "costSource": "payout"
+      "costSource": "payout",
+      "sentAccount": "40807810100157518600",
+      "sentAccountSource": "series"
     },
     {
       "row": 43,
@@ -1519,7 +1535,9 @@
         "kind": "scream-order",
         "ref": "Scream 13.11.2026: курс 82,99 (таблица Scream 12.11) — часть ПП №196 2 577 369,32 + 31 056,38 USDT"
       },
-      "payment_system": "xfee"
+      "payment_system": "xfee",
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 45,
@@ -1551,7 +1569,9 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 склейка r45 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-      }
+      },
+      "sentAccount": "40807810100157518600",
+      "sentAccountSource": "series"
     },
     {
       "row": 46,
@@ -1647,7 +1667,9 @@
       "vdxRateSource": {
         "kind": "scream-order",
         "ref": "telegram:7206154434 склейка r48 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-      }
+      },
+      "sentAccount": "40807810100157518600",
+      "sentAccountSource": "series"
     },
     {
       "row": 49,
@@ -1964,7 +1986,9 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000501"
+      "rowId": "main-000501",
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 58,
@@ -2069,7 +2093,9 @@
       "costSourceRef": {
         "ref": "telegram:7206154434#62929",
         "date": "2026-11-13"
-      }
+      },
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 61,
@@ -2105,7 +2131,9 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 62,
@@ -2146,7 +2174,9 @@
       "costSourceRef": {
         "ref": "telegram:7206154434#62929",
         "date": "2026-11-13"
-      }
+      },
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 63,
@@ -2184,7 +2214,9 @@
       "companyProvisional": true,
       "companyVerified": false,
       "payerSystem": "JP Morgan",
-      "payment_system": "jp"
+      "payment_system": "jp",
+      "sentAccount": "40807810525640000008",
+      "sentAccountSource": "series"
     },
     {
       "row": 64,
