@@ -2148,6 +2148,34 @@
       "companyProvisional": true,
       "companyVerified": false,
       "payerSystem": "JP Morgan"
+    },
+    {
+      "row": 64,
+      "date": "2026-11-06",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "INV 4772 от 19.10.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000522"
     }
   ]
 }
