@@ -176,7 +176,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 02.11_1 (2026-11-02)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 6,
