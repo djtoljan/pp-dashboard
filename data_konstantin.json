@@ -1013,8 +1013,8 @@
     "date": "2026-11-13",
     "sum": 30831.58,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "ALTERA",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -1025,7 +1025,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 13.11.2026 (📨 Константин Просто Группа, файл «Invoice Altevia 260447.pdf») — INVOICE №260447 от 13.11.2026 (AlteVia OÜ, Reg. 14279017, VAT EE101984656, Haabneeme, Эстония; Coop Pank AS, IBAN EE794204278622781603, BIC EKRDEE22) → покупатель ALTERA LOGISTICS LIMITED (Company number 17015210, International House, 55 Longsmith Street, Gloucester GL1 2HT, UK): «Musical instruments for the invoice 260447», 1 pcs, 30 831,58 EUR, VAT 0%, срок оплаты до 23.11.2026. Компания-плательщик не указана — строка 🔴. | 📄 13.11.2026 (📨 Константин Просто Группа, файл «AlteVia_30_831_58_EUR_260447.xlsx» — платёжная форма): получатель AlteVia OÜ, банк Coop Pank AS (Maakri 30, Tallinn 15014, Estonia, SWIFT EKRDEE22), счёт EE794204278622781603, назначение «Payment for Invoice 260447 dd 13.11.2026», сумма 30 831,58 EUR — та же сделка, что и инвойс выше.",
+    "notes": "📄 13.11.2026 (📨 Константин Просто Группа, файл «Invoice Altevia 260447.pdf») — INVOICE №260447 от 13.11.2026 (AlteVia OÜ, Reg. 14279017, VAT EE101984656, Haabneeme, Эстония; Coop Pank AS, IBAN EE794204278622781603, BIC EKRDEE22) → покупатель ALTERA LOGISTICS LIMITED (Company number 17015210, International House, 55 Longsmith Street, Gloucester GL1 2HT, UK): «Musical instruments for the invoice 260447», 1 pcs, 30 831,58 EUR, VAT 0%, срок оплаты до 23.11.2026. Компания-плательщик не указана — строка 🔴. | 📄 13.11.2026 (📨 Константин Просто Группа, файл «AlteVia_30_831_58_EUR_260447.xlsx» — платёжная форма): получатель AlteVia OÜ, банк Coop Pank AS (Maakri 30, Tallinn 15014, Estonia, SWIFT EKRDEE22), счёт EE794204278622781603, назначение «Payment for Invoice 260447 dd 13.11.2026», сумма 30 831,58 EUR — та же сделка, что и инвойс выше. | 📄 16.11.2026 (📨 Ордера и Расчеты, «Payment from ALTERA❗️»; файл «INV 30 831,58 EUR.pdf») — ОРДЕР на платёж: Amount 30 831,58 EUR, OUR, beneficiary AlteVia OÜ (17-51 Tammepõllu tee, 74001 Haabneeme, Estonia), bank Coop Pank AS (Maakri 30, Tallinn 15014, Estonia), SWIFT EKRDEE22, IBAN EE794204278622781603; payment details «Invoice 260447 dd 13.11.26». Приложенный INVOICE № 260447 от 13.11.2026: продавец AlteVia OÜ (Reg. 14279017, VAT EE101984656), покупатель ALTERA LOGISTICS LIMITED (Company number 17015210, International House, 55 Longsmith Street, Gloucester GL1 2HT, UK); 1 pcs «Musical instruments for the invoice 260447», VAT 0%, итого 30 831,58 EUR (совпадает с суммой ордера), срок оплаты 23.11.2026. Компания по ордеру — ALTERA; цвет 🔴→⬜ (компания известна).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1034,6 +1034,50 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000120"
+    "rowId": "kon-000120",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "Payment from ALTERA 16.11.2026 (invoice 260447);file=INV 30 831,58 EUR.pdf",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
+  },
+  {
+    "row": 30,
+    "date": "2026-11-16",
+    "sum": 115000,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "📄 16.11.2026 (📨 Ордера и Расчеты, «Payment from ATB ‼»; файл «INV 115 000,00 EUR.pdf») — ОРДЕР на платёж: Amount 115 000,00 EUR, OUR, beneficiary TANITA EUROPE B.V. (Hoogoorddreef 56e, 1101 BE Amsterdam, The Netherlands), bank SMBC BANK EU AG (Frankfurt am Main, Germany), SWIFT SMBCDEFF, счёт DE90505103000000350811; payment details «Payment for invoice 3510063639 dd 19.05.2026, customer N 13813». | 📄 вложенный инвойс 3510063639 от 19.05.2026 (Tanita Europe B.V., NL, VAT NL818468981B01): Bill-To/Ship-To Volna Distribution Ltd (N. Muhammad 1/1, 734000 Душанбе, Таджикистан); Customer No. 13813; delivery note 4285258; reference order 1256965/23.04.2026; Incoterms FCA Rozenburg; 2 354 PC; Invoice Amt 57 528,64 EUR (справочно) — invoice значительно меньше суммы ордера, ордер больше инвойса (частичная/сводная оплата): сумму строки 115 000,00 EUR ставлю по ордеру, расхождение с инвойсом зафиксировано для владельца. Компания ATB (из «Payment from ATB»), расчёт себестоимости — от оператора. Клиент по группе не назван — поле клиента пустое, ждём уточнения. | 🔗 2026-11-16 (Scream: «Scream 16.11.2026 (FINIVEST AI, reply 63120): клиент этой сделки — Константин (Просто группа), строка должна быть в таблице Константин») — строка перенесена из таблицы Main (была row 63, rowId main-000525) в Konstantin (rowId kon-000121).",
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Payment from ATB: TANITA EUROPE B.V., invoice 3510063639 dd 19.05.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000121",
+    "companySource": {
+      "source": "order",
+      "date": null,
+      "ref": "Payment from ATB 16.11.2026 (TANITA EUROPE B.V.",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
