@@ -899,7 +899,7 @@
     "sum": 286000,
     "currency": "CNY",
     "company": "Q8",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(286 000 / 6,655 + 65) / 0,9965 = 43 191",
     "extra": null,
