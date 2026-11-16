@@ -2454,6 +2454,34 @@
         "messageId": null
       },
       "rowId": "main-000531"
+    },
+    {
+      "row": 69,
+      "date": "2026-11-16",
+      "sum": 82520.25,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "pp",
+        "ref": "Поручение №78658/78660/78658 от 16.11.2026 (инвойсы BIKEPRODUCTS2601-0903/0906/0905 dd 03.11.2026)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000532"
     }
   ]
 }
