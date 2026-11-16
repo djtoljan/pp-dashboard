@@ -365,7 +365,7 @@
     "sum": 10395,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Вилог",
     "costFormula": "(10 395,00 + 65,00) / 0,9965 = 10 497",
     "extra": "PROFORMA INVOICE RCF261102-LN от 03.11.2026 (BEIYI INFORMATION CO., LIMITED -> Q8 Group Limited): Mellanox ConnectX-5 50 pcs x 171,00 = 8 550,00 USD; Dell 8TB SAS 12Gb HDD 5 pcs x 369,00 = 1 845,00 USD; итого 10 395,00 USD. Банк OCBC Wing Hang HK, SWIFT WIHBHKHH, счёт 883674831. В сообщении указано 10 392,00 USD — расхождение 3,00 USD с инвойсом",
@@ -376,7 +376,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 10497,
-    "notes": "Расчёт владельца 04.11.2026: (10395+65)/0.9965=10497 USDT | [перенесено из расчёта себестоимости] валюта: USDT | [перенесено из расчёта себестоимости] валюта: USDT [перенесено из расчёта себестоимости] валюта: USDT",
+    "notes": "Расчёт владельца 04.11.2026: (10395+65)/0.9965=10497 USDT | [перенесено из расчёта себестоимости] валюта: USDT | [перенесено из расчёта себестоимости] валюта: USDT [перенесено из расчёта себестоимости] валюта: USDT | 📄 16.11.2026 (📨 USD, файл «10,395.00 USD-BEIYI INFORMATION CO., LIMITED.pdf») — SWIFT Proof of Transfer, реф. PB2611041001000004-1, URGP, Settlement Date/Amount 04/11/2026 / 10 395,00 USD: Ordering Customer Q8 GROUP LIMITED (No. 52, Hung To Road, Kwun Tong, KL, Hong Kong); Beneficiary BEIYI INFORMATION CO., LIMITED (RM1002, 10F, Easey Comm Bldg, Nos. 253-161 Hennessy Rd, Wanchai, HK); Account With Institution WIHBHKHH, счёт /883674831; поле Remittance Information пустое; UETR 4aec380c-c002-411b-9a1e-0db70305dbac. Подтверждает исполнение платежа Q8 по этой сделке → 🟡→🟢.",
     "calc": null,
     "rowId": "mol-000224",
     "companySource": {
