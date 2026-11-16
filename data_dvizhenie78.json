@@ -158,5 +158,27 @@
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7839125772",
     "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_12_13_11_26---566d2b11-18de-4c25-835c-2565b3be6b7b.pdf: счёт 40702810526620000300; дата 12.11.2026; № 268"
+  },
+  {
+    "row": 5,
+    "date": "2026-11-13",
+    "sum": null,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": null,
+    "rowId": "d78-000055"
   }
 ]
