@@ -2078,7 +2078,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 17.11.2026 (📨 Молодежь · t13986 · «5 967 USD Профифэйс», файлы «PO 5 967.docx» и «CI_BLLN04_261022 - Bank VER (2).pdf») — заявка Scream: «прошу оплатить 5 967,10 USD от PQ18, USDT откуплен уже». Получатель BIONIC LAB Co.Ltd (Tera tower B-713, Songpadaero 167, Songpa-gu, Seoul, KOREA), SHINHAN BANK (120, 2-GA TAEPYUNG-RO, JUNG-GU, SEOUL), счёт 180-042-474779, SWIFT SHBKKRSE; USD 5 967,10; назначение «PAYMENT BY PROFORMA INVOICE NO. BLPRO04_261022 DD 22.10.2026 FOR COSMETICS». Commercial invoice BLPRO04_261022 от 22.10.2026: BIONIC LAB Co.Ltd → PQ18 Limited, Incoterms EXW, 1 695 EA косметики ORGAHUE (cleanser, toner, serum, cream, ampoule, mask, sachets), TOTAL 5 967,10 USD. Сумма строки по ордеру (sumSource=order), компания PQ18 по инвойсу (buyer PQ18 Limited) и указанию Scream. ⚠️ ПП №74 от 12.11.2026 (498 183,03 ₽ → VDX SERVICES - FZCO, назначение «для BIONIC LAB Co., Ltd, Invoice No.BLPRO04_261022») относится к этой сделке, но сейчас учтено в sent_rubles_vdx строки 39 — ждёт решения владельца о переносе. ⏳ ждём расчёт оператора",
     "calc": null,
     "sumSource": {
       "source": "order",
