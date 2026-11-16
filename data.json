@@ -2518,6 +2518,34 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 71,
+      "date": "2026-11-16",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО «Дре русланд трейдинг»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "scream",
+        "ref": "заявка 66 — приход 1092386.40 + 28724.31 агентское, отправка на Альмено 1113287.36 (за мебель)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000536"
     }
   ]
 }
