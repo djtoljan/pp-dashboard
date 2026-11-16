@@ -2370,6 +2370,34 @@
         "messageId": null
       },
       "rowId": "main-000528"
+    },
+    {
+      "row": 66,
+      "date": "2026-10-30",
+      "sum": 37931,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Дре Русланд",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "PVM sąskaita-faktūra №9 от 30.10.2026 (UAB VEGRANA → OOO DRE RUSSLAND TRADING)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000529"
     }
   ]
 }
