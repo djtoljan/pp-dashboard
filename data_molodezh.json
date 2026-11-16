@@ -1897,5 +1897,33 @@
       "messageId": null
     },
     "rowId": "mol-000281"
+  },
+  {
+    "row": 51,
+    "date": "2026-11-16",
+    "sum": 72065,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Евразия Логистика",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "Молодежь t14120 — 72 065 USD (подпись топика); ПП №205 от 16.11.2026 (5 995 803,80 ₽ → VDX)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000282"
   }
 ]
