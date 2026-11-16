@@ -2398,6 +2398,34 @@
         "messageId": null
       },
       "rowId": "main-000529"
+    },
+    {
+      "row": 67,
+      "date": "2026-11-16",
+      "sum": 1191.78,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "pp",
+        "ref": "Поручение №78656 от 16.11.2026 (инвойс HTS-BIKEPRODUCTS2601-0904 dd 04.11.2026)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000530"
     }
   ]
 }
