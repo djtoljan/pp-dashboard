@@ -910,7 +910,7 @@
       "sum": 33264,
       "currency": "EUR",
       "company": "Q8",
-      "color": "FFFFFF00",
+      "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "(33 264,00 / 0,887 + 65) ÷ 0,9965 = 37 699",
       "extra": "📄 06.11.2026 (📨 FINIVEST AI, Scream «33264 под заявку») — 2-я часть ПОРУЧЕНИЯ №77712 (заявка 77712, ВТС): платёж 33 264,00 EUR по инвойсу PFI 202603 от 22.10.2026, получатель MESTRO TREATMENT KIMYA SANAYI VE TICARET LIMITED SIRKETI (TÜRKİYE GARANTI BANKASI, IBAN TR38 0006 2000 7210 0009 0492 48); 2-я предоплата 50% по проформе (1-я оплачена строкой Main r117). Оплата в USDT: OUT 37 699 USDT c Рабочего 6 → TBfdEf7hMrRHeBxWsMMzsufbwuDT8F7hLw, txid ce0727a4eb81608a0b76438b11e6a6f4d915c75d530b0435092bece226c1ab52 (06.11.2026 06:45 UTC). Расчёт: (33 264/0,887 + 65)/0,9965 = 37 699 USDT.",
@@ -921,7 +921,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": 37699,
-      "notes": "🛡️ 06.11.2026: движение OUT 37699 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:161). | факт движения 06.11.2026, кошелёк Рабочий 6 → TBfdEf7h… | 📄 06.11.2026 (📨 EUR, файл «33,264_00_EUR_MESTRO TREATMENT KIMYA…pdf») — платёжная квитанция BAXS PAY LIMITED: Q8 GROUP LIMITED → MESTRO TREATMENT KIMYA SANAYI VE TICARET SIRKETI (TURKIYE GARANTI BANKASI, счёт TR380006200072100009049248, SWIFT TGBATRISXXX), назначение «PAYMENT FOR INVOICE PFI 202603», 33 264,00 EUR, комиссии OUR, дата 2026-11-06, номер FO2611060831000001, статус Pending (в обработке). Статус не исполнен — строка 🟡. | [перенесено из расчёта себестоимости] валюта: USDT",
+      "notes": "🛡️ 06.11.2026: движение OUT 37699 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:161). | факт движения 06.11.2026, кошелёк Рабочий 6 → TBfdEf7h… | 📄 06.11.2026 (📨 EUR, файл «33,264_00_EUR_MESTRO TREATMENT KIMYA…pdf») — платёжная квитанция BAXS PAY LIMITED: Q8 GROUP LIMITED → MESTRO TREATMENT KIMYA SANAYI VE TICARET SIRKETI (TURKIYE GARANTI BANKASI, счёт TR380006200072100009049248, SWIFT TGBATRISXXX), назначение «PAYMENT FOR INVOICE PFI 202603», 33 264,00 EUR, комиссии OUR, дата 2026-11-06, номер FO2611060831000001, статус Pending (в обработке). Статус не исполнен — строка 🟡. | [перенесено из расчёта себестоимости] валюта: USDT | 📄 16.11.2026 (📨 EUR, файл «33,264_00_EUR_MESTRO_TREATMENT_KIMYA_SANAYI_VE_TICARET_SIRKETI.pdf») — SWIFT Proof of Transfer, реф. PB2611061055000001-1, URGP, Settlement Date/Amount 08/11/2026 / 33 264,00 EUR: Ordering Customer Q8 GROUP LIMITED (No. 52, Hung To Road, Kwun Tong, KL, Hong Kong); Beneficiary MESTRO TREATMENT KIMYA SANAYI VE TICARET SIRKETI (Esentepe Mah. Buyukdere Cad. Loft Residence No. 20/140, Sisli, Istanbul, 34394, Turkey); Account With Institution TGBATRISXXX, счёт /TR380006200072100009049248; Remittance «PAYMENT FOR INVOICE PFI 202603»; UETR dcb58d10-7f73-4991-b707-4a52232b9bc9. Сумма совпадает со строкой. Подтверждает исполнение платежа Q8 по этой сделке → 🟡→🟢.",
       "calc": "ТЕЗ",
       "rowId": "main-000456",
       "companySource": {
