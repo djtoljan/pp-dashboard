@@ -2482,6 +2482,42 @@
         "messageId": null
       },
       "rowId": "main-000532"
+    },
+    {
+      "row": 70,
+      "date": "2026-11-16",
+      "sum": 42525.73,
+      "currency": "EUR",
+      "company": "PQ18",
+      "color": "FFFFFFFF",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "scream",
+        "ref": "заявка 78662 — 42525.73 EUR (подпись топика ВТС t7499)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000535",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "заявка 78662 от 16.11.2026",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
