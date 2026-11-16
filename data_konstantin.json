@@ -977,7 +977,7 @@
     "sum": 110000,
     "currency": "USD",
     "company": "Q8 Group Limited",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(110 000 + 65) / 0,9965",
     "extra": null,
