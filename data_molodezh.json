@@ -2060,5 +2060,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 54,
+    "date": "2026-11-17",
+    "sum": 5967.1,
+    "currency": "USD",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
+    "clientName": "ООО «ПРОФИФЕЙС»",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "PO 5 967.docx",
+      "file": "CI_BLLN04_261022 - Bank VER (2).pdf",
+      "date": "2026-10-22",
+      "messageId": null
+    },
+    "rowId": "mol-000294",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-10-22",
+      "ref": "BLPRO04_261022",
+      "file": "CI_BLLN04_261022 - Bank VER (2).pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
