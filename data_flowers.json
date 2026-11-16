@@ -65,7 +65,7 @@
     "sum": 22320,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Condor Andino (Цветы)",
     "costFormula": "(22 320,00 + 65) / 0,9965 = 22 464",
     "extra": "📄 04.11.2026 (📨 FINIVEST AI, Scream: «Цветочная заявка», файл «INVOICE 339 Q8 GROUP LIMITED.pdf») — **INVOICE № 339 dd 4/11/2026** (CONDOR ANDINO SAS, NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; тел. 3206668410, Elizabeth Tabares) → BILL TO **Q8 Group Limited** (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): FRESH CUT FLOWERS, pack QB, 5 боксов / 31 886 стеблей, LIGHT PINK PREMIUM, HTS 0603, VR UND 0,7 → **TOTAL USD 22 320,00**. Реквизиты: CONDOR ANDINO SAS, счёт 55700015652, BANCOLOMBIA (CLL 10 # 8-48 La Unión Ant, Col), SWIFT COLOCOBM. Компания Q8 → расчёт Q8.",
@@ -76,7 +76,7 @@
     "vdx_rate": null,
     "received_usdt": 22554,
     "sent_usdt": 22464,
-    "notes": "✏️ 04.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 22 320,00 + 0,3% + 30 = 22 416,96 USDT. | 🛡️ 04.11.2026: движение IN 22554 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:69). | ✏️ 05.11.2026: расчёт Winters BP (06:29 МСК): (22 320 + 65) / 0,9965 = 22 464 USDT | 🛡️ 05.11.2026: движение OUT 22464 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:69). | ✏️ 13.11.2026 (payout-link): прежняя формула «(22 320,00 + 65) / 0,9965 = 22 464 USDT» заменена фактом по выплате (, 22464 USDT) — Scream. | ✏️ 04.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 22 320,00 + 0,3% + 30 = 22 416,96 USDT. | [перенесено из расчёта себестоимости] валюта: USDT | [перенесено из расчёта себестоимости] валюта: USDT [перенесено из расчёта себестоимости] валюта: USDT",
+    "notes": "✏️ 04.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 22 320,00 + 0,3% + 30 = 22 416,96 USDT. | 🛡️ 04.11.2026: движение IN 22554 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:69). | ✏️ 05.11.2026: расчёт Winters BP (06:29 МСК): (22 320 + 65) / 0,9965 = 22 464 USDT | 🛡️ 05.11.2026: движение OUT 22464 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:69). | ✏️ 13.11.2026 (payout-link): прежняя формула «(22 320,00 + 65) / 0,9965 = 22 464 USDT» заменена фактом по выплате (, 22464 USDT) — Scream. | ✏️ 04.11.2026 (add-row): company=Q8 → Q8-расчёт проставлен автоматически, 22 320,00 + 0,3% + 30 = 22 416,96 USDT. | [перенесено из расчёта себестоимости] валюта: USDT | [перенесено из расчёта себестоимости] валюта: USDT [перенесено из расчёта себестоимости] валюта: USDT | 📄 16.11.2026 (📨 USD, файл «22,350.00 USD-CONDOR ANDINO SAS.pdf») — SWIFT Proof of Transfer, реф. PB2611050716000002-1, URGP, Settlement Date/Amount 05/11/2026 / 22 350,00 USD: Ordering Customer Q8 GROUP LIMITED (No. 52, Hung To Road, Kwun Tong, KL, Hong Kong); Beneficiary CONDOR ANDINO SAS (Vda La Almeria Finca El Valle La Union, Antioquia, Colombia); Account With Institution COLOCOBM, счёт /55700015652; Remittance «payment for invoice»; UETR e7bcf8eb-c876-4e13-817e-06fbef872ec6. ⚠️ В proof 22 350,00 USD против суммы строки 22 320,00 — разница +30,00 (банковский сбор); сумму строки не меняю. Подтверждает исполнение платежа Q8 по этой сделке → 🟡→🟢.",
     "calc": null,
     "rowId": "flw-000173",
     "companySource": {
