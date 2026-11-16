@@ -1869,5 +1869,33 @@
     "companyProvisional": false,
     "companyVerified": true,
     "directToExchanger": true
+  },
+  {
+    "row": 50,
+    "date": "2026-11-16",
+    "sum": 500000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "СКВЭР ТЭХ ЛИМИТЕД",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "Поручение №1 от 16.11.2026 (инвойс XGQT-20261012-1 от 12.10.2026)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000281"
   }
 ]
