@@ -1450,7 +1450,11 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r37 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 38,
@@ -1479,7 +1483,11 @@
       "messageId": null
     },
     "rowId": "mol-000261",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r38 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 39,
@@ -1521,7 +1529,11 @@
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
     },
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r39 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 40,
@@ -1558,7 +1570,11 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r40 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 41,
@@ -1581,7 +1597,11 @@
     "calc": null,
     "sumSource": null,
     "rowId": "mol-000264",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r41 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 42,
@@ -1623,10 +1643,54 @@
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
     },
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r42 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 43,
+    "date": "2026-11-12",
+    "sum": 26110,
+    "currency": "EUR",
+    "company": "-",
+    "color": "FFFFFFFF",
+    "clientName": "МД Лайн (Молодёжь)",
+    "costFormula": null,
+    "extra": "ПП на VDX №37 от 12.11.2026 (2 444 514,81 ₽) + ПП №38 от 12.11.2026 (46 030,09 ₽) — одна сделка МД ЛАЙН Транс, распоряжение Scream 16.11.2026 | Ордер 13.11.2026 + проформа MDLT_2610 от 26.10.2026 (26 110 EUR, GEOPRODUCTS LTD, TBC Bank) — оплата под сделку МД ЛАЙН Транс, распоряжение Scream 16.11.2026",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": "2444514.81 / 46030.09",
+    "exchange_to": "VDX / VDX",
+    "vdx_rate": "82.6",
+    "received_usdt": "29018.6 / 546.42",
+    "sent_usdt": null,
+    "notes": "extra r54: Ордер 13.11.2026 + проформа MDLT_2610 от 26.10.2026 (26 110 EUR, GEOPRODUCTS LTD, TBC Bank) — оплата под сделку МД ЛАЙН Транс, распоряжение Scream 16.11.2026 | 🔗 2026-11-16 (Scream: «Scream 16.11.2026: строки 53 и 54 Молодёжи — одна сделка МД ЛАЙН Транс (рубли на VDX + оплата EUR 26110 по ордеру 13.11 / проформа MDLT_2610)») — строки 54 объединены с этой: sum = 26110 EUR; rubles_received = null; sent_rubles_vdx = 2444514.81 / 46030.09; цвет = ⬜ (row 53 (выжившая), понижение запрещено). Доказательства прежних строк: r54 (⬜). Полные notes прежних строк — в Molodezh.removed-rows_mol-000288-mol-000289_2026-11-16.json.",
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "telegram:7206154434#19904",
+      "file": null,
+      "date": "2026-11-16",
+      "messageId": null
+    },
+    "rowId": "mol-000288",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": "2026-11-16",
+      "ref": "telegram:7206154434#19904",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r43 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
+  },
+  {
+    "row": 44,
     "date": "2026-11-13",
     "sum": 2679000,
     "currency": "JPY",
@@ -1652,10 +1716,14 @@
       "messageId": "input-1506878-02---387a53a7-f207-4633-a4ff-7bfda903d42f.pdf"
     },
     "rowId": "mol-000266",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r44 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
-    "row": 44,
+    "row": 45,
     "date": "2026-11-13",
     "sum": null,
     "currency": null,
@@ -1681,10 +1749,14 @@
       "messageId": null
     },
     "rowId": "mol-000269",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r45 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
-    "row": 45,
+    "row": 46,
     "date": "2026-11-13",
     "sum": 6208,
     "currency": "USD",
@@ -1719,10 +1791,14 @@
     "companyProvisional": true,
     "companyVerified": false,
     "directToExchanger": true,
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r46 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
-    "row": 46,
+    "row": 47,
     "date": "2026-11-13",
     "sum": 10155,
     "currency": "USD",
@@ -1758,7 +1834,7 @@
     "companyVerified": false
   },
   {
-    "row": 47,
+    "row": 48,
     "date": "2026-11-13",
     "sum": 57870.92,
     "currency": "EUR",
@@ -1793,10 +1869,14 @@
     },
     "companyProvisional": false,
     "companyVerified": true,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r48 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
-    "row": 48,
+    "row": 49,
     "date": "2026-11-13",
     "sum": 36877.05,
     "currency": "USD",
@@ -1831,10 +1911,14 @@
     },
     "companyProvisional": false,
     "companyVerified": true,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r49 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
-    "row": 49,
+    "row": 50,
     "date": "2026-11-13",
     "sum": 22400,
     "currency": "USD",
@@ -1869,10 +1953,14 @@
     },
     "companyProvisional": false,
     "companyVerified": true,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r50 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
-    "row": 50,
+    "row": 51,
     "date": "2026-11-16",
     "sum": 500000,
     "currency": "USD",
@@ -1900,7 +1988,7 @@
     "rowId": "mol-000281"
   },
   {
-    "row": 51,
+    "row": 52,
     "date": "2026-11-16",
     "sum": 72065,
     "currency": "USD",
@@ -1937,7 +2025,7 @@
     "companyVerified": false
   },
   {
-    "row": 52,
+    "row": 53,
     "date": "2026-11-16",
     "sum": 3635000,
     "currency": "JPY",
@@ -1971,78 +2059,6 @@
       "file": "RAUTO1611_1_invoice_edited.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
-  },
-  {
-    "row": 53,
-    "date": "2026-11-12",
-    "sum": 0,
-    "currency": "USD",
-    "company": "-",
-    "color": "FFFFFFFF",
-    "clientName": "МД Лайн (Молодёжь)",
-    "costFormula": null,
-    "extra": "ПП на VDX №37 от 12.11.2026 (2 444 514,81 ₽) + ПП №38 от 12.11.2026 (46 030,09 ₽) — одна сделка МД ЛАЙН Транс, распоряжение Scream 16.11.2026",
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": "2444514.81 / 46030.09",
-    "exchange_to": "VDX / VDX",
-    "vdx_rate": "82.6",
-    "received_usdt": "29018.6 / 546.42",
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null,
-    "sumSource": {
-      "source": "scream",
-      "ref": "telegram:7206154434#19904",
-      "file": null,
-      "date": "2026-11-16",
-      "messageId": null
-    },
-    "rowId": "mol-000288",
-    "companySource": {
-      "source": "owner_instruction",
-      "date": "2026-11-16",
-      "ref": "telegram:7206154434#19904",
-      "messageId": null
-    },
-    "companyProvisional": false,
-    "companyVerified": false
-  },
-  {
-    "row": 54,
-    "date": "2026-11-13",
-    "sum": 26110,
-    "currency": "EUR",
-    "company": "-",
-    "color": "FFFFFFFF",
-    "clientName": "МД Лайн (Молодёжь)",
-    "costFormula": null,
-    "extra": "Ордер 13.11.2026 + проформа MDLT_2610 от 26.10.2026 (26 110 EUR, GEOPRODUCTS LTD, TBC Bank) — оплата под сделку МД ЛАЙН Транс, распоряжение Scream 16.11.2026",
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null,
-    "sumSource": {
-      "source": "order",
-      "ref": "payment_order_13.11.docx,inv MDLT_2610 dd 26.10.2026",
-      "file": null,
-      "date": "2026-11-16",
-      "messageId": null
-    },
-    "rowId": "mol-000289",
-    "companySource": {
-      "source": "owner_instruction",
-      "date": "2026-11-16",
-      "ref": "telegram:7206154434#19909",
-      "messageId": null
-    },
-    "companyProvisional": false,
     "companyVerified": false
   }
 ]
