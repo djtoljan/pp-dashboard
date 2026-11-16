@@ -2426,6 +2426,34 @@
         "messageId": null
       },
       "rowId": "main-000530"
+    },
+    {
+      "row": 68,
+      "date": "2026-11-16",
+      "sum": 125390,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Центр Пром-Автомат (Tez Iz)",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "pp",
+        "ref": "Поручение №15 от 16.11.2026 (инвойс № 7С/26-06-15 от 15.06.2026)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000531"
     }
   ]
 }
