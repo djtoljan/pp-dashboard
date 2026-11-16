@@ -2292,6 +2292,42 @@
         "messageId": null
       },
       "rowId": "main-000523"
+    },
+    {
+      "row": 63,
+      "date": "2026-11-16",
+      "sum": 115000,
+      "currency": "EUR",
+      "company": "ATB",
+      "color": "FFFFFFFF",
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Payment from ATB: TANITA EUROPE B.V., invoice 3510063639 dd 19.05.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000525",
+      "companySource": {
+        "source": "order",
+        "date": null,
+        "ref": "Payment from ATB 16.11.2026 (TANITA EUROPE B.V.",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
