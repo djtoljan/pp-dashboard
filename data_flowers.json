@@ -92,7 +92,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, FINIVEST AI msg 60631 Winters BP 05.11.2026, топик FINIVEST AI",
       "date": "2026-11-05"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 4,
@@ -648,7 +649,8 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "costSource": "payout"
+    "costSource": "payout",
+    "payment_system": "baxs"
   },
   {
     "row": 19,

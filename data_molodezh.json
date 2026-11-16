@@ -215,7 +215,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 03.11 (2026-11-02)"
-    }
+    },
+    "payment_system": "baxs"
   },
   {
     "row": 7,
@@ -245,7 +246,8 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "costSource": "payout"
+    "costSource": "payout",
+    "payment_system": "baxs"
   },
   {
     "row": 8,
@@ -383,7 +385,8 @@
       "messageId": "17004"
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_system": "baxs"
   },
   {
     "row": 12,
@@ -412,7 +415,8 @@
       "messageId": "16155"
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_system": "baxs"
   },
   {
     "row": 13,
