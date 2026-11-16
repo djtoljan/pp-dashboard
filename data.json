@@ -466,7 +466,7 @@
       "sum": 6355,
       "currency": "USD",
       "company": "Q8",
-      "color": "FFFFFF00",
+      "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "(6 355 + 65) / 0,9965 = 6 443",
       "extra": "📄 03.11.2026 (📨 ВТС · t6650, файл «Invoice for tan water spray-261013 (2) (3).pdf», заявка 77328) — INVOICE PI No. RU40720261013 от 13.10.2026: Guangzhou Baiyun Yanmei Cosmetics Factory -> Q8 GROUP LIMITED (получатель в счете также Itrix, DANNY HUIZINK), tan water spray 30ml, 5000 pcs x 1,271 USD = 6 355,00 USD, условия EXW, полная оплата",
@@ -477,7 +477,7 @@
       "vdx_rate": 82.05,
       "received_usdt": 6512.8,
       "sent_usdt": 6443,
-      "notes": "ПП на Almeno №182 от 03.11.2026 (534 375 51 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 6443 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:148). | 📄 06.11.2026 (📨 USD, файл «6,355.00 USD-Guangzhou Baiyun Yanmei Cosmetics Factory.pdf») — квитанция BAXS PAY LIMITED: получатель Guangzhou Baiyun Yanmei Cosmetics Factory, назначение «PAYMENT FOR INVOICE RU40720261013», 6 355,00 USD, дата 06.11.2026, номер FO2611060904000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 6 355,00 + 0,3% + 30 = 6 404,07 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(6 355 + 65) / 0,9965 = 6 443 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 6443 USDT) — Scream. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 6 355,00 + 0,3% + 30 = 6 404,07 USDT. | [перенесено из расчёта себестоимости] валюта: USDT",
+      "notes": "ПП на Almeno №182 от 03.11.2026 (534 375 51 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 6443 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:148). | 📄 06.11.2026 (📨 USD, файл «6,355.00 USD-Guangzhou Baiyun Yanmei Cosmetics Factory.pdf») — квитанция BAXS PAY LIMITED: получатель Guangzhou Baiyun Yanmei Cosmetics Factory, назначение «PAYMENT FOR INVOICE RU40720261013», 6 355,00 USD, дата 06.11.2026, номер FO2611060904000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 6 355,00 + 0,3% + 30 = 6 404,07 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(6 355 + 65) / 0,9965 = 6 443 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 6443 USDT) — Scream. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 6 355,00 + 0,3% + 30 = 6 404,07 USDT. | [перенесено из расчёта себестоимости] валюта: USDT | 📄 16.11.2026 (📨 USD, файл «6,355.00 USD-Guangzhou Baiyun Yanmei Cosmetics Factory.pdf») — SWIFT Proof of Transfer, реф. PB2611060918000006-1, Bank Operation Code URGP, Settlement Date/Amount 06/11/2026 / 6 355,00 USD: Ordering Customer Q8 GROUP LIMITED (No. 52, Hung To Road, Kwun Tong, KL, Hong Kong); Beneficiary Guangzhou Baiyun Yanmei Cosmetics Factory (2 Qisuo Road, The Second Industrial Zone, Changhong Village, Guangzhou, Guangdong, 510440); Account With Institution CITIHKHX, счёт /3996001326396. Документ подтверждает исполнение платежа Q8 по этой сделке → 🟡→🟢 (Proof of Transfer = исполнение).",
       "calc": "ТЕЗ",
       "rowId": "main-000436",
       "companySource": {
