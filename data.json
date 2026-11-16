@@ -2582,6 +2582,34 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 73,
+      "date": "2026-11-16",
+      "sum": 18351,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Приложение № 16-KG от 16.11.2026 к контракту № 0017/26Д от 06.03.2026 (18 351,00 USD)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000538"
     }
   ]
 }

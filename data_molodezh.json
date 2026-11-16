@@ -1286,8 +1286,8 @@
     "date": "2026-11-11",
     "sum": 28381.4,
     "currency": "USD",
-    "company": "Q8 Group Limited",
-    "color": "FFFFFFFF",
+    "company": "Q8",
+    "color": "FF92D050",
     "clientName": "Фри Лайнс",
     "costFormula": "28 381,40 ÷ 0,9960 = 28 495,38; 50,00 ÷ 0,9960 = 50,20; итого 28 545,58 USDT (расчёт оператора JP Morgan 16.11.2026)",
     "extra": null,
@@ -1314,13 +1314,14 @@
       "ref": "VDX 11.11 (2026-11-11)"
     },
     "companySource": {
-      "source": "owner_instruction",
-      "date": null,
-      "ref": "telegram:7206154434#19305",
-      "messageId": "19305"
+      "source": "foreign_pp",
+      "file": "TFR-X99GYTY5 USD 28381.40.PDF",
+      "txid": null,
+      "ref": "TFR-X99GYTY5",
+      "date": "16.11.2026"
     },
     "companyProvisional": false,
-    "companyVerified": false,
+    "companyVerified": true,
     "costSource": "operator",
     "costSourceRef": {
       "ref": "owner_instruction, топик Заявки/расчеты JP Morgan, msg 63077, дата 2026-11-16",
