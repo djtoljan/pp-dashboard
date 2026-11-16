@@ -29,7 +29,9 @@
       "ref": "VDX 03.11 (2026-11-02)"
     },
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7839125772",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_02_03_11_26---92194893-8a3b-4e46-a171-3020f14861a3.pdf: счёт 40702810526620000300; дата 02.11.2026; № 255"
   },
   {
     "row": 2,
@@ -65,7 +67,9 @@
       "ref": "VDX 5.11xlsx (2026-11-05)"
     },
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7839125772",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_03_05_11_26---b08b8e41-2741-41e2-8dc6-0d4953e88cf9.pdf: счёт 40702810526620000300; дата 03.11.2026; № 258"
   },
   {
     "row": 3,
@@ -107,7 +111,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7813456956",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_11_12_11_26---7e83b8b7-d100-417e-9088-75ed1f62191a.pdf: счёт 40702810217350005081; дата 11.11.2026; № 3002"
   },
   {
     "row": 4,
@@ -149,6 +155,8 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7839125772",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_12_13_11_26---566d2b11-18de-4c25-835c-2565b3be6b7b.pdf: счёт 40702810526620000300; дата 12.11.2026; № 268"
   }
 ]

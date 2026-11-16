@@ -25,7 +25,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "9722028668",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_03_05_11_26---b08b8e41-2741-41e2-8dc6-0d4953e88cf9.pdf: счёт 40702810610090006333; дата 03.11.2026; № 741"
   },
   {
     "row": 2,
@@ -53,7 +55,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "9721133571",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_03_05_11_26---b08b8e41-2741-41e2-8dc6-0d4953e88cf9.pdf: счёт 40702810110090006341; дата 03.11.2026; № 1123"
   },
   {
     "row": 3,
@@ -152,7 +156,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "series"
+    "sentAccountSource": "series",
+    "payerInn": "9722028668",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_05_06_11_26---ab046faa-5987-465c-9325-5b5ac281cf44.pdf: счёт 40702810610090006333; дата 05.11.2026; № 743"
   },
   {
     "row": 6,
@@ -180,7 +186,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "9721133571",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_05_06_11_26---ab046faa-5987-465c-9325-5b5ac281cf44.pdf: счёт 40702810110090006341; дата 05.11.2026; № 1125"
   },
   {
     "row": 7,
@@ -209,7 +217,9 @@
     },
     "dealType": "balance_topup",
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "series"
+    "sentAccountSource": "series",
+    "payerInn": "9721131567",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_06_09_11_26---40c9ed52-ce0f-4354-baea-6aac0a183c0c.pdf: счёт 40702810010090006331; дата 06.11.2026; № 647"
   },
   {
     "row": 8,
@@ -238,7 +248,9 @@
     "received_usdt": 35774.88,
     "dealType": "balance_topup",
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "9721133571",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_06_09_11_26---40c9ed52-ce0f-4354-baea-6aac0a183c0c.pdf: счёт 40702810110090006341; дата 06.11.2026; № 1127"
   },
   {
     "row": 9,
@@ -420,7 +432,9 @@
     },
     "dealType": "balance_topup",
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "9721133571",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_09_10_11_26---18f94191-5f75-4eed-a020-5172e830ef26.pdf: счёт 40702810110090006341; дата 09.11.2026; № 1129"
   },
   {
     "row": 13,
@@ -449,7 +463,9 @@
     },
     "dealType": "balance_topup",
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "9722028668",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_09_10_11_26---18f94191-5f75-4eed-a020-5172e830ef26.pdf: счёт 40702810610090006333; дата 09.11.2026; № 745"
   },
   {
     "row": 14,
@@ -521,7 +537,9 @@
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
-    "sendKind": "internal_transfer"
+    "sendKind": "internal_transfer",
+    "payerInn": "9721131567",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_10_11_11_26---7203722b-f320-4017-bcf0-92889586eda3.pdf: счёт 40702810010090006331; дата 10.11.2026; № 649"
   },
   {
     "row": 16,
@@ -550,7 +568,9 @@
       "kind": "legacy",
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
-    "sendKind": "internal_transfer"
+    "sendKind": "internal_transfer",
+    "payerInn": "9721133571",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_10_11_11_26---7203722b-f320-4017-bcf0-92889586eda3.pdf: счёт 40702810110090006341; дата 10.11.2026; № 1131"
   },
   {
     "row": 17,
@@ -651,7 +671,9 @@
     "calc": null,
     "sumSource": null,
     "rowId": "flw-000198",
-    "sendKind": "internal_transfer"
+    "sendKind": "internal_transfer",
+    "payerInn": "9721131567",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_11_12_11_26---7e83b8b7-d100-417e-9088-75ed1f62191a.pdf: счёт 40702810010090006331; дата 11.11.2026; № 651"
   },
   {
     "row": 20,
@@ -674,7 +696,9 @@
     "calc": null,
     "sumSource": null,
     "rowId": "flw-000199",
-    "sendKind": "internal_transfer"
+    "sendKind": "internal_transfer",
+    "payerInn": "9721133571",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_11_12_11_26---7e83b8b7-d100-417e-9088-75ed1f62191a.pdf: счёт 40702810110090006341; дата 11.11.2026; № 1161"
   },
   {
     "row": 21,
@@ -697,7 +721,9 @@
     "calc": null,
     "sumSource": null,
     "rowId": "flw-000200",
-    "sendKind": "internal_transfer"
+    "sendKind": "internal_transfer",
+    "payerInn": "9722028668",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_11_12_11_26---7e83b8b7-d100-417e-9088-75ed1f62191a.pdf: счёт 40702810610090006333; дата 11.11.2026; № 749"
   },
   {
     "row": 22,

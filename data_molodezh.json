@@ -66,7 +66,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810825640000009",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7840068335",
+    "payerInnSource": "выписка VTB_Блэкшарк_02.11.2026-03.11.2026---91db48a2-eb74-46d2-a5ac-8b13e6391a3f.pdf: счёт 40702810510001021286; дата 02.11.2026; № 368"
   },
   {
     "row": 3,
@@ -101,7 +103,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810825640000009",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7840068335",
+    "payerInnSource": "выписка VTB_Блэкшарк_02.11.2026-03.11.2026---91db48a2-eb74-46d2-a5ac-8b13e6391a3f.pdf: счёт 40702810510001021286; дата 02.11.2026; № 370"
   },
   {
     "row": 4,
@@ -277,7 +281,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810825640000009",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7705484755",
+    "payerInnSource": "выписка VTB_блэкшарк_03.11.2026-05.11.2026---b8d42a45-c2c0-4c5d-b484-c6832784eeee.pdf: счёт 40702810100000003636; дата 03.11.2026; № 10146"
   },
   {
     "row": 9,
@@ -317,7 +323,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810825640000009",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7840068335",
+    "payerInnSource": "выписка VTB_блэкшарк_03.11.2026-05.11.2026---b8d42a45-c2c0-4c5d-b484-c6832784eeee.pdf: счёт 40702810510001021286; дата 03.11.2026; № 378"
   },
   {
     "row": 10,
@@ -446,7 +454,9 @@
     },
     "payment_system": "baxs",
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7709875125",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_05_06_11_26---ab046faa-5987-465c-9325-5b5ac281cf44.pdf: счёт 40702810102500113307; дата 05.11.2026; № 64"
   },
   {
     "row": 14,
@@ -481,7 +491,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810825640000009",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7840068335",
+    "payerInnSource": "выписка VTB_блэкшарк_05.11.2026-06.11.2026---b25997a1-30e4-4440-8c2a-c0d3ae427064.pdf: счёт 40702810510001021286; дата 05.11.2026; № 380"
   },
   {
     "row": 15,
@@ -515,7 +527,9 @@
       "ref": "источник не зафиксирован, строка создана до 14.11.2026"
     },
     "sentAccount": "40807810825640000009",
-    "sentAccountSource": "bank_confirmed"
+    "sentAccountSource": "bank_confirmed",
+    "payerInn": "7722482116",
+    "payerInnSource": "выписка VTB_блэкшарк_05.11.2026-06.11.2026---b25997a1-30e4-4440-8c2a-c0d3ae427064.pdf: счёт 40702810100000007321; дата 05.11.2026; № 33"
   },
   {
     "row": 16,
@@ -752,7 +766,9 @@
     "costSource": "payout",
     "payment_system": "baxs",
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "series"
+    "sentAccountSource": "series",
+    "payerInn": "3906335795",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_10_11_11_26---7203722b-f320-4017-bcf0-92889586eda3.pdf: счёт 40702810410001636247; дата 10.11.2026; № 47"
   },
   {
     "row": 22,
@@ -796,7 +812,9 @@
     },
     "payment_system": "baxs",
     "sentAccount": "40807810100157518600",
-    "sentAccountSource": "series"
+    "sentAccountSource": "series",
+    "payerInn": "7709875125",
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_10_11_11_26---7203722b-f320-4017-bcf0-92889586eda3.pdf: счёт 40702810102500113307; дата 10.11.2026; № 739"
   },
   {
     "row": 23,
