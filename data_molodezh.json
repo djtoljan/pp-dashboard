@@ -395,7 +395,7 @@
     "sum": 4352,
     "currency": "USD",
     "company": "Q8",
-    "color": "FFFFFF00",
+    "color": "FF92D050",
     "clientName": "Вилог",
     "costFormula": "(4 352,00 + 65,00) / 0,9965 = 4 432,51",
     "extra": "INVOICE CL20261030001 от 30.10.2026 (SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI -> Q8 Group Limited): 10 позиций серверного железа (HDD 1TB/600GB/10TB, PSU 750W/1100W, память DDR4 16GB, SAS 1.8TB, кабели, SSD 960GB, BBU), итого 4 352,00 USD; Standard Chartered Bank (Hong Kong), SWIFT SCBLHKHH, счёт 47413626978",
@@ -406,7 +406,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 4332,
-    "notes": "Расчёт владельца 04.11.2026 (4332+10497=14829 USDT). В инвойсе CL20261030001 указано 4 352,00 USD — расхождение 100 USD | 14.11.2026 Scream: сумма подставлялась с опечаткой (4 252 вместо 4 352) | 💡 14.11.2026 (Scream): расчёт 4 432,51, выплачено 4 332 | [перенесено из расчёта себестоимости] валюта: USDT | [перенесено из расчёта себестоимости] валюта: USDT [перенесено из расчёта себестоимости] валюта: USDT",
+    "notes": "Расчёт владельца 04.11.2026 (4332+10497=14829 USDT). В инвойсе CL20261030001 указано 4 352,00 USD — расхождение 100 USD | 14.11.2026 Scream: сумма подставлялась с опечаткой (4 252 вместо 4 352) | 💡 14.11.2026 (Scream): расчёт 4 432,51, выплачено 4 332 | [перенесено из расчёта себестоимости] валюта: USDT | [перенесено из расчёта себестоимости] валюта: USDT [перенесено из расчёта себестоимости] валюта: USDT | 📄 16.11.2026 (📨 USD, файл «4,352_00_USD_SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI.pdf») — SWIFT Proof of Transfer, реф. PB2611041001000003-1, Bank Operation Code URGP, Settlement Date/Amount 04/11/2026 / 4 352,00 USD: Ordering Customer Q8 GROUP LIMITED (No. 52, Hung To Road, Kwun Tong, KL, Hong Kong); Beneficiary SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI (RM1801 Easey Comm Bldg, 253-261 Hennessy Road, Wanchai, HK); Account With Institution SCBLHKHH, счёт /47413626978; UETR 0e315ba9-ec92-4e44-aaaa-... (0e315ba9-ec92-4e44-aaa2-d09419dc9fd5); printed 16.11.2026 15:31 UTC+08. Документ подтверждает исполнение платежа Q8 по этой сделке → 🟡→🟢 (Proof of Transfer = исполнение).",
     "calc": null,
     "rowId": "mol-000225",
     "companySource": {
