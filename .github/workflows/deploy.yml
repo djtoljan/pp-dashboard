@@ -32,9 +32,6 @@ jobs:
         with:
           node-version: 20
       
-      - name: Build Dashboard
-        run: node build-dashboard.js
-      
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
