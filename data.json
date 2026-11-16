@@ -580,7 +580,7 @@
       "sum": 13860,
       "currency": "USD",
       "company": "Q8",
-      "color": "FFFFFF00",
+      "color": "FF92D050",
       "clientName": "ВТС",
       "costFormula": "(13 860 + 65) / 0,9965 = 13 974",
       "extra": "📄 03.11.2026 (📨 ВТС · t6711, файл «Powder invoice20261029 3500pcs (3).pdf», заявка 78036) — INVOICE по контракту GM20260722-01 от 22.07.2026 (Goodly Cosmetics, Yiwu/Shanghai; покупатель WTC): powder, 3500 pcs; 13 860,00 USD; условия EXW, депозит/баланс до отгрузки",
@@ -591,7 +591,7 @@
       "vdx_rate": 81.64999999999999,
       "received_usdt": 14155.75,
       "sent_usdt": 13974,
-      "notes": "ПП на Almeno №186 от 03.11.2026 (1 155 817 28 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 13974 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:151). | 📄 06.11.2026 (📨 USD, файл «13,860.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20260722-01», 13 860,00 USD, дата 06.11.2026, номер FO2611060947000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 13 860,00 + 0,3% + 30 = 13 931,58 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(13 860 + 65) / 0,9965 = 13 974 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 13974 USDT) — Scream. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 13 860,00 + 0,3% + 30 = 13 931,58 USDT. | [перенесено из расчёта себестоимости] валюта: USDT",
+      "notes": "ПП на Almeno №186 от 03.11.2026 (1 155 817 28 ₽ — номер из документа ПП) | 🛡️ 06.11.2026: движение OUT 13974 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row main:151). | 📄 06.11.2026 (📨 USD, файл «13,860.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — квитанция BAXS PAY LIMITED: получатель GOODLY COSMETICS (YIWU) CO., LTD, назначение «PAYMENT FOR INVOICE GM20260722-01», 13 860,00 USD, дата 06.11.2026, номер FO2611060947000001, статус Pending (в обработке). Не исполнение — строка 🟡. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 13 860,00 + 0,3% + 30 = 13 931,58 USDT. | Расчёт Q8 (baxs) от Scream 09.11.2026 | ✏️ 13.11.2026 (payout-link): прежняя формула «(13 860 + 65) / 0,9965 = 13 974 USDT» заменена фактом по выплате (5ff593a9392308579db175032cc60740e5678e7d4f8e07d07d3269e2023af0bb, 13974 USDT) — Scream. | ✏️ 09.11.2026 (build-all-xlsx): company=Q8 → Q8-расчёт проставлен автоматически, 13 860,00 + 0,3% + 30 = 13 931,58 USDT. | [перенесено из расчёта себестоимости] валюта: USDT | 📄 16.11.2026 (📨 USD, файл «13,860.00 USD-GOODLY COSMETICS (YIWU) CO., LTD.pdf») — SWIFT Proof of Transfer, реф. PB2611060953000005-1, URGP, Settlement Date/Amount 06/11/2026 / 13 860,00 USD: Ordering Customer Q8 GROUP LIMITED (No. 52, Hung To Road, Kwun Tong, KL, Hong Kong); Beneficiary GOODLY COSMETICS YIWU CO., LTD (26F, Tower One, Time Square, 1 Matheson Street, Causeway Bay, HK); Account With Institution CITIHKHX, счёт /3996000396176; Remittance «PAYMENT FOR INVOICE GM20260722-01»; UETR 044dc613-b1a9-4aad-b0f7-cc6472d72a38. Подтверждает исполнение платежа Q8 по этой сделке → 🟡→🟢.",
       "calc": "ТЕЗ",
       "rowId": "main-000441",
       "companySource": {
