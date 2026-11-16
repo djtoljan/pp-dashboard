@@ -162,23 +162,29 @@
   {
     "row": 5,
     "date": "2026-11-13",
-    "sum": null,
+    "sum": 9625,
     "currency": "USD",
     "company": null,
     "color": "FFFF0000",
     "clientName": "Балтик Лэнд (Движение 78)",
     "costFormula": null,
     "extra": null,
-    "rubles_received": null,
+    "rubles_received": "802725.00 / 20582.29",
     "statementRef": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 16.11.2026 (📨 Движение 78 (t1893)) — комплект по поручению №94 от 13.11.2026 (приложение к агентскому договору 120525-B от 12.05.2025): ПОРУЧЕНИЕ №94 — принципал ООО «Балтик Лэнд» → агент ОсОО «Блэкшарк Трейд»; спецификация — услуги по контракту 040826/2 dd 04.08.2026; валюта USD; всего по поручению 9 871,79 USD — справочно (тело 9 625,00 USD = 802 725,00 ₽; агентское вознаграждение 2,5% 246,79 USD = 20 582,29 ₽); курс 83,40 ₽/USD; получатель NEWCONT LOGISTICS LLC (SHAIKHA MHARA-AL QUSAIS BLDG, Plot No 54-0, Al Qusais Second, Dubai, UAE), Emirates Islamic Bank PJSC, SWIFT MEBLAEADXXX, IBAN AE410340003708461275802; срок 5 банковских дней с момента зачисления рублей. | 📄 16.11.2026 — Application for transfer (заявление о переводе) на 9 625,00 USD: NEWCONT LOGISTICS LLC, Emirates Islamic Bank PJSC, IBAN AE410340003708461275802, SWIFT MEBLAEADXXX, назначение «prepayment container provision INVOICE 906 Dt. 27.10.2026», ремарка ООО «Балтик Лэнд» → сумма сделки 9 625,00 USD (order). | 📄 INVOICE №906 от 27.10.2026 NEWCONT LOGISTICS LLC на БАЛТИК ЛЭНД по контракту 040826/2: 11 контейнеров × 1 750,00 USD, итого по инвойсу 19 250,00 USD — справочно; prepayment 50% = 9 625,00 USD. | 📄 ПЛАТЕЖНОЕ ПОРУЧЕНИЕ №3020 от 13.11.2026, ИСПОЛНЕНО 13.11.2026 14:55: ООО «БАЛТИК ЛЭНД» → ОсОО «Блэкшарк Трейд» 802 725,00 ₽ {VO21100} «Оплата за предоставление контейнеров по контракту 040826/2 от 04.08.2026, Перевод ДС ПА пор. 94 от 13.11.2026 к аг. договору 120525-B…» — тело. | 📄 ПП №3021 от 13.11.2026: 20 582,29 ₽ {VO21100} «Агентское вознаграждение по пор. 94 от 13.11.2026 к аг. договору 120525-B…» — агентское. rubles_received = 802725.00 / 20582.29. | 📄 письмо ООО «Балтик Лэнд» б/н от 13.11.2026: оплата по контракту 040826/2 от 04.08.2026 производится за пользование контейнерами. | 📄 контракт 040826/2 от 04.08.2026 (скан с правками, 18 стр.).",
     "calc": null,
-    "sumSource": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Application for transfer 9 625,00 USD (INVOICE 906 prepayment, 16.11.2026)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
     "rowId": "d78-000055"
   }
 ]
