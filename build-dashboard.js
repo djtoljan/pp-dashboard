@@ -153,13 +153,20 @@ function build() {
       const vtbRoute = /ВТБ|VTB/i.test(String(r.exchange_to || ''));
       // 🚨 Также исключаем рубли с маршрутом на Альмена (Almeno/Al Safi) — это тоже обмен, но не VDX.
       const oltreRoute = /almeno|al\s*safi/i.test(String(r.exchange_to || ''));
-      // 🚨 17.11.2026 (Scream): в дашборде раздел «Рубли не отправлены на обмен» показывает
-      // ТОЛЬКО реальную отправку. Вид отправки (sendKind) и линия (А) закрытием для дашборда
-      // НЕ считаются — такие строки в разделе не нужны. Остальные закрытия (отправка,
-      // зачёт возврата, directToExchanger, тип сделки без отправки) — по-прежнему закрывают.
+      // 🚨 17.11.2026 (Scream): раздел «Рубли не отправлены на обмен» —
+      //   1) только текущий месяц (как остальные блоки дашборда);
+      //   2) без группы «Константин» (там сделки только в USDT, рублёвой части нет);
+      //   3) только строки, где рубли РЕАЛЬНО пришли (иначе отправлять нечего);
+      //   4) «вид отправки» (sendKind) и «линия А» закрытием для дашборда НЕ считаются;
+      //   5) закрытия по факту (отправка, зачёт возврата, directToExchanger, тип без отправки) — закрывают.
       const closure = closureOf(r);
       const closedByKindOrLine = closure.code === 'SEND_KIND' || closure.code === 'LINE_A';
-      if (!closure.closed && !closedByKindOrLine && !vtbRoute && !oltreRoute) {
+      const curYM = td.slice(0, 7);
+      const rubMoney = String(r.rubles_received == null ? '' : r.rubles_received)
+        .split('/').reduce((a, p) => a + (parseFloat(String(p).replace(/\s/g, '').replace(',', '.')) || 0), 0);
+      const inCurrentMonth = !!dt && dt.slice(0, 7) === curYM;
+      if (!closure.closed && !closedByKindOrLine && !vtbRoute && !oltreRoute
+          && f.label !== 'Константин' && rubMoney > 0 && inCurrentMonth) {
         waitVdx.push(entry);
       }
 
