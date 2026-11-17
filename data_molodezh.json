@@ -2230,5 +2230,33 @@
       "messageId": null
     },
     "rowId": "mol-000297"
+  },
+  {
+    "row": 58,
+    "date": "2026-11-17",
+    "sum": 41397.93,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Кристал Джет",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "ПП №678 от 17.11.2026 (Кристалл Джет → ВИДИИКС СЕРВИСЕЗ - ФЗКО, 1 072 685,90 ₽), договор 210701/PJ от 01.07.2021",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000298"
   }
 ]
