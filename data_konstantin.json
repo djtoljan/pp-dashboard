@@ -1121,7 +1121,7 @@
     "date": "2026-11-16",
     "sum": 59975,
     "currency": "USD",
-    "company": "Z SOURCE",
+    "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(59 975 + 65) / 0,9965 = 60 251 USDT",
@@ -1144,9 +1144,9 @@
     },
     "rowId": "kon-000123",
     "companySource": {
-      "source": "order",
+      "source": "owner_instruction",
       "date": null,
-      "ref": "Заявка 59 975",
+      "ref": "Scream msg 63578 17.11.2026",
       "messageId": null
     },
     "companyProvisional": false,
