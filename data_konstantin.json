@@ -1174,7 +1174,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 17.11.2026 (📨 Константин Просто Группа, файл «PROFORMA INVOICE_26-010-000205.pdf») — PROFORMA INVOICE № 26-010-000205 от 10.11.2026, срок действия до 25.11.2026: продавец 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Srbija; matični br. 17485059, PIB 102893403, Tekući račun 325-9500600027464-11; 56A Deutsche Bank AG Frankfurt SWIFT DEUTDEFF, 57A OTP BANKA SRBIJA A.D. SWIFT OTPVRS22). Товар: кофемашины DeLonghi ECAM 22.110.W (31 шт) и ECAM 22.112.B (32 шт), пылесосы V16 Piston Animal Submarine (100 шт) и Miele Boost CX1 Graphite grey (60 шт); итого 223 ед. на 82 300,00 EUR, PDV 0%. Поля Kupac/Primalac в проформе ПУСТЫЕ — компания-плательщик в документе не указана, поэтому 🔴; Q8 не ставился.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
