@@ -2139,5 +2139,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 55,
+    "date": "2026-11-17",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "СКВЭР ТЭХ ЛИМИТЕД",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "301624320.00",
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Invoice No. 2 dd 17.11.2026 (Agency Agreement No. 1 dd 13.11.2026), ПП №66 от 17.11.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000295"
   }
 ]
