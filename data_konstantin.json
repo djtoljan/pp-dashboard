@@ -1200,7 +1200,7 @@
     "sum": 294750,
     "currency": "EUR",
     "company": "Q8 Group Limited",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(294750/0.901+65)/0.9965 = 328351 USDT (расчёт Scream 17.11.2026)",
     "extra": null,
