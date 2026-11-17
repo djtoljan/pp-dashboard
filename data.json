@@ -2958,7 +2958,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 17.11.2026 (📨 ВТС · t191 · транспорт оплата) — строка под INV CMV Lojistik № VCA2026000000332 от 12.10.2026 из поручения № 31 (ООО «ЕТЕ» → CMV Lojistik, четыре перевозки VCA2026000000331–0334); сам счёт ещё не приходил, приход рублей не поступал.",
+      "notes": "📄 17.11.2026 (📨 ВТС · t191 · транспорт оплата) — строка под INV CMV Lojistik № VCA2026000000332 от 12.10.2026 из поручения № 31 (ООО «ЕТЕ» → CMV Lojistik, четыре перевозки VCA2026000000331–0334); сам счёт ещё не приходил, приход рублей не поступал. |  | 📄 17.11.2026 (📨 ВТС · t191 · транспорт оплата, файл «16 BD 663 - 20 ZA 664 (1).pdf») — INVOICE CMV LOJİSTİK № VCA2026000000332 от 12.10.2026 (ETE LIMITED LIABILITY COMPANY, Москва, Научный проезд 17, пом. 37/15): перевозка TÜRKİYE–RUSYA (машины 16 BD 663 / 20 ZA 664), 12 250,00 USD, оплата на VAKIFBANK (SWIFT TVBATR2AXXX). Входит в поручение № 31 от 17.11.2026 (четыре счёта VCA2026000000331–0334); приход рублей ещё не поступал.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -2996,6 +2996,34 @@
         "messageId": null
       },
       "rowId": "main-000550"
+    },
+    {
+      "row": 84,
+      "date": "2026-11-17",
+      "sum": 25938,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "Инвойс услуг №78632 от 17.11.2026 (БиТрейд → ВТС), заявка 78632",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000551"
     }
   ]
 }
