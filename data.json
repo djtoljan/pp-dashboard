@@ -2895,14 +2895,14 @@
       "clientName": "ООО ЕТЕ",
       "costFormula": null,
       "extra": null,
-      "rubles_received": null,
+      "rubles_received": 1013075,
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 17.11.2026 (📨 ВТС · t191 · транспорт оплата, файл «20 ET 317 - 20 ZB 614 (1).pdf») — INVOICE CMV LOJİSTİK № VCA2026000000331 от 12.10.2026 (ETE LIMITED LIABILITY COMPANY, Москва, Научный проезд 17, пом. 37/15): перевозка TÜRKİYE–RUSYA (машины 20 ET 317 / 20 ZB 614), 1 рейс, 12 250,00 USD, оплата на VAKIFBANK (TR86000500158048023559420, SWIFT TVBATR2AXXX); рублёвый эквивалент в счёте 1 013 075,00 ₽. Приход от ООО «ЕТЕ» по ПП № 5188 — 1 013 075,00 ₽ (выписка ВТБ БиТрейд 17.11). | 📄 17.11.2026 (файл «инвойс услуги Би трейд 735,00 USD.pdf») — инвойс услуг БиТрейда № 31 от 17.11.2026 на ООО «ЕТЕ» (договор 2026/05/29-1 от 29.05.2026) по курсу 82,7 — 4 позиции посреднических услуг, справочно.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -2923,6 +2923,34 @@
       "clientName": "ООО ЕТЕ",
       "costFormula": null,
       "extra": null,
+      "rubles_received": 1013075,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "📄 17.11.2026 (📨 ВТС · t191 · транспорт оплата, файл «57 AC 902 - 57 ZA 349 (1).pdf») — INVOICE CMV LOJİSTİK № VCA2026000000334 от 12.10.2026 (ETE LIMITED LIABILITY COMPANY, Москва, Научный проезд 17, пом. 37/15): перевозка TÜRKİYE–RUSYA (машины 57 AC 902 / 57 ZA 349), 1 рейс, 12 250,00 USD, оплата на VAKIFBANK (TR860001500I58048023559420, SWIFT TVBATR2AXXX); рублёвый эквивалент в счёте 1 013 075,00 ₽. Приход от ООО «ЕТЕ» по ПП № 5189 — 1 013 075,00 ₽ (выписка ВТБ БиТрейд 17.11). | 📄 17.11.2026 (файл «инвойс услуги Би трейд 735,00 USD.pdf») — инвойс услуг БиТрейда № 31 от 17.11.2026 на ООО «ЕТЕ» (договор 2026/05/29-1 от 29.05.2026) по курсу 82,7 — 4 позиции посреднических услуг, справочно.",
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "CMV Lojistik invoice VCA2026000000334 от 12.10.2026 (ETE LLC, 57 AC 902 / 57 ZA 349)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000548"
+    },
+    {
+      "row": 82,
+      "date": "2026-11-17",
+      "sum": 12250,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО ЕТЕ",
+      "costFormula": null,
+      "extra": null,
       "rubles_received": null,
       "statementRef": null,
       "sent_rubles_vdx": null,
@@ -2933,13 +2961,13 @@
       "notes": null,
       "calc": null,
       "sumSource": {
-        "source": "invoice",
-        "ref": "CMV Lojistik invoice VCA2026000000334 от 12.10.2026 (ETE LLC, 57 AC 902 / 57 ZA 349)",
+        "source": "order",
+        "ref": "Поручение №31 от 17.11.2026 (ООО ЕТЕ → CMV Lojistik, 49 000 USD), инвойс VCA2026000000332",
         "file": null,
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000548"
+      "rowId": "main-000549"
     }
   ]
 }
