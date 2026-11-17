@@ -2229,7 +2229,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ВТС",
-      "costFormula": "1351705.38 ₽ ÷ 82,54 = 16376.37 USDT (Almeno)",
+      "costFormula": "(15950.22+65)/0.9965 = 16071 USDT (расчёт Scream 17.11.2026)",
       "extra": "input-инвойс_услуги_Би_трейд_78496---eea0373f-cfcd-457d-8f7c-69250c932570.pdf",
       "rubles_received": "1323554.04 / 28151.34",
       "statementRef": null,
