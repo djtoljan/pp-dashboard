@@ -2227,7 +2227,7 @@
       "sum": 15950.22,
       "currency": "USD",
       "company": "Q8 Group Limited",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ООО ВТС",
       "costFormula": "(15950.22+65)/0.9965 = 16071 USDT (расчёт Scream 17.11.2026)",
       "extra": "input-инвойс_услуги_Би_трейд_78496---eea0373f-cfcd-457d-8f7c-69250c932570.pdf",
@@ -3052,6 +3052,34 @@
         "messageId": null
       },
       "rowId": "main-000552"
+    },
+    {
+      "row": 86,
+      "date": "2026-11-17",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "scream",
+        "ref": "Заявка 53: с БиТрейд на Альмено 105 000,00 ₽ за комплектующие для светоосвещения",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000553"
     }
   ]
 }
