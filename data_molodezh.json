@@ -2202,5 +2202,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 57,
+    "date": "2026-11-17",
+    "sum": 26300,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Бьюти Брендз",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Поручение №6 от 17.11.2026 (Бьюти Брендз → VDX, Hebei Xiechu, инвойс БН 21.10.2026), ПП №140/141",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000297"
   }
 ]
