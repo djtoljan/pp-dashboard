@@ -2294,5 +2294,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 60,
+    "date": "2026-11-17",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "462773.86",
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "ПП №685 от 17.11.2026 (Вилог → ВиДиИкс Сервисез, 462 773,86 ₽, инвойс ITK-038-RCF261116-LN)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000301"
   }
 ]
