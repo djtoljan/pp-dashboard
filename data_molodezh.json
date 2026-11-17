@@ -2173,8 +2173,8 @@
     "date": "2026-11-17",
     "sum": 87300,
     "currency": "CNY",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "Евразия Логистика",
     "costFormula": null,
     "extra": null,
@@ -2185,7 +2185,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 17.11.2026 (📨 Молодежь · t14173 · «87 300,00 CNY Евразия Логистикс», файл «исполнено 1105218-12.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 208 от 17.11.2026 (МОРСКОЙ БАНК (АО), заверено ЭП Поплавская О.В.): плательщик ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, счёт 40807810700002236246) → получатель VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», счёт 40807810000000015414, БИК 044525555), сумма 1 105 218,12 ₽, назначение «{VO60081} Перевод в пользу HARBIN HEXIN SIFANG TRADE CO.,LTD, субагентский договор № СА-2026-3108-01 от 31.08.26, поручение 13 от 17.11.2026, оплата за авто». Банк исполнил 17.11.2026. sent_rubles_vdx = 1105218.12, exchange_to = VDX; сумма сделки 87 300,00 CNY — из сообщения; компания-плательщик не названа — 🔴.",
+    "notes": "📄 17.11.2026 (📨 Молодежь · t14173 · «87 300,00 CNY Евразия Логистикс», файл «исполнено 1105218-12.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 208 от 17.11.2026 (МОРСКОЙ БАНК (АО), заверено ЭП Поплавская О.В.): плательщик ЕВРАЗИЯ ЛОГИСТИКС КО., ЛТД (ИНН 9909757852, счёт 40807810700002236246) → получатель VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», счёт 40807810000000015414, БИК 044525555), сумма 1 105 218,12 ₽, назначение «{VO60081} Перевод в пользу HARBIN HEXIN SIFANG TRADE CO.,LTD, субагентский договор № СА-2026-3108-01 от 31.08.26, поручение 13 от 17.11.2026, оплата за авто». Банк исполнил 17.11.2026. sent_rubles_vdx = 1105218.12, exchange_to = VDX; сумма сделки 87 300,00 CNY — из сообщения; компания-плательщик не названа — 🔴. |  | 📄 17.11.2026 (📨 Молодежь · t14173, файл «payment order 87 300 CNY.docx») — PAYMENT ORDER от 17.11.2026: сумма 87 300,00 CNY; бенефициар HARBIN HEXINSIFANG TRADE CO., LTD (Rm4, 8th, Bldg A, Huayuan Comm Res, 306 Huayuan St, Nangang, Harbin, HLJ, CN), банк INDUSTRIAL BANK CO., LTD. HARBIN BRANCH (No.88 Huanghe Rd., Nangang District, Harbin, Heilongjiang, China), счёт 562030100100519548, SWIFT FJIBCNBA650; назначение «Payment for invoice no. 261696HXSAP dd 2026-11-12». Сумма совпала со строкой и с ПП № 208 на 1 105 218,12 ₽.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -2194,6 +2194,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000296"
+    "rowId": "mol-000296",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-17",
+      "ref": "Invoice 261696HXSAP dd 2026-11-12 (consignee Q8 GROUP LIMITED)",
+      "file": "invoice.docx"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
