@@ -828,7 +828,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 140748.71,
-    "notes": null,
+    "notes": "🔄 17.11.2026 (распоряжение Scream): оплата шла ЧЕРЕЗ наш Q8 — 140 800,00 USD ушло 16.11 с Al Safi на Q8 Group Limited (invoice 2110-Q8B, Contract BS-Q8G/2026/05/21, назначение «Prepayment for flowers»), этой суммой из Q8 оплачен цветочный инвойс Gulf Flowers (данная строка, заявка 140 327,72 USD). Отдельную строку не создавать; к учёту: списание Al Safi 140 800,00 USD vs расчёт 140 748,71 USDT = превышение 51,29 USD.",
     "calc": null,
     "sumSource": {
       "source": "order",
