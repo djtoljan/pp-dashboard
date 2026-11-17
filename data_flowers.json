@@ -804,5 +804,41 @@
       "ref": "telegram:7206154434#62929",
       "date": "2026-11-13"
     }
+  },
+  {
+    "row": 24,
+    "date": "2026-11-11",
+    "sum": 140327.72,
+    "currency": "USD",
+    "company": "Q8",
+    "color": "FFFFFFFF",
+    "clientName": "Gulf Flowers FZCO (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Заявка 140 327,72 USD",
+      "file": "Заявка 140 327",
+      "date": "2026-11-11",
+      "messageId": null
+    },
+    "rowId": "flw-000210",
+    "companySource": {
+      "source": "order",
+      "date": "2026-11-11",
+      "ref": "Заявка 140 327",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
