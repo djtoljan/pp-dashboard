@@ -1156,5 +1156,33 @@
       "ref": "FINIVEST AI msg 63568, 17.11.2026 (C$AI, расчёт оператора)",
       "date": "2026-11-17"
     }
+  },
+  {
+    "row": 33,
+    "date": "2026-11-17",
+    "sum": 82300,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "PROFORMA INVOICE 26-010-000205 от 10.11.2026 (220-B d.o.o.)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000124"
   }
 ]
