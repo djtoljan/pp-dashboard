@@ -2264,8 +2264,8 @@
     "date": "2026-11-17",
     "sum": 20862,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": null,
     "extra": null,
@@ -2285,6 +2285,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000299"
+    "rowId": "mol-000299",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-16",
+      "ref": "CL2026116001",
+      "file": "20862_USD_INVOICE_SHEN_ZHEN_SHI_NI_ZHOU_KE_JI_YOU_XIAN_GONG_SI_2.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
