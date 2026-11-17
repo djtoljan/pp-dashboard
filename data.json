@@ -2784,6 +2784,34 @@
         "messageId": null
       },
       "rowId": "main-000541"
+    },
+    {
+      "row": 77,
+      "date": "2026-11-17",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "Дре Русланд",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "scream",
+        "ref": "Заявка 70: с Блэкшарк ЭТБ на Альмено 1 527 282,09 ₽ за мебель",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000542"
     }
   ]
 }
