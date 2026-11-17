@@ -1162,8 +1162,8 @@
     "date": "2026-11-17",
     "sum": 82300,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -1174,7 +1174,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 17.11.2026 (📨 Константин Просто Группа, файл «PROFORMA INVOICE_26-010-000205.pdf») — PROFORMA INVOICE № 26-010-000205 от 10.11.2026, срок действия до 25.11.2026: продавец 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Srbija; matični br. 17485059, PIB 102893403, Tekući račun 325-9500600027464-11; 56A Deutsche Bank AG Frankfurt SWIFT DEUTDEFF, 57A OTP BANKA SRBIJA A.D. SWIFT OTPVRS22). Товар: кофемашины DeLonghi ECAM 22.110.W (31 шт) и ECAM 22.112.B (32 шт), пылесосы V16 Piston Animal Submarine (100 шт) и Miele Boost CX1 Graphite grey (60 шт); итого 223 ед. на 82 300,00 EUR, PDV 0%. Поля Kupac/Primalac в проформе ПУСТЫЕ — компания-плательщик в документе не указана, поэтому 🔴; Q8 не ставился.",
+    "notes": "📄 17.11.2026 (📨 Константин Просто Группа, файл «PROFORMA INVOICE_26-010-000205.pdf») — PROFORMA INVOICE № 26-010-000205 от 10.11.2026, срок действия до 25.11.2026: продавец 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Srbija; matični br. 17485059, PIB 102893403, Tekući račun 325-9500600027464-11; 56A Deutsche Bank AG Frankfurt SWIFT DEUTDEFF, 57A OTP BANKA SRBIJA A.D. SWIFT OTPVRS22). Товар: кофемашины DeLonghi ECAM 22.110.W (31 шт) и ECAM 22.112.B (32 шт), пылесосы V16 Piston Animal Submarine (100 шт) и Miele Boost CX1 Graphite grey (60 шт); итого 223 ед. на 82 300,00 EUR, PDV 0%. Поля Kupac/Primalac в проформе ПУСТЫЕ — компания-плательщик в документе не указана, поэтому 🔴; Q8 не ставился. |  | 📄 17.11.2026 (📨 Константин Просто Группа, файл «82 300.00 EUR (17.11.2026).xlsx» — заявка на платёж) — ЗАЯВКА: сумма 82 300,00 EUR; бенефициар 220-B d.o.o. (Bosanska 47, 11224 Vrčin, Srbija), банк OTP BANKA SRBIJA A.D. (Bulevar Oslobođenja 80, Novi Sad, Srbija), SWIFT OTPVRS22, счёт RS35325960160000415772; назначение «Payment for household appliances to invoice No. 26-010-000205 dd 10.11.2026». Сумма заявки = сумме проформы и сумме строки. Плательщик/компания в заявке не указаны — Q8 документально не подтверждён, строка остаётся 🔴.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1183,6 +1183,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000124"
+    "rowId": "kon-000124",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": "2026-11-17",
+      "ref": "В оплату с q8 (Константин Просто Группа)",
+      "messageId": "63662"
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
