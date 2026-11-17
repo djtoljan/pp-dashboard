@@ -1016,7 +1016,7 @@
     "company": "ALTERA",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "(30831.58*1.0025+80)*1.09923078 = 34064 USDT (кросс EUR/USD 1.09923078 Scream 17.11.2026)",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
