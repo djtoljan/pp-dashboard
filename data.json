@@ -2848,6 +2848,42 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 79,
+      "date": "2026-11-17",
+      "sum": 64002,
+      "currency": "EUR",
+      "company": "ATB Service GmbH",
+      "color": "FFFFFFFF",
+      "clientName": "Андрей Шибаев",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "INV 1/70",
+        "file": null,
+        "date": "2026-11-17",
+        "messageId": "20063"
+      },
+      "rowId": "main-000546",
+      "companySource": {
+        "source": "owner_instruction",
+        "date": "2026-11-17",
+        "ref": null,
+        "messageId": "20063"
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
