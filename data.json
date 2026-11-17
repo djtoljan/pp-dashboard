@@ -2441,7 +2441,7 @@
       "sum": 37931,
       "currency": "EUR",
       "company": null,
-      "color": "FFFF0000",
+      "color": "FFFFFFFF",
       "clientName": "Дре Русланд",
       "costFormula": "(12000*1.0025+80)*1.10023 = 13324 USDT (расчёт Scream 17.11.2026)",
       "extra": null,
