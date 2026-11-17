@@ -214,5 +214,33 @@
       "messageId": null
     },
     "rowId": "d78-000056"
+  },
+  {
+    "row": 7,
+    "date": "2026-11-17",
+    "sum": 149893.77,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "27761.57",
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Поручение №96 от 17.11.2026 (Балтик лэнд → Блэкшарк Трейд, 149 893,77 CNY)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "d78-000057"
   }
 ]
