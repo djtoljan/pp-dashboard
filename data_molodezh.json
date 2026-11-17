@@ -2167,5 +2167,33 @@
       "messageId": null
     },
     "rowId": "mol-000295"
+  },
+  {
+    "row": 56,
+    "date": "2026-11-17",
+    "sum": 87300,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Евразия Логистика",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Поручение 13 от 17.11.2026 (ПП №208, VDX, субагентский договор СА-2026-3108-01)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000296"
   }
 ]
