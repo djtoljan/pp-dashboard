@@ -153,11 +153,13 @@ function build() {
       const vtbRoute = /ВТБ|VTB/i.test(String(r.exchange_to || ''));
       // 🚨 Также исключаем рубли с маршрутом на Альмена (Almeno/Al Safi) — это тоже обмен, но не VDX.
       const oltreRoute = /almeno|al\s*safi/i.test(String(r.exchange_to || ''));
-      // 🚨 15.11.2026 (Scream): «закрыто» — вопрос к закрытиям ЛЮБОГО вида, а не к пустому полю.
-      // Отправка, вид отправки, зачёт в счёт возврата, directToExchanger, тип сделки без отправки,
-      // линия А — всё это закрытие (closure.js). Пустое поле само по себе ничего не значит.
+      // 🚨 17.11.2026 (Scream): в дашборде раздел «Рубли не отправлены на обмен» показывает
+      // ТОЛЬКО реальную отправку. Вид отправки (sendKind) и линия (А) закрытием для дашборда
+      // НЕ считаются — такие строки в разделе не нужны. Остальные закрытия (отправка,
+      // зачёт возврата, directToExchanger, тип сделки без отправки) — по-прежнему закрывают.
       const closure = closureOf(r);
-      if (!closure.closed && !vtbRoute && !oltreRoute) {
+      const closedByKindOrLine = closure.code === 'SEND_KIND' || closure.code === 'LINE_A';
+      if (!closure.closed && !closedByKindOrLine && !vtbRoute && !oltreRoute) {
         waitVdx.push(entry);
       }
 
