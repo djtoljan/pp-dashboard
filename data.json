@@ -2538,7 +2538,7 @@
       "sum": 82520.25,
       "currency": "USD",
       "company": "Q8 Group Limited",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ООО «ВТС»",
       "costFormula": "82 520,25 USD: (82 520,25 + 65) / 0,9965 = 82 875 USDT (оператор 17.11.2026)",
       "extra": null,
