@@ -2818,8 +2818,8 @@
       "date": "2026-11-17",
       "sum": 1245,
       "currency": "USD",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "Q8 Group Limited",
+      "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
       "costFormula": null,
       "extra": null,
@@ -2830,7 +2830,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 17.11.2026 (📨 ВТС · t7639 · «1 245,00 USD / заявка 75562 (2ч)», файл «инвойс услуги Би трейд 75562 (2ч).pdf») — ИНВОЙС услуг ОсОО «БиТрейд Кей Джи» (ИНН/КПП 9909705572/772887001) № 75562 от 03.11.2026 по договору 27062025TК/1 от 24.06.2025 покупателю ООО «ВТС» (ИНН/КПП 7735171132/772601001): посреднические услуги по расчётам с иностранным поставщиком по курсу 82,7000 (сумма услуг — справочно в инвойсе, в денежные поля не идёт). Сумма сделки 1 245,00 USD — из сообщения по заявке 75562 (вторая часть); поручение и инвойс поставщика ещё не приходили, компания-плательщик не названа — 🔴. |  | 📄 17.11.2026 (📨 ВТС · t7639 · «1 245,00 USD / заявка 75562 (2ч)», файл «Поручение 75562.pdf») — ПОРУЧЕНИЕ № 75562 от 17.11.2026 (Приложение № 2 к договору № 27062025TК/1 от 24.06.2025): принципал ООО «ВТС» → агент ОсОО «БиТрейд Кей Джи»; платёж 1 245,00 USD по инвойсу PI261113IB06 от 13.11.2026; получатель HK INBRIGHT LIGHTING CO., LIMITED (8/F Building 2, No 442 Wuyi Road, Jianghai District, Jiangmen City, Guangdong 529000, China), China CITIC Bank International Limited, SWIFT KWHKHKHH, счёт 76212 7341 001, адрес банка 61-65 Des Voeux Road Central, Hong Kong; курс 82,7000; комиссия агента 1,5% + 100 USD. Сумма поручения совпала со строкой.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -2839,7 +2839,15 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000543"
+      "rowId": "main-000543",
+      "companySource": {
+        "source": "invoice",
+        "date": "2026-11-17",
+        "ref": "PI261113IB06 dd 2026-11-13 (To: Q8 GROUP LIMITED)",
+        "file": "PI261113IB06_2026-11-13_PI_to_Natalya.pdf"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
