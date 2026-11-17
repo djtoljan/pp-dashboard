@@ -1853,7 +1853,7 @@
     "date": "2026-11-13",
     "sum": 57870.92,
     "currency": "EUR",
-    "company": "-",
+    "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "АО «Фри Лайнс Компани»",
     "costFormula": "(57 870,92 / 0,901 + 65) / 0,9965 = 64 520 USDT",
@@ -1876,14 +1876,13 @@
     },
     "rowId": "mol-000278",
     "companySource": {
-      "source": "foreign_pp",
-      "file": "5.473.723",
-      "txid": null,
-      "ref": "5246",
-      "date": null
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 63559 17.11.2026",
+      "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": true,
+    "companyVerified": false,
     "directToExchanger": true,
     "vdxRateSource": {
       "kind": "scream-order",
@@ -1942,7 +1941,7 @@
     "date": "2026-11-13",
     "sum": 22400,
     "currency": "USD",
-    "company": "-",
+    "company": "Q8",
     "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": "(22 400 + 65) / 0,9965 = 22 544 USDT",
@@ -1965,14 +1964,13 @@
     },
     "rowId": "mol-000280",
     "companySource": {
-      "source": "foreign_pp",
-      "file": "rpp_682.pdf",
-      "txid": null,
-      "ref": "682",
-      "date": null
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 63559 17.11.2026",
+      "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": true,
+    "companyVerified": false,
     "directToExchanger": true,
     "vdxRateSource": {
       "kind": "scream-order",
