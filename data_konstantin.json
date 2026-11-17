@@ -1124,7 +1124,7 @@
     "company": "Z SOURCE",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "(59 975 + 65) / 0,9965 = 60 251 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1132,8 +1132,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 60304.86,
-    "sent_usdt": null,
-    "notes": "📄 16.11.2026 (📨 Константин Просто Группа, файл «59 975 USD (16.11.2026) (1).xlsx») — ЗАЯВКА на платёж 59 975,00 USD: бенефициар JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, P.O. Box 34659, Dubai, UAE), United Arab Bank (Dubai, UAE), IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, корсчёт USD — The Bank of New York Mellon (IRVTUS3NXXX); назначение «Payment for perfumery products under commercial invoice No. 26807234 dated 11.11.2026, 100% advance. Purpose of payment code: GDI»; HS 3303; ремиттер — Z SOURCE LIMITED (DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH). Это вторая часть инвойса 26807234 (всего 169 975,00 USD — справочно; первая часть 110 000,00 USD — см. r28). Компания в строке Z SOURCE (ремиттер из заявки) — ⬜; расчёт себестоимости ждём от оператора. | Расчёт для Константина: 59 975,00 x 1,0055 = 60 304,86 USDT (не себестоимость)",
+    "sent_usdt": 60251,
+    "notes": "📄 16.11.2026 (📨 Константин Просто Группа, файл «59 975 USD (16.11.2026) (1).xlsx») — ЗАЯВКА на платёж 59 975,00 USD: бенефициар JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, P.O. Box 34659, Dubai, UAE), United Arab Bank (Dubai, UAE), IBAN AE68 0460 0010 3402 5987 002 (USD), SWIFT UARBAEAAXXX, корсчёт USD — The Bank of New York Mellon (IRVTUS3NXXX); назначение «Payment for perfumery products under commercial invoice No. 26807234 dated 11.11.2026, 100% advance. Purpose of payment code: GDI»; HS 3303; ремиттер — Z SOURCE LIMITED (DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH). Это вторая часть инвойса 26807234 (всего 169 975,00 USD — справочно; первая часть 110 000,00 USD — см. r28). Компания в строке Z SOURCE (ремиттер из заявки) — ⬜; расчёт себестоимости ждём от оператора. | Расчёт для Константина: 59 975,00 x 1,0055 = 60 304,86 USDT (не себестоимость) | расчёт оператора 17.11.2026 (FINIVEST AI msg 63568): (59 975 + 65) / 0,9965 = 60 251 USDT | 🛡️ 17.11.2026: движение OUT 60251 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:32).",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -1150,6 +1150,11 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "FINIVEST AI msg 63568, 17.11.2026 (C$AI, расчёт оператора)",
+      "date": "2026-11-17"
+    }
   }
 ]
