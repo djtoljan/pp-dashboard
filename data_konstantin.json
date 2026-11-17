@@ -1198,8 +1198,8 @@
     "date": "2026-11-17",
     "sum": 294750,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -1219,6 +1219,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000125"
+    "rowId": "kon-000125",
+    "companySource": {
+      "source": "order",
+      "date": "2026-11-17",
+      "ref": "ORDER SEB 294 750",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
