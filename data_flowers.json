@@ -816,10 +816,10 @@
     "date": "2026-11-11",
     "sum": 140327.72,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Q8 Al Safi",
     "color": "FFFFFFFF",
     "clientName": "Gulf Flowers FZCO (Цветы)",
-    "costFormula": null,
+    "costFormula": "140 327,72 + 0,3% = 140 748,71 USDT (Q8 Al Safi, без +30)",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -827,7 +827,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 140748.71,
     "notes": null,
     "calc": null,
     "sumSource": {
@@ -840,11 +840,16 @@
     "rowId": "flw-000210",
     "companySource": {
       "source": "order",
-      "date": "2026-11-11",
-      "ref": "Заявка 140 327",
+      "date": null,
+      "ref": "OUT0000000050389",
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction, DM Scream, 17.11.2026, msg 20002 — расчёт по Gulf через Al Safi",
+      "date": "2026-11-17"
+    }
   }
 ]
