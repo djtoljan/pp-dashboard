@@ -2767,7 +2767,7 @@
       "clientName": "ООО «ВТС»",
       "costFormula": null,
       "extra": null,
-      "rubles_received": null,
+      "rubles_received": "1235538.00 / 26803.07",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
