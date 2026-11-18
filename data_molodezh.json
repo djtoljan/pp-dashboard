@@ -2165,7 +2165,19 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000295"
+    "rowId": "mol-000295",
+    "payment_facts": [
+      {
+        "entryId": "OUT_3649980_17.11.2026_1794969822816",
+        "ref": "dd52c3a96382",
+        "txid": "dd52c3a96382",
+        "bobrAlertId": null,
+        "date": "17.11.2026",
+        "direction": "OUT",
+        "amount": 3649980,
+        "rowId": "mol-000295"
+      }
+    ]
   },
   {
     "row": 56,
