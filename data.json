@@ -3226,6 +3226,28 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000556"
+    },
+    {
+      "row": 90,
+      "date": "2026-11-18",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ФИНИНВЕСТ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "8792964.25",
+      "statementRef": "ПОЧТОБАНК 40807810100157518600, предварительная выписка 17.11–18.11.2026, Кт ПП №109 от 18.11.2026 — {VO60081} оплата по Агентскому Договору",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: ПОЧТОБАНК 40807810100157518600, предварительная выписка 17.11–18.11.2026, Кт ПП №109 от 18.11.2026 — {VO60081} оплата по Агентскому Договору",
+      "calc": null,
+      "sumSource": null,
+      "rowId": "main-000557"
     }
   ]
 }
