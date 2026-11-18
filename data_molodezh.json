@@ -2343,5 +2343,33 @@
       "messageId": null
     },
     "rowId": "mol-000301"
+  },
+  {
+    "row": 61,
+    "date": "2026-11-18",
+    "sum": 23773.86,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Бестакватикс (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Invoices Best Aqua № 137/09/2026 от 21.09.2026 и № 160/11/2026 от 01.11.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000302"
   }
 ]
