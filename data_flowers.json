@@ -892,5 +892,27 @@
       "ref": "owner_instruction: Заявки/расчеты JP Morgan Q8-0084, msg 64128, 18.11.2026",
       "date": "2026-11-18"
     }
+  },
+  {
+    "row": 26,
+    "date": "2026-11-18",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "АРОМАТНЫЙ ПУТЬ (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": null,
+    "rowId": "flw-000213"
   }
 ]
