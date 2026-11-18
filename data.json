@@ -3143,8 +3143,8 @@
       "date": "2026-11-17",
       "sum": 2000,
       "currency": "EUR",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "PQ18",
+      "color": "FFFFFFFF",
       "clientName": "ФИНИНВЕСТ",
       "costFormula": null,
       "extra": null,
@@ -3155,7 +3155,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 17.11.2026 (📨 IBR 3088, файл «Arve_171.pdf», комментарий «заявка — оплатить 2000 евро») — СЧЁТ (ARVE) № 171 от 16.11.2026: продавец JAHHwork OÜ (Tartu mt 18-51, 10115 Tallinn, Eesti; тел. 6604040, jkalda@me.com), покупатель FiNiNVEST ULUSLARARASI TiCARET ANONiM SiRKETi (Ataturk Mah. Ertugrul Gazi Sk. Metropol, Kasahstan); позиция «8 osa müük» — 2,00 шт. × 1 000,00 = 2 000,00 EUR, НДС 0%; срок оплаты 23.11.2026 (7 дней), reference RF15171007, клиентский номер 57. Компания-плательщик в документе не названа — 🔴.",
+      "notes": "📄 17.11.2026 (📨 IBR 3088, файл «Arve_171.pdf», комментарий «заявка — оплатить 2000 евро») — СЧЁТ (ARVE) № 171 от 16.11.2026: продавец JAHHwork OÜ (Tartu mt 18-51, 10115 Tallinn, Eesti; тел. 6604040, jkalda@me.com), покупатель FiNiNVEST ULUSLARARASI TiCARET ANONiM SiRKETi (Ataturk Mah. Ertugrul Gazi Sk. Metropol, Kasahstan); позиция «8 osa müük» — 2,00 шт. × 1 000,00 = 2 000,00 EUR, НДС 0%; срок оплаты 23.11.2026 (7 дней), reference RF15171007, клиентский номер 57. Компания-плательщик в документе не названа — 🔴. | 📄 18.11.2026 (📨 Заявки PQ18, файл «Arve_171.pdf», комментарий «прислали исправленный счет на 2000 евро - PQ18») — ИСПРАВЛЕННЫЙ СЧЁТ (ARVE) № 171 от 16.11.2026: продавец JAHHwork OÜ (Tartu mt 18-51, 10115 Tallinn, Eesti), покупатель PQ18 Limited (Hong Kong), клиентский номер 58; позиция «8 osa müük» 2,00 × 1 000,00 = 2 000,00 EUR, НДС 0%; срок 23.11.2026, reference RF15171007; Paysera LT, UAB, IBAN LT203500010005638380, BIC EVIULT21XXX. Сумма не менялась — исправлен покупатель (было FiNiNVEST, клиент №57).",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -3164,7 +3164,15 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000552"
+      "rowId": "main-000552",
+      "companySource": {
+        "source": "invoice",
+        "date": "16.11.2026",
+        "ref": "ARVE 171 / 16.11.2026",
+        "file": "Arve_171.pdf"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     },
     {
       "row": 86,
