@@ -3288,6 +3288,34 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000557"
+    },
+    {
+      "row": 91,
+      "date": "2026-11-18",
+      "sum": 31984.34,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Дре Русланд",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "Faktura VAT/DEX 214/26/DEX от 18.09.2026 (EXTOM-MEBLE)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000558"
     }
   ]
 }
