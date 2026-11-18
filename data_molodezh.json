@@ -2361,7 +2361,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 18.11.2026 (📨 Молодежь · t14287 · «23 773,86 USD Best Aqua») — INVOICES Best Aqua (Bangkok, Thailand; покупатель ООО «Бестакватикс», Ship To 109507 Moscow, Ferghansky passage 7 bld 4; HS 0602909900 — живые растения): № 137/09/2026 от 21.09.2026 (Customer 479/19/2026), № 144/10/2026 от 04.10.2026 (Customer 479/20/2026), № 160/11/2026 от 01.11.2026 (Customer 479/22/2026). Одна заявка на 23 773,86 USD (прецедент Scream 09.09.2026: все инвойсы Best Aquatics — одна заявка клиента Бестакватикс); компания-плательщик не названа — 🔴. | 📄 18.11.2026 (📨 Молодежь · t14287 · «23 773,86 USD Best Aqua») — INVOICE № 152/10/2026 от 19.10.2026 (Customer 479/21/2026), Best Aqua (Bangkok), Ship To 109507 Moscow, Ferghansky passage 7 bld 4, HS 0602909900 — живые растения; входит в ту же заявку 23 773,86 USD (см. r61).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -2371,5 +2371,33 @@
       "messageId": null
     },
     "rowId": "mol-000302"
+  },
+  {
+    "row": 62,
+    "date": "2026-11-18",
+    "sum": 16009.66,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Бестакватикс (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Invoice-SERV № 2026/10 от 17.11.2026 (WHITE CRANE CO.,LTD.)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000303"
   }
 ]
