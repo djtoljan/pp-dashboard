@@ -1987,7 +1987,7 @@
     "sum": null,
     "currency": "USD",
     "company": null,
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "СКВЭР ТЭХ ЛИМИТЕД",
     "costFormula": "обмен руб→USDT: пришло 502 174,67 USDT, выплачено клиенту 500 000,00 USDT — остаток 2 174,67 USDT прибыль",
     "extra": null,
