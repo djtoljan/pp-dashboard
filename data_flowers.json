@@ -851,5 +851,41 @@
       "ref": "owner_instruction, DM Scream, 17.11.2026, msg 20002 — расчёт по Gulf через Al Safi",
       "date": "2026-11-17"
     }
+  },
+  {
+    "row": 25,
+    "date": "2026-11-18",
+    "sum": 20619.72,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "ModestoGroup (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "INVOICE FL01/181126 dd 18.11.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "flw-000211",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "INVOICE FL01/181126 dd 18.11.2026 (ModestoGroup OU)",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
