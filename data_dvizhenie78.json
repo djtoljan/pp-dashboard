@@ -167,7 +167,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Балтик Лэнд (Движение 78)",
-    "costFormula": null,
+    "costFormula": "(9 625,00 + 50,00) ÷ 0,9965 = 9 708,98 USDT (JP Morgan, заявка 77)",
     "extra": null,
     "rubles_received": "802725.00 / 20582.29",
     "statementRef": null,
@@ -193,7 +193,12 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction: пересчёт Ramsy, msg 64073, 18.11.2026",
+      "date": "2026-11-18"
+    }
   },
   {
     "row": 6,

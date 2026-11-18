@@ -2043,7 +2043,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ВТС",
-      "costFormula": "1618160.91 ₽ ÷ 82,54 = 19604.57 USDT (Almeno)",
+      "costFormula": "(19 111,59 + 50,00) ÷ 0,9965 = 19 228,89 USDT (JP Morgan, заявка 78)",
       "extra": null,
       "rubles_received": "1586070.85 / 32090.06",
       "statementRef": null,
@@ -2068,8 +2068,8 @@
       "payerInnSource": "выписка VTB_битрейд_12.11.2026-13.11.2026_138618---da445559-d4dc-43a3-b763-a2679221070b.pdf: счёт 40702810738000140608; дата 12.11.2026; № 5149",
       "costSource": "operator",
       "costSourceRef": {
-        "ref": "owner_instruction, DM Scream 17.11.2026, курс 82,54 (файл Альмено)",
-        "date": "2026-11-17"
+        "ref": "owner_instruction: пересчёт Ramsy, msg 64073, 18.11.2026",
+        "date": "2026-11-18"
       },
       "vdxRateSource": {
         "kind": "scream-file",
@@ -2665,7 +2665,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": "45 200,00 CNY ÷ 6,616476 = 6 831,44 + 50,00 = 6 881,44; 50,00 ÷ 0,9965 = 50,18 → 6 931,62 USDT (JP Morgan, заявка 183)",
+      "costFormula": "45 200,00 CNY ÷ 6,616476 = 6 831,44; (6 831,44 + 50,00) ÷ 0,9965 = 6 905,60 USDT (JP Morgan, заявка 83)",
       "extra": null,
       "rubles_received": "565000.00 / 16735.00",
       "statementRef": "ВТБ · БиТрейд 40807810525640000008 · ПП №5182 (тело) и №5183 (услуги) от 16.11.2026",
@@ -2694,7 +2694,7 @@
       "companyVerified": false,
       "costSource": "operator",
       "costSourceRef": {
-        "ref": "owner_instruction: топик «Заявки/расчеты JP Morgan», msg 64071, 18.11.2026",
+        "ref": "owner_instruction: пересчёт Ramsy, msg 64073, 18.11.2026",
         "date": "2026-11-18"
       }
     },
@@ -2859,7 +2859,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": null,
+      "costFormula": "(1 245,00 + 50,00) ÷ 0,9965 = 1 299,55 USDT (JP Morgan, заявка 81)",
       "extra": null,
       "rubles_received": "102961.50 / 9814.42",
       "statementRef": null,
@@ -2885,7 +2885,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "owner_instruction: пересчёт Ramsy, msg 64073, 18.11.2026",
+        "date": "2026-11-18"
+      }
     },
     {
       "row": 79,
