@@ -3459,6 +3459,42 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 96,
+      "date": "2026-11-18",
+      "sum": 29100,
+      "currency": "USD",
+      "company": "Q8 Group Limited",
+      "color": "FFFFFFFF",
+      "clientName": "КГ бр (Аренда)",
+      "costFormula": null,
+      "extra": "📄 18.11.2026 (📨 КГ бр (Аренда), файл «inv Prodema q8 SCB -29-10-26.docx») — INVOICE № 2600120 dd 29.10.2026: PRODEMA LIMITED → Q8 GROUP LIMITED (плательщик Q8, тема КГ бр (Аренда)); consulting services 20–23.10.2026, 24,25 ч × US$ 1 200 = 29 100,00 USD, payment as per Agreement 14-05-2026. Банк: Standard Chartered Bank (Hong Kong) Limited, счёт 36896597748, SWIFT SCBLHKHH. Компания-плательщик Q8 → ⬜",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "INVOICE 2600120",
+        "file": "inv_Prodema_q8_SCB_-29-10-26.docx",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000566",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "2600120",
+        "file": "inv_Prodema_q8_SCB_-29-10-26.docx"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
