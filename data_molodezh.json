@@ -2075,7 +2075,7 @@
     "company": "PQ18",
     "color": "FFFFFFFF",
     "clientName": "Евразия Логистика",
-    "costFormula": "3 635 000 / 158,791350265847 + 0,3% + 30 = 22 919,30",
+    "costFormula": "3 635 000,00 / 157,644514 + 50,00 + 50,18 = 23 158,39 USDT (Q8 JP Morgan 18.11.2026: USD/JPY 158,82684783 / 1,0075 = 157,644514)",
     "extra": null,
     "rubles_received": null,
     "statementRef": "МОРСКОЙ БАНК (АО) — ПП №204 от 16.11.2026 исполнено",
