@@ -3334,7 +3334,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 18.11.2026 (📨 ИП Мазуренко И.А. — Fininvest/ЭТБ, файл «Skaitytuvas_20261118_261118_103427.pdf») — СЧЁТ-ФАКТУРА (Sąskaita faktūra) № LAS000000413 от 18.11.2026: продавец MB LASKELA (Kalnų g. 29, Varniškių km., Vilniaus raj.; код 306335453), банк AS Citadele bankas (код 72900), счёт LT167290099017528052; покупатель IĮ Ivan Mazurenko (Klaipėdos Naberėžnaja Kartyševo 20-5; код 390701068179); позиция «Draudimo įmokos pagal sutartį» (страховые взносы по договору) — 15 000,00 EUR, НДС не указан. Компания-плательщик не названа — 🔴, ждём поручение/заявку.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
