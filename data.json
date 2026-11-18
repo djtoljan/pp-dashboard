@@ -3351,6 +3351,34 @@
         "messageId": null
       },
       "rowId": "main-000559"
+    },
+    {
+      "row": 93,
+      "date": "2026-11-18",
+      "sum": 44286.5,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "scream",
+        "ref": "ВТС t7739: заявка 75220 (2-я часть), 44 286,50 EUR; инвойс Itrix 75220 от 08.09.2026 на 85 407,25 EUR",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000560"
     }
   ]
 }
