@@ -2599,7 +2599,7 @@
       "sum": 42525.73,
       "currency": "EUR",
       "company": "PQ18",
-      "color": "FFFFFFFF",
+      "color": "FF92D050",
       "clientName": "ООО «ВТС»",
       "costFormula": "42 525,73 / 0,908469239613 (FX Q8 18.11.2026: 1 USD = 0,908469239613 EUR) + 0,3% + 30 = 46 980,74 USDT",
       "extra": null,
