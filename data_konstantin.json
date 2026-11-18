@@ -1233,7 +1233,7 @@
   {
     "row": 35,
     "date": "2026-11-18",
-    "sum": 13495,
+    "sum": 17633.28,
     "currency": "EUR",
     "company": null,
     "color": "FFFF0000",
@@ -1247,11 +1247,11 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 18.11.2026 (📨 Константин Просто Группа, файл «Ligo_Electric_13_495_00_EUR_260002016.xlsx») — ПЛАТЁЖНЫЕ РЕКВИЗИТЫ: 13 495,00 EUR, получатель LIGO ELECTRIC SA (Via Ponte Laveggio 9, CH-6853 Ligornetto, Switzerland), UBS Switzerland AG (Bahnhofstrasse 45, 8001 Zurich), SWIFT UBSWCHZH80A, счёт CH230024724724807660M; назначение «Payment for proforma invoice 260002016 dd 12.11.2026. Charges: OUR». 📄 18.11.2026 (тот же топик, файл «Ligo_260002016_redacted.pdf») — ORDER CONFIRMATION / PROFORMA INVOICE Nr. 260002016 от 12/11/2026 (LIGO ELECTRIC SA, Your Ref 13586): 603.01B EU STYLER TURBO STYLE 1000 TOURMALINE (код 56030117, origin CN), 672 шт. × 26,24 = 17 633,28 EUR; НДС 0%; Total EUR 17 633,28; оплата 100% аванс; Ex Works; поставка 30/04/2027. ⚠️ Сумма платежа 13 495,00 EUR ≠ итог проформы 17 633,28 EUR — платёж частичный, остаток 4 138,28 EUR.",
+    "notes": "📄 18.11.2026 (📨 Константин Просто Группа, файл «Ligo_Electric_13_495_00_EUR_260002016.xlsx») — ПЛАТЁЖНЫЕ РЕКВИЗИТЫ: 13 495,00 EUR, получатель LIGO ELECTRIC SA (Via Ponte Laveggio 9, CH-6853 Ligornetto, Switzerland), UBS Switzerland AG (Bahnhofstrasse 45, 8001 Zurich), SWIFT UBSWCHZH80A, счёт CH230024724724807660M; назначение «Payment for proforma invoice 260002016 dd 12.11.2026. Charges: OUR». 📄 18.11.2026 (тот же топик, файл «Ligo_260002016_redacted.pdf») — ORDER CONFIRMATION / PROFORMA INVOICE Nr. 260002016 от 12/11/2026 (LIGO ELECTRIC SA, Your Ref 13586): 603.01B EU STYLER TURBO STYLE 1000 TOURMALINE (код 56030117, origin CN), 672 шт. × 26,24 = 17 633,28 EUR; НДС 0%; Total EUR 17 633,28; оплата 100% аванс; Ex Works; поставка 30/04/2027. ⚠️ Сумма платежа 13 495,00 EUR ≠ итог проформы 17 633,28 EUR — платёж частичный, остаток 4 138,28 EUR. | 💱 18.11.2026 (📨 Ордера и Расчеты !) — PAYMENT FROM PROMETIX: бенефициар LIGO ELECTRIC SA (Via Ponte Laveggio 9, CH-6853 Ligornetto, Switzerland), UBS Switzerland AG (Bahnhofstrasse 45, 8001 Zurich), SWIFT UBSWCHZH80A, счёт CH230024724724807660M; назначение «INV.260002016 dd 12.11.2026»; сумма 17 633,28 EUR; комиссии OUR. Это полная сумма проформы 260002016 — прежние реквизиты на 13 495,00 EUR были частичной суммой; сумма строки приведена к ордеру. Плательщик PROMETIX — компании нет в companies.json, поле company не заполнено.",
     "calc": null,
     "sumSource": {
-      "source": "invoice",
-      "ref": "Proforma invoice 260002016 dd 12.11.2026 (LIGO ELECTRIC SA)",
+      "source": "order",
+      "ref": "Ордера и Расчеты: Payment from PROMETIX, INV.260002016 dd 12.11.2026, 17 633,28 EUR",
       "file": null,
       "date": null,
       "messageId": null
