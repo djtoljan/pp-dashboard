@@ -320,5 +320,33 @@
       "messageId": null
     },
     "rowId": "d78-000059"
+  },
+  {
+    "row": 10,
+    "date": "2026-11-18",
+    "sum": 14312.5,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Оникс (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Поручение №38 от 18.11.2026 (Оникс → Блэкшарк, 14 312,50 CNY)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "d78-000060"
   }
 ]
