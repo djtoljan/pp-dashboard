@@ -869,7 +869,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 18.11.2026 (📨 Цветы, файл «ModestoGroup_FL01_181126_20619_72_USD_OLD_STYLE.pdf») — INVOICE No. FL01/181126 от 18.11.2026 (ModestoGroup OU, Reg. code 16203107, info@m-flowers.com; IBAN GB32TCCL04143483461312, BIC TCCLGB3L, THE CURRENCY CLOUD LIMITED, 1 Sheldon Square, London W2 6TT, UK; Bill to Q8 Group Limited, Company Number 80242882, Room A22, 10/F, No.52 Hung To Road, Kwun Tong, Hong Kong): товар — 1 AA Kenyan rose mix и air logistics services, итого USD 20 619,72. Компания Q8 Group Limited — по Bill to инвойса (источник invoice); расчёт не ставил — цифра оператора (см. r25). | 📄 18.11.2026 (📨 Заявки/расчеты JP Morgan, ORDER No Q80084) — ОРДЕР на платёж: плательщик Q8 GROUP LIMITED; бенефициар ModestoGroup OU (K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia); банк THE CURRENCY CLOUD LIMITED (1 Sheldon Square, London W2 6TT, United Kingdom), SWIFT TCCLGB3L, счёт GB32TCCL04143483461312; remarks «PAYMENT FOR INVOICE FL01/181126»; валюта USD, сумма 20 619,72; дата инвойса 18.11.2026. Компания Q8 GROUP LIMITED подтверждена ордером (источник order).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -880,12 +880,12 @@
     },
     "rowId": "flw-000211",
     "companySource": {
-      "source": "invoice",
+      "source": "order",
       "date": null,
-      "ref": "INVOICE FL01/181126 dd 18.11.2026 (ModestoGroup OU)",
-      "file": null
+      "ref": "ORDER No Q80084, payer Q8 GROUP LIMITED, 18.11.2026",
+      "messageId": null
     },
-    "companyProvisional": true,
+    "companyProvisional": false,
     "companyVerified": false
   }
 ]
