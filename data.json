@@ -3387,6 +3387,34 @@
         "messageId": null
       },
       "rowId": "main-000560"
+    },
+    {
+      "row": 94,
+      "date": "2026-11-18",
+      "sum": 38017.01,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "scream",
+        "ref": "ВТС · t7752 (18.11.2026): 38 017,01 USD / заявка 78962, взаимозачет с 78204",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000561"
     }
   ]
 }
