@@ -2665,7 +2665,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": null,
+      "costFormula": "45 200,00 CNY ÷ 6,616476 = 6 831,44 + 50,00 = 6 881,44; 50,00 ÷ 0,9965 = 50,18 → 6 931,62 USDT (JP Morgan, заявка 183)",
       "extra": null,
       "rubles_received": "565000.00 / 16735.00",
       "statementRef": "ВТБ · БиТрейд 40807810525640000008 · ПП №5182 (тело) и №5183 (услуги) от 16.11.2026",
@@ -2691,7 +2691,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "owner_instruction: топик «Заявки/расчеты JP Morgan», msg 64071, 18.11.2026",
+        "date": "2026-11-18"
+      }
     },
     {
       "row": 73,
@@ -2785,7 +2790,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": null,
+      "costFormula": "(14 940,00 + 50,00) ÷ 0,9965 = 15 042,65 USDT",
       "extra": null,
       "rubles_received": "1235538.00 / 26803.07",
       "statementRef": null,
@@ -2811,7 +2816,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "owner_instruction: топик «Заявки/расчеты JP Morgan», msg 64070, 18.11.2026",
+        "date": "2026-11-18"
+      }
     },
     {
       "row": 77,
@@ -2921,7 +2931,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ЕТЕ",
-      "costFormula": null,
+      "costFormula": "(12 250,00 + 12,50) ÷ 0,9965 = 12 305,57 USDT (заявка 79: 49 000 USD на 4 счёта)",
       "extra": null,
       "rubles_received": "1013075.00 / 15196.13",
       "statementRef": null,
@@ -2947,7 +2957,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "owner_instruction: топик «Заявки/расчеты JP Morgan», msg 64070, 18.11.2026",
+        "date": "2026-11-18"
+      }
     },
     {
       "row": 81,
@@ -2957,7 +2972,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ЕТЕ",
-      "costFormula": null,
+      "costFormula": "(12 250,00 + 12,50) ÷ 0,9965 = 12 305,57 USDT (заявка 79: 49 000 USD на 4 счёта)",
       "extra": null,
       "rubles_received": "1013075.00 / 15196.13",
       "statementRef": null,
@@ -2983,7 +2998,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "owner_instruction: топик «Заявки/расчеты JP Morgan», msg 64070, 18.11.2026",
+        "date": "2026-11-18"
+      }
     },
     {
       "row": 82,
@@ -2993,7 +3013,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ЕТЕ",
-      "costFormula": null,
+      "costFormula": "(12 250,00 + 12,50) ÷ 0,9965 = 12 305,57 USDT (заявка 79: 49 000 USD на 4 счёта)",
       "extra": null,
       "rubles_received": "1013075.00 / 15196.13",
       "statementRef": null,
@@ -3019,7 +3039,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "owner_instruction: топик «Заявки/расчеты JP Morgan», msg 64070, 18.11.2026",
+        "date": "2026-11-18"
+      }
     },
     {
       "row": 83,
@@ -3029,7 +3054,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО ЕТЕ",
-      "costFormula": null,
+      "costFormula": "(12 250,00 + 12,50) ÷ 0,9965 = 12 305,57 USDT (заявка 79: 49 000 USD на 4 счёта)",
       "extra": null,
       "rubles_received": "1013075.00 / 15196.11",
       "statementRef": null,
@@ -3055,7 +3080,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "owner_instruction: топик «Заявки/расчеты JP Morgan», msg 64070, 18.11.2026",
+        "date": "2026-11-18"
+      }
     },
     {
       "row": 84,
@@ -3065,7 +3095,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": null,
+      "costFormula": "(25 938,00 + 50,00) ÷ 0,9965 = 26 079,28 USDT",
       "extra": null,
       "rubles_received": "2145072.60 / 40446.09",
       "statementRef": null,
@@ -3091,7 +3121,12 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "owner_instruction: топик «Заявки/расчеты JP Morgan», msg 64070, 18.11.2026",
+        "date": "2026-11-18"
+      }
     },
     {
       "row": 85,
