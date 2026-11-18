@@ -1987,7 +1987,7 @@
     "sum": 500000,
     "currency": "USD",
     "company": null,
-    "color": "FFFF0000",
+    "color": "FF4FC3F7",
     "clientName": "СКВЭР ТЭХ ЛИМИТЕД",
     "costFormula": null,
     "extra": null,
@@ -2022,7 +2022,8 @@
         "txid": "b658c9e448cde873691abea00fd2b57948d2cc940f47d517b4c72a6a8afcc349",
         "date": "16.11.2026"
       }
-    ]
+    ],
+    "dealType": "exchange"
   },
   {
     "row": 52,
