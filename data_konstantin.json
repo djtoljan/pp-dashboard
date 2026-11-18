@@ -1236,7 +1236,7 @@
     "sum": 13495,
     "currency": "EUR",
     "company": null,
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(13 495,00 × 1,0973 / 0,993) + 55,00 = 14 967 USDT",
     "extra": null,
