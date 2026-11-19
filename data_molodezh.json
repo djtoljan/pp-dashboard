@@ -2449,12 +2449,12 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": 4201855,
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 19.11.2026 (📨 Молодежь · t14371 · «50 000,00 USD Авлог (Вилог)», файл «пп vdx 19.11.26.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №688 от 19.11.2026 (исполнено 19.11.2026 12:17:03, подпись Егорова Ю.Г.): ООО «АВЛОГ» (ИНН 7805808900, КПП 780501001, счёт 40702810326710001396, ВТБ) → VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», счёт 40807810000000015414) — 4 201 855,00 ₽, назначение {VO11100} «Предоплата по контракту №AL26-001 от 29.09.2026 за профиль алюминиевый. НДС не облагается». sent_rubles_vdx = 4 201 855,00, маршрут VDX; сумма сделки 50 000,00 USD (курс ≈84,04 ₽/USD). Отдельная сделка от r16 (там ПП №659 от 05.11.2026 на 4 173 330,00 ₽, выплата 50 241 USDT 09.11). Компания пока не известна — строка 🔴; выплата не сделана.",
     "calc": null,
     "sumSource": {
       "source": "scream",
@@ -2464,5 +2464,33 @@
       "messageId": null
     },
     "rowId": "mol-000305"
+  },
+  {
+    "row": 65,
+    "date": "2026-11-19",
+    "sum": 14714,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "ENT-084-ALE20261118 от 18.11.2026 (договор NZDLWL120525-A-USD от 12.05.25)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000306"
   }
 ]
