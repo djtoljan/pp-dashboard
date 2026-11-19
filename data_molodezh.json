@@ -2536,5 +2536,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 67,
+    "date": "2026-11-19",
+    "sum": 1868.88,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "pp",
+      "ref": "ПП №690 от 19.11.2026, 156 748,01 ₽ по курсу 83,8727 (инвойс INV261000288 от 19.10.2026, авиа фрахт)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000308"
   }
 ]
