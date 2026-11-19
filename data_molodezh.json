@@ -2470,8 +2470,8 @@
     "date": "2026-11-19",
     "sum": 14714,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "Вилог",
     "costFormula": null,
     "extra": null,
@@ -2491,6 +2491,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000306"
+    "rowId": "mol-000306",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-18",
+      "ref": "ALE20261118",
+      "file": "input-14714_USD_INVOICE_MAPLELEAF_INFORMATION_TECHNOLOGY_LIMITED_2---088e7689-71c2-4654-a393-b4b97efdc561.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
