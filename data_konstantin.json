@@ -1329,5 +1329,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 38,
+    "date": "2026-11-19",
+    "sum": 79623,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Payment from ATB, 79 623,00 EUR, invoice dd 19-11-2026 (A-BLOEMEN)",
+      "file": "input-INV_79_623_00_EUR---34b82707-019d-427f-9072-6784a83fa227.pdf",
+      "date": "2026-11-19",
+      "messageId": null
+    },
+    "rowId": "kon-000131",
+    "companySource": {
+      "source": "order",
+      "date": "2026-11-19",
+      "ref": "ATB 79 623",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
