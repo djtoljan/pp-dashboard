@@ -2337,7 +2337,7 @@
     "rubles_received": "462773.86",
     "statementRef": null,
     "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
