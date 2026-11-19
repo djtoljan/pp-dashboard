@@ -1071,7 +1071,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice FL01-191126 ModestoGroup 32874.15 USD.pdf») — INVOICE No. FL01/191126 от 19.11.2026 (ModestoGroup OÜ, рег. код 16203107) → Q8 Group Limited (Company number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): Kenyan rose mix AA, 41 700 стеблей × 0,59 = 24 603,00 USD + air logistics services 8 271,15 USD = TOTAL 32 874,15 USD; банк THE CURRENCY CLOUD LIMITED (IBAN GB32TCCL04143483461312, BIC TCCLGB3L, 1 Sheldon Square, London W2 6TT).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
