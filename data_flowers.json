@@ -1017,5 +1017,41 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 30,
+    "date": "2026-11-19",
+    "sum": 11985,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Condor Andino (Цветы)",
+    "costFormula": null,
+    "extra": "INVOICE 341 Q8 GROUP LIMITED: Q8 GROUP LIMITED -> CONDOR ANDINO SAS, BANCOLOMBIA, IBAN 55700015652, SWIFT COLOCOBM; 17 121 стеблей LIGHT PINK PREMIUM; оплата USDT 12 156,91 (19.11.2026)",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "INVOICE 341 Q8 GROUP LIMITED.pdf",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "flw-000223",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "INVOICE 341 Q8 GROUP LIMITED.pdf",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
