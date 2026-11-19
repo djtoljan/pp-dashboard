@@ -3373,7 +3373,7 @@
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
-      "sent_rubles_vdx": "1377094.02 / 1377094.02 / 1377094.02",
+      "sent_rubles_vdx": 1377094.02,
       "exchange_to": "Almeno",
       "vdx_rate": null,
       "received_usdt": null,
