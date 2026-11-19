@@ -958,5 +958,41 @@
     "calc": null,
     "sumSource": null,
     "rowId": "flw-000215"
+  },
+  {
+    "row": 29,
+    "date": "2026-11-19",
+    "sum": 79623,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "A-BLOEMEN EN PLANTEN EXPORT B.V. (Цветы)",
+    "costFormula": null,
+    "extra": "Payment from ATB (INV 79 623,00 EUR): ATB Service GmbH -> A-BLOEMEN EN PLANTEN EXPORT B.V., ING BANK, IBAN NL16 INGB 0009 3461 67, SWIFT INGBNL2A",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "INV 79 623,00 EUR.PDF",
+      "file": null,
+      "date": "19.11.2026",
+      "messageId": null
+    },
+    "rowId": "flw-000219",
+    "companySource": {
+      "source": "order",
+      "date": "19.11.2026",
+      "ref": "INV 79 623",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
