@@ -2500,5 +2500,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 66,
+    "date": "2026-11-19",
+    "sum": 11632,
+    "currency": "USD",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Proforma Invoice TPL20261026001 от 26.10.2026 (Beijing Zhonglian Yuanyang)",
+      "file": "input-11632_USD_INVOICE_Beijing_Zhonglian_Yuanyang_Technology_Co_L---a2c73c15-d5f7-40fd-855e-5bb45937d940.pdf",
+      "date": "2026-11-19",
+      "messageId": null
+    },
+    "rowId": "mol-000307",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-19",
+      "ref": "TPL20261026001",
+      "file": "input-11632_USD_INVOICE_Beijing_Zhonglian_Yuanyang_Technology_Co_L---a2c73c15-d5f7-40fd-855e-5bb45937d940.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
