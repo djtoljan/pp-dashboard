@@ -2862,7 +2862,7 @@
       "sum": 1245,
       "currency": "USD",
       "company": "Q8 Group Limited",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ООО «ВТС»",
       "costFormula": "(1 245,00 + 50,00 мин. комиссия) + 50,00 ÷ 0,9965 = 1 295,00 + 50,18 = 1 345,18 USDT (JP Morgan, заявка 81)",
       "extra": null,
