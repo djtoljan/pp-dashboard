@@ -1035,7 +1035,7 @@
     "vdx_rate": null,
     "received_usdt": 12156.91,
     "sent_usdt": null,
-    "notes": " | 🛡️ 19.11.2026: движение IN 12156.91 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:30).",
+    "notes": "| 🛡️ 19.11.2026: движение IN 12156.91 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:30). | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice 341 Condor Andino 11985.00 USD.pdf») — INVOICE № 341 от 19.11.2026 (CONDOR ANDINO SAS, NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; Elizabet Tabares) → Q8 GROUP LIMITED (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): свежесрезанные цветы, 17 121 стебель, LIGHT PINK PREMIUM, TOTAL VALUE USD 11 985,00. Банк фермы: CONDOR ANDINO SAS, счёт 55700015652, BANCOLOMBIA, SWIFT COLOCOBM. Компания Q8 (JP Morgan) — себестоимость только от оператора. | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, сообщение «ORDER No - Q80092») — ПЛАТЁЖНЫЙ ОРДЕР Q80092: плательщик Q8 GROUP LIMITED → CONDOR ANDINO SAS (VDA LA ALMERIA FINCA EL VALLE, La Unión, Antioquia, Colombia), BANCOLOMBIA (CLL 10 # 8-48 La Unión, Antioquia), SWIFT COLOCOBM, счёт 55700015652, USD 11 985,00, назначение «PAYMENT FOR INVOICE 341», Beneficiary Tax ID 901271131, Invoice 341 dd 19/11/2026. Сверка: 17 121 × 0,70 = 11 984,70 + округление 0,30 = 11 985,00.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1086,6 +1086,42 @@
       "date": null,
       "ref": "ModestoGroup_FL01_191126_32874_15_USD_CLASSIC.pdf",
       "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
+  },
+  {
+    "row": 32,
+    "date": "2026-11-19",
+    "sum": 15000,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "UNIFLOR (Цветы)",
+    "costFormula": null,
+    "extra": "📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice 18-2026 UNIFLOR 15000.00 USD.pdf») — PROFORMA INVOICE No. 18/2026 от 18.11.2026 (UNIFLOR L.L.C-FZ, лицензия 2538917.01, TRN 105336460800001, Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, UAE) → Q8 Group Limited (TIN 80242882): свежесрезанные цветы южноафриканского происхождения, 15 000,00 USD (AED 55 050 по курсу 3,67); банк Emirates Islamic (3107 EI SHK ZAYED RD AL WASL TOWER, Dubai), SWIFT MEBLAEADXXX, IBAN AE530340003708515772902, счёт 3708515772902; оплата в течение 7 календарных дней, VAT не применяется, Supply to: TBA. | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, сообщение «ORDER No - Q80093») — ПЛАТЁЖНЫЙ ОРДЕР Q80093: плательщик Q8 GROUP LIMITED → UNIFLOR L.L.C-FZ, EMIRATES ISLAMIC, счёт AE530340003708515772902, USD 15 000,00, назначение «PAYMENT FOR INVOICE 18/2026 - SUPPLY OF FRESH-CUT FLOWERS», Invoice 18/2026 dd 18/11/2026. Сумма сходится. Компания Q8 (JP Morgan) — себестоимость только от оператора.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Invoice No. 18/2026",
+      "file": "Invoice 18-2026 UNIFLOR 15000.00 USD.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "flw-000226",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Invoice No. 18/2026",
+      "file": "Invoice 18-2026 UNIFLOR 15000.00 USD.pdf"
     },
     "companyProvisional": true,
     "companyVerified": false
