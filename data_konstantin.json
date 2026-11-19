@@ -1257,5 +1257,41 @@
       "messageId": null
     },
     "rowId": "kon-000127"
+  },
+  {
+    "row": 36,
+    "date": "2026-11-19",
+    "sum": 41071,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Заявка 41 071,00 USD (18.11.2026) + инвойс 3762E-08 от 08.10.2026 SHANTOU MILLION PAULINE COSMETICS CO.,LTD",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000128",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream 19.11.2026 «Платит Q8»",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
