@@ -2460,7 +2460,7 @@
       "date": "2026-10-30",
       "sum": 37931,
       "currency": "EUR",
-      "company": null,
+      "company": "ATB Service GmbH",
       "color": "FFFFFF00",
       "clientName": "Дре Русланд",
       "costFormula": "(12000*1.0025+80)*1.10023 = 13324 USDT (расчёт Scream 17.11.2026)",
@@ -2481,7 +2481,16 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000529"
+      "rowId": "main-000529",
+      "companySource": {
+        "source": "foreign_pp",
+        "file": null,
+        "txid": null,
+        "ref": "CCB.322.UE.POS00144402",
+        "date": "18.11.2026"
+      },
+      "companyProvisional": false,
+      "companyVerified": true
     },
     {
       "row": 67,
