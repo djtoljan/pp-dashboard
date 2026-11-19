@@ -2745,7 +2745,7 @@
       "date": "2026-11-17",
       "sum": 16586.67,
       "currency": "EUR",
-      "company": null,
+      "company": "ATB",
       "color": "FFFFFF00",
       "clientName": "Дре Русланд",
       "costFormula": "(16 586,67 + 0,25% (=41,47) + 80,00) × 1,09724 = 18 333 USDT",
@@ -2766,7 +2766,15 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000539"
+      "rowId": "main-000539",
+      "companySource": {
+        "source": "owner_instruction",
+        "date": "2026-11-19",
+        "ref": null,
+        "messageId": "64578"
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     },
     {
       "row": 75,
