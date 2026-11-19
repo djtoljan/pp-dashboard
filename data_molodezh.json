@@ -2473,7 +2473,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Вилог",
-    "costFormula": null,
+    "costFormula": "(14 714,00 + 65) / 0,9965 = 14 830,91 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2482,7 +2482,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 19.11.2026 (📨 Молодежь · t14374 · «14 714,00 USD Вилог», файл «rpp_689.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №689 от 19.11.2026 (исполнено 19.11.2026 14:41:44, подпись Евстратов Н.А.): ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199, ВТБ) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ИНН 9909710068, КПП 712887001, ПАО «Банк ПСБ», счёт 40807810000000015414) — 1 230 954,11 ₽, назначение {VO11100} «Частичная оплата за товар по инвойсу №ENT-084-ALE20261118 от 18.11.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 83,6587)». sent_rubles_vdx = 1 230 954,11, маршрут VDX; сумма сделки 14 714,00 USD (1 230 954,11 / 83,6587). Компания пока не известна — строка 🔴; выплата не сделана.",
+    "notes": "📄 19.11.2026 (📨 Молодежь · t14374 · «14 714,00 USD Вилог», файл «rpp_689.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №689 от 19.11.2026 (исполнено 19.11.2026 14:41:44, подпись Евстратов Н.А.): ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199, ВТБ) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ИНН 9909710068, КПП 712887001, ПАО «Банк ПСБ», счёт 40807810000000015414) — 1 230 954,11 ₽, назначение {VO11100} «Частичная оплата за товар по инвойсу №ENT-084-ALE20261118 от 18.11.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 83,6587)». sent_rubles_vdx = 1 230 954,11, маршрут VDX; сумма сделки 14 714,00 USD (1 230 954,11 / 83,6587). Компания пока не известна — строка 🔴; выплата не сделана. | Q8-расчёт по инвойсу MAPLELEAF ALE20261118; выплата не сделана | 📄 19.11.2026 (📨 Молодежь · t14374, файлы «14714_USD_INVOICE_MAPLELEAF_INFORMATION_TECHNOLOGY_LIMITED_2.pdf» и «PO 14714 USD MAPLELEAF INFORMATION TECHNOLOGY LIMITED.docx») — PROFORMA INVOICE ALE20261118 от 18.11.2026: MAPLELEAF INFORMATION TECHNOLOGY LIMITED (Room A11, 8th Floor, Ka Shing Factory Building, 25-27 Luk Hop Street, San Po Kong, Kowloon, Hong Kong), покупатель Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK). Позиции: USG6555F-AC firewall 2 × 2 526,00 = 5 052,00; M.2-Sata240G-A SSD 2 × 271,00 = 542,00; PAC60S12-AR 2 × 75,00 = 150,00; RAIL-02 2 × 30,00 = 60,00; AirEngine 5776-26 AP 33 × 270,00 = 8 910,00; ИТОГО 14 714,00 USD. Банк China Construction Bank (Asia) Co., Ltd (20/F CCB Centre, 18 Wang Chiu Road, Kowloon Bay), SWIFT CCBQHKAX, счёт 846210561199. company = Q8 Group Limited по инвойсу; расчёт (14 714,00 + 65) / 0,9965 = 14 830,91 USDT; цвет ⬜ (Step 3).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
