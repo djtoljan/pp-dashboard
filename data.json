@@ -2903,7 +2903,7 @@
       "sum": 64002,
       "currency": "EUR",
       "company": "ATB Service GmbH",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "Андрей Шибаев",
       "costFormula": "(64002*1.0025+80)*1.09915 = 70611.60 USDT (кросс EUR/USD 1.09915 XE 17.11.2026)",
       "extra": null,
