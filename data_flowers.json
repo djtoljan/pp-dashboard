@@ -1053,5 +1053,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 31,
+    "date": "2026-11-19",
+    "sum": 32874.15,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "ModestoGroup (Цветы)",
+    "costFormula": null,
+    "extra": "INVOICE FL01/191126 (ModestoGroup OÜ): 41 700 Kenyan rose mix — 24 603,00 USD + air logistics 8 271,15 USD = 32 874,15 USD; банк The Currency Cloud Limited, IBAN GB32TCCL04143483461312, BIC TCCLGB3L",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "ModestoGroup_FL01_191126_32874_15_USD_CLASSIC.pdf",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "flw-000224",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "ModestoGroup_FL01_191126_32874_15_USD_CLASSIC.pdf",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
