@@ -2668,7 +2668,7 @@
       "sum": 45200,
       "currency": "CNY",
       "company": "Q8 Group Limited",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ООО «ВТС»",
       "costFormula": "45 200,00 CNY ÷ 6,616476 = 6 831,44; + 50,00 = 6 881,44; + 50,00 ÷ 0,9965 = 50,18 → 6 931,62 USDT (JP Morgan, заявка 83)",
       "extra": null,
