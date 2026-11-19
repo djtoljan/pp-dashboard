@@ -384,5 +384,33 @@
       "messageId": null
     },
     "rowId": "d78-000061"
+  },
+  {
+    "row": 12,
+    "date": "2026-11-19",
+    "sum": 2613074,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ТЕТРА СТРОЙ",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "Спецификация №1 к контракту №06/2026 от 07.05.2026 (13.07.2026): цена 2 613 074 EUR (Scream, Движение 78 t2004, 19.11.2026)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "d78-000062"
   }
 ]
