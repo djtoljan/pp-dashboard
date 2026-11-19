@@ -3504,6 +3504,34 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 97,
+      "date": "2026-11-19",
+      "sum": 149280,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "Itrix invoice товары 77608.xlsx",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000568"
     }
   ]
 }
