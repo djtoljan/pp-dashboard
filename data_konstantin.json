@@ -1346,8 +1346,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "| Расчёт ATB по кросс-курсу XE 1,09929 (19.11.2026) | 📄 19.11.2026 (📨 «Ордера и Расчеты !»: «Payment from ATB❗️», файл «INV 79 623,00 EUR.PDF»; кросс-курс XE 19.11.2026 14:50 UTC — 1 EUR = 1,09929 USD) — ордер: плательщик ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, DE463202384), бенефициар A-BLOEMEN EN PLANTEN EXPORT B.V. (Middel Broekweg 31A, 2675KC Honselersdijk, Nederland), банк ING BANK (Amsterdam), SWIFT INGBNL2A, счёт NL16 INGB 0009 3461 67, назначение «Invoice dd 19-11-2026», сумма 79 623,00 EUR (Prepayment For Cut Flowers), OUR. Расчёт ATB: (79 623,00 × 1,0025 + 80) × 1,09929 = 87 835,53 USDT. Цвет ⬜ (Step 3), выплата не сделана.",
+    "sent_usdt": 87835,
+    "notes": "| Расчёт ATB по кросс-курсу XE 1,09929 (19.11.2026) | 📄 19.11.2026 (📨 «Ордера и Расчеты !»: «Payment from ATB❗️», файл «INV 79 623,00 EUR.PDF»; кросс-курс XE 19.11.2026 14:50 UTC — 1 EUR = 1,09929 USD) — ордер: плательщик ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, DE463202384), бенефициар A-BLOEMEN EN PLANTEN EXPORT B.V. (Middel Broekweg 31A, 2675KC Honselersdijk, Nederland), банк ING BANK (Amsterdam), SWIFT INGBNL2A, счёт NL16 INGB 0009 3461 67, назначение «Invoice dd 19-11-2026», сумма 79 623,00 EUR (Prepayment For Cut Flowers), OUR. Расчёт ATB: (79 623,00 × 1,0025 + 80) × 1,09929 = 87 835,53 USDT. Цвет ⬜ (Step 3), выплата не сделана. | 🛡️ 19.11.2026: движение OUT 87835 USDT привязано к строке — поле sent_usdt проставлено в одном вызове с леджером (wallet-record.js --row konstantin:38).",
     "calc": null,
     "sumSource": {
       "source": "order",
