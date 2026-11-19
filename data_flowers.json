@@ -1033,9 +1033,9 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 12156.91,
     "sent_usdt": null,
-    "notes": null,
+    "notes": " | 🛡️ 19.11.2026: движение IN 12156.91 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:30).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
