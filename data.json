@@ -2746,7 +2746,7 @@
       "sum": 16586.67,
       "currency": "EUR",
       "company": null,
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "Дре Русланд",
       "costFormula": "(16 586,67 + 0,25% (=41,47) + 80,00) × 1,09724 = 18 333 USDT",
       "extra": null,

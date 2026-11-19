@@ -2509,7 +2509,7 @@
     "company": "PQ18",
     "color": "FFFFFFFF",
     "clientName": "Вилог",
-    "costFormula": null,
+    "costFormula": "11 632,00 + 0,3% + 30 = 11 696,90 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2518,7 +2518,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "| PQ18-расчёт по инвойсу TPL20261026001; выплата не сделана | 📄 19.11.2026 (📨 Молодежь · t14388 · «11 632 USD Welog», файл «11632_USD_INVOICE_Beijing_Zhonglian_Yuanyang_Technology_Co_,_Ltd.pdf») — PROFORMA INVOICE TPL20261026001 от 26.10.2026: Beijing Zhonglian Yuanyang Technology Co., Ltd (20/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong), покупатель PQ18 Limited. Позиции: AIR-ANT2535SDW-R 332 × 13,00 = 4 316,00; AIR-ACC-CAT6= 83 × 60,00 = 4 980,00; AIR-ANT2547VG-N 32 × 73,00 = 2 336,00; ИТОГО 11 632,00 USD. Бенефициар: Beijing Zhonglian Yuanyang Technology Co., Ltd, CITIBANK N.A. HONG KONG BRANCH (Champion Tower, Three Garden Road, Central, Hong Kong), счёт 3974000066307, SWIFT CITIHKHX / CITIHKHXXXX, bank code 006, branch 391. company = PQ18 по инвойсу; расчёт PQ18: 11 632,00 + 0,3% + 30 = 11 696,90 USDT; цвет ⬜ (Step 3). Отправки рублей по строке пока нет.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
