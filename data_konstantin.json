@@ -1299,10 +1299,10 @@
     "date": "2026-11-19",
     "sum": 228579,
     "currency": "USD",
-    "company": null,
+    "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "(228 579,00 + 65) / 0,9965 = 229 447,06 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1311,7 +1311,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "| Q8-расчёт по заявке ASM-261118 (платит Q8); выплата ещё не сделана | 📄 19.11.2026 (📨 Константин Просто группа: «Заявка_на_выплату_Best_Parts_228_579,00_usd.xlsx» + «IV ASM-261118 USD.pdf», Scream «Платит q8») — заявка на выплату 228 579,00 USD: BEST PARTS CORPORATION (12, Muvon Street#6, Duckyang-Gu, Gyeonggi-Do, Korea), банк KEB HANA BANK (Hwajeong station branch, 47 Hwajeong-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, Korea), счёт 415-910021-67138, SWIFT KOEXKRSEXXX; назначение «Advance payment for goods. Customer Number: ASM»; Commercial Invoice ASM-261118 dd 18.11.2026 (Proforma ASM-261118), FOB Busan Korea, 31 646 pcs, итого 228 579,00 USD. Платит Q8 GROUP LIMITED → costFormula (228 579,00 + 65) / 0,9965 = 229 447,06 USDT. Выплата ещё не сделана (sent_usdt пуст). Цвет ⬜ (Step 3).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1320,6 +1320,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000130"
+    "rowId": "kon-000130",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-19",
+      "ref": "ASM-261118",
+      "file": "input-IV_ASM-261118_USD---80e2dc05-e3d6-418d-9a8b-e60dd2e15673.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
