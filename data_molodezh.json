@@ -2436,5 +2436,33 @@
     },
     "rowId": "mol-000304",
     "directToExchanger": true
+  },
+  {
+    "row": 64,
+    "date": "2026-11-19",
+    "sum": 50000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "АВЛОГ (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "FINIVEST AI, 19.11.2026, «50 000,00 USD Авлог (Вилог)» + ПП VDX №688 от 19.11.2026 на 4 201 855,00 ₽",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000305"
   }
 ]
