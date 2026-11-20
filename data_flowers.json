@@ -1077,7 +1077,7 @@
     "sum": 32874.15,
     "currency": "USD",
     "company": "Q8 Group Limited",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "ModestoGroup (Цветы)",
     "costFormula": "32 874,15 + 50,00 = 32 924,15; 32 924,15 ÷ 0,9965 = 33 039,79 USDT",
     "extra": "INVOICE FL01/191126 (ModestoGroup OÜ): 41 700 Kenyan rose mix — 24 603,00 USD + air logistics 8 271,15 USD = 32 874,15 USD; банк The Currency Cloud Limited, IBAN GB32TCCL04143483461312, BIC TCCLGB3L",
@@ -1088,7 +1088,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 33039.79,
-    "notes": "📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice FL01-191126 ModestoGroup 32874.15 USD.pdf») — INVOICE No. FL01/191126 от 19.11.2026 (ModestoGroup OÜ, рег. код 16203107) → Q8 Group Limited (Company number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): Kenyan rose mix AA, 41 700 стеблей × 0,59 = 24 603,00 USD + air logistics services 8 271,15 USD = TOTAL 32 874,15 USD; банк THE CURRENCY CLOUD LIMITED (IBAN GB32TCCL04143483461312, BIC TCCLGB3L, 1 Sheldon Square, London W2 6TT). | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, сообщение «ORDER No - Q80094») — ПЛАТЁЖНЫЙ ОРДЕР Q80094: плательщик Q8 GROUP LIMITED → MODESTOGROUP OÜ (K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia), THE CURRENCY CLOUD LIMITED (1 Sheldon Square, London W2 6TT), SWIFT TCCLGB3L, счёт GB32TCCL04143483461312, USD 32 874,15, назначение «PAYMENT FOR INVOICE FL01/191126», рег. код 16203107, Invoice FL01/191126 dd 19/11/2026. Сверка: 41 700 × 0,59 = 24 603,00 + логистика 8 271,15 = 32 874,15 — сходится. Компания Q8 (JP Morgan) — себестоимость только от оператора.",
+    "notes": "📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice FL01-191126 ModestoGroup 32874.15 USD.pdf») — INVOICE No. FL01/191126 от 19.11.2026 (ModestoGroup OÜ, рег. код 16203107) → Q8 Group Limited (Company number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): Kenyan rose mix AA, 41 700 стеблей × 0,59 = 24 603,00 USD + air logistics services 8 271,15 USD = TOTAL 32 874,15 USD; банк THE CURRENCY CLOUD LIMITED (IBAN GB32TCCL04143483461312, BIC TCCLGB3L, 1 Sheldon Square, London W2 6TT). | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, сообщение «ORDER No - Q80094») — ПЛАТЁЖНЫЙ ОРДЕР Q80094: плательщик Q8 GROUP LIMITED → MODESTOGROUP OÜ (K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia), THE CURRENCY CLOUD LIMITED (1 Sheldon Square, London W2 6TT), SWIFT TCCLGB3L, счёт GB32TCCL04143483461312, USD 32 874,15, назначение «PAYMENT FOR INVOICE FL01/191126», рег. код 16203107, Invoice FL01/191126 dd 19/11/2026. Сверка: 41 700 × 0,59 = 24 603,00 + логистика 8 271,15 = 32 874,15 — сходится. Компания Q8 (JP Morgan) — себестоимость только от оператора. | 🏦 20.11.2026 (📨 ПП банка JP Morgan, Q8-094, файл «TFR-PTX7BYTW USD 32874.15.PDF») — TRANSFER CONFIRMATION: Q8 GROUP LIMITED → MODESTOGROUP OU (BIC TCCLGB3LXXX), USD 32 874,15, Transaction Status SUCCESS, 20 NOV 2026, назначение «PAYMENT FOR INVOICE FL01/191126»; UETR 620efd75-a007-4530-b00a-446ac396e873.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
