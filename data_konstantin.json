@@ -1398,5 +1398,33 @@
       "messageId": null
     },
     "rowId": "kon-000134"
+  },
+  {
+    "row": 40,
+    "date": "2026-11-20",
+    "sum": 224500,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Melitta_224_500_00_EUR_3975780.xlsx: proforma invoice 3975780 dd 05.11.2026, customer N 26236, EUR 224 500,00",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000135"
   }
 ]
