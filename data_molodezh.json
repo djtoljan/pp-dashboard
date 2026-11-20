@@ -2494,10 +2494,10 @@
     "date": "2026-11-18",
     "sum": 4700,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
     "clientName": "БлинДаГриф (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "4 700,00 + 0,3% + 30 = 4 744,10 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2506,7 +2506,7 @@
     "vdx_rate": "82.35 / 82.35",
     "received_usdt": "4704.67 / 256.65",
     "sent_usdt": null,
-    "notes": "📄 18.11.2026 (📨 Молодежь · t14318, файл «ВЭД 387817,21р (4700).pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 45 от 18.11.2026, исполнено 18.11.2026 15:27:39 (ВТБ): ООО «БЛИН ДА ГРИФ» (ИНН 5700010444, счёт 40702810711570000854, Филиал «Центральный» ВТБ) → ООО «R3 Limited» (ИНН 9909762500, счёт 40807810500000015710, ПАО «Банк ПСБ», БИК 044525555) — 387 817,21 ₽; назначение «{VO11100} Оплата по инвойсу № 2026-HD-216A от 17.11.2026 по контракту № BDG-FI1 от 11.11.2026, НДС не облагается». Курс 387 817,21 / 4 700 = 82,5143. 📄 18.11.2026 (тот же топик, файл «ВЭД 21156,67 вознагр..pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 46 от 18.11.2026: ООО «БЛИН ДА ГРИФ» → ООО «R3 Limited» — 21 156,67 ₽, вознаграждение (4,50 ₽ на 1 USD). Итого оплачено обменнику 408 973,88 ₽ (тело 387 817,21 + вознаграждение 21 156,67); клиент платил обменнику напрямую. | 📄 18.11.2026 (📨 Молодежь · t14318, файл «MOLDUSD - red part (1).pdf», скан) — INVOICE № 2026-HD-216A от 17.11.2026 (HUANENG INTERNATIONAL MACHINERY CO., LTD., Room 1801, 18/F, Public Bank Centre, 120 Des Voeux Road Central, Hong Kong): BUYER PQ18 Limited; 1 шт. «cold runner with 2 cavities», 4 700,00 USD/шт., TOTAL 4 700,00 USD, F.O.B NINGBO; оплата 60% аванс / 40% перед отгрузкой; гарантия 1 год; срок поставки ~50 дней после согласования чертежа; банк HSBC HONG KONG, SWIFT HSBCHKHHHKH, счёт 634326995838. Сумма совпадает со строкой и с ПП №45 (387 817,21 ₽ по курсу 82,5143) — это инвойс поставщика по заявке. | 📄 18.11.2026 (📨 Молодежь · t14318, файл «payment order.docx») — PAYMENT ORDER от 17/11/2026: 4 700,00 USD, Bank Transfer (SWIFT); бенефициар HUANENG INTERNATIONAL MACHINERY CO., LTD. (Room 1801, 18/F, Public Bank Centre, 120 Des Voeux Road Central, Hong Kong); HSBC HONG KONG (1 Queen's Road Central); счёт 634326995838, SWIFT HSBCHKHHHKH; назначение «Payment for invoice 2026-HD-216A». Сумма и реквизиты совпадают со строкой и инвойсом. | 📄 18.11.2026 (📨 Молодежь · t14318, файл «Поручение №1 R3.pdf») — ПОРУЧЕНИЕ №1 от 17.11.2026 (Приложение №1 к Агентскому договору № BDG-FI1 от 11.11.2026): ООО «БЛИН ДА ГРИФ» → ООО «R3 Limited» на платёж по инвойсу № 2026-HD-216A от 17.11.2026 — 4 700 долларов США; получатель HUANENG INTERNATIONAL MACHINERY CO., LTD. (Room 1801, 18/F, Public Bank Centre, 120 Des Voeux Road Central, Hong Kong); HSBC HONG KONG (1 Queen's Road Central), SWIFT HSBCHKHHHKH, счёт 634326995838; курс 82,5143; к перечислению 387 817,21 ₽; комиссия агента 21 156,67 ₽. Сумма строки подтверждена ордером (sumSource = order); рублёвые платежи ПП №45/№46 сходятся с ордером. | ПП на VDX №45 от 18.11.2026 (387 817,21 ₽ — номер из документа ПП) | ПП на VDX №46 от 18.11.2026 (21 156,67 ₽ — номер из документа ПП)",
+    "notes": "📄 18.11.2026 (📨 Молодежь · t14318, файл «ВЭД 387817,21р (4700).pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 45 от 18.11.2026, исполнено 18.11.2026 15:27:39 (ВТБ): ООО «БЛИН ДА ГРИФ» (ИНН 5700010444, счёт 40702810711570000854, Филиал «Центральный» ВТБ) → ООО «R3 Limited» (ИНН 9909762500, счёт 40807810500000015710, ПАО «Банк ПСБ», БИК 044525555) — 387 817,21 ₽; назначение «{VO11100} Оплата по инвойсу № 2026-HD-216A от 17.11.2026 по контракту № BDG-FI1 от 11.11.2026, НДС не облагается». Курс 387 817,21 / 4 700 = 82,5143. 📄 18.11.2026 (тот же топик, файл «ВЭД 21156,67 вознагр..pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 46 от 18.11.2026: ООО «БЛИН ДА ГРИФ» → ООО «R3 Limited» — 21 156,67 ₽, вознаграждение (4,50 ₽ на 1 USD). Итого оплачено обменнику 408 973,88 ₽ (тело 387 817,21 + вознаграждение 21 156,67); клиент платил обменнику напрямую. | 📄 18.11.2026 (📨 Молодежь · t14318, файл «MOLDUSD - red part (1).pdf», скан) — INVOICE № 2026-HD-216A от 17.11.2026 (HUANENG INTERNATIONAL MACHINERY CO., LTD., Room 1801, 18/F, Public Bank Centre, 120 Des Voeux Road Central, Hong Kong): BUYER PQ18 Limited; 1 шт. «cold runner with 2 cavities», 4 700,00 USD/шт., TOTAL 4 700,00 USD, F.O.B NINGBO; оплата 60% аванс / 40% перед отгрузкой; гарантия 1 год; срок поставки ~50 дней после согласования чертежа; банк HSBC HONG KONG, SWIFT HSBCHKHHHKH, счёт 634326995838. Сумма совпадает со строкой и с ПП №45 (387 817,21 ₽ по курсу 82,5143) — это инвойс поставщика по заявке. | 📄 18.11.2026 (📨 Молодежь · t14318, файл «payment order.docx») — PAYMENT ORDER от 17/11/2026: 4 700,00 USD, Bank Transfer (SWIFT); бенефициар HUANENG INTERNATIONAL MACHINERY CO., LTD. (Room 1801, 18/F, Public Bank Centre, 120 Des Voeux Road Central, Hong Kong); HSBC HONG KONG (1 Queen's Road Central); счёт 634326995838, SWIFT HSBCHKHHHKH; назначение «Payment for invoice 2026-HD-216A». Сумма и реквизиты совпадают со строкой и инвойсом. | 📄 18.11.2026 (📨 Молодежь · t14318, файл «Поручение №1 R3.pdf») — ПОРУЧЕНИЕ №1 от 17.11.2026 (Приложение №1 к Агентскому договору № BDG-FI1 от 11.11.2026): ООО «БЛИН ДА ГРИФ» → ООО «R3 Limited» на платёж по инвойсу № 2026-HD-216A от 17.11.2026 — 4 700 долларов США; получатель HUANENG INTERNATIONAL MACHINERY CO., LTD. (Room 1801, 18/F, Public Bank Centre, 120 Des Voeux Road Central, Hong Kong); HSBC HONG KONG (1 Queen's Road Central), SWIFT HSBCHKHHHKH, счёт 634326995838; курс 82,5143; к перечислению 387 817,21 ₽; комиссия агента 21 156,67 ₽. Сумма строки подтверждена ордером (sumSource = order); рублёвые платежи ПП №45/№46 сходятся с ордером. | ПП на VDX №45 от 18.11.2026 (387 817,21 ₽ — номер из документа ПП) | ПП на VDX №46 от 18.11.2026 (21 156,67 ₽ — номер из документа ПП) | 🏦 20.11.2026 (📨 ПП компании Q8/Z-source, файл «4700.00.pdf») — BONBILL LIMITED Payment Certificate: Transaction ID O2123699525897027584265, Payment Time 2026-11-20 16:46:38, Payer PQ18 Limited → HUANENG INTERNATIONAL MACHINERY CO., LTD. (счёт 634326995838, THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD), USD 4 700,00, назначение «Invoice 2026HD216ADD 17 11 2026 For Cold Runner».",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -2520,7 +2520,16 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "vdx-kursy-19.11.xlsx"
-    }
+    },
+    "companySource": {
+      "source": "foreign_pp",
+      "file": "4700.00.pdf",
+      "txid": "O2123699525897027584265",
+      "ref": null,
+      "date": null
+    },
+    "companyProvisional": false,
+    "companyVerified": true
   },
   {
     "row": 64,
