@@ -1130,7 +1130,7 @@
     "sum": 15000,
     "currency": "USD",
     "company": "Q8 Group Limited",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "UNIFLOR (Цветы)",
     "costFormula": "15 000,00 + 50,00 = 15 050,00; 15 050,00 ÷ 0,9965 = 15 102,86 USDT",
     "extra": "📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice 18-2026 UNIFLOR 15000.00 USD.pdf») — PROFORMA INVOICE No. 18/2026 от 18.11.2026 (UNIFLOR L.L.C-FZ, лицензия 2538917.01, TRN 105336460800001, Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, UAE) → Q8 Group Limited (TIN 80242882): свежесрезанные цветы южноафриканского происхождения, 15 000,00 USD (AED 55 050 по курсу 3,67); банк Emirates Islamic (3107 EI SHK ZAYED RD AL WASL TOWER, Dubai), SWIFT MEBLAEADXXX, IBAN AE530340003708515772902, счёт 3708515772902; оплата в течение 7 календарных дней, VAT не применяется, Supply to: TBA. | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, сообщение «ORDER No - Q80093») — ПЛАТЁЖНЫЙ ОРДЕР Q80093: плательщик Q8 GROUP LIMITED → UNIFLOR L.L.C-FZ, EMIRATES ISLAMIC, счёт AE530340003708515772902, USD 15 000,00, назначение «PAYMENT FOR INVOICE 18/2026 - SUPPLY OF FRESH-CUT FLOWERS», Invoice 18/2026 dd 18/11/2026. Сумма сходится. Компания Q8 (JP Morgan) — себестоимость только от оператора.",
@@ -1141,7 +1141,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": 15102.86,
-    "notes": null,
+    "notes": "🏦 20.11.2026 (📨 ПП банка JP Morgan, Q8-093, файл «TFR-FR6A7JTW USD 15000.00.PDF») — TRANSFER CONFIRMATION: Q8 GROUP LIMITED → UNIFLOR L.L.C-FZ (BIC MEBLAEADXXX), USD 15 000,00, Transaction Status SUCCESS, 20 NOV 2026, назначение «PAYMENT FOR INVOICE 18/2026»; UETR a1e34ba5-3de3-415a-9dff-1820346a398b.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
