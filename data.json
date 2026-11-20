@@ -2626,7 +2626,7 @@
       "company": "PQ18",
       "color": "FF92D050",
       "clientName": "ООО «ВТС»",
-      "costFormula": "42 525,73 / 0,908469239613 (FX Q8 18.11.2026: 1 USD = 0,908469239613 EUR) + 0,3% + 30 = 46 980,74 USDT",
+      "costFormula": "42 525,73 / 0,908674073517 (FX Q8 20.11.2026: 1 USD = 0,908674073517 EUR) + 0,3% + 30 = 46 970,16 USDT",
       "extra": null,
       "rubles_received": "3878125.44 / 66441.88",
       "statementRef": null,
@@ -2655,8 +2655,8 @@
       "companyVerified": false,
       "costSource": "operator",
       "costSourceRef": {
-        "ref": "owner_instruction: FX Q8 18.11.2026, msg 64141 — под заявку 42 525,73",
-        "date": "2026-11-18"
+        "ref": "Scream msg 64903, 20.11.2026",
+        "date": "2026-11-20"
       },
       "vdxRateSource": {
         "kind": "scream-order",
@@ -3316,9 +3316,9 @@
       "sum": 44286.5,
       "currency": "EUR",
       "company": null,
-      "color": "FFFF0000",
+      "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": null,
+      "costFormula": "44 286,50 / 0,908674073517 (FX Q8 20.11.2026: 1 USD = 0,908674073517 EUR) + 0,3% + 30 = 48 913,71 USDT",
       "extra": null,
       "rubles_received": "4021816.50 / 68577.25",
       "statementRef": null,
@@ -3340,6 +3340,11 @@
       "vdxRateSource": {
         "kind": "scream-file",
         "ref": "input-almeno-19.11_копия---a2d4fbe8-5faa-4e68-84c2-13d52512ee6d.xlsx (стр. 3, курс 82.25)"
+      },
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "Scream msg 64903, 20.11.2026",
+        "date": "2026-11-20"
       }
     },
     {
