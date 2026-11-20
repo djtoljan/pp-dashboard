@@ -1388,7 +1388,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 20.11.2026 (📨 Константин Просто Группа, файлы «PROFORMA INVOICE 13090 (2).pdf» и «31014,60 EUR (20.11.2026).xlsx», сопроводительное «Транс логистик платит») — заявка на платёж **31 014,60 EUR** по инвойсу 13090 от 18.11.2026 (Sennek Oy, Helsinki, FI18939040): бенефициар Sennek Oy (Vanha Talvitie 2, 00580 Helsinki, Finland), банк Nordea Finland (Satamaradankatu 5, FI-00020 Nordea, Helsinki), IBAN FI58 1426 3000 1205 66, SWIFT NDEAFIHH; назначение «Payment for the invoice 13090». Инвойс: товары ON (Creatine, WGS Choc/Vanilla/CHOC PB, Creatine Blue Raspberry) — 3 810 + 60 + 36 + 36 + 60 шт, VAT 0% Triangulation. Плательщик — «Транс логистик» (Trans Logistik 1002 GmbH, Berlin, VAT DE456959087); в справочнике компаний его нет — цвет 🔴, ждём добавления компании/подтверждения.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
