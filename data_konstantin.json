@@ -1370,5 +1370,33 @@
       "ref": "JP Morgan Q8-100, msg 64964, 20.11.2026",
       "date": "2026-11-20"
     }
+  },
+  {
+    "row": 39,
+    "date": "2026-11-20",
+    "sum": 31014.6,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "PROFORMA INVOICE 13090 от 18.11.2026, Sennek Oy → Trans Logistik 1002 GmbH, EUR 31 014,60",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000134"
   }
 ]
