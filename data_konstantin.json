@@ -1335,10 +1335,10 @@
     "date": "2026-11-20",
     "sum": 140975,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
-    "costFormula": null,
+    "costFormula": "140 975,00 + 0,3% + 30 = 141 427,92 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1347,7 +1347,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 20.11.2026 (📨 Константин Просто Группа, файлы «140,975USD (20.11.2026).xlsx» и «Invoice_26807233_Q8_Group_Limited.pdf», сопроводительное «Платит Q8») — INVOICE No. 26807233 от 10.11.2026: продавец JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, P.O. Box 34659, Dubai, UAE) → BUYER Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK; reg. 80242882): парфюмерия HS 3303.00.00 — 2 615 шт × 65,00 = 169 975,00 USD, НДС 0% (экспорт из ОАЭ), 100% предоплата; плательщик — Q8 Group Limited (JP Morgan Chase, SWIFT CHASUS33XXX). Реквизиты: United Arab Bank, Dubai, SWIFT UARBAEAAXXX, IBAN AE68 0460 0010 3402 5987 002 (USD), корсчёт Bank of New York Mellon IRVTUS3NXXX, код назначения GDI. Заявка на оплату — 140 975,00 USD (частичная оплата инвойса 169 975,00, остаток 29 000,00). Компания Q8 — по инвойсу и указанию Scream.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -1356,6 +1356,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000133"
+    "rowId": "kon-000133",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "INVOICE 26807233 от 10.11.2026, JIZAN PERFUMES → Q8 Group Limited",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
