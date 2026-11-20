@@ -491,5 +491,33 @@
       "messageId": null
     },
     "rowId": "d78-000065"
+  },
+  {
+    "row": 14,
+    "date": "2026-11-20",
+    "sum": 11300,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": "📄 20.11.2026 (📨 Движение 78 (t2024), файл «Application for transfer 11 300,00.docx») — ЗАЯВЛЕНИЕ О ПЕРЕВОДЕ: 11 300,00 USD, получатель NEWCONT LOGISTICS LLC (Emirates Islamic Bank PJSC, IBAN AE410340003708461275802, SWIFT MEBLAEADXXX, Al Qusais Second, Dubai); назначение — prepayment container provision INVOICE 906 Dt. 27.10.2026; Remark: ООО «Балтик Лэнд»; услуги по контракту 040826/2 от 04.08.2026. Сумма сделки = сумма заявки (ордера). Рубли ещё не поступали.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Application for transfer 11 300,00 USD (NEWCONT, INVOICE 906)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "d78-000066"
   }
 ]
