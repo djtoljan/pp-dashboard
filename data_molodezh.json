@@ -2400,7 +2400,7 @@
     "sum": 23773.86,
     "currency": "USD",
     "company": null,
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Бестакватикс (Молодёжь)",
     "costFormula": "23 773,86 ÷ 0,9965 = 23 857,36; 50,00 ÷ 0,9965 = 50,18; итого 23 907,54 USDT",
     "extra": null,
