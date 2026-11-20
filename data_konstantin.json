@@ -1404,8 +1404,8 @@
     "date": "2026-11-20",
     "sum": 224500,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "ATB",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -1416,7 +1416,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 20.11.2026 (📨 Константин Просто Группа, файл «Melitta_224_500_00_EUR_3975780.xlsx») — заявка на платёж **224 500,00 EUR**: бенефициар Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany), банк Deutsche Bank AG (Minden, Germany), SWIFT DEUTDE3B490, IBAN DE03490700280291371300; назначение «Payment for proforma invoice 3975780 dd 05.11.2026, customer N 26236». Компания-плательщик в заявке не названа; customer N 26236 совпадает с платежами ATB Service GmbH (r10) — вероятно, платит ATB. Цвет 🔴 до подтверждения компании. | 📄 20.11.2026 (📨 Константин Просто Группа, файл «3975780_Melitta_Europa.pdf») — PROFORMA INVOICE № 3975780 от 05.11.2026 (Melitta Europa GmbH & Co. KG): Kundennr./Payer 26236, доставка TECHNORIUM LLC (Chughureti district, Chubinashvili str. 63, 0144 Tbilisi), FCA Minden, Truck 9 (Order NOV); позиции — кофемашины Melitta: CAFFEO BARISTA T SMART SILVER EU (F83/0-101) 40 шт × 427,00 EUR, MELITTA EPOUR BLACK-CHROME 113,05 и др. Итог по заявке — 224 500,00 EUR. Источник к строке r40.",
+    "notes": "📄 20.11.2026 (📨 Константин Просто Группа, файл «Melitta_224_500_00_EUR_3975780.xlsx») — заявка на платёж **224 500,00 EUR**: бенефициар Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany), банк Deutsche Bank AG (Minden, Germany), SWIFT DEUTDE3B490, IBAN DE03490700280291371300; назначение «Payment for proforma invoice 3975780 dd 05.11.2026, customer N 26236». Компания-плательщик в заявке не названа; customer N 26236 совпадает с платежами ATB Service GmbH (r10) — вероятно, платит ATB. Цвет 🔴 до подтверждения компании. | 📄 20.11.2026 (📨 Константин Просто Группа, файл «3975780_Melitta_Europa.pdf») — PROFORMA INVOICE № 3975780 от 05.11.2026 (Melitta Europa GmbH & Co. KG): Kundennr./Payer 26236, доставка TECHNORIUM LLC (Chughureti district, Chubinashvili str. 63, 0144 Tbilisi), FCA Minden, Truck 9 (Order NOV); позиции — кофемашины Melitta: CAFFEO BARISTA T SMART SILVER EU (F83/0-101) 40 шт × 427,00 EUR, MELITTA EPOUR BLACK-CHROME 113,05 и др. Итог по заявке — 224 500,00 EUR. Источник к строке r40. | 📄 20.11.2026 (📨 Ордера и Расчёты, «Payment from ATB ‼ разбивка», файл «INV 224 500,00 EUR.pdf») — ОРДЕР: плательщик **ATB** (ATB Service GmbH); бенефициар Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany), банк Deutsche Bank AG (Minden), SWIFT DEUTDE3B490, счёт DE03490700280291371300; сумма **224 500,00 EUR**; назначение «Payment for proforma invoice 3975780 dd 05.11.2026, customer N 26236»; комиссия OUR; пометка «разбивка». Основание — Proforma Invoice № 3975780 от 05.11.2026.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1425,6 +1425,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000135"
+    "rowId": "kon-000135",
+    "companySource": {
+      "source": "order",
+      "date": "20.11.2026",
+      "ref": "Payment from ATB (msg 65057)",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
