@@ -2752,9 +2752,9 @@
     "date": "2026-11-20",
     "sum": 5380,
     "currency": "CNY",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "Welog",
+    "company": "Alipay",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
@@ -2773,6 +2773,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000314"
+    "rowId": "mol-000314",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": null,
+      "ref": "Scream msg 64905: «Вилог компания Ali Pay»",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
