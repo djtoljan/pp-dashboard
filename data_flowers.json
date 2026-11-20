@@ -1024,7 +1024,7 @@
     "sum": 11985,
     "currency": "USD",
     "company": "Q8 Group Limited",
-    "color": "FFFFFFFF",
+    "color": "FF92D050",
     "clientName": "Condor Andino (Цветы)",
     "costFormula": "11 985,00 + 50,00 (min 50) = 12 035,00; 50,00 ÷ 0,9965 = 50,18; итого 12 085,18 USDT",
     "extra": "INVOICE 341 Q8 GROUP LIMITED: Q8 GROUP LIMITED -> CONDOR ANDINO SAS, BANCOLOMBIA, IBAN 55700015652, SWIFT COLOCOBM; 17 121 стеблей LIGHT PINK PREMIUM; оплата USDT 12 156,91 (19.11.2026)",
@@ -1035,7 +1035,7 @@
     "vdx_rate": null,
     "received_usdt": 12156.91,
     "sent_usdt": 12085.18,
-    "notes": "| 🛡️ 19.11.2026: движение IN 12156.91 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:30). | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice 341 Condor Andino 11985.00 USD.pdf») — INVOICE № 341 от 19.11.2026 (CONDOR ANDINO SAS, NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; Elizabet Tabares) → Q8 GROUP LIMITED (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): свежесрезанные цветы, 17 121 стебель, LIGHT PINK PREMIUM, TOTAL VALUE USD 11 985,00. Банк фермы: CONDOR ANDINO SAS, счёт 55700015652, BANCOLOMBIA, SWIFT COLOCOBM. Компания Q8 (JP Morgan) — себестоимость только от оператора. | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, сообщение «ORDER No - Q80092») — ПЛАТЁЖНЫЙ ОРДЕР Q80092: плательщик Q8 GROUP LIMITED → CONDOR ANDINO SAS (VDA LA ALMERIA FINCA EL VALLE, La Unión, Antioquia, Colombia), BANCOLOMBIA (CLL 10 # 8-48 La Unión, Antioquia), SWIFT COLOCOBM, счёт 55700015652, USD 11 985,00, назначение «PAYMENT FOR INVOICE 341», Beneficiary Tax ID 901271131, Invoice 341 dd 19/11/2026. Сверка: 17 121 × 0,70 = 11 984,70 + округление 0,30 = 11 985,00.",
+    "notes": "| 🛡️ 19.11.2026: движение IN 12156.91 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:30). | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice 341 Condor Andino 11985.00 USD.pdf») — INVOICE № 341 от 19.11.2026 (CONDOR ANDINO SAS, NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; Elizabet Tabares) → Q8 GROUP LIMITED (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): свежесрезанные цветы, 17 121 стебель, LIGHT PINK PREMIUM, TOTAL VALUE USD 11 985,00. Банк фермы: CONDOR ANDINO SAS, счёт 55700015652, BANCOLOMBIA, SWIFT COLOCOBM. Компания Q8 (JP Morgan) — себестоимость только от оператора. | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, сообщение «ORDER No - Q80092») — ПЛАТЁЖНЫЙ ОРДЕР Q80092: плательщик Q8 GROUP LIMITED → CONDOR ANDINO SAS (VDA LA ALMERIA FINCA EL VALLE, La Unión, Antioquia, Colombia), BANCOLOMBIA (CLL 10 # 8-48 La Unión, Antioquia), SWIFT COLOCOBM, счёт 55700015652, USD 11 985,00, назначение «PAYMENT FOR INVOICE 341», Beneficiary Tax ID 901271131, Invoice 341 dd 19/11/2026. Сверка: 17 121 × 0,70 = 11 984,70 + округление 0,30 = 11 985,00. | 🏦 20.11.2026 (📨 ПП банка JP Morgan, Q8-092, файл «TFR-S9PSD4B9 USD 11985.00.PDF») — TRANSFER CONFIRMATION: Q8 GROUP LIMITED → CONDOR ANDINO SAS (счёт 55700015652, BIC COLOCOBMXXX, BANCOLOMBIA), USD 11 985,00, Transaction Status SUCCESS, 20 NOV 2026, назначение «PAYMENT FOR INVOICE 341»; UETR efc59144-43be-47d2-bbd0-bb2a26a6f65c.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
