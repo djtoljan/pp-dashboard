@@ -2746,5 +2746,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 70,
+    "date": "2026-11-20",
+    "sum": 5380,
+    "currency": "CNY",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Welog",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Заявка Alipay: ITK-036 + LNR-225, 5 380 RMB (Молодежь · t434 · Welog, 20.11.2026)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000314"
   }
 ]
