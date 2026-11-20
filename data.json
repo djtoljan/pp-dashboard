@@ -3607,6 +3607,34 @@
         "messageId": null
       },
       "rowId": "main-000572"
+    },
+    {
+      "row": 99,
+      "date": "2026-11-20",
+      "sum": 172543.06,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "ПОРУЧЕНИЕ № 77804 от 20.11.2026 (ООО «ВТС» → ОсОО «БиТрейд Кей Джи»), 172 543,06 EUR по инвойсу 77804 от 30.10.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000573"
     }
   ]
 }
