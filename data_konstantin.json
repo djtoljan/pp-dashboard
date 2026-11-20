@@ -1329,5 +1329,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 38,
+    "date": "2026-11-20",
+    "sum": 140975,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Заявка на оплату JIZAN PERFUMES LLC (United Arab Bank, IBAN AE68 0460 0010 3402 5987 002), USD 140 975,00, commercial invoice 26807233 от 10.11.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000133"
   }
 ]

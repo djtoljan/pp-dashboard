@@ -273,7 +273,7 @@
     "company": "PQ18",
     "color": "FF92D050",
     "clientName": "Балтик Лэнд (Движение 78)",
-    "costFormula": null,
+    "costFormula": "7 880,00 + 0,3% + 30 = 7 933,64 USDT",
     "extra": null,
     "rubles_received": "679335.50 / 17419.09",
     "statementRef": null,
