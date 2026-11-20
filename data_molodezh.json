@@ -2800,5 +2800,33 @@
     },
     "companyProvisional": false,
     "companyVerified": false
+  },
+  {
+    "row": 71,
+    "date": "2026-11-20",
+    "sum": 23869.09,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Кристал Джет",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "PAYMENT ORDER 20/11/2026, beneficiary FUJIA AUTOMAT LIMITED, USD 23 869,09, invoice No ST261120-01",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000315"
   }
 ]

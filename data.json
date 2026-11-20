@@ -3661,7 +3661,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 20.11.2026 (📨 ВТС · t7915 · 6 435,07 USD / заявка 75506, файлы «Поручение 75506.pdf» и «инвойс услуги Би трейд 75506.pdf») — ПОРУЧЕНИЕ № 75506 от 20.11.2026 (ООО «ВТС» → ОсОО «БиТрейд Кей Джи»): сумма 6 435,07 USD; получатель Qingdao Jiakemu Machinery Manufacture CO.,LTD (West of No. 2 Tianshan Road, Tongji Sub District, Jimo-City Qingdao, China 266200); банк Bank of Qingdao, SWIFT QCCBCNBQ, счёт 802581200007138; назначение «PAYMENT BY INVOICE NO: PI-261016-A02 DATE: 2026.19.11»; курс 82,3500; к перечислению 529 928,01 ₽; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Инвойс услуг БиТрейда № 75506 от 20.11.2026: 196,53 USD × 82,35 = 16 183,92 ₽. Компания-плательщик не названа (агент БиТрейд) — 🔴.",
       "calc": null,
       "sumSource": {
         "source": "order",
