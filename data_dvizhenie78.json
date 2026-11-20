@@ -463,5 +463,33 @@
       "messageId": null
     },
     "rowId": "d78-000062"
+  },
+  {
+    "row": 13,
+    "date": "2026-11-20",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": "📄 20.11.2026 (📨 Движение 78 (t2024)) — комплект по поручению №100 от 20.11.2026 (приложение к агентскому договору 120525-B от 12.05.2025): принципал ООО «Балтик Лэнд» (ИНН 7813456956) → агент ОсОО «Блэкшарк Трейд»; услуги по контракту 040826/2 от 04.08.2026; валюта USD; всего 17 256,41 USD (тело 16 825,00 + агентское 431,41, 2,5%); курс 83,10 ₽/USD. Счета NEWCONT LOGISTICS LLC (Emirates Islamic Bank PJSC, SWIFT MEBLAEADXXX): INVOICE №906.2 от 27.10.2026 — 14 575,00 USD; INVOICE №926 от 30.10.2026 — 2 250,00 USD; итого 16 825,00 USD — за пользование контейнерами (письмо Балтик Лэнд от 20.11.2026). Рубли: ПП №3126 от 20.11.2026 — 1 398 157,50 ₽ (тело, EXECUTED) / ПП №3127 от 20.11.2026 — 35 850,17 ₽ (агентское, EXECUTED). Сумма сделки — тело ордера 16 825,00 USD (правило Движения 78: только по ордеру).",
+    "rubles_received": "1398157.50 / 35850.17",
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Поручение №100 от 20.11.2026: тело 16 825,00 USD",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "d78-000065"
   }
 ]
