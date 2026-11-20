@@ -1034,7 +1034,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": 12156.91,
-    "sent_usdt": null,
+    "sent_usdt": 12085.18,
     "notes": "| 🛡️ 19.11.2026: движение IN 12156.91 USDT привязано к строке — поле received_usdt проставлено в одном вызове с леджером (wallet-record.js --row flowers:30). | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice 341 Condor Andino 11985.00 USD.pdf») — INVOICE № 341 от 19.11.2026 (CONDOR ANDINO SAS, NIT 901.271.131-7, Cra 9 N° 11-48, La Unión-Antioquia, Colombia; Elizabet Tabares) → Q8 GROUP LIMITED (TIN 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): свежесрезанные цветы, 17 121 стебель, LIGHT PINK PREMIUM, TOTAL VALUE USD 11 985,00. Банк фермы: CONDOR ANDINO SAS, счёт 55700015652, BANCOLOMBIA, SWIFT COLOCOBM. Компания Q8 (JP Morgan) — себестоимость только от оператора. | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, сообщение «ORDER No - Q80092») — ПЛАТЁЖНЫЙ ОРДЕР Q80092: плательщик Q8 GROUP LIMITED → CONDOR ANDINO SAS (VDA LA ALMERIA FINCA EL VALLE, La Unión, Antioquia, Colombia), BANCOLOMBIA (CLL 10 # 8-48 La Unión, Antioquia), SWIFT COLOCOBM, счёт 55700015652, USD 11 985,00, назначение «PAYMENT FOR INVOICE 341», Beneficiary Tax ID 901271131, Invoice 341 dd 19/11/2026. Сверка: 17 121 × 0,70 = 11 984,70 + округление 0,30 = 11 985,00.",
     "calc": null,
     "sumSource": {
@@ -1052,7 +1052,24 @@
       "file": null
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "Q8-092 JP Morgan, 20.11.2026",
+      "date": "2026-11-20"
+    },
+    "payment_facts": [
+      {
+        "entryId": "OUT_183433.23_20.11.2026_1795146927189",
+        "ref": "1b2dea5be13a94ecbe131d67aa1f3c9a6e8bac7c90fbec6c60c2419faa600b5b",
+        "txid": "1b2dea5be13a94ecbe131d67aa1f3c9a6e8bac7c90fbec6c60c2419faa600b5b",
+        "bobrAlertId": null,
+        "date": "20.11.2026",
+        "direction": "OUT",
+        "amount": 12085.18,
+        "rowId": "flw-000223"
+      }
+    ]
   },
   {
     "row": 31,
@@ -1070,7 +1087,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 33039.79,
     "notes": "📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice FL01-191126 ModestoGroup 32874.15 USD.pdf») — INVOICE No. FL01/191126 от 19.11.2026 (ModestoGroup OÜ, рег. код 16203107) → Q8 Group Limited (Company number 80242882, Room A22, 10/F, No. 52, Hung To Road, Kwun Tong, Hong Kong): Kenyan rose mix AA, 41 700 стеблей × 0,59 = 24 603,00 USD + air logistics services 8 271,15 USD = TOTAL 32 874,15 USD; банк THE CURRENCY CLOUD LIMITED (IBAN GB32TCCL04143483461312, BIC TCCLGB3L, 1 Sheldon Square, London W2 6TT). | 📄 19.11.2026 (📨 Заявки/расчеты JP Morgan, сообщение «ORDER No - Q80094») — ПЛАТЁЖНЫЙ ОРДЕР Q80094: плательщик Q8 GROUP LIMITED → MODESTOGROUP OÜ (K. Kärberi tn 18-2, Lasnamäe linnaosa, 13919 Tallinn, Estonia), THE CURRENCY CLOUD LIMITED (1 Sheldon Square, London W2 6TT), SWIFT TCCLGB3L, счёт GB32TCCL04143483461312, USD 32 874,15, назначение «PAYMENT FOR INVOICE FL01/191126», рег. код 16203107, Invoice FL01/191126 dd 19/11/2026. Сверка: 41 700 × 0,59 = 24 603,00 + логистика 8 271,15 = 32 874,15 — сходится. Компания Q8 (JP Morgan) — себестоимость только от оператора.",
     "calc": null,
     "sumSource": {
@@ -1088,7 +1105,24 @@
       "file": null
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "Q8-094 JP Morgan, 20.11.2026",
+      "date": "2026-11-20"
+    },
+    "payment_facts": [
+      {
+        "entryId": "OUT_183433.23_20.11.2026_1795146927189",
+        "ref": "1b2dea5be13a94ecbe131d67aa1f3c9a6e8bac7c90fbec6c60c2419faa600b5b",
+        "txid": "1b2dea5be13a94ecbe131d67aa1f3c9a6e8bac7c90fbec6c60c2419faa600b5b",
+        "bobrAlertId": null,
+        "date": "20.11.2026",
+        "direction": "OUT",
+        "amount": 33039.79,
+        "rowId": "flw-000224"
+      }
+    ]
   },
   {
     "row": 32,
@@ -1106,7 +1140,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 15102.86,
     "notes": null,
     "calc": null,
     "sumSource": {
@@ -1124,6 +1158,23 @@
       "file": "Invoice 18-2026 UNIFLOR 15000.00 USD.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "Q8-093 JP Morgan, 20.11.2026",
+      "date": "2026-11-20"
+    },
+    "payment_facts": [
+      {
+        "entryId": "OUT_183433.23_20.11.2026_1795146927189",
+        "ref": "1b2dea5be13a94ecbe131d67aa1f3c9a6e8bac7c90fbec6c60c2419faa600b5b",
+        "txid": "1b2dea5be13a94ecbe131d67aa1f3c9a6e8bac7c90fbec6c60c2419faa600b5b",
+        "bobrAlertId": null,
+        "date": "20.11.2026",
+        "direction": "OUT",
+        "amount": 15102.86,
+        "rowId": "flw-000226"
+      }
+    ]
   }
 ]
