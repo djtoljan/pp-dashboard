@@ -3643,6 +3643,34 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 100,
+      "date": "2026-11-20",
+      "sum": 6435.07,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "ПОРУЧЕНИЕ № 75506 от 20.11.2026 (ООО «ВТС» → БиТрейд), 6 435,07 USD по инвойсу PI-261016-A02",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000574"
     }
   ]
 }
