@@ -2806,8 +2806,8 @@
     "date": "2026-11-20",
     "sum": 23869.09,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "KIRANA GLOBAL HUB",
+    "color": "FFFFFFFF",
     "clientName": "Кристал Джет",
     "costFormula": null,
     "extra": null,
@@ -2818,7 +2818,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 20.11.2026 (📨 Молодежь · t14465 · 23 869,09 USD Кристал Джет, файл «PAYMENT_ORDER 20112026.docx») — PAYMENT ORDER от 20.11.2026: сумма **23 869,09 USD**; бенефициар **FUJIA AUTOMAT LIMITED** (305-7, Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong); банк Citibank, N.A., Hong Kong Branch (49th Floor, Champion Tower, 3 Garden Road, Central, HKG), счёт 390205798, SWIFT CITIHKHXXXX, bank code 006, branch 391; назначение «invoice No ST261120-01». Компания-плательщик не названа — 🔴. | 📄 20.11.2026 (📨 Молодежь · t14465, файл «invoice ST261120-01.pdf») — PROFORMA INVOICE № ST261120-01 от 20/11/2026, issued to **PT KIRANA GLOBAL HUB** (Jalan Subak Sari 13, Desa/Kelurahan Tibubeneng, Kec. Kuta Utara, Kab. Badung, Provinsi Bali): «Airport services and refueling 20.11.2026» — 1 × 23 869,09 USD = **23 869,09 USD**, Grand Total 23 869,09 USD. Соответствует PAYMENT ORDER от 20.11.2026 (FUJIA AUTOMAT LIMITED, invoice No ST261120-01) — компания KIRANA GLOBAL HUB.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -2827,6 +2827,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000315"
+    "rowId": "mol-000315",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "PROFORMA INVOICE ST261120-01 dd 20.11.2026, issued to PT KIRANA GLOBAL HUB",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
