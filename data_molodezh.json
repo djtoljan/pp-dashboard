@@ -2710,5 +2710,41 @@
       "messageId": null
     },
     "rowId": "mol-000310"
+  },
+  {
+    "row": 69,
+    "date": "2026-11-20",
+    "sum": 5427,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "PROFORMA INVOICE RCF261116-LN от 16.11.2026 (24 pcs × 226,125 = 5 427,00 USD)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000313",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "PROFORMA INVOICE RCF261116-LN от 16.11.2026",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
