@@ -999,7 +999,7 @@
     "vdx_rate": null,
     "received_usdt": 88163.87,
     "sent_usdt": 87835.53,
-    "notes": " | ATB, кросс-курс XE 1,09929 (19.11.2026) — перенос расчёта при переносе строки  | 🧮 2026-11-20 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
+    "notes": " | ATB, кросс-курс XE 1,09929 (19.11.2026) — перенос расчёта при переносе строки  | 🧮 2026-11-20 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. |  | 📄 21.11.2026: ПП Commerzbank (подвешенное, «Ihre Überweisung wird ausgeführt») — ATB Service GmbH → A-BLOEMEN EN PLANTEN EXPORT B.V., NL16 INGB 0009 3461 67 (ING, INGBNL2AXXX), 79 623,00 EUR, Verwendungszweck «INVOICE dd 19-11-2026», Referenznummer CCB.324.UE.POS00171714, Ausführungsdatum 20.11.2026; файл media/abl-33335.pdf (sha1 2cd2cd66…); ⬜→🟡, жду EXECUTED",
     "calc": null,
     "sumSource": {
       "source": "order",
