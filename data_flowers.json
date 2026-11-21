@@ -988,7 +988,7 @@
     "sum": 79623,
     "currency": "EUR",
     "company": "ATB",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "A-BLOEMEN EN PLANTEN EXPORT B.V. (Цветы)",
     "costFormula": "(79 623,00 × 1,0025 + 80) × 1,09929 = 87 835,53",
     "extra": "Payment from ATB (INV 79 623,00 EUR): ATB Service GmbH -> A-BLOEMEN EN PLANTEN EXPORT B.V., ING BANK, IBAN NL16 INGB 0009 3461 67, SWIFT INGBNL2A",
