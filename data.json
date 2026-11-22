@@ -752,7 +752,7 @@
       "company": "ATB",
       "color": "FF92D050",
       "clientName": "ООО «Дре русланд трейдинг»",
-      "costFormula": "(10000*1.0025+80)*1.10023 = 11118",
+      "costFormula": "(20 000,00 × 1,0025 + 80) × 1,12279 = 22 601,76",
       "extra": null,
       "rubles_received": "1840000.00 / 29440.00",
       "statementRef": null,
