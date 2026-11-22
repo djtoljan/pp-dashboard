@@ -3841,6 +3841,42 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000581"
+    },
+    {
+      "row": 108,
+      "date": "2026-11-20",
+      "sum": 42525.73,
+      "currency": "EUR",
+      "company": "PQ18",
+      "color": "FFFFFFFF",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "BONBILL O212370542078997299225 20.11.2026",
+        "file": null,
+        "date": "2026-11-22",
+        "messageId": "21070"
+      },
+      "rowId": "main-000585",
+      "companySource": {
+        "source": "owner_instruction",
+        "date": "2026-11-22",
+        "ref": "DUP-2026-11-001",
+        "messageId": "21070"
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
