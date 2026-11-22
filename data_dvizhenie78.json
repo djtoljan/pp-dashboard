@@ -217,7 +217,7 @@
     "company": "PQ18",
     "color": "FF92D050",
     "clientName": "Балтик Лэнд (Движение 78)",
-    "costFormula": "19 220,00 + 0,3% + 30 = 19 305,66",
+    "costFormula": "19 220,00 × 1,003 + 30 = 19 307,66",
     "extra": null,
     "rubles_received": "1810848.00 / 46432.26",
     "statementRef": "ПОЧТОБАНК · ПП №3028 (тело) и №3029 (агентское) от 16.11.2026",
@@ -248,6 +248,11 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r6 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    },
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction, ЛС Scream 22.11.2026 msg 21026: XFee-формула для Д78 стр.6",
+      "date": "2026-11-22"
     }
   },
   {
