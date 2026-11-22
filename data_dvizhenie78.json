@@ -79,7 +79,7 @@
     "company": "PQ18",
     "color": "FF92D050",
     "clientName": "Балтик Лэнд (Движение 78)",
-    "costFormula": "45 852,96 + 0,3% + 30 = 43 161,84",
+    "costFormula": "42 961,90 × 1,003 + 30 = 43 120,79",
     "extra": null,
     "rubles_received": "3819928.84 / 97947.45",
     "statementRef": null,
@@ -113,7 +113,12 @@
     "sentAccount": "40807810100157518600",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7813456956",
-    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_11_12_11_26---7e83b8b7-d100-417e-9088-75ed1f62191a.pdf: счёт 40702810217350005081; дата 11.11.2026; № 3002"
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_11_12_11_26---7e83b8b7-d100-417e-9088-75ed1f62191a.pdf: счёт 40702810217350005081; дата 11.11.2026; № 3002",
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "owner_instruction, ЛС Scream 22.11.2026 msg 21009: PQ18/XFee — формула XFee",
+      "date": "2026-11-22"
+    }
   },
   {
     "row": 4,
