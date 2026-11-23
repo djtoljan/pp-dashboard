@@ -3038,7 +3038,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 23.11.2026 (📨 Платежи VDX, «Payment from ❗️», файл «Invoices Sunyu Freight.pdf») — ПЛАТЁЖНЫЙ ОРДЕР: BENEFICIARY SUNYU FREIGHT CO., LTD (Room 2716, Zhongzhenghuating, Bao'an South Road, Luohu district, Shenzhen); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK CO., LTD (L-18 Shangcheng Avenue, Yiwu City, Jinhua City, Zhejiang Province), SWIFT CZCBCN2X, счёт 15602002010090075717; payment details INV.SYRD26100101-10033, SYA26100817-10456 dd. 14.10–10.11.2026; сумма ордера 9 597,02 USD; OUR. Плательщик в ордере не назван — компания пустая, строка 🔴. Приложенные инвойсы (итого 9 597,02 USD): SYRD26100101 от 14.10.2026 — 587,85 USD (Bill To LOK KEE TRADING LIMITED); SYA26100817 от 20.10.2026 — 685,00 USD (Leo Spot Capital PT); SYRD26100194 от 02.11.2026 — 2 211,25 USD (Leo Spot Capital PT); SYRD26110033 от 03.11.2026 — 2 619,40 USD (Leo Spot Capital PT); SYA26110456 от 10.11.2026 — 1 470,12 USD (Leo Spot Capital PT); SYRD26110113 от 10.11.2026 — 2 023,40 USD (Leo Spot Capital PT). Сумма ордера равна сумме инвойсов — оплата полная.",
     "calc": null,
     "sumSource": {
       "source": "order",
