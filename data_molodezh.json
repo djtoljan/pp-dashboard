@@ -31,7 +31,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 30.10 (2026-10-30)"
-    }
+    },
+    "pp_on_exchanger": "292"
   },
   {
     "row": 2,
@@ -68,7 +69,8 @@
     "sentAccount": "40807810825640000009",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7840068335",
-    "payerInnSource": "выписка VTB_Блэкшарк_02.11.2026-03.11.2026---91db48a2-eb74-46d2-a5ac-8b13e6391a3f.pdf: счёт 40702810510001021286; дата 02.11.2026; № 368"
+    "payerInnSource": "выписка VTB_Блэкшарк_02.11.2026-03.11.2026---91db48a2-eb74-46d2-a5ac-8b13e6391a3f.pdf: счёт 40702810510001021286; дата 02.11.2026; № 368",
+    "pp_on_exchanger": "63"
   },
   {
     "row": 3,
@@ -105,7 +107,8 @@
     "sentAccount": "40807810825640000009",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7840068335",
-    "payerInnSource": "выписка VTB_Блэкшарк_02.11.2026-03.11.2026---91db48a2-eb74-46d2-a5ac-8b13e6391a3f.pdf: счёт 40702810510001021286; дата 02.11.2026; № 370"
+    "payerInnSource": "выписка VTB_Блэкшарк_02.11.2026-03.11.2026---91db48a2-eb74-46d2-a5ac-8b13e6391a3f.pdf: счёт 40702810510001021286; дата 02.11.2026; № 370",
+    "pp_on_exchanger": "63"
   },
   {
     "row": 4,
@@ -140,7 +143,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 03.11 (2026-11-02)"
-    }
+    },
+    "pp_on_exchanger": "179 / 180"
   },
   {
     "row": 5,
@@ -177,7 +181,8 @@
       "kind": "vdx-table",
       "ref": "VDX 02.11_1 (2026-11-02)"
     },
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "pp_on_exchanger": "668"
   },
   {
     "row": 6,
@@ -217,7 +222,8 @@
       "kind": "vdx-table",
       "ref": "VDX 03.11 (2026-11-02)"
     },
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "pp_on_exchanger": "2869"
   },
   {
     "row": 7,
@@ -286,7 +292,8 @@
     "sentAccount": "40807810825640000009",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7705484755",
-    "payerInnSource": "выписка VTB_блэкшарк_03.11.2026-05.11.2026---b8d42a45-c2c0-4c5d-b484-c6832784eeee.pdf: счёт 40702810100000003636; дата 03.11.2026; № 10146"
+    "payerInnSource": "выписка VTB_блэкшарк_03.11.2026-05.11.2026---b8d42a45-c2c0-4c5d-b484-c6832784eeee.pdf: счёт 40702810100000003636; дата 03.11.2026; № 10146",
+    "pp_on_exchanger": "65"
   },
   {
     "row": 9,
@@ -328,7 +335,8 @@
     "sentAccount": "40807810825640000009",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7840068335",
-    "payerInnSource": "выписка VTB_блэкшарк_03.11.2026-05.11.2026---b8d42a45-c2c0-4c5d-b484-c6832784eeee.pdf: счёт 40702810510001021286; дата 03.11.2026; № 378"
+    "payerInnSource": "выписка VTB_блэкшарк_03.11.2026-05.11.2026---b8d42a45-c2c0-4c5d-b484-c6832784eeee.pdf: счёт 40702810510001021286; дата 03.11.2026; № 378",
+    "pp_on_exchanger": "64"
   },
   {
     "row": 10,
@@ -461,7 +469,8 @@
     "sentAccount": "40807810100157518600",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7709875125",
-    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_05_06_11_26---ab046faa-5987-465c-9325-5b5ac281cf44.pdf: счёт 40702810102500113307; дата 05.11.2026; № 64"
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_05_06_11_26---ab046faa-5987-465c-9325-5b5ac281cf44.pdf: счёт 40702810102500113307; дата 05.11.2026; № 64",
+    "pp_on_exchanger": "692"
   },
   {
     "row": 14,
@@ -498,7 +507,8 @@
     "sentAccount": "40807810825640000009",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7840068335",
-    "payerInnSource": "выписка VTB_блэкшарк_05.11.2026-06.11.2026---b25997a1-30e4-4440-8c2a-c0d3ae427064.pdf: счёт 40702810510001021286; дата 05.11.2026; № 380"
+    "payerInnSource": "выписка VTB_блэкшарк_05.11.2026-06.11.2026---b25997a1-30e4-4440-8c2a-c0d3ae427064.pdf: счёт 40702810510001021286; дата 05.11.2026; № 380",
+    "pp_on_exchanger": "66"
   },
   {
     "row": 15,
@@ -534,7 +544,8 @@
     "sentAccount": "40807810825640000009",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7722482116",
-    "payerInnSource": "выписка VTB_блэкшарк_05.11.2026-06.11.2026---b25997a1-30e4-4440-8c2a-c0d3ae427064.pdf: счёт 40702810100000007321; дата 05.11.2026; № 33"
+    "payerInnSource": "выписка VTB_блэкшарк_05.11.2026-06.11.2026---b25997a1-30e4-4440-8c2a-c0d3ae427064.pdf: счёт 40702810100000007321; дата 05.11.2026; № 33",
+    "pp_on_exchanger": "67"
   },
   {
     "row": 16,
@@ -575,7 +586,8 @@
       "kind": "vdx-table",
       "ref": "VDX 6.11_7 (2026-11-05)"
     },
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "pp_on_exchanger": "659"
   },
   {
     "row": 17,
@@ -610,7 +622,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 6.11_7 (2026-11-05)"
-    }
+    },
+    "pp_on_exchanger": "501 / 502 / 520 / 521 / 522"
   },
   {
     "row": 18,
@@ -651,7 +664,8 @@
       "kind": "vdx-table",
       "ref": "VDX 09.11 (2026-11-05)"
     },
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "pp_on_exchanger": "13 / 14 / 15"
   },
   {
     "row": 19,
@@ -773,7 +787,8 @@
     "sentAccount": "40807810100157518600",
     "sentAccountSource": "series",
     "payerInn": "3906335795",
-    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_10_11_11_26---7203722b-f320-4017-bcf0-92889586eda3.pdf: счёт 40702810410001636247; дата 10.11.2026; № 47"
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_10_11_11_26---7203722b-f320-4017-bcf0-92889586eda3.pdf: счёт 40702810410001636247; дата 10.11.2026; № 47",
+    "pp_on_exchanger": "705"
   },
   {
     "row": 22,
@@ -819,7 +834,8 @@
     "sentAccount": "40807810100157518600",
     "sentAccountSource": "series",
     "payerInn": "7709875125",
-    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_10_11_11_26---7203722b-f320-4017-bcf0-92889586eda3.pdf: счёт 40702810102500113307; дата 10.11.2026; № 739"
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_10_11_11_26---7203722b-f320-4017-bcf0-92889586eda3.pdf: счёт 40702810102500113307; дата 10.11.2026; № 739",
+    "pp_on_exchanger": "704"
   },
   {
     "row": 23,
@@ -864,7 +880,8 @@
       "kind": "vdx-table",
       "ref": "VDX 10.11 (2026-11-10)"
     },
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "pp_on_exchanger": "677"
   },
   {
     "row": 24,
@@ -986,7 +1003,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-10)"
-    }
+    },
+    "pp_on_exchanger": "282"
   },
   {
     "row": 27,
@@ -1154,7 +1172,8 @@
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-11)"
     },
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "pp_on_exchanger": "755 / 756"
   },
   {
     "row": 31,
@@ -1196,7 +1215,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-11)"
-    }
+    },
+    "pp_on_exchanger": "853415 / 853416"
   },
   {
     "row": 32,
@@ -1237,7 +1257,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-11)"
-    }
+    },
+    "pp_on_exchanger": "757 / 758"
   },
   {
     "row": 33,
@@ -1279,7 +1300,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-11)"
-    }
+    },
+    "pp_on_exchanger": "190 / 192"
   },
   {
     "row": 34,
@@ -1326,7 +1348,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, DM Scream, 17.11.2026, расчёт BAXS по сводной выплате 375 008 (Сенсис r30 24 087 / Молодёжь r34 28 546 / r36 7 040)",
       "date": "2026-11-17"
-    }
+    },
+    "pp_on_exchanger": "5207"
   },
   {
     "row": 35,
@@ -1370,7 +1393,8 @@
       "kind": "vdx-table",
       "ref": "VDX 11.11 (2026-11-11)"
     },
-    "payment_system": "baxs"
+    "payment_system": "baxs",
+    "pp_on_exchanger": "678"
   },
   {
     "row": 36,
@@ -1418,7 +1442,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, DM Scream, 17.11.2026, расчёт BAXS по сводной выплате 375 008",
       "date": "2026-11-17"
-    }
+    },
+    "pp_on_exchanger": "218444 / 218443"
   },
   {
     "row": 37,
@@ -1459,7 +1484,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r37 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "197"
   },
   {
     "row": 38,
@@ -1492,7 +1518,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r38 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "679"
   },
   {
     "row": 39,
@@ -1538,7 +1565,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r39 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "74"
   },
   {
     "row": 40,
@@ -1579,7 +1607,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r40 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "5229 / 5228"
   },
   {
     "row": 41,
@@ -1606,7 +1635,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r41 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "5231 / 5230"
   },
   {
     "row": 42,
@@ -1652,7 +1682,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r42 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "5232 / 5233"
   },
   {
     "row": 43,
@@ -1725,7 +1756,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r44 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "200"
   },
   {
     "row": 45,
@@ -1758,7 +1790,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "vdx-kursy-19.11.xlsx"
-    }
+    },
+    "pp_on_exchanger": "688 / 687 / 681"
   },
   {
     "row": 46,
@@ -1805,7 +1838,8 @@
     "costSourceRef": {
       "ref": "FINIVEST AI msg 63551, 17.11.2026 (C$AI, расчёт оператора)",
       "date": "2026-11-17"
-    }
+    },
+    "pp_on_exchanger": "680"
   },
   {
     "row": 47,
@@ -1892,7 +1926,8 @@
     "costSourceRef": {
       "ref": "FINIVEST AI msg 63553, 17.11.2026 (C$AI, расчёт оператора)",
       "date": "2026-11-17"
-    }
+    },
+    "pp_on_exchanger": "5246"
   },
   {
     "row": 49,
@@ -1979,7 +2014,8 @@
     "costSourceRef": {
       "ref": "FINIVEST AI msg 63551, 17.11.2026 (C$AI, расчёт оператора)",
       "date": "2026-11-17"
-    }
+    },
+    "pp_on_exchanger": "682"
   },
   {
     "row": 51,
@@ -2023,7 +2059,8 @@
         "date": "16.11.2026"
       }
     ],
-    "dealType": "exchange"
+    "dealType": "exchange",
+    "pp_on_exchanger": "69"
   },
   {
     "row": 52,
@@ -2065,7 +2102,8 @@
     "costSourceRef": {
       "ref": "FINIVEST AI msg 63551, 17.11.2026 (C$AI, расчёт оператора)",
       "date": "2026-11-17"
-    }
+    },
+    "pp_on_exchanger": "205"
   },
   {
     "row": 53,
@@ -2102,7 +2140,8 @@
       "file": "RAUTO1611_1_invoice_edited.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "pp_on_exchanger": "204"
   },
   {
     "row": 54,
@@ -2235,7 +2274,8 @@
         "amount": 13270.76,
         "rowId": "mol-000296"
       }
-    ]
+    ],
+    "pp_on_exchanger": "208"
   },
   {
     "row": 57,
@@ -2276,7 +2316,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "pp_on_exchanger": "141 / 140"
   },
   {
     "row": 58,
@@ -2312,7 +2353,8 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "pp_on_exchanger": "678 / 679 / 680"
   },
   {
     "row": 59,
@@ -2369,7 +2411,8 @@
         "amount": 20985.45,
         "rowId": "mol-000299"
       }
-    ]
+    ],
+    "pp_on_exchanger": "684"
   },
   {
     "row": 60,
@@ -2401,7 +2444,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "vdx-kursy-19.11.xlsx"
-    }
+    },
+    "pp_on_exchanger": "685"
   },
   {
     "row": 61,
@@ -2459,7 +2503,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "pp_on_exchanger": "725"
   },
   {
     "row": 62,
@@ -2529,7 +2574,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "pp_on_exchanger": "45 / 46"
   },
   {
     "row": 64,
@@ -2582,7 +2628,8 @@
         "amount": 50225.79,
         "rowId": "mol-000305"
       }
-    ]
+    ],
+    "pp_on_exchanger": "688"
   },
   {
     "row": 65,
@@ -2635,7 +2682,8 @@
         "amount": 14815.86,
         "rowId": "mol-000306"
       }
-    ]
+    ],
+    "pp_on_exchanger": "689"
   },
   {
     "row": 66,
@@ -2700,7 +2748,8 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000308"
+    "rowId": "mol-000308",
+    "pp_on_exchanger": "690"
   },
   {
     "row": 68,
@@ -2728,7 +2777,8 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000310"
+    "rowId": "mol-000310",
+    "pp_on_exchanger": "5300"
   },
   {
     "row": 69,
@@ -2837,7 +2887,8 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "pp_on_exchanger": "681 / 682"
   },
   {
     "row": 72,
@@ -2930,6 +2981,7 @@
       "messageId": null
     },
     "rowId": "mol-000318",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "pp_on_exchanger": "104 / 105"
   }
 ]

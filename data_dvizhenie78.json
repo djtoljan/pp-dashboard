@@ -31,7 +31,8 @@
     "sentAccount": "40807810100157518600",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7839125772",
-    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_02_03_11_26---92194893-8a3b-4e46-a171-3020f14861a3.pdf: счёт 40702810526620000300; дата 02.11.2026; № 255"
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_02_03_11_26---92194893-8a3b-4e46-a171-3020f14861a3.pdf: счёт 40702810526620000300; дата 02.11.2026; № 255",
+    "pp_on_exchanger": "687"
   },
   {
     "row": 2,
@@ -69,7 +70,8 @@
     "sentAccount": "40807810100157518600",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7839125772",
-    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_03_05_11_26---b08b8e41-2741-41e2-8dc6-0d4953e88cf9.pdf: счёт 40702810526620000300; дата 03.11.2026; № 258"
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_03_05_11_26---b08b8e41-2741-41e2-8dc6-0d4953e88cf9.pdf: счёт 40702810526620000300; дата 03.11.2026; № 258",
+    "pp_on_exchanger": "691"
   },
   {
     "row": 3,
@@ -118,7 +120,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, ЛС Scream 22.11.2026 msg 21009: PQ18/XFee — формула XFee",
       "date": "2026-11-22"
-    }
+    },
+    "pp_on_exchanger": "710"
   },
   {
     "row": 4,
@@ -162,7 +165,8 @@
     "sentAccount": "40807810100157518600",
     "sentAccountSource": "bank_confirmed",
     "payerInn": "7839125772",
-    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_12_13_11_26---566d2b11-18de-4c25-835c-2565b3be6b7b.pdf: счёт 40702810526620000300; дата 12.11.2026; № 268"
+    "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_12_13_11_26---566d2b11-18de-4c25-835c-2565b3be6b7b.pdf: счёт 40702810526620000300; дата 12.11.2026; № 268",
+    "pp_on_exchanger": "714"
   },
   {
     "row": 5,
@@ -207,7 +211,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r5 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "717"
   },
   {
     "row": 6,
@@ -253,7 +258,8 @@
     "costSourceRef": {
       "ref": "owner_instruction, ЛС Scream 22.11.2026 msg 21026: XFee-формула для Д78 стр.6",
       "date": "2026-11-22"
-    }
+    },
+    "pp_on_exchanger": "718"
   },
   {
     "row": 7,
@@ -367,7 +373,8 @@
       "date": null
     },
     "companyProvisional": false,
-    "companyVerified": true
+    "companyVerified": true,
+    "pp_on_exchanger": "725"
   },
   {
     "row": 10,
@@ -407,7 +414,8 @@
     "vdxRateSource": {
       "kind": "scream-file",
       "ref": "input-almeno-19.11_копия---a2d4fbe8-5faa-4e68-84c2-13d52512ee6d.xlsx (стр. 11, курс 82.25)"
-    }
+    },
+    "pp_on_exchanger": "724"
   },
   {
     "row": 11,
