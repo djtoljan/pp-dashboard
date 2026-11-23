@@ -510,6 +510,7 @@
       "messageId": null
     },
     "rowId": "d78-000065",
-    "docKey": "{\"beneficiary\":\"NEWCONT LOGISTICS LLC\",\"iban\":\"AE410340003708461275802\",\"invoices\":[\"906.2\",\"926\",\"906\"],\"contract\":\"040826/2\"}"
+    "docKey": "{\"beneficiary\":\"NEWCONT LOGISTICS LLC\",\"iban\":\"AE410340003708461275802\",\"invoices\":[\"906.2\",\"926\",\"906\"],\"contract\":\"040826/2\"}",
+    "pp_on_exchanger": "733"
   }
 ]
