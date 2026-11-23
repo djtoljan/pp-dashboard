@@ -2987,21 +2987,21 @@
   {
     "row": 75,
     "date": "2026-11-20",
-    "sum": null,
-    "currency": null,
-    "company": null,
+    "sum": 6050,
+    "currency": "USD",
+    "company": "PQ18",
     "color": "FF4FC3F7",
     "clientName": "Смарт-Агент",
-    "costFormula": "6 050 + 0,3% + 30",
+    "costFormula": null,
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
+    "sent_rubles_vdx": "501305.42 / 26598.19",
+    "exchange_to": "VDX",
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 23.11.2026 (📨 Молодёжь · t14532, файлы «ALEKSEY_PRO_(261027)_1.pdf» и «Invoice 6 050 USD.pdf») — PROFORMA INVOICE GD-22610272/REVISED от 27.10.2026: G.D.ENTERPRISES (99-5 Onsu-dong, Kuro-ku, Seoul, Korea; KOOKMIN BANK, счёт 538801-01-224440, SWIFT CZNBKRSEXXX) → PQ18 Limited; nail files: GD-3086SS 2 000 шт × ,70 = 400,00; GD-3083M 1 000 шт × /bin/zsh,95 = ,00; GD-3083M без логотипа 2 000 шт × /bin/zsh,85 = 700,00; ИТОГО 5 000 шт US 050,00; 100% T/T до отгрузки, FOB Korea. | 📄 23.11.2026 (📨 Молодёжь · t14532, файл «Платежное поручение 161861.docx») — реквизиты платежа: BENEFICIARY GD.ENTERPRISES, ACCOUNT 538801-01-224440, KOOKMIN BANK, SWIFT CZNBKRSEXXX, USD 6 050,00, PI GD-22610272/REVISED. | 📄 23.11.2026 (📨 Молодёжь · t14532, файл «пп.pdf») — ПП №289 от 20.11.2026: ООО «Смарт-Агент» → VDXSERVICES-FZCO, 501 305,42 ₽ {VO11100} для перечисления (G.D. ENTERPRISES) по PI GD-22610272/REVISED; тело, часть sent_rubles_vdx 501 305,42, маршрут VDX. | 📄 23.11.2026 (📨 Молодёжь · t14532, файл «пп возн-е.pdf») — ПП №290 от 20.11.2026: ООО «Смарт-Агент» → VDXSERVICES-FZCO, 26 598,19 ₽ {VO21100} вознаграждение агента по заявке №3 от 20.11.2026, без НДС; часть sent_rubles_vdx 26 598,19. | 🔧 23.11.2026 (распоряжение Scream, FINIVEST AI): сделка GD.Enterprises 6 050 USD вынесена из строки 26 (там остался MARPOL / ПП 282).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -3010,6 +3010,15 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000320"
+    "rowId": "mol-000320",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "PI GD-22610272/REVISED",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false,
+    "pp_on_exchanger": "289 / 290"
   }
 ]
