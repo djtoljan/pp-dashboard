@@ -3972,6 +3972,28 @@
         "ref": "BONBILL O212370542078997299225 20.11.2026 (DUP-2026-11-001)",
         "date": "2026-11-22"
       }
+    },
+    {
+      "row": 109,
+      "date": "2026-11-23",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "Логолок",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": null,
+      "rowId": "main-000586"
     }
   ]
 }
