@@ -2990,7 +2990,7 @@
     "sum": 6050,
     "currency": "USD",
     "company": "PQ18",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Смарт-Агент",
     "costFormula": "6 050 + 0,3% + 30",
     "extra": null,
