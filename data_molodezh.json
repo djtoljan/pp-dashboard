@@ -3148,5 +3148,33 @@
     "calc": null,
     "sumSource": null,
     "rowId": "mol-000326"
+  },
+  {
+    "row": 81,
+    "date": "2026-11-23",
+    "sum": 108924.79,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Корабельное дело",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "PROFORMA FATURA № АА-1609-161483 от 18.11.26 (40% оплата), договор ATL-223-EURO",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000327"
   }
 ]
