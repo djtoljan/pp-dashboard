@@ -300,7 +300,7 @@
     "date": "2026-11-03",
     "sum": 215098.53,
     "currency": "USD",
-    "company": "Q8",
+    "company": "Z SOURCE",
     "color": "FFFFFF00",
     "clientName": "ООО «СТРЕЛОЙ Е-КОММЕРЦ»",
     "costFormula": "215 098,53 + 0,3% + 30 = 215 773,83 USDT",
@@ -316,13 +316,14 @@
     "calc": null,
     "rowId": "mol-000222",
     "companySource": {
-      "source": "owner_instruction",
-      "date": null,
-      "ref": "Запускаем с Q8 (Молодежь t13206",
-      "messageId": null
+      "source": "foreign_pp",
+      "file": "input-4536_Processing_215098.53_USD---2c909f0f-e416-4e5f-8d68-94f276975427.pdf",
+      "txid": null,
+      "ref": "O2124876769432567808707",
+      "date": null
     },
     "companyProvisional": false,
-    "companyVerified": false,
+    "companyVerified": true,
     "costSource": "не подтверждено оператором",
     "costSourceRef": {
       "ref": "telegram:7206154434#62929",
