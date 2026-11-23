@@ -3076,5 +3076,33 @@
       "messageId": null
     },
     "rowId": "mol-000323"
+  },
+  {
+    "row": 78,
+    "date": "2026-11-23",
+    "sum": 849000,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Экспорт Финмаркет",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Сообщение Молодежь t14550 23.11.2026: 849 000 USD Экспорт Финмаркет; лицензионный договор № FM/15-12 от 15.12.2025",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000324"
   }
 ]
