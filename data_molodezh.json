@@ -3020,5 +3020,33 @@
     "companyProvisional": true,
     "companyVerified": false,
     "pp_on_exchanger": "289 / 290"
+  },
+  {
+    "row": 76,
+    "date": "2026-11-23",
+    "sum": 9597.02,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Leo Spot Capital (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Платёж VDX «Payment from ❗️» SUNYU FREIGHT CO., LTD 9 597,02 USD, 23.11.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000322"
   }
 ]
