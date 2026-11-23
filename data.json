@@ -3479,7 +3479,19 @@
       "costSourceRef": {
         "ref": "owner_instruction FINIVEST AI msg 65220 23.11.2026",
         "date": "2026-11-23"
-      }
+      },
+      "payment_facts": [
+        {
+          "entryId": "OUT_79126.96_23.11.2026_1795427606720",
+          "ref": "bc4d2322300c2892cfc503985a82060e5767c6d01c0ec01d301818d8500d0db3",
+          "txid": "bc4d2322300c2892cfc503985a82060e5767c6d01c0ec01d301818d8500d0db3",
+          "bobrAlertId": null,
+          "date": "23.11.2026",
+          "direction": "OUT",
+          "amount": 33768.19,
+          "rowId": "main-000565"
+        }
+      ]
     },
     {
       "row": 93,
@@ -3521,7 +3533,19 @@
       "costSourceRef": {
         "ref": "owner_instruction FINIVEST AI msg 65220 23.11.2026",
         "date": "2026-11-23"
-      }
+      },
+      "payment_facts": [
+        {
+          "entryId": "OUT_79126.96_23.11.2026_1795427606720",
+          "ref": "bc4d2322300c2892cfc503985a82060e5767c6d01c0ec01d301818d8500d0db3",
+          "txid": "bc4d2322300c2892cfc503985a82060e5767c6d01c0ec01d301818d8500d0db3",
+          "bobrAlertId": null,
+          "date": "23.11.2026",
+          "direction": "OUT",
+          "amount": 29252.39,
+          "rowId": "main-000566"
+        }
+      ]
     },
     {
       "row": 94,
