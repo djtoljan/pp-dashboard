@@ -553,5 +553,27 @@
       "messageId": null
     },
     "rowId": "d78-000067"
+  },
+  {
+    "row": 15,
+    "date": "2026-11-24",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": "Отправки рублей ПП. 24.11.2026: Альмено, заявка 89, транспортные услуги, Балтик Лэнд",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: Отправки рублей ПП. 24.11.2026: Альмено, заявка 89, транспортные услуги, Балтик Лэнд",
+    "calc": null,
+    "sumSource": null,
+    "rowId": "d78-000069"
   }
 ]
