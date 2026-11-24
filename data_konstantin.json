@@ -1469,7 +1469,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 24.11.2026 (📨 Константин Просто Группа «Платит Q8», файл «Invoice_26807233_Q8_Group_Limited (1).pdf») — COMMERCIAL INVOICE № 26807233 от 10.11.2026: SELLER JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, P.O. Box 34659, Dubai, UAE) → BUYER/BILL TO Q8 Group Limited (Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong, Reg. No. 80242882); Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 = USD 169 975,00; VAT 0% (export); TOTAL DUE USD 169 975,00; оплата 100% авансом, ремиттер Q8 Group Limited (JP Morgan Chase, CHASUS33XXX). Бенефициар: JIZAN PERFUMES LLC, United Arab Bank, Dubai (UARBAEAAXXX), IBAN AE68 0460 0010 3402 5987 002, корреспондент Bank of New York Mellon (IRVTUS3NXXX), код GDI. Компания Q8 — из инвойса, цвет ⬜. | 💳 24.11.2026 (📨 Константин Просто Группа, файл «29 000USD (24.11.2026).xlsx») — форма реквизитов на платёж: Amount 29 000,00 USD; Beneficiary JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, P.O. Box 34659, Dubai, UAE); банк United Arab Bank, Dubai, UAE (UARBAEAAXXX); IBAN AE68 0460 0010 3402 5987 002 (USD); интермедиари Bank of New York Mellon (IRVTUS3NXXX); Details of payment «Payment for perfumery products under commercial invoice No. 26807233 dated 10.11.2026, 100% advance. Purpose of payment code: GDI». Это ЧАСТИЧНЫЙ платёж 29 000 из 169 975 USD по инвойсу 26807233 (одна заявка — одна строка, сумма строки не меняется).",
+    "notes": "📄 24.11.2026 (📨 Константин Просто Группа «Платит Q8», файл «Invoice_26807233_Q8_Group_Limited (1).pdf») — COMMERCIAL INVOICE № 26807233 от 10.11.2026: SELLER JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, P.O. Box 34659, Dubai, UAE) → BUYER/BILL TO Q8 Group Limited (Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong, Reg. No. 80242882); Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 = USD 169 975,00; VAT 0% (export); TOTAL DUE USD 169 975,00; оплата 100% авансом, ремиттер Q8 Group Limited (JP Morgan Chase, CHASUS33XXX). Бенефициар: JIZAN PERFUMES LLC, United Arab Bank, Dubai (UARBAEAAXXX), IBAN AE68 0460 0010 3402 5987 002, корреспондент Bank of New York Mellon (IRVTUS3NXXX), код GDI. Компания Q8 — из инвойса, цвет ⬜. | 💳 24.11.2026 (📨 Константин Просто Группа, файл «29 000USD (24.11.2026).xlsx») — форма реквизитов на платёж: Amount 29 000,00 USD; Beneficiary JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, P.O. Box 34659, Dubai, UAE); банк United Arab Bank, Dubai, UAE (UARBAEAAXXX); IBAN AE68 0460 0010 3402 5987 002 (USD); интермедиари Bank of New York Mellon (IRVTUS3NXXX); Details of payment «Payment for perfumery products under commercial invoice No. 26807233 dated 10.11.2026, 100% advance. Purpose of payment code: GDI». Это ЧАСТИЧНЫЙ платёж 29 000 из 169 975 USD по инвойсу 26807233 (одна заявка — одна строка, сумма строки не меняется). | 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Commercial invoice 26807233 JIZAN 29,000.00 USD Q8.pdf») — COMMERCIAL INVOICE № 26807233 от 10.11.2026 (частичная, на 29 000 USD): Perfumery products HS 3303.00.00 — 2 615 шт × 11,09 = USD 29 000,00; VAT 0% (экспорт), TOTAL DUE USD 29 000,00; 100% аванс, ремиттер Q8 Group Limited (JP Morgan Chase, CHASUS33XXX); бенефициар JIZAN PERFUMES LLC. Это счёт на частичный платёж 29 000 из 169 975 USD по той же заявке — сумма строки не меняется.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1483,6 +1483,42 @@
       "source": "invoice",
       "date": "2026-11-10",
       "ref": "Invoice 26807233",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
+  },
+  {
+    "row": 42,
+    "date": "2026-11-24",
+    "sum": 80000,
+    "currency": "USD",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "INVOICE EL261116TP Shanghai EuroLink 80 000 USD",
+      "file": null,
+      "date": "2026-11-16",
+      "messageId": null
+    },
+    "rowId": "kon-000137",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-16",
+      "ref": "EL261116TP",
       "file": null
     },
     "companyProvisional": true,

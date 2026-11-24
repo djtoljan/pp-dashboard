@@ -3686,7 +3686,7 @@
       "company": "PQ18",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": null,
+      "costFormula": "172 543,06 / 0,913409305692 + 0,3% + 30 = 189 496,75",
       "extra": null,
       "rubles_received": "15546129.71 / 202099.69",
       "statementRef": null,
@@ -3695,7 +3695,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 20.11.2026 (📨 ВТС · t7906 · 172 543,06 EUR / заявка 77804 (2 часть платежа), файлы «поручение 77804 2пл.pdf» и «инвойс услуги Би трейд 77804 2пл.pdf») — ПОРУЧЕНИЕ № 77804 от 20.11.2026 (ООО «ВТС» → ОсОО «БиТрейд Кей Джи»): сумма 172 543,06 EUR; получатель PT INNOVATIVE DATA FLOW (Benoa Square, Jalan Bypass I Gusti Ngurah Rai 21A, Kedonganan, Kuta, Badung, Bali 80361); банк PT. Bank Mandiri (Persero) Tbk, SWIFT BMRIIDJA, счёт 1750003425542 (EUR); назначение Sales Contract № 19-09/01 от 19.09.2025, инвойс № 77804 от 30.10.2026; курс 90,1000; к перечислению 15 546 129,71 ₽; комиссия агента 1,3%; срок 5–10 банковских дней. Инвойс услуг БиТрейда № 77804 от 20.11.2026: 2 243,06 EUR × 90,10 = 202 099,69 ₽. Компания-плательщик не названа (агент БиТрейд) — 🔴. | 📄 20.11.2026 (📨 ВТС · t7906, файл «Data Flow EUR.xlsx») — INVOICE # 77804 от 30.10.2026, PT INNOVATIVE DATA FLOW (BENOA SQUARE, JALAN BYPASS I GUSTI NGURAH RAI 21A, KEDONGANAN KUTA, BADUNG, BALI 80361; +62 813 3931 3418; idflowmail@gmail.com) → BILL TO **PQ18 Limited** (RM 1710, 17/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Hong Kong). Позиции: насосы/аксессуары Interpump-типа (ELP POLY, POLY 2020/2025/2030/2073/2120/2150, CKA 120/230, CKL 2226.1, CPQ 1316.1, KA 4815, KKL 3316, PA 330/530, PBO 1540/1100/1250/1440/1840, TMG 4040, TML 1220/1520/1528/2028/2420/3016, WJC-U 410/710, C53.3 PP, WHY1520, клапаны, блоки управления, хвостовики) — 38+ позиций. Оплата 2-й части по поручению № 77804 от 20.11.2026 — 172 543,06 EUR. Компания PQ18 Limited — из инвойса. | 💳 24.11.2026 (📨 Заявки PQ18, текст без файла) — реквизиты платежа по заказу (Payer PQ18 LIMITED): BENEFICIARY PT INNOVATIVE DATA FLOW, BENOA SQUARE, JALAN BYPASS I GUSTI NGURAH RAI NOMOR 21A, KEDONGANAN KUTA, BADUNG, BALI 80361; банк PT. Bank Mandiri (Persero) Tbk, Jl. Uluwatu II No. 112 X, Jimbaran, Badung, Bali, Indonesia, SWIFT BMRIIDJA; счёт 1750003425542 (EUR); Remarks «PAYMENT FOR INVOICE 77804 DD 30.10.2026 FOR PUMPS AND SPARE PARTS»; сумма 172 543,06 EUR. Совпадает со строкой (сумма, бенефициар, инвойс 77804). Цвет ⬜ и расчёт не менял — расчёт PQ18 по EUR ждёт кросс-курс оператора.",
+      "notes": "📄 20.11.2026 (📨 ВТС · t7906 · 172 543,06 EUR / заявка 77804 (2 часть платежа), файлы «поручение 77804 2пл.pdf» и «инвойс услуги Би трейд 77804 2пл.pdf») — ПОРУЧЕНИЕ № 77804 от 20.11.2026 (ООО «ВТС» → ОсОО «БиТрейд Кей Джи»): сумма 172 543,06 EUR; получатель PT INNOVATIVE DATA FLOW (Benoa Square, Jalan Bypass I Gusti Ngurah Rai 21A, Kedonganan, Kuta, Badung, Bali 80361); банк PT. Bank Mandiri (Persero) Tbk, SWIFT BMRIIDJA, счёт 1750003425542 (EUR); назначение Sales Contract № 19-09/01 от 19.09.2025, инвойс № 77804 от 30.10.2026; курс 90,1000; к перечислению 15 546 129,71 ₽; комиссия агента 1,3%; срок 5–10 банковских дней. Инвойс услуг БиТрейда № 77804 от 20.11.2026: 2 243,06 EUR × 90,10 = 202 099,69 ₽. Компания-плательщик не названа (агент БиТрейд) — 🔴. | 📄 20.11.2026 (📨 ВТС · t7906, файл «Data Flow EUR.xlsx») — INVOICE # 77804 от 30.10.2026, PT INNOVATIVE DATA FLOW (BENOA SQUARE, JALAN BYPASS I GUSTI NGURAH RAI 21A, KEDONGANAN KUTA, BADUNG, BALI 80361; +62 813 3931 3418; idflowmail@gmail.com) → BILL TO **PQ18 Limited** (RM 1710, 17/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Hong Kong). Позиции: насосы/аксессуары Interpump-типа (ELP POLY, POLY 2020/2025/2030/2073/2120/2150, CKA 120/230, CKL 2226.1, CPQ 1316.1, KA 4815, KKL 3316, PA 330/530, PBO 1540/1100/1250/1440/1840, TMG 4040, TML 1220/1520/1528/2028/2420/3016, WJC-U 410/710, C53.3 PP, WHY1520, клапаны, блоки управления, хвостовики) — 38+ позиций. Оплата 2-й части по поручению № 77804 от 20.11.2026 — 172 543,06 EUR. Компания PQ18 Limited — из инвойса. | 💳 24.11.2026 (📨 Заявки PQ18, текст без файла) — реквизиты платежа по заказу (Payer PQ18 LIMITED): BENEFICIARY PT INNOVATIVE DATA FLOW, BENOA SQUARE, JALAN BYPASS I GUSTI NGURAH RAI NOMOR 21A, KEDONGANAN KUTA, BADUNG, BALI 80361; банк PT. Bank Mandiri (Persero) Tbk, Jl. Uluwatu II No. 112 X, Jimbaran, Badung, Bali, Indonesia, SWIFT BMRIIDJA; счёт 1750003425542 (EUR); Remarks «PAYMENT FOR INVOICE 77804 DD 30.10.2026 FOR PUMPS AND SPARE PARTS»; сумма 172 543,06 EUR. Совпадает со строкой (сумма, бенефициар, инвойс 77804). Цвет ⬜ и расчёт не менял — расчёт PQ18 по EUR ждёт кросс-курс оператора.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — (FX Q8 24.11.2026: 1 USD = 0,913409305692 EUR); валюта: USDT.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -3712,7 +3712,12 @@
         "file": null
       },
       "companyProvisional": true,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "FX Q8 24.11.2026 11:20 DBS Bank",
+        "date": "2026-11-24"
+      }
     },
     {
       "row": 99,
