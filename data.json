@@ -4284,6 +4284,34 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 118,
+      "date": "2026-11-24",
+      "sum": 36578.68,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Инвойс БиТрейд 79076 / заявка 79076, 36 578,68 EUR",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000596"
     }
   ]
 }
