@@ -1116,7 +1116,8 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "payee": "null"
+    "payee": "Shanghai EuroLink Supply Chain Management Co., Ltd.",
+    "payment_system": "XFee"
   },
   {
     "row": 32,
