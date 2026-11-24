@@ -1282,5 +1282,27 @@
       "ref": "JP Morgan Q8-114",
       "date": "2026-11-24"
     }
+  },
+  {
+    "row": 35,
+    "date": "2026-11-24",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "ООО ЦЕРЕРА (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "9645566.22 / 241139.16",
+    "statementRef": "Выписка Почтабанк 24.11.2026: ПП №1303 тело 9 645 566, 22 + ПП №1304 агентское 241 139, 16 (ООО ЦЕРЕРА, поручение 56)",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: Выписка Почтабанк 24.11.2026: ПП №1303 тело 9 645 566, 22 + ПП №1304 агентское 241 139, 16 (ООО ЦЕРЕРА, поручение 56)",
+    "calc": null,
+    "sumSource": null,
+    "rowId": "flw-000229"
   }
 ]
