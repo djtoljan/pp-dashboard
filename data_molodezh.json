@@ -3105,10 +3105,10 @@
     "date": "2026-11-23",
     "sum": 7841.5,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
     "clientName": "Вилог",
-    "costFormula": null,
+    "costFormula": "7 841,50 + 0,3% + 30 = 7 895,02 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -3126,7 +3126,15 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000323"
+    "rowId": "mol-000323",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-03",
+      "ref": "INVOICE SZHSE26110068A",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 78,
