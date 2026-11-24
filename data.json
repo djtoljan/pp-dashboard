@@ -4247,6 +4247,34 @@
         "messageId": null
       },
       "rowId": "main-000594"
+    },
+    {
+      "row": 117,
+      "date": "2026-11-24",
+      "sum": 25894.3,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО ЕТЕ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Поручение №32 от 24.11.2026, инвойс 77508 от 03.11.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000595"
     }
   ]
 }
