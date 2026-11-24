@@ -2960,7 +2960,7 @@
     "date": "2026-11-20",
     "sum": 45733.86,
     "currency": "USD",
-    "company": null,
+    "company": "PQ18",
     "color": "FFFF0000",
     "clientName": "ФЛАВИА",
     "costFormula": null,
@@ -2983,7 +2983,15 @@
     },
     "rowId": "mol-000318",
     "directToExchanger": true,
-    "pp_on_exchanger": "104 / 105"
+    "pp_on_exchanger": "104 / 105",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "PROFORMA INVOICE HEN-SH01/2-2026 от 02.11.2026 TO PQ18 Limited",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 75,
