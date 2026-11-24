@@ -4069,6 +4069,42 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000589"
+    },
+    {
+      "row": 112,
+      "date": "2026-11-24",
+      "sum": 46837.97,
+      "currency": "USD",
+      "company": "Q8 Group Limited",
+      "color": "FFFFFFFF",
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "JP Morgan ORDER No 110",
+        "file": null,
+        "date": "2026-11-24",
+        "messageId": null
+      },
+      "rowId": "main-000590",
+      "companySource": {
+        "source": "order",
+        "date": "2026-11-24",
+        "ref": "JP Morgan ORDER No 110",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
