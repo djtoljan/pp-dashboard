@@ -1505,7 +1505,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 24.11.2026 (📨 Константин Просто Группа «Платит PQ18», файл «EL261116TP - PQ18 Limited.pdf») — INVOICE № EL261116TP от 16.11.2026, due date 19.11.2026, контракт FRW260928 от 28.09.2026: продавец Shanghai EuroLink Supply Chain Management Co., Ltd. (Room 1313, Tianhong Business Building, No. 682 Shuidian Road, Hongkou District, Shanghai, China; USCC 91310110MAKNRPM85Q) → BILL TO PQ18 Limited (Hong Kong); услуги 1 × 80 000,00 = USD 80 000,00 — freight forwarding services (организация международной перевозки груза), VAT 0%. Платит PQ18. Сумма строки — из инвойса. | 💳 24.11.2026 (📨 Константин Просто Группа, файл «80 000.00 USD (24.11.2026).xlsx») — заявка на платёж (форма клиента): сумма 80 000,00 USD; валюта USD; банк бенефициара INDUSTRIAL BANK CO., LTD., SHANGHAI BRANCH, China, No.168 Jiangning Road, Shanghai; счёт для международных платежей 216221400100134359; SWIFT FJIBCNBA600. Соответствует инвойсу EL261116TP (Shanghai EuroLink), сумма строки 80 000 USD.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
