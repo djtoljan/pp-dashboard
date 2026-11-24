@@ -1541,7 +1541,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 24.11.2026 (📨 Константин Просто Группа, файл «INVOICE K-01091126_42.025,00.pdf»; вопрос клиента: «Подскажите плательщика») — INVOICE K-01/0911/26 от 09.11.2026: KLER HOME LTD (63-66 Hatton Garden, Fifth Floor, Suite 23, London, United Kingdom, EC1N 8LE); позиция «For furniture», услуга 1 × 42 025,00 EUR = 42 025,00 EUR; оплата в течение 10 дней. Плательщик (наша компания: Q8 / PQ18 / Z Source и т.п.) в инвойсе НЕ указан — строка 🔴, ждём ответа клиента/владельца, кто платит.",
     "calc": null,
     "sumSource": {
       "source": "invoice",

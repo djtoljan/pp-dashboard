@@ -1241,5 +1241,41 @@
         "rowId": "flw-000227"
       }
     ]
+  },
+  {
+    "row": 34,
+    "date": "2026-11-24",
+    "sum": 19000,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "UNIFLOR (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Proforma Invoice 20/2026 UNIFLOR 19 000 USD",
+      "file": null,
+      "date": "2026-11-18",
+      "messageId": null
+    },
+    "rowId": "flw-000228",
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-18",
+      "ref": "Proforma 20/2026",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
