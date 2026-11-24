@@ -3225,7 +3225,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": null,
-    "costFormula": null,
+    "costFormula": "JP Morgan Q8-108: 11 300,00 + 50,00 = 11 350,00 + 50,00 / 0,9965 = 50,18 = 11 400,18",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -3234,7 +3234,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -3251,6 +3251,11 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "JP Morgan Q8-108",
+      "date": "2026-11-24"
+    }
   }
 ]
