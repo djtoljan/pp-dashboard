@@ -4078,7 +4078,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": null,
-      "costFormula": null,
+      "costFormula": "JP Morgan Q8-110: 46 837,97 / 0,9965 = 47 002,48 + 50,00 / 0,9965 = 50,18 = 47 052,66",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -4087,7 +4087,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "💳 24.11.2026 (📨 Заявки/расчеты JP Morgan, ORDER No 110) — ордер на оплату (Payer Q8 GROUP LIMITED): BENEFICIARY DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan Organize Sanayi Bolgesi 9. Cadde No: 01, Melikgazi / Kayseri, Turkey); банк GARANTI BANKASI, Kayseri OSB Branch (TGBATRIS), счёт TR20 0006 2001 1470 0009 0817 80; Remarks «PAYMENT FOR PROFORMA INVOICE NO. 268922 DD 16.11.2026»; сумма 46 837,97 USD. Клиент по заявке не назван — строка ⬜ без клиента, ждём уточнения владельца. | 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «PI 268922 DENER Q8 46,837.97 USD.pdf») — PROFORMA INVOICE № 268922 (DENER INOVASYON, Kayseri, Turkey): стеновые панели SIDING/INTERMEDIATE HINGE, WOOD SURFACE / LINED EMBOSSED PANEL (RAL 8017, 7016, 9006, 9016) — 13 позиций, скидка 54%; Amount 46 837,97 $, VAT 0,00, Total 46 837,97 $; условие In advance. Совпадает с суммой ордера ORDER No 110 (46 837,97 USD). Сумма не менялась.",
+      "notes": "💳 24.11.2026 (📨 Заявки/расчеты JP Morgan, ORDER No 110) — ордер на оплату (Payer Q8 GROUP LIMITED): BENEFICIARY DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan Organize Sanayi Bolgesi 9. Cadde No: 01, Melikgazi / Kayseri, Turkey); банк GARANTI BANKASI, Kayseri OSB Branch (TGBATRIS), счёт TR20 0006 2001 1470 0009 0817 80; Remarks «PAYMENT FOR PROFORMA INVOICE NO. 268922 DD 16.11.2026»; сумма 46 837,97 USD. Клиент по заявке не назван — строка ⬜ без клиента, ждём уточнения владельца. | 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «PI 268922 DENER Q8 46,837.97 USD.pdf») — PROFORMA INVOICE № 268922 (DENER INOVASYON, Kayseri, Turkey): стеновые панели SIDING/INTERMEDIATE HINGE, WOOD SURFACE / LINED EMBOSSED PANEL (RAL 8017, 7016, 9006, 9016) — 13 позиций, скидка 54%; Amount 46 837,97 $, VAT 0,00, Total 46 837,97 $; условие In advance. Совпадает с суммой ордера ORDER No 110 (46 837,97 USD). Сумма не менялась.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -4104,7 +4104,34 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "JP Morgan Q8-110",
+        "date": "2026-11-24"
+      }
+    },
+    {
+      "row": 113,
+      "date": "2026-11-24",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ФИНИНВЕСТ УЛУСЛАРАРАСЫ ТИДЖАРЕТ АНИМ ШИРКЕТИ",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": "15044183.70",
+      "statementRef": "Выписка Почтабанк 23-24.11.2026, ПП №111, кредит от ФИНИНВЕСТ",
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "🏦 приход по выписке: Выписка Почтабанк 23-24.11.2026, ПП №111, кредит от ФИНИНВЕСТ",
+      "calc": null,
+      "sumSource": null,
+      "rowId": "main-000591"
     }
   ]
 }
