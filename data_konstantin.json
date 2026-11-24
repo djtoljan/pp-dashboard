@@ -1523,5 +1523,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 43,
+    "date": "2026-11-24",
+    "sum": 42025,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "KLER HOME LTD INVOICE K-01/0911/26 от 09.11.2026",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000138"
   }
 ]
