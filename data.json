@@ -3731,7 +3731,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 20.11.2026 (📨 ВТС · t7915 · 6 435,07 USD / заявка 75506, файлы «Поручение 75506.pdf» и «инвойс услуги Би трейд 75506.pdf») — ПОРУЧЕНИЕ № 75506 от 20.11.2026 (ООО «ВТС» → ОсОО «БиТрейд Кей Джи»): сумма 6 435,07 USD; получатель Qingdao Jiakemu Machinery Manufacture CO.,LTD (West of No. 2 Tianshan Road, Tongji Sub District, Jimo-City Qingdao, China 266200); банк Bank of Qingdao, SWIFT QCCBCNBQ, счёт 802581200007138; назначение «PAYMENT BY INVOICE NO: PI-261016-A02 DATE: 2026.19.11»; курс 82,3500; к перечислению 529 928,01 ₽; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Инвойс услуг БиТрейда № 75506 от 20.11.2026: 196,53 USD × 82,35 = 16 183,92 ₽. Компания-плательщик не названа (агент БиТрейд) — 🔴. | 📄 19.11.2026 (📨 ВТС · t7915 · 6 435,07 USD / заявка 75506, файл «PI-261016-A02 PTS C400W-3200 BANK OF QINGDAO (2).pdf») — PROFORMA INVOICE № PI-261016-A02 от 19.11.2026: продавец Qingdao Jiakemu Machinery Manufacture CO.,LTD (Jimo City, Qingdao, China) → покупатель ООО «ВТС» (ИНН 7735171132); товар C400W-3200, HS 84659200, 1 шт, сумма CNY 42 976 по курсу 6,6784 = USD 6 435,07; условия 100% TT до отгрузки, EX-WORK. Банк: Bank of Qingdao, SWIFT QCCBCNBQ, счёт 802581200007138; корр. Citi N.A. New York, SWIFT CITIUS33. Сумма строки = 6 435,07 USD по заявке 75506. | 🏦 23.11.2026 (📨 Банковские выписки, «VTB_BankStatement_40807810525640000008_20.11.2026-23.11.pdf») — выписка ВТБ по счёту ОсОО «БиТрейд Кей Джи» 40807810525640000008 за 20.11–23.11.2026 подтверждает приход от ООО «ВТС»: ПП №5206 — 529 928,01 ₽ (тело) и ПП №5207 — 16 183,92 ₽ (агентские). Эти же суммы уже стоят в rubles_received. Дебет №221 от 21.11.2026 на 529 928,01 ₽ (АЛЬМЕНО КО., ЛТД) относится к заявке 60 — отдельная строка 107, не к этой. Комиссии банка по выписке: 19 583,37 ₽ и 646,51 ₽ (ВО 02). Сумма и цвет строки не менялись.",
+      "notes": "📄 20.11.2026 (📨 ВТС · t7915 · 6 435,07 USD / заявка 75506, файлы «Поручение 75506.pdf» и «инвойс услуги Би трейд 75506.pdf») — ПОРУЧЕНИЕ № 75506 от 20.11.2026 (ООО «ВТС» → ОсОО «БиТрейд Кей Джи»): сумма 6 435,07 USD; получатель Qingdao Jiakemu Machinery Manufacture CO.,LTD (West of No. 2 Tianshan Road, Tongji Sub District, Jimo-City Qingdao, China 266200); банк Bank of Qingdao, SWIFT QCCBCNBQ, счёт 802581200007138; назначение «PAYMENT BY INVOICE NO: PI-261016-A02 DATE: 2026.19.11»; курс 82,3500; к перечислению 529 928,01 ₽; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Инвойс услуг БиТрейда № 75506 от 20.11.2026: 196,53 USD × 82,35 = 16 183,92 ₽. Компания-плательщик не названа (агент БиТрейд) — 🔴. | 📄 19.11.2026 (📨 ВТС · t7915 · 6 435,07 USD / заявка 75506, файл «PI-261016-A02 PTS C400W-3200 BANK OF QINGDAO (2).pdf») — PROFORMA INVOICE № PI-261016-A02 от 19.11.2026: продавец Qingdao Jiakemu Machinery Manufacture CO.,LTD (Jimo City, Qingdao, China) → покупатель ООО «ВТС» (ИНН 7735171132); товар C400W-3200, HS 84659200, 1 шт, сумма CNY 42 976 по курсу 6,6784 = USD 6 435,07; условия 100% TT до отгрузки, EX-WORK. Банк: Bank of Qingdao, SWIFT QCCBCNBQ, счёт 802581200007138; корр. Citi N.A. New York, SWIFT CITIUS33. Сумма строки = 6 435,07 USD по заявке 75506. | 🏦 23.11.2026 (📨 Банковские выписки, «VTB_BankStatement_40807810525640000008_20.11.2026-23.11.pdf») — выписка ВТБ по счёту ОсОО «БиТрейд Кей Джи» 40807810525640000008 за 20.11–23.11.2026 подтверждает приход от ООО «ВТС»: ПП №5206 — 529 928,01 ₽ (тело) и ПП №5207 — 16 183,92 ₽ (агентские). Эти же суммы уже стоят в rubles_received. Дебет №221 от 21.11.2026 на 529 928,01 ₽ (АЛЬМЕНО КО., ЛТД) относится к заявке 60 — отдельная строка 107, не к этой. Комиссии банка по выписке: 19 583,37 ₽ и 646,51 ₽ (ВО 02). Сумма и цвет строки не менялись. | 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «PI-261016-A02 PTS Q8 6,435.07 USD.pdf») — INVOICE / PI-261016-A02 от 19/11/2026, Qingdao Jiakemu Machinery Manufacture CO.,LTD (West of No. 2 Tianshan Road, Tongji Sub-District, Jimo-City Qingdao, China 266200): Buyer/Importer Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong); позиция 1 — C400W-3200 станок (380V-50Hz, 4 кВт, sliding table 3200 мм, spindle moulder, tenoning, packing wooden box), CNY 42 976,00 = USD 6 435,07 (курс 6,6784); условия EX-WORK, 100% TT BEFORE LOADING; банк Bank of Qingdao (SWIFT QCCBCNBQ), счёт 8025812000070138 (в инвойсе 802581200007138), интермедиари Citi N.A. New York CITIUS33. Сумма строки 6 435,07 USD совпадает; компания Q8 — по инвойсу, цвет 🔴→⬜.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -4140,6 +4140,42 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000591"
+    },
+    {
+      "row": 114,
+      "date": "2026-11-24",
+      "sum": 37402.84,
+      "currency": "USD",
+      "company": "Q8 Group Limited",
+      "color": "FFFFFFFF",
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "Wtron consolidated 37 402,84 USD",
+        "file": null,
+        "date": "2026-11-24",
+        "messageId": null
+      },
+      "rowId": "main-000592",
+      "companySource": {
+        "source": "invoice",
+        "date": "2026-11-24",
+        "ref": "Wtron consolidated 6 PIs",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
