@@ -2789,7 +2789,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Вилог",
-    "costFormula": null,
+    "costFormula": "JP Morgan Q8-107: 5 427,00 + 50,00 = 5 477,00 + 50,00 / 0,9965 = 50,18 = 5 527,18",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -2798,7 +2798,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 20.11.2026 (📨 Молодежь · t14427 · 5 427 USD Welog, файлы «5427 USD INVOICE BEIYI INFORMATION CO.,LIMITED (1).pdf» и «PO 5427 USD BEIYI INFORMATION CO.,LIMITED.docx») — PROFORMA INVOICE RCF261116-LN от 16.11.2026: продавец BEIYI INFORMATION CO., LIMITED (RM1002, 10/F, Easey Comm Bldg, Nos. 253-161 Hennessy Rd, Wanchai, HK; OCBC Wing Hang in Hong Kong, SWIFT WIHBHKHH, счёт 883674831) → BUYER Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK): Samsung 1x 32GB DDR4-2933 RDIMM PC4-23466U-R Dual Rank x4 (original pulled) — 24 pcs × 226,125 = 5 427,00 USD. PAYMENT ORDER: бенефициар BEIYI INFORMATION CO., LIMITED, банк OCBC Wing Hang (1/F, 161 Queen's Road Central, HK), SWIFT WIHBHKHH, счёт 883674831, сумма 5 427 USD. Компания Q8 Group Limited — из инвойса, цвет ⬜; расчёт ждёт оператора (Q8). | 📄 23.11.2026 (📨 Заявки/расчеты JP Morgan · 5 427,00 USD, файл «Invoice RCF261116-LN BEIYI INFORMATION 5,427.00 USD.pdf») — повторно получена PROFORMA INVOICE RCF261116-LN от 16.11.2026: BEIYI INFORMATION CO., LIMITED (OCBC Wing Hang HK, SWIFT WIHBHKHH, счёт 883674831) → BUYER Q8 Group Limited; Samsung 1x 32GB DDR4-2933 RDIMM, 24 шт × 226,125 = 5 427,00 USD. Документ идентичен уже внесённому 20.11.2026 (t14427). Дубль — новой строки нет, сумма и цвет (⬜) не менялись. | 📄 23.11.2026 (📨 Заявки/расчеты JP Morgan · ORDER No Q80107 · 5 427,00 USD) — повторно получен ордер: beneficiary BEIYI INFORMATION CO., LIMITED (OCBC Wing Hang in Hong Kong, теперь OCBC Bank (Hong Kong) Limited, bank code 035, SWIFT WIHBHKHH, счёт 883674831), 5 427,00 USD, PAYER Q8 GROUP LIMITED, назначение «PAYMENT FOR INVOICE RCF261116-LN». Сумма и цвет (⬜) не менялись, новой строки нет.",
+    "notes": "📄 20.11.2026 (📨 Молодежь · t14427 · 5 427 USD Welog, файлы «5427 USD INVOICE BEIYI INFORMATION CO.,LIMITED (1).pdf» и «PO 5427 USD BEIYI INFORMATION CO.,LIMITED.docx») — PROFORMA INVOICE RCF261116-LN от 16.11.2026: продавец BEIYI INFORMATION CO., LIMITED (RM1002, 10/F, Easey Comm Bldg, Nos. 253-161 Hennessy Rd, Wanchai, HK; OCBC Wing Hang in Hong Kong, SWIFT WIHBHKHH, счёт 883674831) → BUYER Q8 Group Limited (Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK): Samsung 1x 32GB DDR4-2933 RDIMM PC4-23466U-R Dual Rank x4 (original pulled) — 24 pcs × 226,125 = 5 427,00 USD. PAYMENT ORDER: бенефициар BEIYI INFORMATION CO., LIMITED, банк OCBC Wing Hang (1/F, 161 Queen's Road Central, HK), SWIFT WIHBHKHH, счёт 883674831, сумма 5 427 USD. Компания Q8 Group Limited — из инвойса, цвет ⬜; расчёт ждёт оператора (Q8). | 📄 23.11.2026 (📨 Заявки/расчеты JP Morgan · 5 427,00 USD, файл «Invoice RCF261116-LN BEIYI INFORMATION 5,427.00 USD.pdf») — повторно получена PROFORMA INVOICE RCF261116-LN от 16.11.2026: BEIYI INFORMATION CO., LIMITED (OCBC Wing Hang HK, SWIFT WIHBHKHH, счёт 883674831) → BUYER Q8 Group Limited; Samsung 1x 32GB DDR4-2933 RDIMM, 24 шт × 226,125 = 5 427,00 USD. Документ идентичен уже внесённому 20.11.2026 (t14427). Дубль — новой строки нет, сумма и цвет (⬜) не менялись. | 📄 23.11.2026 (📨 Заявки/расчеты JP Morgan · ORDER No Q80107 · 5 427,00 USD) — повторно получен ордер: beneficiary BEIYI INFORMATION CO., LIMITED (OCBC Wing Hang in Hong Kong, теперь OCBC Bank (Hong Kong) Limited, bank code 035, SWIFT WIHBHKHH, счёт 883674831), 5 427,00 USD, PAYER Q8 GROUP LIMITED, назначение «PAYMENT FOR INVOICE RCF261116-LN». Сумма и цвет (⬜) не менялись, новой строки нет.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -2815,7 +2815,12 @@
       "file": null
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "JP Morgan Q8-107",
+      "date": "2026-11-24"
+    }
   },
   {
     "row": 70,
@@ -3179,7 +3184,7 @@
     "company": "Q8 Group Limited",
     "color": "FFFFFFFF",
     "clientName": "Корабельное дело",
-    "costFormula": null,
+    "costFormula": "JP Morgan Q8-106: 108 924,79 / 0,909226 = 119 799,47 + 50,00 / 0,9965 = 50,18 = 119 849,65",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -3188,7 +3193,7 @@
     "vdx_rate": 82.05,
     "received_usdt": 125996.54,
     "sent_usdt": null,
-    "notes": "📄 23.11.2026 (📨 Молодежь · t14607 · 108 924,79 EUR Корабельное дело, файл «ПП_40%.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 5947 от 23.11.2026, ИСПОЛНЕН 23.11.2026 (Ф-Л «ЕВРОПЕЙСКИЙ» ПАО «БАНК «САНКТ-ПЕТЕРБУРГ», БИК 042748877, код операции 2805616265145): плательщик ООО «КОРАБЕЛЬНОЕ ДЕЛО» (ИНН 3906098664, КПП 390601001, 236039, Калининград, ул. А. Суворова, д. 57, оф. 305, счёт 40702810000000001252) → получатель VDX SERVICES LLC - FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), сумма 10 348 364,65 ₽; назначение «{VO11100} Оплата по PROFORMA FATURA № АА-1609-161483 от 18.11.26 за товар к договору № ATL-223-EURO от 22.01.2025. НДС не облагается». Это 40% оплата: курс 10 348 364,65 / 108 924,79 = 95,0047 ₽/EUR. sent_rubles_vdx = 10 348 364,65, обменник VDX. ПП на VDX №5947 от 23.11.2026 (10 348 364,65 ₽ — номер из документа ПП). Сумма и цвет (🔴) не менялись. | 📄 23.11.2026 (📨 Молодежь · t14607, файл «IKL-Invoice for ICE 12.11.2026 rev final HK_110750.pdf») — PROFORMA INVOICE № 109 от 12.11.2026 (IKL Global — F.Z.E, C1-1311C Ajman Free Zone, 17097, UAE, лицензия 6677; www.iklbearings.com): Seller IKL Global - F.Z.E → Buyer FULL KIT Limited (Office No 2, 18/F Wealth Commercial Center, No 48 Kwong Wa Street, Yau Ma Tei, Kowloon, Hong Kong); Consignee TO ORDER. Позиции: Bearing BHD_8013 M CH (47 460,04 × 2 = 94 920,08), Bearing C3096/L4BVE829 0002T (14 359,03 × 2 = 28 718,06), Sleeve LW 7438844/V21 (39 211,24 × 2 = 78 422,48), Sleeve OH 3096HB/V31 (35 125,68 × 2 = 70 251,36); итого EURO 136 155,99 за 1 комплект / EURO 272 311,98 за 2 комплекта. Условия: Delivery Period — Due 40% advance payment of EURO 108 924,79; Terms EXW Klaipeda Port; Payment Terms 60% advance received + 40% on credit before mounting; Proforma valid by 01.12.2026. Реквизиты: IKL GLOBAL FZE, Emirates NBD Bank PJSC, EUR IBAN AE760260001025577304103, SWIFT EBILAEAD (AED IBAN AE950260001015577304101). 40% = 108 924,79 EUR — совпадает с суммой строки. ⚠️ Покупатель в инвойсе — FULL KIT Limited, а строка ведётся по клиенту «Корабельное дело»; требует подтверждения связки. Сумма и цвет (🔴) не менялись. | 📄 23.11.2026 (📨 Молодежь · t14607, файл «Платежное поручение 161483.docx») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ (форма для банка) на 108 924,79 EUR: BENEFICIARY IKL GLOBAL - F.Z.E, OFFICE C1-1311C, AJMAN FREE ZONE, 17097, UAE; ACCOUNT IBAN AE760260001025577304103; BENEF. BANK EMIRATES NBD BANK PJSC, P.O. Box 777, UAE; SWIFT EBILAEAD; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. 10I DD 17.07.2026 FOR BEARINGS». ⚠️ Ссылка на проформу «10I dd 17.07.2026» не совпадает с полученной проформой № 109 от 12.11.2026 (по ней 40% = 108 924,79 EUR) — вероятно, назначение нужно обновить. Сумма 108 924,79 EUR совпадает со строкой. Сумма и цвет (🔴) не менялись. | 📄 23.11.2026 (📨 Заявки/расчеты JP Morgan · 108 924,79 EUR, файл «Invoice 109 IKL Global 108,924.79 EUR.pdf») — повторно получена PROFORMA INVOICE № 109 от 12.11.2026 (IKL Global - F.Z.E → FULL KIT Limited, Гонконг; итого 272 311,98 EUR за 2 комплекта, 40% аванс = 108 924,79 EUR, EXW Klaipeda Port, действительна до 01.12.2026); документ идентичен уже внесённому 23.11.2026 (t14607). Дубль — новой строки нет, сумма и цвет не менялись. | 📄 23.11.2026 (📨 Заявки/расчеты JP Morgan · 108 924,79 EUR) — повторно получен ORDER: beneficiary IKL GLOBAL - F.Z.E (Office C1-1311C, Ajman Free Zone, 17097, UAE), Emirates NBD Bank PJSC, SWIFT EBILAEAD, IBAN AE760260001025577304103, 108 924,79 EUR; PAYER — FULL KIT LIMITED; назначение «PAYMENT BY PROFORMA INVOICE NO. 109 DD 12.11.2026 FOR BEARINGS» — совпадает с проформой № 109 (прежнее расхождение с «10I dd 17.07.2026» снято). Сумма и цвет строки не менялись, новой строки нет.",
+    "notes": "📄 23.11.2026 (📨 Молодежь · t14607 · 108 924,79 EUR Корабельное дело, файл «ПП_40%.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 5947 от 23.11.2026, ИСПОЛНЕН 23.11.2026 (Ф-Л «ЕВРОПЕЙСКИЙ» ПАО «БАНК «САНКТ-ПЕТЕРБУРГ», БИК 042748877, код операции 2805616265145): плательщик ООО «КОРАБЕЛЬНОЕ ДЕЛО» (ИНН 3906098664, КПП 390601001, 236039, Калининград, ул. А. Суворова, д. 57, оф. 305, счёт 40702810000000001252) → получатель VDX SERVICES LLC - FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), сумма 10 348 364,65 ₽; назначение «{VO11100} Оплата по PROFORMA FATURA № АА-1609-161483 от 18.11.26 за товар к договору № ATL-223-EURO от 22.01.2025. НДС не облагается». Это 40% оплата: курс 10 348 364,65 / 108 924,79 = 95,0047 ₽/EUR. sent_rubles_vdx = 10 348 364,65, обменник VDX. ПП на VDX №5947 от 23.11.2026 (10 348 364,65 ₽ — номер из документа ПП). Сумма и цвет (🔴) не менялись. | 📄 23.11.2026 (📨 Молодежь · t14607, файл «IKL-Invoice for ICE 12.11.2026 rev final HK_110750.pdf») — PROFORMA INVOICE № 109 от 12.11.2026 (IKL Global — F.Z.E, C1-1311C Ajman Free Zone, 17097, UAE, лицензия 6677; www.iklbearings.com): Seller IKL Global - F.Z.E → Buyer FULL KIT Limited (Office No 2, 18/F Wealth Commercial Center, No 48 Kwong Wa Street, Yau Ma Tei, Kowloon, Hong Kong); Consignee TO ORDER. Позиции: Bearing BHD_8013 M CH (47 460,04 × 2 = 94 920,08), Bearing C3096/L4BVE829 0002T (14 359,03 × 2 = 28 718,06), Sleeve LW 7438844/V21 (39 211,24 × 2 = 78 422,48), Sleeve OH 3096HB/V31 (35 125,68 × 2 = 70 251,36); итого EURO 136 155,99 за 1 комплект / EURO 272 311,98 за 2 комплекта. Условия: Delivery Period — Due 40% advance payment of EURO 108 924,79; Terms EXW Klaipeda Port; Payment Terms 60% advance received + 40% on credit before mounting; Proforma valid by 01.12.2026. Реквизиты: IKL GLOBAL FZE, Emirates NBD Bank PJSC, EUR IBAN AE760260001025577304103, SWIFT EBILAEAD (AED IBAN AE950260001015577304101). 40% = 108 924,79 EUR — совпадает с суммой строки. ⚠️ Покупатель в инвойсе — FULL KIT Limited, а строка ведётся по клиенту «Корабельное дело»; требует подтверждения связки. Сумма и цвет (🔴) не менялись. | 📄 23.11.2026 (📨 Молодежь · t14607, файл «Платежное поручение 161483.docx») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ (форма для банка) на 108 924,79 EUR: BENEFICIARY IKL GLOBAL - F.Z.E, OFFICE C1-1311C, AJMAN FREE ZONE, 17097, UAE; ACCOUNT IBAN AE760260001025577304103; BENEF. BANK EMIRATES NBD BANK PJSC, P.O. Box 777, UAE; SWIFT EBILAEAD; PAYMENT DETAILS «PAYMENT BY PROFORMA INVOICE NO. 10I DD 17.07.2026 FOR BEARINGS». ⚠️ Ссылка на проформу «10I dd 17.07.2026» не совпадает с полученной проформой № 109 от 12.11.2026 (по ней 40% = 108 924,79 EUR) — вероятно, назначение нужно обновить. Сумма 108 924,79 EUR совпадает со строкой. Сумма и цвет (🔴) не менялись. | 📄 23.11.2026 (📨 Заявки/расчеты JP Morgan · 108 924,79 EUR, файл «Invoice 109 IKL Global 108,924.79 EUR.pdf») — повторно получена PROFORMA INVOICE № 109 от 12.11.2026 (IKL Global - F.Z.E → FULL KIT Limited, Гонконг; итого 272 311,98 EUR за 2 комплекта, 40% аванс = 108 924,79 EUR, EXW Klaipeda Port, действительна до 01.12.2026); документ идентичен уже внесённому 23.11.2026 (t14607). Дубль — новой строки нет, сумма и цвет не менялись. | 📄 23.11.2026 (📨 Заявки/расчеты JP Morgan · 108 924,79 EUR) — повторно получен ORDER: beneficiary IKL GLOBAL - F.Z.E (Office C1-1311C, Ajman Free Zone, 17097, UAE), Emirates NBD Bank PJSC, SWIFT EBILAEAD, IBAN AE760260001025577304103, 108 924,79 EUR; PAYER — FULL KIT LIMITED; назначение «PAYMENT BY PROFORMA INVOICE NO. 109 DD 12.11.2026 FOR BEARINGS» — совпадает с проформой № 109 (прежнее расхождение с «10I dd 17.07.2026» снято). Сумма и цвет строки не менялись, новой строки нет.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -3202,6 +3207,47 @@
       "source": "order",
       "date": "2026-11-24",
       "ref": "JP Morgan Q8-106",
+      "messageId": null
+    },
+    "companyProvisional": false,
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "JP Morgan Q8-106",
+      "date": "2026-11-24"
+    }
+  },
+  {
+    "row": 82,
+    "date": "2026-11-24",
+    "sum": 11300,
+    "currency": "USD",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "JP Morgan Q8-108",
+      "file": null,
+      "date": "2026-11-24",
+      "messageId": null
+    },
+    "rowId": "mol-000328",
+    "companySource": {
+      "source": "order",
+      "date": "2026-11-24",
+      "ref": "JP Morgan Q8-108",
       "messageId": null
     },
     "companyProvisional": false,
