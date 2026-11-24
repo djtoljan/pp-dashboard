@@ -3719,10 +3719,10 @@
       "date": "2026-11-20",
       "sum": 6435.07,
       "currency": "USD",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "Q8 Group Limited",
+      "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": null,
+      "costFormula": "6 435,07 + 0,3% + 30 = 6 484,38 USDT",
       "extra": null,
       "rubles_received": "529928.01 / 16183.92",
       "statementRef": null,
@@ -3740,7 +3740,15 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000574"
+      "rowId": "main-000574",
+      "companySource": {
+        "source": "invoice",
+        "date": "2026-11-19",
+        "ref": "PI-261016-A02",
+        "file": null
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     },
     {
       "row": 100,
