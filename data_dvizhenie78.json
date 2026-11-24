@@ -490,7 +490,7 @@
   {
     "row": 13,
     "date": "2026-11-20",
-    "sum": 16825,
+    "sum": 11300,
     "currency": "USD",
     "company": null,
     "color": "FFFF0000",
@@ -508,7 +508,7 @@
     "calc": null,
     "sumSource": {
       "source": "order",
-      "ref": "Поручение №100 от 20.11.2026: тело 16 825,00 USD",
+      "ref": "Application for transfer 11 300,00.docx (t2024)",
       "file": null,
       "date": null,
       "messageId": null
