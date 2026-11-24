@@ -3329,34 +3329,38 @@
     "costFormula": null,
     "extra": null,
     "rubles_received": "3747914.16 / 44974.97",
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": "РЗ Лимитед",
-    "vdx_rate": null,
-    "received_usdt": null,
+    "statementRef": "ПП №569 от 24.11.2026 + ПП №570 от 24.11.2026 — плательщик ТРЕЙДМАРКЕТ (договор Р3-19/11/2026)",
+    "sent_rubles_vdx": "3747914.16 / 44974.97",
+    "exchange_to": "VDX",
+    "vdx_rate": "82.15 / 82.15",
+    "received_usdt": "45626.86 / 546.93",
     "sent_usdt": null,
     "notes": null,
     "calc": null,
     "sumSource": null,
     "rowId": "mol-000331",
-    "pp_on_exchanger": "569 / 570"
+    "pp_on_exchanger": "569 / 570",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434#21778"
+    }
   },
   {
     "row": 85,
     "date": "2026-11-24",
-    "sum": null,
-    "currency": null,
-    "company": null,
+    "sum": 7875011.41,
+    "currency": "RUB",
+    "company": "Q8 Group Limited",
     "color": "FF4FC3F7",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
     "costFormula": null,
     "extra": "ПП на VDX №5358 от 24.11.2026 (7 875 011,41 ₽ — из таблицы курсов VDX)",
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
+    "sent_rubles_vdx": 7875011.41,
+    "exchange_to": "VDX",
+    "vdx_rate": 82.15,
+    "received_usdt": 95765.51,
     "sent_usdt": null,
     "notes": null,
     "calc": null,
@@ -3367,6 +3371,15 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000333"
+    "rowId": "mol-000333",
+    "pp_on_exchanger": "5358",
+    "companySource": {
+      "source": "owner_instruction",
+      "date": "2026-11-24",
+      "ref": "telegram:7206154434#21779",
+      "messageId": "21779"
+    },
+    "companyProvisional": false,
+    "companyVerified": false
   }
 ]
