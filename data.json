@@ -4087,7 +4087,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "💳 24.11.2026 (📨 Заявки/расчеты JP Morgan, ORDER No 110) — ордер на оплату (Payer Q8 GROUP LIMITED): BENEFICIARY DENER INOVASYON DIS TICARET ENERJI INSAAT SANAYI VE TIC. LTD.STI (Mimarsinan Organize Sanayi Bolgesi 9. Cadde No: 01, Melikgazi / Kayseri, Turkey); банк GARANTI BANKASI, Kayseri OSB Branch (TGBATRIS), счёт TR20 0006 2001 1470 0009 0817 80; Remarks «PAYMENT FOR PROFORMA INVOICE NO. 268922 DD 16.11.2026»; сумма 46 837,97 USD. Клиент по заявке не назван — строка ⬜ без клиента, ждём уточнения владельца. | 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «PI 268922 DENER Q8 46,837.97 USD.pdf») — PROFORMA INVOICE № 268922 (DENER INOVASYON, Kayseri, Turkey): стеновые панели SIDING/INTERMEDIATE HINGE, WOOD SURFACE / LINED EMBOSSED PANEL (RAL 8017, 7016, 9006, 9016) — 13 позиций, скидка 54%; Amount 46 837,97 $, VAT 0,00, Total 46 837,97 $; условие In advance. Совпадает с суммой ордера ORDER No 110 (46 837,97 USD). Сумма не менялась.",
       "calc": null,
       "sumSource": {
         "source": "order",
