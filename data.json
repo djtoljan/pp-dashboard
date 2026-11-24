@@ -4191,6 +4191,34 @@
         "ref": "JP Morgan Q8-112",
         "date": "2026-11-24"
       }
+    },
+    {
+      "row": 115,
+      "date": "2026-11-24",
+      "sum": 5573.48,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «Балтмаркет»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Поручение №1 от 23.11.2026, инвойс PI-021126 от 02.11.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000593"
     }
   ]
 }
