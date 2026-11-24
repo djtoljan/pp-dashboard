@@ -3722,7 +3722,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": "ООО «ВТС»",
-      "costFormula": "6 435,07 + 0,3% + 30 = 6 484,38 USDT",
+      "costFormula": "JP Morgan Q8-111: 6 435,07 + 50,00 = 6 485,07 + 50,00 / 0,9965 = 50,18 = 6 535,25",
       "extra": null,
       "rubles_received": "529928.01 / 16183.92",
       "statementRef": null,
@@ -3731,7 +3731,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 20.11.2026 (📨 ВТС · t7915 · 6 435,07 USD / заявка 75506, файлы «Поручение 75506.pdf» и «инвойс услуги Би трейд 75506.pdf») — ПОРУЧЕНИЕ № 75506 от 20.11.2026 (ООО «ВТС» → ОсОО «БиТрейд Кей Джи»): сумма 6 435,07 USD; получатель Qingdao Jiakemu Machinery Manufacture CO.,LTD (West of No. 2 Tianshan Road, Tongji Sub District, Jimo-City Qingdao, China 266200); банк Bank of Qingdao, SWIFT QCCBCNBQ, счёт 802581200007138; назначение «PAYMENT BY INVOICE NO: PI-261016-A02 DATE: 2026.19.11»; курс 82,3500; к перечислению 529 928,01 ₽; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Инвойс услуг БиТрейда № 75506 от 20.11.2026: 196,53 USD × 82,35 = 16 183,92 ₽. Компания-плательщик не названа (агент БиТрейд) — 🔴. | 📄 19.11.2026 (📨 ВТС · t7915 · 6 435,07 USD / заявка 75506, файл «PI-261016-A02 PTS C400W-3200 BANK OF QINGDAO (2).pdf») — PROFORMA INVOICE № PI-261016-A02 от 19.11.2026: продавец Qingdao Jiakemu Machinery Manufacture CO.,LTD (Jimo City, Qingdao, China) → покупатель ООО «ВТС» (ИНН 7735171132); товар C400W-3200, HS 84659200, 1 шт, сумма CNY 42 976 по курсу 6,6784 = USD 6 435,07; условия 100% TT до отгрузки, EX-WORK. Банк: Bank of Qingdao, SWIFT QCCBCNBQ, счёт 802581200007138; корр. Citi N.A. New York, SWIFT CITIUS33. Сумма строки = 6 435,07 USD по заявке 75506. | 🏦 23.11.2026 (📨 Банковские выписки, «VTB_BankStatement_40807810525640000008_20.11.2026-23.11.pdf») — выписка ВТБ по счёту ОсОО «БиТрейд Кей Джи» 40807810525640000008 за 20.11–23.11.2026 подтверждает приход от ООО «ВТС»: ПП №5206 — 529 928,01 ₽ (тело) и ПП №5207 — 16 183,92 ₽ (агентские). Эти же суммы уже стоят в rubles_received. Дебет №221 от 21.11.2026 на 529 928,01 ₽ (АЛЬМЕНО КО., ЛТД) относится к заявке 60 — отдельная строка 107, не к этой. Комиссии банка по выписке: 19 583,37 ₽ и 646,51 ₽ (ВО 02). Сумма и цвет строки не менялись. | 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «PI-261016-A02 PTS Q8 6,435.07 USD.pdf») — INVOICE / PI-261016-A02 от 19/11/2026, Qingdao Jiakemu Machinery Manufacture CO.,LTD (West of No. 2 Tianshan Road, Tongji Sub-District, Jimo-City Qingdao, China 266200): Buyer/Importer Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong); позиция 1 — C400W-3200 станок (380V-50Hz, 4 кВт, sliding table 3200 мм, spindle moulder, tenoning, packing wooden box), CNY 42 976,00 = USD 6 435,07 (курс 6,6784); условия EX-WORK, 100% TT BEFORE LOADING; банк Bank of Qingdao (SWIFT QCCBCNBQ), счёт 8025812000070138 (в инвойсе 802581200007138), интермедиари Citi N.A. New York CITIUS33. Сумма строки 6 435,07 USD совпадает; компания Q8 — по инвойсу, цвет 🔴→⬜.",
+      "notes": "📄 20.11.2026 (📨 ВТС · t7915 · 6 435,07 USD / заявка 75506, файлы «Поручение 75506.pdf» и «инвойс услуги Би трейд 75506.pdf») — ПОРУЧЕНИЕ № 75506 от 20.11.2026 (ООО «ВТС» → ОсОО «БиТрейд Кей Джи»): сумма 6 435,07 USD; получатель Qingdao Jiakemu Machinery Manufacture CO.,LTD (West of No. 2 Tianshan Road, Tongji Sub District, Jimo-City Qingdao, China 266200); банк Bank of Qingdao, SWIFT QCCBCNBQ, счёт 802581200007138; назначение «PAYMENT BY INVOICE NO: PI-261016-A02 DATE: 2026.19.11»; курс 82,3500; к перечислению 529 928,01 ₽; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. Инвойс услуг БиТрейда № 75506 от 20.11.2026: 196,53 USD × 82,35 = 16 183,92 ₽. Компания-плательщик не названа (агент БиТрейд) — 🔴. | 📄 19.11.2026 (📨 ВТС · t7915 · 6 435,07 USD / заявка 75506, файл «PI-261016-A02 PTS C400W-3200 BANK OF QINGDAO (2).pdf») — PROFORMA INVOICE № PI-261016-A02 от 19.11.2026: продавец Qingdao Jiakemu Machinery Manufacture CO.,LTD (Jimo City, Qingdao, China) → покупатель ООО «ВТС» (ИНН 7735171132); товар C400W-3200, HS 84659200, 1 шт, сумма CNY 42 976 по курсу 6,6784 = USD 6 435,07; условия 100% TT до отгрузки, EX-WORK. Банк: Bank of Qingdao, SWIFT QCCBCNBQ, счёт 802581200007138; корр. Citi N.A. New York, SWIFT CITIUS33. Сумма строки = 6 435,07 USD по заявке 75506. | 🏦 23.11.2026 (📨 Банковские выписки, «VTB_BankStatement_40807810525640000008_20.11.2026-23.11.pdf») — выписка ВТБ по счёту ОсОО «БиТрейд Кей Джи» 40807810525640000008 за 20.11–23.11.2026 подтверждает приход от ООО «ВТС»: ПП №5206 — 529 928,01 ₽ (тело) и ПП №5207 — 16 183,92 ₽ (агентские). Эти же суммы уже стоят в rubles_received. Дебет №221 от 21.11.2026 на 529 928,01 ₽ (АЛЬМЕНО КО., ЛТД) относится к заявке 60 — отдельная строка 107, не к этой. Комиссии банка по выписке: 19 583,37 ₽ и 646,51 ₽ (ВО 02). Сумма и цвет строки не менялись. | 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «PI-261016-A02 PTS Q8 6,435.07 USD.pdf») — INVOICE / PI-261016-A02 от 19/11/2026, Qingdao Jiakemu Machinery Manufacture CO.,LTD (West of No. 2 Tianshan Road, Tongji Sub-District, Jimo-City Qingdao, China 266200): Buyer/Importer Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong); позиция 1 — C400W-3200 станок (380V-50Hz, 4 кВт, sliding table 3200 мм, spindle moulder, tenoning, packing wooden box), CNY 42 976,00 = USD 6 435,07 (курс 6,6784); условия EX-WORK, 100% TT BEFORE LOADING; банк Bank of Qingdao (SWIFT QCCBCNBQ), счёт 8025812000070138 (в инвойсе 802581200007138), интермедиари Citi N.A. New York CITIUS33. Сумма строки 6 435,07 USD совпадает; компания Q8 — по инвойсу, цвет 🔴→⬜.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -3748,7 +3748,12 @@
         "file": null
       },
       "companyProvisional": true,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "JP Morgan Q8-111",
+        "date": "2026-11-24"
+      }
     },
     {
       "row": 100,
@@ -4149,7 +4154,7 @@
       "company": "Q8 Group Limited",
       "color": "FFFFFFFF",
       "clientName": null,
-      "costFormula": null,
+      "costFormula": "JP Morgan Q8-112: 37 402,84 / 0,9965 = 37 534,21 + 50,00 / 0,9965 = 50,18 = 37 584,39",
       "extra": null,
       "rubles_received": null,
       "statementRef": null,
@@ -4158,7 +4163,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Wtron consolidated 37,402.84 USD Q8.pdf») — Wtron Electronic Technology (HK) CO., Ltd (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen; Alice Lee) — INVOICE от 2026-11-24, CONSOLIDATED (6 PIs), Buyer/Company Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong): 24 позиции электронных компонентов (AM1063-2 Atlanta, Microchip, MPS, TI/TE/Delphi/KET/KUM, MINI и др.), всего 293 920 шт на US$ 37 402,84. Оплата: промежуточный банк Mashreqbank PSC New York (SWIFT MSHQUS33), бенефициарный банк Zhejiang Chouzhou Commercial Bank (CZCBCN2X), счёт NRA15702002010590032281, получатель WTRON ELECTRONIC TECHNOLOGY (H.K.) CO., LIMITED. Внимание: в инвойсе запрет переводов из ряда стран, включая Россию и Беларусь. Клиент не назван — строка ⬜ без клиента. | 💳 24.11.2026 (📨 Заявки/расчеты JP Morgan, ордер без номера) — Payer Q8 GROUP LIMITED: BENEFICIARY WTRON ELECTRONIC TECHNOLOGY (H.K) CO., LIMITED (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK (CZCBCN2X), счёт NRA15702002010590032281; интермедиари Mashreqbank PSC New York Branch (MSHQUS33); Remarks «PAYMENT FOR INVOICES W20260930 (50%), W20261009, W20261015, W20261027, W20261102-2, W20261102-3»; сумма 37 402,84 USD. Совпадает со строкой (эти же 6 PI). Сумма и цвет не менялись.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -4175,7 +4180,12 @@
         "file": null
       },
       "companyProvisional": true,
-      "companyVerified": false
+      "companyVerified": false,
+      "costSource": "operator",
+      "costSourceRef": {
+        "ref": "JP Morgan Q8-112",
+        "date": "2026-11-24"
+      }
     }
   ]
 }
