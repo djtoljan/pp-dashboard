@@ -525,5 +525,33 @@
       "ref": "AA RSLFLOW 24.11.2026 Q8-108",
       "date": "2026-11-24"
     }
+  },
+  {
+    "row": 14,
+    "date": "2026-11-24",
+    "sum": 37522,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Application for transfer 37 522,00 USD (freight invoice BL-38 Dt. 22.10.2026)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "d78-000067"
   }
 ]
