@@ -3443,5 +3443,33 @@
       "messageId": null
     },
     "rowId": "mol-000335"
+  },
+  {
+    "row": 88,
+    "date": "2026-11-25",
+    "sum": 77839.15,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "АБИПА КАСТОМС (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Поручение №2 от 25.11.2026 (ООО «АБИПА КАСТОМС» → ООО «R3 Limited», инвойс R8863/26/2 от 25.11.2026, 77 839,15 EUR)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000336"
   }
 ]
