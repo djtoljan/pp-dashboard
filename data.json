@@ -4512,7 +4512,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 25.11.2026 (📨 Платежные Поручения, файл «file.pdf») — Überweisung Commerzbank («Ihre Überweisung wird ausgeführt»): Von ATB Service GmbH (DE43 1004 0000 0453 3493 00, EUR) → An Lukoff Trans Logistic SIA (LT53 3500 0100 1608 3425, 'PAYSERA LT', UAB, EVIULT2VXXX); Betrag 18.970,00 EUR; Verwendungszweck «Invoice LUK 441-468-470-478-O/2026 dd 12.10.26»; Referenznummer CCB.329.UE.POS00292507; Ausführungsdatum 25.11.2026 (скачано 19:04); Empfängerprüfung — Angaben stimmen überein. Клиент не найден ни в одной из 5 таблиц, строка без клиента.",
       "calc": null,
       "sumSource": {
         "source": "pp",
