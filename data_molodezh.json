@@ -3483,10 +3483,10 @@
   {
     "row": 89,
     "date": "2026-11-25",
-    "sum": 25388.63,
+    "sum": 25388.64,
     "currency": "USD",
-    "company": null,
-    "color": "FF4FC3F7",
+    "company": "KIRANA GLOBAL HUB",
+    "color": "FFFF0000",
     "clientName": "Кристал Джет",
     "costFormula": null,
     "extra": null,
@@ -3501,12 +3501,20 @@
     "calc": null,
     "sumSource": {
       "source": "scream",
-      "ref": "telegram msg 65977: 25 388,63 USD Кристал Джет",
+      "ref": "telegram msg 65985: 25 388,64 USD Кристал Джет (invoice ST261125-01 dd 25/11/2026)",
       "file": null,
       "date": null,
       "messageId": null
     },
     "rowId": "mol-000337",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Proforma Invoice ST261125-01 dd 25/11/2026",
+      "file": "invoice ST261125-01.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
