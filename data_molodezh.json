@@ -3390,12 +3390,12 @@
   {
     "row": 86,
     "date": "2026-11-25",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
+    "sum": 41868.8,
+    "currency": "USD",
+    "company": "PQ18 LIMITED",
+    "color": "FFFF0000",
     "clientName": "Швэдар",
-    "costFormula": null,
+    "costFormula": "41 868,80 + 0,3% + 30 = 42 024,41 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -3408,13 +3408,21 @@
     "calc": null,
     "sumSource": {
       "source": "scream",
-      "ref": "telegram msg 65925: 41 868,8 USD Швэдар (инвойс 23112026-00-001 от 23.11.26, поручение №3 от 25.11.26)",
+      "ref": "telegram msg 65973: 41 868,8 USD Швэдар (PROFORMA INVOICE 23112026-00-001 dd 23.11.2026)",
       "file": null,
       "date": null,
       "messageId": null
     },
     "rowId": "mol-000334",
-    "directToExchanger": true
+    "directToExchanger": true,
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "PROFORMA INVOICE 23112026-00-001 dd 23.11.2026",
+      "file": "1 (5).pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 87,
