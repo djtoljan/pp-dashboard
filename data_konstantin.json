@@ -636,34 +636,6 @@
   {
     "row": 19,
     "date": "2026-11-10",
-    "sum": 294750,
-    "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 10.11.2026 (📨 Константин Просто Группа; файлы «7894553399.pdf» + «SEB_UAE_294 750,00 EUR_7894553399.xlsx») — PROFORMA INVOICE 7894553399 от 30.09.2026 (GROUPE SEB EXPORT SAS; условия GSE) — TEFAL-OIL LESS FRYER: Order CN ADDITIONAL MAY 04.03.2026 (Easy Fry Infrared 7L EY8328E0) 1 875 PCE × 136.40 = 255 750.00; Order OLF ORDER JUNE CN 30.04.2026 (EY245GE0) 47 PCE × 74.80 = 3 515.60; Order OLF ORDER AUGUST CN 30.04.2026 (EY8218F0 80 PCE × 85.80 = 6 864.00; EY245GE0 540 PCE × 74.80 = 40 392.00); ИТОГО по проформе 1 007 781.36 EUR (брутто 62 132.894 кг / нетто 43 980.330 кг / 522.262 м3; CN China). Заявка на оплату: 294 750.00 EUR (частичная оплата) — Payment for proforma invoice 7894553399 dd 30.09.2026; получатель GROUPE SEB EXPORT MIDDLE EAST (Dubai, UAE); HSBC Bank Middle East Limited (HSBC Tower, Downtown Dubai); SWIFT BBMEAEADXXX; счёт AE690200000026580852101. Компания-плательщик не указана",
-    "calc": null,
-    "sumSource": {
-      "source": "order",
-      "ref": "proforma 7894553399 dd 30.09.2026",
-      "file": null,
-      "date": null,
-      "messageId": null
-    },
-    "rowId": "kon-000102"
-  },
-  {
-    "row": 20,
-    "date": "2026-11-10",
     "sum": 215371.2,
     "currency": "EUR",
     "company": "ATB",
@@ -698,7 +670,7 @@
     "companyVerified": false
   },
   {
-    "row": 21,
+    "row": 20,
     "date": "2026-11-10",
     "sum": 46216.49,
     "currency": "EUR",
@@ -735,7 +707,7 @@
     "costSource": "payout"
   },
   {
-    "row": 22,
+    "row": 21,
     "date": "2026-11-10",
     "sum": 220150,
     "currency": "EUR",
@@ -773,7 +745,7 @@
     "costSource": "payout"
   },
   {
-    "row": 23,
+    "row": 22,
     "date": "2026-11-11",
     "sum": 25210,
     "currency": "USD",
@@ -811,7 +783,7 @@
     "payment_system": "baxs"
   },
   {
-    "row": 24,
+    "row": 23,
     "date": "2026-11-12",
     "sum": 31995,
     "currency": "EUR",
@@ -853,7 +825,7 @@
     }
   },
   {
-    "row": 25,
+    "row": 24,
     "date": "2026-11-12",
     "sum": 30799.96,
     "currency": "EUR",
@@ -894,7 +866,7 @@
     }
   },
   {
-    "row": 26,
+    "row": 25,
     "date": "2026-11-12",
     "sum": 286000,
     "currency": "CNY",
@@ -931,7 +903,7 @@
     "costSource": "payout"
   },
   {
-    "row": 27,
+    "row": 26,
     "date": "2026-11-12",
     "sum": 229223.2,
     "currency": "EUR",
@@ -972,7 +944,7 @@
     }
   },
   {
-    "row": 28,
+    "row": 27,
     "date": "2026-11-13",
     "sum": 110000,
     "currency": "USD",
@@ -1009,7 +981,7 @@
     "costSource": "payout"
   },
   {
-    "row": 29,
+    "row": 28,
     "date": "2026-11-13",
     "sum": 30831.58,
     "currency": "EUR",
@@ -1046,7 +1018,7 @@
     "calcStale": true
   },
   {
-    "row": 30,
+    "row": 29,
     "date": "2026-11-16",
     "sum": 115000,
     "currency": "EUR",
@@ -1082,7 +1054,7 @@
     "companyVerified": false
   },
   {
-    "row": 31,
+    "row": 30,
     "date": "2026-11-16",
     "sum": 60000,
     "currency": "USD",
@@ -1135,7 +1107,7 @@
     }
   },
   {
-    "row": 32,
+    "row": 31,
     "date": "2026-11-16",
     "sum": 59975,
     "currency": "USD",
@@ -1176,7 +1148,7 @@
     }
   },
   {
-    "row": 33,
+    "row": 32,
     "date": "2026-11-17",
     "sum": 82300,
     "currency": "EUR",
@@ -1212,7 +1184,7 @@
     "companyVerified": false
   },
   {
-    "row": 34,
+    "row": 33,
     "date": "2026-11-17",
     "sum": 294750,
     "currency": "EUR",
@@ -1248,7 +1220,7 @@
     "companyVerified": false
   },
   {
-    "row": 35,
+    "row": 34,
     "date": "2026-11-18",
     "sum": 13495,
     "currency": "EUR",
@@ -1276,7 +1248,7 @@
     "rowId": "kon-000127"
   },
   {
-    "row": 36,
+    "row": 35,
     "date": "2026-11-19",
     "sum": 41071,
     "currency": "USD",
@@ -1312,7 +1284,7 @@
     "companyVerified": false
   },
   {
-    "row": 37,
+    "row": 36,
     "date": "2026-11-19",
     "sum": 228579,
     "currency": "USD",
@@ -1348,7 +1320,7 @@
     "companyVerified": false
   },
   {
-    "row": 38,
+    "row": 37,
     "date": "2026-11-20",
     "sum": 140975,
     "currency": "USD",
@@ -1389,7 +1361,7 @@
     }
   },
   {
-    "row": 39,
+    "row": 38,
     "date": "2026-11-20",
     "sum": 31014.6,
     "currency": "EUR",
@@ -1422,10 +1394,22 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_facts": [
+      {
+        "entryId": "OUT_281512_20.11.2026_1795188965495",
+        "ref": "f91379363475d53594f086b9b7cddb206e359580d5940de858f5778b27977684",
+        "txid": "f91379363475d53594f086b9b7cddb206e359580d5940de858f5778b27977684",
+        "bobrAlertId": null,
+        "date": "20.11.2026",
+        "direction": "OUT",
+        "amount": 34236.67,
+        "rowId": "kon-000134"
+      }
+    ]
   },
   {
-    "row": 40,
+    "row": 39,
     "date": "2026-11-20",
     "sum": 224500,
     "currency": "EUR",
@@ -1458,10 +1442,22 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_facts": [
+      {
+        "entryId": "OUT_281512_20.11.2026_1795188965495",
+        "ref": "f91379363475d53594f086b9b7cddb206e359580d5940de858f5778b27977684",
+        "txid": "f91379363475d53594f086b9b7cddb206e359580d5940de858f5778b27977684",
+        "bobrAlertId": null,
+        "date": "20.11.2026",
+        "direction": "OUT",
+        "amount": 247275.33,
+        "rowId": "kon-000135"
+      }
+    ]
   },
   {
-    "row": 41,
+    "row": 40,
     "date": "2026-11-24",
     "sum": 29000,
     "currency": "USD",
@@ -1497,7 +1493,7 @@
     "companyVerified": false
   },
   {
-    "row": 42,
+    "row": 41,
     "date": "2026-11-24",
     "sum": 80000,
     "currency": "USD",
@@ -1533,7 +1529,7 @@
     "companyVerified": false
   },
   {
-    "row": 43,
+    "row": 42,
     "date": "2026-11-24",
     "sum": 42025,
     "currency": "EUR",
