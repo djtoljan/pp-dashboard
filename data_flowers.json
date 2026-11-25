@@ -1320,5 +1320,41 @@
       "kind": "scream-file",
       "ref": "input-almeno-25.11_копия---4c245e69-a3fb-42dc-a28a-8eb845991724.xlsx (стр. 4, курс 82.75)"
     }
+  },
+  {
+    "row": 36,
+    "date": "2026-11-25",
+    "sum": 103006.45,
+    "currency": "EUR",
+    "company": "Q8 Group Limited",
+    "color": "FFFFFFFF",
+    "clientName": "Atlantic Avrora (Цветы)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "AA-Q8-2026-1125-01",
+      "file": "Invoice_Atlantic_Avrora_Q8_103006_45_EUR_25-Nov-2026.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "flw-000232",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "AA-Q8-2026-1125-01",
+      "file": "Invoice_Atlantic_Avrora_Q8_103006_45_EUR_25-Nov-2026.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
