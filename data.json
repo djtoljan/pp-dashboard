@@ -4410,8 +4410,8 @@
       "date": "2026-11-25",
       "sum": 90487.5,
       "currency": "USD",
-      "company": null,
-      "color": "FFFF0000",
+      "company": "SIMPLY GREEN - FZCO",
+      "color": "FFFFFFFF",
       "clientName": "Андрей Шибаев",
       "costFormula": null,
       "extra": null,
@@ -4422,7 +4422,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 25.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Invoice_F-36334-27769_PowerTest_90487.50_USD.pdf» + текст ORDER; клиент — Андрей Шибаев по сообщению владельца) — FINAL DEPOSIT INVOICE F-36334-27769 от 03.11.2026, Order SO-36334 (Power Test, LLC, N60 W22700 Silver Spring Drive, Sussex, WI 53089): Bill To SIMPLY GREEN - FZCO (Mak. Num. A1-3641379065, IFZA Business Park DDP, Dubai, UAE), Ship To New Case DOO (Bulevar Jna 123v, Belgrade 11000, Serbia); условия 50% DEPOSIT / 50% PRIOR TO SHIP, Customer Logistics. Итого по заказу 180 860,00 USD, минус платежи 1 000,00 (12/1/25) и 89 372,50 (12/22/25) → BALANCE DUE 90 487,50 USD. ORDER: Beneficiary Power Test, LLC; Town Bank (850 West North Shore Drive, Hartland, WI 53029, US), SWIFT TOWNUS44, счёт 1181297680, ABA 075917843; Remarks «PAYMENT FOR INVOICE F-36334-27769»; Payer SIMPLY GREEN - FZCO; Amount 90 487,50 USD. Компания-плательщик SIMPLY GREEN в companies.json отсутствует — строка 🔴 без компании.",
       "calc": null,
       "sumSource": {
         "source": "order",
@@ -4431,7 +4431,15 @@
         "date": null,
         "messageId": null
       },
-      "rowId": "main-000599"
+      "rowId": "main-000599",
+      "companySource": {
+        "source": "order",
+        "date": "2026-11-25",
+        "ref": "JP Morgan ORDER (invoice F-36334-27769)",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
