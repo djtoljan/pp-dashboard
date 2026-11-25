@@ -3461,7 +3461,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 25.11.2026 (📨 Молодежь · t14861 · файл «Поручение №2_25.11.26.pdf») — ПОРУЧЕНИЕ №2 от 25.11.2026 (Transfer request No. 2; Приложение №2 к Агентскому договору № АС-10-2026-162 от 30.10.2026): Принципал ООО «АБИПА КАСТОМС» (подпись Андросов В.И., ген. директор) → Агент ООО «R3 Limited» (подпись Svystula Rita, директор); платёж в иностранной валюте по инвойсу № R8863/26/2 от 25.11.2026; сумма 77 839,15 EUR (семьдесят семь тысяч восемьсот тридцать девять и 15/100); получатель DIGISAT TEKNOLOJILERI PAZARLAMA IHRACAT ITHALAT LTD. STI. (YESILBAYIR MAH.YAPI CAD.NO: 20 IC KAPI NO:1 ARNAVUTKOY, ISTANBUL, TÜRKIYE); банк IS BANKASI A.S. (BANK CODE 64, IS KULELERI 34330 LEVENT BESIKTAS/ISTANBUL, branch 1224 / HADIMKOY YOLU-ESENYURT), SWIFT ISBKTRISXXX, EUR IBAN TR17 0006 4000 0021 2240 4299 41; назначение «Prepayment (2nd payment) for goods under Contract No. AC-10-2026-160 dated October 26, 2026»; курс 90,83 ₽/EUR; к перечислению 7 070 129,99 ₽; комиссия агента 114 693,41 ₽; срок 2-3 банковских дня. ⚠️ В сообщении указано 69 485,38 EUR — это сумма прошлой сделки (строка 4, 69 485,39 EUR); в поручении — 77 839,15 EUR; строка создана по документу. Компания-плательщик не названа (агент R3 Limited) — 🔴.",
     "calc": null,
     "sumSource": {
       "source": "order",
