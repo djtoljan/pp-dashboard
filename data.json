@@ -4475,7 +4475,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 25.11.2026 (📨 Платежные Поручения, файл «file.pdf») — Überweisung Commerzbank («Ihre Überweisung wird ausgeführt»): Von ATB Service GmbH (DE43 1004 0000 0453 3493 00, EUR, PremiumGeschäftskonto Plus) → An ECE S.A.S. (FR76 3004 7141 1800 0202 5500 156, BANQUE CIC OUEST, CMCIFRPPXXX); Betrag 34.720,00 EUR; Verwendungszweck «inv P2026121»; Referenznummer CCB.329.UE.POS00292194; Ausführungsdatum 25.11.2026 (скачано 19:03). 🚨 «Empfängerprüfung Angaben stimmen nicht überein» — банк не подтвердил совпадение имени получателя. Клиент не найден ни в одной из 5 таблиц, строка без клиента; вопрос владельцу задан.",
       "calc": null,
       "sumSource": {
         "source": "pp",
@@ -4490,6 +4490,43 @@
         "file": "file.pdf",
         "txid": null,
         "ref": "CCB.329.UE.POS00292194",
+        "date": null
+      },
+      "companyProvisional": false,
+      "companyVerified": true
+    },
+    {
+      "row": 123,
+      "date": "2026-11-25",
+      "sum": 18970,
+      "currency": "EUR",
+      "company": "ATB",
+      "color": "FFFFFFFF",
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "pp",
+        "ref": "Invoice LUK 441-468-470-478-O/2026 / CCB.329.UE.POS00292507",
+        "file": "file.pdf",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000601",
+      "companySource": {
+        "source": "foreign_pp",
+        "file": "file.pdf",
+        "txid": null,
+        "ref": "CCB.329.UE.POS00292507",
         "date": null
       },
       "companyProvisional": false,
