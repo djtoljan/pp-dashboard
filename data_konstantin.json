@@ -1529,8 +1529,8 @@
     "date": "2026-11-24",
     "sum": 42025,
     "currency": "EUR",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "ATB Service GmbH",
+    "color": "FFFFFFFF",
     "clientName": "Константин (Просто группа)",
     "costFormula": null,
     "extra": null,
@@ -1541,7 +1541,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 24.11.2026 (📨 Константин Просто Группа, файл «INVOICE K-01091126_42.025,00.pdf»; вопрос клиента: «Подскажите плательщика») — INVOICE K-01/0911/26 от 09.11.2026: KLER HOME LTD (63-66 Hatton Garden, Fifth Floor, Suite 23, London, United Kingdom, EC1N 8LE); позиция «For furniture», услуга 1 × 42 025,00 EUR = 42 025,00 EUR; оплата в течение 10 дней. Плательщик (наша компания: Q8 / PQ18 / Z Source и т.п.) в инвойсе НЕ указан — строка 🔴, ждём ответа клиента/владельца, кто платит.",
+    "notes": "📄 24.11.2026 (📨 Константин Просто Группа, файл «INVOICE K-01091126_42.025,00.pdf»; вопрос клиента: «Подскажите плательщика») — INVOICE K-01/0911/26 от 09.11.2026: KLER HOME LTD (63-66 Hatton Garden, Fifth Floor, Suite 23, London, United Kingdom, EC1N 8LE); позиция «For furniture», услуга 1 × 42 025,00 EUR = 42 025,00 EUR; оплата в течение 10 дней. Плательщик (наша компания: Q8 / PQ18 / Z Source и т.п.) в инвойсе НЕ указан — строка 🔴, ждём ответа клиента/владельца, кто платит. | 📄 25.11.2026 (📨 Константин Просто Группа · «Платит ATB», файл «INVOICE K-01091126_42.025,00 (2).pdf») — INVOICE K-01/0911/26 от 09.11.2026: KLER HOME LTD (63-66 Hatton Garden, Fifth Floor, Suite 23, London, EC1N 8LE) → Recipient ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, Germany; VAT DE463202384); позиция «For furniture», serv. 1 × 42 025,00 EUR = 42 025,00 EUR; оплата в течение 10 дней. Компания-плательщик = ATB Service GmbH (получатель инвойса + указание в чате «Платит ATB») — компания проставлена, цвет 🔴→⬜.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1550,6 +1550,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "kon-000138"
+    "rowId": "kon-000138",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "INVOICE K-01/0911/26 dd 09.11.2026",
+      "file": "INVOICE K-01091126_42.025,00 (2).pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
