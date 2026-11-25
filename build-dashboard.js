@@ -1,6 +1,5 @@
 const fs = require('fs');
 const path = require('path');
-const historicalVisible = require('./historical-visible');
 
 const FILES = [
   { f: 'data.json', label: 'Main' },
@@ -28,12 +27,9 @@ function ts() {
 function readData(fn) {
   try {
     if (!fs.existsSync(fn)) return [];
-    const p = JSON.parse(historicalVisible.readVisible(fn));
+    const p = JSON.parse(fs.readFileSync(fn, 'utf8'));
     return Array.isArray(p) ? p : (p.rows || []);
-  } catch (error) {
-    if (error.code?.startsWith('BLOCKED_HISTORICAL_')) throw error;
-    return [];
-  }
+  } catch { return []; }
 }
 
 function getColor(hex) {
@@ -68,7 +64,6 @@ function fmtDate(d) {
 }
 
 function build() {
-  historicalVisible.assertVisible();
   const td = today();
   const todayRows = [];
   const waitGreen = []; // 🟡 ждёт зелёнку
