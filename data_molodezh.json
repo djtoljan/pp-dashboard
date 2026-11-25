@@ -3393,7 +3393,7 @@
     "sum": 41868.8,
     "currency": "USD",
     "company": "PQ18 LIMITED",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Швэдар",
     "costFormula": "41 868,80 + 0,3% + 30 = 42 024,41 USDT",
     "extra": null,
@@ -3404,7 +3404,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "ПП на VDX №1094 от 25.11.2026 (3 443 934,89 ₽ — тело): ООО «ШВЭДАР» (ИНН 6732206360, КПП 673201001, счёт 40702810710000760979, АО «ТБанк», БИК 044525974) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ИНН 9909710068, ПАО «Банк ПСБ», счёт 40807810000000015414, БИК 044525555), {VO11100} оплата по дог. № А-620280 от 20.08.2026 для исполнения оплаты поручения №3 от 25.11.26 на закупку товара по дог. № 20260622 от 22.06.2026, инвойс 23112026-00-001 от 23.11.26; ИСПОЛНЕНО 25.11.2026. | ПП на VDX №1095 от 25.11.2026 (52 996,69 ₽ — вознаграждение): ООО «ШВЭДАР» → ВИДИИКС СЕРВИСЕЗ - ФЗКО (те же реквизиты), {VO21100} оплата вознаграждения по дог. № А-620280 от 20.08.2026 за исполнение оплаты поручения №3 от 25.11.26 на закупку товара; ИСПОЛНЕНО 25.11.2026. | Итого 3 496 931,58 ₽ (тело 3 443 934,89 + вознаграждение 52 996,69) по заявке/поручению №3 от 25.11.26, сделка 41 868,8 USD (инвойс 23112026-00-001 от 23.11.26). Заявки в таблицах нет — 🔵 отправка на VDX без заявки, клиент платил обменнику напрямую (directToExchanger).",
+    "notes": "ПП на VDX №1094 от 25.11.2026 (3 443 934,89 ₽ — тело): ООО «ШВЭДАР» (ИНН 6732206360, КПП 673201001, счёт 40702810710000760979, АО «ТБанк», БИК 044525974) → ВИДИИКС СЕРВИСЕЗ - ФЗКО (ИНН 9909710068, ПАО «Банк ПСБ», счёт 40807810000000015414, БИК 044525555), {VO11100} оплата по дог. № А-620280 от 20.08.2026 для исполнения оплаты поручения №3 от 25.11.26 на закупку товара по дог. № 20260622 от 22.06.2026, инвойс 23112026-00-001 от 23.11.26; ИСПОЛНЕНО 25.11.2026. | ПП на VDX №1095 от 25.11.2026 (52 996,69 ₽ — вознаграждение): ООО «ШВЭДАР» → ВИДИИКС СЕРВИСЕЗ - ФЗКО (те же реквизиты), {VO21100} оплата вознаграждения по дог. № А-620280 от 20.08.2026 за исполнение оплаты поручения №3 от 25.11.26 на закупку товара; ИСПОЛНЕНО 25.11.2026. | Итого 3 496 931,58 ₽ (тело 3 443 934,89 + вознаграждение 52 996,69) по заявке/поручению №3 от 25.11.26, сделка 41 868,8 USD (инвойс 23112026-00-001 от 23.11.26). Заявки в таблицах нет — 🔵 отправка на VDX без заявки, клиент платил обменнику напрямую (directToExchanger). | 📄 25.11.2026 (📨 Молодежь · t14850 · 41 868,8 USD Швэдар, файл «1 (5).pdf») — PROFORMA INVOICE № 23112026-00-001 от 23.Nov.26: SUPPLIER PURBACHAL APPAREL LIMITED (South Panjora, Ward No-05, Nagori, Kaliganj, Gazipur-1720, Bangladesh; info@purbachalapparel.com); FOR ACCOUNT AND RISK OF PQ18 Limited (Account Number 79807119597, DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH, 18/F The Center, 99 Queen's Road Central, Hong Kong); MEN'S SWIM SHORTS, 100% polyester: 3 040 шт × $2,98 = $9 059,20 (Solid); 8 440 шт × $3,04 = $25 657,60 (Stripe); 2 400 шт × $2,98 = $7 152,00 (Solid); GRAND TOTAL 5 440 шт = $41 868,80. Условия: TT 100% prepayment, currency USD; бенефициар PURBACHAL APPAREL LIMITED, The Premier Bank PLC (GULSHAN CIRCLE-2 BRANCH, SIMPLETREE GSR, DHAKA-1212, Bangladesh), SWIFT PRMRBDDHCTO, счёт 014911100000445. Сумма строки по инвойсу 41 868,80 USD, компания PQ18 Limited (по инвойсу), цвет 🔵→🔴→⬜. Рублёвая часть (ПП №1094/№1095, sent_rubles_vdx = 3 443 934,89 / 52 996,69, VDX) — без изменений. | 📄 25.11.2026 (📨 Молодежь · t14850 · 41 868,8 USD Швэдар, файл «payment order (1).docx») — PAYMENT ORDER: DATE 16/09/2026 (⚠️ дата в бланке не совпадает с инвойсом 23112026-00-001 от 23.11.2026 — вероятно, шаблонная ошибка); AMOUNT 41 868,80, CURRENCY USD; PAYMENT METHOD 100% Advance payment; BENEFICIARY PURBACHAL APPAREL LIMITED (South Panjora, Ward No-05, Nagori, Kaliganj, Gazipur-1720, Bangladesh); BENEFICIARY BANK The Premier Bank PLC (SIMPLETREE GSR, 1st Floor, HOLDING-130, PLOT-01, BLOCK-CEN (H), ROAD-109, GULSHAN AVENUE, DHAKA-1212, BANGLADESH); ACCOUNT 014911100000445; SWIFT PRMRBDDHCTO; PAYMENT PURPOSE GOODS, Payment invoice 23112026-00-001, HS Code 6203439000. Сумма ордера = сумме инвойса = сумме строки (41 868,80 USD); PQ18/XFee расчёт: 41 868,80 + 0,3% + 30 = 42 024,41 USDT. Цвет ⬜, суммы не меняю.",
     "calc": null,
     "sumSource": {
       "source": "scream",
@@ -3479,5 +3479,27 @@
       "messageId": null
     },
     "rowId": "mol-000336"
+  },
+  {
+    "row": 89,
+    "date": "2026-11-25",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Кристал Джет",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": null,
+    "rowId": "mol-000337"
   }
 ]
