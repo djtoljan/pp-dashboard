@@ -1376,8 +1376,8 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "📄 20.11.2026 (📨 Константин Просто Группа, файлы «PROFORMA INVOICE 13090 (2).pdf» и «31014,60 EUR (20.11.2026).xlsx», сопроводительное «Транс логистик платит») — заявка на платёж **31 014,60 EUR** по инвойсу 13090 от 18.11.2026 (Sennek Oy, Helsinki, FI18939040): бенефициар Sennek Oy (Vanha Talvitie 2, 00580 Helsinki, Finland), банк Nordea Finland (Satamaradankatu 5, FI-00020 Nordea, Helsinki), IBAN FI58 1426 3000 1205 66, SWIFT NDEAFIHH; назначение «Payment for the invoice 13090». Инвойс: товары ON (Creatine, WGS Choc/Vanilla/CHOC PB, Creatine Blue Raspberry) — 3 810 + 60 + 36 + 36 + 60 шт, VAT 0% Triangulation. Плательщик — «Транс логистик» (Trans Logistik 1002 GmbH, Berlin, VAT DE456959087); в справочнике компаний его нет — цвет 🔴, ждём добавления компании/подтверждения. | 📄 20.11.2026 (📨 Ордера и Расчёты, «Payment from TRANSLOG❗️», файл «INV 31 014,60 EUR.pdf») — ОРДЕР: плательщик **TRANSLOG** (Trans Logistik 1002 GmbH, Urbanstraße 84, 10967 Berlin, Germany, HRB 278558 B, VAT DE456959087); бенефициар **Sennek Oy** (Vanha Talvitie 2, 00580 Helsinki), банк Nordea Finland (Satamaradankatu 5, FI-00020 Nordea, Helsinki), SWIFT NDEAFIHH, счёт FI5814263000120566; сумма **31 014,60 EUR**; назначение «INVOICE dd 19-11-2026»; комиссия OUR. Инвойс-основание — Proforma Invoice № 13090 от 18.11.2026 (товары ON: Creatine, WGS Choc/Vanilla/CHOC PB, Creatine Blue Raspberry; VAT 0% Triangulation). | Расчёт владельца 20.11.2026 16:02 (📨 Ордера и Расчеты): XE EUR/USD 1,09831; 34 236,67 + 247 274,89 = 281 512 USDT; кошелёк TY9LtPfFyuZXmFMzUbq63LpmVkZLPG7ktu.  | 🧮 2026-11-20 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. | 📄 24.11.2026 (📨 Платежные Поручения, «Transaction-Details_11-23-26.pdf») — SEPA Credit transfer: отправитель **Trans Logistik 1002 GmbH** (Postbank Business Giro aktiv, DE20 1007 0397 0084 1320 00) → бенефициар **Sennek Oy** (FI58 1426 3000 1205 66, NORDEA BANK FINLAND PLC, SWIFT NDEAFIHHXXX), сумма **31 014,60 EUR**, назначение «INVOICE dd 19-11-2026», PDF создан 23.11.2026. Та же сделка, что уже стоит в строке (заявка 20.11 + ордер TRANSLOG 20.11) — новых строк не создавал. Статус: ⬜→🟡 (подвешенная ПП по SEPA, sepa-guard process-incoming). Сумма 31 014,60 EUR и расчёт не менялись.",
+    "sent_usdt": 34236.67,
+    "notes": "📄 20.11.2026 (📨 Константин Просто Группа, файлы «PROFORMA INVOICE 13090 (2).pdf» и «31014,60 EUR (20.11.2026).xlsx», сопроводительное «Транс логистик платит») — заявка на платёж **31 014,60 EUR** по инвойсу 13090 от 18.11.2026 (Sennek Oy, Helsinki, FI18939040): бенефициар Sennek Oy (Vanha Talvitie 2, 00580 Helsinki, Finland), банк Nordea Finland (Satamaradankatu 5, FI-00020 Nordea, Helsinki), IBAN FI58 1426 3000 1205 66, SWIFT NDEAFIHH; назначение «Payment for the invoice 13090». Инвойс: товары ON (Creatine, WGS Choc/Vanilla/CHOC PB, Creatine Blue Raspberry) — 3 810 + 60 + 36 + 36 + 60 шт, VAT 0% Triangulation. Плательщик — «Транс логистик» (Trans Logistik 1002 GmbH, Berlin, VAT DE456959087); в справочнике компаний его нет — цвет 🔴, ждём добавления компании/подтверждения. | 📄 20.11.2026 (📨 Ордера и Расчёты, «Payment from TRANSLOG❗️», файл «INV 31 014,60 EUR.pdf») — ОРДЕР: плательщик **TRANSLOG** (Trans Logistik 1002 GmbH, Urbanstraße 84, 10967 Berlin, Germany, HRB 278558 B, VAT DE456959087); бенефициар **Sennek Oy** (Vanha Talvitie 2, 00580 Helsinki), банк Nordea Finland (Satamaradankatu 5, FI-00020 Nordea, Helsinki), SWIFT NDEAFIHH, счёт FI5814263000120566; сумма **31 014,60 EUR**; назначение «INVOICE dd 19-11-2026»; комиссия OUR. Инвойс-основание — Proforma Invoice № 13090 от 18.11.2026 (товары ON: Creatine, WGS Choc/Vanilla/CHOC PB, Creatine Blue Raspberry; VAT 0% Triangulation). | Расчёт владельца 20.11.2026 16:02 (📨 Ордера и Расчеты): XE EUR/USD 1,09831; 34 236,67 + 247 274,89 = 281 512 USDT; кошелёк TY9LtPfFyuZXmFMzUbq63LpmVkZLPG7ktu.  | 🧮 2026-11-20 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. | 📄 24.11.2026 (📨 Платежные Поручения, «Transaction-Details_11-23-26.pdf») — SEPA Credit transfer: отправитель **Trans Logistik 1002 GmbH** (Postbank Business Giro aktiv, DE20 1007 0397 0084 1320 00) → бенефициар **Sennek Oy** (FI58 1426 3000 1205 66, NORDEA BANK FINLAND PLC, SWIFT NDEAFIHHXXX), сумма **31 014,60 EUR**, назначение «INVOICE dd 19-11-2026», PDF создан 23.11.2026. Та же сделка, что уже стоит в строке (заявка 20.11 + ордер TRANSLOG 20.11) — новых строк не создавал. Статус: ⬜→🟡 (подвешенная ПП по SEPA, sepa-guard process-incoming). Сумма 31 014,60 EUR и расчёт не менялись.  | 🧮 2026-11-25 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1424,7 +1424,7 @@
     "exchange_to": null,
     "vdx_rate": null,
     "received_usdt": null,
-    "sent_usdt": null,
+    "sent_usdt": 247274.89,
     "notes": "📄 20.11.2026 (📨 Константин Просто Группа, файл «Melitta_224_500_00_EUR_3975780.xlsx») — заявка на платёж **224 500,00 EUR**: бенефициар Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany), банк Deutsche Bank AG (Minden, Germany), SWIFT DEUTDE3B490, IBAN DE03490700280291371300; назначение «Payment for proforma invoice 3975780 dd 05.11.2026, customer N 26236». Компания-плательщик в заявке не названа; customer N 26236 совпадает с платежами ATB Service GmbH (r10) — вероятно, платит ATB. Цвет 🔴 до подтверждения компании. | 📄 20.11.2026 (📨 Константин Просто Группа, файл «3975780_Melitta_Europa.pdf») — PROFORMA INVOICE № 3975780 от 05.11.2026 (Melitta Europa GmbH & Co. KG): Kundennr./Payer 26236, доставка TECHNORIUM LLC (Chughureti district, Chubinashvili str. 63, 0144 Tbilisi), FCA Minden, Truck 9 (Order NOV); позиции — кофемашины Melitta: CAFFEO BARISTA T SMART SILVER EU (F83/0-101) 40 шт × 427,00 EUR, MELITTA EPOUR BLACK-CHROME 113,05 и др. Итог по заявке — 224 500,00 EUR. Источник к строке r40. | 📄 20.11.2026 (📨 Ордера и Расчёты, «Payment from ATB ‼ разбивка», файл «INV 224 500,00 EUR.pdf») — ОРДЕР: плательщик **ATB** (ATB Service GmbH); бенефициар Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany), банк Deutsche Bank AG (Minden), SWIFT DEUTDE3B490, счёт DE03490700280291371300; сумма **224 500,00 EUR**; назначение «Payment for proforma invoice 3975780 dd 05.11.2026, customer N 26236»; комиссия OUR; пометка «разбивка». Основание — Proforma Invoice № 3975780 от 05.11.2026. | Расчёт владельца 20.11.2026 16:02 (📨 Ордера и Расчеты): XE EUR/USD 1,09831; 34 236,67 + 247 274,89 = 281 512 USDT; кошелёк TY9LtPfFyuZXmFMzUbq63LpmVkZLPG7ktu.  | 🧮 2026-11-20 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. |  | 📄 21.11.2026 — получено подвешенное ПП Commerzbank № CCB.325.UE.POS00065910 на 224 500,00 EUR. Плательщик ATB Service GmbH, получатель Melitta Europa GmbH & Co. KG. Документ не подтверждает окончательное исполнение платежа. Статус сделки 🟡, ожидается исполненное ПП",
     "calc": null,
     "sumSource": {
@@ -1464,15 +1464,15 @@
     "company": "Q8 Group Limited",
     "color": "FF92D050",
     "clientName": "Константин (Просто группа)",
-    "costFormula": "29 000,00 + 0,3% + 30 = 29 117,00 USDT",
+    "costFormula": "29 000,00 + 0,3% + 30 = 29 117,00",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
+    "received_usdt": 29245.73,
+    "sent_usdt": 29117,
     "notes": "📄 24.11.2026 (📨 Константин Просто Группа «Платит Q8», файл «Invoice_26807233_Q8_Group_Limited (1).pdf») — COMMERCIAL INVOICE № 26807233 от 10.11.2026: SELLER JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, P.O. Box 34659, Dubai, UAE) → BUYER/BILL TO Q8 Group Limited (Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong, Reg. No. 80242882); Perfumery products HS 3303.00.00 — 2 615 шт × 65,00 = USD 169 975,00; VAT 0% (export); TOTAL DUE USD 169 975,00; оплата 100% авансом, ремиттер Q8 Group Limited (JP Morgan Chase, CHASUS33XXX). Бенефициар: JIZAN PERFUMES LLC, United Arab Bank, Dubai (UARBAEAAXXX), IBAN AE68 0460 0010 3402 5987 002, корреспондент Bank of New York Mellon (IRVTUS3NXXX), код GDI. Компания Q8 — из инвойса, цвет ⬜. | 💳 24.11.2026 (📨 Константин Просто Группа, файл «29 000USD (24.11.2026).xlsx») — форма реквизитов на платёж: Amount 29 000,00 USD; Beneficiary JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, P.O. Box 34659, Dubai, UAE); банк United Arab Bank, Dubai, UAE (UARBAEAAXXX); IBAN AE68 0460 0010 3402 5987 002 (USD); интермедиари Bank of New York Mellon (IRVTUS3NXXX); Details of payment «Payment for perfumery products under commercial invoice No. 26807233 dated 10.11.2026, 100% advance. Purpose of payment code: GDI». Это ЧАСТИЧНЫЙ платёж 29 000 из 169 975 USD по инвойсу 26807233 (одна заявка — одна строка, сумма строки не меняется). | 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Commercial invoice 26807233 JIZAN 29,000.00 USD Q8.pdf») — COMMERCIAL INVOICE № 26807233 от 10.11.2026 (частичная, на 29 000 USD): Perfumery products HS 3303.00.00 — 2 615 шт × 11,09 = USD 29 000,00; VAT 0% (экспорт), TOTAL DUE USD 29 000,00; 100% аванс, ремиттер Q8 Group Limited (JP Morgan Chase, CHASUS33XXX); бенефициар JIZAN PERFUMES LLC. Это счёт на частичный платёж 29 000 из 169 975 USD по той же заявке — сумма строки не меняется. |  | 🏦 25.11.2026 (📨 ПП банка JP Morgan, ORDER No Q80112, файл «TFR-YSTP98WB USD 29000.00.PDF») — TRANSACTION RECEIPT: payer Q8 GROUP LIMITED → beneficiary JIZAN PERFUMES LLC (Shop No. 3, Saeed Bin Thani Bldg, Sikkat Al Khail Road, Al Buteen, Deira, PO Box 34659, Dubai; UNITED ARAB BANK, IBAN AE680460001034025987002, SWIFT UARBAEAAXXX), USD 29 000,00, Transaction Status SUCCESS, Remarks «PAYMENT FOR INVOICE NO. 26807233 DATED 10.11.2026», UETR f983c5be-3fc8-4cbc-b9e5-c718a5e25172, generated 25 NOV 2026. Это остаток по инвойсу 26807233: 140 975,00 (Konstantin row 38, 🟢) + 29 000,00 = 169 975,00 USD. Цвет строки не менял — ждёт решения владельца по сумме/привязке. |  | ✅ 25.11.2026 (Scream: «ставить») — сумма строки изменена 169 975,00 → 29 000,00 USD по ордеру JP Morgan Q8-112 / рецепту TFR-YSTP98WB (sumSource=order); цвет ⬜→🟢 по тому же рецепту (Status SUCCESS, UETR f983c5be-3fc8-4cbc-b9e5-c718a5e25172). Себестоимость досчитана автоматически: 29 000,00 + 0,3% + 30 = 29 117,00 USDT. Инвойс 26807233 закрыт: 140 975,00 (kon row 38, 🟢) + 29 000,00 (эта строка, 🟢) = 169 975,00 USD.",
     "calc": null,
     "sumSource": {
@@ -1501,6 +1501,16 @@
         "direction": "OUT",
         "amount": 29152.04,
         "rowId": "kon-000136"
+      },
+      {
+        "entryId": "IN_109647.74_24.11.2026_1795513692790",
+        "ref": "788c4a6f784b583158eef86b8955ed5d54cf48d705e6e4babbae143205793490",
+        "txid": "788c4a6f784b583158eef86b8955ed5d54cf48d705e6e4babbae143205793490",
+        "bobrAlertId": null,
+        "date": "24.11.2026",
+        "direction": "IN",
+        "amount": 29245.73,
+        "rowId": "kon-000136"
       }
     ]
   },
@@ -1519,7 +1529,7 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 80402.01,
     "sent_usdt": 80270,
     "notes": "📄 24.11.2026 (📨 Константин Просто Группа «Платит PQ18», файл «EL261116TP - PQ18 Limited.pdf») — INVOICE № EL261116TP от 16.11.2026, due date 19.11.2026, контракт FRW260928 от 28.09.2026: продавец Shanghai EuroLink Supply Chain Management Co., Ltd. (Room 1313, Tianhong Business Building, No. 682 Shuidian Road, Hongkou District, Shanghai, China; USCC 91310110MAKNRPM85Q) → BILL TO PQ18 Limited (Hong Kong); услуги 1 × 80 000,00 = USD 80 000,00 — freight forwarding services (организация международной перевозки груза), VAT 0%. Платит PQ18. Сумма строки — из инвойса. | 💳 24.11.2026 (📨 Константин Просто Группа, файл «80 000.00 USD (24.11.2026).xlsx») — заявка на платёж (форма клиента): сумма 80 000,00 USD; валюта USD; банк бенефициара INDUSTRIAL BANK CO., LTD., SHANGHAI BRANCH, China, No.168 Jiangning Road, Shanghai; счёт для международных платежей 216221400100134359; SWIFT FJIBCNBA600. Соответствует инвойсу EL261116TP (Shanghai EuroLink), сумма строки 80 000 USD. |  | 🟢 25.11.2026 (📨 ПП компании Q8/Z-source, файл «80000.00.pdf») — BONBILL LIMITED Payment Certificate (付款电子凭证): Transaction ID O2125173664591773696687, Payment Time 2026-11-24 18:24:20; Payer PQ18 Limited → Payee Shanghai EuroLink Supply Chain Management Co., Ltd. (INDUSTRIAL BANK CO.,LTD., счёт 216221400100134359), USD 80 000,00, Remarks «Invoice EL261116TP DD 16.11.2026, Contract FRW260928 DD 28.09.2026, For Freight Forwarding Services». Поля 支付状态/Payment Status в документе нет, маркеров Processing/Pending нет — квитанция об исполнении (как 70 000 09.11, kon row 13). Цвет ⬜→🟢; себестоимость досчитана автоматически: 80 000,00 + 0,3% + 30 = 80 270,00 USDT (PQ18/XFee).  | 🧮 2026-11-25 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
     "calc": null,
@@ -1538,7 +1548,19 @@
       "file": null
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_facts": [
+      {
+        "entryId": "IN_109647.74_24.11.2026_1795513692790",
+        "ref": "788c4a6f784b583158eef86b8955ed5d54cf48d705e6e4babbae143205793490",
+        "txid": "788c4a6f784b583158eef86b8955ed5d54cf48d705e6e4babbae143205793490",
+        "bobrAlertId": null,
+        "date": "24.11.2026",
+        "direction": "IN",
+        "amount": 80402.01,
+        "rowId": "kon-000137"
+      }
+    ]
   },
   {
     "row": 42,
