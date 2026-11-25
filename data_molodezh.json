@@ -3626,9 +3626,9 @@
   {
     "row": 92,
     "date": "2026-11-25",
-    "sum": null,
-    "currency": null,
-    "company": null,
+    "sum": 2202.45,
+    "currency": "USD",
+    "company": "PQ18",
     "color": "FF4FC3F7",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
     "costFormula": null,
@@ -3640,11 +3640,11 @@
     "vdx_rate": 82.6,
     "received_usdt": 2216.33,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "ПП на VDX №5386 от 25.11.2026 (183 252,21 ₽ — номер из документа ПП) | | 📄 25.11.2026 (📨 Молодежь · t14939 · 2 202,45 USD Фри Лайнс, файлы «Invoice PLMV-26-1769-2.pdf», «PAYLOAD MALDIVES PVT LTD 183.252,21.pdf») — TAX INVOICE PLMV-26-1769 от 01.11.2026: PAYLOAD MALDIVES PVT LTD (TIN 1069892GST501, Bank of Ceylon, Male, Maldives) → BILL TO PQ18 Limited, Freight Charges, TOTAL (USD) 2 202.45. Оплата рублей: ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 5386 от 25.11.2026, ИСПОЛНЕНО (АО ЮНИКРЕДИТ БАНК, БИК 044525545, проведено 25.11.2026): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», счёт 40807810000000015414), 183 252,21 ₽, назначение {VO21400} для перечисления (PAYLOAD MALDIVES PVT LTD) Payment under invoice number PLMV-26-1769 от 01/11/2026, поруч № 35 от 25.11.26 по аген. дог № 09-02-3/26 от 09.02.26 = ЯВЛЯЕТСЯ ТЕЛОМ сделки 2 202,45 USD | 📄 25.11.2026 (📨 Молодежь · t14939, файл «payment order 3.docx») — PAYMENT ORDER от 25/11/2026: AMOUNT 2 202.45 USD, BENEFICIARY PAYLOAD MALDIVES PVT LTD (Bank of Ceylon, счёт 6320 3422 14 USD, SWIFT BCEYMVMV), PAYMENT PURPOSE: Payment for transport service under INVOICE NO. PLMV-26-1769 DATE 01/11/2026 = ордер на оплату тела сделки row 92",
     "calc": null,
     "sumSource": {
-      "source": "scream",
-      "ref": "ПП 5386 от 25.11.2026, таблица бухгалтера",
+      "source": "order",
+      "ref": "payment order 3.docx (PAYMENT ORDER 25/11/2026, 2 202.45 USD)",
       "file": null,
       "date": null,
       "messageId": null
@@ -3654,7 +3654,15 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "Курсы VDX 25.11 от бухгалтера (ПП 5386)"
-    }
+    },
+    "companySource": {
+      "source": "invoice",
+      "date": "2026-11-01",
+      "ref": "PLMV-26-1769",
+      "file": "Invoice PLMV-26-1769-2.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   },
   {
     "row": 93,
@@ -3673,7 +3681,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "ПП на VDX №5387 от 25.11.2026 (20 305,80 ₽ — номер из документа ПП) | | 📄 25.11.2026 (📨 Молодежь · t14939, файл «VDX 20.305,80.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 5387 от 25.11.2026, ИСПОЛНЕНО (АО ЮНИКРЕДИТ БАНК, БИК 044525545, проведено 25.11.2026): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», счёт 40807810000000015414), 20 305,80 ₽, назначение {VO21100} оплата вознаграждения согласно поручению № 35 от 25.11.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026 = АГЕНТСКОЕ ВОЗНАГРАЖДЕНИЕ к сделке row 92 (2 202,45 USD, PAYLOAD MALDIVES PVT LTD, инвойс PLMV-26-1769 от 01.11.2026), отдельная строка по правилу «одна ПП — одна строка»",
     "calc": null,
     "sumSource": {
       "source": "scream",
