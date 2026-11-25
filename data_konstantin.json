@@ -1539,7 +1539,7 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 46307.43,
     "sent_usdt": null,
     "notes": "📄 24.11.2026 (📨 Константин Просто Группа, файл «INVOICE K-01091126_42.025,00.pdf»; вопрос клиента: «Подскажите плательщика») — INVOICE K-01/0911/26 от 09.11.2026: KLER HOME LTD (63-66 Hatton Garden, Fifth Floor, Suite 23, London, United Kingdom, EC1N 8LE); позиция «For furniture», услуга 1 × 42 025,00 EUR = 42 025,00 EUR; оплата в течение 10 дней. Плательщик (наша компания: Q8 / PQ18 / Z Source и т.п.) в инвойсе НЕ указан — строка 🔴, ждём ответа клиента/владельца, кто платит. | 📄 25.11.2026 (📨 Константин Просто Группа · «Платит ATB», файл «INVOICE K-01091126_42.025,00 (2).pdf») — INVOICE K-01/0911/26 от 09.11.2026: KLER HOME LTD (63-66 Hatton Garden, Fifth Floor, Suite 23, London, EC1N 8LE) → Recipient ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, Germany; VAT DE463202384); позиция «For furniture», serv. 1 × 42 025,00 EUR = 42 025,00 EUR; оплата в течение 10 дней. Компания-плательщик = ATB Service GmbH (получатель инвойса + указание в чате «Платит ATB») — компания проставлена, цвет 🔴→⬜. | 📄 25.11.2026 (📨 Константин Просто Группа, файл «42025 EUR (24.11.2026).xlsx») — ЗАЯВЛЕНИЕ НА ПЕРЕВОД (ордер) по инвойсу K-01/0911/26: получатель KLER HOME LTD (63-66 Hatton Garden, Fifth Floor, Suite 23, London, EC1N 8LE), банк OpenPayd Financial Services MT Ltd (122-123 Pangea, Triq San Gorg, St Julians, STJ 3204, MT), SWIFT CFTEMTM1, IBAN MT66CFTE28004000000000005851851; назначение «Proforma N K-01/0911/26 for furniture»; сумма 42 025,00 EUR. Сумма ордера = сумме строки (42 025 EUR); цвет ⬜ не меняю. | 📄 25.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB‼», файл «INV 42 025,00 EUR.pdf») — ПЛАТЁЖНЫЙ ОРДЕР: Payment from ATB; beneficiary KLER HOME LTD (63-66 Hatton Garden, Fifth Floor, Suite 23, London, EC1N 8LE), банк OpenPayd Financial Services MT Ltd, SWIFT CFTEMTM1, счёт MT66CFTE28004000000000005851851; payment details Inv Proforma N K-01/0911/26 dd 09.11.2026; сумма 42 025,00 EUR; OUR. Вложенный INVOICE K-01/0911/26 от 09.11.2026: KLER HOME LTD → Recipient ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, VAT DE463202384), «For furniture» 1 × 42 025,00 EUR, оплата 10 дней. Сумма ордера = сумме инвойса = сумме строки (42 025 EUR); компания ATB уже стоит (подтверждено). Цвет ⬜ не меняю. | 💱 25.11.2026 12:24 (📨 Ордера и Расчеты !, расчёт оператора; XE.com EUR/USD: 1 EUR = 1,09383 USD / 1 USD = 0,91422 EUR): (42 025,00 × 1,0025 + 80) × 1,09383 = 46 170,63 USDT — costFormula записан. Сводный платёж по двум сделкам ATB: 6 199,19 + 46 170,63 = 52 370 USDT на кошелёк TXout6kcdWqGMbxTu4j5gKvv3mYfLBpgjz. sent_usdt — по факту выплаты (guard 13.11.2026).",
     "calc": null,
@@ -1558,6 +1558,18 @@
       "file": "INVOICE K-01091126_42.025,00 (2).pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_facts": [
+      {
+        "entryId": "IN_46307.43_25.11.2026_1795605241309",
+        "ref": "86feef2b2c70056f9f12541037065c9b1f2ada048f82e09fbffac08afa4d0e32",
+        "txid": "86feef2b2c70056f9f12541037065c9b1f2ada048f82e09fbffac08afa4d0e32",
+        "bobrAlertId": null,
+        "date": "25.11.2026",
+        "direction": "IN",
+        "amount": 46307.43,
+        "rowId": "kon-000138"
+      }
+    ]
   }
 ]
