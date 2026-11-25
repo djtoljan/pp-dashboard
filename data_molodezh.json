@@ -2061,7 +2061,11 @@
       }
     ],
     "dealType": "exchange",
-    "pp_on_exchanger": "69"
+    "pp_on_exchanger": "69",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r51 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 52,
@@ -2104,7 +2108,11 @@
       "ref": "FINIVEST AI msg 63551, 17.11.2026 (C$AI, расчёт оператора)",
       "date": "2026-11-17"
     },
-    "pp_on_exchanger": "205"
+    "pp_on_exchanger": "205",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r52 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 53,
@@ -2142,7 +2150,11 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "pp_on_exchanger": "204"
+    "pp_on_exchanger": "204",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r53 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 54,
@@ -2178,7 +2190,11 @@
       "file": "CI_BLLN04_261022 - Bank VER (2).pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r54 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 55,
@@ -2218,7 +2234,11 @@
         "amount": 3649980,
         "rowId": "mol-000295"
       }
-    ]
+    ],
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r55 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 56,
@@ -2355,7 +2375,11 @@
     },
     "companyProvisional": false,
     "companyVerified": false,
-    "pp_on_exchanger": "678 / 679 / 680"
+    "pp_on_exchanger": "678 / 679 / 680",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r58 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 59,
@@ -2630,7 +2654,11 @@
         "rowId": "mol-000305"
       }
     ],
-    "pp_on_exchanger": "688"
+    "pp_on_exchanger": "688",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r64 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 65,
@@ -2684,7 +2712,11 @@
         "rowId": "mol-000306"
       }
     ],
-    "pp_on_exchanger": "689"
+    "pp_on_exchanger": "689",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r65 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 66,
@@ -2721,7 +2753,11 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "directToExchanger": true
+    "directToExchanger": true,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r66 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 67,
@@ -2750,7 +2786,11 @@
       "messageId": null
     },
     "rowId": "mol-000308",
-    "pp_on_exchanger": "690"
+    "pp_on_exchanger": "690",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r67 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 68,
@@ -2779,7 +2819,11 @@
       "messageId": null
     },
     "rowId": "mol-000310",
-    "pp_on_exchanger": "5300"
+    "pp_on_exchanger": "5300",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r68 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 69,
@@ -2906,7 +2950,11 @@
     "companyProvisional": true,
     "companyVerified": false,
     "directToExchanger": true,
-    "pp_on_exchanger": "681 / 682"
+    "pp_on_exchanger": "681 / 682",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r71 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 72,
@@ -3075,7 +3123,11 @@
     },
     "companyProvisional": true,
     "companyVerified": false,
-    "pp_on_exchanger": "289 / 290"
+    "pp_on_exchanger": "289 / 290",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r75 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 76,
@@ -3139,7 +3191,11 @@
       "file": null
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r77 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 78,
@@ -3189,7 +3245,11 @@
     "notes": "📄 23.11.2026 (📨 Молодежь · t434 · Welog, файл «rpp_693.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 693 от 23.11.2026, ИСПОЛНЕН (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, ДБО): плательщик ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199) → получатель ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), сумма 295 443,41 ₽; назначение «Част. оплата за товар по инв. ENT-085-SHR-C2C20261120006M от 23.11.26, ENT-086-SHR-C2C20261120007M от 23.11.26, дог. NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (курс 83,8349). НДС не облагается». 295 443,41 / 83,8349 = 3 524,14 USD. Отправка рублей на обменник VDX: sent_rubles_vdx = 295 443,41, exchange_to = VDX. ПП на VDX №693 от 23.11.2026 (295 443,41 ₽ — номер из документа ПП). Оплата частичная — итог по инвойсам не указан, строка 🔵 без суммы.",
     "calc": null,
     "sumSource": null,
-    "rowId": "mol-000325"
+    "rowId": "mol-000325",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r79 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 80,
@@ -3211,7 +3271,11 @@
     "notes": "📄 23.11.2026 (📨 Молодежь · t434 · Welog, файл «rpp_694 (1).pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 694 от 23.11.2026, ИСПОЛНЕН (Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, ДБО): плательщик ООО «ВИЛОГ» (ИНН 7842215200, КПП 781001001, счёт 40702810717350002199) → получатель ВиДиИкс Сервисез - ФЗКО (ИНН 9909710068, КПП 712887001, счёт 40807810000000015414, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555), сумма 1 178 215,68 ₽; назначение «Частичная оплата за товар по инвойсам PRM-081-20261102 от 02.11.2026, CTL-014-RTC-73 от 20.11.2026, договор №NZDLWL120525-A-USD от 12.05.25 (HS code 8206000000) (по курсу 83,8349). НДС не облагается». 1 178 215,68 / 83,8349 = 14 054,00 USD. Отправка рублей на обменник VDX: sent_rubles_vdx = 1 178 215,68, exchange_to = VDX. ПП на VDX №694 от 23.11.2026 (1 178 215,68 ₽ — номер из документа ПП). Оплата частичная — итог по инвойсам не указан, строка 🔵 без суммы.",
     "calc": null,
     "sumSource": null,
-    "rowId": "mol-000326"
+    "rowId": "mol-000326",
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r80 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 81,
@@ -3264,7 +3328,11 @@
         "amount": 119849.65,
         "rowId": "mol-000327"
       }
-    ]
+    ],
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r81 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 82,
@@ -3422,7 +3490,11 @@
       "file": "Consol invoice.#97.pdf"
     },
     "companyProvisional": true,
-    "companyVerified": false
+    "companyVerified": false,
+    "vdxRateSource": {
+      "kind": "scream-order",
+      "ref": "telegram:7206154434 склейка r85 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    }
   },
   {
     "row": 86,
@@ -3629,18 +3701,18 @@
     "sum": 2202.45,
     "currency": "USD",
     "company": "PQ18",
-    "color": "FF4FC3F7",
+    "color": "FFFFFFFF",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
     "costFormula": null,
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": 183252.21,
+    "sent_rubles_vdx": "183252.21 / 20305.8",
     "exchange_to": "VDX",
     "vdx_rate": 82.6,
     "received_usdt": 2216.33,
     "sent_usdt": null,
-    "notes": "ПП на VDX №5386 от 25.11.2026 (183 252,21 ₽ — номер из документа ПП) | | 📄 25.11.2026 (📨 Молодежь · t14939 · 2 202,45 USD Фри Лайнс, файлы «Invoice PLMV-26-1769-2.pdf», «PAYLOAD MALDIVES PVT LTD 183.252,21.pdf») — TAX INVOICE PLMV-26-1769 от 01.11.2026: PAYLOAD MALDIVES PVT LTD (TIN 1069892GST501, Bank of Ceylon, Male, Maldives) → BILL TO PQ18 Limited, Freight Charges, TOTAL (USD) 2 202.45. Оплата рублей: ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 5386 от 25.11.2026, ИСПОЛНЕНО (АО ЮНИКРЕДИТ БАНК, БИК 044525545, проведено 25.11.2026): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», счёт 40807810000000015414), 183 252,21 ₽, назначение {VO21400} для перечисления (PAYLOAD MALDIVES PVT LTD) Payment under invoice number PLMV-26-1769 от 01/11/2026, поруч № 35 от 25.11.26 по аген. дог № 09-02-3/26 от 09.02.26 = ЯВЛЯЕТСЯ ТЕЛОМ сделки 2 202,45 USD | 📄 25.11.2026 (📨 Молодежь · t14939, файл «payment order 3.docx») — PAYMENT ORDER от 25/11/2026: AMOUNT 2 202.45 USD, BENEFICIARY PAYLOAD MALDIVES PVT LTD (Bank of Ceylon, счёт 6320 3422 14 USD, SWIFT BCEYMVMV), PAYMENT PURPOSE: Payment for transport service under INVOICE NO. PLMV-26-1769 DATE 01/11/2026 = ордер на оплату тела сделки row 92",
+    "notes": "ПП на VDX №5386 от 25.11.2026 (183 252,21 ₽ — номер из документа ПП) | | 📄 25.11.2026 (📨 Молодежь · t14939 · 2 202,45 USD Фри Лайнс, файлы «Invoice PLMV-26-1769-2.pdf», «PAYLOAD MALDIVES PVT LTD 183.252,21.pdf») — TAX INVOICE PLMV-26-1769 от 01.11.2026: PAYLOAD MALDIVES PVT LTD (TIN 1069892GST501, Bank of Ceylon, Male, Maldives) → BILL TO PQ18 Limited, Freight Charges, TOTAL (USD) 2 202.45. Оплата рублей: ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 5386 от 25.11.2026, ИСПОЛНЕНО (АО ЮНИКРЕДИТ БАНК, БИК 044525545, проведено 25.11.2026): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → VDX SERVICES - FZCO (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ», счёт 40807810000000015414), 183 252,21 ₽, назначение {VO21400} для перечисления (PAYLOAD MALDIVES PVT LTD) Payment under invoice number PLMV-26-1769 от 01/11/2026, поруч № 35 от 25.11.26 по аген. дог № 09-02-3/26 от 09.02.26 = ЯВЛЯЕТСЯ ТЕЛОМ сделки 2 202,45 USD | 📄 25.11.2026 (📨 Молодежь · t14939, файл «payment order 3.docx») — PAYMENT ORDER от 25/11/2026: AMOUNT 2 202.45 USD, BENEFICIARY PAYLOAD MALDIVES PVT LTD (Bank of Ceylon, счёт 6320 3422 14 USD, SWIFT BCEYMVMV), PAYMENT PURPOSE: Payment for transport service under INVOICE NO. PLMV-26-1769 DATE 01/11/2026 = ордер на оплату тела сделки row 92 | r93: ПП на VDX №5387 от 25.11.2026 (20 305,80 ₽ — номер из документа ПП) | | 📄 25.11.2026 (📨 Молодежь · t14939, файл «VDX 20.305,80.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 5387 от 25.11.2026, ИСПОЛНЕНО (АО ЮНИКРЕДИТ БАНК, БИК 044525545, проведено 25.11.2026): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», счёт 40807810000000015414), 20 305,80 ₽, назначение {VO21100} оплата вознаграждения согласно поручению № 35 от 25.11.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026 = АГЕНТСКОЕ ВОЗНАГРАЖДЕНИЕ к сделке row 92 (2 202,45 USD, PAYLOAD MALDIVES PVT LTD, инвойс PLMV-26-1769 от 01.11.2026), отдельная строка по правилу «одна ПП — одна строка» | 🔗 2026-11-25 (Scream: «Scream 25.11.2026: это одна сделка (тело + агентское), слить в одну строку, цвет не голубой, ничего не потерять») — строки 93 объединены с этой: sum = 2202.45 USD; rubles_received = null; sent_rubles_vdx = 183252.21 / 20305.8; цвет = ⬜ (по фактам, понижение запрещено). Полные notes прежних строк — в Molodezh.removed-rows_mol-000340-mol-000343_2026-11-25.json.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -3650,7 +3722,7 @@
       "messageId": null
     },
     "rowId": "mol-000340",
-    "pp_on_exchanger": "5386",
+    "pp_on_exchanger": "5386 / 5387",
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "Курсы VDX 25.11 от бухгалтера (ПП 5386)"
@@ -3666,35 +3738,6 @@
   },
   {
     "row": 93,
-    "date": "2026-11-25",
-    "sum": null,
-    "currency": null,
-    "company": null,
-    "color": "FF4FC3F7",
-    "clientName": "Фри Лайнс Компани (Молодёжь)",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": 20305.8,
-    "exchange_to": "VDX",
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": "ПП на VDX №5387 от 25.11.2026 (20 305,80 ₽ — номер из документа ПП) | | 📄 25.11.2026 (📨 Молодежь · t14939, файл «VDX 20.305,80.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 5387 от 25.11.2026, ИСПОЛНЕНО (АО ЮНИКРЕДИТ БАНК, БИК 044525545, проведено 25.11.2026): плательщик АО «Фри Лайнс Компани» (ИНН 9727130961, КПП 770801001, счёт 40702810720010003274) → VDX SERVICES - FZCO (ИНН 9909710068, ПАО «Банк ПСБ», счёт 40807810000000015414), 20 305,80 ₽, назначение {VO21100} оплата вознаграждения согласно поручению № 35 от 25.11.2026 на основании агентского договора № 09-02-3/26 от 09.02.2026 = АГЕНТСКОЕ ВОЗНАГРАЖДЕНИЕ к сделке row 92 (2 202,45 USD, PAYLOAD MALDIVES PVT LTD, инвойс PLMV-26-1769 от 01.11.2026), отдельная строка по правилу «одна ПП — одна строка»",
-    "calc": null,
-    "sumSource": {
-      "source": "scream",
-      "ref": "ПП 5387 от 25.11.2026 (таблица бухгалтера)",
-      "file": null,
-      "date": null,
-      "messageId": null
-    },
-    "rowId": "mol-000343",
-    "pp_on_exchanger": "5387"
-  },
-  {
-    "row": 94,
     "date": "2026-11-25",
     "sum": null,
     "currency": null,
@@ -3723,7 +3766,7 @@
     "pp_on_exchanger": "5391"
   },
   {
-    "row": 95,
+    "row": 94,
     "date": "2026-11-25",
     "sum": null,
     "currency": null,
