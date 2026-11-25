@@ -3415,5 +3415,33 @@
     },
     "rowId": "mol-000334",
     "directToExchanger": true
+  },
+  {
+    "row": 87,
+    "date": "2026-11-25",
+    "sum": 227295.9,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "ИП Зольников (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "telegram msg 65953: 227 295,90 EUR ИП Зольников (доп. соглашение №2 от 03.11.2026 к контракту 1-8-26)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000335"
   }
 ]
