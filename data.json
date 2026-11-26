@@ -4845,6 +4845,43 @@
       },
       "companyProvisional": true,
       "companyVerified": false
+    },
+    {
+      "row": 130,
+      "date": "2026-11-26",
+      "sum": 11998.48,
+      "currency": "EUR",
+      "company": "ATB",
+      "color": "FFFFFFFF",
+      "clientName": null,
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "INV.ERS261116/1 dd 16.11.26",
+        "file": null,
+        "date": "2026-11-26",
+        "messageId": "66329"
+      },
+      "rowId": "main-000617",
+      "companySource": {
+        "source": "topic",
+        "date": "2026-11-26",
+        "topic": "Ордера и Расчеты",
+        "messageId": "66329",
+        "file": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
