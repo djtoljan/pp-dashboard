@@ -1694,7 +1694,7 @@
     "sum": 25000,
     "currency": "EUR",
     "company": "ATB",
-    "color": "FFFFFFFF",
+    "color": "FFFFFF00",
     "clientName": "Константин (Просто группа)",
     "costFormula": "(25 000 × 1,0025 + 80) × 1,09699 = 27 581,07",
     "extra": null,
