@@ -3842,8 +3842,8 @@
   {
     "row": 94,
     "date": "2026-11-25",
-    "sum": null,
-    "currency": null,
+    "sum": 2565,
+    "currency": "USD",
     "company": null,
     "color": "FF4FC3F7",
     "clientName": "Смарт-Агент (Молодёжь)",
@@ -3856,11 +3856,11 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 26.11.2026 (📨 Молодежь · t14990 · 2 565,00 USD Смарт Агент, файл «162202.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №299 от 25.11.2026, проведено 25.11.2026: ООО «Смарт-Агент» (ИНН 5074093111, КПП 507401001, счёт 40702810320010015552, АО ЮниКредит Банк, БИК 044525545) → VDXSERVICES-FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555), 234 873,46 ₽; назначение {VO11100} «(ATLFACTORY MAKINA EKIPMAN TICARET STI.) Contract «ATL/SA/ATM-EUR» dd 18.07.25 по PROF.INV. №АА-003-162202 dd 25.11.26 по аг.дог. №09-02-5/26 от 09.02.26. Без НДС». Сделка 2 565,00 USD по сообщению оператора.",
     "calc": null,
     "sumSource": {
       "source": "scream",
-      "ref": "ПП 299 от 25.11.2026 (таблица бухгалтера)",
+      "ref": "📨 Молодежь t14990, 26.11.2026; ПП 299 от 25.11.2026",
       "file": null,
       "date": null,
       "messageId": null
@@ -3895,5 +3895,41 @@
       "messageId": null
     },
     "rowId": "mol-000346"
+  },
+  {
+    "row": 96,
+    "date": "2026-11-26",
+    "sum": 10090,
+    "currency": "USD",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Invoice CL20261113001 от 13.11.2026",
+      "file": "10090_USD_INVOICE_SHEN_ZHEN_SHI_NI_ZHOU_KE_JI_YOU_XIAN_GONG_SI.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000347",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Invoice CL20261113001 от 13.11.2026",
+      "file": "10090_USD_INVOICE_SHEN_ZHEN_SHI_NI_ZHOU_KE_JI_YOU_XIAN_GONG_SI.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
