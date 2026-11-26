@@ -4620,7 +4620,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «Global_invoice_GLO_261347_от_03_11_2026_на_сумму_11_598_00_евро.pdf») — INVOICE Nr GLO-261347 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): напитки — Curiocity Cola 2592 × 1,28 = 3 317,76; Connoisseurs Tonic 1848 × 0,89 = 1 644,72; Rose Lemonade 2592 × 1,28 = 3 317,76; Mandarin and Sev Orange 1296 × 1,28 = 1 658,88; Ginger Beer 1296 × 1,28 = 1 658,88; Amount without VAT 0% = 11 598,00 EUR, Total 11 598,00 EUR. Date of payment 20.11.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR SGM-Fentimans-20. Дата в шапке инвойса 20.11.26 (имя файла и футер — 03.11.26).",
+      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «Global_invoice_GLO_261347_от_03_11_2026_на_сумму_11_598_00_евро.pdf») — INVOICE Nr GLO-261347 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): напитки — Curiocity Cola 2592 × 1,28 = 3 317,76; Connoisseurs Tonic 1848 × 0,89 = 1 644,72; Rose Lemonade 2592 × 1,28 = 3 317,76; Mandarin and Sev Orange 1296 × 1,28 = 1 658,88; Ginger Beer 1296 × 1,28 = 1 658,88; Amount without VAT 0% = 11 598,00 EUR, Total 11 598,00 EUR. Date of payment 20.11.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR SGM-Fentimans-20. Дата в шапке инвойса 20.11.26 (имя файла и футер — 03.11.26). | 📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «Poruchenie_27__Global от 26.11.2026.docx») — ПОРУЧЕНИЕ №27 от 26.11.2026 (Приложение №1 к агентскому договору №1902-26/1 от 19.02.2026): АО «НЕСКО САНКТ-ПЕТЕРБУРГ» → ОсОО «Блэкшарк Трейд», единый платёж 17 468,00 EUR в GLOBAL MARINE SUPPLY OU (Spinati tee 16, Maardu 74117, Harjumaa; PKO BANK POLSKI S.A., IBAN PL71102049000000890235842116, SWIFT BPKOPLPWXXX) по 6 инвойсам: GLO-261347 11 598,00 + GLO-261095 990,00 + GLO-261349 2 860,00 + GLO-260815 580,00 + GLO-260535 590,00 + GLO-261352 850,00 = 17 468,00 EUR (контракт 14/2022 от 01.09.2023). Строки по инвойсам r122–r127; вопрос — свести в одну строку 17 468,00 EUR или оставить по инвойсам.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -4648,7 +4648,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «1_Global_трансп_invoice_GLO_261095_на_сумму_990_00_евро.pdf») — Invoice Nr GLO-261095 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспортные услуги — Transport Netherlands-Estonia 1.0 × 700,00 = 700,00; Transport Estonia-Lithuania 1.0 × 290,00 = 290,00; Amount without VAT 0% = 990,00 EUR, Total 990,00 EUR. Date of payment 16.09.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR GDS-21. Дата в шапке 15.09.26.",
+      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «1_Global_трансп_invoice_GLO_261095_на_сумму_990_00_евро.pdf») — Invoice Nr GLO-261095 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспортные услуги — Transport Netherlands-Estonia 1.0 × 700,00 = 700,00; Transport Estonia-Lithuania 1.0 × 290,00 = 290,00; Amount without VAT 0% = 990,00 EUR, Total 990,00 EUR. Date of payment 16.09.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR GDS-21. Дата в шапке 15.09.26. | 📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «Poruchenie_27__Global от 26.11.2026.docx») — ПОРУЧЕНИЕ №27 от 26.11.2026 (Приложение №1 к агентскому договору №1902-26/1 от 19.02.2026): АО «НЕСКО САНКТ-ПЕТЕРБУРГ» → ОсОО «Блэкшарк Трейд», единый платёж 17 468,00 EUR в GLOBAL MARINE SUPPLY OU (Spinati tee 16, Maardu 74117, Harjumaa; PKO BANK POLSKI S.A., IBAN PL71102049000000890235842116, SWIFT BPKOPLPWXXX) по 6 инвойсам: GLO-261347 11 598,00 + GLO-261095 990,00 + GLO-261349 2 860,00 + GLO-260815 580,00 + GLO-260535 590,00 + GLO-261352 850,00 = 17 468,00 EUR (контракт 14/2022 от 01.09.2023). Строки по инвойсам r122–r127; вопрос — свести в одну строку 17 468,00 EUR или оставить по инвойсам.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -4676,7 +4676,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «2_Global_трансп_invoice_GLO_261349_на_сумму_2_860_00_евро.pdf») — Invoice Nr GLO-261349 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспортные услуги — Transport Belfast UK-Estonia 1.0 × 2 450,00 = 2 450,00; Transport Estonia-Lithuania 1.0 × 410,00 = 410,00; Amount without VAT 0% = 2 860,00 EUR, Total 2 860,00 EUR. Date of payment 06.11.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR GDS-22. Дата в шапке 05.11.26.",
+      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «2_Global_трансп_invoice_GLO_261349_на_сумму_2_860_00_евро.pdf») — Invoice Nr GLO-261349 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспортные услуги — Transport Belfast UK-Estonia 1.0 × 2 450,00 = 2 450,00; Transport Estonia-Lithuania 1.0 × 410,00 = 410,00; Amount without VAT 0% = 2 860,00 EUR, Total 2 860,00 EUR. Date of payment 06.11.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR GDS-22. Дата в шапке 05.11.26. | 📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «Poruchenie_27__Global от 26.11.2026.docx») — ПОРУЧЕНИЕ №27 от 26.11.2026 (Приложение №1 к агентскому договору №1902-26/1 от 19.02.2026): АО «НЕСКО САНКТ-ПЕТЕРБУРГ» → ОсОО «Блэкшарк Трейд», единый платёж 17 468,00 EUR в GLOBAL MARINE SUPPLY OU (Spinati tee 16, Maardu 74117, Harjumaa; PKO BANK POLSKI S.A., IBAN PL71102049000000890235842116, SWIFT BPKOPLPWXXX) по 6 инвойсам: GLO-261347 11 598,00 + GLO-261095 990,00 + GLO-261349 2 860,00 + GLO-260815 580,00 + GLO-260535 590,00 + GLO-261352 850,00 = 17 468,00 EUR (контракт 14/2022 от 01.09.2023). Строки по инвойсам r122–r127; вопрос — свести в одну строку 17 468,00 EUR или оставить по инвойсам.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -4704,7 +4704,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «3_Global_трансп_invoice_GLO_261815_на_сумму_580_00_евро.pdf») — Invoice в шапке: Nr GLO-260815 (в имени файла GLO-261815) от 29.07.26 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспорт — 09.07. France – 17.07. Estonia 1.0 × 430,00 = 430,00; 21.07. Estonia – 17.06. Lithuania 1.0 × 150,00 = 150,00; Amount without VAT 0% = 580,00 EUR, Total 580,00 EUR. Date of payment 30.07.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR DV-16.",
+      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «3_Global_трансп_invoice_GLO_261815_на_сумму_580_00_евро.pdf») — Invoice в шапке: Nr GLO-260815 (в имени файла GLO-261815) от 29.07.26 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспорт — 09.07. France – 17.07. Estonia 1.0 × 430,00 = 430,00; 21.07. Estonia – 17.06. Lithuania 1.0 × 150,00 = 150,00; Amount without VAT 0% = 580,00 EUR, Total 580,00 EUR. Date of payment 30.07.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR DV-16. | 📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «Poruchenie_27__Global от 26.11.2026.docx») — ПОРУЧЕНИЕ №27 от 26.11.2026 (Приложение №1 к агентскому договору №1902-26/1 от 19.02.2026): АО «НЕСКО САНКТ-ПЕТЕРБУРГ» → ОсОО «Блэкшарк Трейд», единый платёж 17 468,00 EUR в GLOBAL MARINE SUPPLY OU (Spinati tee 16, Maardu 74117, Harjumaa; PKO BANK POLSKI S.A., IBAN PL71102049000000890235842116, SWIFT BPKOPLPWXXX) по 6 инвойсам: GLO-261347 11 598,00 + GLO-261095 990,00 + GLO-261349 2 860,00 + GLO-260815 580,00 + GLO-260535 590,00 + GLO-261352 850,00 = 17 468,00 EUR (контракт 14/2022 от 01.09.2023). Строки по инвойсам r122–r127; вопрос — свести в одну строку 17 468,00 EUR или оставить по инвойсам.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -4732,7 +4732,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «4_Global_трансп_invoice_GLO_260535_на_сумму_590_00_евро.pdf») — Invoice Nr GLO-260535 от 16.06.26 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспорт — The Netherlands-Estonia 1.0 × 350,00 = 350,00; Estonia-Lithuania 1.0 × 240,00 = 240,00; Amount without VAT 0% = 590,00 EUR, Total 590,00 EUR. Date of payment 17.06.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR SHIN-07, 1046 BM Amsterdam – Jüri EE75301 + EX1 – Biruliškiu k. LT54469, 1 IND pallet.",
+      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «4_Global_трансп_invoice_GLO_260535_на_сумму_590_00_евро.pdf») — Invoice Nr GLO-260535 от 16.06.26 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспорт — The Netherlands-Estonia 1.0 × 350,00 = 350,00; Estonia-Lithuania 1.0 × 240,00 = 240,00; Amount without VAT 0% = 590,00 EUR, Total 590,00 EUR. Date of payment 17.06.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR SHIN-07, 1046 BM Amsterdam – Jüri EE75301 + EX1 – Biruliškiu k. LT54469, 1 IND pallet. | 📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «Poruchenie_27__Global от 26.11.2026.docx») — ПОРУЧЕНИЕ №27 от 26.11.2026 (Приложение №1 к агентскому договору №1902-26/1 от 19.02.2026): АО «НЕСКО САНКТ-ПЕТЕРБУРГ» → ОсОО «Блэкшарк Трейд», единый платёж 17 468,00 EUR в GLOBAL MARINE SUPPLY OU (Spinati tee 16, Maardu 74117, Harjumaa; PKO BANK POLSKI S.A., IBAN PL71102049000000890235842116, SWIFT BPKOPLPWXXX) по 6 инвойсам: GLO-261347 11 598,00 + GLO-261095 990,00 + GLO-261349 2 860,00 + GLO-260815 580,00 + GLO-260535 590,00 + GLO-261352 850,00 = 17 468,00 EUR (контракт 14/2022 от 01.09.2023). Строки по инвойсам r122–r127; вопрос — свести в одну строку 17 468,00 EUR или оставить по инвойсам.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -4760,7 +4760,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «5_Global_трансп_invoice_GLO_261352_на_сумму_850_00_евро.pdf») — Invoice Nr GLO-261352 от 05.11.26 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспорт — France-Estonia 1.0 × 600,00 = 600,00; Estonia-Lithuania 1.0 × 250,00 = 250,00; Amount without VAT 0% = 850,00 EUR, Total 850,00 EUR. Date of payment 06.11.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR DV-17.",
+      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «5_Global_трансп_invoice_GLO_261352_на_сумму_850_00_евро.pdf») — Invoice Nr GLO-261352 от 05.11.26 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспорт — France-Estonia 1.0 × 600,00 = 600,00; Estonia-Lithuania 1.0 × 250,00 = 250,00; Amount without VAT 0% = 850,00 EUR, Total 850,00 EUR. Date of payment 06.11.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR DV-17. | 📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «Poruchenie_27__Global от 26.11.2026.docx») — ПОРУЧЕНИЕ №27 от 26.11.2026 (Приложение №1 к агентскому договору №1902-26/1 от 19.02.2026): АО «НЕСКО САНКТ-ПЕТЕРБУРГ» → ОсОО «Блэкшарк Трейд», единый платёж 17 468,00 EUR в GLOBAL MARINE SUPPLY OU (Spinati tee 16, Maardu 74117, Harjumaa; PKO BANK POLSKI S.A., IBAN PL71102049000000890235842116, SWIFT BPKOPLPWXXX) по 6 инвойсам: GLO-261347 11 598,00 + GLO-261095 990,00 + GLO-261349 2 860,00 + GLO-260815 580,00 + GLO-260535 590,00 + GLO-261352 850,00 = 17 468,00 EUR (контракт 14/2022 от 01.09.2023). Строки по инвойсам r122–r127; вопрос — свести в одну строку 17 468,00 EUR или оставить по инвойсам.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -4770,6 +4770,28 @@
         "messageId": null
       },
       "rowId": "main-000611"
+    },
+    {
+      "row": 128,
+      "date": "2026-11-26",
+      "sum": null,
+      "currency": null,
+      "company": null,
+      "color": "FF4FC3F7",
+      "clientName": "ИП Мазуренко",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": null,
+      "rowId": "main-000612"
     }
   ]
 }
