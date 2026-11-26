@@ -4602,6 +4602,34 @@
       "calc": null,
       "sumSource": null,
       "rowId": "main-000605"
+    },
+    {
+      "row": 122,
+      "date": "2026-11-26",
+      "sum": 11598,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Неско (ЭТБ)",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "INVOICE GLO-261347 от 20.11.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000606"
     }
   ]
 }
