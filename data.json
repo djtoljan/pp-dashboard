@@ -1560,7 +1560,7 @@
       "clientName": "ООО «ВТС»",
       "costFormula": null,
       "extra": null,
-      "rubles_received": 1914605.32,
+      "rubles_received": null,
       "statementRef": "Выписка ВТБ БиТрейд счёт 40807810525640000008 06.11.2026 — два перевода от ООО ВТС ИНН 7735171132: тело 1878231.84 ₽ и агентское 36373.48 ₽; вместе 1914605.32 ₽ = отправке строки",
       "sent_rubles_vdx": "1914605.32",
       "exchange_to": "Almeno",
@@ -2275,7 +2275,7 @@
       "clientName": "ООО «ВТС»",
       "costFormula": "(20 380,54 ÷ 0,887 + 65) ÷ 0,9965 = 23 122,86 USDT",
       "extra": null,
-      "rubles_received": null,
+      "rubles_received": "1878231.84 / 36373.48",
       "statementRef": null,
       "sent_rubles_vdx": null,
       "exchange_to": null,
@@ -4530,6 +4530,34 @@
           "rowId": "main-000599"
         }
       ]
+    },
+    {
+      "row": 119,
+      "date": "2026-11-26",
+      "sum": 15000,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ИП Мазуренко",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "pp",
+        "ref": "Поручение №27 от 26.11.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000603"
     }
   ]
 }
