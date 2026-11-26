@@ -3913,7 +3913,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 26.11.2026 (📨 Молодежь · t14996 · 10 090,00 USD Вилог, файл «10090_USD_INVOICE_SHEN_ZHEN_SHI_NI_ZHOU_KE_JI_YOU_XIAN_GONG_SI.pdf») — INVOICE № CL20261113001 от 13.11.2026 (SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI, RM1801 Easey Comm Bldg, 253-261 Hennessy Road, Wanchai, HK) → Buyer PQ18 Limited: Lenovo 2.4TB 10K 2.5\" SAS HDD, oem, new — 25 × 403,60 = 10 090,00 USD; Total $10 090,00. Банк: Standard Chartered Bank (Hong Kong) Ltd, счёт 47413626978, bank code 003, branch 474, SWIFT SCBLHKHH. | 📄 26.11.2026 (📨 Молодежь · t14996 · 10 090,00 USD Вилог, файл «PO 10090 USD SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI.docx») — платёжные реквизиты (PO): Beneficiary SHEN ZHEN SHI NI ZHOU KE JI YOU XIAN GONG SI (RM1801 EASEY COMM BLDG 253-261 HENNESSY ROAD WANCHAI, HK), банк Standard Chartered Bank (Hong Kong) Ltd (32nd Floor, 4-4A Des Voeux Road Central, Hong Kong SAR), SWIFT SCBLHKHH, счёт 47413626978, сумма 10 090,00 USD. Совпадает с инвойсом CL20261113001 — тот же платёж, новую строку не создаю.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
