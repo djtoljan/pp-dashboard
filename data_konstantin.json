@@ -1644,6 +1644,18 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "payment_facts": [
+      {
+        "entryId": "OUT_97029.94_24.11.2026_1795508381576",
+        "ref": "bobr-20261124-97029",
+        "txid": "bobr-20261124-97029",
+        "bobrAlertId": "bobr-20261124-97029",
+        "date": "24.11.2026",
+        "direction": "OUT",
+        "amount": 43442.03,
+        "rowId": "kon-000145"
+      }
+    ]
   }
 ]

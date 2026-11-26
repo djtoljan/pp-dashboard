@@ -1174,7 +1174,19 @@
       "ref": "VDX 11.11 (2026-11-11)"
     },
     "payment_system": "baxs",
-    "pp_on_exchanger": "755 / 756"
+    "pp_on_exchanger": "755 / 756",
+    "payment_facts": [
+      {
+        "entryId": "OUT_375008_13.11.2026_1794547434798",
+        "ref": "6837397255d83ca25924f6b0e48bbf5f13312a3ecd3c829a3d5cce4acc9d762d",
+        "txid": "6837397255d83ca25924f6b0e48bbf5f13312a3ecd3c829a3d5cce4acc9d762d",
+        "bobrAlertId": null,
+        "date": "13.11.2026",
+        "direction": "OUT",
+        "amount": 24087,
+        "rowId": "mol-000251"
+      }
+    ]
   },
   {
     "row": 31,
@@ -1350,7 +1362,19 @@
       "ref": "owner_instruction, DM Scream, 17.11.2026, расчёт BAXS по сводной выплате 375 008 (Сенсис r30 24 087 / Молодёжь r34 28 546 / r36 7 040)",
       "date": "2026-11-17"
     },
-    "pp_on_exchanger": "5207"
+    "pp_on_exchanger": "5207",
+    "payment_facts": [
+      {
+        "entryId": "OUT_375008_13.11.2026_1794547434798",
+        "ref": "6837397255d83ca25924f6b0e48bbf5f13312a3ecd3c829a3d5cce4acc9d762d",
+        "txid": "6837397255d83ca25924f6b0e48bbf5f13312a3ecd3c829a3d5cce4acc9d762d",
+        "bobrAlertId": null,
+        "date": "13.11.2026",
+        "direction": "OUT",
+        "amount": 28546,
+        "rowId": "mol-000255"
+      }
+    ]
   },
   {
     "row": 35,
@@ -1444,7 +1468,19 @@
       "ref": "owner_instruction, DM Scream, 17.11.2026, расчёт BAXS по сводной выплате 375 008",
       "date": "2026-11-17"
     },
-    "pp_on_exchanger": "218444 / 218443"
+    "pp_on_exchanger": "218444 / 218443",
+    "payment_facts": [
+      {
+        "entryId": "OUT_375008_13.11.2026_1794547434798",
+        "ref": "6837397255d83ca25924f6b0e48bbf5f13312a3ecd3c829a3d5cce4acc9d762d",
+        "txid": "6837397255d83ca25924f6b0e48bbf5f13312a3ecd3c829a3d5cce4acc9d762d",
+        "bobrAlertId": null,
+        "date": "13.11.2026",
+        "direction": "OUT",
+        "amount": 7040,
+        "rowId": "mol-000257"
+      }
+    ]
   },
   {
     "row": 37,
