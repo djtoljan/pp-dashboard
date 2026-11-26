@@ -3920,7 +3920,8 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000346"
+    "rowId": "mol-000346",
+    "pp_on_exchanger": "79"
   },
   {
     "row": 96,
@@ -3984,7 +3985,8 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000348"
+    "rowId": "mol-000348",
+    "pp_on_exchanger": "81"
   },
   {
     "row": 98,
