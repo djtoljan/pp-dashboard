@@ -4759,6 +4759,34 @@
           "rowId": "main-000617"
         }
       ]
+    },
+    {
+      "row": 126,
+      "date": "2026-11-26",
+      "sum": 12421.5,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ООО «ВТС»",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": "📄 26.11.2026 (📨 ВТС · t8408 · 12 421,50 EUR / заявка 78224, файл «Поручение 78224.pdf») — ПОРУЧЕНИЕ № 78224 от 26.11.2026 (Transfer request No 78224; Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): принципал ООО «ВТС» (ИНН 7735171132, ген. дир. Бондарев А.П.) → агент ОсОО «БиТрейд Кей Джи» (ИНН 9909705572). Платёж по инвойсу 78224 от 19.11.2026: **12 421,50 EUR**; получатель Itrix Co., Ltd. (725 S Metro Building, 20th Floor, Sukhumvit Road, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand); Siam Commercial Bank PCL, SWIFT SICOTHBK, счёт 468-000094-6-978 (EUR), адрес банка Building 2, Rutchadapisek Road, Chatuchak, Bangkok 10900; назначение «Sales Contract № 25-01/10 dd 01.10.2025, Инвойс № 78224 dd 19.11.2026»; курс конвертации **90,2400**; к перечислению **1 120 916,16 ₽**; комиссия агента 1,5% + 100 USD; срок 5–10 банковских дней. | 📄 26.11.2026 (📨 ВТС · t8408, файл «инвойс услуги Би трейд 78224.pdf») — ИНВОЙС услуг № 78224 от 26.11.2026 ОсОО «БиТрейд Кей Джи» → ООО «ВТС» (договор 27062025TК/1): посреднические услуги 186,32 EUR × 90,2400 = 16 813,74 ₽ + 100,00 USD × 82,6500 = 8 265,00 ₽; ИТОГО **25 078,74 ₽** (ВТБ, р/с 40807810525640000008). ⚠️ Компания-плательщик в документах не названа (агент — БиТрейд Кей Джи, в справочнике компаний её нет) → строка 🔴. | 📄 26.11.2026 (📨 ВТС · t8408 · 12 421,50 EUR / заявка 78224, файл «Itrix invoice 78224.xlsx») — INVOICE NO. **78224** от 2026-11-19, Itrix Co., Ltd. (725 S Metro Building, 20th Floor, Sukhumvit Road, Khlong Tan Nuea, Watthana, Bangkok 10110) → BILL TO/SHIP TO LLC «WTC» (117105, Москва, наб. Новоданиловская, 4А, пом. 11/2/6; ceo@vts-ved.ru): Sales Contract № 25-01/10 dd 01.10.2025; позиция **PANSIL 400 — 10,5 MT × 1 183 = 12 421,50 EUR**; SUBTOTAL/TAX/SHIPPING/DISCOUNT = 12 421,50 / 0 / 0 / 0; TOTAL **12 421,50 EUR**. Счета: Itrix Co., Ltd., Siam Commercial Bank PCL (Building 2, Rutchadapisek Road, Chatuchak, Bangkok 10900), SWIFT SICOTHBK — USD 468-000093-8-840, EUR 468-000094-6-978, CNY 468-000095-4-156. Сумма совпадает с поручением №78224 — та же заявка.",
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Поручение №78224 от 26.11.2026 (инвойс 78224 от 19.11.2026)",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000619"
     }
   ]
 }
