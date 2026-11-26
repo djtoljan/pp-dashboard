@@ -4348,42 +4348,6 @@
     },
     {
       "row": 119,
-      "date": "2026-11-24",
-      "sum": 3913,
-      "currency": "USD",
-      "company": "Q8 Group Limited",
-      "color": "FFFFFFFF",
-      "clientName": "ООО «ВТС»",
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": "321648.60 / 13044.73",
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 24.11.2026 (📨 ВТС · t8159 · 3 913,00 USD / заявка 78980, файл «1 -Q8 Group business card_NMD (3).pdf», скан) — Q8 Group Limited business card / GENERAL INFORMATION + BANK DETAILS: Company name Q8 Group Limited, Registered Number 80242882, General Trading, incorporated 21 April 2026, HK SAR no. 80242882-000-04-26-6, registered office Room A22, 10/F, No.52, Hung To Road, Kwun Tong, HK; BANK DETAILS: JP MORGAN CHASE, account holder Q8 Group Limited, beneficiary address Room A22, 10/F, No.52 Hung To Road, Kwun Tong, HK; bank address 383 Madison Avenue, New York, United States; SWIFT CHASUS33XXX. Заявка 78980 — 3 913,00 USD, компания Q8 по карточке. | 📄 24.11.2026 (📨 ВТС · t8159 · 3 913,00 USD / заявка 78980, файл «PI for HF22A26110061.pdf») — PROFORMA INVOICE № HF22A26110061 от 20.11.2026: поставщик ZHEJIANG HEARKEN FLOW EQUIPMENT CO., LTD (Intersection of Jiangnan Road and Dongou Road, Oubei Street, Yongjia County, Wenzhou City, Zhejiang, China 325102; Attn Abby); покупатель WTC LLC (117105, Moscow, Novodanilovskaya embankment 4A, floor 6, space II, rooms 22в, 22у; Attn Evgeny Fomichev; OGRN 1187746248843); Quarter-turn Electric Actuator, On-off Type HEA015 150Nm 24VDC F05/F07 17x17 — 50 шт × 78,260 = 3 913,00 USD; условия T/T 30% аванс + 70% перед поставкой, FOB, поставка 10 дней; бенефициар ZHEJIANG HEARKEN FLOW EQUIPMENT CO., LTD, Bank Of Taizhou Co., Ltd (TZBKCNBTXXX), интермедиари The Bank of New York Mellon (IRVTUS3NXXX), счёт (USD) 551040018800020. Сумма совпадает со строкой. | 📄 24.11.2026 (📨 ВТС · t8159 · 3 913,00 USD / заявка 78980, файл «инвойс услуги Би трейд 78980.pdf») — ИНВОЙС № 78980 от 24.11.2026 (ОсОО «БиТрейд Кей Джи», ИНН/КПП 9909705572/772887001), договор 27062025TК/1 от 24.06.2025, покупатель ООО «ВТС» (ИНН/КПП 7735171132/772601001, Москва, Новоданиловская наб. 4А, пом. 11/2/6; ген. директор Бондарев А.П.), счёт РУБ 40702810700250001265 (ВТБ): посреднические услуги по расчётам с иностранным поставщиком, курс USD 82,2000 — 158,70 USD = 13 044,73 ₽; ИТОГО 158,70 USD / 13 044,73 ₽. Комиссия БиТрейд по заявке 78980 (сам платёж 3 913,00 USD — в строке). | 📄 24.11.2026 (📨 ВТС · t8159 · 3 913,00 USD / заявка 78980, файл «Поручение 78980.pdf») — ПОРУЧЕНИЕ № 78980 от 24.11.2026 (Приложение № 2 к договору на оказание посреднических услуг № 27062025TК/1 от 24.06.2025): Принципал ООО «ВТС» (Бондарев А.П.) → Агент ОсОО «БиТрейд Кей Джи» (Курьянов А.А.); платёж 3 913,00 USD по инвойсу HF22A26110061 от 20.11.2026; получатель ZHEJIANG HEARKEN FLOW EQUIPMENT CO., LTD (No.6 Qinyuan Road, Zhuao Village, Yongjia County, Wenzhou City, Zhejiang, China); банк Bank Of Taizhou Co., Ltd (No. 699 Shifu Dadao, Taizhou, Zhejiang 318000), SWIFT TZBKCNBTXXX, счёт 551040018800020; назначение «PAYMENT BY PROFORMA INVOICE NO: HF22A26110061 DATE: 20/11/2026»; курс 82,2000 → 321 648,60 ₽; комиссия агента 1,5%; срок 5–10 банковских дней. | 🏦 24.11.2026 (📨 ВТС · t8159 · 3 913,00 USD / заявка 78980, файл «9909705572_24.11.2026_5265.PDF») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 5265 от 24.11.2026, ИСПОЛНЕН 24.11.2026 (ПАО Сбербанк, БИК 044525225; подпись Бондарев А.П.): плательщик ООО «ВТС» (ИНН 7735171132, КПП 772601001, счёт 40702810738000140608) → Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411, счёт 40807810525640000008 (ОсОО «БиТрейд Кей Джи»), сумма 321 648,60 ₽ — тело по поручению № 78980 (3 913,00 USD × 82,20). rubles_received = 321 648,60. | 🏦 24.11.2026 (📨 ВТС · t8159 · 3 913,00 USD / заявка 78980, файл «9909705572_24.11.2026_5266.PDF») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 5266 от 24.11.2026 (ПАО Сбербанк, БИК 044525225; подпись Бондарев А.П.): плательщик ООО «ВТС» (ИНН 7735171132, счёт 40702810738000140608) → ООО «БиТрейд Кей Джи» (ИНН 9909705572, КПП 772887001, счёт 40807810525640000008, Филиал «Центральный» Банка ВТБ (ПАО), БИК 044525411), сумма 13 044,73 ₽ — комиссия по инвойсу 78980 (158,70 USD × 82,20), назначение «{VO21100} Оплата за Посреднические услуги по проведению расчетов с иностранным поставщиком, договор 27062025TК/1 от 24.06.25, инвойс 78980 от 24.11.2026, НДС не облагается». rubles_received = 321 648,60 / 13 044,73. |  | 📄 25.11.2026 (📨 ВТС · t8159 · 3 913,00 USD / заявка 78980, файл «Письмо_на_возврат_денежных_средств_.pdf») — ПИСЬМО ООО «ВТС» (ИНН/КПП 7735171132/772601001, ОГРН 1187746248843, Новоданиловская наб., 4А, пом. 11/2/6) на имя ОсОО «БиТрейд Кей Джи» от 25.11.2026: просит вернуть 3 913,00 USD по курсу 82,2000 руб. и комиссию 158,70 USD «в связи с невозможностью проведения платежа» по Агентскому договору № 27062025TК/1 от 24.06.2025, Поручение 78980 от 24.11.2026, товары по инвойсу № HF22A26110061 от 20.11.2026. Реквизиты возврата: ООО «ВТС», р/с 40702 810 7 3800 0140608, ПАО Сбербанк, БИК 044525225, к/с 30101 810 4 0000 0000225. Подпись Бондарев А.П. Суммы возврата совпадают с rubles_received строки: 321 648,60 ₽ (3 913 × 82,2) + 13 044,73 ₽ (комиссия). Это возврат, не новый платёж: строку не создаю, цвет не меняю.",
-      "calc": null,
-      "sumSource": {
-        "source": "order",
-        "ref": "Заявка 78980, 3 913,00 USD (ВТС · t8159)",
-        "file": null,
-        "date": "2026-11-24",
-        "messageId": null
-      },
-      "rowId": "main-000597",
-      "companySource": {
-        "source": "order",
-        "date": "2026-11-24",
-        "ref": "Q8 Group business card",
-        "messageId": null
-      },
-      "companyProvisional": false,
-      "companyVerified": false
-    },
-    {
-      "row": 120,
       "date": "2026-11-25",
       "sum": 66342.54,
       "currency": "USD",
@@ -4423,7 +4387,7 @@
       }
     },
     {
-      "row": 121,
+      "row": 120,
       "date": "2026-11-25",
       "sum": 90487.5,
       "currency": "USD",
@@ -4457,80 +4421,6 @@
       },
       "companyProvisional": false,
       "companyVerified": false
-    },
-    {
-      "row": 122,
-      "date": "2026-11-25",
-      "sum": 34720,
-      "currency": "EUR",
-      "company": "ATB",
-      "color": "FFFFFFFF",
-      "clientName": null,
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 25.11.2026 (📨 Платежные Поручения, файл «file.pdf») — Überweisung Commerzbank («Ihre Überweisung wird ausgeführt»): Von ATB Service GmbH (DE43 1004 0000 0453 3493 00, EUR, PremiumGeschäftskonto Plus) → An ECE S.A.S. (FR76 3004 7141 1800 0202 5500 156, BANQUE CIC OUEST, CMCIFRPPXXX); Betrag 34.720,00 EUR; Verwendungszweck «inv P2026121»; Referenznummer CCB.329.UE.POS00292194; Ausführungsdatum 25.11.2026 (скачано 19:03). 🚨 «Empfängerprüfung Angaben stimmen nicht überein» — банк не подтвердил совпадение имени получателя. Клиент не найден ни в одной из 5 таблиц, строка без клиента; вопрос владельцу задан.",
-      "calc": null,
-      "sumSource": {
-        "source": "pp",
-        "ref": "inv P2026121 / CCB.329.UE.POS00292194",
-        "file": "file.pdf",
-        "date": null,
-        "messageId": null
-      },
-      "rowId": "main-000600",
-      "companySource": {
-        "source": "foreign_pp",
-        "file": "file.pdf",
-        "txid": null,
-        "ref": "CCB.329.UE.POS00292194",
-        "date": null
-      },
-      "companyProvisional": false,
-      "companyVerified": true
-    },
-    {
-      "row": 123,
-      "date": "2026-11-25",
-      "sum": 18970,
-      "currency": "EUR",
-      "company": "ATB",
-      "color": "FFFFFFFF",
-      "clientName": null,
-      "costFormula": null,
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 25.11.2026 (📨 Платежные Поручения, файл «file.pdf») — Überweisung Commerzbank («Ihre Überweisung wird ausgeführt»): Von ATB Service GmbH (DE43 1004 0000 0453 3493 00, EUR) → An Lukoff Trans Logistic SIA (LT53 3500 0100 1608 3425, 'PAYSERA LT', UAB, EVIULT2VXXX); Betrag 18.970,00 EUR; Verwendungszweck «Invoice LUK 441-468-470-478-O/2026 dd 12.10.26»; Referenznummer CCB.329.UE.POS00292507; Ausführungsdatum 25.11.2026 (скачано 19:04); Empfängerprüfung — Angaben stimmen überein. Клиент не найден ни в одной из 5 таблиц, строка без клиента.",
-      "calc": null,
-      "sumSource": {
-        "source": "pp",
-        "ref": "Invoice LUK 441-468-470-478-O/2026 / CCB.329.UE.POS00292507",
-        "file": "file.pdf",
-        "date": null,
-        "messageId": null
-      },
-      "rowId": "main-000601",
-      "companySource": {
-        "source": "foreign_pp",
-        "file": "file.pdf",
-        "txid": null,
-        "ref": "CCB.329.UE.POS00292507",
-        "date": null
-      },
-      "companyProvisional": false,
-      "companyVerified": true
     }
   ]
 }
