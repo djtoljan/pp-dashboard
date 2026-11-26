@@ -3931,5 +3931,27 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 97,
+    "date": "2026-11-26",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Акварайм (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "41000105.30",
+    "statementRef": "ПП №35 от 26.11.2026, АО «Банк ФИНАМ», ООО «АКВАРАЙМ» → Блэкшарк Трейд",
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": "🏦 приход по выписке: ПП №35 от 26.11.2026, АО «Банк ФИНАМ», ООО «АКВАРАЙМ» → Блэкшарк Трейд",
+    "calc": null,
+    "sumSource": null,
+    "rowId": "mol-000348"
   }
 ]
