@@ -4648,7 +4648,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «1_Global_трансп_invoice_GLO_261095_на_сумму_990_00_евро.pdf») — Invoice Nr GLO-261095 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): транспортные услуги — Transport Netherlands-Estonia 1.0 × 700,00 = 700,00; Transport Estonia-Lithuania 1.0 × 290,00 = 290,00; Amount without VAT 0% = 990,00 EUR, Total 990,00 EUR. Date of payment 16.09.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR GDS-21. Дата в шапке 15.09.26.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -4658,6 +4658,34 @@
         "messageId": null
       },
       "rowId": "main-000607"
+    },
+    {
+      "row": 124,
+      "date": "2026-11-26",
+      "sum": 2860,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Неско (ЭТБ)",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "INVOICE GLO-261349 от 05.11.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000608"
     }
   ]
 }
