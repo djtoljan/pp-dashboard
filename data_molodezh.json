@@ -4097,7 +4097,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 26.11.2026 (📨 Молодежь · t15008 · 100 135,00 EUR Акварайм, файл «PAYMENT_ORDER 26.11.2026 100 135.00 EUR.pdf») — PAYMENT ORDER от 26.11.2026: Amount 100 135,00 EUR, бенефициар SMARTSISTEMS PTE. LTD. (16 Raffles Quay #33-03 Hong Leong Building, Singapore 048581), банк Citibank, N.A., Hong Kong Branch (49th Floor, Champion Tower, 3 Garden Road, Central, HKG), счёт 006-391-390205005, SWIFT CITIHKHXXXX; назначение «invoice No SM261126-01». Компания-плательщик не названа → строка 🔴. Отдельная сделка от r101 (SM261125-01, 139 000,45 EUR) — другой номер инвойса. | 📄 26.11.2026 (📨 Молодежь · t15008 · 100 135,00 EUR Акварайм, файл «inv SM261126-01 - Smart - BS - 100 135.00 EUR.pdf») — PROFORMA INVOICE № SM261126-01 от 26.11.2026: Sender Z SOURCE LIMITED (RM 509, 5/F The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL, Hong Kong) → Recipient SMARTSISTEMS PTE. LTD. (16 Raffles Quay #33-03 Hong Leong Building, Singapore 048581; UEN 201828649R): Semi-Assembled STRO Skid Parts, производитель Xiamen Jiarong Technology Corp., Ltd — 1 шт × 100 135,00 EUR = 100 135,00 EUR. Реквизиты: Citibank, N.A., Hong Kong Branch (49th Floor, Champion Tower, 3 Garden Road, Central), счёт 006-391-390205005, SWIFT CITIHKHX, bank code 006, branch 391. Совпадает с payment order на 100 135,00 EUR — та же сделка.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
