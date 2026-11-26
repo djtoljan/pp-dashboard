@@ -4041,7 +4041,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 26.11.2026 (📨 Молодежь · t15007 · 81 000,00 USD Акварайм, файл «Payment order 16112026 81 000.00 USD.pdf») — PAYMENT ORDER от 26.11.2026: Amount 81 000,00 USD, бенефициар Suntai Solutions Limited (Unit 304-7, 3/F Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, Hong Kong), банк Standard Chartered Bank (Hong Kong) Limited (G/F, The Center, 99 Queen's Road), счёт 003-47410872862, SWIFT SCBLHKHH; назначение «Payment for inv SS261126-01 dd 26.11.2026». Компания-плательщик не названа → строка 🔴. Инвойс SS261126-01 в таблицах не встречался. | 📄 26.11.2026 (📨 Молодежь · t15007 · 81 000,00 USD Акварайм, файл «Invoice SS261126-01.pdf») — PROFORMA INVOICE № SS261126-01 от 26.11.2026: Issued to SIMPLY GREEN - FZCO (Mak. Num. A1-3641379065, 28582-001, IFZA Business Park, DDP, Dubai, UAE), Recipient Suntai Solutions Limited (Unit 304-7, 3/F Laford Centre, 838 Lai Chi Kok Road, Cheung Sha Wan, Kowloon, HK; HKBR 77540178): Semi-Assembled STRO Skid Parts, производитель Xiamen Jiarong Technology Corp., Ltd — 1 шт × 81 000,00 USD = 81 000,00 USD. Оплата: Suntai Solutions Limited, Standard Chartered Bank (Hong Kong) Limited, SWIFT SCBLHKHH, bank code 003, branch 474, счёт 003-47410872862 (USD), директор Nikolai Gets. Совпадает с payment order на 81 000 USD — та же сделка.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -4051,5 +4051,33 @@
       "messageId": null
     },
     "rowId": "mol-000351"
+  },
+  {
+    "row": 101,
+    "date": "2026-11-26",
+    "sum": 139000.45,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Акварайм (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Payment order 26.11.2026, invoice SM261125-01",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000352"
   }
 ]
