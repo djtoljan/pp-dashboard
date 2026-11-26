@@ -4815,7 +4815,7 @@
       "date": "2026-10-26",
       "sum": 16701.24,
       "currency": "EUR",
-      "company": "ATB",
+      "company": "ATB Service GmbH",
       "color": "FF92D050",
       "clientName": "Неско (ЭТБ)",
       "costFormula": null,
@@ -4827,7 +4827,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «doc-31753.pdf») — SEPA Credit transfer (немецкая платёжная компания): Von Konto ATB Service GmbH, Postbank Business Giro aktiv plus, IBAN DE86 1007 0399 0077 8100 00 → Global Marine Supply OÜ (Spınatı 16, Maardu 74117, Estonia), IBAN EE60 7700 7710 0553 7881, AS LHV PANK, BIC LHVBEE22XXX; Betrag 16 701,24 €; Verwendungszweck «Invoice Nr GLO-260874 dd 07.09.26»; PDF erstellt am 26.10.2026. Вид документа — подвешенное ПП (SEPA Überweisung немецкой платёжной компании), не подтверждение исполнения → строка 🟡, ждём банковский EXECUTED. Инвойса GLO-260874 в таблицах не было — строка заведена по этому платежу (Неско (ЭТБ), компания ATB).",
+      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «doc-31753.pdf») — SEPA Credit transfer (немецкая платёжная компания): Von Konto ATB Service GmbH, Postbank Business Giro aktiv plus, IBAN DE86 1007 0399 0077 8100 00 → Global Marine Supply OÜ (Spınatı 16, Maardu 74117, Estonia), IBAN EE60 7700 7710 0553 7881, AS LHV PANK, BIC LHVBEE22XXX; Betrag 16 701,24 €; Verwendungszweck «Invoice Nr GLO-260874 dd 07.09.26»; PDF erstellt am 26.10.2026. Вид документа — подвешенное ПП (SEPA Überweisung немецкой платёжной компании), не подтверждение исполнения → строка 🟡, ждём банковский EXECUTED. Инвойса GLO-260874 в таблицах не было — строка заведена по этому платежу (Неско (ЭТБ), компания ATB). | ✏️ 26.11.2026 (уточнение Scream по файлу «doc-31753.pdf»: «Наверху написано наименование компании, у сепы нет отслеживания») — компания строки приведена к наименованию из шапки документа: ATB Service GmbH (было «ATB»). SEPA-переводы не имеют трекинга (в отличие от SWIFT gpi/UETR), поэтому статус «EXECUTED» по этому платежу не придёт — строка закрыта 🟢 по самому документу SEPA Credit transfer (26.10.2026, 16 701,24 EUR, Global Marine Supply OÜ, invoice GLO-260874 dd 07.09.26).",
       "calc": null,
       "sumSource": {
         "source": "pp",
@@ -4838,12 +4838,12 @@
       },
       "rowId": "main-000613",
       "companySource": {
-        "source": "invoice",
-        "date": null,
-        "ref": "SEPA Credit transfer ATB Service GmbH -> Global Marine Supply OU",
-        "file": "doc-31753.pdf"
+        "source": "owner_instruction",
+        "date": "2026-11-26",
+        "ref": null,
+        "messageId": "66378"
       },
-      "companyProvisional": true,
+      "companyProvisional": false,
       "companyVerified": false
     },
     {
