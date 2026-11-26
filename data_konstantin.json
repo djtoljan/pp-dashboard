@@ -1675,7 +1675,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 26.11.2026 (📨 Константин Просто Группа, «Платит ATB», файл «Invoice 0000070207 - Brutal LLC HL - ATB Service GmbH.pdf») — INVOICE № 0000070207 от 20.07.2026: Buyer ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, VAT DE463202384); продавец — болгарская компания (VAT BG202237441, 70 B Ivan Ivanov Blvd, 1303 Sofia; United Bulgarian Bank, IBAN BG35UBBS80021454631610; responsible V. Radivoev; название в PDF читается неразборчиво). Товар: HAYA LABS (магний, холин, инозитол, R-ALA, таурин, Omega-3, цинк) — 9 позиций, сумма позиций 11 068,20 EUR, VAT 0, payment due 20.07.2026. В PDF строка «Invoice value before discount» читается как 71068.20 — это OCR, сумма позиций и Total = 11 068,20 EUR. Оплата от ATB, клиент — Константин (Просто группа).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1690,6 +1690,42 @@
       "date": null,
       "ref": "Invoice 0000070207 от 20.07.2026",
       "file": "Invoice 0000070207 - Brutal LLC HL - ATB Service GmbH.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
+  },
+  {
+    "row": 45,
+    "date": "2026-11-26",
+    "sum": 22833.8,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Invoice 0000070209 от 20.07.2026",
+      "file": "Invoice 0000070209 - Brutal LLC EB - ATB Service GmbH.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000147",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Invoice 0000070209 от 20.07.2026",
+      "file": "Invoice 0000070209 - Brutal LLC EB - ATB Service GmbH.pdf"
     },
     "companyProvisional": true,
     "companyVerified": false
