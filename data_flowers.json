@@ -1319,7 +1319,8 @@
     "vdxRateSource": {
       "kind": "scream-file",
       "ref": "input-almeno-25.11_копия---4c245e69-a3fb-42dc-a28a-8eb845991724.xlsx (стр. 4, курс 82.75)"
-    }
+    },
+    "pp_on_exchanger": "738"
   },
   {
     "row": 36,

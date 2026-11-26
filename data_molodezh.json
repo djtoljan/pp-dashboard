@@ -2757,7 +2757,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r66 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "691"
   },
   {
     "row": 67,
@@ -3195,7 +3196,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r77 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "692"
   },
   {
     "row": 78,
@@ -3249,7 +3251,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r79 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "693"
   },
   {
     "row": 80,
@@ -3275,7 +3278,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r80 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "694"
   },
   {
     "row": 81,
@@ -3332,7 +3336,8 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r81 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
-    }
+    },
+    "pp_on_exchanger": "5947"
   },
   {
     "row": 82,
@@ -3397,7 +3402,8 @@
         "txid": "57990b607ac6e810cdffcd9ebee888877a64677ff60282d67f1571629c5ac555",
         "date": "24.11.2026"
       }
-    ]
+    ],
+    "pp_on_exchanger": "74"
   },
   {
     "row": 83,
@@ -3535,7 +3541,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "Курсы VDX 25.11 от бухгалтера (ПП 1094/1095)"
-    }
+    },
+    "pp_on_exchanger": "1094 / 1095"
   },
   {
     "row": 87,
@@ -3641,7 +3648,8 @@
     "vdxRateSource": {
       "kind": "vdx-table",
       "ref": "Курсы VDX 25.11 от бухгалтера (ПП 697/698/699)"
-    }
+    },
+    "pp_on_exchanger": "697 / 699 / 698"
   },
   {
     "row": 90,
@@ -3669,7 +3677,8 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000338"
+    "rowId": "mol-000338",
+    "pp_on_exchanger": "700"
   },
   {
     "row": 91,

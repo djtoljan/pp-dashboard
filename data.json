@@ -3075,7 +3075,8 @@
       "received_usdtSource": {
         "source": "merge",
         "ref": "приход USDT перенесён из r84 при склейке (Scream)"
-      }
+      },
+      "pp_on_exchanger": "214"
     },
     {
       "row": 81,
@@ -4248,7 +4249,8 @@
         "messageId": null
       },
       "companyProvisional": false,
-      "companyVerified": false
+      "companyVerified": false,
+      "pp_on_exchanger": "253"
     },
     {
       "row": 116,
@@ -4316,7 +4318,8 @@
       "vdxRateSource": {
         "kind": "scream-file",
         "ref": "input-almeno-24.11_копия---114dd951-234c-4b5b-ba01-3ff4613cb0f2.xlsx (стр. 8, курс 82.39)"
-      }
+      },
+      "pp_on_exchanger": "223"
     },
     {
       "row": 118,
@@ -4384,7 +4387,8 @@
       "vdxRateSource": {
         "kind": "scream-file",
         "ref": "input-almeno-25.11_копия---4c245e69-a3fb-42dc-a28a-8eb845991724.xlsx (стр. 7, курс 82.75)"
-      }
+      },
+      "pp_on_exchanger": "224"
     },
     {
       "row": 120,
