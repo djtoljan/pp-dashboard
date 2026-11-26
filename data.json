@@ -4863,7 +4863,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 26.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB❗️», файл «INV 11 998,48 EUR.pdf») — ОРДЕР НА ПЛАТЁЖ от ATB: бенефициар ERS Polska Sp.z.o.o (ul. LUDWIKA ZAMENHOFA, nr 29, BIAŁYSTOK, POLSKA; NIP 5423450204), банк PKO BANK POLSKI S.A. (ul. Puławska 15, Warszawa), SWIFT BPKOPLPW, счёт PL57 1020 1332 0000 1202 1394 8932 (EUR), payment details «INV.ERS261116/1 dd 16.11.26», сумма 11 998,48 EUR, комиссия OUR. Вложенный Proforma-Invoice № ERS261116/1 от 16.11.2026 (ERS Polska → покупатель): Porcelanosa 100355032 COLORADO BONE L 556,0000 MQ × 21,58 € = 11 998,48 €, VAT 0%, total gross 11 998,48 EUR, payment term 30 / document receipt. ⚠️ Поле Buyer в инвойсе пустое, клиент по ордеру не определён — строка в Main без клиента, уточнить принадлежность.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
