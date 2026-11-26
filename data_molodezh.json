@@ -3340,7 +3340,7 @@
     "sum": 18500000,
     "currency": "USD",
     "company": null,
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "СКВЭР ТЭХ ЛИМИТЕД",
     "costFormula": "null",
     "extra": null,
