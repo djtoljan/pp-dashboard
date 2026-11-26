@@ -1330,7 +1330,7 @@
     "company": "ATB",
     "color": "FFFFFFFF",
     "clientName": "Atlantic Avrora (Цветы)",
-    "costFormula": null,
+    "costFormula": "(103 006,45 × 1,0025 + 80) × 1,09736 = 113 405,53",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -1339,7 +1339,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 25.11.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_103006_45_EUR_25-Nov-2026.pdf») — COMMERCIAL INVOICE № AA-Q8-2026-1125-01 dd 25.11.2026: продавец ATLANTIC AVRORA EOOD (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin 15, et. 9, ofis 908, Burgas, Bulgaria, директор Aleksandrs Rakovskis) → покупатель Q8 Group Limited (Company No. 80242882, Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong): Fresh cut flowers, assorted, 1 lot → EUR 103 006,45. Реквизиты: Atlantic Avrora EOOD, Stanhope Financial UAB, SWIFT USTILT2VXXX, IBAN LT323981120000005326. Q8, EUR — расчёт ждёт курс. | 📄 26.11.2026 (📨 Ордера и Расчеты, «Payment from ATB ‼», файл «INV 103 006,45 EUR.pdf») — ордер: бенефициар Atlantic Avrora EOOD (Ul. Odrin No15, Et. 9 ofis 908, Burgas, Bulgaria PK8000), банк Bank Stanhope Financial UAB, SWIFT USTILT2VXXX, счёт LT323981120000005326; payment details «inv AA-Q8-2026-1125-01 dd 25.11.26»; сумма 103 006,45 EUR, OUR; payer ATB. Инвойс AA-Q8-2026-1125-01 от 25.11.2026 выставлен на Q8 Group Limited; по ордеру плательщик — ATB (company обновлена).",
+    "notes": "📄 25.11.2026 (📨 Цветы, файл «Invoice_Atlantic_Avrora_Q8_103006_45_EUR_25-Nov-2026.pdf») — COMMERCIAL INVOICE № AA-Q8-2026-1125-01 dd 25.11.2026: продавец ATLANTIC AVRORA EOOD (Reg. Nr. 208330386, VAT BG208330386, EORI BGC208330386ZZZZ1, Ul. Odrin 15, et. 9, ofis 908, Burgas, Bulgaria, директор Aleksandrs Rakovskis) → покупатель Q8 Group Limited (Company No. 80242882, Room A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong): Fresh cut flowers, assorted, 1 lot → EUR 103 006,45. Реквизиты: Atlantic Avrora EOOD, Stanhope Financial UAB, SWIFT USTILT2VXXX, IBAN LT323981120000005326. Q8, EUR — расчёт ждёт курс. | 📄 26.11.2026 (📨 Ордера и Расчеты, «Payment from ATB ‼», файл «INV 103 006,45 EUR.pdf») — ордер: бенефициар Atlantic Avrora EOOD (Ul. Odrin No15, Et. 9 ofis 908, Burgas, Bulgaria PK8000), банк Bank Stanhope Financial UAB, SWIFT USTILT2VXXX, счёт LT323981120000005326; payment details «inv AA-Q8-2026-1125-01 dd 25.11.26»; сумма 103 006,45 EUR, OUR; payer ATB. Инвойс AA-Q8-2026-1125-01 от 25.11.2026 выставлен на Q8 Group Limited; по ордеру плательщик — ATB (company обновлена). | 💱 26.11.2026 (📨 Ордера и Расчеты, 12:51) — XE.com EUR/USD: 1 EUR = 1,09736 USD (1 USD = 0,91128 EUR); расчёт ATB: (103 006,45 × 1,0025 + 80) × 1,09736 = 113 405,53 USDT. Получатель выплаты: TXout6kcdWqGMbxTu4j5gKvv3mYfLBpgjz. sent_usdt не ставил — выплаты в леджере нет.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1356,6 +1356,11 @@
       "messageId": null
     },
     "companyProvisional": false,
-    "companyVerified": false
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "Ордера и Расчеты 26.11.2026 12:51: XE EUR/USD 1,09736",
+      "date": "2026-11-26"
+    }
   }
 ]
