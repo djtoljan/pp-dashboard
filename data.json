@@ -4620,7 +4620,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 26.11.2026 (📨 Неско- Fininvest/ЭТБ, файл «Global_invoice_GLO_261347_от_03_11_2026_на_сумму_11_598_00_евро.pdf») — INVOICE Nr GLO-261347 (Global Marine Supply OÜ, Spınatı 16, Maardu 74117, Harjumaa, Estonia; VAT EE101001432, Reg. 1152291; PKO Bank Polski SA, IBAN PL71102049000000890235842116, SWIFT BPKOPLPW) → Purchaser/Consignee Joint-Stock Company NESCO SAINT-PETERSBURG (Россия, 193149, Ленинградская обл., Новосаратовка, Покровская дорога, д. 8А пом. 1, оф. 38; КММР 470601001, Reg.Nr 7806045105): напитки — Curiocity Cola 2592 × 1,28 = 3 317,76; Connoisseurs Tonic 1848 × 0,89 = 1 644,72; Rose Lemonade 2592 × 1,28 = 3 317,76; Mandarin and Sev Orange 1296 × 1,28 = 1 658,88; Ginger Beer 1296 × 1,28 = 1 658,88; Amount without VAT 0% = 11 598,00 EUR, Total 11 598,00 EUR. Date of payment 20.11.2026, 0,5%; контракт Nr.14/2022 01.09.2023, ORDER NR SGM-Fentimans-20. Дата в шапке инвойса 20.11.26 (имя файла и футер — 03.11.26).",
       "calc": null,
       "sumSource": {
         "source": "invoice",
@@ -4630,6 +4630,34 @@
         "messageId": null
       },
       "rowId": "main-000606"
+    },
+    {
+      "row": 123,
+      "date": "2026-11-26",
+      "sum": 990,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Неско (ЭТБ)",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "INVOICE GLO-261095 от 15.09.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000607"
     }
   ]
 }
