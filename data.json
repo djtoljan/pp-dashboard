@@ -4082,7 +4082,7 @@
       "extra": null,
       "rubles_received": "1141880",
       "statementRef": "Выписка ВТБ 23-24.11.2026, ПП №1396, кредит от ООО СПРИНТ ИМПОРТ",
-      "sent_rubles_vdx": "1141880 / 1141880.00",
+      "sent_rubles_vdx": 1141880,
       "exchange_to": "Almeno",
       "vdx_rate": null,
       "received_usdt": null,
