@@ -1657,5 +1657,41 @@
         "rowId": "kon-000145"
       }
     ]
+  },
+  {
+    "row": 44,
+    "date": "2026-11-26",
+    "sum": 11068.2,
+    "currency": "EUR",
+    "company": "ATB",
+    "color": "FFFFFFFF",
+    "clientName": "Константин (Просто группа)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Invoice 0000070207 от 20.07.2026",
+      "file": "Invoice 0000070207 - Brutal LLC HL - ATB Service GmbH.pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "kon-000146",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Invoice 0000070207 от 20.07.2026",
+      "file": "Invoice 0000070207 - Brutal LLC HL - ATB Service GmbH.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
