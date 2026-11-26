@@ -1607,6 +1607,16 @@
         "direction": "IN",
         "amount": 46307.43,
         "rowId": "kon-000138"
+      },
+      {
+        "entryId": "OUT_52370_25.11.2026_1795685628281",
+        "ref": "73fa953ddccd4adba967aff55df6da645d7a8e8b611c83e27f3ec5bfa2c24634",
+        "txid": "73fa953ddccd4adba967aff55df6da645d7a8e8b611c83e27f3ec5bfa2c24634",
+        "bobrAlertId": null,
+        "date": "25.11.2026",
+        "direction": "OUT",
+        "amount": 46170.82,
+        "rowId": "kon-000138"
       }
     ]
   },

@@ -4334,7 +4334,19 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "pp_on_exchanger": "253"
+      "pp_on_exchanger": "253",
+      "payment_facts": [
+        {
+          "entryId": "OUT_52370_25.11.2026_1795685628281",
+          "ref": "73fa953ddccd4adba967aff55df6da645d7a8e8b611c83e27f3ec5bfa2c24634",
+          "txid": "73fa953ddccd4adba967aff55df6da645d7a8e8b611c83e27f3ec5bfa2c24634",
+          "bobrAlertId": null,
+          "date": "25.11.2026",
+          "direction": "OUT",
+          "amount": 6199.18,
+          "rowId": "main-000593"
+        }
+      ]
     },
     {
       "row": 114,
