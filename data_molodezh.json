@@ -3788,7 +3788,7 @@
     "company": "PQ18",
     "color": "FFFFFFFF",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "2 202,45 + 0,3% + 30 = 2 239,06",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
