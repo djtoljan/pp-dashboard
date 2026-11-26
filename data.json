@@ -393,7 +393,19 @@
       "payment_system": "baxs",
       "payerInn": "7735171132",
       "payerInnSource": "выписка VTB_битрейд_03.11.2026-05.11.2026---e033aee8-60b6-4db3-a724-70de0fed7e17.pdf: счёт 40702810738000140608; дата 03.11.2026; № 4977",
-      "pp_on_exchanger": "180"
+      "pp_on_exchanger": "180",
+      "payment_facts": [
+        {
+          "entryId": "OUT_214188.39_10.11.2026_1794299906360",
+          "ref": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "txid": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "bobrAlertId": null,
+          "date": "10.11.2026",
+          "direction": "OUT",
+          "amount": 42816,
+          "rowId": "main-000432"
+        }
+      ]
     },
     {
       "row": 12,
@@ -882,7 +894,19 @@
       "payment_system": "baxs",
       "payerInn": "9728133429",
       "payerInnSource": "выписка VTB_битрейд_05.11.2026-06.11.2026---cf28b4f2-aa40-4208-97c1-77fad7f87276.pdf: счёт 40702810324760001500; дата 05.11.2026; № 5004",
-      "pp_on_exchanger": "188"
+      "pp_on_exchanger": "188",
+      "payment_facts": [
+        {
+          "entryId": "OUT_214188.39_10.11.2026_1794299906360",
+          "ref": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "txid": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "bobrAlertId": null,
+          "date": "10.11.2026",
+          "direction": "OUT",
+          "amount": 24852,
+          "rowId": "main-000448"
+        }
+      ]
     },
     {
       "row": 25,
@@ -1091,7 +1115,19 @@
       "payment_system": "baxs",
       "payerInn": "7735171132",
       "payerInnSource": "выписка VTB_битрейд_06.11.2026-09.11.2026---f17f6135-dfa7-41f2-add4-57bb90acd1dc.pdf: счёт 40702810738000140608; дата 06.11.2026; № 5032",
-      "pp_on_exchanger": "193"
+      "pp_on_exchanger": "193",
+      "payment_facts": [
+        {
+          "entryId": "OUT_214188.39_10.11.2026_1794299906360",
+          "ref": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "txid": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "bobrAlertId": null,
+          "date": "10.11.2026",
+          "direction": "OUT",
+          "amount": 36403.53,
+          "rowId": "main-000458"
+        }
+      ]
     },
     {
       "row": 30,
@@ -1141,7 +1177,19 @@
       "payment_system": "baxs",
       "payerInn": "7735171132",
       "payerInnSource": "выписка VTB_битрейд_06.11.2026-09.11.2026---f17f6135-dfa7-41f2-add4-57bb90acd1dc.pdf: счёт 40702810738000140608; дата 06.11.2026; № 5034",
-      "pp_on_exchanger": "189"
+      "pp_on_exchanger": "189",
+      "payment_facts": [
+        {
+          "entryId": "OUT_214188.39_10.11.2026_1794299906360",
+          "ref": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "txid": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "bobrAlertId": null,
+          "date": "10.11.2026",
+          "direction": "OUT",
+          "amount": 40206,
+          "rowId": "main-000459"
+        }
+      ]
     },
     {
       "row": 31,
@@ -1443,7 +1491,19 @@
       "payment_system": "baxs",
       "payerInn": "9718263556",
       "payerInnSource": "выписка Блэкшарк_Трейд_ПОЧТОБАНК_09_10_11_26---18f94191-5f75-4eed-a020-5172e830ef26.pdf: счёт 40702810810001645207; дата 09.11.2026; № 286",
-      "pp_on_exchanger": "700"
+      "pp_on_exchanger": "700",
+      "payment_facts": [
+        {
+          "entryId": "OUT_214188.39_10.11.2026_1794299906360",
+          "ref": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "txid": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "bobrAlertId": null,
+          "date": "10.11.2026",
+          "direction": "OUT",
+          "amount": 46788,
+          "rowId": "main-000470"
+        }
+      ]
     },
     {
       "row": 40,
@@ -2207,6 +2267,54 @@
     },
     {
       "row": 58,
+      "date": "2026-11-12",
+      "sum": 20380.54,
+      "currency": "EUR",
+      "company": "Q8 Group Limited",
+      "color": "FF92D050",
+      "clientName": "ООО «ВТС»",
+      "costFormula": "(20 380,54 ÷ 0,887 + 65) ÷ 0,9965 = 23 122,86 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 23122.86,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Proof of Transfer PB2611120159000001-1 INV 2610062",
+        "file": "20",
+        "date": "2026-11-12",
+        "messageId": null
+      },
+      "rowId": "main-000602",
+      "companySource": {
+        "source": "order",
+        "date": "2026-11-12",
+        "ref": "Proof of Transfer PB2611120159000001-1 INV 2610062",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false,
+      "payment_facts": [
+        {
+          "entryId": "OUT_214188.39_10.11.2026_1794299906360",
+          "ref": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "txid": "79f00a3f6964b324c56b8d9fa5d2d1ec161dcb76b545d4bccf9b7a11d4ef1075",
+          "bobrAlertId": null,
+          "date": "10.11.2026",
+          "direction": "OUT",
+          "amount": 23122.86,
+          "rowId": "main-000602"
+        }
+      ]
+    },
+    {
+      "row": 59,
       "date": "2026-11-13",
       "sum": 9589.32,
       "currency": "USD",
@@ -2254,7 +2362,7 @@
       "pp_on_exchanger": "202"
     },
     {
-      "row": 59,
+      "row": 60,
       "date": "2026-11-13",
       "sum": 239962,
       "currency": "USD",
@@ -2304,7 +2412,7 @@
       "pp_on_exchanger": "205"
     },
     {
-      "row": 60,
+      "row": 61,
       "date": "2026-11-13",
       "sum": 17336,
       "currency": "USD",
@@ -2354,7 +2462,7 @@
       "pp_on_exchanger": "203"
     },
     {
-      "row": 61,
+      "row": 62,
       "date": "2026-11-13",
       "sum": 15950.22,
       "currency": "USD",
@@ -2416,7 +2524,7 @@
       "pp_on_exchanger": "204"
     },
     {
-      "row": 62,
+      "row": 63,
       "date": "2026-11-13",
       "sum": 96473,
       "currency": "USD",
@@ -2468,7 +2576,7 @@
       "pp_on_exchanger": "207"
     },
     {
-      "row": 63,
+      "row": 64,
       "date": "2026-11-13",
       "sum": null,
       "currency": null,
@@ -2490,7 +2598,7 @@
       "rowId": "main-000526"
     },
     {
-      "row": 64,
+      "row": 65,
       "date": "2026-11-13",
       "sum": 33948.38,
       "currency": "EUR",
@@ -2518,7 +2626,7 @@
       "rowId": "main-000527"
     },
     {
-      "row": 65,
+      "row": 66,
       "date": "2026-11-13",
       "sum": 37603.5,
       "currency": "EUR",
@@ -2546,7 +2654,7 @@
       "rowId": "main-000528"
     },
     {
-      "row": 66,
+      "row": 67,
       "date": "2026-11-16",
       "sum": 6958,
       "currency": "EUR",
@@ -2587,7 +2695,7 @@
       "pp_on_exchanger": "248"
     },
     {
-      "row": 67,
+      "row": 68,
       "date": "2026-11-16",
       "sum": 1191.78,
       "currency": "USD",
@@ -2632,7 +2740,7 @@
       }
     },
     {
-      "row": 68,
+      "row": 69,
       "date": "2026-11-16",
       "sum": 125390,
       "currency": "USD",
@@ -2664,7 +2772,7 @@
       }
     },
     {
-      "row": 69,
+      "row": 70,
       "date": "2026-11-16",
       "sum": 82520.25,
       "currency": "USD",
@@ -2710,7 +2818,7 @@
       "pp_on_exchanger": "209"
     },
     {
-      "row": 70,
+      "row": 71,
       "date": "2026-11-16",
       "sum": 42525.73,
       "currency": "EUR",
@@ -2756,7 +2864,7 @@
       "pp_on_exchanger": "210"
     },
     {
-      "row": 71,
+      "row": 72,
       "date": "2026-11-16",
       "sum": null,
       "currency": null,
@@ -2789,7 +2897,7 @@
       "pp_on_exchanger": "249"
     },
     {
-      "row": 72,
+      "row": 73,
       "date": "2026-11-16",
       "sum": 45200,
       "currency": "CNY",
@@ -2830,7 +2938,7 @@
       }
     },
     {
-      "row": 73,
+      "row": 74,
       "date": "2026-11-16",
       "sum": 18351,
       "currency": "USD",
@@ -2858,7 +2966,7 @@
       "rowId": "main-000538"
     },
     {
-      "row": 74,
+      "row": 75,
       "date": "2026-11-17",
       "sum": 16586.67,
       "currency": "EUR",
@@ -2894,7 +3002,7 @@
       "companyVerified": false
     },
     {
-      "row": 75,
+      "row": 76,
       "date": "2026-11-17",
       "sum": 28500,
       "currency": "CNY",
@@ -2922,7 +3030,7 @@
       "rowId": "main-000540"
     },
     {
-      "row": 76,
+      "row": 77,
       "date": "2026-11-17",
       "sum": 14940,
       "currency": "USD",
@@ -2967,7 +3075,7 @@
       }
     },
     {
-      "row": 77,
+      "row": 78,
       "date": "2026-11-17",
       "sum": null,
       "currency": null,
@@ -3000,7 +3108,7 @@
       "pp_on_exchanger": "250"
     },
     {
-      "row": 78,
+      "row": 79,
       "date": "2026-11-17",
       "sum": 1245,
       "currency": "USD",
@@ -3041,7 +3149,7 @@
       }
     },
     {
-      "row": 79,
+      "row": 80,
       "date": "2026-11-17",
       "sum": 64002,
       "currency": "EUR",
@@ -3077,7 +3185,7 @@
       "companyVerified": false
     },
     {
-      "row": 80,
+      "row": 81,
       "date": "2026-11-17",
       "sum": 12250,
       "currency": "USD",
@@ -3127,7 +3235,7 @@
       "pp_on_exchanger": "214"
     },
     {
-      "row": 81,
+      "row": 82,
       "date": "2026-11-17",
       "sum": 25938,
       "currency": "USD",
@@ -3168,7 +3276,7 @@
       }
     },
     {
-      "row": 82,
+      "row": 83,
       "date": "2026-11-17",
       "sum": 2000,
       "currency": "EUR",
@@ -3204,7 +3312,7 @@
       "companyVerified": false
     },
     {
-      "row": 83,
+      "row": 84,
       "date": "2026-11-17",
       "sum": null,
       "currency": null,
@@ -3237,7 +3345,7 @@
       "pp_on_exchanger": "213"
     },
     {
-      "row": 84,
+      "row": 85,
       "date": "2026-11-17",
       "sum": null,
       "currency": null,
@@ -3269,7 +3377,7 @@
       }
     },
     {
-      "row": 85,
+      "row": 86,
       "date": "2026-11-18",
       "sum": null,
       "currency": null,
@@ -3292,7 +3400,7 @@
       "sendKind": "internal_transfer"
     },
     {
-      "row": 86,
+      "row": 87,
       "date": "2026-11-18",
       "sum": null,
       "currency": null,
@@ -3315,7 +3423,7 @@
       "sendKind": "internal_transfer"
     },
     {
-      "row": 87,
+      "row": 88,
       "date": "2026-11-18",
       "sum": 11000,
       "currency": "EUR",
@@ -3355,7 +3463,7 @@
       }
     },
     {
-      "row": 88,
+      "row": 89,
       "date": "2026-11-18",
       "sum": 15000,
       "currency": "EUR",
@@ -3388,7 +3496,7 @@
       }
     },
     {
-      "row": 89,
+      "row": 90,
       "date": "2026-11-18",
       "sum": 44286.5,
       "currency": "EUR",
@@ -3435,7 +3543,7 @@
       "pp_on_exchanger": "217"
     },
     {
-      "row": 90,
+      "row": 91,
       "date": "2026-11-18",
       "sum": 38017.01,
       "currency": "USD",
@@ -3468,7 +3576,7 @@
       "pp_on_exchanger": "218"
     },
     {
-      "row": 91,
+      "row": 92,
       "date": "2026-11-18",
       "sum": 33600,
       "currency": "USD",
@@ -3522,7 +3630,7 @@
       ]
     },
     {
-      "row": 92,
+      "row": 93,
       "date": "2026-11-18",
       "sum": 29100,
       "currency": "USD",
@@ -3576,7 +3684,7 @@
       ]
     },
     {
-      "row": 93,
+      "row": 94,
       "date": "2026-11-19",
       "sum": 149280,
       "currency": "USD",
@@ -3616,7 +3724,7 @@
       }
     },
     {
-      "row": 94,
+      "row": 95,
       "date": "2026-11-19",
       "sum": 16200,
       "currency": "USD",
@@ -3644,7 +3752,7 @@
       "rowId": "main-000569"
     },
     {
-      "row": 95,
+      "row": 96,
       "date": "2026-11-19",
       "sum": 10000,
       "currency": "USD",
@@ -3672,7 +3780,7 @@
       "rowId": "main-000570"
     },
     {
-      "row": 96,
+      "row": 97,
       "date": "2026-11-19",
       "sum": 65000,
       "currency": "USD",
@@ -3700,7 +3808,7 @@
       "rowId": "main-000571"
     },
     {
-      "row": 97,
+      "row": 98,
       "date": "2026-11-20",
       "sum": 16200,
       "currency": "USD",
@@ -3728,7 +3836,7 @@
       "rowId": "main-000572"
     },
     {
-      "row": 98,
+      "row": 99,
       "date": "2026-11-20",
       "sum": 172543.06,
       "currency": "EUR",
@@ -3769,7 +3877,7 @@
       }
     },
     {
-      "row": 99,
+      "row": 100,
       "date": "2026-11-20",
       "sum": 6435.07,
       "currency": "USD",
@@ -3822,7 +3930,7 @@
       ]
     },
     {
-      "row": 100,
+      "row": 101,
       "date": "2026-11-20",
       "sum": null,
       "currency": null,
@@ -3849,7 +3957,7 @@
       }
     },
     {
-      "row": 101,
+      "row": 102,
       "date": "2026-11-20",
       "sum": null,
       "currency": null,
@@ -3873,7 +3981,7 @@
       "sendKind": "internal_transfer"
     },
     {
-      "row": 102,
+      "row": 103,
       "date": "2026-11-20",
       "sum": 339900,
       "currency": "CNY",
@@ -3905,7 +4013,7 @@
       }
     },
     {
-      "row": 103,
+      "row": 104,
       "date": "2026-11-20",
       "sum": 7444568.62,
       "currency": "RUB",
@@ -3935,7 +4043,7 @@
       "payee": "ООО «ОЕМ Тех»"
     },
     {
-      "row": 104,
+      "row": 105,
       "date": "2026-11-20",
       "sum": null,
       "currency": null,
@@ -3961,7 +4069,7 @@
       }
     },
     {
-      "row": 105,
+      "row": 106,
       "date": "2026-11-20",
       "sum": null,
       "currency": null,
@@ -3988,7 +4096,7 @@
       }
     },
     {
-      "row": 106,
+      "row": 107,
       "date": "2026-11-20",
       "sum": null,
       "currency": null,
@@ -4015,7 +4123,7 @@
       }
     },
     {
-      "row": 107,
+      "row": 108,
       "date": "2026-11-20",
       "sum": 42525.73,
       "currency": "EUR",
@@ -4056,7 +4164,7 @@
       }
     },
     {
-      "row": 108,
+      "row": 109,
       "date": "2026-11-23",
       "sum": 37402.84,
       "currency": "USD",
@@ -4096,7 +4204,7 @@
       "costSource": "operator"
     },
     {
-      "row": 109,
+      "row": 110,
       "date": "2026-11-23",
       "sum": 51422.37,
       "currency": "USD",
@@ -4143,7 +4251,7 @@
       ]
     },
     {
-      "row": 110,
+      "row": 111,
       "date": "2026-11-24",
       "sum": null,
       "currency": null,
@@ -4166,7 +4274,7 @@
       "pp_on_exchanger": "77"
     },
     {
-      "row": 111,
+      "row": 112,
       "date": "2026-11-24",
       "sum": null,
       "currency": null,
@@ -4188,7 +4296,7 @@
       "rowId": "main-000591"
     },
     {
-      "row": 112,
+      "row": 113,
       "date": "2026-11-24",
       "sum": 5573.48,
       "currency": "EUR",
@@ -4229,7 +4337,7 @@
       "pp_on_exchanger": "253"
     },
     {
-      "row": 113,
+      "row": 114,
       "date": "2026-11-24",
       "sum": 9108,
       "currency": "EUR",
@@ -4257,7 +4365,7 @@
       "rowId": "main-000594"
     },
     {
-      "row": 114,
+      "row": 115,
       "date": "2026-11-24",
       "sum": 25894.3,
       "currency": "USD",
@@ -4298,7 +4406,7 @@
       "pp_on_exchanger": "223"
     },
     {
-      "row": 115,
+      "row": 116,
       "date": "2026-11-24",
       "sum": 36578.68,
       "currency": "EUR",
@@ -4326,7 +4434,7 @@
       "rowId": "main-000596"
     },
     {
-      "row": 116,
+      "row": 117,
       "date": "2026-11-25",
       "sum": 66342.54,
       "currency": "USD",
@@ -4367,7 +4475,7 @@
       "pp_on_exchanger": "224"
     },
     {
-      "row": 117,
+      "row": 118,
       "date": "2026-11-25",
       "sum": 90487.5,
       "currency": "USD",
@@ -4397,42 +4505,6 @@
         "source": "order",
         "date": "2026-11-25",
         "ref": "JP Morgan ORDER (invoice F-36334-27769)",
-        "messageId": null
-      },
-      "companyProvisional": false,
-      "companyVerified": false
-    },
-    {
-      "row": 118,
-      "date": "2026-11-12",
-      "sum": 20380.54,
-      "currency": "EUR",
-      "company": "Q8 Group Limited",
-      "color": "FF92D050",
-      "clientName": "ООО «ВТС»",
-      "costFormula": "(20 380,54 ÷ 0,887 + 65) ÷ 0,9965 = 23 122,86 USDT",
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": 23122.86,
-      "notes": null,
-      "calc": null,
-      "sumSource": {
-        "source": "order",
-        "ref": "Proof of Transfer PB2611120159000001-1 INV 2610062",
-        "file": "20",
-        "date": "2026-11-12",
-        "messageId": null
-      },
-      "rowId": "main-000602",
-      "companySource": {
-        "source": "order",
-        "date": "2026-11-12",
-        "ref": "Proof of Transfer PB2611120159000001-1 INV 2610062",
         "messageId": null
       },
       "companyProvisional": false,
