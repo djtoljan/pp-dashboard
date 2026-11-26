@@ -4401,6 +4401,42 @@
       },
       "companyProvisional": false,
       "companyVerified": false
+    },
+    {
+      "row": 118,
+      "date": "2026-11-12",
+      "sum": 20380.54,
+      "currency": "EUR",
+      "company": "Q8 Group Limited",
+      "color": "FF92D050",
+      "clientName": "ООО «ВТС»",
+      "costFormula": "(20 380,54 ÷ 0,887 + 65) ÷ 0,9965 = 23 122,86 USDT",
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": 23122.86,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Proof of Transfer PB2611120159000001-1 INV 2610062",
+        "file": "20",
+        "date": "2026-11-12",
+        "messageId": null
+      },
+      "rowId": "main-000602",
+      "companySource": {
+        "source": "order",
+        "date": "2026-11-12",
+        "ref": "Proof of Transfer PB2611120159000001-1 INV 2610062",
+        "messageId": null
+      },
+      "companyProvisional": false,
+      "companyVerified": false
     }
   ]
 }
