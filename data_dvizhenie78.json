@@ -570,5 +570,27 @@
       "source": "merge",
       "ref": "приход USDT перенесён из r15 при склейке (Scream)"
     }
+  },
+  {
+    "row": 15,
+    "date": "2026-11-26",
+    "sum": null,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": null,
+    "rowId": "d78-000072"
   }
 ]
