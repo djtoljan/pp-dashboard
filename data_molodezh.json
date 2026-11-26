@@ -3863,7 +3863,7 @@
     "sum": 2565,
     "currency": "EUR",
     "company": "PQ18",
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "Смарт-Агент (Молодёжь)",
     "costFormula": null,
     "extra": null,
