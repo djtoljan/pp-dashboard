@@ -3190,7 +3190,7 @@
       "sum": 64002,
       "currency": "EUR",
       "company": "ATB Service GmbH",
-      "color": "FFFFFF00",
+      "color": "FF92D050",
       "clientName": "Андрей Шибаев",
       "costFormula": "(64002*1.0025+80)*1.09915 = 70 611,60",
       "extra": null,
