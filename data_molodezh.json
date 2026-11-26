@@ -4069,7 +4069,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 26.11.2026 (📨 Молодежь · t15009 · 139 000,45 EUR Акварайм, файл «PAYMENT_ORDER 26.11.2026 139 000.45 EUR.pdf») — PAYMENT ORDER от 26.11.2026: Amount 139 000,45 EUR, бенефициар SMARTSISTEMS PTE. LTD. (16 Raffles Quay #33-03 Hong Leong Building, Singapore 048581), банк Citibank, N.A., Hong Kong Branch (49th Floor, Champion Tower, 3 Garden Road, Central, HKG), счёт 006-391-390205005, SWIFT CITIHKHXXXX; назначение «invoice No SM261125-01». Компания-плательщик не названа → строка 🔴; инвойс SM261125-01 в таблицах ранее не встречался (r7 — другой SMARTSISTEMS на 67 544,15 EUR).",
     "calc": null,
     "sumSource": {
       "source": "invoice",
