@@ -3998,12 +3998,12 @@
     {
       "row": 108,
       "date": "2026-11-23",
-      "sum": null,
-      "currency": null,
-      "company": null,
-      "color": "FF4FC3F7",
+      "sum": 37402.84,
+      "currency": "USD",
+      "company": "Q8 Group Limited",
+      "color": "FF92D050",
       "clientName": "Логолок",
-      "costFormula": null,
+      "costFormula": "JP Morgan Q8-113: 37 402,84 / 0,9965 = 37 534,21 + 50,00 / 0,9965 = 50,18 = 37 584,39",
       "extra": null,
       "rubles_received": "3074139.42 / 51256.95",
       "statementRef": "Выписка Почтабанк 23-24.11.2026 ПП 297 тело 3074139.42 + ПП 298 агентское 51256.95",
@@ -4012,15 +4012,28 @@
       "vdx_rate": 82.44,
       "received_usdt": 37911.16,
       "sent_usdt": null,
-      "notes": "ПП на Almeno №735 от 23.11.2026 (3 125 396,37 ₽ — номер из документа ПП) | 📤 23.11.2026 (📨 Scream, «Отправки рублей ПП.») — ОТПРАВКА НА ОБМЕННИК: Блэкшарк (Почтабанк) → Альмено, 3 125 396,37 ₽, за комплектующие, обменная заявка 88. Документы: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\АЛЬМЕНО; O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Логолок\\вход 23.11.26. Клиент — ООО «ЛОГОЛОК». sent_rubles_vdx = 3 125 396,37, обменник Альмено. Сумма сделки в валюте и компания не названы — строка 🔵 без суммы. | 🏦 24.11.2026 (📨 Банковские выписки, файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf», счёт 40807810100157518600) — приходы от ООО «ЛОГОЛОК» (ИНН 9718263556, счёт 40702810810001645207, ВТБ, БИК 044525974): ПП №297 от 23.11.2026 — 3 074 139,42 ₽ (тело, оплата по Агентскому договору №02-09/25 от 02.09.2025, Поручение №25 от 23.11.2026, контракт №HICC/2024-10-12 от 10.12.2024) и ПП №298 от 23.11.2026 — 51 256,95 ₽ (агентское вознаграждение по тому же договору, Поручение №25). Итого 3 125 396,37 ₽ = ровно отправке на Альмено (дебет ПП №735 от 24.11.2026, заяв.88). rubles_received = 3 074 139,42 / 51 256,95. | 📄 24.11.2026 (📨 Отправки рублей ПП. «исп», файл «735.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 735 от 23.11.2026, ИСПОЛНЕНО 24.11.2026 (АО АКИБ «Почтобанк» г. Пермь, БИК 045773705, ЭП ПОДЛИННА, ID 13566845): плательщик ОсОО «Блэкшарк Трейд» (ИНН 9909705614, счёт 40807810100157518600) → АЛЬМЕНО КО., ЛТД (ИНН 9909691746, счёт 40807810700300000030, АО БАНК «ЕРМАК», БИК 047102742), сумма 3 125 396,37 ₽, назначение «{VO60081} Оплата по агент.дог. № AL16062026-8 от 16.06.2026, согл. заяв.88 от 23.11.2026 за комплектующие». Совпадает с sent_rubles_vdx строки (3 125 396,37, Альмено, заяв.88).",
+      "notes": "ПП на Almeno №735 от 23.11.2026 (3 125 396,37 ₽ — номер из документа ПП) | 📤 23.11.2026 (📨 Scream, «Отправки рублей ПП.») — ОТПРАВКА НА ОБМЕННИК: Блэкшарк (Почтабанк) → Альмено, 3 125 396,37 ₽, за комплектующие, обменная заявка 88. Документы: O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\АЛЬМЕНО; O:\\_обмен\\СВЕРКИ\\СВЕРКИ ОКСАНЫ\\ВЭД\\БлэкШарк\\Логолок\\вход 23.11.26. Клиент — ООО «ЛОГОЛОК». sent_rubles_vdx = 3 125 396,37, обменник Альмено. Сумма сделки в валюте и компания не названы — строка 🔵 без суммы. | 🏦 24.11.2026 (📨 Банковские выписки, файл «ОсОО_Блэкшарк_Трейд_,_ПОЧТОБАНК_iBank_для_Бизнеса.pdf», счёт 40807810100157518600) — приходы от ООО «ЛОГОЛОК» (ИНН 9718263556, счёт 40702810810001645207, ВТБ, БИК 044525974): ПП №297 от 23.11.2026 — 3 074 139,42 ₽ (тело, оплата по Агентскому договору №02-09/25 от 02.09.2025, Поручение №25 от 23.11.2026, контракт №HICC/2024-10-12 от 10.12.2024) и ПП №298 от 23.11.2026 — 51 256,95 ₽ (агентское вознаграждение по тому же договору, Поручение №25). Итого 3 125 396,37 ₽ = ровно отправке на Альмено (дебет ПП №735 от 24.11.2026, заяв.88). rubles_received = 3 074 139,42 / 51 256,95. | 📄 24.11.2026 (📨 Отправки рублей ПП. «исп», файл «735.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 735 от 23.11.2026, ИСПОЛНЕНО 24.11.2026 (АО АКИБ «Почтобанк» г. Пермь, БИК 045773705, ЭП ПОДЛИННА, ID 13566845): плательщик ОсОО «Блэкшарк Трейд» (ИНН 9909705614, счёт 40807810100157518600) → АЛЬМЕНО КО., ЛТД (ИНН 9909691746, счёт 40807810700300000030, АО БАНК «ЕРМАК», БИК 047102742), сумма 3 125 396,37 ₽, назначение «{VO60081} Оплата по агент.дог. № AL16062026-8 от 16.06.2026, согл. заяв.88 от 23.11.2026 за комплектующие». Совпадает с sent_rubles_vdx строки (3 125 396,37, Альмено, заяв.88). | r114: 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Wtron consolidated 37,402.84 USD Q8.pdf») — Wtron Electronic Technology (HK) CO., Ltd (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen; Alice Lee) — INVOICE от 2026-11-24, CONSOLIDATED (6 PIs), Buyer/Company Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong): 24 позиции электронных компонентов (AM1063-2 Atlanta, Microchip, MPS, TI/TE/Delphi/KET/KUM, MINI и др.), всего 293 920 шт на US$ 37 402,84. Оплата: промежуточный банк Mashreqbank PSC New York (SWIFT MSHQUS33), бенефициарный банк Zhejiang Chouzhou Commercial Bank (CZCBCN2X), счёт NRA15702002010590032281, получатель WTRON ELECTRONIC TECHNOLOGY (H.K.) CO., LIMITED. Внимание: в инвойсе запрет переводов из ряда стран, включая Россию и Беларусь. Клиент не назван — строка ⬜ без клиента. | 💳 24.11.2026 (📨 Заявки/расчеты JP Morgan, ордер без номера) — Payer Q8 GROUP LIMITED: BENEFICIARY WTRON ELECTRONIC TECHNOLOGY (H.K) CO., LIMITED (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK (CZCBCN2X), счёт NRA15702002010590032281; интермедиари Mashreqbank PSC New York Branch (MSHQUS33); Remarks «PAYMENT FOR INVOICES W20260930 (50%), W20261009, W20261015, W20261027, W20261102-2, W20261102-3»; сумма 37 402,84 USD. Совпадает со строкой (эти же 6 PI). Сумма и цвет не менялись.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. | 💳 24.11.2026 (📨 Заявки/расчеты JP Morgan, ордер без номера по Wtron) — Payer Q8 GROUP LIMITED: BENEFICIARY WTRON ELECTRONIC TECHNOLOGY HK CO LIMITED (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen, China); банк JPMorgan Chase Bank N.A., Hong Kong Branch (16/F Tower 2 The Quayside, 77 Hoi Bun Road, Kwun Tong, Hong Kong), SWIFT CHASHKHH (CHASHKHHXXX), счёт 200000000528490, bank code 007, branch 863, clearing SWIFT/RTGS; Remarks «PAYMENT FOR INVOICES W20260930 (50%), W20261009, W20261015, W20261027, W20261102-2, W20261102-3»; сумма 37 402,84 USD. Маршрут по ордеру — JPMorgan HK (в инвойсе был Zhejiang Chouzhou/Mashreq); сумма и цвет не менялись.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. | 🔢 24.11.2026 (📨 Заявки/расчеты JP Morgan, Q8 - 113) — номер ордера по Wtron: Q8-113 (ранее в расчёте было ошибочно указано «Q8-112» — это номер по JIZAN 29 000 USD). Сумма 37 402,84 USD, расчёт 37 584,39 USDT не менялись; уточнена только пометка ордера. |  | 🟢 25.11.2026 (📨 ПП банка JP Morgan, ORDER No Q80113, файл «TFR-ZMNJMJYP USD 37402.84.PDF») — TRANSACTION RECEIPT: payer Q8 GROUP LIMITED → beneficiary WTRON ELECTRONIC TECHNOLOGY HK CO LIMITED (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen, China; JPMORGAN CHASE BANK N.A. HONG KONG BRANCH, счёт 200000000528490, SWIFT CHASHKHHXXX), USD 37 402,84, Transaction Status SUCCESS, Remarks «W20260930, W20261009, W20261015, W20261027, W20261102», UETR 72ed8574-9754-44bd-9a6e-cde02c042625, generated 25 NOV 2026. Исполнение подтверждено: ⬜→🟢. | 🔗 2026-11-26 (Scream: «Scream 26.11.2026: r114 и r108 — одна сделка (Логолок → Альмено → Wtron), слить») — строки 114 объединены с этой: sum = 37402.84 USD; rubles_received = 3074139.42 / 51256.95; sent_rubles_vdx = 3125396.37; цвет = 🟢 (row 114 (удаляемая), понижение запрещено). Доказательства прежних строк: r114 (🟢): 📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Wtron consolidated 37,402.84 USD Q8.pdf») — Wtron Electronic Technology (HK) CO., Ltd (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen; Alice Lee) — INVOICE от 2026-11-24, CONSOLIDATED (6 PIs), Buyer/Company Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong): 24 позиции электронных компон. Полные notes прежних строк — в Main.removed-rows_main-000586-main-000592_2026-11-26.json.",
       "calc": null,
-      "sumSource": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "Wtron consolidated 37 402,84 USD",
+        "file": null,
+        "date": "2026-11-24",
+        "messageId": null
+      },
       "rowId": "main-000586",
       "pp_on_exchanger": "735",
       "vdxRateSource": {
         "kind": "scream-file",
         "ref": "input-almeno-24.11_копия---114dd951-234c-4b5b-ba01-3ff4613cb0f2.xlsx (стр. 4, курс 82.44)"
-      }
+      },
+      "companySource": {
+        "source": "invoice",
+        "date": "2026-11-24",
+        "ref": "Wtron consolidated 6 PIs",
+        "file": null
+      },
+      "costSource": "operator"
     },
     {
       "row": 109,
@@ -4161,59 +4174,6 @@
     {
       "row": 114,
       "date": "2026-11-24",
-      "sum": 37402.84,
-      "currency": "USD",
-      "company": "Q8 Group Limited",
-      "color": "FF92D050",
-      "clientName": null,
-      "costFormula": "JP Morgan Q8-113: 37 402,84 / 0,9965 = 37 534,21 + 50,00 / 0,9965 = 50,18 = 37 584,39",
-      "extra": null,
-      "rubles_received": null,
-      "statementRef": null,
-      "sent_rubles_vdx": null,
-      "exchange_to": null,
-      "vdx_rate": null,
-      "received_usdt": null,
-      "sent_usdt": null,
-      "notes": "📄 24.11.2026 (📨 Заявки/расчеты JP Morgan, файл «Wtron consolidated 37,402.84 USD Q8.pdf») — Wtron Electronic Technology (HK) CO., Ltd (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen; Alice Lee) — INVOICE от 2026-11-24, CONSOLIDATED (6 PIs), Buyer/Company Q8 GROUP LIMITED (RM A22, 10/F, No. 52 Hung To Road, Kwun Tong, Hong Kong): 24 позиции электронных компонентов (AM1063-2 Atlanta, Microchip, MPS, TI/TE/Delphi/KET/KUM, MINI и др.), всего 293 920 шт на US$ 37 402,84. Оплата: промежуточный банк Mashreqbank PSC New York (SWIFT MSHQUS33), бенефициарный банк Zhejiang Chouzhou Commercial Bank (CZCBCN2X), счёт NRA15702002010590032281, получатель WTRON ELECTRONIC TECHNOLOGY (H.K.) CO., LIMITED. Внимание: в инвойсе запрет переводов из ряда стран, включая Россию и Беларусь. Клиент не назван — строка ⬜ без клиента. | 💳 24.11.2026 (📨 Заявки/расчеты JP Morgan, ордер без номера) — Payer Q8 GROUP LIMITED: BENEFICIARY WTRON ELECTRONIC TECHNOLOGY (H.K) CO., LIMITED (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen); банк ZHEJIANG CHOUZHOU COMMERCIAL BANK (CZCBCN2X), счёт NRA15702002010590032281; интермедиари Mashreqbank PSC New York Branch (MSHQUS33); Remarks «PAYMENT FOR INVOICES W20260930 (50%), W20261009, W20261015, W20261027, W20261102-2, W20261102-3»; сумма 37 402,84 USD. Совпадает со строкой (эти же 6 PI). Сумма и цвет не менялись.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. | 💳 24.11.2026 (📨 Заявки/расчеты JP Morgan, ордер без номера по Wtron) — Payer Q8 GROUP LIMITED: BENEFICIARY WTRON ELECTRONIC TECHNOLOGY HK CO LIMITED (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen, China); банк JPMorgan Chase Bank N.A., Hong Kong Branch (16/F Tower 2 The Quayside, 77 Hoi Bun Road, Kwun Tong, Hong Kong), SWIFT CHASHKHH (CHASHKHHXXX), счёт 200000000528490, bank code 007, branch 863, clearing SWIFT/RTGS; Remarks «PAYMENT FOR INVOICES W20260930 (50%), W20261009, W20261015, W20261027, W20261102-2, W20261102-3»; сумма 37 402,84 USD. Маршрут по ордеру — JPMorgan HK (в инвойсе был Zhejiang Chouzhou/Mashreq); сумма и цвет не менялись.  | 🧮 2026-11-24 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. | 🔢 24.11.2026 (📨 Заявки/расчеты JP Morgan, Q8 - 113) — номер ордера по Wtron: Q8-113 (ранее в расчёте было ошибочно указано «Q8-112» — это номер по JIZAN 29 000 USD). Сумма 37 402,84 USD, расчёт 37 584,39 USDT не менялись; уточнена только пометка ордера. |  | 🟢 25.11.2026 (📨 ПП банка JP Morgan, ORDER No Q80113, файл «TFR-ZMNJMJYP USD 37402.84.PDF») — TRANSACTION RECEIPT: payer Q8 GROUP LIMITED → beneficiary WTRON ELECTRONIC TECHNOLOGY HK CO LIMITED (Building 405 West Block, Room 406, Sangda Industrial Zone, Futian District, Shenzhen, China; JPMORGAN CHASE BANK N.A. HONG KONG BRANCH, счёт 200000000528490, SWIFT CHASHKHHXXX), USD 37 402,84, Transaction Status SUCCESS, Remarks «W20260930, W20261009, W20261015, W20261027, W20261102», UETR 72ed8574-9754-44bd-9a6e-cde02c042625, generated 25 NOV 2026. Исполнение подтверждено: ⬜→🟢.",
-      "calc": null,
-      "sumSource": {
-        "source": "invoice",
-        "ref": "Wtron consolidated 37 402,84 USD",
-        "file": null,
-        "date": "2026-11-24",
-        "messageId": null
-      },
-      "rowId": "main-000592",
-      "companySource": {
-        "source": "invoice",
-        "date": "2026-11-24",
-        "ref": "Wtron consolidated 6 PIs",
-        "file": null
-      },
-      "companyProvisional": true,
-      "companyVerified": false,
-      "costSource": "operator",
-      "costSourceRef": {
-        "ref": "JP Morgan Q8-113",
-        "date": "2026-11-24"
-      },
-      "payment_facts": [
-        {
-          "entryId": "OUT_85853.34_24.11.2026_1795516375502",
-          "ref": "bobr-20261124-085853",
-          "txid": null,
-          "bobrAlertId": "bobr-20261124-085853",
-          "date": "24.11.2026",
-          "direction": "OUT",
-          "amount": 37584.39,
-          "rowId": "main-000592"
-        }
-      ]
-    },
-    {
-      "row": 115,
-      "date": "2026-11-24",
       "sum": 5573.48,
       "currency": "EUR",
       "company": "ATB",
@@ -4253,7 +4213,7 @@
       "pp_on_exchanger": "253"
     },
     {
-      "row": 116,
+      "row": 115,
       "date": "2026-11-24",
       "sum": 9108,
       "currency": "EUR",
@@ -4281,7 +4241,7 @@
       "rowId": "main-000594"
     },
     {
-      "row": 117,
+      "row": 116,
       "date": "2026-11-24",
       "sum": 25894.3,
       "currency": "USD",
@@ -4322,7 +4282,7 @@
       "pp_on_exchanger": "223"
     },
     {
-      "row": 118,
+      "row": 117,
       "date": "2026-11-24",
       "sum": 36578.68,
       "currency": "EUR",
@@ -4350,7 +4310,7 @@
       "rowId": "main-000596"
     },
     {
-      "row": 119,
+      "row": 118,
       "date": "2026-11-25",
       "sum": 66342.54,
       "currency": "USD",
@@ -4391,7 +4351,7 @@
       "pp_on_exchanger": "224"
     },
     {
-      "row": 120,
+      "row": 119,
       "date": "2026-11-25",
       "sum": 90487.5,
       "currency": "USD",
