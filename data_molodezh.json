@@ -2832,12 +2832,12 @@
   {
     "row": 68,
     "date": "2026-11-19",
-    "sum": null,
-    "currency": null,
-    "company": null,
+    "sum": 12024,
+    "currency": "EUR",
+    "company": "PQ18",
     "color": "FF4FC3F7",
     "clientName": "АО «Фри Лайнс Компани»",
-    "costFormula": null,
+    "costFormula": "12 024,00 / 0,907869607662 = 13 244,19 × 1,003 + 30 = 13 313,93",
     "extra": "📄 19.11.2026 (📨 Молодежь · t14396 · 12 024 EUR Фрилайнс, файл «1133413,06.pdf») — ПЛАТЕЖНОЕ ПОРУЧЕНИЕ № 5300 от 19.11.2026: АО «Фри Лайнс Компани» (ИНН 9727130961, сч. 40702810720010003274, АО ЮниКредит Банк) → VDX SERVICES - FZCO (ПАО Банк ПСБ, сч. 40807810000000015414), 1 133 413,06 ₽, {VO21200} оплата по контракту ADL-230223-FLC от 23.02.2023 за экспедиторские услуги. Сделка 12 024 EUR, компания/заявка не названы — ждём заявку.",
     "rubles_received": null,
     "statementRef": null,
@@ -2846,11 +2846,11 @@
     "vdx_rate": 82.25,
     "received_usdt": 13766.32,
     "sent_usdt": null,
-    "notes": "ПП на VDX №5300 от 19.11.2026 (1 133 413,06 ₽ — номер из документа ПП)",
+    "notes": "ПП на VDX №5300 от 19.11.2026 (1 133 413,06 ₽ — номер из документа ПП) | 📄 26.11.2026 (📨 Молодежь · t14396 · 12 024 EUR Фрилайнс, файл «PAYMENT_ORDER_DBA24112026-06.docx») — PAYMENT ORDER от 25.11.2026: Amount 12 024,00 EUR, бенефициар DBA Euro Plants GmbH (Trankeweg 8, 15517 Fürstenwalde/Spree, Germany), банк QONTO, IBAN DE87100101235609112927, SWIFT QNTODEB2XXX; назначение «Payment under Proforma-RECHNUNG Nr. DBA24112026/06 24.11.2026», способ — bank transfer по проформа-инвойсу. Сумма строки проставлена по ордеру (12 024,00 EUR). Сверка с отправкой: 1 133 413,06 ₽ / 12 024,00 EUR = 94,2626 ₽/EUR — рубли ушли на VDX 19.11.2026 (ПП №5300). | 📄 26.11.2026 (📨 Молодежь · t14396 · 12 024 EUR Фрилайнс, файл «Rechnung_Proforma_DBA_Euro_Plants_GmbH_12_000_Q8_Group_Limited_Qonto.pdf») — PROFORMA-RECHNUNG Nr. DBA24112026/06 от 24.11.2026: Verkäufer/Seller DBA Euro Plants GmbH (Trankeweg 8, 15537/15517 Fürstenwalde/Spree; Steuer-Nr. 06111105403, USt-IdNr. DE369987532, HRB 20685 FF, EORI DE544403072924421) → Käufer/Buyer **PQ18 Limited**: позиция 1 «Bezahlung» — 12 024,00 EUR (MwSt 0%), сумма прописью «Zwölftausendvierundzwanzig EUR, 00 cent»; директор Dainė Baumilė. Банк QONTO, IBAN DE87100101235609112927, SWIFT QNTODEB2XXX. Компания строки — **PQ18** (по инвойсу). | 💱 26.11.2026 — PQ18 (XFee): EUR → USD по курсу FX Q8 0,907869607662, затем × 1,003 + 30: 12 024,00 / 0,907869607662 = 13 244,19 USD → 13 313,93 USDT. sent_usdt не ставил — выплаты нет.",
     "calc": null,
     "sumSource": {
-      "source": "pp",
-      "ref": "ПП №5300 от 19.11.2026",
+      "source": "order",
+      "ref": "PAYMENT_ORDER DBA24112026-06 от 25.11.2026",
       "file": null,
       "date": null,
       "messageId": null
@@ -2860,6 +2860,19 @@
     "vdxRateSource": {
       "kind": "scream-order",
       "ref": "telegram:7206154434 склейка r68 (курс перенесён с источником, распоряжение владельца 14.11.2026)"
+    },
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Proforma-RECHNUNG DBA24112026/06 от 24.11.2026",
+      "file": "Rechnung_Proforma_DBA_Euro_Plants_GmbH_12_000_Q8_Group_Limited_Qonto.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false,
+    "costSource": "operator",
+    "costSourceRef": {
+      "ref": "PQ18/XFee формула + FX Q8 26.11.2026 1 USD = 0,907869607662 EUR",
+      "date": "2026-11-26"
     }
   },
   {
@@ -4107,5 +4120,33 @@
       "messageId": null
     },
     "rowId": "mol-000353"
+  },
+  {
+    "row": 103,
+    "date": "2026-11-26",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Симтек Групп (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "проформа АА-004-162224 от 24.11.2026 (ПП №1313, 1 281 204,75 ₽)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000354"
   }
 ]
