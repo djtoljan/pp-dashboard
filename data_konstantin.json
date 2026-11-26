@@ -1423,7 +1423,7 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 247803.45,
     "sent_usdt": 247274.89,
     "notes": "📄 20.11.2026 (📨 Константин Просто Группа, файл «Melitta_224_500_00_EUR_3975780.xlsx») — заявка на платёж **224 500,00 EUR**: бенефициар Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany), банк Deutsche Bank AG (Minden, Germany), SWIFT DEUTDE3B490, IBAN DE03490700280291371300; назначение «Payment for proforma invoice 3975780 dd 05.11.2026, customer N 26236». Компания-плательщик в заявке не названа; customer N 26236 совпадает с платежами ATB Service GmbH (r10) — вероятно, платит ATB. Цвет 🔴 до подтверждения компании. | 📄 20.11.2026 (📨 Константин Просто Группа, файл «3975780_Melitta_Europa.pdf») — PROFORMA INVOICE № 3975780 от 05.11.2026 (Melitta Europa GmbH & Co. KG): Kundennr./Payer 26236, доставка TECHNORIUM LLC (Chughureti district, Chubinashvili str. 63, 0144 Tbilisi), FCA Minden, Truck 9 (Order NOV); позиции — кофемашины Melitta: CAFFEO BARISTA T SMART SILVER EU (F83/0-101) 40 шт × 427,00 EUR, MELITTA EPOUR BLACK-CHROME 113,05 и др. Итог по заявке — 224 500,00 EUR. Источник к строке r40. | 📄 20.11.2026 (📨 Ордера и Расчёты, «Payment from ATB ‼ разбивка», файл «INV 224 500,00 EUR.pdf») — ОРДЕР: плательщик **ATB** (ATB Service GmbH); бенефициар Melitta Europa GmbH & Co. KG (Ringstr. 99, 32427 Minden, Germany), банк Deutsche Bank AG (Minden), SWIFT DEUTDE3B490, счёт DE03490700280291371300; сумма **224 500,00 EUR**; назначение «Payment for proforma invoice 3975780 dd 05.11.2026, customer N 26236»; комиссия OUR; пометка «разбивка». Основание — Proforma Invoice № 3975780 от 05.11.2026. | Расчёт владельца 20.11.2026 16:02 (📨 Ордера и Расчеты): XE EUR/USD 1,09831; 34 236,67 + 247 274,89 = 281 512 USDT; кошелёк TY9LtPfFyuZXmFMzUbq63LpmVkZLPG7ktu.  | 🧮 2026-11-20 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. |  | 📄 21.11.2026 — получено подвешенное ПП Commerzbank № CCB.325.UE.POS00065910 на 224 500,00 EUR. Плательщик ATB Service GmbH, получатель Melitta Europa GmbH & Co. KG. Документ не подтверждает окончательное исполнение платежа. Статус сделки 🟡, ожидается исполненное ПП",
     "calc": null,
@@ -1452,6 +1452,16 @@
         "date": "20.11.2026",
         "direction": "OUT",
         "amount": 247275.33,
+        "rowId": "kon-000135"
+      },
+      {
+        "entryId": "IN_247803.45_20.11.2026_1795689552697",
+        "ref": "7b7f2df162a9e0b3c3ec1bd9a9f7ec4cdd75fed3ba1b2b0f6d1dbd47f2f6cf6b",
+        "txid": "7b7f2df162a9e0b3c3ec1bd9a9f7ec4cdd75fed3ba1b2b0f6d1dbd47f2f6cf6b",
+        "bobrAlertId": null,
+        "date": "20.11.2026",
+        "direction": "IN",
+        "amount": 247803.45,
         "rowId": "kon-000135"
       }
     ]

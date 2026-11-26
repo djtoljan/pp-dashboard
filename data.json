@@ -3470,7 +3470,7 @@
       "company": null,
       "color": "FFFFFF00",
       "clientName": "ИП Мазуренко",
-      "costFormula": "(15 000,00 × 1,0025 + 80) × 1,09929 = 16 619",
+      "costFormula": "(15 000,00 × 1,0025 + 80) × 1,09929 = 16 618,47",
       "extra": null,
       "rubles_received": "1355407.50 / 21686.52",
       "statementRef": null,
