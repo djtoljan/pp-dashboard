@@ -4069,7 +4069,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 26.11.2026 (📨 Молодежь · t15009 · 139 000,45 EUR Акварайм, файл «PAYMENT_ORDER 26.11.2026 139 000.45 EUR.pdf») — PAYMENT ORDER от 26.11.2026: Amount 139 000,45 EUR, бенефициар SMARTSISTEMS PTE. LTD. (16 Raffles Quay #33-03 Hong Leong Building, Singapore 048581), банк Citibank, N.A., Hong Kong Branch (49th Floor, Champion Tower, 3 Garden Road, Central, HKG), счёт 006-391-390205005, SWIFT CITIHKHXXXX; назначение «invoice No SM261125-01». Компания-плательщик не названа → строка 🔴; инвойс SM261125-01 в таблицах ранее не встречался (r7 — другой SMARTSISTEMS на 67 544,15 EUR).",
+    "notes": "📄 26.11.2026 (📨 Молодежь · t15009 · 139 000,45 EUR Акварайм, файл «PAYMENT_ORDER 26.11.2026 139 000.45 EUR.pdf») — PAYMENT ORDER от 26.11.2026: Amount 139 000,45 EUR, бенефициар SMARTSISTEMS PTE. LTD. (16 Raffles Quay #33-03 Hong Leong Building, Singapore 048581), банк Citibank, N.A., Hong Kong Branch (49th Floor, Champion Tower, 3 Garden Road, Central, HKG), счёт 006-391-390205005, SWIFT CITIHKHXXXX; назначение «invoice No SM261125-01». Компания-плательщик не названа → строка 🔴; инвойс SM261125-01 в таблицах ранее не встречался (r7 — другой SMARTSISTEMS на 67 544,15 EUR). | 📄 26.11.2026 (📨 Молодежь · t15009 · 139 000,45 EUR Акварайм, файл «inv SM261125-01 - Smart - BS - 139 000.45 EUR.pdf») — PROFORMA INVOICE № SM261125-01 от 25.11.2026: Sender Z SOURCE LIMITED (RM 509, 5/F The Cloud, 111 Tung Chau Street, Tai Kok Tsui, KL, Hong Kong) → Recipient SMARTSISTEMS PTE. LTD. (16 Raffles Quay #33-03 Hong Leong Building, Singapore 048581; UEN 201828649R): Semi-Assembled STRO Skid Parts, производитель Xiamen Jiarong Technology Corp., Ltd — 1 шт × 139 000,45 EUR = 139 000,45 EUR. Реквизиты: Citibank, N.A., Hong Kong Branch (49th Floor, Champion Tower, 3 Garden Road, Central), счёт 006-391-390205005, SWIFT CITIHKHX, bank code 006, branch 391. Совпадает с payment order на 139 000,45 EUR — та же сделка.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -4079,5 +4079,33 @@
       "messageId": null
     },
     "rowId": "mol-000352"
+  },
+  {
+    "row": 102,
+    "date": "2026-11-26",
+    "sum": 100135,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Акварайм (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "Payment order 26.11.2026, invoice SM261126-01",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000353"
   }
 ]

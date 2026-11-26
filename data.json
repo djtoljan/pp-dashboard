@@ -4862,7 +4862,7 @@
       "exchange_to": null,
       "vdx_rate": null,
       "received_usdt": null,
-      "sent_usdt": null,
+      "sent_usdt": 13285.4,
       "notes": "📄 26.11.2026 (📨 Ордера и Расчеты !, «Payment from ATB❗️», файл «INV 11 998,48 EUR.pdf») — ОРДЕР НА ПЛАТЁЖ от ATB: бенефициар ERS Polska Sp.z.o.o (ul. LUDWIKA ZAMENHOFA, nr 29, BIAŁYSTOK, POLSKA; NIP 5423450204), банк PKO BANK POLSKI S.A. (ul. Puławska 15, Warszawa), SWIFT BPKOPLPW, счёт PL57 1020 1332 0000 1202 1394 8932 (EUR), payment details «INV.ERS261116/1 dd 16.11.26», сумма 11 998,48 EUR, комиссия OUR. Вложенный Proforma-Invoice № ERS261116/1 от 16.11.2026 (ERS Polska → покупатель): Porcelanosa 100355032 COLORADO BONE L 556,0000 MQ × 21,58 € = 11 998,48 €, VAT 0%, total gross 11 998,48 EUR, payment term 30 / document receipt. ⚠️ Поле Buyer в инвойсе пустое, клиент по ордеру не определён — строка в Main без клиента, уточнить принадлежность. | 💱 26.11.2026 (📨 Ордера и Расчеты, 14:14) — XE.com: 1 EUR = 1,09724 USD (1 USD = 0,91138 EUR); (11 998,48 × 1,0025 + 80) × 1,09724 = 13 285,90 USDT. В сводном заказе на выплату 113 405,53 + 27 581,07 + 13 285,90 = 154 272 USDT, кошелёк TXout6kcdWqGMbxTu4j5gKvv3mYfLBpgjz. sent_usdt не ставил — выплаты в леджере нет.",
       "calc": null,
       "sumSource": {
@@ -4882,11 +4882,23 @@
       },
       "companyProvisional": false,
       "companyVerified": false,
-      "costSource": "operator",
+      "costSource": "payout",
       "costSourceRef": {
         "ref": "Ордера и Расчеты 26.11.2026 14:14: XE EUR/USD 1,09724",
         "date": "2026-11-26"
-      }
+      },
+      "payment_facts": [
+        {
+          "entryId": "OUT_154272_26.11.2026_1795693154572",
+          "ref": "d66f7903d644cf86265d87b3939fd2cb117b3667ee6953ed10c9071277b763bd",
+          "txid": "d66f7903d644cf86265d87b3939fd2cb117b3667ee6953ed10c9071277b763bd",
+          "bobrAlertId": null,
+          "date": "26.11.2026",
+          "direction": "OUT",
+          "amount": 13285.4,
+          "rowId": "main-000617"
+        }
+      ]
     }
   ]
 }
