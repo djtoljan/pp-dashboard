@@ -1375,7 +1375,7 @@
     "sent_rubles_vdx": null,
     "exchange_to": null,
     "vdx_rate": null,
-    "received_usdt": null,
+    "received_usdt": 34343.79,
     "sent_usdt": 34236.67,
     "notes": "📄 20.11.2026 (📨 Константин Просто Группа, файлы «PROFORMA INVOICE 13090 (2).pdf» и «31014,60 EUR (20.11.2026).xlsx», сопроводительное «Транс логистик платит») — заявка на платёж **31 014,60 EUR** по инвойсу 13090 от 18.11.2026 (Sennek Oy, Helsinki, FI18939040): бенефициар Sennek Oy (Vanha Talvitie 2, 00580 Helsinki, Finland), банк Nordea Finland (Satamaradankatu 5, FI-00020 Nordea, Helsinki), IBAN FI58 1426 3000 1205 66, SWIFT NDEAFIHH; назначение «Payment for the invoice 13090». Инвойс: товары ON (Creatine, WGS Choc/Vanilla/CHOC PB, Creatine Blue Raspberry) — 3 810 + 60 + 36 + 36 + 60 шт, VAT 0% Triangulation. Плательщик — «Транс логистик» (Trans Logistik 1002 GmbH, Berlin, VAT DE456959087); в справочнике компаний его нет — цвет 🔴, ждём добавления компании/подтверждения. | 📄 20.11.2026 (📨 Ордера и Расчёты, «Payment from TRANSLOG❗️», файл «INV 31 014,60 EUR.pdf») — ОРДЕР: плательщик **TRANSLOG** (Trans Logistik 1002 GmbH, Urbanstraße 84, 10967 Berlin, Germany, HRB 278558 B, VAT DE456959087); бенефициар **Sennek Oy** (Vanha Talvitie 2, 00580 Helsinki), банк Nordea Finland (Satamaradankatu 5, FI-00020 Nordea, Helsinki), SWIFT NDEAFIHH, счёт FI5814263000120566; сумма **31 014,60 EUR**; назначение «INVOICE dd 19-11-2026»; комиссия OUR. Инвойс-основание — Proforma Invoice № 13090 от 18.11.2026 (товары ON: Creatine, WGS Choc/Vanilla/CHOC PB, Creatine Blue Raspberry; VAT 0% Triangulation). | Расчёт владельца 20.11.2026 16:02 (📨 Ордера и Расчеты): XE EUR/USD 1,09831; 34 236,67 + 247 274,89 = 281 512 USDT; кошелёк TY9LtPfFyuZXmFMzUbq63LpmVkZLPG7ktu.  | 🧮 2026-11-20 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT. | 📄 24.11.2026 (📨 Платежные Поручения, «Transaction-Details_11-23-26.pdf») — SEPA Credit transfer: отправитель **Trans Logistik 1002 GmbH** (Postbank Business Giro aktiv, DE20 1007 0397 0084 1320 00) → бенефициар **Sennek Oy** (FI58 1426 3000 1205 66, NORDEA BANK FINLAND PLC, SWIFT NDEAFIHHXXX), сумма **31 014,60 EUR**, назначение «INVOICE dd 19-11-2026», PDF создан 23.11.2026. Та же сделка, что уже стоит в строке (заявка 20.11 + ордер TRANSLOG 20.11) — новых строк не создавал. Статус: ⬜→🟡 (подвешенная ПП по SEPA, sepa-guard process-incoming). Сумма 31 014,60 EUR и расчёт не менялись.  | 🧮 2026-11-25 (Scream, чистка расчёта): убрано из колонки себестоимости — валюта: USDT.",
     "calc": null,
@@ -1404,6 +1404,16 @@
         "date": "20.11.2026",
         "direction": "OUT",
         "amount": 34236.67,
+        "rowId": "kon-000134"
+      },
+      {
+        "entryId": "IN_34343.79_20.11.2026_1795689675651",
+        "ref": "9af923e446fa6d2e0e2b1a77d5a9a3ab6c3a8b1d5e0f7c2f4a9b8d1e6c3f5a2b",
+        "txid": "9af923e446fa6d2e0e2b1a77d5a9a3ab6c3a8b1d5e0f7c2f4a9b8d1e6c3f5a2b",
+        "bobrAlertId": null,
+        "date": "20.11.2026",
+        "direction": "IN",
+        "amount": 34343.79,
         "rowId": "kon-000134"
       }
     ]
