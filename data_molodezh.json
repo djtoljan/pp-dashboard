@@ -3586,7 +3586,7 @@
     "sum": 227295.9,
     "currency": "EUR",
     "company": null,
-    "color": "FFFF0000",
+    "color": "FFFFFFFF",
     "clientName": "ИП Зольников (Молодёжь)",
     "costFormula": "JP Morgan Q8-116: 227 295,00 ÷ 0,903762 = 251 498,74 + 50,00 ÷ 0,9965 = 50,18 = 251 548,92",
     "extra": null,

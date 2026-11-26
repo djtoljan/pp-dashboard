@@ -1661,7 +1661,7 @@
   {
     "row": 44,
     "date": "2026-11-26",
-    "sum": 11068.2,
+    "sum": 25000,
     "currency": "EUR",
     "company": "ATB",
     "color": "FFFFFFFF",
@@ -1675,7 +1675,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": "📄 26.11.2026 (📨 Константин Просто Группа, «Платит ATB», файл «Invoice 0000070207 - Brutal LLC HL - ATB Service GmbH.pdf») — INVOICE № 0000070207 от 20.07.2026: Buyer ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, VAT DE463202384); продавец — болгарская компания (VAT BG202237441, 70 B Ivan Ivanov Blvd, 1303 Sofia; United Bulgarian Bank, IBAN BG35UBBS80021454631610; responsible V. Radivoev; название в PDF читается неразборчиво). Товар: HAYA LABS (магний, холин, инозитол, R-ALA, таурин, Omega-3, цинк) — 9 позиций, сумма позиций 11 068,20 EUR, VAT 0, payment due 20.07.2026. В PDF строка «Invoice value before discount» читается как 71068.20 — это OCR, сумма позиций и Total = 11 068,20 EUR. Оплата от ATB, клиент — Константин (Просто группа).",
+    "notes": "📄 26.11.2026 (📨 Константин Просто Группа, «Платит ATB», файл «Invoice 0000070207 - Brutal LLC HL - ATB Service GmbH.pdf») — INVOICE № 0000070207 от 20.07.2026: Buyer ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, VAT DE463202384); продавец — болгарская компания (VAT BG202237441, 70 B Ivan Ivanov Blvd, 1303 Sofia; United Bulgarian Bank, IBAN BG35UBBS80021454631610; responsible V. Radivoev; название в PDF читается неразборчиво). Товар: HAYA LABS (магний, холин, инозитол, R-ALA, таурин, Omega-3, цинк) — 9 позиций, сумма позиций 11 068,20 EUR, VAT 0, payment due 20.07.2026. В PDF строка «Invoice value before discount» читается как 71068.20 — это OCR, сумма позиций и Total = 11 068,20 EUR. Оплата от ATB, клиент — Константин (Просто группа). | 📄 26.11.2026 (📨 Константин Просто Группа, файл «25000 EUR (26.11.2026).xlsx») — ЗАЯВКА на платёж 25 000 EUR: бенефициар Nutracorp LTD (70 B, Ivan Ivanov Blvd., 1303 Sofia, Bulgaria), UBB, IBAN BG37UBBS80021089375940, SWIFT UBBSBGSF; назначение «Invoice № 0000070207 и Invoice № 0000070209». Сумма заявки 25 000 EUR — частичная против суммы двух инвойсов 33 902,00 EUR (11 068,20 + 22 833,80); разнесение 25 000 между строками требует указания. | r45: 📄 26.11.2026 (📨 Константин Просто Группа, файл «Invoice 0000070209 - Brutal LLC EB - ATB Service GmbH.pdf») — INVOICE № 0000070209 от 20.07.2026: Seller Nutracorp LTD (70 B Ivan Ivanov Blvd, 1303 Sofia, Bulgaria; VAT BG202237441; United Bulgarian Bank, IBAN BG35UBBS80021454631610; responsible V. Radivoev) → Buyer ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, VAT DE463202384). Товар EVERBUILD (19 позиций: Micellar Casein Build, Mass Build Gainer, Cryo Cell BCAA 8:1:1, 100% Beef Protein Isolate, Ultra Premium Whey Protein Build), итого 22 833,80 EUR, VAT 0, payment due 20.07.2026. Оплата от ATB, клиент — Константин (Просто группа). | 📄 26.11.2026 (📨 Константин Просто Группа, файл «25000 EUR (26.11.2026).xlsx») — ЗАЯВКА на платёж 25 000 EUR: бенефициар Nutracorp LTD (70 B, Ivan Ivanov Blvd., 1303 Sofia, Bulgaria), UBB, IBAN BG37UBBS80021089375940, SWIFT UBBSBGSF; назначение «Invoice № 0000070207 и Invoice № 0000070209». Сумма заявки 25 000 EUR — частичная против суммы двух инвойсов 33 902,00 EUR (11 068,20 + 22 833,80); разнесение 25 000 между строками требует указания. | 🔗 2026-11-26 (Scream: «Scream: это одна заявка на 25 000 EUR (инвойсы 0000070207 + 0000070209)») — строки 45 объединены с этой: sum = 25000 EUR; rubles_received = null; sent_rubles_vdx = null; цвет = ⬜ (row 44 (выжившая), понижение запрещено). Доказательства прежних строк: r45 (⬜): 📄 26.11.2026 (📨 Константин Просто Группа, файл «Invoice 0000070209 - Brutal LLC EB - ATB Service GmbH.pdf») — INVOICE № 0000070209 от 20.07.2026: Seller Nutracorp LTD (70 B Ivan Ivanov Blvd, 1303 Sofia, Bulgaria; VAT BG202237441; United Bulgarian Bank, IBAN BG35UBBS80021454631610; responsible V. Radivoev) → Buyer ATB Service GmbH (Nonnendammallee 22, 13599 Berlin, VAT DE463202384). Товар EVERBUI. Полные notes прежних строк — в Konstantin.removed-rows_kon-000146-kon-000147_2026-11-26.json.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
@@ -1690,42 +1690,6 @@
       "date": null,
       "ref": "Invoice 0000070207 от 20.07.2026",
       "file": "Invoice 0000070207 - Brutal LLC HL - ATB Service GmbH.pdf"
-    },
-    "companyProvisional": true,
-    "companyVerified": false
-  },
-  {
-    "row": 45,
-    "date": "2026-11-26",
-    "sum": 22833.8,
-    "currency": "EUR",
-    "company": "ATB",
-    "color": "FFFFFFFF",
-    "clientName": "Константин (Просто группа)",
-    "costFormula": null,
-    "extra": null,
-    "rubles_received": null,
-    "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
-    "sent_usdt": null,
-    "notes": null,
-    "calc": null,
-    "sumSource": {
-      "source": "invoice",
-      "ref": "Invoice 0000070209 от 20.07.2026",
-      "file": "Invoice 0000070209 - Brutal LLC EB - ATB Service GmbH.pdf",
-      "date": null,
-      "messageId": null
-    },
-    "rowId": "kon-000147",
-    "companySource": {
-      "source": "invoice",
-      "date": null,
-      "ref": "Invoice 0000070209 от 20.07.2026",
-      "file": "Invoice 0000070209 - Brutal LLC EB - ATB Service GmbH.pdf"
     },
     "companyProvisional": true,
     "companyVerified": false
