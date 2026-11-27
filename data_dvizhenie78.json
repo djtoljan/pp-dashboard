@@ -599,5 +599,33 @@
     },
     "rowId": "d78-000072",
     "pp_on_exchanger": "740"
+  },
+  {
+    "row": 16,
+    "date": "2026-11-27",
+    "sum": 46720,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": null,
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "Application for transfer 46 720.docx",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "d78-000074"
   }
 ]
