@@ -3838,7 +3838,7 @@
     "company": "ATB",
     "color": "FFFFFFFF",
     "clientName": "Фри Лайнс Компани (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "39780 * 1.0025 + 80 = 39959.45; 39959.45 * 1.09757 = 43858.29 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
