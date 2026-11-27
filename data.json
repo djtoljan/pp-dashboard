@@ -4795,6 +4795,34 @@
       },
       "rowId": "main-000619",
       "pp_on_exchanger": "227"
+    },
+    {
+      "row": 127,
+      "date": "2026-11-27",
+      "sum": 12160.5,
+      "currency": "USD",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "order",
+        "ref": "Форма реквизитов 73812.docx",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000620"
     }
   ]
 }
