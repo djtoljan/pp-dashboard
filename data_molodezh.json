@@ -4363,15 +4363,17 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": null,
-    "exchange_to": null,
-    "vdx_rate": null,
-    "received_usdt": null,
+    "sent_rubles_vdx": "998438.32 / 24155.08",
+    "exchange_to": "VDX",
+    "vdx_rate": "82.325 / 82.325",
+    "received_usdt": "12115.88 / 286.19",
     "sent_usdt": null,
     "notes": null,
     "calc": null,
     "sumSource": null,
-    "rowId": "mol-000360"
+    "rowId": "mol-000360",
+    "pp_on_exchanger": "39 / 40",
+    "vdxRateSource": null
   },
   {
     "row": 110,
