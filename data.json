@@ -4851,6 +4851,42 @@
         "messageId": null
       },
       "rowId": "main-000621"
+    },
+    {
+      "row": 129,
+      "date": "2026-11-27",
+      "sum": 80000,
+      "currency": "EUR",
+      "company": "PQ18",
+      "color": "FFFFFFFF",
+      "clientName": "ВТС",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "SODK20958 - PFI (002).pdf",
+        "file": "SODK20958 - PFI (002).pdf",
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000622",
+      "companySource": {
+        "source": "invoice",
+        "date": null,
+        "ref": "SODK20958",
+        "file": "SODK20958 - PFI (002).pdf"
+      },
+      "companyProvisional": true,
+      "companyVerified": false
     }
   ]
 }
