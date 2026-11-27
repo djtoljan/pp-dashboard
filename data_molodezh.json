@@ -4291,8 +4291,8 @@
     "date": "2026-11-27",
     "sum": 170000,
     "currency": "CNY",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
     "clientName": "ЕВРАЗИЯ ЛОГИСТИКС",
     "costFormula": null,
     "extra": "📄 27.11.2026 (📨 Молодежь · t15173 · 170 000 CNY Евразия Логистика, файл «payment order 170 000 cny.docx») — ПЛАТЁЖНЫЙ ОРДЕР (PAYMENT ORDER) DATE: 27/11/2026, сумма 170 000,00 CNY; бенефициар SHANDONG CHUNDA CEREALS & OILS FOODSTUFF CO., LTD (Room 101, 1st Floor, Building 4, No.000137, Youjiazhuangzi Village, Shizilu Street, Junan County, Linyi City, Shandong Province, China); банк AGRICULTURAL BANK OF CHINA, LINYI BRANCH (JINAN, SHANDONG, 250000, P.R. CHINA), счёт 15881101040041287, SWIFT ABOCCNBJ150; назначение «payment inv PR0911 dd 11.09.2026». Компания-плательщик не названа — 🔴.",
@@ -4303,7 +4303,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 27.11.2026 (📨 Молодежь · t15173 · 170 000 CNY Евразия Логистика, файл «payment order 170 000 cny.docx») — ПЛАТЁЖНЫЙ ОРДЕР (PAYMENT ORDER) DATE: 27/11/2026, сумма 170 000,00 CNY; бенефициар SHANDONG CHUNDA CEREALS & OILS FOODSTUFF CO., LTD (Room 101, 1st Floor, Building 4, No.000137, Youjiazhuangzi Village, Shizilu Street, Junan County, Linyi City, Shandong Province, China); банк AGRICULTURAL BANK OF CHINA, LINYI BRANCH (JINAN, SHANDONG, 250000, P.R. CHINA), счёт 15881101040041287, SWIFT ABOCCNBJ150; назначение «payment inv PR0911 dd 11.09.2026». Компания-плательщик не названа — 🔴. | 📄 27.11.2026 (📨 Молодежь · t15173 · файл «64_PRIMBER2611-1_invoice_updated (1).pdf») — КОММЕРЧЕСКИЙ ИНВОЙС Inv. No: PR0911 от 11/09/2026: продавец SHANDONG CHUNDA CEREALS & OILS FOODSTUFF CO., LTD (Room 101, 1st Floor, Building 4, No.000137, Youjiazhuangzi Village, Shizilu Street, Junan County, Linyi, Shandong); Bill To — PQ18 Limited (RM 1710, 17/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Hong Kong; счёт 79807119597, DBS Bank (Hong Kong) Limited, SWIFT DHBKHKHH). Товар: BLANCHED PEANUT KERNEL 25/29 — 774 коробки, 19 350 кг, 774 мешка, цена 10,80 CNY/кг; ИТОГО 170 000,00 CNY. Страна происхождения — Китай, производитель SHANDONG CHUNDA. Бенефициар и банк совпадают с платёжным ордером (AGRICULTURAL BANK OF CHINA, LINYI BRANCH, ABOCCNBJ150, счёт 15881101040041287). Компания-плательщик по инвойсу — PQ18 Limited.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -4312,6 +4312,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000358"
+    "rowId": "mol-000358",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "PR0911 от 11.09.2026 (Bill To PQ18 Limited)",
+      "file": null
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
