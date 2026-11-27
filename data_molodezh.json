@@ -4339,7 +4339,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 27.11.2026 (📨 Молодежь · t15143 · 10 878,00 USD МД Лайнс, файл «payment order 27.11.docx») — ПЛАТЁЖНЫЙ ОРДЕР (PAYMENT ORDER) DATE: 27/11/2026, сумма 10 878,00, валюта в документе указана **Euro** (хотя в сообщении было «USD» — расхождение валюты, к уточнению); способ оплаты: 100% остаток до отгрузки. Бенефициар GEOPRODUCTS LTD (Georgia, Tbilisi, Vake District, Giorgi Shavgulidze Street, N 7a, Apartment 13); банк JSC TBC Bank, Branch Head Office; IBAN GE30TB7402036120100005, SWIFT TBCBGE22; назначение «Payment under PROFORMA INVOICE MDLT_2311 DATE: 23.11.2026». Компания-плательщик не названа — 🔴. | 📄 27.11.2026 (📨 Молодежь · t15143 · файл «PROFORMA_INVOICE_MDLT_2311_EN_ровная_таблица.pdf») — ПРОФОРМА-ИНВОЙС MDLT_2311 от 23.11.2026: продавец GEOPRODUCTS LTD (Georgia, Tbilisi, Vake District, Giorgi Shavgulidze Street, N 7a, Apartment 13, ID 405332322). Позиции (Rubber goods, EXW Restignano, IT): I11 — 210 кг × 10,70 = 2 247,00; I30C — 210 кг × 9,60 = 2 016,00; S25 — 350 кг × 9,50 = 3 325,00; S30C — 350 кг × 9,40 = 3 290,00. ИТОГО 1 120 кг — **10 878,00 EUR** (прописью: Ten thousand eight hundred and seventy-eight eur 00 cents). Условия оплаты: 100% предоплата; отгрузка в течение 90 дней с даты проформы; при непоставке аванс возвращается продавцом не позднее 31.12.2026. Банк: JSC TBC Bank, Branch Head Office, SWIFT TBCBGE22, IBAN GE30TB7402036120100005. ⚠️ Валюта подтверждена документом — **EUR** (в сообщении было «USD»).",
     "calc": null,
     "sumSource": {
       "source": "order",
