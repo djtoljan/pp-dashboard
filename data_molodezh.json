@@ -3888,10 +3888,10 @@
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
-    "sent_rubles_vdx": 257884.65,
+    "sent_rubles_vdx": "234873.46 / 23011.19",
     "exchange_to": "VDX",
-    "vdx_rate": 82.5,
-    "received_usdt": 2844.1,
+    "vdx_rate": "82.5 / 82.325",
+    "received_usdt": "2844.1 / 279.24",
     "sent_usdt": null,
     "notes": "📄 26.11.2026 (📨 Молодежь · t14990 · 2 565,00 USD Смарт Агент, файл «162202.pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ №299 от 25.11.2026, проведено 25.11.2026: ООО «Смарт-Агент» (ИНН 5074093111, КПП 507401001, счёт 40702810320010015552, АО ЮниКредит Банк, БИК 044525545) → VDXSERVICES-FZCO (ИНН 9909710068, КПП 772887001, счёт 40807810000000015414, ПАО «Банк ПСБ», БИК 044525555), 234 873,46 ₽; назначение {VO11100} «(ATLFACTORY MAKINA EKIPMAN TICARET STI.) Contract «ATL/SA/ATM-EUR» dd 18.07.25 по PROF.INV. №АА-003-162202 dd 25.11.26 по аг.дог. №09-02-5/26 от 09.02.26. Без НДС». Сделка 2 565,00 USD по сообщению оператора. | 📄 26.11.2026 (📨 Молодежь · t14990 · 2 565,00 EUR Смарт Агент, файл «ПРОФОРМА_от_ЭМТЕЛ_Ноябрь_2026_PQ18_LIMITED_20112026.pdf») — PROFORMA № 11/26 от 20.11.2026 (EMTEL EMAYE TEL VE KABLO SANAYİ A.Ş, Yolcuzade 114.Sok. C:16 Blok No 32, Dudullu-Ümraniye / İstanbul, Turkey) → PQ18 LIMITED (RM 1710, 17/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Hong Kong): SENSOR S01.130.05.400/400 — 500 × 0,75 = 375,00 €; S01.150.05.300/300 — 300 × 0,75 = 225,00 €; SNM.155.DS.0520/0185/0185/0520 — 300 × 1,55 = 465,00 €; S01.140.05.300/300 — 100 × 0,75 = 75,00 €; S01.145.05.350/200/200/350 UL Approved — 300 × 2,75 = 825,00 €; MZ6.145.DS.0520/0185/0185/0520 — 500 × 1,20 = 600,00 €; TOTAL 2 565,00 EUR, EXW Istanbul, delivery 1 week, payment 100% in advance; VAKIFBANK A.Ş., SWIFT TVBATR2AXXX, IBAN (EUR) TR28 0001 5001 5804 8000 8455 86; offer valid 30.11.2026. Валюта строки исправлена на EUR (в сообщении было указано USD), компания PQ18 (по инвойсу). | 📄 26.11.2026 (📨 Молодежь · t14990 · 2 565,00 EUR Смарт Агент, файл «Платежное поручение 162202.docx») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ (заявка на платёж): 2 565,00 EUR, бенефициар EMTEL EMAYE TEL VE KABLO SANAYI A.S. (ORG. SAN. BÖL. DES SANAYI SITESI YOLCUZADE 114.SOK. C:16 BLOK NO 32 DUDULLU-ÜMRANIYE / İSTANBUL-TURKEY), банк VAKIFBANK A.Ş. (YUKAN DUDULLU MAH. NECIP FAZIL BULVAN №44/17/1 UMRANIYE/ISTAMBUL), IBAN TR280001500158048000845586, SWIFT TVBATR2AXXX; назначение «PAYMENT BY PROFORMA INVOICE NO. 11/26 DD 20.11.2026 FOR THERMAL SENSOR». Совпадает с проформой EMTEL №11/26 и строкой. | 📄 27.11.2026 (📨 Молодежь · t14990 · 2 565,00 EUR Смарт Агент, файл «162202..pdf») — ПЛАТЁЖНОЕ ПОРУЧЕНИЕ № 304 от 26.11.2026, проведено 26.11.2026 (АО ЮниКредит Банк, Москва, БИК 044525545): ООО «Смарт-Агент» (ИНН 5074093111, КПП 507401001, счёт 40702810320010015552) → VDXSERVICES-FZCO (ИНН 9909710068, КПП 772887001, ПАО «Банк ПСБ» г. Ярославль, БИК 044525555, счёт 40807810000000015414), сумма 23 011,19 ₽; назначение {VO11100} «(ATLFACTORY MAKINA EKIPMAN TICARET STI.) Contract ATL/SA/ATM-EUR dd 18.07.25 по PROF.INV. № АА-003-162202 dd 25.11.26 по аг.дог. № 09-02-5/26 от 09.02.26, без НДС». Вторая часть отправки по той же заделке 2 565,00 EUR (первая — ПП №299 на 234 873,46 ₽). Итого отправлено на VDX 257 884,65 ₽. | 📄 27.11.2026 (📨 переслано Scream, файл «2565.00.pdf») — BONBILL LIMITED Payment Certificate: Transaction ID O2126209684179386368645, Payment Time 2026-11-27 15:01:06, Payer PQ18 Limited → Payee EMTEL EMAYE TEL VE KABLO SANAYI A.S (TURKIYE VAKIFLAR BANKASI T.A.O., счёт TR280001500158048000845586), EUR 2 565.00, remarks «INVOICE1126DD20112026FORTHERMALSENSOR». Сертификат соответствует строке (2 565,00 EUR, EMTEL). XFee-проверка вернула NO_CHANGE (нужен разбор себестоимости), поэтому цвет пока не меняю. | ✅ 27.11.2026 — BONBILL-сертификат O2126209684179386368645 прошёл XFee-проверку, исполнение подтверждено: строка ⬜→🟢. Себестоимость не менялась (NO_CHANGE): 2 865,42 USDT по курсу 0,907341242127; sent_usdt остаётся пустым до выплаты в леджере.",
     "calc": null,
@@ -3903,7 +3903,7 @@
       "messageId": null
     },
     "rowId": "mol-000345",
-    "pp_on_exchanger": "299",
+    "pp_on_exchanger": "299 / 304",
     "companySource": {
       "source": "invoice",
       "date": null,
@@ -4350,5 +4350,27 @@
     },
     "rowId": "mol-000359",
     "pp_on_exchanger": "39 / 40"
+  },
+  {
+    "row": 109,
+    "date": "2026-11-27",
+    "sum": null,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFFFFFF",
+    "clientName": "МД Лайн (Молодёжь)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": null,
+    "rowId": "mol-000360"
   }
 ]
