@@ -4594,7 +4594,7 @@
       "sum": 15000,
       "currency": "EUR",
       "company": "ATB",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "ИП Мазуренко",
       "costFormula": "15000 * 1.0025 + 80 = 15117.50; 15117.50 * 1.09637 = 16574.37 USDT",
       "extra": null,
