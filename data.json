@@ -4813,7 +4813,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 27.11.2026 (📨 ВТС · t8404 · 12 160,50 USD / заявка 73812, файл «Форма реквизитов 73812.docx») — ПОРУЧЕНИЕ (форма реквизитов): 12 160,50 USD; получатель ZHONG SHENG TECHNOLOGY DEVELOPMENT CO., LIMITED (FLAT B01, 2/F, KIN TAK FUNG IND BUILDING, 174 WAI YIP STREET, KWUN TONG, HONG KONG); The Bank Of East Asia Limited, Hong Kong (10 Des Voeux Road, Central), SWIFT BEASHKHH, счёт 015-248-68-019188; назначение «COMMERCIAL INVOICE: 301N, date: 20/07/2026»; принципал по документу — ООО «НАРА» (ген. дир. Никульшин Н.М.). Сумма = сумма поручения (заявка 73812). Тот же поставщик ZHONG SHENG, что в строке 58 (инвойс 313N от 09.11.2026, 19 111,59 USD) — инвойсы разные, сделка отдельная. Компания-плательщик не названа — 🔴.",
       "calc": null,
       "sumSource": {
         "source": "order",
