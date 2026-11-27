@@ -4210,5 +4210,41 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 105,
+    "date": "2026-11-27",
+    "sum": 3300,
+    "currency": "USD",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
+    "clientName": "Вилог",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "invoice",
+      "ref": "3300 USD INVOICE Galaxy-Net Company Limited (1) (1).pdf",
+      "file": "3300 USD INVOICE Galaxy-Net Company Limited (1) (1).pdf",
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000356",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "Star261120",
+      "file": "3300 USD INVOICE Galaxy-Net Company Limited (1) (1).pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
