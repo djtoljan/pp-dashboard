@@ -4931,6 +4931,34 @@
         "messageId": null
       },
       "rowId": "main-000623"
+    },
+    {
+      "row": 131,
+      "date": "2026-11-27",
+      "sum": 1160386.08,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "ИП Осипенко В.П.",
+      "costFormula": null,
+      "extra": "📄 27.11.2026 (📨 Fininvest - ИП Осипенко В.П., файл «stonimpar_pf_2026-89.pdf») — ПРОФОРМА-ИНВОЙС Stonimpar, Unipessoal Lda (Rua Alves de Sá 22, 2725-028 Mem Martins, Португалия; VAT 515414859) № PF 2026/89 от 10.08.2026; покупатель ИП Осипенко В.П. (в документе — IP Osipenko, st. Glazunova 11, apt. 34, 236010 Калининград, Россия): контракт C187/18032026 от 18.03.2026, order P2026.066, срок оплаты 30 дней, due 09.09.2026; товар — мраморные плиты и слэбы Tribeça 30/40/60-990 мм, 6 позиций; условия Ex-Works Fátima, Португалия; VAT exempt (CIVA ст. 14). Итого 1 160 386,08 EUR. Банк: Banco BPI SA, PT50 0010 0000 5722 5150 0010 6, SWIFT BBPIPTPL. Компания-плательщик не названа — 🔴.",
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "invoice",
+        "ref": "PF 2026/89 от 10.08.2026",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000627"
     }
   ]
 }
