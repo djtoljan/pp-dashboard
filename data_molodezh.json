@@ -3875,7 +3875,7 @@
     "company": "PQ18",
     "color": "FFFFFFFF",
     "clientName": "Смарт-Агент (Молодёжь)",
-    "costFormula": null,
+    "costFormula": "2565 / 0.907341242127 (FX Q8 27.11.2026: 1 USD = 0.907341242127 EUR) = 2826.94 x 1.003 + 30 = 2865.42 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
