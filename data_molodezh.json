@@ -4180,10 +4180,10 @@
     "date": "2026-11-27",
     "sum": 4840,
     "currency": "USD",
-    "company": null,
-    "color": "FFFF0000",
+    "company": "PQ18",
+    "color": "FFFFFFFF",
     "clientName": "Вилог",
-    "costFormula": null,
+    "costFormula": "4 840,00 + 0,3% + 30 = 4 884,52 USDT",
     "extra": null,
     "rubles_received": null,
     "statementRef": null,
@@ -4192,7 +4192,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 27.11.2026 (📨 Молодежь · t15108 · 4 840 USD Welog, файл «PO_4840_USD_Beijing_Zhonglian_Yuanyang_Technology_Co_,_Ltd_.docx») — PO (платёжные реквизиты): 4 840,00 USD; получатель Beijing Zhonglian Yuanyang Technology Co., Ltd. (20/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong); банк CITIBANK N.A. HONG KONG BRANCH (Champion Tower, Three Garden Road, Central), SWIFT CITIHKHX / CITIHKHXXXX, счёт 3974000066307. Тот же поставщик, что в строке 66 (19.11.2026, 11 632 USD, проформа TPL20261026001) — новый заказ, отдельная сделка. Компания-плательщик не названа — 🔴. | 📄 27.11.2026 (📨 Молодежь · t15108 · 4 840 USD Welog, файл «4840_USD_INVOICE_Beijing_Zhonglian_Yuanyang_Technology_Co_,_Ltd.pdf») — PROFORMA INVOICE № TPL20261113001 от 13.11.2026, продавец Beijing Zhonglian Yuanyang Technology Co., Ltd., покупатель (Buyer) — PQ18 Limited: 85Y5864 Hard drive (used) 3 × 30,00 = 90,00; ULT3580-TD8 LTO Ultrium-8 tape drive для IBM TS3584 (used, 3 мес. гарантии) 1 × 4 570,00 = 4 570,00; AIR-CAP3702E-A-K9 Access point (new, AP V05) 2 × 90,00 = 180,00; ИТОГО USD 4 840,00. Реквизиты: Citibank N.A. Hong Kong Branch, SWIFT CITIHKHX, счёт 3974000066307, bank code 006, branch 391. Сумма совпадает со строкой; компания-плательщик по инвойсу PQ18 → 🔴→⬜.",
     "calc": null,
     "sumSource": {
       "source": "order",
@@ -4201,6 +4201,14 @@
       "date": null,
       "messageId": null
     },
-    "rowId": "mol-000355"
+    "rowId": "mol-000355",
+    "companySource": {
+      "source": "invoice",
+      "date": null,
+      "ref": "TPL20261113001",
+      "file": "4840_USD_INVOICE_Beijing_Zhonglian_Yuanyang_Technology_Co_,_Ltd.pdf"
+    },
+    "companyProvisional": true,
+    "companyVerified": false
   }
 ]
