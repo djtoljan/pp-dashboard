@@ -4675,7 +4675,7 @@
       "sum": 17468,
       "currency": "EUR",
       "company": "ATB",
-      "color": "FFFFFFFF",
+      "color": "FFFFFF00",
       "clientName": "Неско (ЭТБ)",
       "costFormula": "17468 * 1.0025 + 80 = 17591.67; 17591.67 * 1.09637 = 19286.98 USDT",
       "extra": null,
