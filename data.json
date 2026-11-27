@@ -4823,6 +4823,34 @@
         "messageId": null
       },
       "rowId": "main-000620"
+    },
+    {
+      "row": 128,
+      "date": "2026-11-27",
+      "sum": 11094,
+      "currency": "EUR",
+      "company": null,
+      "color": "FFFF0000",
+      "clientName": "Лукрум",
+      "costFormula": null,
+      "extra": null,
+      "rubles_received": null,
+      "statementRef": null,
+      "sent_rubles_vdx": null,
+      "exchange_to": null,
+      "vdx_rate": null,
+      "received_usdt": null,
+      "sent_usdt": null,
+      "notes": null,
+      "calc": null,
+      "sumSource": {
+        "source": "pp",
+        "ref": "Поручение Лукрум 4.pdf",
+        "file": null,
+        "date": null,
+        "messageId": null
+      },
+      "rowId": "main-000621"
     }
   ]
 }
