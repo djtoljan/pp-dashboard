@@ -4228,7 +4228,7 @@
     "vdx_rate": null,
     "received_usdt": null,
     "sent_usdt": null,
-    "notes": null,
+    "notes": "📄 27.11.2026 (📨 Молодежь · t15114 · 3 300 USD Welog, файл «3300 USD INVOICE Galaxy-Net Company Limited (1) (1).pdf») — INVOICE: продавец Galaxy-Net Company Limited (UNIT 2, 8/F, On Tin Centre, 1 Sheung Hei Street, San Po Kong, KL), PI NO. Star261120 от 20.11.2026, покупатель (Buyer) PQ18 Limited: LRAT-2000-KIT NEW original Network tester — 1 × 3 300,00 = 3 300,00 USD; Total USD 3 300. Банк: OCBC Bank (Hong Kong) Limited (161 Queen's Road, Central, HK), SWIFT WIHBHKHH / WIHBHKHHXXX, bank code 035, счёт 802182785831 (USD). Сумма совпадает со строкой; компания-плательщик по инвойсу PQ18 — ⬜. | 📄 27.11.2026 (📨 Молодежь · t15114 · 3 300 USD Welog, файл «PO 3300 USD Galaxy-Net Company Limited.docx») — PO (платёжные реквизиты к строке): получатель Galaxy-Net Company Limited (Unit 2, 8/F, On Tin Centre, 1 Sheung Hei Street, San Po Kong, KL); банк OCBC Bank (Hong Kong) Limited (161 Queen's Road, Central, HK), SWIFT WIHBHKHH / WIHBHKHHXXX, счёт 802182785831 (USD); сумма 3 300,00 USD. Совпадает с инвойсом Star261120 и строкой; новых строк не создаём.",
     "calc": null,
     "sumSource": {
       "source": "invoice",
