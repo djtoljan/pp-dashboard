@@ -4321,5 +4321,33 @@
     },
     "companyProvisional": true,
     "companyVerified": false
+  },
+  {
+    "row": 108,
+    "date": "2026-11-27",
+    "sum": 10878,
+    "currency": "EUR",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "МД Лайн (Молодёжь)",
+    "costFormula": null,
+    "extra": "📄 27.11.2026 (📨 Молодежь · t15143 · 10 878,00 USD МД Лайнс, файл «payment order 27.11.docx») — ПЛАТЁЖНЫЙ ОРДЕР (PAYMENT ORDER) DATE: 27/11/2026, сумма 10 878,00, валюта в документе указана **Euro** (хотя в сообщении было «USD» — расхождение валюты, к уточнению); способ оплаты: 100% остаток до отгрузки. Бенефициар GEOPRODUCTS LTD (Georgia, Tbilisi, Vake District, Giorgi Shavgulidze Street, N 7a, Apartment 13); банк JSC TBC Bank, Branch Head Office; IBAN GE30TB7402036120100005, SWIFT TBCBGE22; назначение «Payment under PROFORMA INVOICE MDLT_2311 DATE: 23.11.2026». Компания-плательщик не названа — 🔴.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "order",
+      "ref": "payment order 27.11.2026 (10 878,00 EUR, MDLT_2311)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "mol-000359"
   }
 ]
