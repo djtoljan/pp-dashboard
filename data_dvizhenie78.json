@@ -665,5 +665,27 @@
       "messageId": null
     },
     "rowId": "d78-000075"
+  },
+  {
+    "row": 18,
+    "date": "2026-11-27",
+    "sum": null,
+    "currency": "USD",
+    "company": null,
+    "color": "FFFF0000",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": "📄 27.11.2026 (📨 Движение 78 · t2089, файл «Application for transfer 14 484,00.docx») — ЗАЯВЛЕНИЕ О ПЕРЕВОДЕ (Application for transfer): валюта USD, сумма 14 484,00; бенефициар SW CHINA LIMITED (Room 502, Lianfa Commercial Center, 2-12 Queen's Road West, Sheung Wan, Hong Kong); банк OCBC Bank (Hong Kong) Limited (OCBC Centre, 161 Queen's Road Central, Hong Kong), SWIFT WIHBHKHH, счёт 802-403044-831; назначение «PAYMENT FOR FREIGHT INVOICE BL-42 Dt. 2026-11-09»; Remark: ООО «Балтик Лэнд». Сумма в строке НЕ проставлена: в Движении 78 сумма сделки — только по ордеру, заявление на перевод ордером не является. Ждём ордер на 14 484,00 USD.",
+    "rubles_received": null,
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": null,
+    "rowId": "d78-000076"
   }
 ]
