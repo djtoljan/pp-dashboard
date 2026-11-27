@@ -627,5 +627,33 @@
       "messageId": null
     },
     "rowId": "d78-000074"
+  },
+  {
+    "row": 17,
+    "date": "2026-11-27",
+    "sum": null,
+    "currency": null,
+    "company": null,
+    "color": "FF4FC3F7",
+    "clientName": "Балтик Лэнд (Движение 78)",
+    "costFormula": null,
+    "extra": null,
+    "rubles_received": "36318.80",
+    "statementRef": null,
+    "sent_rubles_vdx": null,
+    "exchange_to": null,
+    "vdx_rate": null,
+    "received_usdt": null,
+    "sent_usdt": null,
+    "notes": null,
+    "calc": null,
+    "sumSource": {
+      "source": "scream",
+      "ref": "Почтабанк выписка 27.11.2026 (ПП 3204)",
+      "file": null,
+      "date": null,
+      "messageId": null
+    },
+    "rowId": "d78-000075"
   }
 ]

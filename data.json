@@ -4869,7 +4869,7 @@
       "vdx_rate": null,
       "received_usdt": null,
       "sent_usdt": null,
-      "notes": null,
+      "notes": "📄 27.11.2026 (📨 ВТС · t8497 · 80 000,00 EUR / заявка 79164, файл «SODK20958 - PFI (002).pdf» — читал вижном) — PROFORMA INVOICE SODK20958 от 19.11.2026: продавец AGITO Medical A/S (Bejlerholm 3B, 9400 Nørresundby, Denmark; VAT DK33458738, EORI DK27770851; Danske Bank, IBAN DK8230004073048494, счёт 4073 4073048494, SWIFT DABADKKK); покупатель (Bill to / Ship to) PQ18 Limited (RM 1717, 17/F, The Cloud, 111 Tung Chau Street, Tai Kok Tsui, Hong Kong; ship-to Viktor Beseda). Позиция 005148: Siemens Go.All, P/N 11061630, S/N 117856, System YOM 2021, 64 среза, Tube YOM 2024, software VA40A, CT System, commodity code 90221200, страна DE, ECCN EAR99 — 1 шт × 80 000,00 EUR = 80 000,00 EUR, VAT 0% (EX00), PREPAYMENT, EXW. Условия: подписанный sales order и 20% предоплата в 14 дней, остаток до отгрузки; самовывоз AGITO Medical, Bejlerholm 3B, 9400 Nørresundby (ref SODK20958, сообщить за 5 дней). Сумма совпадает с заявкой 79164; компания-плательщик по инвойсу PQ18 — ⬜.",
       "calc": null,
       "sumSource": {
         "source": "invoice",
